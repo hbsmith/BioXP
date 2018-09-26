@@ -277,11 +277,16 @@ def write_kegg_link_mappings_jsons(keggdir):
     """
 
     kegg_types = ["pathway","enzyme","reaction","compound"]
-    for kegg_type in kegg_types:
+    for targetdb in kegg_types:
 
-        
+        for sourcedb in kegg_types:
 
-        link_raw = REST.kegg_link("reaction", "map00010")
+            if sourcedb != targetdb:
+
+                with open(keggdir+sourcedb+".json") as data_file:    
+                    source_dict = json.load(data_file)#[0]
+
+        link_raw = REST.kegg_link(target_db, "map00010")
 
 
 
@@ -301,7 +306,14 @@ def write_kegg_link_mappings_jsons(keggdir):
             json.dump(id_name_dict, outfile, indent=2)
 
 
-
+###### one-off functions #######
+def remove_path_from_pathway_entry_jsons(keggdir):
+    path = keggdir+'pathway/'
+    for filename in os.listdir(path):
+        if filename.startswith("path:"):
+            old_name = os.path.join(path, filename)
+            new_name = os.path.join(path, filename.split(":")[1])
+            os.rename(old_name,new_name)
             
 
 
@@ -311,9 +323,10 @@ def main():
 
     # write_kegg_id_name_jsons(keggdir)
     # write_kegg_entry_jsons(keggdir)
-    write_kegg_reaction_detail(keggdir)
+    # write_kegg_reaction_detail(keggdir)
     # test_parsing(keggdir)
 
+    
 if __name__ == '__main__':
     main()
 
