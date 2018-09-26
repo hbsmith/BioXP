@@ -275,12 +275,18 @@ def write_kegg_link_mappings_jsons(keggdir):
 
     :param keggdir: directory to write to 
     """
-    
-    if not os.path.exists(keggdir):
-        os.makedirs(keggdir)
 
     kegg_types = ["pathway","enzyme","reaction","compound"]
     for kegg_type in kegg_types:
+
+        
+
+        link_raw = REST.kegg_link("reaction", "map00010")
+
+
+
+
+
         
         ## Retreive all entry ids and names
         id_name_dict = dict()
