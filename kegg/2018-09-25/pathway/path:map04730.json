@@ -1,0 +1,203 @@
+[
+  {
+    "entry_id": "map04730",
+    "name": "Long-term depression",
+    "description": "Cerebellar long-term depression (LTD), thought to be a molecular and cellular basis for cerebellar learning, is a process involving a decrease in the synaptic strength between parallel fiber (PF) and Purkinje cells (PCs) induced by the conjunctive activation of PFs and climbing fiber (CF). Multiple signal transduction pathways have been shown to be involved in this process. Activation of PFs terminating on spines in dendritic branchlets leads to glutamate release and activation of both AMPA and mGluRs. Activation of CFs, which make multiple synaptic contacts on proximal dendrites, also via AMPA receptors, opens voltage-gated calcium channels (VGCCs) and causes a generalized influx of calcium. These cellular signals, generated from two different synaptic origins, trigger a cascade of events culminating in a phosphorylation-dependent, long-term reduction in AMPA receptor sensitivity at the PF-PC synapse. This may take place either through receptor internalization and/or through receptor desensitization.",
+    "classes": [
+      "Organismal Systems",
+      "Nervous system"
+    ],
+    "diseases": {
+      "H00063": "Spinocerebellar ataxia (SCA)",
+      "H00699": "Central core disease",
+      "H00749": "Episodic ataxias",
+      "H00775": "Hemiplegic migraine",
+      "H00833": "Neurodegeneration with brain iron accumulation",
+      "H01274": "Growth delay due to insulin-like growth factor I resistance",
+      "H01310": "Multi-minicore disease"
+    },
+    "dblinks": {
+      "GO": [
+        "0048169"
+      ]
+    },
+    "pathways": {
+      "map04730": "Long-term depression"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Ito M."
+        ],
+        "title": "The molecular organization of cerebellar long-term depression.",
+        "journal": "Nat Rev Neurosci 3:896-902 (2002) DOI:10.1038/nrn962",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12415297",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ito M."
+        ],
+        "title": "Cerebellar long-term depression: characterization, signal transduction, and functional roles.",
+        "journal": "Physiol Rev 81:1143-95 (2001) DOI:10.1152/physrev.2001.81.3.1143",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11427694",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Purves D",
+          "Augustine GJ (ed)."
+        ],
+        "title": "Neuroscience",
+        "journal": "Sunderland, Mass.:Sinauer Associates",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2004",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Daniel H",
+          "Levenes C",
+          "Crepel F."
+        ],
+        "title": "Cellular mechanisms of cerebellar LTD.",
+        "journal": "Trends Neurosci 21:401-7 (1998) DOI:10.1016/S0166-2236(98)01304-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9735948",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Levenes C",
+          "Daniel H",
+          "Crepel F."
+        ],
+        "title": "Long-term depression of synaptic transmission in the cerebellum: cellular and molecular mechanisms revisited.",
+        "journal": "Prog Neurobiol 55:79-91 (1998) DOI:10.1016/S0301-0082(97)00096-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9602501",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Metzger F",
+          "Kapfhammer JP."
+        ],
+        "title": "Protein kinase C: its role in activity-dependent Purkinje cell dendritic development and plasticity.",
+        "journal": "Cerebellum 2:206-14 (2003) DOI:10.1080/14734220310016150",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14509570",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04730"
+  }
+]

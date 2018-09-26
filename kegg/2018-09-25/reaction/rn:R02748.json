@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R02748",
+    "name": "Deoxyinosine:orthophosphate ribosyltransferase",
+    "definition": "Deoxyinosine + Orthophosphate <=> Hypoxanthine + 2-Deoxy-D-ribose 1-phosphate",
+    "equation": "C05512 + C00009 <=> C00262 + C00672",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.2.1",
+      "2.4.2.4"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03783": "purine-nucleoside phosphorylase [EC:2.4.2.1]",
+      "K03784": "purine-nucleoside phosphorylase [EC:2.4.2.1]"
+    }
+  }
+]
