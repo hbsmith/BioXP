@@ -302,6 +302,34 @@ def write_kegg_link_mappings_jsons(keggdir):
                 with open(outpath, 'w') as outfile:   
                     json.dump(d, outfile, indent=2)
 
+def write_reaction_edges_json(keggdir):
+
+    big_dict = dict()
+    big_dict["substrates"] = dict()
+    big_dict["products"] = dict()
+
+    indir = keggdir+'reaction/' ## Should be the detailed reactions
+    for path in glob.glob(indir+"*.json"):
+
+        with open(path) as data_file:    
+            data = json.load(data_file)[0]
+            
+            if data["glycans"] == False:
+                # print False
+                # print data["entry_id"]
+                # print data["substrates"]
+                big_dict["substrates"][data["entry_id"]] = data["substrates"]
+                big_dict["products"][data["entry_id"]] = data["products"]
+
+    # print "n_glycans ", n_glycans
+    # print "n_compounds ", n_compounds
+    # print "total ", n_compounds+n_glycans
+
+    outpath = keggdir+'reaction_edges.json'
+    with open(outpath, 'w') as outfile:
+            
+        json.dump(big_dict, outfile, indent=2)
+
 
 ###### one-off functions #######
 def remove_path_from_pathway_entry_jsons(keggdir):
@@ -322,18 +350,10 @@ def main():
     # write_kegg_entry_jsons(keggdir)
     # write_kegg_reaction_detail(keggdir)
     # test_parsing(keggdir)
-    write_kegg_link_mappings_jsons(keggdir)
+    # write_kegg_link_mappings_jsons(keggdir)
+    write_reaction_edges_json(keggdir)
 
 
 if __name__ == '__main__':
     main()
-
-
-## Get list of each of map, ec, rn, cpd ids and names
-
-## Loop through lists to retrieve detailed files
-
-## Add detailed information for reactions
-
-## Retrieve links between all combinations of map, ec, rn, cpd
 
