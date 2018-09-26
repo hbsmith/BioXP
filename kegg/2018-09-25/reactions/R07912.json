@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07912",
+    "name": "UDP-glucose:anthocyanin 3'-O-beta-D-glucosyltransferase",
+    "definition": "Delphin + UDP-glucose <=> Delphinidin 3,5,3'-triglucoside + UDP",
+    "equation": "C16312 + C00029 <=> C16314 + C00015",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.238"
+    ],
+    "pathways": {
+      "rn00942": "Anthocyanin biosynthesis"
+    },
+    "orthologs": {
+      "K12939": "anthocyanin 3'-O-beta-glucosyltransferase [EC:2.4.1.238]"
+    }
+  }
+]

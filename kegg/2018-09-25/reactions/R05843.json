@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R05843",
+    "name": "",
+    "definition": "Phenanthrene + NADH + H+ + Oxygen <=> (+)-cis-3,4-Dihydrophenanthrene-3,4-diol + NAD+",
+    "equation": "C11422 + C00004 + C00080 + C00007 <=> C04468 + C00003",
+    "comment": "phenathrene dioxygenase (EC1.13.11.-)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.-"
+    ],
+    "pathways": {
+      "rn00624": "Polycyclic aromatic hydrocarbon degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K11943": "PAH dioxygenase large subunit [EC:1.13.11.-]",
+      "K11944": "PAH dioxygenase small subunit [EC:1.13.11.-]"
+    }
+  }
+]

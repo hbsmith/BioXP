@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03923",
+    "name": "L-Cysteine:tRNA sulfurtransferase",
+    "definition": "L-Cysteine + 'Activated' tRNA <=> L-Serine + tRNA containing a thionucleotide",
+    "equation": "C00097 + C02342 <=> C00065 + C04161",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.1.4"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05230",
+    "name": "",
+    "definition": "Deacetylcephalosporin C + Carbamoyl phosphate <=> O-Carbamoyl-deacetylcephalosporin C + Orthophosphate",
+    "equation": "C03112 + C00169 <=> C06568 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.3.7"
+    ],
+    "pathways": {
+      "rn00311": "Penicillin and cephalosporin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K04128": "hydroxymethyl cephem carbamoyltransferase [EC:2.1.3.7]"
+    }
+  }
+]

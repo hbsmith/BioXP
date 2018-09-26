@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08767",
+    "name": "",
+    "definition": "p-Coumaroyl-CoA + CoA + NAD+ + H2O <=> 4-Hydroxybenzoyl-CoA + Acetyl-CoA + NADH + H+",
+    "equation": "C00223 + C00010 + C00003 + C00001 <=> C02949 + C00024 + C00004 + C00080",
+    "comment": "enzyme not yet characterized multi-step reaction possibly beta-oxidation (see R02685+R01778+R00391)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

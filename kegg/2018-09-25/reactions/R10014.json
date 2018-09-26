@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10014",
+    "name": "methylamine:[Co(I) corrinoid protein] Co-methyltransferase",
+    "definition": "Methylamine + Co(I) corrinoid protein <=> Ammonia + Methyl-Co(III) corrinoid protein",
+    "equation": "C00218 + C06021 <=> C00014 + C06020",
+    "comment": "subsequently R10000 specific for monomethylamine corrinoid protein [KO:K16177]",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.248"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K16176": "methylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.248]"
+    }
+  }
+]

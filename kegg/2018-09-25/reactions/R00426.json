@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R00426",
+    "name": "GTP diphosphohydrolase (diphosphate-forming); Guanosine 5'-triphosphate pyrophosphohydrolase",
+    "definition": "GTP + H2O <=> GMP + Diphosphate",
+    "equation": "C00044 + C00001 <=> C00144 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.8",
+      "3.6.1.-"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K01519": "inosine triphosphate pyrophosphatase [EC:3.6.1.-]",
+      "K02428": "XTP/dITP diphosphohydrolase [EC:3.6.1.66]",
+      "K04765": "nucleoside triphosphate diphosphatase [EC:3.6.1.9]"
+    }
+  }
+]

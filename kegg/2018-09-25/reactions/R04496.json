@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04496",
+    "name": "S-Adenosyl-L-methionine:protein-C-terminal-S-farnesyl-L-cysteine O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Protein C-terminal S-farnesyl-L-cysteine <=> S-Adenosyl-L-homocysteine + Protein C-terminal S-farnesyl-L-cysteine methyl ester",
+    "equation": "C00019 + C04506 <=> C00021 + C04748",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.100"
+    ],
+    "pathways": {
+      "rn00900": "Terpenoid backbone biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00587": "protein-S-isoprenylcysteine O-methyltransferase [EC:2.1.1.100]"
+    }
+  }
+]

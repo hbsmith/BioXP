@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07701",
+    "name": "",
+    "definition": "1,2-Anthracenediol + Oxygen <=> 4-(3-Hydroxy-2-naphthyl)-2-oxobut-3-enoic acid",
+    "equation": "C16204 + C00007 <=> C16210",
+    "comment": "anthracene-1,2-diol 1,2-dioxygenase meta-cleavage",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.-"
+    ],
+    "pathways": {
+      "rn00624": "Polycyclic aromatic hydrocarbon degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

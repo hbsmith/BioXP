@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09346",
+    "name": "",
+    "definition": "Rabelomycin <=> 11-Deoxylandomycinone",
+    "equation": "C12402 <=> C18682",
+    "comment": "bifunctional oxygenase-reductase, lndM2",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15930": "bifunctional oxygenase/reductase"
+    }
+  }
+]

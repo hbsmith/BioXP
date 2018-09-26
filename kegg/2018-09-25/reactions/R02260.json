@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02260",
+    "name": "(S)-lactaldehyde:NADP+ oxidoreductase",
+    "definition": "(S)-Lactaldehyde + NADP+ <=> Methylglyoxal + NADPH + H+",
+    "equation": "C00424 + C00006 <=> C00546 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.283",
+      "1.2.1.49"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism",
+      "rn00640": "Propanoate metabolism"
+    },
+    "orthologs": {
+      "K17741": "NADPH-dependent methylglyoxal reductase [EC:1.1.1.283]"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C06358",
+    "name": "Methyl cinnamate",
+    "names": [
+      "Methyl cinnamate",
+      "3-Phenyl-2-propenoic acid methyl"
+    ],
+    "formula": "C10H10O2",
+    "exact_mass": 162.0681,
+    "mol_weight": 162.1852,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04409"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.3.1.152"
+    ],
+    "dblinks": {
+      "CAS": [
+        "103-26-4"
+      ],
+      "PubChem": [
+        "8594"
+      ],
+      "ChEBI": [
+        "6857"
+      ],
+      "ChEMBL": [
+        "CHEMBL55060"
+      ],
+      "3DMET": [
+        "B00951"
+      ],
+      "NIKKAJI": [
+        "J2.848G"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    15.6800  -33.8100\n            2   C8x C    15.6800  -35.2100\n            3   C8x C    16.8924  -35.9100\n            4   C8x C    18.1049  -35.2100\n            5   C8y C    18.1049  -33.8100\n            6   C8x C    16.8924  -33.1100\n            7   C2b C    19.3424  -33.1100\n            8   C2b C    20.5549  -33.8100\n            9   C7a C    21.7673  -33.1100\n            10  O7a O    22.9797  -33.8100\n            11  O6a O    21.7673  -31.7100\n            12  C1a C    24.1773  -33.1185\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 1\n            11    9  11 2\n            12   10  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

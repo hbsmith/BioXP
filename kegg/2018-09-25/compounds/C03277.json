@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C03277",
+    "name": "Imidazol-5-yl-pyruvate",
+    "names": [
+      "Imidazol-5-yl-pyruvate",
+      "3-(Imidazol-5-yl)pyruvate",
+      "Imidazole pyruvate",
+      "Imidazole pyruvic acid"
+    ],
+    "formula": "C6H6N2O3",
+    "exact_mass": 154.0378,
+    "mol_weight": 154.1234,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01161",
+      "R04185",
+      "R04186",
+      "R04874",
+      "R04876"
+    ],
+    "pathways": {
+      "map00340": "Histidine metabolism"
+    },
+    "enzymes": [
+      "1.1.1.111",
+      "2.6.1.38"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6136"
+      ],
+      "ChEBI": [
+        "17406"
+      ],
+      "3DMET": [
+        "B00573"
+      ],
+      "NIKKAJI": [
+        "J467.750A"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    17.0324  -13.7200\n            2   C1b C    18.2449  -14.4200\n            3   C5a C    19.4573  -13.7200\n            4   C6a C    20.6697  -14.4200\n            5   O6a O    21.8822  -13.7200\n            6   O6a O    20.6697  -15.8199\n            7   O5a O    19.4573  -12.3200\n            8   C8x C    17.4990  -12.4082\n            9   N5x N    16.3871  -11.5540\n            10  C8x C    15.2311  -12.3476\n            11  N4x N    15.6286  -13.6922\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     4   6 2\n            6     3   7 2\n            7     1   8 2\n            8     8   9 1\n            9     9  10 2\n            10   10  11 1\n            11    1  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

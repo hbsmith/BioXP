@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C05727",
+    "name": "S-Substituted N-acetyl-L-cysteine",
+    "names": [
+      "S-Substituted N-acetyl-L-cysteine",
+      "Mercapturic acid",
+      "N-Acetyl-L-cysteine S-conjugate"
+    ],
+    "formula": "C5H8NO3SR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R04950",
+      "R10553",
+      "R10617"
+    ],
+    "pathways": {
+      "map00480": "Glutathione metabolism"
+    },
+    "enzymes": [
+      "2.3.1.80",
+      "3.5.1.14",
+      "3.5.1.114",
+      "3.5.1.115"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8030"
+      ],
+      "ChEBI": [
+        "47911"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   N1b N    38.7007  -18.3671\n            2   C1c C    39.8929  -17.6658\n            3   C6a C    41.1551  -18.3671\n            4   O6a O    42.3471  -17.6658\n            5   C1b C    39.8929  -16.2634\n            6   S2a S    41.0849  -15.5621\n            7   O6a O    41.1551  -19.7695\n            8   R   R    41.0849  -14.1601\n            9   C5a C    37.4782  -17.6746\n            10  C1a C    36.2664  -18.3878\n            11  O5a O    37.4671  -16.2401\nBOND        10\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     2   5 1 #Up\n            5     5   6 1\n            6     3   7 2\n            7     6   8 1\n            8     1   9 1\n            9     9  10 1\n            10    9  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

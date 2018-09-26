@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R02466",
+    "name": "3-sulfino-L-alanine carboxy-lyase",
+    "definition": "3-Sulfino-L-alanine <=> Hypotaurine + CO2",
+    "equation": "C00606 <=> C00519 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.15",
+      "4.1.1.29"
+    ],
+    "pathways": {
+      "rn00430": "Taurine and hypotaurine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01580": "glutamate decarboxylase [EC:4.1.1.15]",
+      "K01594": "sulfinoalanine decarboxylase [EC:4.1.1.29]",
+      "K18966": "sulfinoalanine decarboxylase / aspartate 1-decarboxylase [EC:4.1.1.29 4.1.1.11]"
+    }
+  }
+]

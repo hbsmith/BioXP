@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00544",
+    "name": "aldehyde:acceptor oxidoreductase",
+    "definition": "Aldehyde + Acceptor + H2O <=> Carboxylate + Reduced acceptor",
+    "equation": "C00071 + C00028 + C00001 <=> C00060 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.99.6",
+      "1.2.99.7"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

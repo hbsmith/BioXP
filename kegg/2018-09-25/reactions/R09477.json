@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09477",
+    "name": "xylitol:NAD+ oxidoreductase",
+    "definition": "Xylitol + NAD+ <=> D-Xylose + NADH + H+",
+    "equation": "C00379 + C00003 <=> C00181 + C00004 + C00080",
+    "comment": "NADP+ (see R01431)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.307"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K17743": "D-xylose reductase [EC:1.1.1.307]"
+    }
+  }
+]

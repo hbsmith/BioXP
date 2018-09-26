@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C03387",
+    "name": "D-Glucurono-6,2-lactone",
+    "names": [
+      "D-Glucurono-6,2-lactone"
+    ],
+    "formula": "C6H8O6",
+    "exact_mass": 176.0321,
+    "mol_weight": 176.1241,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01484"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.1.19"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6220"
+      ],
+      "ChEBI": [
+        "17039"
+      ],
+      "NIKKAJI": [
+        "J849.803B"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1y C    28.9365  -19.3166\n            2   C1y C    28.9147  -20.7372\n            3   O7x O    27.7702  -18.5363\n            4   C4a C    30.1830  -18.7155\n            5   C1y C    27.6292  -21.3966\n            6   O1a O    30.0226  -21.4785\n            7   C7x C    26.4848  -19.1957\n            8   C1y C    26.4629  -20.6163\n            9   O1a O    27.5490  -22.7781\n            10  O6a O    25.3768  -18.4544\n            11  O1a O    25.2165  -21.2174\n            12  O4a O    31.3195  -19.4891\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Up\n            6     3   7 1\n            7     5   8 1\n            8     5   9 1 #Down\n            9     7  10 2\n            10    8  11 1 #Down\n            11    7   8 1\n            12    4  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

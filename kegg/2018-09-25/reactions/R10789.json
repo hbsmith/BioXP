@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10789",
+    "name": "L-ornithine,NADPH:oxygen oxidoreductase (N5-hydroxylating)",
+    "definition": "L-Ornithine + NADPH + H+ + Oxygen <=> N5-Hydroxy-L-ornithine + NADP+ + H2O",
+    "equation": "C00077 + C00005 + C00080 + C00007 <=> C20850 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.195",
+      "1.14.13.196"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

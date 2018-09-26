@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C15344",
+    "name": "N-Butyl-1H-pyrazolo[3,4-d]pyrimidin-4-amine",
+    "names": [
+      "N-Butyl-1H-pyrazolo[3,4-d]pyrimidin-4-amine",
+      "NSC4928"
+    ],
+    "formula": "C9H13N5",
+    "exact_mass": 191.1171,
+    "mol_weight": 191.233,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17396341"
+      ],
+      "ChEBI": [
+        "79846"
+      ],
+      "ChEMBL": [
+        "CHEMBL2143230"
+      ],
+      "NIKKAJI": [
+        "J2.322.932C"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    21.2100  -16.4500\n            2   N5x N    21.2100  -15.0500\n            3   C8y C    22.4000  -14.3500\n            4   C8y C    23.6600  -15.0500\n            5   C8y C    23.6600  -16.4500\n            6   N5x N    22.4000  -17.1500\n            7   C8x C    24.9900  -14.6300\n            8   N5x N    25.7600  -15.7500\n            9   N4x N    24.9900  -16.8700\n            10  N1b N    22.4000  -12.9500\n            11  C1b C    23.5900  -12.2500\n            12  C1b C    24.7800  -12.9500\n            13  C1b C    25.9700  -12.2500\n            14  C1a C    27.1600  -12.9500\nBOND        15\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 2\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    5   9 1\n            11    3  10 1\n            12   10  11 1\n            13   11  12 1\n            14   12  13 1\n            15   13  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "entry_id": "R00945",
+    "name": "5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase",
+    "definition": "5,10-Methylenetetrahydrofolate + Glycine + H2O <=> Tetrahydrofolate + L-Serine",
+    "equation": "C00143 + C00037 + C00001 <=> C00101 + C00065",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.2.1"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism",
+      "rn00460": "Cyanoamino acid metabolism",
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn00670": "One carbon pool by folate",
+      "rn00680": "Methane metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01130": "Biosynthesis of antibiotics",
+      "rn01200": "Carbon metabolism",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K00600": "glycine hydroxymethyltransferase [EC:2.1.2.1]"
+    }
+  }
+]

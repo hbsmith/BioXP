@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06004",
+    "name": "",
+    "definition": "GM2 + H2O <=> GM3 + N-Acetyl-D-galactosamine",
+    "equation": "G00109 + C00001 <=> G00108 + C01132",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.52"
+    ],
+    "pathways": {
+      "rn00604": "Glycosphingolipid biosynthesis - ganglio series",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K12373": "hexosaminidase [EC:3.2.1.52]"
+    }
+  }
+]

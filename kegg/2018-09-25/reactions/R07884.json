@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07884",
+    "name": "",
+    "definition": "Pelargonidin 3-O-(6-O-malonyl-beta-D-glucoside) + Malonyl-CoA <=> Pelargonidin 3-O-3'',6''-O-dimalonylglucoside + CoA",
+    "equation": "C12642 + C00083 <=> C16288 + C00010",
+    "comment": "malonyl-CoA:anthocyanidin 3-O-glucoside-3'',6''-O-dimalonyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.-"
+    ],
+    "pathways": {
+      "rn00942": "Anthocyanin biosynthesis"
+    },
+    "orthologs": {
+      "K12932": "anthocyanidin 3-O-glucoside-3'',6''-O-dimalonyltransferase [EC:2.3.1.-]"
+    }
+  }
+]

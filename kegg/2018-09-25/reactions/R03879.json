@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03879",
+    "name": "UDP-L-rhamnose:NADP+ 4-oxidoreductase (3,5-epimerizing)",
+    "definition": "UDP-L-rhamnose + NADP+ <=> UDP-4-dehydro-6-deoxy-D-glucose + NADPH + H+",
+    "equation": "C02199 + C00006 <=> C04089 + C00005 + C00080",
+    "comment": "two-step reaction (see R08704+R08705)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

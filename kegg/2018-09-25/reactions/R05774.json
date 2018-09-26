@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05774",
+    "name": "sulfopyruvate carboxy-lyase",
+    "definition": "3-Sulfopyruvate <=> Sulfoacetaldehyde + CO2",
+    "equation": "C05528 <=> C00593 + C00011",
+    "comment": "Requires thiamine diphosphate",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.79"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K06034": "sulfopyruvate decarboxylase subunit alpha [EC:4.1.1.79]",
+      "K13039": "sulfopyruvate decarboxylase subunit beta [EC:4.1.1.79]"
+    }
+  }
+]

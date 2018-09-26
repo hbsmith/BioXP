@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C11390",
+    "name": "(+)-Menthone",
+    "names": [
+      "(+)-Menthone"
+    ],
+    "formula": "C10H18O",
+    "exact_mass": 154.1358,
+    "mol_weight": 154.2493,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "3391-87-5"
+      ],
+      "PubChem": [
+        "13564"
+      ],
+      "ChEBI": [
+        "31"
+      ],
+      "ChEMBL": [
+        "CHEMBL2268548"
+      ],
+      "KNApSAcK": [
+        "C00010903"
+      ],
+      "3DMET": [
+        "B04237"
+      ],
+      "NIKKAJI": [
+        "J205.485J"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1y C    24.0572  -16.1937\n            2   C5x C    25.2829  -15.4846\n            3   C1x C    22.8630  -15.4846\n            4   C1x C    25.2829  -14.0830\n            5   O5x O    26.4701  -16.1763\n            6   C1x C    22.8630  -14.0830\n            7   C1y C    24.0572  -13.3902\n            8   C1c C    24.0528  -17.6027\n            9   C1a C    22.8294  -18.3033\n            10  C1a C    25.2718  -18.3109\n            11  C1a C    24.0530  -11.9894\nBOND        11\n            1     2   5 2\n            2     3   6 1\n            3     4   7 1\n            4     6   7 1\n            5     1   8 1 #Up\n            6     1   2 1\n            7     8   9 1\n            8     1   3 1\n            9     8  10 1\n            10    2   4 1\n            11    7  11 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02668",
+    "name": "3-Hydroxy-L-kynurenine hydrolase",
+    "definition": "3-Hydroxy-L-kynurenine + H2O <=> 3-Hydroxyanthranilate + L-Alanine",
+    "equation": "C03227 + C00001 <=> C00632 + C00041",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.7.1.3"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01556": "kynureninase [EC:3.7.1.3]"
+    }
+  }
+]

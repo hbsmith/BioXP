@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C02518",
+    "name": "4-Aminosalicylate",
+    "names": [
+      "4-Aminosalicylate",
+      "4-Aminosalicylic acid"
+    ],
+    "formula": "C7H7NO3",
+    "exact_mass": 153.0426,
+    "mol_weight": 153.1354,
+    "remark": "Same as: D00162",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "65-49-6"
+      ],
+      "PubChem": [
+        "5528"
+      ],
+      "ChEBI": [
+        "27565"
+      ],
+      "ChEMBL": [
+        "CHEMBL1169"
+      ],
+      "PDB-CCD": [
+        "BHA"
+      ],
+      "NIKKAJI": [
+        "J4.838K"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    17.8358  -13.7095\n            2   C8y C    19.0591  -14.4076\n            3   C8x C    16.6316  -14.4076\n            4   C6a C    17.8358  -12.3131\n            5   C8x C    19.0591  -15.8169\n            6   O1a O    20.2634  -13.7030\n            7   C8x C    16.6316  -15.8169\n            8   O6a O    19.0400  -11.6150\n            9   O6a O    16.6253  -11.6213\n            10  C8y C    17.8358  -16.5277\n            11  N1a N    17.8358  -17.9177\nBOND        11\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     4   8 1\n            8     4   9 2\n            9     5  10 1\n            10   10  11 1\n            11    7  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

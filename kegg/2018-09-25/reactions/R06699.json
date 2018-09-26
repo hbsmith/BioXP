@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06699",
+    "name": "tetracenomycin-F2 hydro-lyase (tetracenomycin-F1-forming)",
+    "definition": "Tetracenomycin F2 <=> Tetracenomycin F1 + H2O",
+    "equation": "C12366 <=> C12367 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.154"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15968": "tetracenomycin F2 cyclase [EC:4.2.1.154]"
+    }
+  }
+]

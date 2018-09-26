@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C07722",
+    "name": "3,4-Dihydroxy-3,4-dihydro-9-fluorenone",
+    "names": [
+      "3,4-Dihydroxy-3,4-dihydro-9-fluorenone"
+    ],
+    "formula": "C13H10O3",
+    "exact_mass": 214.063,
+    "mol_weight": 214.2167,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05435",
+      "R05436",
+      "R05543"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.12.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "9924"
+      ],
+      "ChEBI": [
+        "27473"
+      ],
+      "NIKKAJI": [
+        "J2.765.237I"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8x C    12.4600  -18.2000\n            2   C8x C    12.4600  -19.6000\n            3   C8x C    13.6724  -20.3000\n            4   C8y C    14.8849  -19.6000\n            5   C8y C    14.8849  -18.2000\n            6   C8x C    13.6724  -17.5000\n            7   C5x C    16.0973  -20.3000\n            8   C2y C    17.3097  -19.6000\n            9   C2y C    17.3097  -18.2000\n            10  C2x C    18.5222  -20.3000\n            11  C2x C    19.7346  -19.6000\n            12  C1y C    19.7346  -18.2000\n            13  C1y C    18.5222  -17.5000\n            14  O5x O    16.0973  -21.7000\n            15  O1a O    18.5222  -16.1003\n            16  O1a O    20.9511  -17.4977\nBOND        18\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    8  10 1\n            12   10  11 2\n            13   11  12 1\n            14   12  13 1\n            15    9  13 1\n            16    7  14 2\n            17   13  15 1\n            18   12  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

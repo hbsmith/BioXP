@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C14666",
+    "name": "1-(4-Methoxyphenyl)-2-phenylethane",
+    "names": [
+      "1-(4-Methoxyphenyl)-2-phenylethane",
+      "1-Methoxy-4-(2-phenylethyl)benzene",
+      "4-Methoxydibenzyl"
+    ],
+    "formula": "C15H16O",
+    "exact_mass": 212.1201,
+    "mol_weight": 212.2869,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "14310-21-5"
+      ],
+      "PubChem": [
+        "17395665"
+      ],
+      "ChEBI": [
+        "34070"
+      ],
+      "NIKKAJI": [
+        "J105.144J"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8x C    21.5860  -18.8985\n            2   C8x C    21.5860  -20.2989\n            3   C8x C    22.8027  -21.0026\n            4   C8y C    24.0124  -20.2989\n            5   C8x C    24.0124  -18.8985\n            6   C8x C    22.8027  -18.2018\n            7   C1b C    25.2265  -21.0018\n            8   C1b C    26.4397  -20.2972\n            9   C8y C    27.6541  -20.9999\n            10  C8x C    27.6531  -22.3955\n            11  C8x C    28.8673  -23.0914\n            12  C8y C    30.0735  -22.3938\n            13  C8x C    30.0725  -20.9934\n            14  C8x C    28.8652  -20.2906\n            15  O2a O    31.3089  -23.1060\n            16  C1a C    32.5092  -22.4119\nBOND        17\n            1     2   3 2\n            2     8   9 1\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     6   1 2\n            7     9  10 2\n            8    10  11 1\n            9    11  12 2\n            10   12  13 1\n            11   13  14 2\n            12   14   9 1\n            13    4   7 1\n            14    1   2 1\n            15    7   8 1\n            16   12  15 1\n            17   15  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09330",
+    "name": "",
+    "definition": "Nogalavinone <=> 1-OH-Nogalamycinone",
+    "equation": "C18631 <=> C18632",
+    "comment": "C1-hydroxylase, snoaL2",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15945": "C-1 hydroxylase"
+    }
+  }
+]

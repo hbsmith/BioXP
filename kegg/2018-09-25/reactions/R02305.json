@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02305",
+    "name": "2-trans,6-trans-farnesyldiphosphate diphosphate-lyase (cyclizing, pentalenene-forming)",
+    "definition": "trans,trans-Farnesyl diphosphate <=> Pentalenene + Diphosphate",
+    "equation": "C00448 <=> C01841 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.7"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12250": "pentalenene synthase [EC:4.2.3.7]"
+    }
+  }
+]

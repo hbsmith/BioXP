@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09198",
+    "name": "5a,11a-dehydrotetracycline,NADPH:oxygen oxidoreductase (5-hydroxylating)",
+    "definition": "5a,11a-Dehydrotetracycline + NADPH + H+ + Oxygen <=> 5a,11a-Dehydrooxytetracycline + NADP+ + H2O",
+    "equation": "C03206 + C00005 + C00080 + C00007 <=> C18296 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.234"
+    ],
+    "pathways": {
+      "rn00253": "Tetracycline biosynthesis",
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K14256": "anhydrotetracycline 6-monooxygenase / 5a,11a-dehydrotetracycline 5-monooxygenase [EC:1.14.13.38 1.14.13.234]"
+    }
+  }
+]

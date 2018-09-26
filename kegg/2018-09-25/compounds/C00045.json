@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C00045",
+    "name": "Amino acid",
+    "names": [
+      "Amino acid",
+      "Amino acids"
+    ],
+    "formula": "C2H4NO2R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R03867",
+      "R04159",
+      "R04913",
+      "R08679",
+      "R08683",
+      "R08684",
+      "R08792",
+      "R11672"
+    ],
+    "pathways": {
+      "map02010": "ABC transporters"
+    },
+    "enzymes": [
+      "1.14.13.-",
+      "2.3.2.2",
+      "2.6.1.14",
+      "2.6.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3347"
+      ],
+      "ChEBI": [
+        "33704"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   O6a O    26.3200  -10.3600\n            2   C6a C    25.1076  -11.0600\n            3   C1c C    23.8951  -10.3600\n            4   N1a N    22.6827  -11.0600\n            5   O6a O    25.1076  -12.4598\n            6   R   R    23.8951   -8.9602\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     2   5 2\n            5     3   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

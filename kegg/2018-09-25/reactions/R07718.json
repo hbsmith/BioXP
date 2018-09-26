@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07718",
+    "name": "UDP-glucose:isoflavone 7-O-beta-D-glucosyltransferase",
+    "definition": "Glycitein + UDP-glucose <=> Glycitin + UDP",
+    "equation": "C14536 + C00029 <=> C16195 + C00015",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.170"
+    ],
+    "pathways": {
+      "rn00943": "Isoflavonoid biosynthesis"
+    },
+    "orthologs": {
+      "K13263": "isoflavone 7-O-glucosyltransferase [EC:2.4.1.170]"
+    }
+  }
+]

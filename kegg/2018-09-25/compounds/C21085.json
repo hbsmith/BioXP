@@ -1,0 +1,36 @@
+[
+  {
+    "entry_id": "C21085",
+    "name": "3-[(1E,4R)-4-Hydroxycyclohex-2-en-1-ylidene]-2-oxopropanoate",
+    "names": [
+      "3-[(1E,4R)-4-Hydroxycyclohex-2-en-1-ylidene]-2-oxopropanoate"
+    ],
+    "formula": "C9H10O4",
+    "exact_mass": 182.0579,
+    "mol_weight": 182.1733,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11065",
+      "R11066"
+    ],
+    "pathways": {
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "5.3.3.19"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "310920466"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1x C    17.9905  -14.0704\n            2   C1x C    17.9905  -15.4704\n            3   C2y C    19.2029  -16.1704\n            4   C2x C    20.4154  -15.4704\n            5   C2x C    20.4154  -14.0704\n            6   C1y C    19.2029  -13.3703\n            7   C2b C    19.2029  -17.5702\n            8   O1a O    19.2029  -11.9705\n            9   C5a C    17.9737  -18.2802\n            10  O5a O    16.7696  -17.5850\n            11  C6a C    17.9737  -19.6802\n            12  O6a O    16.7780  -20.3705\n            13  O6a O    19.1944  -20.3851\nBOND        13\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 1\n            7     3   7 2\n            8     6   8 1 #Up\n            9     7   9 1\n            10    9  10 2\n            11    9  11 1\n            12   11  12 1\n            13   11  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

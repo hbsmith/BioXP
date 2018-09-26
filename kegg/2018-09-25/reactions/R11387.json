@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11387",
+    "name": "",
+    "definition": "3,6,8-Trihydroxy-2-naphthoate + Reduced acceptor + Oxygen <=> 3,6,7,8-Tetrahydroxy-2-naphthoate + Acceptor + H2O",
+    "equation": "C21320 + C00030 + C00007 <=> C21321 + C00028 + C00001",
+    "comment": "cytochrome P450 monooxygenase proposed pathway",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21222": "cytochrome P450 monooxygenase [EC:1.14.-.-]"
+    }
+  }
+]

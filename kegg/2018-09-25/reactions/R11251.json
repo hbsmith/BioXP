@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11251",
+    "name": "",
+    "definition": "Salbostatin 6'-phosphate + H2O <=> Salbostatin + Orthophosphate",
+    "equation": "C21211 + C00001 <=> C17698 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.3.-"
+    ],
+    "pathways": {
+      "rn00525": "Acarbose and validamycin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20440": "salbostatin 6'-phosphate phosphatase [EC:3.1.3.-]"
+    }
+  }
+]

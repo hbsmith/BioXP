@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C17903",
+    "name": "(+)-N-Methylpseudoephedrine",
+    "names": [
+      "(+)-N-Methylpseudoephedrine"
+    ],
+    "formula": "C11H17NO",
+    "exact_mass": 179.131,
+    "mol_weight": 179.2588,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96024134"
+      ],
+      "ChEBI": [
+        "81373"
+      ],
+      "KNApSAcK": [
+        "C00032017"
+      ],
+      "NIKKAJI": [
+        "J308.212A"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    27.0200  -21.1400\n            2   C8x C    27.0200  -22.5400\n            3   C8x C    25.8300  -23.2400\n            4   C8x C    24.5700  -22.5400\n            5   C8x C    24.5700  -21.1400\n            6   C8x C    25.8300  -20.4400\n            7   C1c C    28.2800  -20.4400\n            8   C1c C    29.4700  -21.1400\n            9   N1c N    30.6600  -20.4400\n            10  C1a C    29.4700  -22.5400\n            11  O1a O    28.2800  -19.0400\n            12  C1a C    31.8781  -21.1301\n            13  C1a C    30.6486  -19.0400\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 1\n            8     7   8 1\n            9     8   9 1\n            10    8  10 1 #Up\n            11    7  11 1 #Down\n            12    9  12 1\n            13    9  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

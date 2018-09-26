@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R09598",
+    "name": "",
+    "definition": "Cobyrinate + L-Glutamine + ATP + H2O <=> Cobyrinate c-monamide + L-Glutamate + ADP + Orthophosphate",
+    "equation": "C05773 + C00064 + C00002 + C00001 <=> C19724 + C00025 + C00008 + C00009",
+    "comment": "first step of two-step reaction (see R05815, R09598+R09599)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.5.11"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01617",
+    "name": "4-Coumaroyl-CoA:agmatine N4-coumaroyltransferase",
+    "definition": "p-Coumaroyl-CoA + Agmatine <=> p-Coumaroylagmatine + CoA",
+    "equation": "C00223 + C00179 <=> C04498 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.64"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism"
+    },
+    "orthologs": {
+      "K14329": "agmatine coumaroyltransferase [EC:2.3.1.64 2.3.1.-]"
+    }
+  }
+]

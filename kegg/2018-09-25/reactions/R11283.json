@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11283",
+    "name": "2'''-N-acetyl-6'''-deamino-6'''-hydroxyparomomycin-II hydrolase (acetate-forming)",
+    "definition": "2'''-N-Acetyl-6'''-deamino-6'''-hydroxyparomomycin II + H2O <=> 6'''-Deamino-6'''-hydroxyparomomycin II + Acetate",
+    "equation": "C21261 + C00001 <=> C21262 + C00033",
+    "comment": "deduced reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.-"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20583": "deacetylase [EC:3.5.1.-]"
+    }
+  }
+]

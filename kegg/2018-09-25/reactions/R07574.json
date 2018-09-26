@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07574",
+    "name": "UDP-glucose:zeaxanthin beta-D-glucosyltransferase",
+    "definition": "Zeaxanthin + 2 UDP-glucose <=> Zeaxanthin diglucoside + 2 UDP",
+    "equation": "C06098 + 2 C00029 <=> C15969 + 2 C00015",
+    "comment": "multistep reaction Zeaxanthin glucosyl transferase(crtX)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.276"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis"
+    },
+    "orthologs": {
+      "K14596": "zeaxanthin glucosyltransferase [EC:2.4.1.276]"
+    }
+  }
+]

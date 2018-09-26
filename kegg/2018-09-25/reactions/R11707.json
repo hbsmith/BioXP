@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11707",
+    "name": "ATP:3-dehydro-D-erythronate 4-phosphotransferase",
+    "definition": "ATP + 3-Dehydro-L-threonate <=> ADP + 3-Dehydro-4-phospho-D-erythronate",
+    "equation": "C00002 + C03064 <=> C00008 + C21610",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.217"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K21948": "3-dehydrotetronate 4-kinase [EC:2.7.1.217]"
+    }
+  }
+]

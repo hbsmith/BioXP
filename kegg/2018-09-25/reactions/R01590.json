@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01590",
+    "name": "Arachidonate:oxygen oxidoreductase",
+    "definition": "Arachidonate + 2 Oxygen <=> Prostaglandin G2",
+    "equation": "C00219 + 2 C00007 <=> C05956",
+    "comment": "the former part (dioxygenase x2) of multi-step reaction (see R01599, R01590+R00073) subsequently R00073",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.1"
+    ],
+    "pathways": {
+      "rn00590": "Arachidonic acid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00509": "prostaglandin-endoperoxide synthase 1 [EC:1.14.99.1]",
+      "K11987": "prostaglandin-endoperoxide synthase 2 [EC:1.14.99.1]"
+    }
+  }
+]

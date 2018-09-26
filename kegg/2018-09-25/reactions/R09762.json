@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09762",
+    "name": "",
+    "definition": "Brassinolide <=> 26-Hydroxybrassinolide",
+    "equation": "C08814 <=> C19874",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "pathways": {
+      "rn00905": "Brassinosteroid biosynthesis"
+    },
+    "orthologs": {
+      "K15639": "PHYB activation tagged suppressor 1 [EC:1.14.-.-]"
+    }
+  }
+]

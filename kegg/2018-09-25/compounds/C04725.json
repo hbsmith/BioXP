@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C04725",
+    "name": "Oligosaccharide containing 6-methyl-D-glucose units",
+    "names": [
+      "Oligosaccharide containing 6-methyl-D-glucose units",
+      "1,4-alpha-D-Glucooligosaccharide containing 6-O-methyl-D-glucose units"
+    ],
+    "formula": "(C19H32O15)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R04396"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.1.1.18"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7296"
+      ],
+      "ChEBI": [
+        "16041"
+      ]
+    },
+    "kcf": "ATOM        36\n            1   C1y C    25.6200  -16.1000\n            2   C1y C    25.6200  -17.5000\n            3   C1y C    26.8100  -18.2000\n            4   C1y C    28.0700  -17.5000\n            5   C1y C    28.0700  -16.1000\n            6   O2x O    26.8100  -15.4000\n            7   O1a O    29.2600  -15.4000\n            8   O1a O    29.2600  -18.2000\n            9   O2a O    24.4300  -18.2000\n            10  C1b C    24.4300  -15.4000\n            11  O1a O    26.8100  -19.6000\n            12  O1a O    24.4300  -14.0000\n            13  C1y C    20.7900  -18.9000\n            14  C1y C    20.7900  -20.3000\n            15  C1y C    21.9800  -21.0000\n            16  C1y C    23.2400  -20.3000\n            17  C1y C    23.2400  -18.9000\n            18  O2x O    21.9800  -18.2000\n            19  O1a O    24.4300  -21.0000\n            20  O2a O    19.6000  -21.0000\n            21  C1b C    19.6000  -18.2000\n            22  O1a O    21.9800  -22.4000\n            23  O2a O    19.6000  -16.8000\n            24  C1y C    15.9600  -21.7000\n            25  C1x C    15.9600  -23.1000\n            26  C1y C    17.1500  -23.8000\n            27  C1y C    18.4100  -23.1000\n            28  C1y C    18.4100  -21.7000\n            29  O2x O    17.1500  -21.0000\n            30  O1a O    19.6000  -23.8000\n            31  Z   *    11.8300  -24.0800\n            32  C1b C    14.7700  -21.0000\n            33  O1a O    17.1500  -25.2000\n            34  O1a O    14.7700  -19.6000\n            35  Z   *    32.9000  -15.8200\n            36  C1a C    18.3876  -16.1000\nBOND        38\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     5   7 1 #Down\n            8     4   8 1 #Down\n            9     2   9 1 #Down\n            10    1  10 1 #Up\n            11    3  11 1 #Up\n            12   10  12 1\n            13   13  14 1\n            14   14  15 1\n            15   15  16 1\n            16   16  17 1\n            17   17  18 1\n            18   13  18 1\n            19   17   9 1 #Down\n            20   16  19 1 #Down\n            21   14  20 1 #Down\n            22   13  21 1 #Up\n            23   15  22 1 #Up\n            24   21  23 1\n            25   24  25 1\n            26   25  26 1\n            27   26  27 1\n            28   27  28 1\n            29   28  29 1\n            30   24  29 1\n            31   28  20 1 #Down\n            32   27  30 1 #Down\n            33   25  31 1 #Down\n            34   24  32 1 #Up\n            35   26  33 1 #Up\n            36   32  34 1\n            37    7  35 1\n            38   23  36 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

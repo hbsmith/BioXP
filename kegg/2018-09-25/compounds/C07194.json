@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C07194",
+    "name": "Methyldopa anhydrous",
+    "names": [
+      "Methyldopa anhydrous",
+      "Methyldopa"
+    ],
+    "formula": "C10H13NO4",
+    "exact_mass": 211.0845,
+    "mol_weight": 211.2145,
+    "remark": "Same as: D08205",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "555-30-6"
+      ],
+      "PubChem": [
+        "9403"
+      ],
+      "ChEBI": [
+        "61058"
+      ],
+      "ChEMBL": [
+        "CHEMBL459"
+      ],
+      "NIKKAJI": [
+        "J9.247I"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C1d C    27.4400  -15.8200\n            2   C6a C    28.6300  -15.1200\n            3   C1b C    26.2500  -15.1200\n            4   C1a C    26.9500  -17.2200\n            5   N1a N    28.3500  -17.2900\n            6   O6a O    29.8200  -15.8200\n            7   O6a O    28.6300  -13.7900\n            8   C8y C    25.0600  -15.8200\n            9   C8x C    23.8700  -15.1200\n            10  C8x C    25.0600  -17.2200\n            11  C8y C    22.6800  -15.8200\n            12  C8x C    23.8700  -17.9200\n            13  C8y C    22.6800  -17.2200\n            14  O1a O    21.4900  -15.1200\n            15  O1a O    21.4900  -17.9200\nBOND        15\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     1   5 1 #Up\n            5     2   6 1\n            6     2   7 2\n            7     3   8 1\n            8     8   9 1\n            9     8  10 2\n            10    9  11 2\n            11   10  12 1\n            12   11  13 1\n            13   11  14 1\n            14   13  15 1\n            15   12  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

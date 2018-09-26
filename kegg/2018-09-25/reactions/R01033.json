@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R01033",
+    "name": "2-chlorobenzoate,NADH:oxygen oxidoreductase (1,2-hydroxylating, dechlorinating, decarboxylating)",
+    "definition": "2-Chlorobenzoate + Oxygen + NADH <=> Cl- + Catechol + NAD+ + CO2",
+    "equation": "C02357 + C00007 + C00004 <=> C00698 + C00090 + C00003 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.12.13"
+    ],
+    "pathways": {
+      "rn00364": "Fluorobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K08686": "2-halobenzoate 1,2-dioxygenase large subunit [EC:1.14.12.13]",
+      "K20808": "2-halobenzoate 1,2-dioxygenase small subunit [EC:1.14.12.13]",
+      "K20809": "2-halobenzoate 1,2-dioxygenase electron transfer component [EC:1.18.1.3]"
+    }
+  }
+]

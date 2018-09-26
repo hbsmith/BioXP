@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02139",
+    "name": "barbiturate amidohydrolase (3-oxo-3-ureidopropanoate-forming)",
+    "definition": "Barbiturate + H2O <=> 3-Oxo-3-ureidopropanoate",
+    "equation": "C00813 + C00001 <=> C15607",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.2.1"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+      "K19794": "barbiturase [EC:3.5.2.1]"
+    }
+  }
+]

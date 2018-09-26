@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02681",
+    "name": "indole-3-acetaldehyde:oxygen oxidoreductase",
+    "definition": "Indole-3-acetaldehyde + Oxygen + H2O <=> Indole-3-acetate + Hydrogen peroxide",
+    "equation": "C00637 + C00007 + C00001 <=> C00954 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.3.7"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+      "K11817": "indole-3-acetaldehyde oxidase [EC:1.2.3.7]"
+    }
+  }
+]

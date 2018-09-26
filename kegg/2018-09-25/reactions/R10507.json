@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R10507",
+    "name": "L-proline:(acceptor) oxidoreductase",
+    "definition": "L-Proline + FAD <=> (S)-1-Pyrroline-5-carboxylate + FADH2",
+    "equation": "C00148 + C00016 <=> C03912 + C01352",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.-.-"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism",
+      "rn00332": "Carbapenem biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00318": "proline dehydrogenase [EC:1.5.-.-]",
+      "K18318": "carbapenem biosynthesis protein, putative proline dehydrogenase [EC:1.5.-.-]",
+      "K18319": "carbapenem biosynthesis protein CpmE"
+    }
+  }
+]

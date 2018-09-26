@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10197",
+    "name": "",
+    "definition": "S-Adenosyl-L-methionine + C30 Botryococcene <=> S-Adenosyl-L-homocysteine + 20-Methyl-21,22-didehydro-20,21-dihydrobotryococcene",
+    "equation": "C00019 + C20432 <=> C00021 + C20434",
+    "comment": "first step of two-step reaction (see R10199, R10197+R10198)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.263"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "entry_id": "C02000",
+    "name": "Alkyl sulfate",
+    "names": [
+      "Alkyl sulfate"
+    ],
+    "formula": "HSO4R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R00629"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.8.2.2"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5096"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   S4a S    17.3542  -14.6300\n            2   O2a O    15.9832  -14.6300\n            3   O1d O    18.7191  -14.6300\n            4   O1d O    17.3542  -13.2590\n            5   O1d O    17.3542  -16.0648\n            6   R   R    14.4550  -14.6300\nBOND        5\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     1   5 2\n            5     2   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

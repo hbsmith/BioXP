@@ -1,0 +1,66 @@
+[
+  {
+    "entry_id": "C01943",
+    "name": "Obtusifoliol",
+    "names": [
+      "Obtusifoliol",
+      "4alpha,14alpha-Dimethyl-5alpha-ergosta-8,24(28)-dien-3beta-ol",
+      "4alpha,14alpha-Dimethyl-24-methylene-5alpha-cholesta-8-en-3beta-ol"
+    ],
+    "formula": "C30H50O",
+    "exact_mass": 426.3862,
+    "mol_weight": 426.7174,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03775",
+      "R05731"
+    ],
+    "pathways": {
+      "map00100": "Steroid biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.13.70",
+      "5.5.1.9"
+    ],
+    "dblinks": {
+      "CAS": [
+        "16910-32-0"
+      ],
+      "PubChem": [
+        "5047"
+      ],
+      "ChEBI": [
+        "17791"
+      ],
+      "ChEMBL": [
+        "CHEMBL1978954",
+        "CHEMBL481434"
+      ],
+      "LIPIDMAPS": [
+        "LMST01010124"
+      ],
+      "LipidBank": [
+        "SST9079"
+      ],
+      "KNApSAcK": [
+        "C00007368"
+      ],
+      "3DMET": [
+        "B01520"
+      ],
+      "NIKKAJI": [
+        "J69.979I"
+      ]
+    },
+    "kcf": "ATOM        31\n            1   C1z C    16.5513  -15.1649\n            2   C2y C    15.2457  -15.8344\n            3   C1z C    16.5047  -13.8825\n            4   C1x C    18.9301  -15.2117\n            5   C1a C    16.5279  -16.7564\n            6   C2y C    14.1140  -15.2408\n            7   C1x C    15.2282  -17.3038\n            8   C1y C    17.7006  -13.2114\n            9   C1x C    15.3216  -13.1820\n            10  C1a C    16.4930  -12.4994\n            11  C1x C    18.8777  -13.9045\n            12  C1z C    12.9194  -15.9163\n            13  C1x C    14.1257  -13.8649\n            14  C1x C    14.1723  -17.9924\n            15  C1c C    17.7181  -11.8354\n            16  C1y C    12.9835  -17.2980\n            17  C1x C    11.7306  -15.2349\n            18  C1a C    12.9777  -14.5404\n            19  C1b C    18.9186  -11.1587\n            20  C1a C    16.5338  -11.1294\n            21  C1y C    11.7306  -17.9866\n            22  C1x C    10.5349  -15.9163\n            23  C1b C    20.1084  -11.8648\n            24  C1y C    10.5349  -17.2980\n            25  C1a C    11.7366  -19.4383\n            26  C2c C    21.3031  -11.1879\n            27  O1a O     9.3461  -17.9866\n            28  C1c C    22.4931  -11.8939\n            29  C2a C    21.2506   -9.9462\n            30  C1a C    23.6936  -11.2172\n            31  C1a C    22.4756  -13.4099\nBOND        34\n            1     1   3 1\n            2     1   4 1\n            3     1   5 1 #Down\n            4     2   6 2\n            5     2   7 1\n            6     3   8 1\n            7     3   9 1\n            8     3  10 1 #Up\n            9     4  11 1\n            10    6  12 1\n            11    6  13 1\n            12    7  14 1\n            13    8  15 1\n            14   12  16 1\n            15   12  17 1\n            16   12  18 1 #Up\n            17   15  19 1\n            18   15  20 1 #Down\n            19   16  21 1\n            20   17  22 1\n            21   19  23 1\n            22   21  24 1\n            23   21  25 1 #Down\n            24   23  26 1\n            25   24  27 1 #Up\n            26   26  28 1\n            27   26  29 2\n            28   28  30 1\n            29   28  31 1\n            30    8  11 1\n            31    9  13 1\n            32   14  16 1\n            33   22  24 1\n            34    1   2 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

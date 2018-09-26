@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C19187",
+    "name": "para-Aminoazobenzene",
+    "names": [
+      "para-Aminoazobenzene",
+      "4-Aminoazobenzene",
+      "Aniline yellow"
+    ],
+    "formula": "C12H11N3",
+    "exact_mass": 197.0953,
+    "mol_weight": 197.2358,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "60-09-3"
+      ],
+      "PubChem": [
+        "124489859"
+      ],
+      "ChEBI": [
+        "233869"
+      ],
+      "ChEMBL": [
+        "CHEMBL83761"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8x C    12.6700  -17.6400\n            2   C8y C    12.6700  -19.0400\n            3   C8x C    13.8824  -19.7400\n            4   C8x C    15.0949  -19.0400\n            5   C8y C    15.0949  -17.6400\n            6   C8x C    13.8824  -16.9400\n            7   N2b N    16.3324  -16.9400\n            8   N2b N    17.5449  -17.6400\n            9   C8y C    18.7573  -16.9400\n            10  C8x C    19.9718  -17.6412\n            11  C8x C    21.1842  -16.9412\n            12  C8x C    21.1842  -15.5412\n            13  C8x C    19.9697  -14.8400\n            14  C8x C    18.7573  -15.5400\n            15  N1a N    11.4576  -19.7400\nBOND        16\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11   10  11 1\n            12   11  12 2\n            13   12  13 1\n            14   13  14 2\n            15    9  14 1\n            16    2  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09923",
+    "name": "(-)-linalool,NADH:oxygen oxidoreductase (8-hydroxylating)",
+    "definition": "(-)-Linalool + NADH + H+ + Oxygen <=> (E)-3,7-Dimethylocta-1,6-diene-3,8-diol + NAD+ + H2O",
+    "equation": "C11388 + C00004 + C00080 + C00007 <=> C04433 + C00003 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.151"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K05525": "linalool 8-monooxygenase [EC:1.14.13.151]"
+    }
+  }
+]

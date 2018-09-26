@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C14843",
+    "name": "4-Bromocatechol",
+    "names": [
+      "4-Bromocatechol"
+    ],
+    "formula": "C6H5BrO2",
+    "exact_mass": 187.9473,
+    "mol_weight": 189.0067,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07076",
+      "R07077",
+      "R07078"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "17345-77-6"
+      ],
+      "PubChem": [
+        "17395841"
+      ],
+      "ChEBI": [
+        "34388"
+      ],
+      "NIKKAJI": [
+        "J287.015K"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    24.0105  -19.2506\n            2   C8x C    24.0105  -20.6506\n            3   C8y C    25.2230  -21.3506\n            4   C8y C    26.4355  -20.6506\n            5   C8x C    26.4355  -19.2506\n            6   C8y C    25.2230  -18.5505\n            7   X   Br   25.2230  -17.1507\n            8   O1a O    25.2230  -22.7505\n            9   O1a O    27.6659  -21.3612\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     3   8 1\n            9     4   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

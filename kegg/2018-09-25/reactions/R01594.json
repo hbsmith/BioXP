@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01594",
+    "name": "Arachidonate:oxygen 8-oxidoreductase",
+    "definition": "Arachidonate + Oxygen <=> 8(R)-HPETE",
+    "equation": "C00219 + C00007 <=> C04822",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.40"
+    ],
+    "pathways": {
+      "rn00590": "Arachidonic acid metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

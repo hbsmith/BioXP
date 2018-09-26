@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02288",
+    "name": "4-imidazolone-5-propanoate amidohydrolase",
+    "definition": "4-Imidazolone-5-propanoate + H2O <=> N-Formimino-L-glutamate",
+    "equation": "C03680 + C00001 <=> C00439",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.2.7"
+    ],
+    "pathways": {
+      "rn00340": "Histidine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01468": "imidazolonepropionase [EC:3.5.2.7]"
+    }
+  }
+]

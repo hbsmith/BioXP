@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02108",
+    "name": "1,4-alpha-D-Glucan glucanohydrolase",
+    "definition": "Starch + H2O <=> Dextrin + Starch",
+    "equation": "C00369 + C00001 <=> C00721 + C00369",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.1"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K01176": "alpha-amylase [EC:3.2.1.1]",
+      "K05343": "maltose alpha-D-glucosyltransferase / alpha-amylase [EC:5.4.99.16 3.2.1.1]",
+      "K07405": "alpha-amylase [EC:3.2.1.1]"
+    }
+  }
+]

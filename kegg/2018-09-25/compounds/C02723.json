@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C02723",
+    "name": "N-Methylputrescine",
+    "names": [
+      "N-Methylputrescine"
+    ],
+    "formula": "C5H14N2",
+    "exact_mass": 102.1157,
+    "mol_weight": 102.1781,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01153",
+      "R04027",
+      "R05334"
+    ],
+    "pathways": {
+      "map00960": "Tropane, piperidine and pyridine alkaloid biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.4.3.21",
+      "2.1.1.53"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5685"
+      ],
+      "ChEBI": [
+        "17166"
+      ],
+      "KNApSAcK": [
+        "C00034611"
+      ],
+      "3DMET": [
+        "B01597"
+      ],
+      "NIKKAJI": [
+        "J386.707B"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1b C    23.1456  -21.0832\n            2   C1b C    24.2836  -20.4267\n            3   C1b C    22.0135  -20.4267\n            4   C1b C    25.4158  -21.0832\n            5   N1b N    20.4721  -21.2758\n            6   N1a N    26.5479  -20.4267\n            7   C1a C    19.2708  -20.5562\nBOND        6\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     4   6 1\n            6     5   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04984",
+    "name": "",
+    "definition": "2-Hexaprenyl-3-methyl-6-methoxy-1,4-benzoquinone + Oxygen + NADPH + H+ <=> 2-Hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone + NADP+ + H2O",
+    "equation": "C05804 + C00007 + C00005 + C00080 <=> C05805 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K06134": "ubiquinone biosynthesis monooxygenase Coq7 [EC:1.14.13.-]"
+    }
+  }
+]

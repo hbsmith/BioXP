@@ -1,0 +1,35 @@
+[
+  {
+    "entry_id": "C20858",
+    "name": "Protein N5-methyl-L-glutamine",
+    "names": [
+      "Protein N5-methyl-L-glutamine"
+    ],
+    "formula": "C7H11N3O3R2",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10806"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.1.1.297",
+      "2.1.1.298"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741324"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   N1b N    15.6553  -15.5029\n            2   C5a C    16.8475  -14.8017\n            3   C1c C    18.1099  -15.5029\n            4   C1b C    19.3021  -14.8017\n            5   C1b C    20.4943  -15.5029\n            6   C5a C    21.7566  -14.8017\n            7   R   R    14.2528  -15.5029\n            8   O5a O    16.8475  -13.3991\n            9   N1b N    18.1099  -16.9055\n            10  C5a C    18.1099  -18.3081\n            11  O5a O    16.9177  -19.0094\n            12  R   R    19.3021  -19.0094\n            13  N1b N    22.9488  -15.5029\n            14  O5a O    21.7566  -13.3991\n            15  C1a C    24.1895  -14.8005\nBOND        14\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   7 1\n            7     2   8 2\n            8     3   9 1 #Down\n            9     9  10 1\n            10   10  11 2\n            11   10  12 1\n            12    6  13 1\n            13    6  14 2\n            14   13  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

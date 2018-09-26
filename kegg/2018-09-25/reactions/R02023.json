@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02023",
+    "name": "2'-Deoxyuridine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase",
+    "definition": "dUTP + Thioredoxin disulfide + H2O <=> UTP + Thioredoxin",
+    "equation": "C00460 + C00343 + C00001 <=> C00075 + C00342",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.17.4.2"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+      "K00527": "ribonucleoside-triphosphate reductase (thioredoxin) [EC:1.17.4.2]"
+    }
+  }
+]

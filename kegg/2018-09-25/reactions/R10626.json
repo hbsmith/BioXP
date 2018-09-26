@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10626",
+    "name": "narbomycin,NADPH:oxygen oxidoreductase (pikromycin-forming)",
+    "definition": "Narbomycin + NADPH + H+ + Oxygen <=> Neopikromycin + NADP+ + H2O",
+    "equation": "C11998 + C00005 + C00080 + C00007 <=> C20739 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.185"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K16006": "pikromycin synthase [EC:1.14.13.185]"
+    }
+  }
+]

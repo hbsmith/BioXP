@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08134",
+    "name": "",
+    "definition": "3beta,5beta-Ketotriol <=> 2-Deoxyecdysone",
+    "equation": "C16494 <=> C16495",
+    "comment": "CYP302A1: 22-hydroxylase",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00981": "Insect hormone biosynthesis"
+    },
+    "orthologs": {
+      "K10721": "CYP302A1; ecdysteroid 22-hydroxylase"
+    }
+  }
+]

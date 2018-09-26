@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09625",
+    "name": "(S)-beta-macrocarpene lyase (decyclizing)",
+    "definition": "(S)-beta-Bisabolene <=> (S)-beta-Macrocarpene",
+    "equation": "C19751 <=> C19752",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.17"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15797": "(S)-beta-macrocarpene synthase [EC:5.5.1.17]"
+    }
+  }
+]

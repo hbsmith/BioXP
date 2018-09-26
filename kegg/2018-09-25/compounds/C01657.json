@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C01657",
+    "name": "Ac-Tyr-OEt",
+    "names": [
+      "Ac-Tyr-OEt",
+      "N-Acetyl-L-tyrosine ethyl ester",
+      "Ethyl N-alpha-acetyl-tyrosinate"
+    ],
+    "formula": "C13H17NO4",
+    "exact_mass": 251.1158,
+    "mol_weight": 251.2784,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "840-97-1"
+      ],
+      "PubChem": [
+        "4806"
+      ],
+      "ChEBI": [
+        "28828"
+      ],
+      "ChEMBL": [
+        "CHEMBL3278820"
+      ],
+      "NIKKAJI": [
+        "J144.114K"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C8x C    16.0300  -19.6000\n            2   C8y C    16.0300  -21.0000\n            3   C8x C    17.2424  -21.7000\n            4   C8x C    18.4549  -21.0000\n            5   C8y C    18.4549  -19.6000\n            6   C8x C    17.2424  -18.9000\n            7   C1b C    19.6924  -18.9000\n            8   C1c C    20.9049  -19.6000\n            9   C7a C    22.1173  -18.9000\n            10  O7a O    23.3297  -19.6000\n            11  O6a O    22.1173  -17.5000\n            12  O1a O    14.8176  -21.7000\n            13  N1b N    20.9049  -20.9998\n            14  C1b C    24.5224  -18.9000\n            15  C1a C    25.7349  -19.6000\n            16  C5a C    22.1424  -21.7000\n            17  C1a C    23.3549  -21.0000\n            18  O5a O    22.1485  -23.0997\nBOND        18\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    9  11 2\n            12    2  12 1\n            13    8  13 1 #Up\n            14   10  14 1\n            15   14  15 1\n            16   13  16 1\n            17   16  17 1\n            18   16  18 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00010",
+    "name": "alpha,alpha-trehalose glucohydrolase",
+    "definition": "alpha,alpha-Trehalose + H2O <=> 2 D-Glucose",
+    "equation": "C01083 + C00001 <=> 2 C00031",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.28"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01194": "alpha,alpha-trehalase [EC:3.2.1.28]"
+    }
+  }
+]

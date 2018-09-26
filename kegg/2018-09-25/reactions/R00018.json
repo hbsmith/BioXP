@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00018",
+    "name": "putrescine:putrescine 4-aminobutyltransferase (ammonia-forming)",
+    "definition": "2 Putrescine <=> sym-Homospermidine + Ammonia",
+    "equation": "2 C00134 <=> C06366 + C00014",
+    "comment": "homospermidine synthase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.44"
+    ],
+    "pathways": {
+      "rn00960": "Tropane, piperidine and pyridine alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00808": "homospermidine synthase [EC:2.5.1.44]"
+    }
+  }
+]

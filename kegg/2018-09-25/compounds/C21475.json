@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C21475",
+    "name": "5,10-Dihydrophenazine",
+    "names": [
+      "5,10-Dihydrophenazine"
+    ],
+    "formula": "C12H10N2",
+    "exact_mass": 182.0844,
+    "mol_weight": 182.2212,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11572",
+      "R11573"
+    ],
+    "pathways": {
+      "map00405": "Phenazine biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "329970427"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C     9.9400  -14.3500\n            2   C8x C     9.9400  -15.7500\n            3   C8x C    11.1524  -16.4500\n            4   C8y C    12.3649  -15.7500\n            5   C8y C    12.3649  -14.3500\n            6   C8x C    11.1524  -13.6500\n            7   N1x N    13.5773  -16.4500\n            8   C8y C    14.7897  -15.7500\n            9   C8y C    14.7897  -14.3500\n            10  N1x N    13.5773  -13.6500\n            11  C8x C    16.0022  -16.4500\n            12  C8x C    17.2146  -15.7500\n            13  C8x C    17.2146  -14.3500\n            14  C8x C    16.0022  -13.6500\nBOND        16\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 2\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    5  10 1\n            12    8  11 1\n            13   11  12 2\n            14   12  13 1\n            15   13  14 2\n            16    9  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

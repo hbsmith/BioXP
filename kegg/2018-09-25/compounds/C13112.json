@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C13112",
+    "name": "Ancitabin hydrochloride",
+    "names": [
+      "Ancitabin hydrochloride",
+      "Cyclocytidine"
+    ],
+    "formula": "C9H11N3O4. HCl",
+    "exact_mass": 261.0516,
+    "mol_weight": 261.6623,
+    "remark": "Same as: D01651",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "10212-25-6"
+      ],
+      "PubChem": [
+        "585176"
+      ],
+      "ChEBI": [
+        "74843"
+      ],
+      "ChEMBL": [
+        "CHEMBL1255937"
+      ],
+      "NIKKAJI": [
+        "J268.819K"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   X   Cl   25.2357  -19.9363\n            2   O2x O    19.6746  -15.3163\n            3   C1y C    18.5383  -16.1428\n            4   C1y C    18.9741  -17.4743\n            5   C1y C    20.8111  -16.1428\n            6   C1y C    20.3780  -17.4757\n            7   O2x O    21.5118  -18.2997\n            8   N4y N    22.2126  -16.1428\n            9   C8y C    22.6382  -17.4763\n            10  N5x N    24.0059  -17.7744\n            11  C8y C    24.9480  -16.7391\n            12  C8x C    24.5223  -15.4057\n            13  C8x C    23.2481  -15.1075\n            14  C1b C    17.2054  -15.7117\n            15  O1a O    16.1656  -16.6504\n            16  O1a O    18.1513  -18.6081\n            17  N2a N    26.3166  -17.0374\nBOND        18\n            1     4   6 1\n            2     5   2 1\n            3     8   9 1\n            4     9  10 2\n            5    10  11 1\n            6    11  12 1\n            7    12  13 2\n            8    13   8 1\n            9     5   6 1\n            10    3  14 1 #Up\n            11    6   7 1\n            12   14  15 1\n            13    7   9 1\n            14    4  16 1 #Down\n            15    5   8 1\n            16   11  17 2\n            17    2   3 1\n            18    3   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

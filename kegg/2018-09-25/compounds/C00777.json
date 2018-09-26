@@ -1,0 +1,93 @@
+[
+  {
+    "entry_id": "C00777",
+    "name": "Retinoate",
+    "names": [
+      "Retinoate",
+      "Retinoic acid",
+      "Vitamin A acid",
+      "all-trans-Retinoate",
+      "Acide retinoique (French) (DSL)",
+      "Tretinoine (French) (EINECS)",
+      "3,7-Dimethyl-9-(2,6,6-trimethyl-1-cyclohexene-1-yl)-2,4,6,8-nonatetraenoic acid (ECL)",
+      "(all-E)-3,7-Dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2,4,6,8-nonatetraenoic acid",
+      "beta-Retinoic acid",
+      "AGN 100335",
+      "all-(E)-Retinoic acid",
+      "all-trans-beta-Retinoic acid",
+      "all-trans-Retinoic acid",
+      "all-trans-Tretinoin",
+      "all-trans-Vitamin A acid",
+      "Ro 1-5488",
+      "trans-Retinoic acid",
+      "Tretin M",
+      "all-trans-Vitamin A1 acid"
+    ],
+    "formula": "C20H28O2",
+    "exact_mass": 300.2089,
+    "mol_weight": 300.4351,
+    "remark": "Same as: D00094",
+    "comment": "",
+    "reactions": [
+      "R02123",
+      "R02125",
+      "R02902",
+      "R08390",
+      "R08391",
+      "R08392"
+    ],
+    "pathways": {
+      "map00830": "Retinol metabolism",
+      "map01100": "Metabolic pathways",
+      "map04659": "Th17 cell differentiation",
+      "map04672": "Intestinal immune network for IgA production",
+      "map05200": "Pathways in cancer",
+      "map05222": "Small cell lung cancer",
+      "map05223": "Non-small cell lung cancer",
+      "map05226": "Gastric cancer"
+    },
+    "enzymes": [
+      "1.2.1.36",
+      "1.2.3.1",
+      "1.14.13.-",
+      "1.14.14.1",
+      "1.14.14.-",
+      "1.14.15.3",
+      "2.4.1.17"
+    ],
+    "dblinks": {
+      "CAS": [
+        "302-79-4"
+      ],
+      "PubChem": [
+        "4038"
+      ],
+      "ChEBI": [
+        "15367",
+        "35291"
+      ],
+      "ChEMBL": [
+        "CHEMBL38"
+      ],
+      "LipidBank": [
+        "VVA0018"
+      ],
+      "PDB-CCD": [
+        "REA"
+      ],
+      "3DMET": [
+        "B00172"
+      ],
+      "NIKKAJI": [
+        "J1.518K"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C2y C    17.3247  -15.7429\n            2   C1z C    17.3247  -17.1420\n            3   C2y C    16.1099  -15.0496\n            4   C2b C    18.5202  -15.0434\n            5   C1x C    16.1099  -17.8480\n            6   C1a C    17.8603  -18.7470\n            7   C1a C    18.6474  -17.4919\n            8   C1x C    14.9143  -15.7429\n            9   C1a C    16.1035  -13.6632\n            10  C2b C    19.7224  -15.7366\n            11  C1x C    14.9143  -17.1420\n            12  C2c C    20.9178  -15.0369\n            13  C2b C    22.1136  -15.7302\n            14  C1a C    20.9116  -13.6570\n            15  C2b C    23.3093  -15.0306\n            16  C2b C    24.5112  -15.7175\n            17  C2c C    25.7069  -15.0244\n            18  C2b C    26.9089  -15.7112\n            19  C1a C    25.7005  -13.6442\n            20  C6a C    28.1046  -15.0179\n            21  O6a O    29.3002  -15.7112\n            22  O6a O    28.0918  -13.6378\nBOND        22\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     2   7 1\n            7     3   8 1\n            8     3   9 1\n            9     4  10 2\n            10    5  11 1\n            11   10  12 1\n            12   12  13 2\n            13   12  14 1\n            14   13  15 1\n            15   15  16 2\n            16   16  17 1\n            17   17  18 2\n            18   17  19 1\n            19   18  20 1\n            20   20  21 1\n            21   20  22 2\n            22    8  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

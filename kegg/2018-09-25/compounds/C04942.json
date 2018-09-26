@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C04942",
+    "name": "beta-D-Mannosyl-R",
+    "names": [
+      "beta-D-Mannosyl-R"
+    ],
+    "formula": "C6H11O6R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = glycoprotein",
+    "reactions": [
+      "R07259"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.4.1.144"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7483"
+      ],
+      "ChEBI": [
+        "12384"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   O1a O    28.1694  -21.0824\n            2   C1y C    28.1694  -19.6772\n            3   C1y C    26.9652  -18.9811\n            4   C1y C    29.3878  -18.9811\n            5   C1y C    26.9652  -17.5817\n            6   O1a O    25.7539  -19.6772\n            7   C1y C    29.3878  -17.5817\n            8   O1a O    30.5990  -19.6772\n            9   O2x O    28.1694  -16.8785\n            10  C1b C    25.7539  -16.8785\n            11  O2a O    30.5990  -16.8785\n            12  R   R    31.8104  -17.5817\n            13  O1a O    24.5383  -17.5825\nBOND        13\n            1     2   1 1 #Up\n            2     2   3 1\n            3     2   4 1\n            4     3   5 1\n            5     3   6 1 #Down\n            6     4   7 1\n            7     4   8 1 #Up\n            8     5   9 1\n            9     5  10 1 #Up\n            10    7  11 1 #Up\n            11   11  12 1\n            12    7   9 1\n            13   10  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

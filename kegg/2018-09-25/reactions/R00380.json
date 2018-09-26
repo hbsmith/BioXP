@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00380",
+    "name": "S-Adenosyl-L-methionine:DNA (cytosine-5-)-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + DNA <=> S-Adenosyl-L-homocysteine + DNA 5-methylcytosine",
+    "equation": "C00019 + C00039 <=> C00021 + C02967",
+    "comment": "see R04858",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.37"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

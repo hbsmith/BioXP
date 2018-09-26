@@ -1,0 +1,68 @@
+[
+  {
+    "entry_id": "C00177",
+    "name": "Cyanide ion",
+    "names": [
+      "Cyanide ion",
+      "Prussiate",
+      "CN-",
+      "Cyano",
+      "Cyanide"
+    ],
+    "formula": "CN",
+    "exact_mass": 26.0031,
+    "mol_weight": 26.0174,
+    "remark": "",
+    "comment": "Hydrogen cyanide (conjugate acid) [CPD:C01326]",
+    "reactions": [
+      "R00374",
+      "R01409",
+      "R01931",
+      "R02811",
+      "R02846",
+      "R02999",
+      "R07214",
+      "R09359"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.4.99.5",
+      "1.14.17.4",
+      "1.16.1.6",
+      "2.8.1.1",
+      "4.1.2.10",
+      "4.1.2.11",
+      "4.1.2.46",
+      "4.1.2.47",
+      "4.4.1.9"
+    ],
+    "dblinks": {
+      "CAS": [
+        "57-12-5"
+      ],
+      "PubChem": [
+        "3477"
+      ],
+      "ChEBI": [
+        "17514"
+      ],
+      "PDB-CCD": [
+        "CYN"
+      ],
+      "3DMET": [
+        "B01179"
+      ],
+      "NIKKAJI": [
+        "J55.295J"
+      ]
+    },
+    "kcf": "ATOM        2\n            1   N3a N    25.0572  -16.2362\n            2   C3a C    26.1828  -15.4038 #-\nBOND        1\n            1     1   2 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

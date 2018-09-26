@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03791",
+    "name": "mandelate racemase",
+    "definition": "(S)-Mandelate <=> (R)-Mandelate",
+    "equation": "C01984 <=> C01983",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.2.2"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01781": "mandelate racemase [EC:5.1.2.2]"
+    }
+  }
+]

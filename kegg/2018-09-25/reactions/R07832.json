@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R07832",
+    "name": "3-hydroxy-5-oxohexanoyl-CoA:acetate CoA-transferase",
+    "definition": "3-Hydroxy-5-oxohexanoate + Acetyl-CoA <=> 3-Hydroxy-5-oxohexanoyl-CoA + Acetate",
+    "equation": "C16272 + C00024 <=> C16273 + C00033",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.8"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01034": "acetate CoA/acetoacetate CoA-transferase alpha subunit [EC:2.8.3.8 2.8.3.9]",
+      "K01035": "acetate CoA/acetoacetate CoA-transferase beta subunit [EC:2.8.3.8 2.8.3.9]",
+      "K19709": "acetate CoA-transferase [EC:2.8.3.8]"
+    }
+  }
+]

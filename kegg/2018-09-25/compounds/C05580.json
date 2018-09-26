@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C05580",
+    "name": "3,4-Dihydroxymandelate",
+    "names": [
+      "3,4-Dihydroxymandelate",
+      "3,4-Dihydroxymandelic acid",
+      "Dihydroxymandelic acid"
+    ],
+    "formula": "C8H8O5",
+    "exact_mass": 184.0372,
+    "mol_weight": 184.1461,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04882",
+      "R04883",
+      "R04887"
+    ],
+    "pathways": {
+      "map00350": "Tyrosine metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.2.1.5",
+      "2.1.1.6"
+    ],
+    "dblinks": {
+      "CAS": [
+        "775-01-9"
+      ],
+      "PubChem": [
+        "7906"
+      ],
+      "ChEBI": [
+        "27637"
+      ],
+      "3DMET": [
+        "B05075"
+      ],
+      "NIKKAJI": [
+        "J128.158E"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    21.0000  -17.9900\n            2   C1c C    22.1900  -17.2900\n            3   C6a C    23.4500  -17.9900\n            4   O6a O    24.6400  -17.2900\n            5   O1a O    22.1900  -15.8900\n            6   O6a O    23.4500  -19.3900\n            7   C8x C    18.5500  -17.9900\n            8   C8y C    18.5500  -19.3900\n            9   C8y C    19.7400  -20.0900\n            10  C8x C    21.0000  -19.3900\n            11  C8x C    19.7400  -17.2900\n            12  O1a O    17.3600  -20.0900\n            13  O1a O    19.7400  -21.4900\nBOND        13\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     2   5 1\n            5     3   6 2\n            6     7   8 2\n            7     8   9 1\n            8     9  10 2\n            9    10   1 1\n            10    1  11 2\n            11    7  11 1\n            12    8  12 1\n            13    9  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

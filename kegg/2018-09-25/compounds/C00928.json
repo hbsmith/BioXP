@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C00928",
+    "name": "Mercaptoethanol",
+    "names": [
+      "Mercaptoethanol",
+      "2-Mercaptoethanol",
+      "Thioglycol"
+    ],
+    "formula": "C2H6OS",
+    "exact_mass": 78.0139,
+    "mol_weight": 78.1334,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.8.1.2"
+    ],
+    "dblinks": {
+      "CAS": [
+        "60-24-2"
+      ],
+      "PubChem": [
+        "4181"
+      ],
+      "ChEBI": [
+        "41218"
+      ],
+      "ChEMBL": [
+        "CHEMBL254951"
+      ],
+      "PDB-CCD": [
+        "BME"
+      ],
+      "3DMET": [
+        "B00201"
+      ],
+      "NIKKAJI": [
+        "J1.396J"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   C1b C    22.7253  -15.8223\n            2   C1b C    21.5147  -16.5177\n            3   O1a O    23.9426  -16.5177\n            4   S1a S    20.2974  -15.8223\nBOND        3\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

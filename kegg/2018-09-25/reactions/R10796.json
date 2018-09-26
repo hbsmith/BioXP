@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10796",
+    "name": "2-hydroxy-5-methyl-1-naphthoate,hydrogen-donor:oxygen oxidoreductase (7-hydroxylating)",
+    "definition": "2-Hydroxy-5-methyl-1-naphthoate + Reduced acceptor + Oxygen <=> 2,7-Dihydroxy-5-methyl-1-naphthoate + Acceptor + H2O",
+    "equation": "C20856 + C00030 + C00007 <=> C20857 + C00028 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.49"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20420": "2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase [EC:1.14.99.49]"
+    }
+  }
+]

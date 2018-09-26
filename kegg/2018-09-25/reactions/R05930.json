@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05930",
+    "name": "",
+    "definition": "UDP-N-acetyl-D-glucosamine + G00157 <=> UDP + G00162",
+    "equation": "G10610 + G00157 <=> G10619 + G00162",
+    "comment": "EXTL2, EXTL3",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.223"
+    ],
+    "pathways": {
+      "rn00534": "Glycosaminoglycan biosynthesis - heparan sulfate / heparin",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K02369": "alpha-1,4-N-acetylglucosaminyltransferase EXTL2 [EC:2.4.1.223]",
+      "K02370": "alpha-1,4-N-acetylglucosaminyltransferase EXTL3 [EC:2.4.1.223 2.4.1.224]"
+    }
+  }
+]

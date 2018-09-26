@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06589",
+    "name": "",
+    "definition": "Kanosamine 6-phosphate <=> Aminofructose 6-phosphate",
+    "equation": "C12213 <=> C12214",
+    "comment": "phosphoglucose isomerase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.1.-"
+    ],
+    "pathways": {
+      "rn01051": "Biosynthesis of ansamycins",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K01820": "L-rhamnose isomerase / sugar isomerase [EC:5.3.1.14 5.3.1.-]"
+    }
+  }
+]

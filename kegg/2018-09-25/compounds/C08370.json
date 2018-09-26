@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C08370",
+    "name": "Diallyl sulfide",
+    "names": [
+      "Diallyl sulfide",
+      "Allyl sulfide"
+    ],
+    "formula": "C6H10S",
+    "exact_mass": 114.0503,
+    "mol_weight": 114.2086,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "592-88-1"
+      ],
+      "PubChem": [
+        "10566"
+      ],
+      "ChEBI": [
+        "4489"
+      ],
+      "ChEMBL": [
+        "CHEMBL170458"
+      ],
+      "KNApSAcK": [
+        "C00001244"
+      ],
+      "NIKKAJI": [
+        "J6.765B"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   S2a S    28.0000  -19.8568\n            2   C1b C    26.7864  -19.1624\n            3   C1b C    29.2136  -19.1624\n            4   C2b C    25.5669  -19.8568\n            5   C2b C    30.4331  -19.8568\n            6   C2a C    24.3531  -19.1624\n            7   C2a C    31.6469  -19.1624\nBOND        6\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     4   6 2\n            6     5   7 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09702",
+    "name": "linalool hydro-lyase (myrcene-forming)",
+    "definition": "(+)-Linalool <=> Myrcene + H2O",
+    "equation": "C11389 <=> C06074 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.127"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R06052",
+    "name": "sucrose:1,4-alpha-D-glucan 4-alpha-D-glucosyltransferase",
+    "definition": "1,4-alpha-D-Glucan(n) + Sucrose <=> 1,4-alpha-D-Glucan(n+1) + D-Fructose",
+    "equation": "G10495(n) + G00370 <=> G10495(n+1) + C00095",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.4"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

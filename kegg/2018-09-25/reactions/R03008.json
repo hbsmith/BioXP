@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03008",
+    "name": "(Gibberellin-1),2-oxoglutarate:oxygen oxidoreductase (2beta-hydroxylating)",
+    "definition": "Gibberellin A1 + 2-Oxoglutarate + Oxygen <=> Gibberellin A8 + Succinate + CO2",
+    "equation": "C00859 + C00026 + C00007 <=> C03579 + C00042 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.13"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis"
+    },
+    "orthologs": {
+      "K04125": "gibberellin 2-oxidase [EC:1.14.11.13]"
+    }
+  }
+]

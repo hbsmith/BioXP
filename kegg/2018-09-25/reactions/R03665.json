@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03665",
+    "name": "L-Valine:tRNAVal ligase (AMP-forming)",
+    "definition": "ATP + L-Valine + tRNA(Val) <=> AMP + Diphosphate + L-Valyl-tRNA(Val)",
+    "equation": "C00002 + C00183 + C01653 <=> C00020 + C00013 + C02554",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.1.1.9"
+    ],
+    "pathways": {
+      "rn00970": "Aminoacyl-tRNA biosynthesis"
+    },
+    "orthologs": {
+      "K01873": "valyl-tRNA synthetase [EC:6.1.1.9]"
+    }
+  }
+]

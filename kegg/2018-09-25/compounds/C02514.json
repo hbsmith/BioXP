@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C02514",
+    "name": "3-Fumarylpyruvate",
+    "names": [
+      "3-Fumarylpyruvate"
+    ],
+    "formula": "C7H6O6",
+    "exact_mass": 186.0164,
+    "mol_weight": 186.1189,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01085",
+      "R03868"
+    ],
+    "pathways": {
+      "map00350": "Tyrosine metabolism",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "3.7.1.5",
+      "3.7.1.20",
+      "5.2.1.2",
+      "5.2.1.4"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5524"
+      ],
+      "ChEBI": [
+        "1506",
+        "16854"
+      ],
+      "3DMET": [
+        "B00456"
+      ],
+      "NIKKAJI": [
+        "J2.371.217B"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1b C    19.6432  -14.3904\n            2   C5a C    18.4334  -15.0917\n            3   C5a C    20.8594  -15.0917\n            4   C2b C    17.2235  -14.3904\n            5   O5a O    18.4334  -16.4945\n            6   C6a C    22.0692  -14.3904\n            7   O5a O    20.8594  -16.4945\n            8   C2b C    16.0074  -15.0917\n            9   O6a O    23.2791  -15.0917\n            10  O6a O    22.0692  -12.9940\n            11  C6a C    14.7975  -14.3904\n            12  O6a O    14.8041  -12.9940\n            13  O6a O    13.5877  -15.0983\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 2\n            5     3   6 1\n            6     3   7 2\n            7     4   8 2\n            8     6   9 1\n            9     6  10 2\n            10    8  11 1\n            11   11  12 1\n            12   11  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

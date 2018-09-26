@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C07509",
+    "name": "Diacetylmonoxime",
+    "names": [
+      "Diacetylmonoxime",
+      "2,3-Butanedione monoxime"
+    ],
+    "formula": "C4H7NO2",
+    "exact_mass": 101.0477,
+    "mol_weight": 101.1039,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "57-71-6"
+      ],
+      "PubChem": [
+        "9712"
+      ],
+      "ChEBI": [
+        "4480"
+      ],
+      "ChEMBL": [
+        "CHEMBL1255578"
+      ],
+      "NIKKAJI": [
+        "J1.383H"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C2c C    28.0354  -19.1616\n            2   C5a C    26.8187  -19.8578\n            3   N2b N    29.2463  -19.8578\n            4   C1a C    28.0354  -17.7577\n            5   C1a C    25.6078  -19.1616\n            6   O5a O    26.8187  -21.2618\n            7   O1b O    30.4572  -19.1616\nBOND        6\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

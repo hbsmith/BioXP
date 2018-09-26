@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03240",
+    "name": "D-Galactose 6-phosphate ketol-isomerase",
+    "definition": "D-Galactose 6-phosphate <=> D-Tagatose 6-phosphate",
+    "equation": "C01113 <=> C01097",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.1.26"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01819": "galactose-6-phosphate isomerase [EC:5.3.1.26]"
+    }
+  }
+]

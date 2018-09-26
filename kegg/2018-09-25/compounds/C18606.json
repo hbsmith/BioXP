@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C18606",
+    "name": "Potassium bicarbonate",
+    "names": [
+      "Potassium bicarbonate"
+    ],
+    "formula": "KHCO3",
+    "exact_mass": 99.9563,
+    "mol_weight": 100.1151,
+    "remark": "Same as: D02077",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "298-14-6"
+      ],
+      "PubChem": [
+        "124489280"
+      ],
+      "ChEBI": [
+        "81862"
+      ],
+      "ChEMBL": [
+        "CHEMBL2106975"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   O6a O    27.5800  -16.9400\n            2   C6a C    27.5800  -18.3400\n            3   O6a O    28.8400  -19.0400 #-\n            4   O6a O    26.3200  -19.0400\n            5   Z   K    30.4500  -19.0400 #+\nBOND        3\n            1     1   2 2\n            2     2   3 1\n            3     2   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

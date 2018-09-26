@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C19156",
+    "name": "(2S)-2-Phospholactate",
+    "names": [
+      "(2S)-2-Phospholactate"
+    ],
+    "formula": "C3H7O6P",
+    "exact_mass": 169.998,
+    "mol_weight": 170.0578,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09397"
+    ],
+    "pathways": {
+      "map00680": "Methane metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "2.7.7.68"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "124489828"
+      ],
+      "ChEBI": [
+        "45013"
+      ],
+      "ChEMBL": [
+        "CHEMBL1235229"
+      ],
+      "PDB-CCD": [
+        "PEQ"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O2b O    33.7042  -24.3274\n            2   P1b P    32.3781  -24.3274\n            3   O1c O    32.3781  -22.8475\n            4   O1c O    32.3687  -25.7955\n            5   O1c O    31.0520  -24.3274\n            6   C1c C    35.0397  -23.4487\n            7   C6a C    36.3155  -24.0894\n            8   O6a O    37.4996  -23.3105\n            9   O6a O    36.3965  -25.4784\n            10  C1a C    35.0984  -22.0545\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     2   4 1\n            4     2   5 2\n            5     6   1 1 #Up\n            6     6   7 1\n            7     7   8 2\n            8     7   9 1\n            9     6  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

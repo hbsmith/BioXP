@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R04720",
+    "name": "1-Organyl-2-arachidonyl-sn-glycero-3-phosphocholine:1-organyl-2-lyso-sn-glycero-3-phosphoethanolamine arachidonoyltransferase (CoA-independent)",
+    "definition": "1-Alkyl-2-arachidonyl-sn-glycero-3-phosphocholine + 1-Alkyl-2-lyso-sn-glycero-3-phosphoethanolamine <=> 1-Alkyl-2-arachidonyl-sn-glycero-3-phosphoethanolamine + 1-Organyl-2-lyso-sn-glycero-3-phosphocholine",
+    "equation": "C05208 + C05209 <=> C05210 + C04317",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.147"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

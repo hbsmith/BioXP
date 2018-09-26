@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C05562",
+    "name": "1H-Imidazole-4-methanol",
+    "names": [
+      "1H-Imidazole-4-methanol",
+      "Imidazole-4-methanol"
+    ],
+    "formula": "C4H6N2O",
+    "exact_mass": 98.048,
+    "mol_weight": 98.1032,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "822-55-9"
+      ],
+      "PubChem": [
+        "7892"
+      ],
+      "ChEBI": [
+        "28182"
+      ],
+      "ChEMBL": [
+        "CHEMBL1397797"
+      ],
+      "PDB-CCD": [
+        "MZ0"
+      ],
+      "NIKKAJI": [
+        "J100.709B"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   N4x N    19.9307  -19.2084\n            2   C8x C    20.3866  -20.5321\n            3   N5x N    21.7864  -20.5076\n            4   C8x C    22.1957  -19.1688\n            5   C8y C    21.0488  -18.3658\n            6   C1b C    21.0935  -16.9408\n            7   O1a O    22.2063  -16.2295\nBOND        7\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     1   5 1\n            6     5   6 1\n            7     6   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

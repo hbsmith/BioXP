@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11292",
+    "name": "S-adenosyl-L-methionine:3''-dehydro-3''-amino-gentamicin-A2 N-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 3''-Amino-3''-deoxygentamicin A2 <=> S-Adenosyl-L-homocysteine + Gentamicin A",
+    "equation": "C00019 + C21266 <=> C00021 + C01917",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20592": "SAM-dependent 3''-N-methyltransferase [EC:2.1.1.-]"
+    }
+  }
+]

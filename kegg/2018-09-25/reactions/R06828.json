@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06828",
+    "name": "UDP-glucuronate:luteolin-7-O-beta-D-diglucuronide 4'-O-glucuronosyltransferase",
+    "definition": "Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide] + UDP-glucuronate <=> Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide]-4'-O-beta-D-glucuronide + UDP",
+    "equation": "C12632 + C00167 <=> C04900 + C00015",
+    "comment": "luteolin-7-O-diglucuronide 4'-O-glucuronosyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.191"
+    ],
+    "pathways": {
+      "rn00944": "Flavone and flavonol biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

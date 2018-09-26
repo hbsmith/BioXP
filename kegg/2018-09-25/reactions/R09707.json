@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09707",
+    "name": "(5S,6S)-6-amino-5-hydroxycyclohexa-1,3-diene-1-carboxyate isomerase",
+    "definition": "(5S,6S)-6-Amino-5-hydroxycyclohexa-1,3-diene-1-carboxylate <=> (1R,6S)-6-Amino-5-oxocyclohex-2-ene-1-carboxylate",
+    "equation": "C19830 <=> C19831",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.3.17"
+    ],
+    "pathways": {
+      "rn00405": "Phenazine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+    }
+  }
+]

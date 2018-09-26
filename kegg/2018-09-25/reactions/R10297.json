@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10297",
+    "name": "1-O-vanilloyl-beta-D-glucose:delphinidin-3-O-beta-D-glucoside 7-O-beta-D-glucosyltransferase",
+    "definition": "1-O-Vanilloyl-beta-D-glucose + Delphinidin 3-O-glucoside <=> Vanillate + Delphinidin 3,7-di-O-beta-D-glucoside",
+    "equation": "C20470 + C12138 <=> C06672 + C20496",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.300"
+    ],
+    "pathways": {
+      "rn00942": "Anthocyanin biosynthesis"
+    },
+    "orthologs": {
+      "K17192": "cyanidin 3-O-glucoside 7-O-glucosyltransferase (acyl-glucose) [EC:2.4.1.300]"
+    }
+  }
+]

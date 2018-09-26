@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01909",
+    "name": "ATP:pyridoxine 5'-phosphotransferase",
+    "definition": "ATP + Pyridoxine <=> ADP + Pyridoxine phosphate",
+    "equation": "C00002 + C00314 <=> C00008 + C00627",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.35"
+    ],
+    "pathways": {
+      "rn00750": "Vitamin B6 metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00868": "pyridoxine kinase [EC:2.7.1.35]"
+    }
+  }
+]

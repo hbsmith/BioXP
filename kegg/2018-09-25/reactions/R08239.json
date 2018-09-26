@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08239",
+    "name": "S-adenosyl-L-methionine:6-thioinosine 5'-monophosphate S-methyltransferase",
+    "definition": "6-Thioinosine-5'-monophosphate + S-Adenosyl-L-methionine <=> 6-Methylthiopurine 5'-monophosphate ribonucleotide + S-Adenosyl-L-homocysteine",
+    "equation": "C04646 + C00019 <=> C16615 + C00021",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.67"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K00569": "thiopurine S-methyltransferase [EC:2.1.1.67]"
+    }
+  }
+]

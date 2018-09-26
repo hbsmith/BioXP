@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06423",
+    "name": "dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose:2-oxoglutarate aminotransferase",
+    "definition": "3,6-Dideoxy-3-oxo-dTDP-D-glucose + L-Glutamate <=> dTDP-3-amino-3,6-dideoxy-D-glucose + 2-Oxoglutarate",
+    "equation": "C11908 + C00025 <=> C11925 + C00026",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.89"
+    ],
+    "pathways": {
+      "rn00523": "Polyketide sugar unit biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19854": "dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase [EC:2.6.1.89]"
+    }
+  }
+]

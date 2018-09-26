@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02584",
+    "name": "ATP:[protein]-L-tyrosine O-phosphotransferase",
+    "definition": "ATP + Protein tyrosine <=> ADP + Protein tyrosine phosphate",
+    "equation": "C00002 + C00585 <=> C00008 + C01167",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.10.1",
+      "2.7.10.2",
+      "2.7.12.1",
+      "2.7.12.2"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

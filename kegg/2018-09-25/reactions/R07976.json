@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R07976",
+    "name": "theophylline:oxygen oxidoreductase (N3-demethylating)",
+    "definition": "Theophylline + NADPH + H+ + Oxygen <=> 1-Methylxanthine + NADP+ + Formaldehyde + H2O",
+    "equation": "C07130 + C00005 + C00080 + C00007 <=> C16358 + C00006 + C00067 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.179"
+    ],
+    "pathways": {
+      "rn00232": "Caffeine metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K21723": "methylxanthine N3-demethylase [EC:1.14.13.179]"
+    }
+  }
+]

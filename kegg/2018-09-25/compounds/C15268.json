@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C15268",
+    "name": "trans-2-(4-Nitrophenyl)-3-phenyloxirane",
+    "names": [
+      "trans-2-(4-Nitrophenyl)-3-phenyloxirane",
+      "trans- alpha,alpha'-Epoxy-4-nitrobibenzyl",
+      "trans-4-Nitrostilbene oxide"
+    ],
+    "formula": "C14H11NO3",
+    "exact_mass": 241.0739,
+    "mol_weight": 241.242,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "14985-26-3"
+      ],
+      "PubChem": [
+        "17396265"
+      ],
+      "ChEBI": [
+        "79770"
+      ],
+      "LIPIDMAPS": [
+        "LMPK13090027"
+      ],
+      "NIKKAJI": [
+        "J595.103H"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C8x C    20.9202  -18.5378\n            2   C8x C    20.9202  -19.9369\n            3   C8x C    22.1318  -20.6365\n            4   C8x C    23.3435  -19.9369\n            5   C8y C    23.3435  -18.5378\n            6   C8x C    22.1318  -17.8383\n            7   C1y C    24.5738  -17.8273\n            8   C1y C    25.9729  -17.8273\n            9   O2x O    25.2734  -16.6156\n            10  C8y C    27.1772  -18.5226\n            11  C8x C    27.1774  -19.9366\n            12  C8x C    28.3891  -20.6360\n            13  C8y C    29.6007  -19.9362\n            14  C8x C    29.6004  -18.5224\n            15  C8x C    28.3887  -17.8229\n            16  N2b N    30.8081  -20.6331 #+\n            17  O3a O    30.8084  -22.0353\n            18  O3a O    31.9998  -19.9446 #-\nBOND        20\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     7   5 1 #Down\n            8     7   8 1\n            9     7   9 1\n            10    8   9 1\n            11    8  10 1 #Up\n            12   10  11 2\n            13   11  12 1\n            14   12  13 2\n            15   13  14 1\n            16   14  15 2\n            17   10  15 1\n            18   13  16 1\n            19   16  17 2\n            20   16  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

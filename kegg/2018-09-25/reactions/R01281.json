@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01281",
+    "name": "Palmitoyl-CoA:L-serine C-palmitoyltransferase (decarboxylating)",
+    "definition": "Palmitoyl-CoA + L-Serine <=> 3-Dehydrosphinganine + CoA + CO2",
+    "equation": "C00154 + C00065 <=> C02934 + C00010 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.50"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00654": "serine palmitoyltransferase [EC:2.3.1.50]"
+    }
+  }
+]

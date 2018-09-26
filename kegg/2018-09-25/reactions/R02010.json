@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R02010",
+    "name": "geranyl-diphosphate diphosphate-lyase (cyclizing, terpinolene-forming)",
+    "definition": "Geranyl diphosphate <=> Terpinolene + Diphosphate",
+    "equation": "C00341 <=> C06075 + C00013",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.113"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

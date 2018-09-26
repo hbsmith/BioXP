@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11240",
+    "name": "",
+    "definition": "Validoxylamine A 7'-phosphate + H2O <=> Validoxylamine A + Orthophosphate",
+    "equation": "C21219 + C00001 <=> C17700 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.3.101"
+    ],
+    "pathways": {
+      "rn00525": "Acarbose and validamycin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20437": "validoxylamine A 7'-phosphate phosphatase [EC:3.1.3.101]"
+    }
+  }
+]

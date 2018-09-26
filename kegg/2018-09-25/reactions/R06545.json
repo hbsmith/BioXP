@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06545",
+    "name": "4-hydroxycinnamoyl-CoA:cyanidin 3,5-O-diglucoside 6''-O-acyltransferase",
+    "definition": "Cyanin + p-Coumaroyl-CoA <=> Cyanidin 3-O-(6-O-p-coumaroyl)glucoside-5-O-glucoside + CoA",
+    "equation": "C08639 + C00223 <=> C12096 + C00010",
+    "comment": "anthocyanin 3-aromatic acyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.215"
+    ],
+    "pathways": {
+      "rn00942": "Anthocyanin biosynthesis"
+    },
+    "orthologs": {
+      "K21383": "anthocyanidin 3-O-glucoside 6''-O-acyltransferase [EC:2.3.1.215]"
+    }
+  }
+]

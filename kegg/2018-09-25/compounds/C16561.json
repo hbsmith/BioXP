@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C16561",
+    "name": "Monoethylglycinexylidide",
+    "names": [
+      "Monoethylglycinexylidide"
+    ],
+    "formula": "C12H18N2O",
+    "exact_mass": 206.1419,
+    "mol_weight": 206.2841,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08293",
+      "R08295",
+      "R08296",
+      "R08298"
+    ],
+    "pathways": {
+      "map00982": "Drug metabolism - cytochrome P450"
+    },
+    "enzymes": [
+      "1.14.13.-",
+      "1.14.14.1",
+      "3.1.1.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "7728-40-7"
+      ],
+      "PubChem": [
+        "51090890"
+      ],
+      "ChEBI": [
+        "222828"
+      ],
+      "ChEMBL": [
+        "CHEMBL1028"
+      ],
+      "NIKKAJI": [
+        "J55.345J"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8y C    23.6932  -19.6284\n            2   N1b N    24.9086  -20.3312\n            3   C8y C    22.4833  -20.3369\n            4   C8y C    23.6932  -18.2284\n            5   C5a C    26.1186  -19.6226\n            6   C8x C    21.2735  -19.6284\n            7   C1a C    22.4891  -21.7312\n            8   C8x C    22.4833  -17.5313\n            9   C1a C    24.8971  -17.5313\n            10  C1b C    27.3283  -20.3312\n            11  O5a O    26.1071  -18.2177\n            12  C8x C    21.2735  -18.2284\n            13  N1b N    28.5440  -19.6226\n            14  C1b C    29.7596  -20.3312\n            15  C1a C    30.9579  -19.6226\nBOND        15\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     3   7 1\n            7     4   8 2\n            8     4   9 1\n            9     5  10 1\n            10    5  11 2\n            11    6  12 2\n            12   10  13 1\n            13   13  14 1\n            14   14  15 1\n            15    8  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

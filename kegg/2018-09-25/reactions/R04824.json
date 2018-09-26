@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04824",
+    "name": "3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestane:NAD+ oxidoreductase (B-specific)",
+    "definition": "3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestane + NAD+ <=> 7alpha,12alpha-Dihydroxy-5beta-cholestan-3-one + NADH + H+",
+    "equation": "C05454 + C00003 <=> C05453 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.50"
+    ],
+    "pathways": {
+      "rn00120": "Primary bile acid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00037": "3alpha-hydroxysteroid 3-dehydrogenase / chlordecone reductase [EC:1.1.1.50 1.1.1.357 1.1.1.225]"
+    }
+  }
+]

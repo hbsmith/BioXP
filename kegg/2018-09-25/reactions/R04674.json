@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R04674",
+    "name": "N-methylhistamine:oxygen oxidoreductase (deaminating)",
+    "definition": "N-Methylhistamine + H2O + Oxygen <=> Methylimidazole acetaldehyde + Ammonia + Hydrogen peroxide",
+    "equation": "C05127 + C00001 + C00007 <=> C05827 + C00014 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.4",
+      "1.4.3.22"
+    ],
+    "pathways": {
+      "rn00340": "Histidine metabolism"
+    },
+    "orthologs": {
+      "K00274": "monoamine oxidase [EC:1.4.3.4]",
+      "K11182": "diamine oxidase [EC:1.4.3.22]"
+    }
+  }
+]

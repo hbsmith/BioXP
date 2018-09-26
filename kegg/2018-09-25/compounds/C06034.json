@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C06034",
+    "name": "4-Hydroxy-4-methylglutamate",
+    "names": [
+      "4-Hydroxy-4-methylglutamate"
+    ],
+    "formula": "C6H11NO5",
+    "exact_mass": 177.0637,
+    "mol_weight": 177.1552,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05077"
+    ],
+    "pathways": {
+      "map00660": "C5-Branched dibasic acid metabolism"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8306"
+      ],
+      "ChEBI": [
+        "1848",
+        "20384"
+      ],
+      "3DMET": [
+        "B01957"
+      ],
+      "NIKKAJI": [
+        "J2.369.635E"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1d C    25.2755  -20.9249\n            2   C6a C    24.0585  -20.2268\n            3   C1b C    26.4860  -20.2332\n            4   C1a C    25.9866  -22.1291\n            5   O1a O    24.5901  -22.1291\n            6   O6a O    22.8480  -20.9249\n            7   O6a O    24.0713  -18.8177\n            8   C1c C    27.6966  -20.9314\n            9   C6a C    28.9136  -20.2332\n            10  N1a N    27.7094  -22.3405\n            11  O6a O    30.1306  -20.9249\n            12  O6a O    28.9201  -18.8306\nBOND        11\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     1   5 1 #Down\n            5     2   6 1\n            6     2   7 2\n            7     3   8 1\n            8     8   9 1\n            9     8  10 1 #Up\n            10    9  11 1\n            11    9  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

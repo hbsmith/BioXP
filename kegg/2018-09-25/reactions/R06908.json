@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R06908",
+    "name": "",
+    "definition": "Naphthyl-2-oxomethyl-succinyl-CoA + CoA <=> 2-Naphthoyl-CoA + Succinyl-CoA",
+    "equation": "C14119 + C00010 <=> C14120 + C00091",
+    "comment": "thiolase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.-"
+    ],
+    "pathways": {
+      "rn00626": "Naphthalene degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K15574": "naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit [EC:2.3.1.-]",
+      "K15575": "naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit [EC:2.3.1.-]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10161",
+    "name": "propanoyl-CoA:NAD+ oxidoreductase",
+    "definition": "Propanoyl-CoA + NAD+ <=> Propenoyl-CoA + NADH + H+",
+    "equation": "C00100 + C00003 <=> C00894 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.1.95"
+    ],
+    "pathways": {
+      "rn00640": "Propanoate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K20143": "acrylyl-CoA reductase (NADH) [EC:1.3.1.95]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06560",
+    "name": "formononetin,NADPH:oxygen oxidoreductase (2'-hydroxylating)",
+    "definition": "Formononetin + NADPH + Oxygen + H+ <=> 2'-Hydroxyformononetin + NADP+ + H2O",
+    "equation": "C00858 + C00005 + C00007 + C00080 <=> C02920 + C00006 + C00001",
+    "comment": "isoflavone 2'-hydroxylase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.53",
+      "1.14.13.89"
+    ],
+    "pathways": {
+      "rn00943": "Isoflavonoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13260": "isoflavone 2'-hydroxylase [EC:1.14.13.89]"
+    }
+  }
+]

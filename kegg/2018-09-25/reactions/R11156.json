@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11156",
+    "name": "asperlicin C,NADH:oxygen oxidoreductase",
+    "definition": "Asperlicin C + NADH + H+ + Oxygen <=> Asperlicin E + NAD+ + H2O",
+    "equation": "C21147 + C00004 + C00080 + C00007 <=> C21148 + C00003 + C00001",
+    "comment": "NADPH (see R11157)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.216"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

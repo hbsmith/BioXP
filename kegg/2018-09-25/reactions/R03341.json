@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03341",
+    "name": "4-hydroxyphenylpyruvate carboxy-lyase",
+    "definition": "3-(4-Hydroxyphenyl)pyruvate <=> 4-Hydroxyphenylacetaldehyde + CO2",
+    "equation": "C01179 <=> C03765 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.80"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

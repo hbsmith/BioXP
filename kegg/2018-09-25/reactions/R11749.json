@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11749",
+    "name": "trans-aconitate carboxy-lyase",
+    "definition": "trans-Aconitate <=> Itaconate + CO2",
+    "equation": "C02341 <=> C00490 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.-"
+    ],
+    "pathways": {
+      "rn00660": "C5-Branched dibasic acid metabolism"
+    },
+    "orthologs": {
+      "K22004": "trans-aconitate decarbocylase [EC:4.1.1.-]"
+    }
+  }
+]

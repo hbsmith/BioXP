@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11482",
+    "name": "4'-O-methylnorbelladine,NADPH---hemoprotein reductase:oxygen oxidoreductase (noroxomaritidine-forming)",
+    "definition": "4'-O-Methylnorbelladine + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> (4aS,10bR)-Noroxomaritidine + [Oxidized NADPH---hemoprotein reductase] + 2 H2O",
+    "equation": "C16702 + C03024 + C00007 <=> C21405 + C03161 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.50"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis"
+    },
+    "orthologs": {
+      "K21208": "noroxomaritidine synthase [EC:1.14.19.50 1.14.19.-]"
+    }
+  }
+]

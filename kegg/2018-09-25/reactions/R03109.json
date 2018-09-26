@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03109",
+    "name": "Acyl-CoA:1-O-alk-1-enyl-glycero-3-phosphocholine 2-O-acyltransferase",
+    "definition": "Acyl-CoA + 1-(1-Alkenyl)-sn-glycero-3-phosphocholine <=> CoA + Plasmenylcholine",
+    "equation": "C00040 + C04517 <=> C00010 + C00958",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.25"
+    ],
+    "pathways": {
+      "rn00565": "Ether lipid metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

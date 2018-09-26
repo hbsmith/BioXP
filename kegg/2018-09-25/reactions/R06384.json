@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06384",
+    "name": "menth-8-en-2-ol:NAD+ oxidoreductase",
+    "definition": "(1S,2R,4R)-Neoiso-dihydrocarveol + NAD+ <=> (1S,4R)-Iso-dihydrocarvone + NADH + H+",
+    "equation": "C11400 + C00003 <=> C11401 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.296"
+    ],
+    "pathways": {
+      "rn00903": "Limonene and pinene degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

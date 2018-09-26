@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C20934",
+    "name": "3-Deoxy-D-glycero-D-galacto-non-2-ulosonic acid",
+    "names": [
+      "3-Deoxy-D-glycero-D-galacto-non-2-ulosonic acid",
+      "2-Keto-3-deoxy-D-glycero-D-galacto-nononic acid",
+      "KDN",
+      "Deaminated neuraminic acid",
+      "Ketodeoxynonulonic acid",
+      "3-Deoxy-D-glycero-D-galacto-non-2-ulopyranosonic acid"
+    ],
+    "formula": "C9H16O9",
+    "exact_mass": 268.0794,
+    "mol_weight": 268.2179,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11440",
+      "R11441"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.7.7.92",
+      "3.1.3.103"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741396"
+      ],
+      "PDB-CCD": [
+        "KDM",
+        "KDN"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C1y C    17.4951  -16.1882\n            2   C1y C    17.4951  -17.5923\n            3   O2x O    18.7127  -15.4950\n            4   C1c C    16.2774  -15.4950\n            5   C1y C    18.7127  -18.2972\n            6   O1a O    16.2774  -18.2972\n            7   C1z C    19.9186  -16.1882\n            8   C1c C    16.2832  -14.0908\n            9   O1a O    15.0655  -16.1882\n            10  C1x C    19.9186  -17.5923\n            11  O1a O    18.7127  -19.6953\n            12  C6a C    20.9090  -15.1921\n            13  O1a O    21.2643  -16.5494\n            14  C1b C    15.0655  -13.3860\n            15  O1a O    17.4951  -13.3860\n            16  O6a O    22.2664  -15.5474\n            17  O6a O    20.5302  -13.8405\n            18  O1a O    15.0655  -11.9877\nBOND        18\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1 #Up\n            6     3   7 1\n            7     4   8 1\n            8     4   9 1 #Down\n            9     5  10 1\n            10    5  11 1 #Down\n            11    7  12 1 #Either\n            12    7  13 1\n            13    8  14 1\n            14    8  15 1 #Up\n            15   12  16 1\n            16   12  17 2\n            17   14  18 1\n            18    7  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

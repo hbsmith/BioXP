@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09296",
+    "name": "UDP-D-GlcNAc:O-L-fucosylpeptide 3-beta-N-acetyl-D-glucosaminyltransferase",
+    "definition": "UDP-N-acetyl-D-glucosamine + G13052 <=> UDP + G13053",
+    "equation": "G10610 + G13052 <=> G10619 + G13053",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.222"
+    ],
+    "pathways": {
+      "rn00514": "Other types of O-glycan biosynthesis"
+    },
+    "orthologs": {
+      "K05948": "fringe [EC:2.4.1.222]"
+    }
+  }
+]

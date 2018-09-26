@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11138",
+    "name": "",
+    "definition": "dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose <=> dTDP-3-amino-4-oxo-2,3,6-trideoxy-L-allose",
+    "equation": "C12318 <=> C21137",
+    "comment": "unclear reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00404": "Staurosporine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16438": "5-epimerase [EC:5.1.3.-]"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C14188",
+    "name": "3-tert-Butylphenol",
+    "names": [
+      "3-tert-Butylphenol"
+    ],
+    "formula": "C10H14O",
+    "exact_mass": 150.1045,
+    "mol_weight": 150.2176,
+    "remark": "",
+    "comment": "2-tert-Butylphenol [CPD:C14130] 4-tert-Butylphenol [CPD:C14200]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "585-34-2"
+      ],
+      "PubChem": [
+        "7846998"
+      ],
+      "ChEBI": [
+        "34348"
+      ],
+      "ChEMBL": [
+        "CHEMBL224899"
+      ],
+      "NIKKAJI": [
+        "J47.447I"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    29.7431  -21.6676\n            2   C8x C    28.5301  -22.3680\n            3   C8x C    29.7431  -20.2668\n            4   C8y C    27.3170  -21.6676\n            5   C8y C    28.5301  -19.5665\n            6   C8x C    27.3170  -20.2668\n            7   C1a C    28.5301  -16.7650\n            8   C1a C    29.9308  -18.1657\n            9   C1a C    27.1293  -18.1657\n            10  C1d C    28.5301  -18.1657\n            11  O1a O    26.1109  -22.3638\nBOND        11\n            1     1   2 2\n            2     1   3 1\n            3     2   4 1\n            4     3   5 2\n            5     4   6 2\n            6     5   6 1\n            7     5  10 1\n            8     7  10 1\n            9     8  10 1\n            10    9  10 1\n            11    4  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08263",
+    "name": "",
+    "definition": "Morphine + UDP-glucuronate <=> Morphine-6-glucuronide + UDP",
+    "equation": "C01516 + C00167 <=> C16578 + C00015",
+    "comment": "UGT2B7",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.17"
+    ],
+    "pathways": {
+      "rn00982": "Drug metabolism - cytochrome P450"
+    },
+    "orthologs": {
+      "K00699": "glucuronosyltransferase [EC:2.4.1.17]"
+    }
+  }
+]

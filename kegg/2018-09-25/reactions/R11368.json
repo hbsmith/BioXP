@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R11368",
+    "name": "(S)-beta-tyrosyl-[pcp]:FADH2 oxidoreductase",
+    "definition": "(S)-beta-Tyrosyl-[pcp] + FADH2 + Cl- + Oxygen + H+ <=> (S)-3-Chloro-beta-tyrosyl-[pcp] + FAD + 2 H2O",
+    "equation": "C21309 + C01352 + C00698 + C00007 + C00080 <=> C20810 + C00016 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.-"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16431": "FAD-dependent halogenase [EC:1.14.19.-]",
+      "K21185": "flavin reductase"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C13034",
+    "name": "Bronopol",
+    "names": [
+      "Bronopol"
+    ],
+    "formula": "C3H6BrNO4",
+    "exact_mass": 198.948,
+    "mol_weight": 199.988,
+    "remark": "Same as: D01577",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "52-51-7"
+      ],
+      "PubChem": [
+        "583423"
+      ],
+      "ChEBI": [
+        "31306"
+      ],
+      "ChEMBL": [
+        "CHEMBL1408862"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   O1a O    17.1250  -14.8048\n            2   C1b C    18.3365  -14.1034\n            3   C1d C    19.5479  -14.7976\n            4   N2b N    20.7594  -14.0962 #+\n            5   O3a O    21.9709  -14.7905 #-\n            6   C1b C    18.3295  -15.4919\n            7   X   Br   20.7594  -15.4990\n            8   O1a O    18.3224  -16.8946\n            9   O3a O    20.7563  -12.6935\nBOND        8\n            1     4   5 1\n            2     2   3 1\n            3     3   6 1\n            4     1   2 1\n            5     3   7 1\n            6     3   4 1\n            7     6   8 1\n            8     4   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

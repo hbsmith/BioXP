@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R05711",
+    "name": "N,N-dimethyl-1,4-phenylenediamine, aniline:NADP+ oxidoreductase",
+    "definition": "N,N-Dimethyl-1,4-phenylenediamine + Aniline + 2 NADP+ <=> para-(Dimethylamino)azobenzene + 2 NADPH + 2 H+",
+    "equation": "C04203 + C00292 + 2 C00006 <=> C03764 + 2 C00005 + 2 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.1.6"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

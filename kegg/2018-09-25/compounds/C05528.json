@@ -1,0 +1,64 @@
+[
+  {
+    "entry_id": "C05528",
+    "name": "3-Sulfopyruvate",
+    "names": [
+      "3-Sulfopyruvate",
+      "3-Sulfopyruvic acid"
+    ],
+    "formula": "C3H4O6S",
+    "exact_mass": 167.9729,
+    "mol_weight": 168.1253,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02433",
+      "R05693",
+      "R05694",
+      "R05774",
+      "R07136",
+      "R07137",
+      "R08590"
+    ],
+    "pathways": {
+      "map00270": "Cysteine and methionine metabolism",
+      "map00680": "Methane metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.1.37",
+      "1.1.1.310",
+      "1.1.1.337",
+      "1.1.1.338",
+      "2.6.1.1",
+      "4.1.1.79"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7871"
+      ],
+      "ChEBI": [
+        "16894"
+      ],
+      "KNApSAcK": [
+        "C00000764"
+      ],
+      "PDB-CCD": [
+        "SPV"
+      ],
+      "3DMET": [
+        "B00786"
+      ],
+      "NIKKAJI": [
+        "J1.837.369F"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O6a O    18.3400  -20.5100\n            2   C6a C    19.5524  -21.2100\n            3   C5a C    20.7649  -20.5100\n            4   C1b C    21.9773  -21.2100\n            5   S4a S    23.3773  -21.2100\n            6   O1d O    24.7773  -21.2100\n            7   O1d O    23.3773  -19.8100\n            8   O1d O    23.3773  -22.6100\n            9   O5a O    20.7649  -19.1102\n            10  O6a O    19.5524  -22.6098\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 2\n            6     5   7 1\n            7     5   8 2\n            8     3   9 2\n            9     2  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

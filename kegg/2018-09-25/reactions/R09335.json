@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09335",
+    "name": "aclacinomycin A:oxygen oxidoreductase",
+    "definition": "Aclacinomycin A + Oxygen <=> Aclacinomycin Y + Hydrogen peroxide",
+    "equation": "C18638 + C00007 <=> C18639 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.3.14"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15949": "aclacinomycin-N/aclacinomycin-A oxidase [EC:1.1.3.45 1.3.3.14]"
+    }
+  }
+]

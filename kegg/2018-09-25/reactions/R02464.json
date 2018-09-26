@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02464",
+    "name": "Sphinganine-1-phosphate pamlmitaldehyde-lyase",
+    "definition": "Sphinganine 1-phosphate <=> Ethanolamine phosphate + Hexadecanal",
+    "equation": "C01120 <=> C00346 + C00517",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.2.27"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism"
+    },
+    "orthologs": {
+      "K01634": "sphinganine-1-phosphate aldolase [EC:4.1.2.27]"
+    }
+  }
+]

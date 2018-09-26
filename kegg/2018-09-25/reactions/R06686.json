@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06686",
+    "name": "",
+    "definition": "10-Carboxy-13-deoxycarminomycin <=> 13-Deoxycarminomycin + CO2",
+    "equation": "C12427 <=> C12428 + C00011",
+    "comment": "10-carbomethoxy-13-deoxycarminomycin esterase, dnrP",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15953": "10-carbomethoxy-13-deoxycarminomycin esterase"
+    }
+  }
+]

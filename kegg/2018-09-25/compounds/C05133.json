@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C05133",
+    "name": "4-Imidazolone-5-acetate",
+    "names": [
+      "4-Imidazolone-5-acetate",
+      "Imidazolone acetate",
+      "(5-Hydroxyimidazole)-4-acetate",
+      "5-Hydroxy-4-imidazoleacetate"
+    ],
+    "formula": "C5H6N2O3",
+    "exact_mass": 142.0378,
+    "mol_weight": 142.1127,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04066",
+      "R04214"
+    ],
+    "pathways": {
+      "map00340": "Histidine metabolism"
+    },
+    "enzymes": [
+      "1.14.13.5",
+      "3.5.2.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7553"
+      ],
+      "ChEBI": [
+        "27850"
+      ],
+      "3DMET": [
+        "B00755"
+      ],
+      "NIKKAJI": [
+        "J2.754.764H"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1y C    11.4100  -22.1900\n            2   C1b C    12.6224  -22.8900\n            3   C6a C    13.8349  -22.1900\n            4   O6a O    15.0473  -22.8900\n            5   O6a O    13.8349  -20.7902\n            6   C5x C    11.8361  -20.8564\n            7   N2x N    10.6995  -20.0390\n            8   C2x C     9.5708  -20.8675\n            9   N1x N    10.0100  -22.1969\n            10  O5x O    13.0189  -20.4195\nBOND        10\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 2\n            5     1   6 1\n            6     6   7 1\n            7     7   8 2\n            8     8   9 1\n            9     1   9 1\n            10    6  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11682",
+    "name": "6-O-methyldeacetylisoipecoside:beta-glucosidase",
+    "definition": "6-O-Methyldeacetylisoipecoside + H2O <=> D-Glucose + 6-O-Methyl-N-deacetylisoipecoside aglycon",
+    "equation": "C21566 + C00001 <=> C00031 + C21583",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.-"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22092": "beta-glucosidase [EC:3.2.1.-]"
+    }
+  }
+]

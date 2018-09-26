@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07978",
+    "name": "3,7-dimethylxanthine:oxygen oxidoreductase",
+    "definition": "Theobromine + H2O + Oxygen <=> 3,7-Dimethyluric acid + Hydrogen peroxide",
+    "equation": "C07480 + C00001 + C00007 <=> C16360 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.17.3.2"
+    ],
+    "pathways": {
+      "rn00232": "Caffeine metabolism"
+    },
+    "orthologs": {
+      "K00106": "xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2]"
+    }
+  }
+]

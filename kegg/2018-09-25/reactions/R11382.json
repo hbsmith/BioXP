@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11382",
+    "name": "aurachin C:NADH:oxygen oxidoreductase (4-hydroxy-2-methyl-3-oxo-4-farnesyl-3,4-dihydroquinoline-1-oxide-forming)",
+    "definition": "Aurachin C + NADH + H+ + Oxygen <=> 4-Hydroxy-2-methyl-3-oxo-4-[(2E,6E)-farnesyl]-3,4-dihydroquinoline 1-oxide + NAD+ + H2O",
+    "equation": "C21330 + C00004 + C00080 + C00007 <=> C21141 + C00003 + C00001",
+    "comment": "two-step reaction (see R11384+R11386)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.222"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

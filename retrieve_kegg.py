@@ -216,6 +216,8 @@ def write_kegg_reaction_detail(keggdir):
             
             json.dump(data, outfile, indent=2)
 
+
+#### TESTS--NEED TO BE MOVED TO APPROPRIATE TESTING FILES
 def test_parsing(keggdir):
 
     dirname = keggdir+'reaction_detail/'
@@ -267,7 +269,30 @@ def test_parsing(keggdir):
         assert set(data["substrate_stoichiometries"]) == set(["1","(m)","(n)"])
         assert set(data["product_stoichiometries"]) == set(["1","(n+m)"])
 
+def write_kegg_link_mappings_jsons(keggdir):
+    """
+    Get jsons of each of mapping between each of: map (pathway), ec, rn, cpd ids and names
 
+    :param keggdir: directory to write to 
+    """
+    
+    if not os.path.exists(keggdir):
+        os.makedirs(keggdir)
+
+    kegg_types = ["pathway","enzyme","reaction","compound"]
+    for kegg_type in kegg_types:
+        
+        ## Retreive all entry ids and names
+        id_name_dict = dict()
+        raw_list = REST.kegg_list(kegg_type)
+        id_name_list = [s.split('\t') for s in raw_list.read().splitlines()]
+        for i in id_name_list:
+            id_name_dict[i[0]] = i[1]
+
+        ## Write json of all entry ids and names
+        outpath = keggdir+kegg_type+'.json'
+        with open(outpath, 'w') as outfile:   
+            json.dump(id_name_dict, outfile, indent=2)
 
 
 

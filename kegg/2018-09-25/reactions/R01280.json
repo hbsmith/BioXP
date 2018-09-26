@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R01280",
+    "name": "Palmitate:CoA ligase (AMP-forming)",
+    "definition": "ATP + Hexadecanoic acid + CoA <=> AMP + Palmitoyl-CoA + Diphosphate",
+    "equation": "C00002 + C00249 + C00010 <=> C00020 + C00154 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.3"
+    ],
+    "pathways": {
+      "rn00061": "Fatty acid biosynthesis",
+      "rn00071": "Fatty acid degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01212": "Fatty acid metabolism"
+    },
+    "orthologs": {
+      "K01897": "long-chain acyl-CoA synthetase [EC:6.2.1.3]",
+      "K15013": "long-chain-fatty-acid--CoA ligase ACSBG [EC:6.2.1.3]"
+    }
+  }
+]

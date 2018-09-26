@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03583",
+    "name": "Indan-1-ol:NADP+ 1-oxidoreductase",
+    "definition": "Indan-1-ol + NADP+ <=> Indanone + NADPH + H+",
+    "equation": "C01710 + C00006 <=> C01504 + C00005 + C00080",
+    "comment": "NAD+ (see R03582)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.112"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

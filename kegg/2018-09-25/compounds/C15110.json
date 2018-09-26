@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C15110",
+    "name": "1-[6-Hydroxy-2-(4-hydroxyphenyl)-1-benzofuran-3-yl]ethanone",
+    "names": [
+      "1-[6-Hydroxy-2-(4-hydroxyphenyl)-1-benzofuran-3-yl]ethanone",
+      "6-Hydroxy-2-(4-hydroxyphenyl)-3-benzofuranyl methyl ketone"
+    ],
+    "formula": "C16H12O4",
+    "exact_mass": 268.0736,
+    "mol_weight": 268.2641,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "2726-50-3"
+      ],
+      "PubChem": [
+        "17396107"
+      ],
+      "ChEBI": [
+        "79629"
+      ],
+      "NIKKAJI": [
+        "J2.792.994J"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C8y C    19.4051  -12.1039\n            2   C8y C    18.0012  -12.0980\n            3   C8x C    20.1043  -10.8920\n            4   C8x C    20.0926  -13.3216\n            5   O2x O    17.1797  -13.2226\n            6   C8y C    17.1914  -10.9620\n            7   C8x C    21.5083  -10.9037\n            8   C8x C    21.4909  -13.3332\n            9   C8y C    15.9214  -12.7797\n            10  C8y C    15.8631  -11.3815\n            11  C8y C    22.1957  -12.1213\n            12  C8x C    14.6512  -13.4846\n            13  C8x C    14.6512  -10.6883\n            14  O1a O    23.6056  -12.1272\n            15  C8y C    13.4336  -12.7855\n            16  C8x C    13.4336  -11.3815\n            17  O1a O    12.2218  -13.4905\n            18  C5a C    17.6302   -9.6515\n            19  C1a C    19.0099   -9.3711\n            20  O5a O    16.7113   -8.6123\nBOND        22\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     2   6 2\n            6     3   7 2\n            7     4   8 1\n            8     5   9 1\n            9     6  10 1\n            10    7  11 1\n            11    9  12 1\n            12   10  13 1\n            13   11  14 1\n            14   12  15 2\n            15   13  16 2\n            16   15  17 1\n            17    8  11 2\n            18    9  10 2\n            19   15  16 1\n            20    6  18 1\n            21   18  19 1\n            22   18  20 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

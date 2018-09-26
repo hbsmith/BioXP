@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03631",
+    "name": "Phytanate:CoA ligase (AMP-forming)",
+    "definition": "ATP + Phytanate + CoA <=> AMP + Diphosphate + Phytanoyl-CoA",
+    "equation": "C00002 + C01607 + C00010 <=> C00020 + C00013 + C02060",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.24"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

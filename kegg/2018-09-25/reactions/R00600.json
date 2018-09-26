@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00600",
+    "name": "S-Adenosyl-L-methionine:tRNA guanine N7-methyltransferase; S-Adenosyl-L-methionine:tRNA (guanine-N7-)-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + tRNA guanine <=> S-Adenosyl-L-homocysteine + tRNA containing N7-methylguanine",
+    "equation": "C00019 + C01977 <=> C00021 + C04160",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.33"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

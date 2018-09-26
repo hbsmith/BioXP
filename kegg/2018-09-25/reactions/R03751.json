@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R03751",
+    "name": "epsilon-Caprolactone lactonohydrolase",
+    "definition": "epsilon-Caprolactone + H2O <=> 6-Hydroxyhexanoic acid",
+    "equation": "C01880 + C00001 <=> C06103",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.17",
+      "3.1.1.83"
+    ],
+    "pathways": {
+      "rn00930": "Caprolactam degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K01053": "gluconolactonase [EC:3.1.1.17]",
+      "K14731": "epsilon-lactone hydrolase [EC:3.1.1.83]"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C21343",
+    "name": "Orsellinate-[acp]",
+    "names": [
+      "Orsellinate-[acp]"
+    ],
+    "formula": "C8H7O3SR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11412",
+      "R11413"
+    ],
+    "pathways": {
+      "map01059": "Biosynthesis of enediyne antibiotics",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "2.1.1.-",
+      "2.3.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "319902582"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   S2a S    12.9500  -20.2300\n            2   C8x C     8.1200  -20.2300\n            3   C8y C     8.1200  -21.6300\n            4   C8x C     9.3100  -22.3300\n            5   C8y C    10.5700  -21.6300\n            6   C8y C    10.5700  -20.2300\n            7   C8y C     9.3100  -19.5300\n            8   C5a C    11.7600  -19.5300\n            9   O5a O    11.7600  -18.1300\n            10  C1a C     9.3100  -18.1300\n            11  O1a O    11.7600  -22.3300\n            12  O1a O     6.9300  -22.3300\n            13  R   R    14.3500  -20.2300\nBOND        13\n            1     2   3 2\n            2     3   4 1\n            3     4   5 2\n            4     5   6 1\n            5     6   7 2\n            6     2   7 1\n            7     6   8 1\n            8     8   1 1\n            9     8   9 2\n            10    7  10 1\n            11    5  11 1\n            12    3  12 1\n            13    1  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C03600",
+    "name": "Carboxymethyloxysuccinate",
+    "names": [
+      "Carboxymethyloxysuccinate",
+      "(Carboxymethoxy) succinic acid"
+    ],
+    "formula": "C6H8O7",
+    "exact_mass": 192.027,
+    "mol_weight": 192.1235,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01336"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.2.99.12"
+    ],
+    "dblinks": {
+      "CAS": [
+        "38945-27-6"
+      ],
+      "PubChem": [
+        "6391"
+      ],
+      "ChEBI": [
+        "17040"
+      ],
+      "3DMET": [
+        "B00610"
+      ],
+      "NIKKAJI": [
+        "J248.091C"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   O6a O    22.1191  -18.9459\n            2   C6a C    23.3308  -18.2484\n            3   C1b C    24.5427  -18.9459\n            4   C1c C    25.7475  -18.2484\n            5   C6a C    26.9594  -18.9459\n            6   O6a O    28.1711  -18.2484\n            7   O6a O    23.3308  -16.8463\n            8   O2a O    25.7475  -16.8463\n            9   O6a O    26.9594  -20.3480\n            10  C1b C    26.9626  -16.1419\n            11  C6a C    26.9626  -14.7398\n            12  O6a O    28.1778  -14.0423\n            13  O6a O    25.7475  -14.0423\nBOND        12\n            1     2   7 2\n            2     3   4 1\n            3     4   8 1\n            4     5   9 2\n            5     4   5 1\n            6     8  10 1\n            7     2   3 1\n            8    10  11 1\n            9     5   6 1\n            10   11  12 1\n            11    1   2 1\n            12   11  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

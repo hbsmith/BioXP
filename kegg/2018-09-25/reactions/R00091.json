@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00091",
+    "name": "CoA:NAD+ oxidoreductase",
+    "definition": "NAD+ + 2 CoA <=> CoA-disulfide + NADH + H+",
+    "equation": "C00003 + 2 C00010 <=> C02015 + C00004 + C00080",
+    "comment": "NADP+ (see R07175)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02276",
+    "name": "5-Acetamidopentanoate amidohydrolase",
+    "definition": "5-Acetamidopentanoate + H2O <=> Acetate + 5-Aminopentanoate",
+    "equation": "C03087 + C00001 <=> C00033 + C00431",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.63"
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

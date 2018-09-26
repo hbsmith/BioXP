@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11541",
+    "name": "4-[(2-hydroxyethoxy)carbonyl]benzoate acylhydrolase",
+    "definition": "4-(2-Hydroxyethoxycarbonyl)benzoate + H2O <=> Terephthalate + Ethylene glycol",
+    "equation": "C21450 + C00001 <=> C06337 + C01380",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.102"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K21105": "mono(ethylene terephthalate) hydrolase [EC:3.1.1.102]"
+    }
+  }
+]

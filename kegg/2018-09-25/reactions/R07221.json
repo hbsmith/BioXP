@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R07221",
+    "name": "6-hydroxynicotinate:O2 oxidoreductase",
+    "definition": "6-Hydroxynicotinate + H2O + Oxygen <=> 2,6-Dihydroxynicotinate + Hydrogen peroxide",
+    "equation": "C01020 + C00001 + C00007 <=> C15523 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.17.3.3"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

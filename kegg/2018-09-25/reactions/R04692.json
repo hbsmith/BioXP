@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R04692",
+    "name": "S-adenosyl-L-methionine:(S)-coclaurine-N-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + (S)-Coclaurine <=> S-Adenosyl-L-homocysteine + (S)-N-Methylcoclaurine + H+",
+    "equation": "C00019 + C06161 <=> C00021 + C05176 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.115",
+      "2.1.1.140"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13384": "(RS)-1-benzyl-1,2,3,4-tetrahydroisoquinoline N-methyltransferase [EC:2.1.1.115 2.1.1.140]"
+    }
+  }
+]

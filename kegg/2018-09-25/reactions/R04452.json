@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R04452",
+    "name": "1-Alkyl-2-acetyl-sn-glycero-3-phosphocholine acetohydrolase",
+    "definition": "2-Acetyl-1-alkyl-sn-glycero-3-phosphocholine + H2O <=> 1-Organyl-2-lyso-sn-glycero-3-phosphocholine + Acetate",
+    "equation": "C04598 + C00001 <=> C04317 + C00033",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.47"
+    ],
+    "pathways": {
+      "rn00565": "Ether lipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01062": "platelet-activating factor acetylhydrolase [EC:3.1.1.47]",
+      "K16794": "platelet-activating factor acetylhydrolase IB subunit alpha",
+      "K16795": "platelet-activating factor acetylhydrolase IB subunit beta/gamma [EC:3.1.1.47]"
+    }
+  }
+]

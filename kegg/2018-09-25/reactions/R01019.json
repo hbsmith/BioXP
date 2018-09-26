@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01019",
+    "name": "acetaldehyde:pyrroloquinoline-quinone oxidoreductase",
+    "definition": "PQQ + Acetaldehyde + H2O <=> PQQH2 + Acetate",
+    "equation": "C00113 + C00084 + C00001 <=> C01359 + C00033",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.5.2"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06748",
+    "name": "pyrrole-2-carbonyl-[peptidyl-carrier protein]:[peptidyl-carrier protein] (pyrrole-2-carbonyl)transferase",
+    "definition": "Pyrrole-2-carbonyl-[pcp] + Peptidyl-carrier protein <=> Pyrrole-2-carbonyl-[pcp] + Peptidyl-carrier protein",
+    "equation": "C12483 + C21097 <=> C12483 + C21097",
+    "comment": "acyltransferase, CloN2 CouN2 transferring pyrrole-2-carbonyl group from CloN5 [KO:K12720] to CloN1 [KO:K17626]",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00401": "Novobiocin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12723": "clorobiocin biosynthesis protein CloN2",
+      "K17626": "clorobiocin biosynthesis protein CloN1"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06954",
+    "name": "xanthoxin:NAD+ oxidoreductase",
+    "definition": "Xanthoxin + NAD+ <=> Abscisic aldehyde + NADH + H+",
+    "equation": "C13453 + C00003 <=> C13455 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.288"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K09841": "xanthoxin dehydrogenase [EC:1.1.1.288]"
+    }
+  }
+]

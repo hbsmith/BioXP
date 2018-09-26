@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00868",
+    "name": "D-Mannitol:NAD+ 2-oxidoreductase",
+    "definition": "Mannitol + NAD+ <=> D-Fructose + NADH + H+",
+    "equation": "C00392 + C00003 <=> C00095 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.11",
+      "1.1.1.67"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism"
+    },
+    "orthologs": {
+      "K00007": "D-arabinitol 4-dehydrogenase [EC:1.1.1.11]",
+      "K00045": "mannitol 2-dehydrogenase [EC:1.1.1.67]"
+    }
+  }
+]

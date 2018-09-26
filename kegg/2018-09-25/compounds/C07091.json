@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C07091",
+    "name": "cis-Acetylacrylate",
+    "names": [
+      "cis-Acetylacrylate"
+    ],
+    "formula": "C5H6O3",
+    "exact_mass": 114.0317,
+    "mol_weight": 114.0993,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05510"
+    ],
+    "pathways": {
+      "map00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "3.1.1.45"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "9302"
+      ],
+      "ChEBI": [
+        "28993"
+      ],
+      "3DMET": [
+        "B01063"
+      ],
+      "NIKKAJI": [
+        "J1.481.171K"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C5a C    26.2735  -17.9141\n            2   C2b C    25.0600  -17.2256\n            3   C1a C    27.4872  -17.2139\n            4   O5a O    26.2795  -19.3142\n            5   C2b C    23.8465  -17.9258\n            6   C6a C    23.8465  -19.3202\n            7   O6a O    25.0600  -20.0261\n            8   O6a O    22.6328  -20.0261\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 2\n            5     5   6 1\n            6     6   7 2\n            7     6   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

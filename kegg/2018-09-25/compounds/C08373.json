@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C08373",
+    "name": "Dipropyl disulfide",
+    "names": [
+      "Dipropyl disulfide",
+      "n-Propyl disulfide"
+    ],
+    "formula": "C6H14S2",
+    "exact_mass": 150.0537,
+    "mol_weight": 150.3054,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "629-19-6"
+      ],
+      "PubChem": [
+        "10569"
+      ],
+      "ChEBI": [
+        "45758"
+      ],
+      "KNApSAcK": [
+        "C00001247"
+      ],
+      "PDB-CCD": [
+        "SSP"
+      ],
+      "NIKKAJI": [
+        "J43.517A"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   S3a S    27.3943  -19.8794\n            2   S3a S    28.6057  -19.1806\n            3   C1b C    26.1828  -19.1806\n            4   C1b C    29.8172  -19.8794\n            5   C1b C    24.9715  -19.8794\n            6   C1b C    31.0285  -19.1806\n            7   C1a C    23.7543  -19.1806\n            8   C1a C    32.2457  -19.8794\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     4   6 1\n            6     5   7 1\n            7     6   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

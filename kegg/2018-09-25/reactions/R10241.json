@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10241",
+    "name": "(13E)-8alpha-hydroxylabd-13-en-15-yl-diphosphate-lyase (sclareol forming); copal-8-ol-diphosphate diphosphate-lyase (sclareol-forming)",
+    "definition": "Copal-8-ol diphosphate + H2O <=> Sclareol + Diphosphate",
+    "equation": "C20270 + C00001 <=> C09183 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.141"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K20519": "sclareol synthase [EC:4.2.3.141]"
+    }
+  }
+]

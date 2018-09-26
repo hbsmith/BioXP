@@ -1,0 +1,93 @@
+[
+  {
+    "entry_id": "C05903",
+    "name": "Kaempferol",
+    "names": [
+      "Kaempferol",
+      "3,4',5,7-Tetrahydroxyflavone",
+      "3,5,7-Trihydroxy-2-(4-hydroxyphenyl)-4H-1-benzopyran-4-one",
+      "5,7,4'-Trihydroxyflavonol",
+      "C.I. 75640",
+      "Indigo yellow",
+      "Kaempherol",
+      "Kempferol",
+      "Nimbecetin",
+      "Pelargidenolon",
+      "Populnetin",
+      "Rhamnolutein",
+      "Rhamnolutin",
+      "Robigenin",
+      "Swartziol",
+      "Trifolitin"
+    ],
+    "formula": "C15H10O6",
+    "exact_mass": 286.0477,
+    "mol_weight": 286.2363,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03126",
+      "R05035",
+      "R06538",
+      "R06611",
+      "R06807",
+      "R06808",
+      "R09802",
+      "R10609"
+    ],
+    "pathways": {
+      "map00941": "Flavonoid biosynthesis",
+      "map00944": "Flavone and flavonol biosynthesis",
+      "map01061": "Biosynthesis of phenylpropanoids",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.11.23",
+      "1.14.13.21",
+      "1.14.13.88",
+      "2.1.1.76",
+      "2.1.1.155",
+      "2.4.1.91",
+      "2.4.1.234",
+      "2.4.1.-",
+      "2.4.2.56"
+    ],
+    "dblinks": {
+      "CAS": [
+        "520-18-3"
+      ],
+      "PubChem": [
+        "8191"
+      ],
+      "ChEBI": [
+        "28499"
+      ],
+      "ChEMBL": [
+        "CHEMBL150"
+      ],
+      "LIPIDMAPS": [
+        "LMPK12110003"
+      ],
+      "KNApSAcK": [
+        "C00004565"
+      ],
+      "PDB-CCD": [
+        "KMP"
+      ],
+      "3DMET": [
+        "B00874"
+      ],
+      "NIKKAJI": [
+        "J1.575J"
+      ]
+    },
+    "kcf": "ATOM        21\n            1   C8y C    23.8303  -16.8521\n            2   C8y C    23.7662  -15.4486\n            3   C8y C    24.9717  -17.5509\n            4   C8y C    22.5548  -17.5450\n            5   O2x O    24.9834  -14.7497\n            6   C8x C    22.5548  -14.7438\n            7   C8y C    26.1771  -16.8578\n            8   O5x O    24.9658  -18.9544\n            9   C8x C    21.3376  -16.8521\n            10  O1a O    22.5607  -18.9487\n            11  C8y C    26.1830  -15.4603\n            12  C8y C    21.3376  -15.4486\n            13  O1a O    27.3826  -17.5626\n            14  C8y C    27.4702  -14.7614\n            15  O1a O    20.1263  -14.7438\n            16  C8x C    28.6115  -15.4719\n            17  C8x C    27.4059  -13.3637\n            18  C8x C    29.8286  -14.7730\n            19  C8x C    28.6231  -12.6706\n            20  C8y C    29.8346  -13.3753\n            21  O1a O    31.0458  -12.6822\nBOND        23\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     3   8 2\n            8     4   9 1\n            9     4  10 1\n            10    5  11 1\n            11    6  12 1\n            12    7  13 1\n            13   11  14 1\n            14   12  15 1\n            15   14  16 2\n            16   14  17 1\n            17   16  18 1\n            18   17  19 2\n            19   18  20 2\n            20   20  21 1\n            21    7  11 2\n            22    9  12 2\n            23   19  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

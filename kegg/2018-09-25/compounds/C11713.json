@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C11713",
+    "name": "2-Naphthol",
+    "names": [
+      "2-Naphthol",
+      "beta-Naphthol"
+    ],
+    "formula": "C10H8O",
+    "exact_mass": 144.0575,
+    "mol_weight": 144.1699,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07011",
+      "R07012",
+      "R07020"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450",
+      "map07114": "Naphthalene family"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "135-19-3"
+      ],
+      "PubChem": [
+        "13878"
+      ],
+      "ChEBI": [
+        "10432"
+      ],
+      "ChEMBL": [
+        "CHEMBL14126"
+      ],
+      "PDB-CCD": [
+        "03V"
+      ],
+      "NIKKAJI": [
+        "J2.530E"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    25.8511  -16.2160\n            2   C8x C    25.8511  -17.6171\n            3   C8x C    27.0613  -18.3141\n            4   C8x C    27.0613  -15.5120\n            5   C8y C    28.2714  -16.2160\n            6   C8y C    28.2655  -17.6171\n            7   C8x C    29.4766  -18.3191\n            8   C8x C    30.7639  -17.6274\n            9   C8y C    30.7000  -16.2263\n            10  C8x C    29.4886  -15.5172\n            11  O1a O    31.9059  -15.5120\nBOND        12\n            1     1   2 1\n            2     2   3 2\n            3     3   6 1\n            4     5   4 1\n            5     4   1 2\n            6     5   6 2\n            7     6   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11   10   5 1\n            12    9  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

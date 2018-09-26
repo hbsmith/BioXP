@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04892",
+    "name": "3-Methoxy-4-hydroxyphenylglycolaldehyde:NADP+ oxidoreductase",
+    "definition": "3-Methoxy-4-hydroxyphenylglycolaldehyde + NADP+ + H2O <=> 3-Methoxy-4-hydroxymandelate + NADPH + H+",
+    "equation": "C05583 + C00006 + C00001 <=> C05584 + C00005 + C00080",
+    "comment": "see R04891 (NADH)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.5"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00129": "aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]"
+    }
+  }
+]

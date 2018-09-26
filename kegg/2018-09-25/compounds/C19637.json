@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19637",
+    "name": "Coenzyme M disulfide",
+    "names": [
+      "Coenzyme M disulfide",
+      "(S-CoM)2",
+      "Coenzyme M",
+      "2,2'-Dithiodiethanesulfonic acid"
+    ],
+    "formula": "C4H10O6S4",
+    "exact_mass": 281.936,
+    "mol_weight": 282.3786,
+    "remark": "",
+    "comment": "HS-CoM [CPD:C03576]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "45127-11-5"
+      ],
+      "PubChem": [
+        "124490289"
+      ],
+      "ChEMBL": [
+        "CHEMBL2009034"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   S4a S    18.7600  -13.9300\n            2   C1b C    19.9724  -13.2300\n            3   C1b C    21.1849  -13.9300\n            4   S3a S    22.3973  -13.2300\n            5   S3a S    23.6097  -13.9300\n            6   C1b C    24.8222  -13.2300\n            7   C1b C    26.0346  -13.9300\n            8   S4a S    27.2470  -13.2300\n            9   O1d O    17.5476  -14.6300\n            10  O1d O    28.4595  -12.5300\n            11  O1d O    26.5224  -12.0220\n            12  O1d O    27.9627  -14.4230\n            13  O1d O    18.0124  -12.7463\n            14  O1d O    19.5076  -15.1137\nBOND        13\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     1   9 1\n            9     8  10 1\n            10    8  11 2\n            11    8  12 2\n            12    1  13 2\n            13    1  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

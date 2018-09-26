@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11764",
+    "name": "tetrahydrobiopterin:NADP+ oxidoreductase [6-(1'-Hydroxy-2'-oxopropyl)-tetrahydropterin-forming]",
+    "definition": "Tetrahydrobiopterin + NADP+ <=> 6-(1'-Hydroxy-2'-oxopropyl)-tetrahydropterin + NADPH + H+",
+    "equation": "C00272 + C00006 <=> C21640 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.21"
+    ],
+    "pathways": {
+      "rn00790": "Folate biosynthesis"
+    },
+    "orthologs": {
+      "K00011": "aldehyde reductase [EC:1.1.1.21]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05432",
+    "name": "",
+    "definition": "2 Indanone + Oxygen + 2 NADPH + 2 H+ <=> 2 Dihydrocoumarin + 2 NADP+",
+    "equation": "2 C01504 + C00007 + 2 C00005 + 2 C00080 <=> 2 C02274 + 2 C00006",
+    "comment": "1-indanone monooxygenase NADH (see R05430)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.12.-"
+    ],
+    "pathways": {
+      "rn00624": "Polycyclic aromatic hydrocarbon degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

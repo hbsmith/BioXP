@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03253",
+    "name": "7,8-Dihydroxykynurenate:oxygen 8,8a-oxidoreductase (decyclizing)",
+    "definition": "7,8-Dihydroxykynurenate + Oxygen <=> 5-(3'-Carboxy-3'-oxopropenyl)-4,6-dihydroxypicolinate",
+    "equation": "C01111 + C00007 <=> C05641",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.10"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

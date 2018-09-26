@@ -1,0 +1,34 @@
+[
+  {
+    "entry_id": "C19782",
+    "name": "(S)-Piperazine-2-carboxamide",
+    "names": [
+      "(S)-Piperazine-2-carboxamide"
+    ],
+    "formula": "C5H11N3O",
+    "exact_mass": 129.0902,
+    "mol_weight": 129.1603,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09649"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.5.1.101"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "135626249"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1x C    18.4774  -16.3069\n            2   C1x C    18.4774  -17.7067\n            3   N1x N    19.6896  -18.4065\n            4   C1y C    20.9019  -17.7067\n            5   C1x C    20.9019  -16.3069\n            6   N1x N    19.6896  -15.6070\n            7   C5a C    22.1328  -18.4175\n            8   N1a N    23.3378  -17.7220\n            9   O5a O    22.1325  -19.8062\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     4   7 1 #Up\n            8     7   8 1\n            9     7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

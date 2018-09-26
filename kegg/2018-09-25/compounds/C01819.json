@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C01819",
+    "name": "Indoleamine",
+    "names": [
+      "Indoleamine",
+      "Indolamine"
+    ],
+    "formula": "C8H8N2",
+    "exact_mass": 132.0687,
+    "mol_weight": 132.1625,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "56480-48-9"
+      ],
+      "PubChem": [
+        "4943"
+      ],
+      "ChEBI": [
+        "28626"
+      ],
+      "NIKKAJI": [
+        "J83.297I"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    21.8400  -18.2700\n            2   C8x C    21.8400  -19.6700\n            3   C8x C    23.0524  -20.3700\n            4   C8y C    24.2649  -19.6700\n            5   C8y C    24.2649  -18.2700\n            6   C8x C    23.0524  -17.5700\n            7   N4x N    25.5964  -20.1026\n            8   C8x C    26.4193  -18.9700\n            9   C8y C    25.5964  -17.8374\n            10  N1a N    26.0275  -16.5106\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    9  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

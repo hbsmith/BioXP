@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01093",
+    "name": "galactitol:NAD+ 1-oxidoreductase",
+    "definition": "D-Galactose + NADH + H+ <=> Galactitol + NAD+",
+    "equation": "C00124 + C00004 + C00080 <=> C01697 + C00003",
+    "comment": "NADPH (see R01095)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.21"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00011": "aldehyde reductase [EC:1.1.1.21]"
+    }
+  }
+]

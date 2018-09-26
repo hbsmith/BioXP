@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00960",
+    "name": "D-Glucose-1-phosphate:D-glucose-1-phosphate 6-phosphotransferase",
+    "definition": "2 D-Glucose 1-phosphate <=> alpha-D-Glucose 1,6-bisphosphate + D-Glucose",
+    "equation": "2 C00103 <=> C01231 + C00031",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.41"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

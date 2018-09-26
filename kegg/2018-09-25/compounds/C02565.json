@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C02565",
+    "name": "N-Methylhydantoin",
+    "names": [
+      "N-Methylhydantoin",
+      "N-Methylimidazolidine-2,4-dione"
+    ],
+    "formula": "C4H6N2O2",
+    "exact_mass": 114.0429,
+    "mol_weight": 114.1026,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02922",
+      "R03187"
+    ],
+    "pathways": {
+      "map00330": "Arginine and proline metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "3.5.2.14",
+      "3.5.4.1",
+      "3.5.4.21"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5563"
+      ],
+      "ChEBI": [
+        "16354"
+      ],
+      "3DMET": [
+        "B00461"
+      ],
+      "NIKKAJI": [
+        "J100.995H"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C5x C    26.0769  -16.0233\n            2   N1y N    25.6385  -17.3501\n            3   N1x N    24.9371  -15.1933\n            4   O5x O    27.4038  -15.5908\n            5   C1x C    24.2416  -17.3501\n            6   C1a C    26.4627  -18.4841\n            7   C5x C    23.8031  -16.0233\n            8   O5x O    22.4763  -15.5908\nBOND        8\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     7   8 2\n            8     5   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

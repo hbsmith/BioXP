@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04801",
+    "name": "carotenoid beta-end group lyase (decyclizing)",
+    "definition": "all-trans-Neurosporene <=> beta-Zeacarotene",
+    "equation": "C05431 <=> C05434",
+    "comment": "lycopene beta cyclase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.19"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis"
+    },
+    "orthologs": {
+      "K06443": "lycopene beta-cyclase [EC:5.5.1.19]"
+    }
+  }
+]

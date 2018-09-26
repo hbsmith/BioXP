@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07964",
+    "name": "",
+    "definition": "Theobromine + NADPH + H+ + Oxygen <=> 3-Methylxanthine + NADP+ + Formaldehyde + H2O",
+    "equation": "C07480 + C00005 + C00080 + C00007 <=> C16357 + C00006 + C00067 + C00001",
+    "comment": "theobromine demethylase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.12.-"
+    ],
+    "pathways": {
+      "rn00232": "Caffeine metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

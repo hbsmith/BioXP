@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04901",
+    "name": "(2S)-flavan-4-ol:NADP+ 4-oxidoreductase; cis-3,4-leucopelargonidin:NADP+ 4-oxidoreductase",
+    "definition": "Luteoforol + NADP+ <=> Eriodictyol + NADPH + H+",
+    "equation": "C05907 + C00006 <=> C05631 + C00005 + C00080",
+    "comment": "flavanone 4-reductase dihydroflavonol 4-reductase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.234"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis"
+    },
+    "orthologs": {
+      "K13082": "bifunctional dihydroflavonol 4-reductase/flavanone 4-reductase [EC:1.1.1.219 1.1.1.234]"
+    }
+  }
+]

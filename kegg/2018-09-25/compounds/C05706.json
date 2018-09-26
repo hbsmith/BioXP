@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C05706",
+    "name": "Se-Propenylselenocysteine Se-oxide",
+    "names": [
+      "Se-Propenylselenocysteine Se-oxide"
+    ],
+    "formula": "C6H11NO3Se",
+    "exact_mass": 224.9904,
+    "mol_weight": 224.1164,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04934"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8013"
+      ],
+      "ChEBI": [
+        "27790"
+      ],
+      "3DMET": [
+        "B05104"
+      ],
+      "NIKKAJI": [
+        "J2.758.834D"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   O6a O    25.9000  -18.2700\n            2   C6a C    27.1124  -17.5700\n            3   C1c C    28.3249  -18.2700\n            4   C1b C    29.5373  -17.5700\n            5   Z   Se   30.6097  -18.3400\n            6   C2b C    31.9622  -17.5700\n            7   C2b C    33.1746  -18.2700\n            8   O6a O    27.1124  -16.1702\n            9   N1a N    28.3249  -19.6698\n            10  O0  O    30.6097  -19.7399\n            11  C1a C    34.3911  -17.5677\nBOND        10\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 2\n            7     2   8 2\n            8     3   9 1 #Down\n            9     5  10 2\n            10    7  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

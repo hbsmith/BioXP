@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C10276",
+    "name": "Pinosylvin methyl ether",
+    "names": [
+      "Pinosylvin methyl ether",
+      "5-Methoxy-3-stilbenol"
+    ],
+    "formula": "C15H14O2",
+    "exact_mass": 226.0994,
+    "mol_weight": 226.2705,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "35302-70-6"
+      ],
+      "PubChem": [
+        "12462"
+      ],
+      "ChEBI": [
+        "8227"
+      ],
+      "ChEMBL": [
+        "CHEMBL186366"
+      ],
+      "LIPIDMAPS": [
+        "LMPK13090013"
+      ],
+      "KNApSAcK": [
+        "C00002898"
+      ],
+      "3DMET": [
+        "B03699"
+      ],
+      "NIKKAJI": [
+        "J460.631K"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C8x C    21.7116  -16.4775\n            2   C8y C    21.7116  -17.8782\n            3   C8x C    22.9285  -18.5750\n            4   C8y C    24.1382  -17.8782\n            5   C8x C    24.1382  -16.4775\n            6   C8y C    22.9285  -15.7736\n            7   C2b C    25.3528  -18.5740\n            8   C2b C    26.5662  -17.8763\n            9   C8y C    27.7807  -18.5723\n            10  C8x C    27.7797  -19.9682\n            11  C8x C    28.9941  -20.6711\n            12  C8x C    30.2006  -19.9663\n            13  C8x C    30.1996  -18.5657\n            14  C8x C    28.9921  -17.8627\n            15  O2a O    22.9302  -14.3730\n            16  O1a O    20.5049  -18.5755\n            17  C1a C    24.1451  -13.6706\nBOND        18\n            1     2   3 2\n            2     8   9 1\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     6   1 2\n            7     9  10 2\n            8    10  11 1\n            9    11  12 2\n            10   12  13 1\n            11   13  14 2\n            12   14   9 1\n            13    4   7 1\n            14    6  15 1\n            15    1   2 1\n            16    2  16 1\n            17    7   8 2\n            18   15  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

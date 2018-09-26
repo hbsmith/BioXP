@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R00472",
+    "name": "acetyl-CoA:glyoxylate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming); L-Malate glyoxylate-lyase (CoA-acetylating)",
+    "definition": "(S)-Malate + CoA <=> Acetyl-CoA + H2O + Glyoxylate",
+    "equation": "C00149 + C00010 <=> C00024 + C00001 + C00048",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.3.9"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism",
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K01638": "malate synthase [EC:2.3.3.9]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11391",
+    "name": "2-aza-L-tyrosine 2,3-aminomutase",
+    "definition": "Azatyrosine <=> (R)-2-Aza-beta-tyrosine",
+    "equation": "C21325 <=> C21326",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.3.-"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21227": "MIO-dependent 2-aza-L-tyrosine aminomutase [EC:5.4.3.-]"
+    }
+  }
+]

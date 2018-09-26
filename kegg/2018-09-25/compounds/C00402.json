@@ -1,0 +1,63 @@
+[
+  {
+    "entry_id": "C00402",
+    "name": "D-Aspartate",
+    "names": [
+      "D-Aspartate",
+      "D-Aspartic acid"
+    ],
+    "formula": "C4H7NO4",
+    "exact_mass": 133.0375,
+    "mol_weight": 133.1027,
+    "remark": "",
+    "comment": "L-Aspartate [CPD:C00049]",
+    "reactions": [
+      "R00359",
+      "R00491",
+      "R02182",
+      "R05053",
+      "R09590"
+    ],
+    "pathways": {
+      "map00250": "Alanine, aspartate and glutamate metabolism"
+    },
+    "enzymes": [
+      "1.4.3.1",
+      "1.4.3.15",
+      "2.6.1.21",
+      "3.5.1.83",
+      "5.1.1.13",
+      "6.3.1.12"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1783-96-6"
+      ],
+      "PubChem": [
+        "3692"
+      ],
+      "ChEBI": [
+        "17364"
+      ],
+      "ChEMBL": [
+        "CHEMBL29757"
+      ],
+      "PDB-CCD": [
+        "DAS"
+      ],
+      "3DMET": [
+        "B01235"
+      ],
+      "NIKKAJI": [
+        "J9.205C"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1c C    20.6036  -17.7274\n            2   C1b C    21.8107  -17.0276\n            3   C6a C    19.3905  -17.0276\n            4   N1a N    20.6036  -19.1271\n            5   C6a C    23.0294  -17.7274\n            6   O6a O    18.1716  -17.7274\n            7   O6a O    19.3905  -15.6280\n            8   O6a O    24.2425  -17.0276\n            9   O6a O    23.0294  -19.1212\nBOND        8\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     3   6 1\n            6     3   7 2\n            7     5   8 1\n            8     5   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

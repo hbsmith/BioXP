@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C11427",
+    "name": "1-Hydroxy-2-naphthaldehyde",
+    "names": [
+      "1-Hydroxy-2-naphthaldehyde"
+    ],
+    "formula": "C11H8O2",
+    "exact_mass": 172.0524,
+    "mol_weight": 172.18,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05648",
+      "R05649"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.2.1.-",
+      "4.1.2.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "574-96-9"
+      ],
+      "PubChem": [
+        "13599"
+      ],
+      "ChEBI": [
+        "28091"
+      ],
+      "NIKKAJI": [
+        "J534.105A"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    25.1544  -19.2871\n            2   C8x C    26.3635  -18.5866\n            3   C8y C    25.1510  -16.4911\n            4   C8y C    26.3606  -17.1908\n            5   C8y C    23.9382  -18.5866\n            6   C8y C    23.9382  -17.1857\n            7   C8x C    22.7251  -16.4852\n            8   C8x C    21.5118  -17.1857\n            9   C8x C    21.5118  -18.5866\n            10  C8x C    22.7251  -19.2871\n            11  O1a O    25.1541  -15.0902\n            12  C4a C    27.5734  -16.4894\n            13  O4a O    28.7870  -17.1892\nBOND        14\n            1     5   1 1\n            2     3   4 2\n            3     5   6 2\n            4     6   7 1\n            5     7   8 2\n            6     8   9 1\n            7     9  10 2\n            8    10   5 1\n            9     1   2 2\n            10    3  11 1\n            11    2   4 1\n            12    4  12 1\n            13    3   6 1\n            14   12  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

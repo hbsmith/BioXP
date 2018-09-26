@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08215",
+    "name": "(-)-threo-iso(homo)3-citrate:NAD+ oxidoreductase (decarboxylating)",
+    "definition": "(-)-threo-Iso(homo)3-citrate + NAD+ <=> 2-Oxosuberate + CO2 + NADH + H+",
+    "equation": "C16600 + C00003 <=> C16589 + C00011 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+      "K10978": "methanogen homoisocitrate dehydrogenase [EC:1.1.1.87 1.1.1.-]"
+    }
+  }
+]

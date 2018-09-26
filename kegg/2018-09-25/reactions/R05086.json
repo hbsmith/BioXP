@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05086",
+    "name": "O-Phospho-4-hydroxy-L-threonine phospho-lyase (adding water)",
+    "definition": "O-Phospho-4-hydroxy-L-threonine + H2O <=> 4-Hydroxy-L-threonine + Orthophosphate",
+    "equation": "C06055 + C00001 <=> C06056 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.1"
+    ],
+    "pathways": {
+      "rn00750": "Vitamin B6 metabolism"
+    },
+    "orthologs": {
+      "K01733": "threonine synthase [EC:4.2.3.1]"
+    }
+  }
+]

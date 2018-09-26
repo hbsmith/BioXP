@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09814",
+    "name": "pentalenene,NADPH:oxygen 13-oxidoreductase",
+    "definition": "Pentalenene + 2 NADPH + 2 H+ + 2 Oxygen <=> Pentalen-13-al + 2 NADP+ + 3 H2O",
+    "equation": "C01841 + 2 C00005 + 2 C00080 + 2 C00007 <=> C19939 + 2 C00006 + 3 C00001",
+    "comment": "two-step reaction (see R09812+R09813)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.133"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15907": "pentalenene oxygenase [EC:1.14.13.133]"
+    }
+  }
+]

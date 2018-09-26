@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00676",
+    "name": "L-Tryptophan:NADP+ oxidoreductase (deaminating)",
+    "definition": "L-Tryptophan + NADP+ + H2O <=> Indolepyruvate + Ammonia + NADPH + H+",
+    "equation": "C00078 + C00006 + C00001 <=> C00331 + C00014 + C00005 + C00080",
+    "comment": "see R00675 (NADH)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.1.19"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

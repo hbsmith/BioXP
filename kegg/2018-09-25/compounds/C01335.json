@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C01335",
+    "name": "ROH",
+    "names": [
+      "ROH"
+    ],
+    "formula": "HOR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = alkyl group [CPD:C00069] R = aromatic group [CPD:C15584]",
+    "reactions": [
+      "R01383",
+      "R03526",
+      "R03527",
+      "R04122",
+      "R08360",
+      "R08362",
+      "R08613",
+      "R09507"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.11.1.15",
+      "1.11.1.-",
+      "1.11.2.1",
+      "1.14.14.1",
+      "2.4.1.17",
+      "2.4.1.35",
+      "3.2.1.21",
+      "3.2.1.25"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4543"
+      ]
+    },
+    "kcf": "ATOM        2\n            1   O1a O    22.6816  -15.7521\n            2   R   R    21.5584  -16.5879\nBOND        1\n            1     1   2 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

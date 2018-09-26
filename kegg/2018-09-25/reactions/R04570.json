@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04570",
+    "name": "5-pyridoxate,NADPH:oxygen oxidoreductase (decyclizing)",
+    "definition": "3-Hydroxy-4-hydroxymethyl-2-methylpyridine-5-carboxylate + Oxygen + NADPH + H+ <=> 2-(Hydroxymethyl)-3-(acetamidomethylene)succinate + NADP+",
+    "equation": "C04773 + C00007 + C00005 + C00080 <=> C04690 + C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.12.5"
+    ],
+    "pathways": {
+      "rn00750": "Vitamin B6 metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

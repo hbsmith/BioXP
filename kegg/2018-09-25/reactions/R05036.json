@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05036",
+    "name": "leucocyanidin,2-oxoglutarate:oxygen oxidoreductase",
+    "definition": "Cyanidin + Succinate + CO2 + 2 H2O <=> Leucocyanidin + 2-Oxoglutarate + Oxygen + H+",
+    "equation": "C05905 + C00042 + C00011 + 2 C00001 <=> C05906 + C00026 + C00007 + C00080",
+    "comment": "Leucoanthocyanidin dioxygenase acidification",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.19"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K05277": "leucoanthocyanidin dioxygenase [EC:1.14.11.19]"
+    }
+  }
+]

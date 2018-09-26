@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07655",
+    "name": "4,4'-diaponeurosporenoate glucosyltransferase",
+    "definition": "4,4'-Diaponeurosporenic acid <=> Glycosyl-4,4'-diaponeurosporenoate",
+    "equation": "C16146 <=> C16147",
+    "comment": "4,4'-diaponeurosporenoate glycosyltransferase(crtQ) incomplete reaction (unidentified D-glucose donor)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis"
+    },
+    "orthologs": {
+      "K10211": "4,4'-diaponeurosporenoate glycosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

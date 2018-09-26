@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R08639",
+    "name": "alpha-D-glucose 1,6-phosphomutase",
+    "definition": "D-Glucose 1-phosphate <=> D-Glucose 6-phosphate",
+    "equation": "C00103 <=> C00092",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.2.2",
+      "5.4.2.5"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn00521": "Streptomycin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K01835": "phosphoglucomutase [EC:5.4.2.2]",
+      "K15778": "phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2]"
+    }
+  }
+]

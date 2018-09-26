@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C02934",
+    "name": "3-Dehydrosphinganine",
+    "names": [
+      "3-Dehydrosphinganine",
+      "3-Dehydro-D-sphinganine"
+    ],
+    "formula": "C18H37NO2",
+    "exact_mass": 299.2824,
+    "mol_weight": 299.4919,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01281",
+      "R02978",
+      "R04092"
+    ],
+    "pathways": {
+      "map00600": "Sphingolipid metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.1.1.102",
+      "2.3.1.50"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5855"
+      ],
+      "ChEBI": [
+        "17862"
+      ],
+      "LIPIDMAPS": [
+        "LMSP01020002"
+      ],
+      "LipidBank": [
+        "DLB0241"
+      ],
+      "3DMET": [
+        "B01613"
+      ],
+      "NIKKAJI": [
+        "J866.542G"
+      ]
+    },
+    "kcf": "ATOM        21\n            1   C1b C    18.4195  -22.8389\n            2   C1b C    19.6275  -23.5379\n            3   C5a C    17.2052  -23.5379\n            4   C1b C    20.8418  -22.8389\n            5   C1c C    15.9912  -22.8389\n            6   O5a O    17.2052  -24.9361\n            7   C1b C    22.0559  -23.5379\n            8   C1b C    14.7769  -23.5379\n            9   N1a N    15.9912  -21.4345\n            10  C1b C    23.2701  -22.8389\n            11  O1a O    13.5628  -22.8389\n            12  C1b C    24.4782  -23.5379\n            13  C1b C    25.6924  -22.8389\n            14  C1b C    26.9065  -23.5379\n            15  C1b C    28.1207  -22.8389\n            16  C1b C    29.3348  -23.5379\n            17  C1b C    30.5428  -22.8389\n            18  C1b C    31.7571  -23.5379\n            19  C1b C    32.9714  -22.8389\n            20  C1b C    34.1854  -23.5379\n            21  C1a C    35.3935  -22.8389\nBOND        20\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     3   6 2\n            6     4   7 1\n            7     5   8 1\n            8     5   9 1 #Down\n            9     7  10 1\n            10    8  11 1\n            11   10  12 1\n            12   12  13 1\n            13   13  14 1\n            14   14  15 1\n            15   15  16 1\n            16   16  17 1\n            17   17  18 1\n            18   18  19 1\n            19   19  20 1\n            20   20  21 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

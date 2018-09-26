@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07966",
+    "name": "7-methylxanthine:oxygen oxidoreductase (demethylating)",
+    "definition": "7-Methylxanthine + NADPH + H+ + Oxygen <=> Xanthine + NADP+ + Formaldehyde + H2O",
+    "equation": "C16353 + C00005 + C00080 + C00007 <=> C00385 + C00006 + C00067 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.128"
+    ],
+    "pathways": {
+      "rn00232": "Caffeine metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K21724": "7-methylxanthine demethylase [EC:1.14.13.128]"
+    }
+  }
+]

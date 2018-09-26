@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01348",
+    "name": "Fatty acid,NADPH---hemoprotein reductase:oxygen oxidoreductase (omega-hydroxylating)",
+    "definition": "Fatty acid + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> omega-Hydroxy fatty acid + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C00162 + C00007 + C03024 <=> C03547 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.3"
+    ],
+    "pathways": {
+      "rn00071": "Fatty acid degradation"
+    },
+    "orthologs": {
+      "K07425": "alkane 1-monooxygenase [EC:1.14.15.3]",
+      "K17687": "alkane 1-monooxygenase [EC:1.14.15.3]",
+      "K17688": "alkane 1-monooxygenase [EC:1.14.15.3]"
+    }
+  }
+]

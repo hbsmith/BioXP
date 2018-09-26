@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19165",
+    "name": "Benzal chloride",
+    "names": [
+      "Benzal chloride"
+    ],
+    "formula": "C7H6Cl2",
+    "exact_mass": 159.9847,
+    "mol_weight": 161.0285,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "98-87-3"
+      ],
+      "PubChem": [
+        "124489837"
+      ],
+      "ChEBI": [
+        "82273"
+      ],
+      "ChEMBL": [
+        "CHEMBL1412576"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    12.9500  -18.4800\n            2   C8x C    12.9500  -19.8800\n            3   C8x C    14.1624  -20.5800\n            4   C8x C    15.3749  -19.8800\n            5   C8y C    15.3749  -18.4800\n            6   C8x C    14.1624  -17.7800\n            7   C1c C    16.6060  -17.7690\n            8   X   Cl   17.8112  -18.4647\n            9   X   Cl   16.6057  -16.3801\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     7   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

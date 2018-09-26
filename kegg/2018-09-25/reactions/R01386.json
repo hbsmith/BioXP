@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01386",
+    "name": "UDP-D-glucuronate carboxy-lyase (UDP-D-apiose-forming)",
+    "definition": "UDP-glucuronate <=> UDP-apiose + CO2",
+    "equation": "C00167 <=> C01623 + C00011",
+    "comment": "UDP-D-apiose/UDP-D-xylose synthase also forming UDP-D-xylose (see R01384)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K12449": "UDP-apiose/xylose synthase"
+    }
+  }
+]

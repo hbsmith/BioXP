@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11123",
+    "name": "",
+    "definition": "Holyrine A <=> O-Demethyl-N-demethyl-staurosporine",
+    "equation": "C21127 <=> C21128",
+    "comment": "unclear reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00404": "Staurosporine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20080": "cytochrome P450 StaN [EC:1.14.-.-]"
+    }
+  }
+]

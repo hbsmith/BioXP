@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C02057",
+    "name": "Phenylalanine",
+    "names": [
+      "Phenylalanine",
+      "alpha-Amino-beta-phenylpropionic acid"
+    ],
+    "formula": "C9H11NO2",
+    "exact_mass": 165.079,
+    "mol_weight": 165.1891,
+    "remark": "",
+    "comment": "D-Phenylalanine [CPD:C02265] L-Phenylalanine [CPD:C00079]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "150-30-1"
+      ],
+      "PubChem": [
+        "5146"
+      ],
+      "ChEBI": [
+        "28044"
+      ],
+      "ChEMBL": [
+        "CHEMBL25080"
+      ],
+      "NIKKAJI": [
+        "J9.175H"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    25.7600  -23.5200\n            2   C8x C    25.7600  -24.9900\n            3   C8x C    24.5000  -25.6900\n            4   C8x C    23.3100  -24.9900\n            5   C8x C    23.3100  -23.5200\n            6   C8x C    24.5000  -22.8200\n            7   C1b C    26.9500  -22.8200\n            8   C1c C    28.1400  -23.5200\n            9   C6a C    29.3300  -22.8200\n            10  O6a O    30.5200  -23.5200\n            11  O6a O    29.3300  -21.4200\n            12  N1a N    28.1400  -24.9900\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    9  11 2\n            12    8  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

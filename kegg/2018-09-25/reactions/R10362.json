@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10362",
+    "name": "",
+    "definition": "Paspalicine + Oxygen + NADPH + H+ <=> Paspalinine + NADP+ + H2O",
+    "equation": "C20553 + C00007 + C00005 + C00080 <=> C20554 + C00006 + C00001",
+    "comment": "multifunctional cytochrome P450 monooxygenase, AtmQ",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00403": "Indole diterpene alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K18389": "cytochrome P450 monooxygenase [EC:1.14.13.-]"
+    }
+  }
+]

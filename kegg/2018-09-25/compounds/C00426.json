@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C00426",
+    "name": "Dermatan sulfate",
+    "names": [
+      "Dermatan sulfate"
+    ],
+    "formula": "(C14H18NO11R3)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "ATC code: B01AX04",
+    "comment": "Generic compound in reaction hierarchy R = SO3- or H",
+    "reactions": [
+      "R07820"
+    ],
+    "pathways": {
+      "map00531": "Glycosaminoglycan degradation",
+      "map01100": "Metabolic pathways",
+      "map05205": "Proteoglycans in cancer"
+    },
+    "enzymes": [
+      "3.2.-.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "24967-94-0"
+      ],
+      "PubChem": [
+        "3716"
+      ],
+      "ChEBI": [
+        "18376"
+      ],
+      "NIKKAJI": [
+        "J290.950B"
+      ]
+    },
+    "kcf": "ATOM        31\n            1   O1a O    14.5872  -20.1683\n            2   C1y C    16.4296  -19.1183\n            3   C1y C    17.6536  -19.8251\n            4   C1y C    18.8661  -19.1253\n            5   C1y C    18.8663  -17.7253\n            6   O2x O    17.6423  -17.0184\n            7   C1y C    16.4298  -17.7183\n            8   O1a O    17.6533  -21.2099\n            9   O2a O    20.1107  -17.0070\n            10  C1y C    20.1107  -15.6070\n            11  O2a O    20.0967  -19.8366\n            12  C1y C    21.3062  -14.9166\n            13  C1x C    21.3061  -13.5166\n            14  O2x O    20.0936  -12.8167\n            15  C1y C    18.8981  -13.5071\n            16  C1y C    18.8982  -14.9071\n            17  O2a O    17.6859  -15.6071\n            18  Z   *    23.4816  -11.7060\n            19  N1b N    22.4961  -15.6036\n            20  C5a C    23.6824  -14.9100\n            21  C1a C    24.8949  -15.6100\n            22  O5a O    23.6786  -13.5101\n            23  C1b C    17.6883  -12.8088\n            24  O2a O    17.7583  -11.1987\n            25  R   R    19.5148   -9.8824\n            26  R   R    16.0029  -14.2182\n            27  R   R    21.8058  -18.9237\n            28  Z   *    12.3749  -19.6574\n            29  C6a C    15.2292  -17.0247\n            30  O6a O    14.0461  -17.7075\n            31  O6a O    15.2291  -15.6103\nBOND        32\n            1     2   1 1 #Down\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     2   7 1\n            8     3   8 1 #Up\n            9     5   9 1 #Up\n            10   10   9 1 #Up\n            11    4  11 1 #Down\n            12   10  12 1\n            13   12  13 1\n            14   13  14 1\n            15   14  15 1\n            16   15  16 1\n            17   10  16 1\n            18   16  17 1 #Up\n            19   13  18 1 #Up\n            20   12  19 1 #Down\n            21   19  20 1\n            22   20  21 1\n            23   20  22 2\n            24   15  23 1 #Up\n            25   23  24 1\n            26   24  25 1\n            27   17  26 1\n            28   11  27 1\n            29    1  28 1\n            30   29  30 1\n            31   29  31 2\n            32    7  29 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

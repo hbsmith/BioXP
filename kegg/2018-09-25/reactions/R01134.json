@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01134",
+    "name": "inosine-5'-phosphate:NADP+ oxidoreductase (aminating); NADH:guanosine-5'-phosphate oxidoreductase (deaminating)",
+    "definition": "IMP + Ammonia + NADP+ <=> GMP + NADPH + H+",
+    "equation": "C00130 + C00014 + C00006 <=> C00144 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.1.7"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K00364": "GMP reductase [EC:1.7.1.7]"
+    }
+  }
+]

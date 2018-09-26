@@ -1,0 +1,62 @@
+[
+  {
+    "entry_id": "C01880",
+    "name": "epsilon-Caprolactone",
+    "names": [
+      "epsilon-Caprolactone",
+      "6-Hexanolide",
+      "1-Oxa-2-oxocycloheptane",
+      "2-Oxepanone",
+      "Hexano-6-lactone"
+    ],
+    "formula": "C6H10O2",
+    "exact_mass": 114.0681,
+    "mol_weight": 114.1424,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02231",
+      "R03751"
+    ],
+    "pathways": {
+      "map00930": "Caprolactam degradation",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.14.13.22",
+      "3.1.1.17",
+      "3.1.1.83"
+    ],
+    "dblinks": {
+      "CAS": [
+        "502-44-3"
+      ],
+      "PubChem": [
+        "4993"
+      ],
+      "ChEBI": [
+        "17915"
+      ],
+      "ChEMBL": [
+        "CHEMBL373123"
+      ],
+      "PDB-CCD": [
+        "ECE"
+      ],
+      "3DMET": [
+        "B00366"
+      ],
+      "NIKKAJI": [
+        "J1.566K"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C7x C    28.9217  -16.1251\n            2   C1x C    27.6576  -16.7162\n            3   O7x O    30.1800  -16.7454\n            4   O6a O    28.9334  -14.7264\n            5   C1x C    27.3299  -18.0798\n            6   C1x C    30.4784  -18.1149\n            7   C1x C    28.1902  -19.1860\n            8   C1x C    29.5947  -19.1918\nBOND        8\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     3   6 1\n            6     5   7 1\n            7     6   8 1\n            8     7   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

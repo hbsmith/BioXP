@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02912",
+    "name": "serotonin O-methyltransferase",
+    "definition": "Serotonin + 5-Methyltetrahydrofolate <=> 5-Methoxytryptamine + Tetrahydrofolate",
+    "equation": "C00780 + C00440 <=> C05659 + C00101",
+    "comment": "serotonin O-methylase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+      "K00599": "methyltransferase-like protein 6 [EC:2.1.1.-]"
+    }
+  }
+]

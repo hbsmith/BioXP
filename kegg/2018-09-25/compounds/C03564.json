@@ -1,0 +1,70 @@
+[
+  {
+    "entry_id": "C03564",
+    "name": "1-Pyrroline-2-carboxylate",
+    "names": [
+      "1-Pyrroline-2-carboxylate",
+      "1-Pyrroline-2-carboxylic acid",
+      "Delta1-Pyrroline 2-carboxylate",
+      "1-Pyrroline 2-carboxylate"
+    ],
+    "formula": "C5H7NO2",
+    "exact_mass": 113.0477,
+    "mol_weight": 113.1146,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01246",
+      "R01249",
+      "R02894",
+      "R03249",
+      "R04374",
+      "R09496",
+      "R11625"
+    ],
+    "pathways": {
+      "map00330": "Arginine and proline metabolism",
+      "map00472": "D-Arginine and D-ornithine metabolism"
+    },
+    "enzymes": [
+      "1.4.3.3",
+      "1.5.1.1",
+      "1.5.1.21",
+      "1.5.1.49",
+      "1.5.99.13",
+      "4.2.1.77",
+      "4.2.1.171"
+    ],
+    "dblinks": {
+      "CAS": [
+        "2139-03-9"
+      ],
+      "PubChem": [
+        "6356"
+      ],
+      "ChEBI": [
+        "17425",
+        "36761"
+      ],
+      "ChEMBL": [
+        "CHEMBL18591"
+      ],
+      "PDB-CCD": [
+        "2PC"
+      ],
+      "3DMET": [
+        "B00599"
+      ],
+      "NIKKAJI": [
+        "J626.050K"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1x C    16.0893  -20.2142\n            2   C1x C    16.5036  -21.5515\n            3   C1x C    17.9034  -21.5707\n            4   C2y C    18.3543  -20.2453\n            5   N2x N    17.2331  -19.4069\n            6   C6a C    19.5524  -19.5300\n            7   O6a O    20.7649  -20.2300\n            8   O6a O    19.5422  -18.1301\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     1   5 1\n            6     4   6 1\n            7     6   7 1\n            8     6   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

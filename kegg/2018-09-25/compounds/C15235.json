@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C15235",
+    "name": "Antimony trichloride",
+    "names": [
+      "Antimony trichloride",
+      "Antimony(III) chloride",
+      "Trichlorostibine"
+    ],
+    "formula": "SbCl3",
+    "exact_mass": 225.8104,
+    "mol_weight": 228.119,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "10025-91-9"
+      ],
+      "PubChem": [
+        "17396232"
+      ],
+      "ChEBI": [
+        "74856"
+      ],
+      "NIKKAJI": [
+        "J43.674G"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   Z   Sb   24.1500  -19.2500\n            2   X   Cl   25.9224  -20.0900\n            3   X   Cl   22.5876  -20.0200\n            4   X   Cl   24.1500  -17.8500\nBOND        3\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

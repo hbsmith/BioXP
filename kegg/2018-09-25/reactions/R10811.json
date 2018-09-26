@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10811",
+    "name": "1,4-beta-D-mannooligosaccharide:phosphate alpha-D-mannosyltransferase",
+    "definition": "1,4-beta-D-Mannooligosaccharide(n) + (n-2) Orthophosphate <=> Mannobiose + (n-2) D-Mannose 1-phosphate",
+    "equation": "C17207(n) + (n-2) C00009 <=> C20861 + (n-2) C00636",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.319"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K18785": "beta-1,4-mannooligosaccharide/beta-1,4-mannosyl-N-acetylglucosamine phosphorylase [EC:2.4.1.319 2.4.1.320]"
+    }
+  }
+]

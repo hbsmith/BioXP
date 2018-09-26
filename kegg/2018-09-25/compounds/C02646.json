@@ -1,0 +1,70 @@
+[
+  {
+    "entry_id": "C02646",
+    "name": "4-Coumaryl alcohol",
+    "names": [
+      "4-Coumaryl alcohol",
+      "4-Hydroxycinnamyl alcohol",
+      "p-Coumaryl alcohol"
+    ],
+    "formula": "C9H10O2",
+    "exact_mass": 150.0681,
+    "mol_weight": 150.1745,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04005",
+      "R04006",
+      "R04007",
+      "R06580",
+      "R07437",
+      "R10254"
+    ],
+    "pathways": {
+      "map00940": "Phenylpropanoid biosynthesis",
+      "map01061": "Biosynthesis of phenylpropanoids",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.1.1.195",
+      "1.11.1.7",
+      "1.11.1.21",
+      "2.3.1.-",
+      "2.4.1.111",
+      "3.2.1.126"
+    ],
+    "dblinks": {
+      "CAS": [
+        "3690-05-9"
+      ],
+      "PubChem": [
+        "5623"
+      ],
+      "ChEBI": [
+        "28386",
+        "64555"
+      ],
+      "ChEMBL": [
+        "CHEMBL109034"
+      ],
+      "KNApSAcK": [
+        "C00000613",
+        "C00031420"
+      ],
+      "3DMET": [
+        "B00473"
+      ],
+      "NIKKAJI": [
+        "J117.130E"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    28.0700  -19.5300\n            2   C8x C    28.0700  -20.9300\n            3   C8x C    26.8100  -21.6300\n            4   C8y C    25.6200  -20.9300\n            5   C8x C    25.6200  -19.5300\n            6   C8x C    26.8100  -18.8300\n            7   O1a O    24.3600  -21.6300\n            8   C2b C    29.2600  -18.8300\n            9   C2b C    30.4500  -19.5300\n            10  C1b C    31.6400  -18.8300\n            11  O1a O    32.8581  -19.5201\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     1   8 1\n            9     8   9 2\n            10    9  10 1\n            11   10  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

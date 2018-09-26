@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08903",
+    "name": "2-oxoglutarate:neomycin-C aminotransferase",
+    "definition": "Neomycin C + 2-Oxoglutarate <=> 6'''-Deamino-6'''-oxoneomycin C + L-Glutamate",
+    "equation": "C15652 + C00026 <=> C17589 + C00025",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.95"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20567": "neamine transaminase / neomycin C transaminase [EC:2.6.1.93 2.6.1.95]"
+    }
+  }
+]

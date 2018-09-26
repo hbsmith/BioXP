@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01559",
+    "name": "Succinyl-CoA:oxalate CoA-transferase",
+    "definition": "Succinyl-CoA + Oxalate <=> Succinate + Oxalyl-CoA",
+    "equation": "C00091 + C00209 <=> C00042 + C00313",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.2"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

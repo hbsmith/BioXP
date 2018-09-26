@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R08633",
+    "name": "L-homocysteine hydrogen-sulfide-lyase",
+    "definition": "L-Homocysteine <=> Hydrogen sulfide + 2-Aminobut-2-enoate",
+    "equation": "C00155 <=> C00283 + C17234",
+    "comment": "a part of multi-step reaction (R01283, R08633+R08637) subsequently R08637",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.2"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

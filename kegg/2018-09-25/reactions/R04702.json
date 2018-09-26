@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04702",
+    "name": "dihydrosanguinarine,NADPH:oxygen oxidoreductase (10-hydroxylating)",
+    "definition": "Dihydrosanguinarine + Oxygen + NADPH + H+ <=> 10-Hydroxydihydrosanguinarine + NADP+ + H2O",
+    "equation": "C05191 + C00007 + C00005 + C00080 <=> C05247 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.56"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

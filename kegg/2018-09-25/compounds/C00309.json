@@ -1,0 +1,71 @@
+[
+  {
+    "entry_id": "C00309",
+    "name": "D-Ribulose",
+    "names": [
+      "D-Ribulose",
+      "D-erythro-2-Pentulose",
+      "D-Arabinoketose",
+      "D-Arabinulose",
+      "D-Riboketose"
+    ],
+    "formula": "C5H10O5",
+    "exact_mass": 150.0528,
+    "mol_weight": 150.1299,
+    "remark": "",
+    "comment": "alpha-D-Ribulose [CPD:C08354]",
+    "reactions": [
+      "R01081",
+      "R01526",
+      "R01577",
+      "R01892",
+      "R01895",
+      "R07134",
+      "R07144"
+    ],
+    "pathways": {
+      "map00040": "Pentose and glucuronate interconversions",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.1.1.56",
+      "1.1.1.250",
+      "1.1.1.287",
+      "1.1.2.2",
+      "2.7.1.16",
+      "2.7.1.47",
+      "5.3.1.3",
+      "5.3.1.20"
+    ],
+    "dblinks": {
+      "CAS": [
+        "488-84-6"
+      ],
+      "PubChem": [
+        "3603"
+      ],
+      "ChEBI": [
+        "17173"
+      ],
+      "ChEMBL": [
+        "CHEMBL1341376"
+      ],
+      "KNApSAcK": [
+        "C00001131"
+      ],
+      "3DMET": [
+        "B04662"
+      ],
+      "NIKKAJI": [
+        "J6.034H"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1z C    24.0686  -16.2279\n            2   C1y C    23.6541  -17.5357\n            3   O2x O    22.9126  -15.3930\n            4   C1b C    25.0611  -15.2295\n            5   O1a O    25.3589  -16.7008\n            6   C1y C    22.2353  -17.5357\n            7   O1a O    24.4714  -18.6741\n            8   C1x C    21.7858  -16.2045\n            9   O1a O    26.3338  -15.8133\n            10  O1a O    21.4181  -18.6799\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Either\n            4     1   5 1\n            5     2   6 1\n            6     2   7 1 #Down\n            7     3   8 1\n            8     4   9 1\n            9     6  10 1 #Down\n            10    6   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

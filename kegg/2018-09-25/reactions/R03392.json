@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03392",
+    "name": "CDP-4-dehydro-3,6-dideoxy-D-glucose:NADP+ 3-oxydoreductase",
+    "definition": "CDP-4-dehydro-3,6-dideoxy-D-glucose + NADP+ + H2O <=> CDP-4-dehydro-6-deoxy-D-glucose + NADPH + H+",
+    "equation": "C04297 + C00006 + C00001 <=> C01219 + C00005 + C00080",
+    "comment": "NAD+ (see R03391) multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.17.1.1"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K00523": "CDP-4-dehydro-6-deoxyglucose reductase, E3 [EC:1.17.1.1]",
+      "K12452": "CDP-4-dehydro-6-deoxyglucose reductase, E1 [EC:1.17.1.1]"
+    }
+  }
+]

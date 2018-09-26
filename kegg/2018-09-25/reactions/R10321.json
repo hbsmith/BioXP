@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10321",
+    "name": "tryprostatin B,NADPH:oxygen oxidoreductase (6-hydroxytryprostatin B-forming)",
+    "definition": "Tryprostatin B + NADPH + H+ + Oxygen <=> 6-Hydroxytryprostatin B + NADP+ + H2O",
+    "equation": "C20512 + C00005 + C00080 + C00007 <=> C20513 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.176"
+    ],
+    "pathways": {
+      "rn00404": "Staurosporine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K17475": "tryprostatin B 6-hydroxylase [EC:1.14.13.176]"
+    }
+  }
+]

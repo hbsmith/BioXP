@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C02721",
+    "name": "N-Methyl-L-alanine",
+    "names": [
+      "N-Methyl-L-alanine"
+    ],
+    "formula": "C4H9NO2",
+    "exact_mass": 103.0633,
+    "mol_weight": 103.1198,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01584"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.4.1.17"
+    ],
+    "dblinks": {
+      "CAS": [
+        "3913-67-5"
+      ],
+      "PubChem": [
+        "5683"
+      ],
+      "ChEBI": [
+        "17519"
+      ],
+      "ChEMBL": [
+        "CHEMBL1234201"
+      ],
+      "PDB-CCD": [
+        "MAA"
+      ],
+      "NIKKAJI": [
+        "J130.628F"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1a C    18.1300  -20.5100\n            2   C1c C    19.3424  -21.2100\n            3   C6a C    20.5549  -20.5100\n            4   O6a O    21.7673  -21.2100\n            5   O6a O    20.5549  -19.1102\n            6   N1b N    19.3424  -22.6098\n            7   C1a C    18.1132  -23.3197\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 2\n            5     2   6 1 #Up\n            6     6   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

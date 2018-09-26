@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04908",
+    "name": "5-Hydroxykynurenamine:oxygen oxidoreductase(deaminating)(flavin-containing)",
+    "definition": "5-Hydroxykynurenamine + H2O + Oxygen <=> 4,6-Dihydroxyquinoline + Ammonia + Hydrogen peroxide + H2O",
+    "equation": "C05638 + C00001 + C00007 <=> C05639 + C00014 + C00027 + C00001",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.4"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+      "K00274": "monoamine oxidase [EC:1.4.3.4]"
+    }
+  }
+]

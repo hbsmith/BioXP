@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09191",
+    "name": "S-adenosyl-L-methionine:4-amino-anhydrotetracycline N-methyltransferase",
+    "definition": "4-Amino-anhydrotetracycline + 2 S-Adenosyl-L-methionine <=> Anhydrotetracycline + 2 S-Adenosyl-L-homocysteine",
+    "equation": "C06654 + 2 C00019 <=> C02811 + 2 C00021",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.335"
+    ],
+    "pathways": {
+      "rn00253": "Tetracycline biosynthesis",
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K14255": "4-amino-anhydrotetracycline N4-methyltransferase [EC:2.1.1.335]"
+    }
+  }
+]

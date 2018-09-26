@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C13629",
+    "name": "1,2-Bis(4-hydroxyphenyl)-2-propanol",
+    "names": [
+      "1,2-Bis(4-hydroxyphenyl)-2-propanol"
+    ],
+    "formula": "C15H16O3",
+    "exact_mass": 244.1099,
+    "mol_weight": 244.2857,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06883",
+      "R06885"
+    ],
+    "pathways": {
+      "map00363": "Bisphenol degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.-.-",
+      "4.2.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "154928-56-0"
+      ],
+      "PubChem": [
+        "586246"
+      ],
+      "ChEBI": [
+        "31035"
+      ],
+      "NIKKAJI": [
+        "J1.608.543J"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C1b C    28.2536  -16.5873\n            2   C8x C    24.6076  -17.2638\n            3   C8y C    24.6696  -18.6644\n            4   C8x C    25.8124  -19.3752\n            5   C8x C    27.0263  -18.6782\n            6   C8y C    27.0343  -17.2776\n            7   C8x C    25.8284  -16.5738\n            8   O1a O    23.3820  -19.3620\n            9   C1d C    29.4562  -17.2915\n            10  C8y C    30.6746  -16.6020\n            11  C8x C    31.8772  -17.3087\n            12  C8x C    33.0954  -16.6191\n            13  C8y C    33.1036  -15.2185\n            14  C8x C    31.8939  -14.5073\n            15  C8x C    30.6758  -15.2038\n            16  O1a O    34.3220  -14.5218\n            17  O1a O    28.2408  -17.9842\n            18  C1a C    30.6621  -17.9912\nBOND        19\n            1     1   9 1\n            2     3   4 1\n            3     9  10 1\n            4     4   5 2\n            5     5   6 1\n            6     6   7 2\n            7     7   2 1\n            8     6   1 1\n            9    10  11 2\n            10   11  12 1\n            11   12  13 2\n            12   13  14 1\n            13   14  15 2\n            14   15  10 1\n            15   13  16 1\n            16    3   8 1\n            17    9  17 1\n            18    2   3 2\n            19    9  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

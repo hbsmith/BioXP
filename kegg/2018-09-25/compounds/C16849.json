@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C16849",
+    "name": "Hydroxypyruvaldehyde phosphate",
+    "names": [
+      "Hydroxypyruvaldehyde phosphate",
+      "2,3-Dioxopropyl phosphate"
+    ],
+    "formula": "C3H5O6P",
+    "exact_mass": 167.9824,
+    "mol_weight": 168.042,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08568"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.2.1.10"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023373"
+      ],
+      "ChEBI": [
+        "51283"
+      ],
+      "NIKKAJI": [
+        "J2.805.600A"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O2b O    27.1976  -19.8088\n            2   C1b C    28.3978  -19.1130\n            3   C5a C    29.6006  -19.8046\n            4   C4a C    30.8009  -19.1088\n            5   O4a O    32.0035  -19.8003\n            6   P1b P    25.8101  -19.8113\n            7   O1c O    25.8074  -18.2630\n            8   O1c O    25.8125  -21.1515\n            9   O1c O    24.4228  -19.8137\n            10  O5a O    29.6030  -21.1918\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     1   6 1\n            6     6   7 2\n            7     6   8 1\n            8     6   9 1\n            9     3  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

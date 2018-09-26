@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03180",
+    "name": "4-Guanidinobutanamide amidohydrolase",
+    "definition": "4-Guanidinobutanamide + H2O <=> 4-Guanidinobutanoate + Ammonia",
+    "equation": "C03078 + C00001 <=> C01035 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.4"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism"
+    },
+    "orthologs": {
+      "K01426": "amidase [EC:3.5.1.4]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03648",
+    "name": "L-Asparagine:tRNA(Asn) ligase (AMP-forming)",
+    "definition": "ATP + L-Asparagine + tRNA(Asn) <=> AMP + Diphosphate + L-Asparaginyl-tRNA(Asn)",
+    "equation": "C00002 + C00152 + C01637 <=> C00020 + C00013 + C03402",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.1.1.22"
+    ],
+    "pathways": {
+      "rn00970": "Aminoacyl-tRNA biosynthesis"
+    },
+    "orthologs": {
+      "K01893": "asparaginyl-tRNA synthetase [EC:6.1.1.22]"
+    }
+  }
+]

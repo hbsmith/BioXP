@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R01041",
+    "name": "glycerol:NADP+ oxidoreductase",
+    "definition": "Glycerol + NADP+ <=> D-Glyceraldehyde + NADPH + H+",
+    "equation": "C00116 + C00006 <=> C00577 + C00005 + C00080",
+    "comment": "NAD+ (see R01036)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.2",
+      "1.1.1.21",
+      "1.1.1.72",
+      "1.1.1.372"
+    ],
+    "pathways": {
+      "rn00561": "Glycerolipid metabolism"
+    },
+    "orthologs": {
+      "K00002": "alcohol dehydrogenase (NADP+) [EC:1.1.1.2]",
+      "K00011": "aldehyde reductase [EC:1.1.1.21]"
+    }
+  }
+]

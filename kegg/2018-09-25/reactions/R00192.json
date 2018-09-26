@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00192",
+    "name": "S-Adenosyl-L-homocysteine hydrolase",
+    "definition": "S-Adenosyl-L-homocysteine + H2O <=> Adenosine + L-Homocysteine",
+    "equation": "C00021 + C00001 <=> C00212 + C00155",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.3.1.1"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01251": "adenosylhomocysteinase [EC:3.3.1.1]"
+    }
+  }
+]

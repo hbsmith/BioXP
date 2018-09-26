@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04094",
+    "name": "Thioglucoside glucohydrolase",
+    "definition": "Glucobrassicin + H2O <=> 3-Indoleacetonitrile + D-Glucose + Sulfate + Sulfur",
+    "equation": "C05837 + C00001 <=> C02938 + C00031 + C00059 + C00087",
+    "comment": "multi-step reaction Ref:1. J Agric Food Chem 1996; 1014-1021",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.147"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+      "K01237": "myrosinase [EC:3.2.1.147]"
+    }
+  }
+]

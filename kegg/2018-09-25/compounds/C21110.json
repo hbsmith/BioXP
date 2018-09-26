@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C21110",
+    "name": "Monodechloroaminopyrrolnitrin",
+    "names": [
+      "Monodechloroaminopyrrolnitrin"
+    ],
+    "formula": "C10H9ClN2",
+    "exact_mass": 192.0454,
+    "mol_weight": 192.6449,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11105",
+      "R11106"
+    ],
+    "pathways": {
+      "map00404": "Staurosporine biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.14.19.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "312642079"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    18.7600  -14.9800\n            2   C8y C    18.7600  -16.3800\n            3   C8y C    19.9500  -17.0800\n            4   C8y C    21.1400  -16.3800\n            5   C8x C    21.1400  -14.9800\n            6   C8x C    19.9500  -14.2800\n            7   X   Cl   17.5000  -17.0800\n            8   N1a N    19.9500  -18.4800\n            9   C8y C    22.4000  -17.0800\n            10  C8x C    21.9800  -18.5500\n            11  N4x N    23.1700  -19.2500\n            12  C8x C    24.2900  -18.4100\n            13  C8x C    23.7300  -17.0800\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     2   7 1\n            8     3   8 1\n            9     4   9 1\n            10    9  10 2\n            11   10  11 1\n            12   11  12 1\n            13   12  13 2\n            14    9  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

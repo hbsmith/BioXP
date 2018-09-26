@@ -1,0 +1,26 @@
+[
+  {
+    "entry_id": "R01011",
+    "name": "ATP:glycerone phosphotransferase",
+    "definition": "ATP + Glycerone <=> ADP + Glycerone phosphate",
+    "equation": "C00002 + C00184 <=> C00008 + C00111",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.29"
+    ],
+    "pathways": {
+      "rn00561": "Glycerolipid metabolism",
+      "rn00680": "Methane metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K00863": "triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing) [EC:2.7.1.28 2.7.1.29 4.6.1.15]",
+      "K05878": "dihydroxyacetone kinase, N-terminal domain [EC:2.7.1.-]",
+      "K05879": "dihydroxyacetone kinase, C-terminal domain [EC:2.7.1.-]"
+    }
+  }
+]

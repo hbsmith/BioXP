@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R04733",
+    "name": "UTP:[protein-PII] uridylyltransferase",
+    "definition": "UTP + [Protein-PII] <=> Diphosphate + Uridylyl-[protein-PII]",
+    "equation": "C00075 + C05250 <=> C00013 + C05326",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.59"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

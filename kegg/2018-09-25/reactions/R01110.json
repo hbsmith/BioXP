@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01110",
+    "name": "glutathione:homocystine oxidoreductase",
+    "definition": "Homocystine + 2 Glutathione <=> Glutathione disulfide + 2 Homocysteine",
+    "equation": "C20788 + 2 C00051 <=> C00127 + 2 C05330",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.4.1"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

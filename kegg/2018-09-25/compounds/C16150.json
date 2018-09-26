@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C16150",
+    "name": "(R,S)-Nicotine",
+    "names": [
+      "(R,S)-Nicotine",
+      "(+-)-3-(1-Methyl-2-pyrrolidinyl)pyridine"
+    ],
+    "formula": "C10H14N2",
+    "exact_mass": 162.1157,
+    "mol_weight": 162.2316,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02860",
+      "R07946",
+      "R11175",
+      "R11177"
+    ],
+    "pathways": {
+      "map00760": "Nicotinate and nicotinamide metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.5.3.-",
+      "1.5.99.4"
+    ],
+    "dblinks": {
+      "CAS": [
+        "22083-74-5"
+      ],
+      "PubChem": [
+        "47205460"
+      ],
+      "ChEBI": [
+        "18723"
+      ],
+      "ChEMBL": [
+        "CHEMBL440464"
+      ],
+      "NIKKAJI": [
+        "J23.948H"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    34.3503  -22.6681\n            2   C8x C    34.3503  -24.0672\n            3   N5x N    35.5395  -24.7667\n            4   C8x C    36.7986  -24.0672\n            5   C8y C    36.7986  -22.6681\n            6   C8x C    35.5395  -21.9686\n            7   C1y C    37.9878  -21.9686\n            8   N1y N    39.3169  -22.3184\n            9   C1x C    40.1563  -21.1991\n            10  C1x C    39.2470  -20.0799\n            11  C1x C    37.9878  -20.5695\n            12  C1a C    39.7830  -23.6581\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10   10  11 1\n            11    7  11 1\n            12    5   7 1\n            13    8  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

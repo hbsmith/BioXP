@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C06728",
+    "name": "3-Ethylcatechol",
+    "names": [
+      "3-Ethylcatechol",
+      "2,3-Dihydroxyethylbenzene",
+      "3-Ethyl-benzene-1,2-diol"
+    ],
+    "formula": "C8H10O2",
+    "exact_mass": 138.0681,
+    "mol_weight": 138.1638,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05313",
+      "R05416"
+    ],
+    "pathways": {
+      "map00642": "Ethylbenzene degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.3.1.66",
+      "1.13.11.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "933-99-3"
+      ],
+      "PubChem": [
+        "8950"
+      ],
+      "ChEBI": [
+        "16572"
+      ],
+      "3DMET": [
+        "B01035"
+      ],
+      "NIKKAJI": [
+        "J801.879K"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    28.2628  -16.5964\n            2   C8y C    29.4753  -17.2843\n            3   C8x C    27.0560  -17.3076\n            4   C1b C    28.2452  -15.1972\n            5   C8y C    29.4927  -18.6834\n            6   O1a O    30.6821  -16.5730\n            7   C8x C    27.0618  -18.7067\n            8   C1a C    27.0327  -14.4919\n            9   C8x C    28.2861  -19.3945\n            10  O1a O    30.7111  -19.3713\nBOND        10\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     5  10 1\n            10    7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

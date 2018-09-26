@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03072",
+    "name": "S-Adenosyl-L-methionine:nocardicin-E 3-amino-3-carboxypropyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Nocardicin E <=> 5'-Methylthioadenosine + Isonocardicin A",
+    "equation": "C00019 + C01739 <=> C00170 + C00927",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.38"
+    ],
+    "pathways": {
+      "rn00261": "Monobactam biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19104": "isonocardicin synthase [EC:2.5.1.38]"
+    }
+  }
+]

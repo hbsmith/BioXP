@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00807",
+    "name": "Sucrose:(acceptor) 3-oxidoreductase",
+    "definition": "Sucrose + FAD <=> 3-Ketosucrose + FADH2",
+    "equation": "C00089 + C00016 <=> C05731 + C01352",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.99.13"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

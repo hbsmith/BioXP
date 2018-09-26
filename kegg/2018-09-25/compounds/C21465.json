@@ -1,0 +1,35 @@
+[
+  {
+    "entry_id": "C21465",
+    "name": "L-Asparaginyl-protein",
+    "names": [
+      "L-Asparaginyl-protein",
+      "N-Terminal L-asparaginyl-[protein]"
+    ],
+    "formula": "C6H10N3O4R(C2H2NOR)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11559"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.5.1.121"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "329970417"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   N1b N    16.8000  -15.2600\n            2   C1c C    17.9900  -14.5600\n            3   C5a C    19.2500  -15.2600\n            4   N1b N    20.4400  -14.5600\n            5   O5a O    19.2500  -16.6600\n            6   C1c C    21.6300  -15.2600\n            7   R   R    21.6300  -16.6600\n            8   C6a C    22.8900  -14.5600\n            9   O6a O    22.8900  -13.1600\n            10  O6a O    24.0800  -15.2600\n            11  R   R    17.9900  -13.1600\n            12  C5a C    15.5876  -14.5600\n            13  C1c C    14.3751  -15.2600\n            14  O5a O    15.5876  -13.1600\n            15  N1a N    13.1627  -14.5600\n            16  C1b C    14.2351  -17.1500\n            17  C5a C    15.4475  -17.8500\n            18  O5a O    16.6767  -17.1402\n            19  N1a N    15.4476  -19.2498\nBOND        18\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 2\n            5     4   6 1\n            6     6   7 1 #Down\n            7     6   8 1\n            8     8   9 2\n            9     8  10 1\n            10    2  11 1 #Up\n            11    1  12 1\n            12   12  13 1\n            13   12  14 2\n            14   13  15 1\n            15   13  16 1 #Down\n            16   16  17 1\n            17   17  18 2\n            18   17  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03980",
+    "name": "Estrone 3-sulfate sulfohydrolase",
+    "definition": "Estrone 3-sulfate + H2O <=> Sulfate + Estrone",
+    "equation": "C02538 + C00001 <=> C00059 + C00468",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.6.1"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+      "K01130": "arylsulfatase [EC:3.1.6.1]"
+    }
+  }
+]

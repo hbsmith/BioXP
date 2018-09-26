@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00497",
+    "name": "gamma-L-glutamyl-L-cysteine:glycine ligase (ADP-forming)",
+    "definition": "ATP + gamma-L-Glutamyl-L-cysteine + Glycine <=> ADP + Orthophosphate + Glutathione",
+    "equation": "C00002 + C00669 + C00037 <=> C00008 + C00009 + C00051",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.3"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01920": "glutathione synthase [EC:6.3.2.3]",
+      "K21456": "glutathione synthase [EC:6.3.2.3]"
+    }
+  }
+]

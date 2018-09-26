@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C20686",
+    "name": "(S)-2-(4-Chloro-2-methylphenoxy)propanoate",
+    "names": [
+      "(S)-2-(4-Chloro-2-methylphenoxy)propanoate",
+      "(S)-Mecoprop"
+    ],
+    "formula": "C10H11ClO3",
+    "exact_mass": 214.0397,
+    "mol_weight": 214.6455,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10527"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.11.43"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "172232406"
+      ],
+      "ChEMBL": [
+        "CHEMBL2287189"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C1c C    20.4931  -16.1572\n            2   C8x C    15.5970  -16.1572\n            3   C8y C    15.5970  -17.5561\n            4   C8x C    16.8560  -18.2557\n            5   C8x C    18.0450  -17.5561\n            6   C8y C    18.0450  -16.1572\n            7   C8y C    16.8560  -15.4578\n            8   X   Cl   14.4079  -18.2557\n            9   O2a O    19.3041  -15.4578\n            10  C1a C    16.8560  -14.0588\n            11  C6a C    21.6822  -15.4578\n            12  O6a O    22.8713  -16.1572\n            13  O6a O    21.6822  -14.0588\n            14  C1a C    20.4930  -17.5699\nBOND        14\n            1     2   3 2\n            2     3   4 1\n            3     4   5 2\n            4     5   6 1\n            5     6   7 2\n            6     2   7 1\n            7     3   8 1\n            8     6   9 1\n            9     1   9 1\n            10    7  10 1\n            11   11  12 1\n            12   11  13 2\n            13    1  11 1\n            14    1  14 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07556",
+    "name": "",
+    "definition": "(2'S)-Deoxymyxol 2'-alpha-L-fucoside <=> (3R,2'S)-Myxol 2'-alpha-L-fucoside",
+    "equation": "C15940 <=> C15941",
+    "comment": "beta-carotene hydroxylase(crtR)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis"
+    },
+    "orthologs": {
+      "K02294": "beta-carotene hydroxylase [EC:1.14.13.-]"
+    }
+  }
+]

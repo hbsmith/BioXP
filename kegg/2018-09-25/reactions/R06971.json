@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06971",
+    "name": "",
+    "definition": "N-Cyclopropylammeline + H2O <=> N-Cyclopropylammelide + Ammonia",
+    "equation": "C14148 + C00001 <=> C14149 + C00014",
+    "comment": "N-cyclopropylammeline deaminase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.4.-"
+    ],
+    "pathways": {
+      "rn00791": "Atrazine degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

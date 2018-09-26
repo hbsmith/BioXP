@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05302",
+    "name": "",
+    "definition": "O-Carbamoyl-deacetylcephalosporin C + 2-Oxoglutarate + Oxygen <=> 7a-Hydroxy-O-carbamoyl-deacetylcephalosporin C + Succinate + CO2",
+    "equation": "C06568 + C00026 + C00007 <=> C06569 + C00042 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00311": "Penicillin and cephalosporin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10991",
+    "name": "2-aminobutanoate:2-oxoglutarate aminotransferase",
+    "definition": "(S)-2-Aminobutanoate + 2-Oxoglutarate <=> 2-Oxobutanoate + L-Glutamate",
+    "equation": "C02356 + C00026 <=> C00109 + C00025",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.42"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00826": "branched-chain amino acid aminotransferase [EC:2.6.1.42]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03590",
+    "name": "flavanone,2-oxoglutarate:oxygen oxidoreductase (dehydrating)",
+    "definition": "Eriodictyol + 2-Oxoglutarate + Oxygen <=> Luteolin + Succinate + CO2 + H2O",
+    "equation": "C05631 + C00026 + C00007 <=> C01514 + C00042 + C00011 + C00001",
+    "comment": "flavone synthase I",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.22"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13077": "flavone synthase [EC:1.14.11.22]"
+    }
+  }
+]

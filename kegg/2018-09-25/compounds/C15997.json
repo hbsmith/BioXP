@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C15997",
+    "name": "Potassium 2,6-dihydroxytriazinecarboxylate",
+    "names": [
+      "Potassium 2,6-dihydroxytriazinecarboxylate",
+      "Potassium oxonate",
+      "Oteracil potassium"
+    ],
+    "formula": "C4H2N3O4. K",
+    "exact_mass": 194.9682,
+    "mol_weight": 195.1747,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "2207-75-2"
+      ],
+      "PubChem": [
+        "47205308"
+      ],
+      "ChEBI": [
+        "80230"
+      ],
+      "ChEMBL": [
+        "CHEMBL3184847"
+      ],
+      "NIKKAJI": [
+        "J42.695D"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    21.6985  -20.2981\n            2   N4x N    21.6985  -21.6979\n            3   C8y C    22.9108  -22.3978\n            4   N5x N    24.1231  -21.6979\n            5   C8y C    24.1231  -20.2981\n            6   N4x N    22.9108  -19.5982\n            7   O5x O    22.9108  -23.7974\n            8   O5x O    20.4863  -19.5982\n            9   C6a C    25.3541  -19.5872\n            10  O6a O    26.5591  -20.2828\n            11  O6a O    25.3538  -18.1985 #-\n            12  Z   K    26.7379  -16.1686 #+\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 1\n            7     3   7 2\n            8     1   8 2\n            9     5   9 1\n            10    9  10 2\n            11    9  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09116",
+    "name": "9alpha-Copalyl-diphosphate diphosphate-lyase [stemod-13(17)-ene-forming]",
+    "definition": "9alpha-Copalyl diphosphate <=> Stemod-13(17)-ene + Diphosphate",
+    "equation": "C11902 <=> C18224 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.34"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K14045": "stemod-13(17)-ene synthase [EC:4.2.3.34]"
+    }
+  }
+]

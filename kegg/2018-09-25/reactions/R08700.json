@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08700",
+    "name": "[enzyme]-S-sulfanylcysteine:tRNA-uridine sulfurtransferase (ATP-hydrolysing)",
+    "definition": "tRNA uridine + [Enzyme]-S-sulfanylcysteine + ATP <=> tRNA containing 2-thiouridine + [Enzyme]-cysteine + AMP + Diphosphate",
+    "equation": "C00868 + C15812 + C00002 <=> C17322 + C15811 + C00020 + C00013",
+    "comment": "multi-step reaction incomplete reaction (donor is unidentified in vivo, dithiothreitol[CPD:C00265] in vitro)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.1.13"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00566": "tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]"
+    }
+  }
+]

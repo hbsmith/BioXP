@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03722",
+    "name": "(S)-Tetrahydrocolumbamine:oxigen oxidoreductase",
+    "definition": "Isocorypalmine + 2 Oxygen <=> Columbamine + 2 Hydrogen peroxide",
+    "equation": "C04118 + 2 C00007 <=> C01795 + 2 C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.3.8"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22089": "tetrahydroprotoberberine oxidase [EC:1.3.3.8]"
+    }
+  }
+]

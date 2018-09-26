@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C21258",
+    "name": "4'-Oxonebramine",
+    "names": [
+      "4'-Oxonebramine"
+    ],
+    "formula": "C12H24N4O5",
+    "exact_mass": 304.1747,
+    "mol_weight": 304.3428,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11275",
+      "R11277"
+    ],
+    "pathways": {
+      "map00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "315661357"
+      ]
+    },
+    "kcf": "ATOM        21\n            1   O1a O    15.0138  -16.8928\n            2   O1a O    15.0839  -19.6967\n            3   C1y C    16.2755  -18.9957\n            4   C1y C    17.4672  -19.6967\n            5   C1x C    18.6589  -18.9957\n            6   C1y C    18.6589  -17.5937\n            7   C1y C    17.4672  -16.8928\n            8   C1y C    16.2755  -17.5937\n            9   N1a N    17.4672  -21.0987\n            10  N1a N    19.8505  -16.8928\n            11  O2a O    17.4672  -15.4908\n            12  C1y C    18.6589  -14.7898\n            13  O2x O    19.8505  -15.4908\n            14  C1y C    21.0422  -14.7898\n            15  C5x C    21.0422  -13.3879\n            16  C1x C    19.8505  -12.6869\n            17  C1y C    18.6589  -13.3879\n            18  C1b C    22.3040  -15.4207\n            19  N1a N    22.3040  -16.8227\n            20  N1a N    17.3971  -12.6869\n            21  O5x O    22.3040  -12.6168\nBOND        22\n            1    13  14 1\n            2    14  15 1\n            3    15  16 1\n            4    16  17 1\n            5    17  12 1\n            6    14  18 1 #Up\n            7     3   2 1 #Down\n            8    18  19 1\n            9    17  20 1 #Down\n            10   15  21 2\n            11    3   4 1\n            12    4   5 1\n            13    5   6 1\n            14    6   7 1\n            15    7   8 1\n            16    8   3 1\n            17    4   9 1 #Up\n            18    6  10 1 #Up\n            19    7  11 1 #Down\n            20    8   1 1 #Up\n            21   12  11 1 #Down\n            22   12  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

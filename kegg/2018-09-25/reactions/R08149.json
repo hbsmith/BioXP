@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08149",
+    "name": "juvenile hormone III acylhydrolase",
+    "definition": "Juvenile hormone III + H2O <=> Juvenile hormone III acid + Methanol",
+    "equation": "C09694 + C00001 <=> C16504 + C00132",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.59"
+    ],
+    "pathways": {
+      "rn00981": "Insect hormone biosynthesis"
+    },
+    "orthologs": {
+      "K01063": "juvenile-hormone esterase [EC:3.1.1.59]"
+    }
+  }
+]

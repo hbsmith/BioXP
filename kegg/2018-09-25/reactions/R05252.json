@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05252",
+    "name": "",
+    "definition": "4-Chlorobenzoate <=> 4-Chlorobenzaldehyde + H2O",
+    "equation": "C02370 <=> C06648 + C00001",
+    "comment": "4-chlorobenzaldehyde oxidase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.-.-"
+    ],
+    "pathways": {
+      "rn00351": "DDT degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

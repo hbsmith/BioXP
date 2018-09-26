@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03936",
+    "name": "Formylkynurenine hydrolase",
+    "definition": "L-Formylkynurenine + H2O <=> Formylanthranilate + L-Alanine",
+    "equation": "C02700 + C00001 <=> C05653 + C00041",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.7.1.3"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+      "K01556": "kynureninase [EC:3.7.1.3]"
+    }
+  }
+]

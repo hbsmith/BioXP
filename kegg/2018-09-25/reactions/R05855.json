@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05855",
+    "name": "tabersonine,NADPH:oxygen oxidoreductase (16-hydroxylating)",
+    "definition": "Tabersonine + NADPH + H+ + Oxygen <=> 16-Hydroxytabersonine + NADP+ + H2O",
+    "equation": "C09244 + C00005 + C00080 + C00007 <=> C11643 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.73"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis"
+    },
+    "orthologs": {
+      "K12696": "tabersonine 16-hydroxylase [EC:1.14.13.73]"
+    }
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C00849",
+    "name": "Ethyl acetate",
+    "names": [
+      "Ethyl acetate"
+    ],
+    "formula": "C4H8O2",
+    "exact_mass": 88.0524,
+    "mol_weight": 88.1051,
+    "remark": "Same as: D02319",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "141-78-6"
+      ],
+      "PubChem": [
+        "4106"
+      ],
+      "ChEBI": [
+        "27750"
+      ],
+      "ChEMBL": [
+        "CHEMBL14152"
+      ],
+      "KNApSAcK": [
+        "C00001308"
+      ],
+      "PDB-CCD": [
+        "EEE"
+      ],
+      "3DMET": [
+        "B00189"
+      ],
+      "NIKKAJI": [
+        "J2.952A"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C1a C    19.7438  -17.2319\n            2   C1b C    20.9551  -16.5275\n            3   O7a O    22.1667  -17.2248\n            4   C7a C    23.3782  -16.5206\n            5   C1a C    24.5896  -17.2179\n            6   O6a O    23.3752  -15.1188\nBOND        5\n            1     1   2 1\n            2     3   4 1\n            3     4   5 1\n            4     2   3 1\n            5     4   6 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

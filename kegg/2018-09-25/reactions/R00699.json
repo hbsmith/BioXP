@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00699",
+    "name": "L-phenylalanine carboxy-lyase (phenylethylamine-forming)",
+    "definition": "L-Phenylalanine <=> Phenethylamine + CO2",
+    "equation": "C00079 <=> C05332 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.28",
+      "4.1.1.53"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism"
+    },
+    "orthologs": {
+      "K01593": "aromatic-L-amino-acid decarboxylase [EC:4.1.1.28]"
+    }
+  }
+]

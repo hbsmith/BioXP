@@ -1,0 +1,27 @@
+[
+  {
+    "entry_id": "R03321",
+    "name": "beta-D-Glucose 6-phosphate ketol-isomerase",
+    "definition": "beta-D-Glucose 6-phosphate <=> beta-D-Fructose 6-phosphate",
+    "equation": "C01172 <=> C05345",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.1.9"
+    ],
+    "pathways": {
+      "rn00010": "Glycolysis / Gluconeogenesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K01810": "glucose-6-phosphate isomerase [EC:5.3.1.9]",
+      "K06859": "glucose-6-phosphate isomerase, archaeal [EC:5.3.1.9]",
+      "K13810": "transaldolase / glucose-6-phosphate isomerase [EC:2.2.1.2 5.3.1.9]",
+      "K15916": "glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8]"
+    }
+  }
+]

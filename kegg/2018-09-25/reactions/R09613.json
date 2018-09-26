@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R09613",
+    "name": "S-adenosyl-L-methionine:3'O-tricetin 5'-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 3'-O-Methyltricetin <=> S-Adenosyl-L-homocysteine + Tricin",
+    "equation": "C00019 + C19739 <=> C00021 + C10193",
+    "comment": "second step of two-step reaction (see R09611, R09612+R09613) second step of three-step reaction (see R09679, R09612+R09613+R09678)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.169",
+      "2.1.1.175"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06200",
+    "name": "",
+    "definition": "1,4-beta-D-Glucan(n+2) + H2O <=> 1,4-beta-D-Glucan(n) + Cellobiose",
+    "equation": "G10481(n+2) + C00001 <=> G10481(n) + G00289",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.4",
+      "3.2.1.91"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K01179": "endoglucanase [EC:3.2.1.4]",
+      "K01225": "cellulose 1,4-beta-cellobiosidase [EC:3.2.1.91]"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R09621",
+    "name": "malonyl-CoA:benzoyl-CoA malonyltransferase (cyclizing)",
+    "definition": "3 Malonyl-CoA + Benzoyl-CoA <=> 4 CoA + 3,5-Dihydroxybiphenyl + 4 CO2",
+    "equation": "3 C00083 + C00512 <=> 4 C00010 + C19750 + 4 C00011",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.177"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

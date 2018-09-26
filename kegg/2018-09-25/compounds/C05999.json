@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C05999",
+    "name": "Lactaldehyde",
+    "names": [
+      "Lactaldehyde",
+      "2-Hydroxypropionaldehyde",
+      "2-Hydroxypropanal"
+    ],
+    "formula": "C3H6O2",
+    "exact_mass": 74.0368,
+    "mol_weight": 74.0785,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02531",
+      "R02577"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.21",
+      "4.2.1.30"
+    ],
+    "dblinks": {
+      "CAS": [
+        "598-35-6"
+      ],
+      "PubChem": [
+        "8273"
+      ],
+      "ChEBI": [
+        "18419"
+      ],
+      "3DMET": [
+        "B05144"
+      ],
+      "NIKKAJI": [
+        "J2.715D"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C1c C    25.8377  -20.2300\n            2   C4a C    27.0468  -19.5290\n            3   C1a C    24.6223  -19.5290\n            4   O1a O    25.8377  -21.6319\n            5   O4a O    27.0468  -18.1303\nBOND        4\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Either\n            4     2   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

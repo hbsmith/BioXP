@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11608",
+    "name": "ATP:4-hydroxybenzoate adenylyltransferase",
+    "definition": "ATP + 4-Hydroxybenzoate <=> Diphosphate + 4-Hydroxybenzoyl adenylate",
+    "equation": "C00002 + C00156 <=> C00013 + C21497",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.98"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K12424": "4-hydroxybenzoate adenylyltransferase [EC:6.2.1.50]"
+    }
+  }
+]

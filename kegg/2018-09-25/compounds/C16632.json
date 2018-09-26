@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C16632",
+    "name": "alpha-Fluoro-beta-alanine",
+    "names": [
+      "alpha-Fluoro-beta-alanine",
+      "3-Amino-2-fluoropropionic acid"
+    ],
+    "formula": "C3H6FNO2",
+    "exact_mass": 107.0383,
+    "mol_weight": 107.0836,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08228"
+    ],
+    "pathways": {
+      "map00983": "Drug metabolism - other enzymes"
+    },
+    "enzymes": [
+      "3.5.1.6"
+    ],
+    "dblinks": {
+      "CAS": [
+        "3821-81-6"
+      ],
+      "PubChem": [
+        "51090958"
+      ],
+      "ChEBI": [
+        "80626"
+      ],
+      "ChEMBL": [
+        "CHEMBL3544571"
+      ],
+      "NIKKAJI": [
+        "J79.862B"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   N1a N    23.7002  -20.5107\n            2   C1b C    24.9127  -19.8106\n            3   C1c C    26.1253  -20.5107\n            4   C6a C    27.3377  -19.8106\n            5   O6a O    28.5502  -20.5107\n            6   O6a O    27.3377  -18.4110\n            7   X   F    26.1253  -21.9106\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     4   6 2\n            6     3   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

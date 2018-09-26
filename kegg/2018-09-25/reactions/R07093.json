@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R07093",
+    "name": "chloroacetyl-chloride:glutathione S-chloroacetyltransferase",
+    "definition": "Chloroacetyl chloride + Glutathione <=> S-(2-Chloroacetyl)glutathione + Hydrochloric acid",
+    "equation": "C14859 + C00051 <=> C14864 + C01327",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.18"
+    ],
+    "pathways": {
+      "rn00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "orthologs": {
+      "K00799": "glutathione S-transferase [EC:2.5.1.18]",
+      "K04097": "prostaglandin-H2 D-isomerase / glutathione transferase [EC:5.3.99.2 2.5.1.18]",
+      "K13299": "glutathione S-transferase kappa 1 [EC:2.5.1.18]"
+    }
+  }
+]

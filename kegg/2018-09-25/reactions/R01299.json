@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01299",
+    "name": "4-hydroxybenzoate,NADPH:oxygen oxidoreductase (1-hydroxylating, decarboxylating)",
+    "definition": "4-Hydroxybenzoate + Oxygen + NADPH + H+ <=> Hydroquinone + CO2 + NADP+ + H2O",
+    "equation": "C00156 + C00007 + C00005 + C00080 <=> C00530 + C00011 + C00006 + C00001",
+    "comment": "NADH (see R01297)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.64"
+    ],
+    "pathways": {
+      "rn00362": "Benzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

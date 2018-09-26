@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11687",
+    "name": "",
+    "definition": "(S)-cis-N-Methylcanadine <=> (S)-1-Hydroxy-N-methylcanadine",
+    "equation": "C02915 <=> C21586",
+    "comment": "N-methylcanadine 1-hydroxylase incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis"
+    },
+    "orthologs": {
+      "K20621": "N-methylcanadine 1-hydroxylase"
+    }
+  }
+]

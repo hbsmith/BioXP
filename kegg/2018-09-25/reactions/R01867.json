@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01867",
+    "name": "(S)-dihydroorotate:fumarate oxidoreductase",
+    "definition": "(S)-Dihydroorotate + Fumarate <=> Orotate + Succinate",
+    "equation": "C00337 + C00122 <=> C00295 + C00042",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.98.1"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00226": "dihydroorotate dehydrogenase (fumarate) [EC:1.3.98.1]"
+    }
+  }
+]

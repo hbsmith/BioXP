@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08373",
+    "name": "(2E,6E)-farnesyl-diphosphate diphosphate-lyase (alpha-humulene-forming)",
+    "definition": "trans,trans-Farnesyl diphosphate <=> Humulene + Diphosphate",
+    "equation": "C00448 <=> C09684 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.104"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis"
+    },
+    "orthologs": {
+      "K14184": "alpha-humulene/beta-caryophyllene synthase [EC:4.2.3.104 4.2.3.57]"
+    }
+  }
+]

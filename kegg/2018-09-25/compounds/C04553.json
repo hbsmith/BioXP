@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C04553",
+    "name": "3-Carboxy-2,5-dihydro-5-oxofuran-2-acetate",
+    "names": [
+      "3-Carboxy-2,5-dihydro-5-oxofuran-2-acetate",
+      "4-Carboxy-2,5-dihydro-2-oxofuran-5-acetate"
+    ],
+    "formula": "C7H6O6",
+    "exact_mass": 186.0164,
+    "mol_weight": 186.1189,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03308"
+    ],
+    "pathways": {
+      "map00362": "Benzoate degradation"
+    },
+    "enzymes": [
+      "5.5.1.5"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7158"
+      ],
+      "ChEBI": [
+        "16989"
+      ],
+      "NIKKAJI": [
+        "J1.557.068G"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C7x C    17.0066  -20.3912\n            2   C2x C    17.3894  -21.7379\n            3   C2y C    18.7885  -21.7899\n            4   C1y C    19.2703  -20.4754\n            5   O7x O    18.1690  -19.6110\n            6   O6a O    15.6884  -19.9081\n            7   C1b C    20.4624  -19.8100\n            8   C6a C    21.6749  -20.5100\n            9   O6a O    22.9060  -19.7990\n            10  O6a O    21.6750  -21.9098\n            11  C6a C    19.5504  -22.9255\n            12  O6a O    20.9243  -22.8334\n            13  O6a O    18.9158  -24.2181\nBOND        13\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     1   6 2\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    8  10 2\n            11    3  11 1\n            12   11  12 1\n            13   11  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

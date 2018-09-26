@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00397",
+    "name": "L-aspartate 4-carboxy-lyase (L-alanine-forming)",
+    "definition": "L-Aspartate <=> L-Alanine + CO2",
+    "equation": "C00049 <=> C00041 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.12"
+    ],
+    "pathways": {
+      "rn00250": "Alanine, aspartate and glutamate metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K09758": "aspartate 4-decarboxylase [EC:4.1.1.12]"
+    }
+  }
+]

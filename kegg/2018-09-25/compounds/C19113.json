@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19113",
+    "name": "Calcium carbimide",
+    "names": [
+      "Calcium carbimide"
+    ],
+    "formula": "CaCN2",
+    "exact_mass": 79.9687,
+    "mol_weight": 80.1021,
+    "remark": "Same as: D03288",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "156-62-7"
+      ],
+      "PubChem": [
+        "124489785"
+      ],
+      "ChEBI": [
+        "64301"
+      ],
+      "ChEMBL": [
+        "CHEMBL3301667"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   C3b C    30.1700  -17.9900\n            2   N0  N    28.9800  -18.6900 #2-\n            3   N3a N    31.3600  -17.2900\n            4   Z   Ca   25.3400  -18.6200 #2+\nBOND        2\n            1     1   2 1\n            2     1   3 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

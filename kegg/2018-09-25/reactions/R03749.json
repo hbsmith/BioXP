@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03749",
+    "name": "(5-L-Glutamyl)-L-amino-acid 5-glutamyltransferase (cyclizing)",
+    "definition": "(5-L-Glutamyl)-L-amino acid <=> Pidolic acid + L-Amino acid",
+    "equation": "C03740 <=> C01879 + C00151",
+    "comment": "general reaction (see R02743)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.3.2.9"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism"
+    },
+    "orthologs": {
+      "K00682": "gamma-glutamylcyclotransferase [EC:4.3.2.9]"
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "entry_id": "C02350",
+    "name": "(S)-Allantoin",
+    "names": [
+      "(S)-Allantoin",
+      "(S)(+)-Allantoin"
+    ],
+    "formula": "C4H6N4O3",
+    "exact_mass": 158.044,
+    "mol_weight": 158.1154,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02425",
+      "R03925",
+      "R06064",
+      "R06604"
+    ],
+    "pathways": {
+      "map00230": "Purine metabolism",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "3.5.2.5",
+      "4.1.1.97",
+      "5.1.99.3"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5397"
+      ],
+      "ChEBI": [
+        "15678"
+      ],
+      "ChEMBL": [
+        "CHEMBL1230080"
+      ],
+      "PDB-CCD": [
+        "3AL"
+      ],
+      "3DMET": [
+        "B00428"
+      ],
+      "NIKKAJI": [
+        "J732.396D"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   N1x N    20.6395  -22.2430\n            2   C5x C    21.0527  -23.5806\n            3   C1y C    22.4525  -23.6011\n            4   N1x N    22.9046  -22.2761\n            5   C5x C    21.7841  -21.4367\n            6   O5x O    21.8049  -20.0204\n            7   O5x O    20.2152  -24.6987\n            8   N1b N    23.2593  -24.7463\n            9   C5a C    24.6312  -24.7629\n            10  O5a O    25.3406  -23.5679\n            11  N1a N    25.3259  -26.0005\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     5   6 2\n            7     2   7 2\n            8     3   8 1 #Down\n            9     8   9 1\n            10    9  10 2\n            11    9  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

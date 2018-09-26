@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04383",
+    "name": "5-Dehydro-4-deoxy-D-glucuronate ketol-isomerase",
+    "definition": "5-Dehydro-4-deoxy-D-glucuronate <=> (4S)-4,6-Dihydroxy-2,5-dioxohexanoate",
+    "equation": "C04053 <=> C04349",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.1.17"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions"
+    },
+    "orthologs": {
+      "K01815": "4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase [EC:5.3.1.17]"
+    }
+  }
+]

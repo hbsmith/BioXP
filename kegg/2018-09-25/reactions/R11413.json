@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11413",
+    "name": "S-adenosyl-L-methionine:orsellinate-[acp] O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Orsellinate-[acp] <=> S-Adenosyl-L-homocysteine + 2-Methoxyorsellinate-[acp]",
+    "equation": "C00019 + C21343 <=> C00021 + C21344",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21255": "orsellinic acid C2-O-methyltransferase [EC:2.1.1.-]"
+    }
+  }
+]

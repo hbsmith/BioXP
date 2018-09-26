@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C14147",
+    "name": "Cyromazine",
+    "names": [
+      "Cyromazine",
+      "Cyclopropylmelamine",
+      "2-Cyclopropylamino-4,6-diamino-s-triazine"
+    ],
+    "formula": "C6H10N6",
+    "exact_mass": 166.0967,
+    "mol_weight": 166.1838,
+    "remark": "Same as: D07767",
+    "comment": "",
+    "reactions": [
+      "R06970"
+    ],
+    "pathways": {
+      "map00791": "Atrazine degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "3.5.4.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "66215-27-8"
+      ],
+      "PubChem": [
+        "7846959"
+      ],
+      "ChEBI": [
+        "30260"
+      ],
+      "ChEMBL": [
+        "CHEMBL1231107"
+      ],
+      "PDB-CCD": [
+        "AX3"
+      ],
+      "NIKKAJI": [
+        "J18.757G"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   N5x N    26.3638  -16.6109\n            2   C8y C    26.3638  -18.0106\n            3   N5x N    27.5759  -18.7104\n            4   C8y C    28.7881  -18.0106\n            5   N5x N    28.7881  -16.6109\n            6   C8y C    27.5759  -15.9111\n            7   N1a N    27.5759  -14.5114\n            8   N1a N    25.1516  -18.7104\n            9   N1b N    30.0016  -18.7112\n            10  C1y C    31.4026  -18.7104\n            11  C1x C    32.6155  -18.0106\n            12  C1x C    32.6155  -19.4103\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     2   8 1\n            9     4   9 1\n            10    9  10 1\n            11   10  11 1\n            12   10  12 1\n            13   11  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07442",
+    "name": "sinapoyl aldehyde:NADP oxidoreductase",
+    "definition": "Sinapoyl aldehyde + NADP+ + H2O <=> Sinapate + NADPH + H+",
+    "equation": "C05610 + C00006 + C00001 <=> C00482 + C00005 + C00080",
+    "comment": "see R07441 (NADH)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.68"
+    ],
+    "pathways": {
+      "rn00940": "Phenylpropanoid biosynthesis"
+    },
+    "orthologs": {
+      "K12355": "coniferyl-aldehyde dehydrogenase [EC:1.2.1.68]"
+    }
+  }
+]

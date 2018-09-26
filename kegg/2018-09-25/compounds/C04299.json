@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C04299",
+    "name": "D-myo-Inositol 1,2-cyclic phosphate",
+    "names": [
+      "D-myo-Inositol 1,2-cyclic phosphate",
+      "1D-myo-Inositol 1,2-cyclic phosphate"
+    ],
+    "formula": "C6H11O8P",
+    "exact_mass": 242.0192,
+    "mol_weight": 242.1205,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03333",
+      "R03364"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.4.43",
+      "4.6.1.13"
+    ],
+    "dblinks": {
+      "CAS": [
+        "43119-57-9"
+      ],
+      "PubChem": [
+        "6958"
+      ],
+      "ChEBI": [
+        "18426"
+      ],
+      "NIKKAJI": [
+        "J790.754K"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   P1b P    15.5950  -18.6524\n            2   O2x O    16.0804  -17.3788\n            3   O2x O    16.9316  -19.1568\n            4   O1c O    15.1160  -19.9383\n            5   O1c O    14.3153  -18.1732\n            6   C1y C    17.4863  -16.9313\n            7   C1y C    18.1735  -18.1353\n            8   C1y C    18.1924  -15.7398\n            9   C1y C    19.5414  -18.1480\n            10  C1y C    19.5856  -15.7461\n            11  O1a O    17.5178  -14.5484\n            12  C1y C    20.2476  -16.9565\n            13  O1a O    20.2160  -19.3458\n            14  O1a O    20.2853  -14.5672\n            15  O1a O    21.6219  -16.9755\nBOND        16\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     6   2 1 #Up\n            6     7   3 1 #Up\n            7     6   8 1\n            8     7   9 1\n            9     8  10 1\n            10    8  11 1 #Down\n            11    9  12 1\n            12    9  13 1 #Up\n            13   10  14 1 #Up\n            14   12  15 1 #Down\n            15    6   7 1\n            16   10  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

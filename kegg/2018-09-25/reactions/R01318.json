@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R01318",
+    "name": "Acyl-CoA:1-acyl-sn-glycero-3-phosphocholine O-acyltransferase",
+    "definition": "Acyl-CoA + 1-Acyl-sn-glycero-3-phosphocholine <=> CoA + Phosphatidylcholine",
+    "equation": "C00040 + C04230 <=> C00010 + C00157",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.23"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism"
+    },
+    "orthologs": {
+      "K13510": "lysophosphatidylcholine acyltransferase / lyso-PAF acetyltransferase [EC:2.3.1.23 2.3.1.67]",
+      "K13512": "lysophospholipid acyltransferase [EC:2.3.1.23 2.3.1.-]",
+      "K13515": "lysophospholipid acyltransferase 5 [EC:2.3.1.23 2.3.1.-]",
+      "K13519": "lysophospholipid acyltransferase [EC:2.3.1.51 2.3.1.23 2.3.1.-]"
+    }
+  }
+]

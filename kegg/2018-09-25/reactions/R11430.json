@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11430",
+    "name": "",
+    "definition": "NDP-D-mannose <=> NDP-4-oxo-6-deoxy-D-mannose",
+    "equation": "C21314 <=> C21315",
+    "comment": "proposed pathway unclear reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21211": "NDP-hexose 4,6-dehydratase"
+    }
+  }
+]

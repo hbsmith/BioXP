@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03589",
+    "name": "UDPglucuronate:luteolin 7-O-glucuronosyltransferase",
+    "definition": "UDP-glucuronate + Luteolin <=> UDP + Luteolin 7-O-glucuronide",
+    "equation": "C00167 + C01514 <=> C00015 + C03515",
+    "comment": "luteolin 7-O-glucuronosyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.189"
+    ],
+    "pathways": {
+      "rn00944": "Flavone and flavonol biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

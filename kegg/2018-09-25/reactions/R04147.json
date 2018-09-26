@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R04147",
+    "name": "",
+    "definition": "Isopenicillin N <=> Penicillin N",
+    "equation": "C05557 <=> C06564",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.1.17"
+    ],
+    "pathways": {
+      "rn00311": "Penicillin and cephalosporin biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K04127": "isopenicillin-N epimerase [EC:5.1.1.17]"
+    }
+  }
+]

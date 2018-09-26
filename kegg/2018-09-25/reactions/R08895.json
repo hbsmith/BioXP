@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08895",
+    "name": "2'-N-acetylparomamine hydrolase (acetate-forming)",
+    "definition": "2'-N-Acetylparomamine + H2O <=> Paromamine + Acetate",
+    "equation": "C17582 + C00001 <=> C01743 + C00033",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.112"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13551": "2'-N-acetylparomamine deacetylase [EC:3.5.1.112]",
+      "K17078": "2'-N-acetylparomamine deacetylase / 2'''-acetyl-6'''-hydroxyneomycin deacetylase [EC:3.5.1.112 3.5.1.113]"
+    }
+  }
+]

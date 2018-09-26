@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C20335",
+    "name": "1,3-Butanediol",
+    "names": [
+      "1,3-Butanediol",
+      "1,3-Butylene glycol"
+    ],
+    "formula": "C4H10O2",
+    "exact_mass": 90.0681,
+    "mol_weight": 90.121,
+    "remark": "Same as: D10695",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "107-88-0"
+      ],
+      "PubChem": [
+        "163312073"
+      ],
+      "ChEMBL": [
+        "CHEMBL3186475"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   O1a O    13.6500  -13.0200\n            2   C1b C    12.4600  -13.7200\n            3   C1b C    11.2700  -13.0200\n            4   C1c C    10.0800  -13.7200\n            5   C1a C     8.8900  -13.0200\n            6   O1a O    10.0800  -15.1200\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     4   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

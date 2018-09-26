@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R10035",
+    "name": "beta-D-glucoside glucohydrolase",
+    "definition": "Dhurrin + H2O <=> (S)-4-Hydroxymandelonitrile + beta-D-Glucose",
+    "equation": "C05143 + C00001 <=> C03742 + C00221",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.21"
+    ],
+    "pathways": {
+      "rn00460": "Cyanoamino acid metabolism"
+    },
+    "orthologs": {
+      "K01188": "beta-glucosidase [EC:3.2.1.21]",
+      "K05349": "beta-glucosidase [EC:3.2.1.21]",
+      "K05350": "beta-glucosidase [EC:3.2.1.21]"
+    }
+  }
+]

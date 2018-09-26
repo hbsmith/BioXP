@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C11015",
+    "name": "Aldicarb",
+    "names": [
+      "Aldicarb"
+    ],
+    "formula": "C7H14N2O2S",
+    "exact_mass": 190.0776,
+    "mol_weight": 190.2633,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "116-06-3"
+      ],
+      "PubChem": [
+        "13198"
+      ],
+      "ChEBI": [
+        "2555"
+      ],
+      "ChEMBL": [
+        "CHEMBL91732"
+      ],
+      "NIKKAJI": [
+        "J2.901G"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1a C    33.6998  -17.3154\n            2   S2a S    32.4955  -18.0202\n            3   C1d C    31.2838  -17.3161\n            4   C2b C    30.0725  -18.0209\n            5   N2b N    28.8608  -17.3168\n            6   O7a O    27.6494  -18.0216\n            7   C7a C    26.4378  -17.3175\n            8   N1b N    25.2264  -18.0222\n            9   C1a C    24.0218  -17.3181\n            10  C1a C    30.5861  -16.1049\n            11  O6a O    26.4444  -15.9159\n            12  C1a C    31.9879  -16.1045\nBOND        11\n            1     1   2 1\n            2     6   7 1\n            3     3   4 1\n            4     7   8 1\n            5     8   9 1\n            6     4   5 2\n            7     3  10 1\n            8     2   3 1\n            9     7  11 2\n            10    5   6 1\n            11    3  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

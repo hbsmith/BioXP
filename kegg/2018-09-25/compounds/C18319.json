@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C18319",
+    "name": "2-Methylbutyrate",
+    "names": [
+      "2-Methylbutyrate",
+      "2-Methylbutyric acid"
+    ],
+    "formula": "C5H10O2",
+    "exact_mass": 102.0681,
+    "mol_weight": 102.1317,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map04974": "Protein digestion and absorption"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "116-53-0"
+      ],
+      "PubChem": [
+        "103061501"
+      ],
+      "ChEBI": [
+        "37070"
+      ],
+      "ChEMBL": [
+        "CHEMBL1160012"
+      ],
+      "KNApSAcK": [
+        "C00029461"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1a C     9.6600  -13.2300\n            2   C1b C    10.8724  -12.5300\n            3   C1c C    12.0849  -13.2300\n            4   C6a C    13.2973  -12.5300\n            5   O6a O    14.5097  -13.2300\n            6   C1a C    12.0849  -14.6298\n            7   O6a O    13.2973  -11.1300\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     3   6 1\n            6     4   7 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

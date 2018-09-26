@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07013",
+    "name": "(1R,2S)-naphthalene 1,2-oxide hydrolase",
+    "definition": "(1R,2S)-Naphthalene 1,2-oxide + H2O <=> 1,2-Dihydronaphthalene-1,2-diol",
+    "equation": "C14786 + C00001 <=> C06205",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.3.2.9"
+    ],
+    "pathways": {
+      "rn00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "orthologs": {
+      "K01253": "microsomal epoxide hydrolase [EC:3.3.2.9]"
+    }
+  }
+]

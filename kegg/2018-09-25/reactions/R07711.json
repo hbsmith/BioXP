@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07711",
+    "name": "",
+    "definition": "Liquiritigenin + NADPH + H+ + Oxygen <=> 6,7,4'-Trihydroxyflavanone + NADP+ + H2O",
+    "equation": "C09762 + C00005 + C00080 + C00007 <=> C16232 + C00006 + C00001",
+    "comment": "flavonoid 6-hydroxylase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00943": "Isoflavonoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13267": "flavonoid 6-hydroxylase [EC:1.14.13.-]"
+    }
+  }
+]

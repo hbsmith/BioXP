@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02639",
+    "name": "3-Dehydro-L-gulonate:NADP+ 2-oxidoreductase",
+    "definition": "3-Dehydro-L-gulonate + NADP+ <=> (4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate + NADPH + H+",
+    "equation": "C00618 + C00006 <=> C04575 + C00005 + C00080",
+    "comment": "NAD+ (see R02637)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.130"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions",
+      "rn00053": "Ascorbate and aldarate metabolism"
+    },
+    "orthologs": {
+      "K08092": "3-dehydro-L-gulonate 2-dehydrogenase [EC:1.1.1.130]"
+    }
+  }
+]

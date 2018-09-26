@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09549",
+    "name": "(+)-germacrene-A,NADPH:oxygen oxidoreductase (12-hydroxylating)",
+    "definition": "(+)-Germacrene A + NADPH + H+ + Oxygen <=> Germacra-1(10),4,11(13)-trien-12-ol + NADP+ + H2O",
+    "equation": "C16141 + C00005 + C00080 + C00007 <=> C19676 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.123"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15800": "germacrene A oxidase [EC:1.1.1.314 1.14.13.123]"
+    }
+  }
+]

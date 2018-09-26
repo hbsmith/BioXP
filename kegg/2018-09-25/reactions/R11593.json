@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11593",
+    "name": "(R)-2-hydroxyglutarate:pyruvate oxidoreductase [(R)-lactate-forming]",
+    "definition": "Pyruvate + (R)-2-Hydroxyglutarate <=> (R)-Lactate + 2-Oxoglutarate",
+    "equation": "C00022 + C01087 <=> C00256 + C00026",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.99.40"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism"
+    },
+    "orthologs": {
+      "K21618": "(R)-2-hydroxyglutarate---pyruvate transhydrogenase [EC:1.1.99.40]"
+    }
+  }
+]

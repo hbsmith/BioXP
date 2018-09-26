@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C12296",
+    "name": "Isoamyl acetate",
+    "names": [
+      "Isoamyl acetate"
+    ],
+    "formula": "C7H14O2",
+    "exact_mass": 130.0994,
+    "mol_weight": 130.1849,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "123-92-2"
+      ],
+      "PubChem": [
+        "14440"
+      ],
+      "ChEBI": [
+        "31725"
+      ],
+      "ChEMBL": [
+        "CHEMBL42013"
+      ],
+      "KNApSAcK": [
+        "C00035116"
+      ],
+      "NIKKAJI": [
+        "J2.012E"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1a C    24.3587  -20.6142\n            2   C1c C    25.5702  -19.9100\n            3   C1b C    26.7815  -20.6073\n            4   C1b C    27.9929  -19.9029\n            5   O7a O    29.2044  -20.6002\n            6   C7a C    30.4157  -19.8958\n            7   C1a C    31.6271  -20.5931\n            8   C1a C    25.5672  -18.5084\n            9   O6a O    30.4787  -18.4944\nBOND        8\n            1     4   5 1\n            2     2   3 1\n            3     5   6 1\n            4     1   2 1\n            5     6   7 1\n            6     3   4 1\n            7     2   8 1\n            8     6   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

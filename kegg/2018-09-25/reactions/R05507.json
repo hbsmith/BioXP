@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05507",
+    "name": "",
+    "definition": "6-Aminohexanoate + 2-Oxoglutarate <=> Adipate semialdehyde + L-Glutamate",
+    "equation": "C02378 + C00026 <=> C06102 + C00025",
+    "comment": "6-aminohexanoate transaminase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.-"
+    ],
+    "pathways": {
+      "rn00930": "Caprolactam degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09285",
+    "name": "",
+    "definition": "4-Aminocatechol + H2O <=> Benzene-1,2,4-triol + Ammonia",
+    "equation": "C18351 + C00001 <=> C02814 + C00014",
+    "comment": "three-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

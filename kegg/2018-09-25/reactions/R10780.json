@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R10780",
+    "name": "ATP:(R)-3-phosphomevalonate 5-phosphotransferase",
+    "definition": "(R)-Mevalonate 3-phosphate + ATP <=> (R)-Mevalonate 3,5-bisphosphate + ADP",
+    "equation": "C20847 + C00002 <=> C20848 + C00008",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.186"
+    ],
+    "pathways": {
+      "rn00900": "Terpenoid backbone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K18690": "mevalonate-3-phosphate-5-kinase [EC:2.7.1.186]"
+    }
+  }
+]

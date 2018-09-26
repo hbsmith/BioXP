@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C01004",
+    "name": "N-Methylnicotinate",
+    "names": [
+      "N-Methylnicotinate",
+      "Trigonelline",
+      "Trigenelline",
+      "1-Methylpyridinio-3-carboxylate",
+      "Betaine nicotinate",
+      "Caffearin",
+      "Gynesine"
+    ],
+    "formula": "C7H7NO2",
+    "exact_mass": 137.0477,
+    "mol_weight": 137.136,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01721"
+    ],
+    "pathways": {
+      "map00760": "Nicotinate and nicotinamide metabolism"
+    },
+    "enzymes": [
+      "2.1.1.7"
+    ],
+    "dblinks": {
+      "CAS": [
+        "535-83-1"
+      ],
+      "PubChem": [
+        "4250"
+      ],
+      "ChEBI": [
+        "18123"
+      ],
+      "ChEMBL": [
+        "CHEMBL350675"
+      ],
+      "KNApSAcK": [
+        "C00001555"
+      ],
+      "NIKKAJI": [
+        "J6.346K"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    22.1415  -16.8732\n            2   C8x C    22.1415  -15.4640\n            3   C8x C    20.9181  -17.5843\n            4   C6a C    23.3458  -17.5650\n            5   N5y N    20.9181  -14.7657 #+\n            6   C8x C    19.7138  -16.8732\n            7   O6a O    23.3521  -19.2415 #-\n            8   O6a O    24.5501  -16.8669\n            9   C8x C    19.7138  -15.4640\n            10  C1a C    20.9116  -13.1659\nBOND        10\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 2\n            6     4   7 1\n            7     4   8 2\n            8     5   9 2\n            9     5  10 1\n            10    6   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

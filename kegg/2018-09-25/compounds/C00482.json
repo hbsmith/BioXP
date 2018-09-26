@@ -1,0 +1,79 @@
+[
+  {
+    "entry_id": "C00482",
+    "name": "Sinapate",
+    "names": [
+      "Sinapate",
+      "Sinapic acid",
+      "3,5-Dimethoxy-4-hydroxycinnamic acid"
+    ],
+    "formula": "C11H12O5",
+    "exact_mass": 224.0685,
+    "mol_weight": 224.21,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02221",
+      "R02379",
+      "R02380",
+      "R02381",
+      "R07441",
+      "R07442",
+      "R08533",
+      "R10261",
+      "R10298",
+      "R10299"
+    ],
+    "pathways": {
+      "map00940": "Phenylpropanoid biosynthesis",
+      "map01061": "Biosynthesis of phenylpropanoids",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.2.1.68",
+      "2.1.1.68",
+      "2.4.1.120",
+      "2.4.1.126",
+      "2.4.1.299",
+      "3.1.1.49",
+      "6.2.1.12"
+    ],
+    "dblinks": {
+      "CAS": [
+        "530-59-6",
+        "7362-37-0"
+      ],
+      "PubChem": [
+        "3765"
+      ],
+      "ChEBI": [
+        "15714",
+        "77131"
+      ],
+      "ChEMBL": [
+        "CHEMBL109341"
+      ],
+      "KNApSAcK": [
+        "C00002776",
+        "C00034327"
+      ],
+      "PDB-CCD": [
+        "SXX"
+      ],
+      "3DMET": [
+        "B01259"
+      ],
+      "NIKKAJI": [
+        "J11.713G"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8y C    25.3400  -18.4800\n            2   C8x C    25.3400  -19.8800\n            3   C8y C    26.5524  -20.5800\n            4   C8y C    27.7649  -19.8800\n            5   C8y C    27.7649  -18.4800\n            6   C8x C    26.5524  -17.7800\n            7   O2a O    28.9960  -17.7690\n            8   C1a C    28.9960  -16.3690\n            9   O1a O    28.9960  -20.5910\n            10  O2a O    26.5524  -21.9798\n            11  C1a C    25.3232  -22.6897\n            12  C2b C    24.1276  -17.7800\n            13  C2b C    22.9321  -18.4704\n            14  C6a C    21.7447  -17.7849\n            15  O6a O    20.5535  -18.4729\n            16  O6a O    21.7445  -16.3802\nBOND        16\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     4   9 1\n            10    3  10 1\n            11   10  11 1\n            12    1  12 1\n            13   12  13 2\n            14   13  14 1\n            15   14  15 1\n            16   14  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

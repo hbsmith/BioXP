@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03950",
+    "name": "S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase",
+    "definition": "2 S-Adenosyl-L-methionine + Uroporphyrin III <=> 2 S-Adenosyl-L-homocysteine + Sirohydrochlorin",
+    "equation": "2 C00019 + C02469 <=> 2 C00021 + C05778",
+    "comment": "incomplete reaction, possibly incorrect (see R03194)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.107"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

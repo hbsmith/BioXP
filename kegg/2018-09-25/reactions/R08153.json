@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08153",
+    "name": "",
+    "definition": "Juvenile hormone III + H2O <=> (10S)-Juvenile hormone III diol",
+    "equation": "C09694 + C00001 <=> C16505",
+    "comment": "juvenile hormone epoxide hydrolase",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00981": "Insect hormone biosynthesis"
+    },
+    "orthologs": {
+      "K10719": "juvenile hormone epoxide hydrolase"
+    }
+  }
+]

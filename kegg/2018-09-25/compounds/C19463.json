@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19463",
+    "name": "1,5-Naphthalenediamine",
+    "names": [
+      "1,5-Naphthalenediamine"
+    ],
+    "formula": "C10H10N2",
+    "exact_mass": 158.0844,
+    "mol_weight": 158.1998,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "2243-62-1"
+      ],
+      "PubChem": [
+        "124490135"
+      ],
+      "ChEBI": [
+        "53003"
+      ],
+      "ChEMBL": [
+        "CHEMBL538965"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    15.9600  -17.2200\n            2   C8x C    15.9600  -18.6200\n            3   C8x C    17.1724  -19.3200\n            4   C8y C    18.3849  -18.6200\n            5   C8y C    18.3849  -17.2200\n            6   C8y C    17.1724  -16.5200\n            7   C8y C    19.5973  -19.3200\n            8   C8x C    20.8097  -18.6200\n            9   C8x C    20.8097  -17.2200\n            10  C8x C    19.5973  -16.5200\n            11  N1a N    17.1724  -15.1200\n            12  N1a N    19.5973  -20.7200\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12    6  11 1\n            13    7  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

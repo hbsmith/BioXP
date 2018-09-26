@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09575",
+    "name": "germacra-1(10),4,11(13)-trien-12-oate,NADPH:oxygen oxidoreductase (6alpha-hydroxylating)",
+    "definition": "Germacrene A acid + NADPH + H+ + Oxygen <=> Costunolide + NADP+ + 2 H2O",
+    "equation": "C19678 + C00005 + C00080 + C00007 <=> C09382 + C00006 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.120"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K20561": "costunolide synthase [EC:1.14.13.120]"
+    }
+  }
+]

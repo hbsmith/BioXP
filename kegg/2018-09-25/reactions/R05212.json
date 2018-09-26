@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05212",
+    "name": "S-Adenosyl-L-methionine:3'-hydroxy-N-methyl-(S)-coclaurine 4'-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + (S)-6-O-Methylnorlaudanosoline <=> S-Adenosyl-L-homocysteine + (S)-Norreticuline",
+    "equation": "C00019 + C06517 <=> C00021 + C06520",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.116"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13386": "3'-hydroxy-N-methyl-(S)-coclaurine 4'-O-methyltransferase [EC:2.1.1.116]"
+    }
+  }
+]

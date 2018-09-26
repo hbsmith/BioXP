@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C21181",
+    "name": "(2S)-3-Sulfolactaldehyde",
+    "names": [
+      "(2S)-3-Sulfolactaldehyde"
+    ],
+    "formula": "C3H6O5S",
+    "exact_mass": 153.9936,
+    "mol_weight": 154.1417,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11213",
+      "R11677",
+      "R11678"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.2.1.97",
+      "4.1.2.58"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "315431304"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1b C    16.4000  -16.5203\n            2   C1c C    17.6126  -15.8203\n            3   C4a C    18.8250  -16.5203\n            4   O4a O    20.0374  -15.8203\n            5   O1a O    17.6126  -14.4206\n            6   S4a S    15.0000  -16.5203\n            7   O1d O    15.0000  -15.1203\n            8   O1d O    13.6000  -16.5203\n            9   O1d O    15.0000  -17.9204\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 2\n            4     2   5 1 #Up\n            5     1   6 1\n            6     6   7 2\n            7     6   8 2\n            8     6   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

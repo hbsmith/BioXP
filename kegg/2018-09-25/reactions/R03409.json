@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03409",
+    "name": "guanosine 3'-diphosphate 5'-triphosphate 5'-phosphohydrolase",
+    "definition": "Guanosine 3'-diphosphate 5'-triphosphate + H2O <=> Guanosine 3',5'-bis(diphosphate) + Orthophosphate",
+    "equation": "C04494 + C00001 <=> C01228 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.11",
+      "3.6.1.40"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K01514": "exopolyphosphatase [EC:3.6.1.11]",
+      "K01524": "exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]"
+    }
+  }
+]

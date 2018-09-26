@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08875",
+    "name": "methylcobalamin:N-acetyldemethylphosphinothricin-tripeptide P-methyltransferase",
+    "definition": "N-Acetyldemethylphosphinothricin tripeptide + Methylcobalamin + S-Adenosyl-L-methionine + H+ + e- <=> N-Acetylbialaphos + Cob(II)alamin + 5'-Deoxyadenosine + L-Methionine",
+    "equation": "C17950 + C06453 + C00019 + C00080 + C05359 <=> C17951 + C00541 + C05198 + C00073",
+    "comment": "radical SAM",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.326"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12914": "P-methyltransferase [EC:2.1.1.326]"
+    }
+  }
+]

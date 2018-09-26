@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09136",
+    "name": "2,3,5-trichlorodienelactone lactonohydrolase",
+    "definition": "2,3,5-Trichlorodienelactone + H2O <=> 2,3,5-Trichloromaleylacetate",
+    "equation": "C18242 + C00001 <=> C18243",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.45"
+    ],
+    "pathways": {
+      "rn00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01061": "carboxymethylenebutenolidase [EC:3.1.1.45]"
+    }
+  }
+]

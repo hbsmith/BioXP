@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C18090",
+    "name": "Tricaine",
+    "names": [
+      "Tricaine",
+      "3-Aminobenzoic acid",
+      "m-Aminobenzoate"
+    ],
+    "formula": "C9H11NO2",
+    "exact_mass": 165.079,
+    "mol_weight": 165.1891,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "582-33-2"
+      ],
+      "PubChem": [
+        "96024307"
+      ],
+      "ChEBI": [
+        "81494"
+      ],
+      "ChEMBL": [
+        "CHEMBL1702228"
+      ],
+      "PDB-CCD": [
+        "FG7"
+      ],
+      "NIKKAJI": [
+        "J47.824E"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    21.8400  -23.1700\n            2   C8y C    21.8400  -24.5700\n            3   C8x C    23.0300  -25.2700\n            4   C8x C    24.2900  -24.5700\n            5   C8x C    24.2900  -23.1700\n            6   C8y C    23.0300  -22.4700\n            7   C7a C    23.0300  -21.0700\n            8   O6a O    21.8400  -20.3700\n            9   O7a O    24.2200  -20.3700\n            10  C1b C    25.4100  -21.0700\n            11  C1a C    26.6000  -20.3700\n            12  N1a N    20.5800  -25.2700\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     7   8 2\n            9     7   9 1\n            10    9  10 1\n            11   10  11 1\n            12    2  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

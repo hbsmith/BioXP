@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11324",
+    "name": "secalciferol,adrenodoxin:oxygen oxidoreductase (1-hydroxylating)",
+    "definition": "Secalciferol + 2 Reduced adrenal ferredoxin + 2 H+ + Oxygen <=> Calcitetrol + Oxidized adrenal ferredoxin + H2O",
+    "equation": "C07712 + 2 C00662 + 2 C00080 + C00007 <=> C18231 + C00667 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.18"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K07438": "calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase) [EC:1.14.15.18]"
+    }
+  }
+]

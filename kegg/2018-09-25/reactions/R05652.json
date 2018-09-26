@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05652",
+    "name": "taurine:pyruvate aminotransferase",
+    "definition": "Taurine + Pyruvate <=> Sulfoacetaldehyde + L-Alanine",
+    "equation": "C00245 + C00022 <=> C00593 + C00041",
+    "comment": "Tpa, gb:AF269146",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.77"
+    ],
+    "pathways": {
+      "rn00430": "Taurine and hypotaurine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03851": "taurine-pyruvate aminotransferase [EC:2.6.1.77]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00997",
+    "name": "1-aminocyclopropane-1-carboxylate aminohydrolase (isomerizing); 1-aminocyclopropane-1-carboxylate endolyase (deaminating)",
+    "definition": "1-Aminocyclopropane-1-carboxylate + H2O <=> 2-Oxobutanoate + Ammonia",
+    "equation": "C01234 + C00001 <=> C00109 + C00014",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.99.7"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism"
+    },
+    "orthologs": {
+      "K01505": "1-aminocyclopropane-1-carboxylate deaminase [EC:3.5.99.7]"
+    }
+  }
+]

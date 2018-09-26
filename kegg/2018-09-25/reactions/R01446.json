@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01446",
+    "name": "(S)-lactaldehyde:NAD+ oxidoreductase",
+    "definition": "(S)-Lactaldehyde + NAD+ + H2O <=> (S)-Lactate + NADH + H+",
+    "equation": "C00424 + C00003 + C00001 <=> C00186 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.22"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K07248": "lactaldehyde dehydrogenase / glycolaldehyde dehydrogenase [EC:1.2.1.22 1.2.1.21]",
+      "K19266": "lactaldehyde dehydrogenase [EC:1.2.1.22]"
+    }
+  }
+]

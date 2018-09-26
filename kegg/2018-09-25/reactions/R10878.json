@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10878",
+    "name": "mycinamicin-V,NADPH:oxygen oxidoreductase (12,13-epoxidizing)",
+    "definition": "Mycinamicin V + NADPH + Oxygen + H+ <=> Mycinamicin II + NADP+ + H2O",
+    "equation": "C18847 + C00005 + C00007 + C00080 <=> C15680 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+    }
+  }
+]

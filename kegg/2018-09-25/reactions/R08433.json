@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08433",
+    "name": "acetyl-CoA:corrinoid protein O-acetyltransferase",
+    "definition": "Acetyl-CoA + Co(I) corrinoid protein + H+ <=> CO + Methyl-Co(III) corrinoid protein + CoA",
+    "equation": "C00024 + C06021 + C00080 <=> C00237 + C06020 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.169"
+    ],
+    "pathways": {
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K14138": "acetyl-CoA synthase [EC:2.3.1.169]"
+    }
+  }
+]

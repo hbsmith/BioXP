@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00474",
+    "name": "2-oxoglutarate:glyoxylate succinaldehydetransferase (decarboxylating); 2-Hydroxy-3-oxoadipate glyoxylate-lyase (carboxylating)",
+    "definition": "2-Hydroxy-3-oxoadipate + CO2 <=> 2-Oxoglutarate + Glyoxylate",
+    "equation": "C03217 + C00011 <=> C00026 + C00048",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.2.1.5"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

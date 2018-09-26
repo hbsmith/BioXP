@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08243",
+    "name": "inosine triphosphate pyrophosphatase",
+    "definition": "6-Mercaptopurine ribonucleoside triphosphate + H2O <=> 6-Thioinosine-5'-monophosphate + Diphosphate",
+    "equation": "C16617 + C00001 <=> C04646 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.-"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K01519": "inosine triphosphate pyrophosphatase [EC:3.6.1.-]"
+    }
+  }
+]

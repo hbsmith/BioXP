@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C05699",
+    "name": "L-Selenocystathionine",
+    "names": [
+      "L-Selenocystathionine"
+    ],
+    "formula": "C7H14N2O4Se",
+    "exact_mass": 270.0119,
+    "mol_weight": 269.1571,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04930",
+      "R04941",
+      "R04942",
+      "R04944",
+      "R04945",
+      "R04946"
+    ],
+    "pathways": {
+      "map00450": "Selenocompound metabolism"
+    },
+    "enzymes": [
+      "2.5.1.48",
+      "4.2.1.22",
+      "4.4.1.1",
+      "4.4.1.8"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8006"
+      ],
+      "ChEBI": [
+        "27760"
+      ],
+      "KNApSAcK": [
+        "C00001392"
+      ],
+      "3DMET": [
+        "B05101"
+      ],
+      "NIKKAJI": [
+        "J2.765.550E"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C1c C    28.2717  -25.3328\n            2   C1b C    29.4611  -24.6331\n            3   C6a C    27.0122  -24.6331\n            4   N1a N    28.2717  -26.7322\n            5   C1b C    30.6506  -25.3328\n            6   O6a O    25.8227  -25.3328\n            7   O6a O    27.0122  -23.2338\n            8   Z   Se   31.9101  -24.6331\n            9   C1b C    33.0996  -25.3328\n            10  C1c C    34.2891  -24.6331\n            11  C6a C    35.5485  -25.3328\n            12  N1a N    34.2891  -23.2338\n            13  O6a O    36.7380  -24.6331\n            14  O6a O    35.5485  -26.7322\nBOND        13\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     2   5 1\n            5     3   6 1\n            6     3   7 2\n            7     5   8 1\n            8     8   9 1\n            9     9  10 1\n            10   10  11 1\n            11   10  12 1 #Down\n            12   11  13 1\n            13   11  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

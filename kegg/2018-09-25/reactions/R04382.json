@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04382",
+    "name": "4-(4-deoxy-alpha-D-galact-4-enuronosyl)-D-galacturonate lyase",
+    "definition": "4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate <=> 2 5-Dehydro-4-deoxy-D-glucuronate",
+    "equation": "C06118 <=> 2 C04053",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.2.6"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions"
+    },
+    "orthologs": {
+      "K01730": "oligogalacturonide lyase [EC:4.2.2.6]"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R01628",
+    "name": "3-hydroxybenzoate,NADPH:oxygen oxidoreductase (4-hydroxylating)",
+    "definition": "3-Hydroxybenzoate + Oxygen + NADPH + H+ <=> 3,4-Dihydroxybenzoate + NADP+ + H2O",
+    "equation": "C00587 + C00007 + C00005 + C00080 <=> C00230 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.23"
+    ],
+    "pathways": {
+      "rn00362": "Benzoate degradation",
+      "rn00624": "Polycyclic aromatic hydrocarbon degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K19065": "3-hydroxybenzoate 4-monooxygenase [EC:1.14.13.23]"
+    }
+  }
+]

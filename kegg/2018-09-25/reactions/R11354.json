@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11354",
+    "name": "RCH2NHR':oxygen oxidoreductase (deaminating)",
+    "definition": "RCH2NHR' + H2O + Oxygen <=> Aldehyde + R'NH2 + Hydrogen peroxide",
+    "equation": "C21299 + C00001 + C00007 <=> C00071 + C21300 + C00027",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.4"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00274": "monoamine oxidase [EC:1.4.3.4]"
+    }
+  }
+]

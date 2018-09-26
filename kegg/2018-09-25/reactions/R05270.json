@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05270",
+    "name": "6-deoxyerythronolide-B,NADPH:oxygen oxidoreductase",
+    "definition": "6-Deoxyerythronolide B + NADPH + H+ + Oxygen <=> Erythronolide B + NADP+ + H2O",
+    "equation": "C03240 + C00005 + C00080 + C00007 <=> C06635 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.188"
+    ],
+    "pathways": {
+      "rn00522": "Biosynthesis of 12-, 14- and 16-membered macrolides",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K14366": "6-deoxyerythronolide B hydroxylase [EC:1.14.13.188]"
+    }
+  }
+]

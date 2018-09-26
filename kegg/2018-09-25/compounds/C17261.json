@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C17261",
+    "name": "Thiohydroximic acid",
+    "names": [
+      "Thiohydroximic acid",
+      "Thiohydroximate"
+    ],
+    "formula": "CH2NOSR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08686",
+      "R08687"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.4.1.195",
+      "4.4.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023668"
+      ],
+      "ChEBI": [
+        "80992"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   R   R    26.6894  -19.6700\n            2   C2c C    27.9020  -18.9700\n            3   N2b N    29.1143  -19.6700\n            4   O1b O    30.3267  -18.9700\n            5   S1a S    27.9020  -17.5703\nBOND        4\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     2   5 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

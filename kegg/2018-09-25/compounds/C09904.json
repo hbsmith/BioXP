@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C09904",
+    "name": "beta-Thujaplicin",
+    "names": [
+      "beta-Thujaplicin",
+      "Hinokitiol",
+      "4-Isopropyltropolone"
+    ],
+    "formula": "C10H12O2",
+    "exact_mass": 164.0837,
+    "mol_weight": 164.2011,
+    "remark": "Same as: D04876",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "499-44-5"
+      ],
+      "PubChem": [
+        "12090"
+      ],
+      "ChEBI": [
+        "10447"
+      ],
+      "ChEMBL": [
+        "CHEMBL48310"
+      ],
+      "KNApSAcK": [
+        "C00003062"
+      ],
+      "3DMET": [
+        "B03367"
+      ],
+      "NIKKAJI": [
+        "J6.176J"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C2y C    31.2170  -16.6548\n            2   C2x C    30.3754  -15.5458\n            3   C2y C    30.7104  -14.1898\n            4   C5x C    31.9707  -13.6120\n            5   C2x C    32.6220  -16.6800\n            6   C2x C    33.2236  -14.2339\n            7   C2x C    33.5099  -15.6019\n            8   O5x O    31.9923  -12.2379\n            9   C1c C    30.4979  -17.8501\n            10  C1a C    31.1737  -19.0705\n            11  C1a C    29.0744  -17.8244\n            12  O1a O    29.6025  -13.2725\nBOND        12\n            1     3   4 1\n            2     1   5 2\n            3     4   6 1\n            4     2   3 2\n            5     5   7 1\n            6     1   2 1\n            7     6   7 2\n            8     4   8 2\n            9     1   9 1\n            10    9  10 1\n            11    9  11 1\n            12    3  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

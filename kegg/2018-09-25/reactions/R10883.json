@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10883",
+    "name": "nocardicin-C epimerase",
+    "definition": "Isonocardicin C <=> Nocardicin C",
+    "equation": "C17352 <=> C17351",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.1.14"
+    ],
+    "pathways": {
+      "rn00261": "Monobactam biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19105": "nocardicin-A epimerase [EC:5.1.1.14]"
+    }
+  }
+]

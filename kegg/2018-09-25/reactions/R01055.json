@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01055",
+    "name": "uracil hydro-lyase (adding D-ribose 5-phosphate;pseudouridine-5'-phosphate-forming)",
+    "definition": "Uracil + D-Ribose 5-phosphate <=> Pseudouridine 5'-phosphate + H2O",
+    "equation": "C00106 + C00117 <=> C01168 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.70"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+      "K16329": "pseudouridylate synthase [EC:4.2.1.70]",
+      "K16330": "pseudouridylate synthase / pseudouridine kinase [EC:4.2.1.70 2.7.1.83]"
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C02419",
+    "name": "Hypotaurocyamine",
+    "names": [
+      "Hypotaurocyamine"
+    ],
+    "formula": "C3H9N3O2S",
+    "exact_mass": 151.0415,
+    "mol_weight": 151.1875,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03939"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.7.3.6"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5450"
+      ],
+      "ChEBI": [
+        "16209"
+      ],
+      "NIKKAJI": [
+        "J2.736.644I"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   S4a S    22.6559  -18.9757\n            2   C1b C    23.8564  -19.6808\n            3   C1b C    25.0686  -18.9874\n            4   N1b N    26.2751  -19.6924\n            5   C2c C    27.4871  -18.9990\n            6   N2a N    27.4931  -17.5944\n            7   N1a N    28.6995  -19.6984\n            8   O1d O    21.4184  -19.6780\n            9   O1d O    22.6662  -17.5852\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 2\n            6     5   7 1\n            7     1   8 1\n            8     1   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

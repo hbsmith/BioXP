@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C20916",
+    "name": "C20916",
+    "names": [
+      "C20916",
+      "Tabtoxin biosynthesis intermediate 6"
+    ],
+    "formula": "C11H19N3O5",
+    "exact_mass": 273.1325,
+    "mol_weight": 273.2857,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10889",
+      "R10890"
+    ],
+    "pathways": {
+      "map00261": "Monobactam biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741379"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   C1a C    12.6003  -16.1703\n            2   C1c C    13.8127  -15.4703\n            3   C1c C    15.0253  -16.1703\n            4   N1b N    16.2377  -15.4703\n            5   C5a C    17.4501  -16.1703\n            6   C1c C    18.6627  -15.4703\n            7   C1b C    19.8751  -16.1703\n            8   C1b C    21.0876  -15.4703\n            9   C1y C    22.3001  -16.1703\n            10  O1a O    13.8127  -14.0704\n            11  C6a C    15.0253  -17.5701\n            12  O6a O    16.2565  -18.2812\n            13  O6a O    13.8316  -18.2594\n            14  O5a O    17.4501  -17.5702\n            15  N1a N    18.6627  -14.0705\n            16  C5x C    22.3001  -17.5700\n            17  N1x N    23.6999  -17.5700\n            18  C1x C    23.6999  -16.1703\n            19  O5x O    21.3255  -18.5451\nBOND        19\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     9   8 1 #Down\n            9     2  10 1 #Up\n            10    3  11 1 #Down\n            11   11  12 2\n            12   11  13 1\n            13    5  14 2\n            14    6  15 1 #Up\n            15    9  16 1\n            16   16  17 1\n            17   17  18 1\n            18    9  18 1\n            19   16  19 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

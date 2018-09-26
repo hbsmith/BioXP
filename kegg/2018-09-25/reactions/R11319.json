@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11319",
+    "name": "ADP:thiamin-diphosphate phosphotransferase",
+    "definition": "Thiamin diphosphate + ADP <=> Thiamin triphosphate + AMP",
+    "equation": "C00068 + C00008 <=> C03028 + C00020",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.3"
+    ],
+    "pathways": {
+      "rn00730": "Thiamine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00939": "adenylate kinase [EC:2.7.4.3]"
+    }
+  }
+]

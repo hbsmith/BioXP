@@ -1,0 +1,26 @@
+[
+  {
+    "entry_id": "R03858",
+    "name": "Lauroyl-CoA:acetyl-CoA C-acyltransferase",
+    "definition": "Lauroyl-CoA + Acetyl-CoA <=> CoA + 3-Oxotetradecanoyl-CoA",
+    "equation": "C01832 + C00024 <=> C00010 + C05261",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.16"
+    ],
+    "pathways": {
+      "rn00062": "Fatty acid elongation",
+      "rn00071": "Fatty acid degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01212": "Fatty acid metabolism"
+    },
+    "orthologs": {
+      "K00632": "acetyl-CoA acyltransferase [EC:2.3.1.16]",
+      "K07508": "acetyl-CoA acyltransferase 2 [EC:2.3.1.16]",
+      "K07509": "acetyl-CoA acyltransferase [EC:2.3.1.16]",
+      "K07513": "acetyl-CoA acyltransferase 1 [EC:2.3.1.16]"
+    }
+  }
+]

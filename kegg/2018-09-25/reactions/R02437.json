@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02437",
+    "name": "L-rhamnose ketol-isomerase",
+    "definition": "L-Rhamnose <=> L-Rhamnulose",
+    "equation": "C00507 <=> C00861",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.1.14"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01813": "L-rhamnose isomerase [EC:5.3.1.14]",
+      "K01820": "L-rhamnose isomerase / sugar isomerase [EC:5.3.1.14 5.3.1.-]"
+    }
+  }
+]

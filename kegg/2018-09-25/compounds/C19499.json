@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C19499",
+    "name": "para-Phenylenediamine",
+    "names": [
+      "para-Phenylenediamine",
+      "1,4-Benzenediamine"
+    ],
+    "formula": "C6H8N2",
+    "exact_mass": 108.0687,
+    "mol_weight": 108.1411,
+    "remark": "",
+    "comment": "o-Phenylenediamine [CPD:C14402] m-Phenylenediamine [CPD:C02454]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "106-50-3"
+      ],
+      "PubChem": [
+        "124490171"
+      ],
+      "ChEBI": [
+        "51403"
+      ],
+      "ChEMBL": [
+        "CHEMBL403741"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C8x C    16.2400  -17.9200\n            2   C8x C    16.2400  -19.3200\n            3   C8y C    17.4524  -20.0200\n            4   C8x C    18.6649  -19.3200\n            5   C8x C    18.6649  -17.9200\n            6   C8y C    17.4524  -17.2200\n            7   N1a N    17.4524  -15.8202\n            8   N1a N    17.4524  -21.4198\nBOND        8\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     3   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

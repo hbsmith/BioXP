@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03195",
+    "name": "",
+    "definition": "Uroporphyrinogen III + Acceptor <=> Uroporphyrin III + 6 H+ + Reduced acceptor",
+    "equation": "C01051 + C00028 <=> C02469 + 6 C00080 + C00030",
+    "comment": "oxygen [CPD:C00007] act as acceptor non-enzymatic",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

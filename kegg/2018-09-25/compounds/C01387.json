@@ -1,0 +1,59 @@
+[
+  {
+    "entry_id": "C01387",
+    "name": "Octane",
+    "names": [
+      "Octane",
+      "n-Octane"
+    ],
+    "formula": "C8H18",
+    "exact_mass": 114.1409,
+    "mol_weight": 114.2285,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02879"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.15.3"
+    ],
+    "dblinks": {
+      "CAS": [
+        "111-65-9"
+      ],
+      "PubChem": [
+        "4581"
+      ],
+      "ChEBI": [
+        "17590"
+      ],
+      "ChEMBL": [
+        "CHEMBL134886"
+      ],
+      "LIPIDMAPS": [
+        "LMFA11000002"
+      ],
+      "KNApSAcK": [
+        "C00035857"
+      ],
+      "PDB-CCD": [
+        "OCT"
+      ],
+      "3DMET": [
+        "B00281"
+      ],
+      "NIKKAJI": [
+        "J10.709C"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1b C    28.2318  -16.5891\n            2   C1b C    29.4482  -17.2909\n            3   C1b C    27.0213  -17.2909\n            4   C1b C    30.6587  -16.5891\n            5   C1b C    25.8107  -16.5891\n            6   C1b C    31.8693  -17.2909\n            7   C1a C    24.6001  -17.2909\n            8   C1a C    33.0799  -16.5891\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     4   6 1\n            6     5   7 1\n            7     6   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

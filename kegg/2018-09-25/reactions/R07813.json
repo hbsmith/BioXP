@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07813",
+    "name": "",
+    "definition": "G13035 + H2O <=> G13036 + L-Iduronic acid",
+    "equation": "G13035 + C00001 <=> G13036 + C06472",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.76"
+    ],
+    "pathways": {
+      "rn00531": "Glycosaminoglycan degradation",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01217": "L-iduronidase [EC:3.2.1.76]"
+    }
+  }
+]

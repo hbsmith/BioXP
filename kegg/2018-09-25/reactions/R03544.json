@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03544",
+    "name": "",
+    "definition": "Butanal + NADH + H+ <=> 1-Butanol + NAD+",
+    "equation": "C01412 + C00004 + C00080 <=> C06142 + C00003",
+    "comment": "NADPH (see R03545)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00650": "Butanoate metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00100": "butanol dehydrogenase [EC:1.1.1.-]"
+    }
+  }
+]

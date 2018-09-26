@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02434",
+    "name": "",
+    "definition": "L-Cysteate + NADH + H+ <=> 3-Sulfino-L-alanine + H2O + NAD+",
+    "equation": "C00506 + C00004 + C00080 <=> C00606 + C00001 + C00003",
+    "comment": "cysteinesulfinic acid dehydrogenase",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00430": "Taurine and hypotaurine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

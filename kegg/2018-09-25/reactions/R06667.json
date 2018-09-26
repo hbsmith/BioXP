@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06667",
+    "name": "",
+    "definition": "100-2 + dTDP-beta-L-rhodinose <=> Urdamycin G + dTDP",
+    "equation": "C12408 + C12447 <=> C12414 + C00363",
+    "comment": "glycosyltransferase, UrdGT1c",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15938": "glycosyltransferase"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08866",
+    "name": "",
+    "definition": "Formylphosphonate <=> Phosphonoformate",
+    "equation": "C17943 <=> C06456",
+    "comment": "putative aldehyde dehydrogenase",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12907": "aldehyde dehydrogenase"
+    }
+  }
+]

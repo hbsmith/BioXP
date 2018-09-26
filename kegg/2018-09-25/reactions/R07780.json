@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R07780",
+    "name": "3,5-dibromo-4-hydroxybenzamide hydro-lyase (nitrile-forming)",
+    "definition": "Bromoxynil + H2O <=> 3,5-Dibromo-4-hydroxybenzamide",
+    "equation": "C04178 + C00001 <=> C16246",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.84"
+    ],
+    "pathways": {
+      "rn00364": "Fluorobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01721": "nitrile hydratase subunit alpha [EC:4.2.1.84]",
+      "K20807": "nitrile hydratase subunit beta [EC:4.2.1.84]"
+    }
+  }
+]

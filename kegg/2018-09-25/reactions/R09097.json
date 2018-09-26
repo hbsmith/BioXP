@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R09097",
+    "name": "propanal:NAD+ oxidoreductase (CoA-propanoylating)",
+    "definition": "Propanal + NAD+ + CoA <=> Propanoyl-CoA + NADH + H+",
+    "equation": "C00479 + C00003 + C00010 <=> C00100 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.87"
+    ],
+    "pathways": {
+      "rn00622": "Xylene degradation",
+      "rn00640": "Propanoate metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K13922": "propionaldehyde dehydrogenase [EC:1.2.1.87]",
+      "K18366": "acetaldehyde/propanal dehydrogenase [EC:1.2.1.10 1.2.1.87]"
+    }
+  }
+]

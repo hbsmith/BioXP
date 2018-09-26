@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C16930",
+    "name": "Chavicol",
+    "names": [
+      "Chavicol"
+    ],
+    "formula": "C9H10O",
+    "exact_mass": 134.0732,
+    "mol_weight": 134.1751,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10249",
+      "R10251"
+    ],
+    "pathways": {
+      "map00940": "Phenylpropanoid biosynthesis"
+    },
+    "enzymes": [
+      "1.1.1.318",
+      "2.1.1.146"
+    ],
+    "dblinks": {
+      "CAS": [
+        "501-92-8"
+      ],
+      "PubChem": [
+        "96023422"
+      ],
+      "ChEBI": [
+        "50158"
+      ],
+      "ChEMBL": [
+        "CHEMBL108862"
+      ],
+      "KNApSAcK": [
+        "C00000621"
+      ],
+      "NIKKAJI": [
+        "J6.195F"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    16.5900  -17.8500\n            2   C8y C    16.5900  -19.2500\n            3   C8x C    17.8024  -19.9500\n            4   C8x C    19.0149  -19.2500\n            5   C8y C    19.0149  -17.8500\n            6   C8x C    17.8024  -17.1500\n            7   O1a O    15.3776  -19.9500\n            8   C1b C    20.2460  -17.1390\n            9   C2b C    21.4512  -17.8347\n            10  C2a C    22.6335  -17.1519\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     2   7 1\n            8     5   8 1\n            9     8   9 1\n            10    9  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

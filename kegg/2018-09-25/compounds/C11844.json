@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C11844",
+    "name": "N-Heptanoylhomoserine lactone",
+    "names": [
+      "N-Heptanoylhomoserine lactone"
+    ],
+    "formula": "C11H19NO3",
+    "exact_mass": 213.1365,
+    "mol_weight": 213.2735,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map02024": "Quorum sensing"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "14006"
+      ],
+      "ChEBI": [
+        "29644"
+      ],
+      "ChEMBL": [
+        "CHEMBL584972"
+      ],
+      "LIPIDMAPS": [
+        "LMFA08030006"
+      ],
+      "3DMET": [
+        "B04330"
+      ],
+      "NIKKAJI": [
+        "J1.358.125H"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C1y C    32.1602  -17.7091\n            2   C7x C    33.3016  -18.5200\n            3   O7x O    34.4279  -17.6981\n            4   C1x C    33.9853  -16.3657\n            5   C1x C    32.5829  -16.3723\n            6   C1b C    27.2059  -17.5779\n            7   C1b C    28.4275  -18.2770\n            8   C5a C    29.6533  -17.5794\n            9   N1b N    30.8774  -18.2799\n            10  C1b C    25.9871  -18.2755\n            11  O5a O    29.6550  -16.1670\n            12  O6a O    33.3260  -19.8430\n            13  C1b C    24.7630  -17.5750\n            14  C1b C    23.5443  -18.2726\n            15  C1a C    22.3202  -17.5722\nBOND        15\n            1     7   8 1\n            2     3   4 1\n            3     8   9 1\n            4     1   9 1 #Up\n            5     4   5 1\n            6     6  10 1\n            7     5   1 1\n            8     8  11 2\n            9     2  12 2\n            10    1   2 1\n            11   10  13 1\n            12    6   7 1\n            13   13  14 1\n            14    2   3 1\n            15   14  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

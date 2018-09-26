@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02410",
+    "name": "Raffinose fructohydrolase",
+    "definition": "Raffinose + H2O <=> Melibiose + D-Fructose",
+    "equation": "C00492 + C00001 <=> C05402 + C00095",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.26"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism"
+    },
+    "orthologs": {
+      "K01193": "beta-fructofuranosidase [EC:3.2.1.26]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10767",
+    "name": "tobramycin:carbamoyl-phosphate ligase (AMP,phosphate-forming)",
+    "definition": "Tobramycin + Carbamoyl phosphate + ATP + H2O <=> Nebramycin 5' + AMP + Diphosphate + Orthophosphate",
+    "equation": "C00397 + C00169 + C00002 + C00001 <=> C18001 + C00020 + C00013 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.1.2.2"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20579": "nebramycin 5' synthase [EC:6.1.2.2]"
+    }
+  }
+]

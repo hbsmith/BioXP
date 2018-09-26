@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C19362",
+    "name": "Chlorofluoromethane",
+    "names": [
+      "Chlorofluoromethane"
+    ],
+    "formula": "CH2ClF",
+    "exact_mass": 67.9829,
+    "mol_weight": 68.478,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "593-70-4"
+      ],
+      "PubChem": [
+        "124490034"
+      ],
+      "ChEBI": [
+        "82418"
+      ]
+    },
+    "kcf": "ATOM        3\n            1   X   Cl   14.9800  -16.5200\n            2   C1b C    16.1924  -15.8200\n            3   X   F    17.4049  -16.5200\nBOND        2\n            1     1   2 1\n            2     2   3 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

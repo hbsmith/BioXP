@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03510",
+    "name": "Phylloquinone, hydrogen-donor:oxygen oxidoreductase (2,3-epoxidizing)",
+    "definition": "Phylloquinone + Reduced acceptor + Oxygen <=> Vitamin K1 epoxide + Acceptor + H2O",
+    "equation": "C02059 + C00030 + C00007 <=> C05849 + C00028 + C00001",
+    "comment": "see R05144",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.20"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

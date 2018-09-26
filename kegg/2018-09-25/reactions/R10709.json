@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10709",
+    "name": "S-adenosyl-L-methionine:2-methyl-6-solanyl-1,4-benzoquinol C3-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 2-Methyl-6-solanyl-1,4-benzoquinol <=> S-Adenosyl-L-homocysteine + Plastoquinol-9",
+    "equation": "C00019 + C17570 <=> C00021 + C16695",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.295"
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis"
+    },
+    "orthologs": {
+      "K12502": "MPBQ/MSBQ methyltransferase [EC:2.1.1.295]",
+      "K18534": "MPBQ/MSBQ methyltransferase [EC:2.1.1.295]"
+    }
+  }
+]

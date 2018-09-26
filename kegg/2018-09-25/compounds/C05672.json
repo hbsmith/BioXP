@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C05672",
+    "name": "2-Amino-3-phosphonopropanoate",
+    "names": [
+      "2-Amino-3-phosphonopropanoate",
+      "Phosphonoalanine"
+    ],
+    "formula": "C3H8NO5P",
+    "exact_mass": 169.014,
+    "mol_weight": 169.0731,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04051"
+    ],
+    "pathways": {
+      "map00440": "Phosphonate and phosphinate metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "2.6.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7979"
+      ],
+      "ChEBI": [
+        "28388"
+      ],
+      "ChEMBL": [
+        "CHEMBL88621"
+      ],
+      "3DMET": [
+        "B05092"
+      ],
+      "NIKKAJI": [
+        "J81.069J"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O6a O    16.5200  -17.9200\n            2   C6a C    17.7324  -17.2200\n            3   C1c C    18.9449  -17.9200\n            4   C1b C    20.1573  -17.2200\n            5   O6a O    17.7324  -15.8202\n            6   P1b P    21.5573  -17.2200\n            7   O1c O    22.9573  -17.2200\n            8   O1c O    21.5573  -15.8200\n            9   O1c O    21.5573  -18.6200\n            10  N1a N    18.9449  -19.3198\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     2   5 2\n            5     4   6 1\n            6     6   7 1\n            7     6   8 2\n            8     6   9 1\n            9     3  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

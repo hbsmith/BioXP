@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11154",
+    "name": "S-adenosyl 3-(methylthio)propylamine:spermidine 3-aminopropyltransferase [N4-bis(aminopropyl)spermidine synthesizing]",
+    "definition": "2 S-Adenosylmethioninamine + Spermidine <=> 2 5'-Methylthioadenosine + N4-Bis(aminopropyl)spermidine",
+    "equation": "2 C01137 + C00315 <=> 2 C00170 + C21010",
+    "comment": "two-step reaction (see R11159+R11160)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.128"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

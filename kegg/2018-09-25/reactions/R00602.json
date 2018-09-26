@@ -1,0 +1,26 @@
+[
+  {
+    "entry_id": "R00602",
+    "name": "methanol:hydrogen-peroxide oxidoreductase",
+    "definition": "Methanol + Hydrogen peroxide <=> Formaldehyde + 2 H2O",
+    "equation": "C00132 + C00027 <=> C00067 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.11.1.6",
+      "1.11.1.7",
+      "1.11.1.21"
+    ],
+    "pathways": {
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00430": "peroxidase [EC:1.11.1.7]",
+      "K03781": "catalase [EC:1.11.1.6]",
+      "K03782": "catalase-peroxidase [EC:1.11.1.21]",
+      "K11188": "peroxiredoxin 6, 1-Cys peroxiredoxin [EC:1.11.1.7 1.11.1.15 3.1.1.-]"
+    }
+  }
+]

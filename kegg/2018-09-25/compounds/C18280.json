@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C18280",
+    "name": "11,12-Dihydroxybenzo[a]pyrene",
+    "names": [
+      "11,12-Dihydroxybenzo[a]pyrene",
+      "Benzo[a]pyrene-11,12-diol"
+    ],
+    "formula": "C20H12O2",
+    "exact_mass": 284.0837,
+    "mol_weight": 284.3081,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09212",
+      "R09216"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.3.-.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "65277-41-0"
+      ],
+      "PubChem": [
+        "103061462"
+      ],
+      "ChEBI": [
+        "81631"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C8y C    27.2089  -18.6555\n            2   C8y C    28.4011  -17.9541\n            3   C8y C    26.0165  -17.9541\n            4   C8y C    27.2089  -20.0581\n            5   C8y C    28.4011  -16.5516\n            6   C8y C    29.6634  -18.6555\n            7   C8y C    24.8242  -18.6555\n            8   C8y C    26.0165  -16.5516\n            9   C8x C    26.0165  -20.7594\n            10  C8x C    28.4011  -20.7594\n            11  C8y C    27.2089  -15.8502\n            12  C8x C    29.6634  -15.8502\n            13  C8x C    29.6634  -20.0581\n            14  C8x C    30.8556  -17.9541\n            15  C8y C    24.8242  -20.0581\n            16  C8x C    23.5619  -17.9541\n            17  C8x C    30.8556  -16.5516\n            18  C8x C    23.6320  -20.7594\n            19  C8x C    22.3697  -18.6555\n            20  C8x C    22.3697  -20.0581\n            21  O1a O    24.8059  -15.8590\n            22  O1a O    27.2085  -14.4202\nBOND        26\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     3   8 1\n            8     4   9 2\n            9     4  10 1\n            10    5  11 1\n            11    5  12 2\n            12    6  13 1\n            13    6  14 1\n            14    7  15 2\n            15    7  16 1\n            16   12  17 1\n            17   15  18 1\n            18   16  19 2\n            19   18  20 2\n            20    8  11 2\n            21    9  15 1\n            22   10  13 2\n            23   14  17 2\n            24   19  20 1\n            25    8  21 1\n            26   11  22 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

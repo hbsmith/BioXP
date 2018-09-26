@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06587",
+    "name": "",
+    "definition": "UDP-kanosamine <=> Kanosamine",
+    "equation": "C12211 <=> C12212",
+    "comment": "RifM, Asm45",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01051": "Biosynthesis of ansamycins",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16017": "AHBA synthesis associated protein"
+    }
+  }
+]

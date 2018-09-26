@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04913",
+    "name": "5-Hydroxykynurenine:2-oxoglutarate aminotransferase",
+    "definition": "5-Hydroxykynurenine + 2-Oxo acid <=> 4-(2-Amino-5-hydroxyphenyl)-2,4-dioxobutanoate + Amino acid",
+    "equation": "C05651 + C00161 <=> C05652 + C00045",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.-"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

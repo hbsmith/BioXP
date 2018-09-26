@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10459",
+    "name": "dTDP-5-dimethyl-L-lyxose:NAD+ 4-oxidoreductase",
+    "definition": "dTDP-4-oxo-5-C-methyl-L-rhamnose + NADH + H+ <=> dTDP-5-dimethyl-L-lyxose + NAD+",
+    "equation": "C11460 + C00004 + C00080 <=> C12481 + C00003",
+    "comment": "4-ketoreductase, NovS CloS CouS",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00523": "Polyketide sugar unit biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K17625": "dTDP-4-keto-6-deoxyhexose reductase [EC:1.1.1.-]"
+    }
+  }
+]

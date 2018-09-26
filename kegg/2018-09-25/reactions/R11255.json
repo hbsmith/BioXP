@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11255",
+    "name": "",
+    "definition": "Cetoniacytone B <=> Cetoniacytone A",
+    "equation": "C21249 <=> C17699",
+    "comment": "unclear reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00525": "Acarbose and validamycin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20443": "cetoniacytone B acyltransferase [EC:2.3.1.-]"
+    }
+  }
+]

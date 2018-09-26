@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R06594",
+    "name": "UDP-glucose:NAD+ 3-oxidoreductase",
+    "definition": "UDP-glucose + NAD+ <=> UDP-3-ketoglucose + NADH + H+",
+    "equation": "C00029 + C00003 <=> C12210 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01051": "Biosynthesis of ansamycins",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16015": "oxidoreductase [EC:1.1.1.-]",
+      "K20571": "dehydrogenase [EC:1.1.1.-]"
+    }
+  }
+]

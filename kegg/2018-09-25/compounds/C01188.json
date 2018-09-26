@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C01188",
+    "name": "3-Hydroxy-2-methylpropanoate",
+    "names": [
+      "3-Hydroxy-2-methylpropanoate",
+      "3-Hydroxyisobutyrate",
+      "3-Hydroxyisobutyric acid"
+    ],
+    "formula": "C4H8O3",
+    "exact_mass": 104.0473,
+    "mol_weight": 104.1045,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02047",
+      "R03352"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.31",
+      "3.1.2.4"
+    ],
+    "dblinks": {
+      "CAS": [
+        "2068-83-9"
+      ],
+      "PubChem": [
+        "4414"
+      ],
+      "ChEBI": [
+        "11805",
+        "18064"
+      ],
+      "NIKKAJI": [
+        "J740.168J"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1c C    28.8747  -17.3140\n            2   C6a C    30.0906  -16.6125\n            3   C1b C    27.6704  -16.6125\n            4   C1a C    28.8747  -18.7053\n            5   O6a O    31.3007  -17.3140\n            6   O6a O    30.0906  -15.2037\n            7   O1a O    26.4545  -17.3140\nBOND        6\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R08872",
+    "name": "N-acetyldemethylphosphinothricin:L-alanine:L-alanine ligase (AMP-forming)",
+    "definition": "N-Acetyldemethylphosphinothricin + 2 L-Alanine + 3 ATP + H2O <=> N-Acetyldemethylphosphinothricin tripeptide + 3 AMP + 3 Diphosphate",
+    "equation": "C17949 + 2 C00041 + 3 C00002 + C00001 <=> C17950 + 3 C00020 + 3 C00013",
+    "comment": "nonribosomal peptide synthetase",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12911": "peptide synthetase PhsA",
+      "K12912": "peptide synthetase PhsB",
+      "K12913": "peptide synthetase PhsC"
+    }
+  }
+]

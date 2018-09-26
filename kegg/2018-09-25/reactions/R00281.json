@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00281",
+    "name": "NADH:acceptor oxidoreductase",
+    "definition": "Acceptor + NADH + H+ <=> Reduced acceptor + NAD+",
+    "equation": "C00028 + C00004 + C00080 <=> C00030 + C00003",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.6.5.11",
+      "1.6.99.3"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

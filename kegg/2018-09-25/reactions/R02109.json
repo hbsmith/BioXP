@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02109",
+    "name": "Dextrin 6-alpha-D-glucanohydrolase",
+    "definition": "Starch + H2O <=> Amylose + alpha-D-Glucose",
+    "equation": "C00369 + C00001 <=> C00718 + C00267",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.33"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K01196": "glycogen debranching enzyme [EC:2.4.1.25 3.2.1.33]"
+    }
+  }
+]

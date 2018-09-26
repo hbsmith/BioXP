@@ -1,0 +1,72 @@
+[
+  {
+    "entry_id": "C03582",
+    "name": "Resveratrol",
+    "names": [
+      "Resveratrol",
+      "3,4',5-Trihydroxystilbene",
+      "trans-Resveratrol"
+    ],
+    "formula": "C14H12O3",
+    "exact_mass": 228.0786,
+    "mol_weight": 228.2433,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01614",
+      "R04257",
+      "R09870",
+      "R09872"
+    ],
+    "pathways": {
+      "map00945": "Stilbenoid, diarylheptanoid and gingerol biosynthesis",
+      "map01061": "Biosynthesis of phenylpropanoids",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map04211": "Longevity regulating pathway",
+      "map04212": "Longevity regulating pathway - worm"
+    },
+    "enzymes": [
+      "1.14.-.-",
+      "2.1.1.240",
+      "2.3.1.95"
+    ],
+    "dblinks": {
+      "CAS": [
+        "501-36-0"
+      ],
+      "PubChem": [
+        "6374"
+      ],
+      "ChEBI": [
+        "27881",
+        "45713"
+      ],
+      "ChEMBL": [
+        "CHEMBL165"
+      ],
+      "LIPIDMAPS": [
+        "LMPK13090005"
+      ],
+      "KNApSAcK": [
+        "C00002903",
+        "C00044435"
+      ],
+      "PDB-CCD": [
+        "STL"
+      ],
+      "3DMET": [
+        "B00606"
+      ],
+      "NIKKAJI": [
+        "J11.775G"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C8y C    19.4600  -21.8400\n            2   C8x C    19.4600  -23.2400\n            3   C8x C    20.6724  -23.9400\n            4   C8y C    21.8849  -23.2400\n            5   C8x C    21.8849  -21.8400\n            6   C8x C    20.6724  -21.1400\n            7   O1a O    23.1160  -23.9510\n            8   C2b C    18.2476  -21.1400\n            9   C2b C    17.0521  -21.8304\n            10  C8y C    15.8647  -21.1449\n            11  C8x C    15.8646  -19.7402\n            12  C8y C    14.6521  -19.0403\n            13  C8x C    13.4397  -19.7404\n            14  C8y C    13.4399  -21.1451\n            15  C8x C    14.6524  -21.8450\n            16  O1a O    14.6520  -17.6402\n            17  O1a O    12.2298  -21.8439\nBOND        18\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     1   8 1\n            9     8   9 2\n            10    9  10 1\n            11   10  11 2\n            12   11  12 1\n            13   12  13 2\n            14   13  14 1\n            15   14  15 2\n            16   10  15 1\n            17   12  16 1\n            18   14  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

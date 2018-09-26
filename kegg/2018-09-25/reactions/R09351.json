@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09351",
+    "name": "dTDP-D-olivose:premithramycin-A3 D-olivosyltransferase",
+    "definition": "Premithramycin A3 + dTDP-D-olivose <=> 3A-Deolivosylpremithramycin B + dTDP",
+    "equation": "C12387 + C11923 <=> C18710 + C00363",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15964": "glycosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

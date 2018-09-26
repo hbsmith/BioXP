@@ -1,0 +1,36 @@
+[
+  {
+    "entry_id": "C00972",
+    "name": "Aromatic oxo acid",
+    "names": [
+      "Aromatic oxo acid"
+    ],
+    "formula": "C3H3O3R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = aromatic group",
+    "reactions": [
+      "R03120",
+      "R03121"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.6.1.57",
+      "2.6.1.60"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4221"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C6a C    28.5126  -16.5343\n            2   C5a C    27.3116  -15.8101\n            3   O6a O    28.4921  -17.9337\n            4   O6a O    29.7367  -15.8511\n            5   O5a O    27.3350  -14.4158\n            6   C1b C    26.0848  -16.4882\n            7   R   R    24.8857  -15.7657\nBOND        6\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     6   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

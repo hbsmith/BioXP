@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07563",
+    "name": "",
+    "definition": "Echinenone <=> Canthaxanthin",
+    "equation": "C08592 <=> C08583",
+    "comment": "beta-carotene ketolase(crtO or crtW)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis"
+    },
+    "orthologs": {
+      "K02292": "beta-carotene ketolase (CrtO type)",
+      "K09836": "beta-carotene ketolase (CrtW type)"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05030",
+    "name": "Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine:ammonia ligase (ADP-forming)",
+    "definition": "ATP + Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine + Ammonia <=> ADP + Orthophosphate + Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-isoglutaminyl-L-lysyl-D-alanyl-D-alanine",
+    "equation": "C00002 + C05893 + C00014 <=> C00008 + C00009 + C05894",
+    "comment": "L-glutamine can act instead of NH3 (see R08855)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.5.-"
+    ],
+    "pathways": {
+      "rn00550": "Peptidoglycan biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

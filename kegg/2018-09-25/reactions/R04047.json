@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R04047",
+    "name": "NADPH:N-hydroxy-2-acetamidofluorene N-oxidoreductase",
+    "definition": "2-Acetamidofluorene + NADP+ + H2O <=> N-Hydroxy-2-acetamidofluorene + NADPH + H+",
+    "equation": "C02778 + C00006 + C00001 <=> C03954 + C00005 + C00080",
+    "comment": "see R04046 (NADH)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.1.12"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

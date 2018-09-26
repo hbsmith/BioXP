@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C18747",
+    "name": "Metolcarb",
+    "names": [
+      "Metolcarb",
+      "Tsumacide",
+      "MTMC"
+    ],
+    "formula": "C9H11NO2",
+    "exact_mass": 165.079,
+    "mol_weight": 165.1891,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1129-41-5"
+      ],
+      "PubChem": [
+        "124489421"
+      ],
+      "ChEBI": [
+        "38537"
+      ],
+      "ChEMBL": [
+        "CHEMBL2046816"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    11.5500  -17.4300\n            2   C8x C    11.5500  -18.8300\n            3   C8x C    12.7624  -19.5300\n            4   C8x C    13.9749  -18.8300\n            5   C8y C    13.9749  -17.4300\n            6   C8x C    12.7624  -16.7300\n            7   O7a O    15.2124  -16.7300\n            8   C7a C    16.4249  -17.4300\n            9   N1b N    17.6373  -16.7300\n            10  C1a C    18.8497  -17.4300\n            11  C1a C    10.3376  -16.7300\n            12  O6a O    16.4249  -18.8298\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    1  11 1\n            12    8  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

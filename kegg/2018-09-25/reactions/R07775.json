@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07775",
+    "name": "S-adenosyl-L-methionine:cobalt-precorrin-7 C5-methyltransferase",
+    "definition": "Cobalt-precorrin 7 + S-Adenosyl-L-methionine <=> Cobalt-precorrin 8 + S-Adenosyl-L-homocysteine",
+    "equation": "C16244 + C00019 <=> C11545 + C00021",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.289"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03399": "cobalt-precorrin-7 (C5)-methyltransferase [EC:2.1.1.289]"
+    }
+  }
+]

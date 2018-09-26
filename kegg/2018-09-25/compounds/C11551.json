@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C11551",
+    "name": "Poly[(R)-3-hydroxybutanoate]n-x",
+    "names": [
+      "Poly[(R)-3-hydroxybutanoate]n-x",
+      "Poly[(R)-3-hydroxybutanoate]n"
+    ],
+    "formula": "(C4H6O2)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05797"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.1.75"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "13718"
+      ],
+      "ChEBI": [
+        "17542"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   Z   *    15.5400  -16.7300\n            2   O1a O    17.4524  -17.4300\n            3   C1c C    18.6649  -16.7300\n            4   C1b C    19.8773  -17.4300\n            5   C4a C    21.0897  -16.7300\n            6   Z   *    23.0022  -17.4300\n            7   C1a C    18.6649  -15.3302\n            8   O4a O    21.0897  -15.3301\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     3   7 1 #Down\n            7     5   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C14534",
+    "name": "1,2,4,5-Tetramethylbenzene",
+    "names": [
+      "1,2,4,5-Tetramethylbenzene",
+      "Durene"
+    ],
+    "formula": "C10H14",
+    "exact_mass": 134.1096,
+    "mol_weight": 134.2182,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "95-93-2"
+      ],
+      "PubChem": [
+        "17395534"
+      ],
+      "ChEBI": [
+        "38978"
+      ],
+      "ChEMBL": [
+        "CHEMBL1797134"
+      ],
+      "NIKKAJI": [
+        "J4.714G"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    21.5329  -17.0534\n            2   C8y C    21.5329  -18.4510\n            3   C8y C    22.7433  -19.1499\n            4   C8x C    23.9537  -18.4510\n            5   C8y C    23.9537  -17.0534\n            6   C8y C    22.7433  -16.3546\n            7   C1a C    22.7433  -14.9571\n            8   C1a C    25.1828  -16.3436\n            9   C1a C    22.7433  -20.5473\n            10  C1a C    20.3288  -19.1465\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     3   9 1\n            10    2  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

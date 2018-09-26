@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11670",
+    "name": "S-adenosyl-L-methionine:4-Hydroxy-2,2'-bipyrrole-5-carbaldehyde 4-O-methyltransferase",
+    "definition": "4-Hydroxy-2,2'-bipyrrole-5-carbaldehyde + S-Adenosyl-L-methionine <=> 4-Methoxy-2,2'-bipyrrole-5-carbaldehyde + S-Adenosyl-L-homocysteine",
+    "equation": "C21569 + C00019 <=> C21570 + C00021",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn00333": "Prodigiosin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21786": "4-hydroxy-2,2'-bipyrrole-5-carbaldehyde O-methyltransferase [EC:2.1.1.-]"
+    }
+  }
+]

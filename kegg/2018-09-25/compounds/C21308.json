@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C21308",
+    "name": "(S)-beta-Tyrosine",
+    "names": [
+      "(S)-beta-Tyrosine"
+    ],
+    "formula": "C9H11NO3",
+    "exact_mass": 181.0739,
+    "mol_weight": 181.1885,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11366",
+      "R11367"
+    ],
+    "pathways": {
+      "map01059": "Biosynthesis of enediyne antibiotics",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "5.4.3.6",
+      "6.2.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "319902556"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    10.1500  -13.3000\n            2   C8y C    10.1500  -14.7000\n            3   C8x C    11.3624  -15.4000\n            4   C8x C    12.5749  -14.7000\n            5   C8y C    12.5749  -13.3000\n            6   C8x C    11.3624  -12.6000\n            7   O1a O     8.9376  -15.4000\n            8   C1c C    13.8124  -12.6000\n            9   C1b C    15.0249  -13.3000\n            10  C6a C    16.2373  -12.6000\n            11  O6a O    17.4497  -13.3000\n            12  N1a N    13.8186  -11.2003\n            13  O6a O    16.2373  -11.2000\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     2   7 1\n            8     5   8 1\n            9     8   9 1\n            10    9  10 1\n            11   10  11 1\n            12    8  12 1 #Up\n            13   10  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

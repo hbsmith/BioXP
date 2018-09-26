@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04160",
+    "name": "",
+    "definition": "(S)-4-Hydroxymandelate + Acceptor <=> 4-Hydroxyphenylglyoxylate + Reduced acceptor",
+    "equation": "C03198 + C00028 <=> C03590 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.99.31"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K15054": "(S)-mandelate dehydrogenase [EC:1.1.99.31]"
+    }
+  }
+]

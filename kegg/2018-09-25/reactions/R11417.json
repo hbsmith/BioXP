@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11417",
+    "name": "dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose:calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase",
+    "definition": "dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose + Calicheamicinone <=> dTDP + Calicheamicin T0",
+    "equation": "C21348 + C21337 <=> C00363 + C21338",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21259": "calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03655",
+    "name": "L-Histidine:tRNA(His) ligase (AMP-forming)",
+    "definition": "ATP + L-Histidine + tRNA(His) <=> AMP + Diphosphate + L-Histidyl-tRNA(His)",
+    "equation": "C00002 + C00135 + C01643 <=> C00020 + C00013 + C02988",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.1.1.21"
+    ],
+    "pathways": {
+      "rn00970": "Aminoacyl-tRNA biosynthesis"
+    },
+    "orthologs": {
+      "K01892": "histidyl-tRNA synthetase [EC:6.1.1.21]"
+    }
+  }
+]

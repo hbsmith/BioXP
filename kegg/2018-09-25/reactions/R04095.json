@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R04095",
+    "name": "3-methylbutanoyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase",
+    "definition": "3-Methylbutanoyl-CoA + FAD <=> 3-Methylcrotonyl-CoA + FADH2",
+    "equation": "C02939 + C00016 <=> C03069 + C01352",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.8.4",
+      "1.3.8.7"
+    ],
+    "pathways": {
+      "rn00280": "Valine, leucine and isoleucine degradation",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00249": "acyl-CoA dehydrogenase [EC:1.3.8.7]",
+      "K00253": "isovaleryl-CoA dehydrogenase [EC:1.3.8.4]"
+    }
+  }
+]

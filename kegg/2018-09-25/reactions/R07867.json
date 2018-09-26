@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07867",
+    "name": "(8E)-9-[(1E,3Z,6Z)-nona-1,3,6-trien-1-yloxy]non-8-enoate synthase",
+    "definition": "9(S)-HPOT <=> Colnelenic acid + H2O",
+    "equation": "C16321 <=> C16320 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.121"
+    ],
+    "pathways": {
+      "rn00592": "alpha-Linolenic acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

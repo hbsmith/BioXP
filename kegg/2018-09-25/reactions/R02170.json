@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02170",
+    "name": "Penicillin amidohydrolase",
+    "definition": "Penicillin + H2O <=> Carboxylate + 6-Aminopenicillanate",
+    "equation": "C00395 + C00001 <=> C00060 + C02954",
+    "comment": "general reaction (see R04103)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.11"
+    ],
+    "pathways": {
+      "rn00311": "Penicillin and cephalosporin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K01434": "penicillin amidase [EC:3.5.1.11]"
+    }
+  }
+]

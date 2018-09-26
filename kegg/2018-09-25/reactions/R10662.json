@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10662",
+    "name": "dTDP-beta-L-evernosamine,NADPH:oxygen oxidoreductase (N-hydroxylating)",
+    "definition": "dTDP-beta-L-evernosamine + NADPH + H+ + Oxygen <=> dTDP-N-hydroxy-beta-L-evernosamine + NADP+ + H2O",
+    "equation": "C20765 + C00005 + C00080 + C00007 <=> C20766 + C00006 + C00001",
+    "comment": "first step of two-step reaction (see R10664, R10662+R10663)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.187"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C21055",
+    "name": "Paratose",
+    "names": [
+      "Paratose",
+      "3,6-Dideoxy-D-ribo-hexopyranose"
+    ],
+    "formula": "C6H12O4",
+    "exact_mass": 148.0736,
+    "mol_weight": 148.1571,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254816280"
+      ],
+      "PDB-CCD": [
+        "PZU"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1y C    14.0000  -14.6300\n            2   C1y C    14.0000  -16.0300\n            3   C1x C    15.2124  -16.7300\n            4   C1y C    16.4249  -16.0300\n            5   C1y C    16.4249  -14.6300\n            6   O2x O    15.2124  -13.9300\n            7   C1a C    12.7876  -13.9300\n            8   O1a O    12.7876  -16.7300\n            9   O1a O    17.6560  -16.7410\n            10  O1a O    17.6560  -13.9190\nBOND        10\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     1   7 1 #Up\n            8     2   8 1 #Down\n            9     4   9 1 #Down\n            10    5  10 1 #Either\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

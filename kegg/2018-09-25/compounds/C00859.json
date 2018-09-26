@@ -1,0 +1,62 @@
+[
+  {
+    "entry_id": "C00859",
+    "name": "Gibberellin A1",
+    "names": [
+      "Gibberellin A1",
+      "Gibberellin 1"
+    ],
+    "formula": "C19H24O6",
+    "exact_mass": 348.1573,
+    "mol_weight": 348.3903,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03008",
+      "R03009",
+      "R06619"
+    ],
+    "pathways": {
+      "map00904": "Diterpenoid biosynthesis",
+      "map01062": "Biosynthesis of terpenoids and steroids",
+      "map01070": "Biosynthesis of plant hormones",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map04075": "Plant hormone signal transduction"
+    },
+    "enzymes": [
+      "1.14.11.13",
+      "1.14.11.15"
+    ],
+    "dblinks": {
+      "CAS": [
+        "545-97-1"
+      ],
+      "PubChem": [
+        "4116"
+      ],
+      "ChEBI": [
+        "27717"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0104170001"
+      ],
+      "KNApSAcK": [
+        "C00000001"
+      ],
+      "3DMET": [
+        "B01344"
+      ],
+      "NIKKAJI": [
+        "J4.738D"
+      ]
+    },
+    "kcf": "ATOM        25\n            1   C1z C    20.9488  -14.6130\n            2   C1y C    23.1431  -14.6130\n            3   C1y C    20.9488  -15.8799\n            4   O7x O    20.9488  -13.3575\n            5   C1x C    19.8547  -13.9851\n            6   C1z C    23.1431  -15.8799\n            7   C1x C    24.2431  -13.9679\n            8   C1y C    22.0489  -16.5134\n            9   C1z C    19.8547  -16.5192\n            10  C7x C    19.4227  -15.2119\n            11  C1x C    18.7662  -14.6130\n            12  C1x C    24.2488  -16.5134\n            13  C1x C    23.1374  -17.5155\n            14  C1x C    25.3488  -14.6014\n            15  C6a C    22.0489  -18.4103\n            16  C1y C    18.7662  -15.8799\n            17  C1a C    19.6389  -17.7690\n            18  O6a O    20.4708  -15.1657\n            19  C1z C    25.3546  -15.8857\n            20  C2y C    25.3488  -17.5155\n            21  O6a O    20.9604  -19.0322\n            22  O6a O    23.2715  -19.1019\n            23  O1a O    17.6777  -16.5018\n            24  O1a O    26.6044  -15.8799\n            25  C2a C    26.2358  -18.4025\nBOND        29\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     1   5 1\n            5     2   6 1\n            6     2   7 1\n            7     3   8 1\n            8     3   9 1\n            9     4  10 1\n            10    5  11 1\n            11    6  12 1\n            12    6  13 1 #Up\n            13    7  14 1\n            14    8  15 1 #Up\n            15    9  16 1\n            16    9  17 1 #Up\n            17   10  18 2\n            18   12  19 1\n            19   13  20 1\n            20   15  21 1\n            21   15  22 2\n            22   16  23 1 #Up\n            23   19  24 1 #Down\n            24   20  25 2\n            25    6   8 1\n            26    9  10 1 #Down\n            27   11  16 1\n            28   14  19 1\n            29   19  20 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

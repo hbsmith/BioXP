@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C02273",
+    "name": "Digalacturonate",
+    "names": [
+      "Digalacturonate",
+      "Digalacturonic acid"
+    ],
+    "formula": "C12H18O13",
+    "exact_mass": 370.0747,
+    "mol_weight": 370.2635,
+    "remark": "Same as: G02614",
+    "comment": "",
+    "reactions": [
+      "R02360",
+      "R07413"
+    ],
+    "pathways": {
+      "map00040": "Pentose and glucuronate interconversions",
+      "map01100": "Metabolic pathways",
+      "map02010": "ABC transporters"
+    },
+    "enzymes": [
+      "3.2.1.15",
+      "3.2.1.67"
+    ],
+    "dblinks": {
+      "CAS": [
+        "5894-59-7"
+      ],
+      "PubChem": [
+        "5333"
+      ],
+      "ChEBI": [
+        "28737",
+        "33809"
+      ],
+      "PDB-CCD": [
+        "AD0"
+      ],
+      "3DMET": [
+        "B04846"
+      ],
+      "NIKKAJI": [
+        "J506.523B"
+      ]
+    },
+    "kcf": "ATOM        25\n            1   C1y C    20.3813  -13.9105\n            2   C1y C    20.3813  -12.5150\n            3   O2a O    19.0388  -14.7578\n            4   C1y C    21.5902  -14.6178\n            5   O2x O    21.5902  -11.8142\n            6   C6a C    19.1659  -11.8142\n            7   C1y C    17.8298  -15.4588\n            8   C1y C    22.8119  -13.9105\n            9   O1a O    21.5902  -16.0133\n            10  C1y C    22.8119  -12.5150\n            11  O6a O    19.1723  -10.4123\n            12  O6a O    17.9569  -12.5150\n            13  O2x O    16.6079  -14.7578\n            14  C1y C    17.8298  -16.8543\n            15  O1a O    24.0274  -14.6178\n            16  O1a O    24.0209  -11.8142\n            17  C1y C    15.3989  -15.4588\n            18  C1y C    16.6079  -17.5616\n            19  O1a O    19.0451  -17.5616\n            20  C1y C    15.3989  -16.8543\n            21  C6a C    14.1901  -14.7578\n            22  O1a O    16.6079  -18.9571\n            23  O1a O    14.2030  -17.5616\n            24  O6a O    14.1901  -13.3625\n            25  O6a O    12.9746  -15.4588\nBOND        26\n            1     1   2 1\n            2     1   3 1 #Up\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1 #Up\n            6     7   3 1 #Down\n            7     4   8 1\n            8     4   9 1 #Up\n            9     5  10 1\n            10    6  11 1\n            11    6  12 2\n            12    7  13 1\n            13    7  14 1\n            14    8  15 1 #Down\n            15   10  16 1\n            16   13  17 1\n            17   14  18 1\n            18   14  19 1 #Down\n            19   17  20 1\n            20   17  21 1 #Up\n            21   18  22 1 #Up\n            22   20  23 1 #Up\n            23   21  24 1\n            24   21  25 2\n            25    8  10 1\n            26   18  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

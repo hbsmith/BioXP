@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09701",
+    "name": "(S)-squalene-2,3-epoxide hydro-lyase (dammarenediol-II forming)",
+    "definition": "Dammarenediol II <=> (S)-2,3-Epoxysqualene + H2O",
+    "equation": "C19829 <=> C01054 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.125"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15817": "dammarenediol II synthase [EC:4.2.1.125]"
+    }
+  }
+]

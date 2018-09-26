@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09700",
+    "name": "(S)-squalene-2,3-epoxide hydro-lyase (arabidiol forming)",
+    "definition": "Arabidiol <=> (S)-2,3-Epoxysqualene + H2O",
+    "equation": "C19828 <=> C01054 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.124"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15823": "arabidiol synthase [EC:4.2.1.124]"
+    }
+  }
+]

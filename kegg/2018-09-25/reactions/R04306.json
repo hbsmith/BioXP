@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04306",
+    "name": "",
+    "definition": "(Z)-4-Hydroxyphenylacetaldehyde oxime <=> 4-Hydroxyphenylacetonitrile + H2O",
+    "equation": "C04353 <=> C03766 + C00001",
+    "comment": "second step of three-step reaction (see R05728, R11442+R04306+R02708) subsequently R02708",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.37"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K13029": "4-hydroxyphenylacetaldehyde oxime monooxygenase [EC:1.14.14.37]"
+    }
+  }
+]

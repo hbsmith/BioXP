@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00883",
+    "name": "GDP:D-mannose-1-phosphate guanylyltransferase",
+    "definition": "GDP + D-Mannose 1-phosphate <=> Orthophosphate + GDP-mannose",
+    "equation": "C00035 + C00636 <=> C00009 + C00096",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.22"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

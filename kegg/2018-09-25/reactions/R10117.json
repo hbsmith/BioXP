@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10117",
+    "name": "3-hydroxyglutaryl-[acp]-methyl-ester hydro-lyase",
+    "definition": "3-Hydroxyglutaryl-[acp] methyl ester <=> Enoylglutaryl-[acp] methyl ester + H2O",
+    "equation": "C20373 <=> C20374 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.59"
+    ],
+    "pathways": {
+      "rn00780": "Biotin metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K02372": "3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]"
+    }
+  }
+]

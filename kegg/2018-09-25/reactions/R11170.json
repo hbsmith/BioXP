@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11170",
+    "name": "protein-Npi-phospho-L-histidine:N,N'-diacetylchitobiose 6'-O-phosphotransferase",
+    "definition": "Protein N(pi)-phospho-L-histidine + Chitobiose <=> Protein histidine + N,N'-Diacetylchitobiose 6'-phosphate",
+    "equation": "C04261 + C01674 <=> C00615 + C21152",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.196"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K02759": "PTS system, cellobiose-specific IIA component [EC:2.7.1.196 2.7.1.205]",
+      "K02760": "PTS system, cellobiose-specific IIB component [EC:2.7.1.196 2.7.1.205]",
+      "K02761": "PTS system, cellobiose-specific IIC component"
+    }
+  }
+]

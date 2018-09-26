@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R09286",
+    "name": "3-hydroxypropionate:CoA ligase (AMP-forming)",
+    "definition": "3-Hydroxypropionyl-CoA + Diphosphate + AMP <=> 3-Hydroxypropanoate + CoA + ATP",
+    "equation": "C05668 + C00013 + C00020 <=> C01013 + C00010 + C00002",
+    "comment": "3-hydroxypropionyl-CoA synthetase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.36"
+    ],
+    "pathways": {
+      "rn00720": "Carbon fixation pathways in prokaryotes",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K14469": "acrylyl-CoA reductase (NADPH) / 3-hydroxypropionyl-CoA dehydratase / 3-hydroxypropionyl-CoA synthetase [EC:1.3.1.84 4.2.1.116 6.2.1.36]",
+      "K15018": "3-hydroxypropionyl-coenzyme A synthetase [EC:6.2.1.36]"
+    }
+  }
+]

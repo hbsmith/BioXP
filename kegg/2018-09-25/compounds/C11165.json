@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C11165",
+    "name": "Thiolactomycin",
+    "names": [
+      "Thiolactomycin"
+    ],
+    "formula": "C11H14O2S",
+    "exact_mass": 210.0715,
+    "mol_weight": 210.2927,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "82079-32-1"
+      ],
+      "PubChem": [
+        "13347"
+      ],
+      "ChEBI": [
+        "46116"
+      ],
+      "ChEMBL": [
+        "CHEMBL399043"
+      ],
+      "KNApSAcK": [
+        "C00018418"
+      ],
+      "PDB-CCD": [
+        "TLM"
+      ],
+      "NIKKAJI": [
+        "J18.565E"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C2y C    29.0764  -20.3946\n            2   C1z C    28.6427  -19.0707\n            3   S2x S    29.7729  -18.2488\n            4   C5x C    30.9028  -19.0707\n            5   C2y C    30.4694  -20.3946\n            6   C2b C    27.4363  -18.3741\n            7   C2c C    26.2300  -19.0707\n            8   C2b C    25.0235  -18.3741\n            9   C2a C    23.8171  -19.0707\n            10  C1a C    26.2300  -20.4637\n            11  C1a C    28.7066  -17.5903\n            12  O5x O    32.2283  -18.6419\n            13  C1a C    31.2870  -21.5226\n            14  O1a O    28.2589  -21.5226\nBOND        14\n            1     6   7 2\n            2     2   3 1\n            3     7   8 1\n            4     3   4 1\n            5     8   9 2\n            6     4   5 1\n            7     7  10 1\n            8     5   1 2\n            9     2  11 1 #Down\n            10    4  12 2\n            11    2   6 1\n            12    5  13 1\n            13    1   2 1\n            14    1  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

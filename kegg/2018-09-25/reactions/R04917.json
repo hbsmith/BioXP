@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04917",
+    "name": "",
+    "definition": "5-(2'-Formylethyl)-4,6-dihydroxypicolinate + NADP+ + H2O <=> 5-(2'-Carboxyethyl)-4,6-dihydroxypicolinate + NADPH + H+",
+    "equation": "C05654 + C00006 + C00001 <=> C05655 + C00005 + C00080",
+    "comment": "see R04916 (NADH)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.-"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

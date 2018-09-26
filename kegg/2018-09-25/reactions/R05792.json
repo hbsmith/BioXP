@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R05792",
+    "name": "acyloxyacyl hydrolase",
+    "definition": "3-(Acyloxy)acyl group of bacterial toxin + 2 H2O <=> 3-Hydroxyacyl group of bacterial toxin + 2 Fatty acid",
+    "equation": "C11547 + 2 C00001 <=> C11548 + 2 C00162",
+    "comment": "hydrolysis of the acyloxyacyl bonds that link the secondary acyl chains Ref:1. J Biol Chem 1990;265(27):16444-9",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.77"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

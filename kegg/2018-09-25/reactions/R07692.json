@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07692",
+    "name": "",
+    "definition": "4-(3-Hydroxy-2-naphthyl)-2-oxobut-3-enoic acid + 2 H2O <=> 3-Hydroxy-2-naphthoate + Pyruvate",
+    "equation": "C16210 + 2 C00001 <=> C16212 + C00022",
+    "comment": "multi-step reaction (possibly similar to R05136+R02941) incomplete reaction (unidentified acceptor)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00624": "Polycyclic aromatic hydrocarbon degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

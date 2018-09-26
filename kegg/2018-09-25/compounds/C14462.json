@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C14462",
+    "name": "3,4-Dichlorophenol",
+    "names": [
+      "3,4-Dichlorophenol"
+    ],
+    "formula": "C6H4Cl2O",
+    "exact_mass": 161.9639,
+    "mol_weight": 163.0014,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "95-77-2"
+      ],
+      "PubChem": [
+        "17395462"
+      ],
+      "ChEBI": [
+        "34323"
+      ],
+      "ChEMBL": [
+        "CHEMBL1549385"
+      ],
+      "PDB-CCD": [
+        "5JD"
+      ],
+      "NIKKAJI": [
+        "J3.571H"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    26.1545  -18.8695\n            2   C8x C    26.1545  -20.2671\n            3   C8y C    27.3648  -20.9660\n            4   C8y C    28.5753  -20.2671\n            5   C8x C    28.5753  -18.8695\n            6   C8y C    27.3648  -18.1707\n            7   O1a O    27.3648  -16.7732\n            8   X   Cl   29.8043  -20.9769\n            9   X   Cl   27.3648  -22.3634\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     4   8 1\n            9     3   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05646",
+    "name": "ATP:D-glycero-beta-D-manno-heptose 7-phosphate 1-phosphotransferase",
+    "definition": "ATP + D-glycero-beta-D-manno-Heptose 7-phosphate <=> ADP + D-glycero-beta-D-manno-Heptose 1,7-bisphosphate",
+    "equation": "C00002 + C07836 <=> C00008 + C11472",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.167"
+    ],
+    "pathways": {
+      "rn00540": "Lipopolysaccharide biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03272": "D-beta-D-heptose 7-phosphate kinase / D-beta-D-heptose 1-phosphate adenosyltransferase [EC:2.7.1.167 2.7.7.70]",
+      "K21344": "D-glycero-beta-D-manno-heptose-7-phosphate kinase [EC:2.7.1.167]"
+    }
+  }
+]

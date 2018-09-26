@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11008",
+    "name": "cholesterol,NADPH:oxygen oxidoreductase (7,8 dehydrogenating)",
+    "definition": "Cholesterol + Oxygen + NADPH + H+ <=> 7-Dehydrocholesterol + NADP+ + 2 H2O",
+    "equation": "C00187 + C00007 + C00005 + C00080 <=> C01164 + C00006 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.21"
+    ],
+    "pathways": {
+      "rn00981": "Insect hormone biosynthesis"
+    },
+    "orthologs": {
+      "K14938": "cholesterol 7-desaturase [EC:1.14.19.21]"
+    }
+  }
+]

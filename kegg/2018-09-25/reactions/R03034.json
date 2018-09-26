@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03034",
+    "name": "D-Galactono-1,4-lactone hydroxyacylhydrolase",
+    "definition": "D-Galactono-1,4-lactone + H2O <=> D-Galactonate",
+    "equation": "C03383 + C00001 <=> C00880",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.25"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

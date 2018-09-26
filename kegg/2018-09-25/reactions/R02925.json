@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02925",
+    "name": "D-Sorbitol:(acceptor) 1-oxidoreductase",
+    "definition": "D-Sorbitol + FAD <=> FADH2 + L-Sorbose",
+    "equation": "C00794 + C00016 <=> C01352 + C00247",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.99.21"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism"
+    },
+    "orthologs": {
+      "K08261": "D-sorbitol dehydrogenase (acceptor) [EC:1.1.99.21]"
+    }
+  }
+]

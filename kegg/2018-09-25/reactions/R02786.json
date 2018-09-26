@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02786",
+    "name": "UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:L-lysine gamma-ligase (ADP-forming); UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:L-lysine ligase (ADP-forming)",
+    "definition": "ATP + UDP-N-acetylmuramoyl-L-alanyl-D-glutamate + L-Lysine <=> ADP + Orthophosphate + UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysine",
+    "equation": "C00002 + C00692 + C00047 <=> C00008 + C00009 + C05892",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.7"
+    ],
+    "pathways": {
+      "rn00550": "Peptidoglycan biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K05362": "UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase [EC:6.3.2.7]"
+    }
+  }
+]

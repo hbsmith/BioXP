@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04309",
+    "name": "3alpha-Hydroxy-5beta-androstan-17-one:NAD+ oxidoreductase (B-specific)",
+    "definition": "Etiocholanolone + NAD+ <=> 5beta-Androstane-3,17-dione + NADH + H+",
+    "equation": "C04373 + C00003 <=> C03772 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.50",
+      "1.1.1.152"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+      "K00037": "3alpha-hydroxysteroid 3-dehydrogenase / chlordecone reductase [EC:1.1.1.50 1.1.1.357 1.1.1.225]"
+    }
+  }
+]

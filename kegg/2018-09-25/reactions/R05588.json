@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R05588",
+    "name": "",
+    "definition": "Benzylsuccinate + Succinyl-CoA <=> Benzylsuccinyl-CoA + Succinate",
+    "equation": "C09816 + C00091 <=> C09817 + C00042",
+    "comment": "BbsE,BbsF",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.15"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K07543": "benzylsuccinate CoA-transferase BbsE subunit [EC:2.8.3.15]",
+      "K07544": "benzylsuccinate CoA-transferase BbsF subunit [EC:2.8.3.15]"
+    }
+  }
+]

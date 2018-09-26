@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09676",
+    "name": "UDP-N-acetyl-D-glucosamine:protein-O-beta-N-acetyl-D-glucosaminyl transferase",
+    "definition": "UDP-N-acetyl-alpha-D-glucosamine + [Protein]-L-serine <=> UDP + [Protein]-3-O-(N-acetyl-D-glucosaminyl)-L-serine",
+    "equation": "C00043 + C02189 <=> C00015 + C19802",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.255"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K09667": "protein O-GlcNAc transferase [EC:2.4.1.255]",
+      "K18134": "protein O-GlcNAc transferase [EC:2.4.1.255]"
+    }
+  }
+]

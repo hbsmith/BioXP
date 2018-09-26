@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C03527",
+    "name": "Oxidized Latia luciferin",
+    "names": [
+      "Oxidized Latia luciferin"
+    ],
+    "formula": "C13H22O",
+    "exact_mass": 194.1671,
+    "mol_weight": 194.3132,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03907"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.99.21"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6335"
+      ],
+      "ChEBI": [
+        "18015"
+      ],
+      "ChEMBL": [
+        "CHEMBL3188345"
+      ],
+      "NIKKAJI": [
+        "J45.860K"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C2y C    19.1490  -16.0906\n            2   C1z C    17.9311  -15.3982\n            3   C2y C    19.1490  -17.5007\n            4   C1b C    20.3542  -15.3918\n            5   C1x C    16.7197  -16.0906\n            6   C1a C    17.2132  -14.1867\n            7   C1a C    18.6107  -14.1867\n            8   C1x C    17.9311  -18.2186\n            9   C1a C    20.3605  -18.1992\n            10  C1b C    21.5656  -16.0841\n            11  C1x C    16.7197  -17.5007\n            12  C5a C    22.7707  -15.3855\n            13  O5a O    23.9821  -16.0778\n            14  C1a C    22.7642  -14.1344\nBOND        14\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     2   7 1\n            7     3   8 1\n            8     3   9 1\n            9     4  10 1\n            10    5  11 1\n            11   10  12 1\n            12   12  13 2\n            13   12  14 1\n            14    8  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

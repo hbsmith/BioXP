@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05768",
+    "name": "GDP-mannose:3-phosphoglycerate 3-a-D-mannosyltransferase",
+    "definition": "GDP-mannose + 3-Phospho-D-glycerate <=> GDP + 2-(alpha-D-Mannosyl)-3-phosphoglycerate",
+    "equation": "C00096 + C00197 <=> C00035 + C11516",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.217"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism"
+    },
+    "orthologs": {
+      "K05947": "mannosyl-3-phosphoglycerate synthase [EC:2.4.1.217]"
+    }
+  }
+]

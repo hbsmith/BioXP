@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05380",
+    "name": "acetaldehyde hydro-lyase",
+    "definition": "Acetaldehyde <=> Acetylene + H2O",
+    "equation": "C00084 <=> C01548 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.112"
+    ],
+    "pathways": {
+      "rn00625": "Chloroalkane and chloroalkene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K20625": "acetylene hydratase [EC:4.2.1.112]"
+    }
+  }
+]

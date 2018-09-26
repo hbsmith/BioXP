@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02718",
+    "name": "D-Alanine:poly(ribitol phosphate) ligase (AMP-forming)",
+    "definition": "ATP + D-Alanine + Poly(ribitol phosphate) <=> AMP + Diphosphate + O-D-Alanyl-poly(ribitol phosphate)",
+    "equation": "C00002 + C00133 + C00653 <=> C00020 + C00013 + C04260",
+    "comment": "possibly intermediate (D-alanyl-[acp])",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.1.1.13"
+    ],
+    "pathways": {
+      "rn00473": "D-Alanine metabolism"
+    },
+    "orthologs": {
+      "K03367": "D-alanine--poly(phosphoribitol) ligase subunit 1 [EC:6.1.1.13]",
+      "K14188": "D-alanine--poly(phosphoribitol) ligase subunit 2 [EC:6.1.1.13]"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C12215",
+    "name": "Iminoerythrose 4-phosphate",
+    "names": [
+      "Iminoerythrose 4-phosphate",
+      "Imino-D-erythrose 4-phosphate"
+    ],
+    "formula": "C4H10NO6P",
+    "exact_mass": 199.0246,
+    "mol_weight": 199.0991,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06590",
+      "R06591"
+    ],
+    "pathways": {
+      "map01051": "Biosynthesis of ansamycins",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "2.2.1.1"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "14360"
+      ],
+      "ChEBI": [
+        "31692"
+      ],
+      "3DMET": [
+        "B05619"
+      ],
+      "NIKKAJI": [
+        "J1.682.370H"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   O2b O    25.5500  -23.1000\n            2   C1b C    24.3600  -22.4000\n            3   C1c C    23.1700  -23.1000\n            4   C1c C    21.9100  -22.4000\n            5   C2b C    20.7200  -23.1000\n            6   N2a N    19.5300  -22.4000\n            7   O1a O    21.9100  -21.0000\n            8   O1a O    23.1700  -24.5000\n            9   P1b P    26.9500  -23.1000\n            10  O1c O    28.3500  -23.1000\n            11  O1c O    26.9500  -21.7000\n            12  O1c O    26.9500  -24.5000\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 2\n            6     4   7 1 #Down\n            7     3   8 1 #Up\n            8     1   9 1\n            9     9  10 1\n            10    9  11 2\n            11    9  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

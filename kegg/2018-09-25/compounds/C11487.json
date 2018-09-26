@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C11487",
+    "name": "EPA",
+    "names": [
+      "EPA",
+      "N-Ethylphenylacetamide",
+      "N-Ethyl-2-phenylacetamide"
+    ],
+    "formula": "C10H13NO",
+    "exact_mass": 163.0997,
+    "mol_weight": 163.2163,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "5465-00-9"
+      ],
+      "PubChem": [
+        "13657"
+      ],
+      "NIKKAJI": [
+        "J386.925C"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    23.7507  -18.8420\n            2   C8x C    23.7507  -20.2454\n            3   C8x C    24.9699  -20.9508\n            4   C8x C    26.1751  -20.2454\n            5   C8y C    26.1751  -18.8420\n            6   C8x C    24.9699  -18.1438\n            7   C1b C    27.3828  -18.1438\n            8   C5a C    28.5960  -18.8349\n            9   N1b N    29.8089  -18.1367\n            10  C1b C    31.0221  -18.8278\n            11  C1a C    32.2352  -18.1296\n            12  O5a O    28.5990  -20.2385\nBOND        12\n            1     5   7 1\n            2     1   2 2\n            3     7   8 1\n            4     2   3 1\n            5     8   9 1\n            6     3   4 2\n            7     9  10 1\n            8     4   5 1\n            9    10  11 1\n            10    5   6 2\n            11    6   1 1\n            12    8  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

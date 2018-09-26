@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03794",
+    "name": "(S)-2-Hydroxy-2-phenylacetate,tetrahydrobiopterin:oxygen oxidoreductase (4-hydroxylating)",
+    "definition": "(S)-Mandelate + Tetrahydrobiopterin + Oxygen <=> (S)-4-Hydroxymandelate + Dihydrobiopterin + H2O",
+    "equation": "C01984 + C00272 + C00007 <=> C03198 + C00268 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.16.6"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

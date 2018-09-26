@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00781",
+    "name": "Sulfur:oxygen oxidoreductase",
+    "definition": "Sulfur + Oxygen + H2O <=> Sulfite",
+    "equation": "C00087 + C00007 + C00001 <=> C00094",
+    "comment": "multi-step reaction (see R08677+R08678) requiring glutathione([CDP:C00051]) as a catalytic cofactor",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.18"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K17725": "sulfur dioxygenase [EC:1.13.11.18]"
+    }
+  }
+]

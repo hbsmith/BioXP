@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R05500",
+    "name": "",
+    "definition": "Trichloroethene + 2 H+ <=> trans-1,2-Dichloroethene + Hydrochloric acid",
+    "equation": "C06790 + 2 C00080 <=> C06791 + C01327",
+    "comment": "trichloroethene reductive dehalogenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.21.99.5"
+    ],
+    "pathways": {
+      "rn00625": "Chloroalkane and chloroalkene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K21647": "tetrachloroethene reductive dehalogenase [EC:1.21.99.5]",
+      "K21648": "tetrachloroethene reductive dehalogenase membrane anchor"
+    }
+  }
+]

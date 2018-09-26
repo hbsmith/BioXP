@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R09804",
+    "name": "UDP-glucose:quercitrin 7-O-glucosyltransferase",
+    "definition": "Quercitrin + UDP-glucose <=> Quercetin 3-O-rhamnoside 7-O-glucoside + UDP",
+    "equation": "C01750 + C00029 <=> C19796 + C00015",
+    "comment": "UGT73C6:flavonol-7-O-glucosyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn00944": "Flavone and flavonol biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

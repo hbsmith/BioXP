@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C10906",
+    "name": "D-Fructose",
+    "names": [
+      "D-Fructose"
+    ],
+    "formula": "C6H12O6",
+    "exact_mass": 180.0634,
+    "mol_weight": 180.1559,
+    "remark": "Same as: D00114",
+    "comment": "D-Fructose (furanose) [CPD:C00095] D-Fructose (pyranose) [CPD:C05003] L-Fructose [CPD:C01719]",
+    "reactions": [
+      "R00871",
+      "R07256"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.124",
+      "2.4.1.13"
+    ],
+    "dblinks": {
+      "CAS": [
+        "57-48-7"
+      ],
+      "PubChem": [
+        "13089"
+      ],
+      "ChEBI": [
+        "48095"
+      ],
+      "KNApSAcK": [
+        "C00033848"
+      ],
+      "PDB-CCD": [
+        "FUD"
+      ],
+      "NIKKAJI": [
+        "J4.580B"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1b C    25.2700  -15.9600\n            2   C1c C    24.0800  -15.2600\n            3   C1c C    22.8900  -15.9600\n            4   C1c C    21.7000  -15.2600\n            5   C5a C    20.4400  -15.9600\n            6   C1b C    19.2500  -15.2600\n            7   O1a O    18.0600  -15.9600\n            8   O5a O    20.4400  -17.3600\n            9   O1a O    21.6300  -13.8600\n            10  O1a O    22.8900  -17.3600\n            11  O1a O    24.0800  -13.8600\n            12  O1a O    26.5300  -15.2600\nBOND        11\n            1     1   2 1\n            2     6   7 1\n            3     3   4 1\n            4     5   8 2\n            5     4   9 1 #Up\n            6     4   5 1\n            7     3  10 1 #Up\n            8     2   3 1\n            9     2  11 1 #Down\n            10    5   6 1\n            11    1  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

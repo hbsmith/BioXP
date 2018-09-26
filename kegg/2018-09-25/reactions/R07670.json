@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07670",
+    "name": "beta-2,3,4,5,6-Pentachlorocyclohexanol halidohydrolase",
+    "definition": "beta-2,3,4,5,6-Pentachlorocyclohexanol + H2O <=> beta-2,3,5,6-Tetrachloro-1,4-cyclohexanediol + Hydrochloric acid",
+    "equation": "C16181 + C00001 <=> C16182 + C01327",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.8.1.5"
+    ],
+    "pathways": {
+      "rn00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01563": "haloalkane dehalogenase [EC:3.8.1.5]"
+    }
+  }
+]

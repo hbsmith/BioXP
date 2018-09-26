@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08007",
+    "name": "UDP-alpha-D-glucose:2',3,4,4',6'-pentahydroxychalcone 4'-O-beta-D-glucosyltransferase",
+    "definition": "Eriodictyol chalcone + UDP-glucose <=> 2',3,4,4',6'-Peptahydroxychalcone 4'-O-glucoside + UDP",
+    "equation": "C15525 + C00029 <=> C16408 + C00015",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.286"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

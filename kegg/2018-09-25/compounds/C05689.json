@@ -1,0 +1,60 @@
+[
+  {
+    "entry_id": "C05689",
+    "name": "Se-Methyl-L-selenocysteine",
+    "names": [
+      "Se-Methyl-L-selenocysteine"
+    ],
+    "formula": "C4H9NO2Se",
+    "exact_mass": 182.9799,
+    "mol_weight": 182.0798,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04931",
+      "R04935",
+      "R09366",
+      "R09373",
+      "R10430"
+    ],
+    "pathways": {
+      "map00450": "Selenocompound metabolism"
+    },
+    "enzymes": [
+      "2.1.1.9",
+      "2.1.1.280",
+      "2.3.2.2",
+      "2.6.1.-",
+      "4.4.1.1",
+      "4.4.1.13"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7996"
+      ],
+      "ChEBI": [
+        "27812"
+      ],
+      "ChEMBL": [
+        "CHEMBL62382"
+      ],
+      "KNApSAcK": [
+        "C00001382",
+        "C00034232"
+      ],
+      "3DMET": [
+        "B05096"
+      ],
+      "NIKKAJI": [
+        "J362.852C"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   O6a O    24.5000  -22.7500\n            2   C6a C    25.7124  -22.0500\n            3   C1c C    26.9249  -22.7500\n            4   C1b C    28.1373  -22.0500\n            5   Z   Se   29.3497  -22.7500\n            6   O6a O    25.7124  -20.6502\n            7   N1a N    26.9249  -24.1498\n            8   C1a C    31.2473  -21.5685\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     2   6 2\n            6     3   7 1 #Down\n            7     5   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

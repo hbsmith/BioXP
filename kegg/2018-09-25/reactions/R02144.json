@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02144",
+    "name": "S-adenosyl-L-methionine:carnosine N-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Carnosine <=> S-Adenosyl-L-homocysteine + beta-Alanyl-N(pi)-methyl-L-histidine",
+    "equation": "C00019 + C00386 <=> C00021 + C01262",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.22"
+    ],
+    "pathways": {
+      "rn00340": "Histidine metabolism"
+    },
+    "orthologs": {
+      "K19787": "carnosine N-methyltransferase [EC:2.1.1.22]"
+    }
+  }
+]

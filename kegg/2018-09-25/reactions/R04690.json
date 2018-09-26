@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R04690",
+    "name": "(S)-cheilanthifoline, NADPH:oxygen oxidoreductase (methylenedioxy-bridge-forming)",
+    "definition": "Stylopine + NADP+ + 2 H2O <=> (S)-Cheilanthifoline + Oxygen + NADPH + H+",
+    "equation": "C05175 + C00006 + 2 C00001 <=> C05174 + C00007 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.21.1"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13395": "(S)-stylopine/(S)-canadine/(S)-nandinine synthase [EC:1.14.21.1 1.14.21.5 1.14.21.12]"
+    }
+  }
+]

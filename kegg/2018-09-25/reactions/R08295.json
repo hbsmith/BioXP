@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08295",
+    "name": "Monoethylglycinexylidide amidohydrolase",
+    "definition": "Monoethylglycinexylidide + H2O <=> 2,6-Dimethylaniline + N-Ethylglycine",
+    "equation": "C16561 + C00001 <=> C11004 + C11735",
+    "comment": "carboxylesterases (ec 3.1.1.1) also have some amidohydrolase activities",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.1"
+    ],
+    "pathways": {
+      "rn00982": "Drug metabolism - cytochrome P450"
+    },
+    "orthologs": {
+    }
+  }
+]

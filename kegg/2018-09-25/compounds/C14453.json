@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C14453",
+    "name": "4-Bromophenol",
+    "names": [
+      "4-Bromophenol"
+    ],
+    "formula": "C6H5BrO",
+    "exact_mass": 171.9524,
+    "mol_weight": 173.0073,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07073",
+      "R07075"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "106-41-2"
+      ],
+      "PubChem": [
+        "17395453"
+      ],
+      "ChEBI": [
+        "47248"
+      ],
+      "ChEMBL": [
+        "CHEMBL57284"
+      ],
+      "KNApSAcK": [
+        "C00036569"
+      ],
+      "PDB-CCD": [
+        "BML"
+      ],
+      "NIKKAJI": [
+        "J3.608K"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C8x C    25.2705  -19.8806\n            2   C8x C    25.2705  -21.2806\n            3   C8y C    26.4830  -21.9806\n            4   C8x C    27.6955  -21.2806\n            5   C8x C    27.6955  -19.8806\n            6   C8y C    26.4830  -19.1805\n            7   O1a O    26.4830  -17.7807\n            8   X   Br   26.4830  -23.3805\nBOND        8\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     3   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

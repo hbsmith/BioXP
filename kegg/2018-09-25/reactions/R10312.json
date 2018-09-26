@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10312",
+    "name": "kanamycin-B,2-oxoglutarate:oxygen oxidoreductase (deaminating, 2'-hydroxylating)",
+    "definition": "Kanamycin B + 2-Oxoglutarate + Oxygen <=> 2'-Dehydrokanamycin A + Succinate + Ammonia + CO2",
+    "equation": "C00825 + C00026 + C00007 <=> C20509 + C00042 + C00014 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.37"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20574": "kanamycin B dioxygenase [EC:1.14.11.37]"
+    }
+  }
+]

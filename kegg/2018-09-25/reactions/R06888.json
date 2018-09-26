@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06888",
+    "name": "",
+    "definition": "2,2-Bis(4-hydroxyphenyl)-1-propanol + NADH + H+ + Oxygen <=> 2,3-Bis(4-hydroxyphenyl)-1,2-propanediol + NAD+ + H2O",
+    "equation": "C13631 + C00004 + C00080 + C00007 <=> C13634 + C00003 + C00001",
+    "comment": "2,2-bis(4-hydroxyphenyl)-1-propanol hydroxylase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "pathways": {
+      "rn00363": "Bisphenol degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

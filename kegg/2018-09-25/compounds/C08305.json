@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C08305",
+    "name": "Gyromitrin",
+    "names": [
+      "Gyromitrin",
+      "Acetaldehyde methylformylhydrazone"
+    ],
+    "formula": "C4H8N2O",
+    "exact_mass": 100.0637,
+    "mol_weight": 100.1191,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "16568-02-8"
+      ],
+      "PubChem": [
+        "10503"
+      ],
+      "ChEBI": [
+        "5583"
+      ],
+      "KNApSAcK": [
+        "C00001412"
+      ],
+      "NIKKAJI": [
+        "J3.140B"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   N1c N    27.6908  -16.3391\n            2   N2b N    28.9041  -15.6391\n            3   C4a C    26.4775  -15.6391\n            4   C1a C    27.7491  -17.7451\n            5   C2b C    30.1176  -16.3391\n            6   O4a O    25.2700  -16.3391\n            7   C1a C    31.3251  -15.6391\nBOND        6\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 2\n            5     3   6 2\n            6     5   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

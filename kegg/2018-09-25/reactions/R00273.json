@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00273",
+    "name": "oxalate:oxygen oxidoreductase",
+    "definition": "Oxalate + Oxygen <=> Hydrogen peroxide + 2 CO2",
+    "equation": "C00209 + C00007 <=> C00027 + 2 C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.3.4"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

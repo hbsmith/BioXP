@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09446",
+    "name": "nitrous-oxide:NADP+ oxidoreductase",
+    "definition": "2 Nitric oxide + NADPH + H+ <=> Nitrous oxide + NADP+ + H2O",
+    "equation": "2 C00533 + C00005 + C00080 <=> C00887 + C00006 + C00001",
+    "comment": "NADH (see R02492) P450nor",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.1.14"
+    ],
+    "pathways": {
+      "rn00910": "Nitrogen metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K15877": "fungal nitric oxide reductase [EC:1.7.1.14]"
+    }
+  }
+]

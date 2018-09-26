@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00460",
+    "name": "lysine racemase",
+    "definition": "L-Lysine <=> D-Lysine",
+    "equation": "C00047 <=> C00739",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.1.5",
+      "5.1.1.9"
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

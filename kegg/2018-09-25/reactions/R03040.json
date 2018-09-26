@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03040",
+    "name": "3-Propylmalate glyoxylate-lyase (CoA-pentanoylating)",
+    "definition": "3-Propylmalate + CoA <=> Pentanoyl-CoA + H2O + Glyoxylate",
+    "equation": "C02123 + C00010 <=> C00888 + C00001 + C00048",
+    "comment": "possibly intermediate",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.3.12"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

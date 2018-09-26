@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C08736",
+    "name": "6-Chloro-1,3,5-triazine-2,4(1H,3H)-dione",
+    "names": [
+      "6-Chloro-1,3,5-triazine-2,4(1H,3H)-dione",
+      "2-Chloro-4,6-dihydroxy-1,3,5-triazine"
+    ],
+    "formula": "C3H2ClN3O2",
+    "exact_mass": 146.9836,
+    "mol_weight": 147.5199,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "69125-10-6"
+      ],
+      "PubChem": [
+        "10929"
+      ],
+      "ChEBI": [
+        "1040"
+      ],
+      "NIKKAJI": [
+        "J313.838K"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8y C    26.7878  -20.9327\n            2   N5x N    28.0000  -21.6295\n            3   N5x N    26.7878  -19.5273\n            4   O1a O    25.5756  -21.6295\n            5   C8y C    29.2122  -20.9327\n            6   C8y C    28.0000  -18.8305\n            7   N5x N    29.2122  -19.5273\n            8   O1a O    30.4244  -21.6295\n            9   X   Cl   28.0058  -17.4307\nBOND        9\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     3   6 1\n            6     5   7 1\n            7     5   8 1\n            8     6   9 1\n            9     6   7 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

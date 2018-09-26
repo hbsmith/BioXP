@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07835",
+    "name": "",
+    "definition": "Terephthalate + H2O <=> Benzoate + Carbonic acid",
+    "equation": "C06337 + C00001 <=> C00180 + C01353",
+    "comment": "terephthalate decarboxylase",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

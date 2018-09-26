@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01148",
+    "name": "D-Alanine:2-oxoglutarate aminotransferase",
+    "definition": "D-Alanine + 2-Oxoglutarate <=> Pyruvate + D-Glutamate",
+    "equation": "C00133 + C00026 <=> C00022 + C00217",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.21"
+    ],
+    "pathways": {
+      "rn00473": "D-Alanine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00824": "D-alanine transaminase [EC:2.6.1.21]"
+    }
+  }
+]

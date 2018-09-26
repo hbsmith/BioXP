@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C01053",
+    "name": "(R)-4-Dehydropantoate",
+    "names": [
+      "(R)-4-Dehydropantoate"
+    ],
+    "formula": "C6H10O4",
+    "exact_mass": 146.0579,
+    "mol_weight": 146.1412,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02471",
+      "R03198"
+    ],
+    "pathways": {
+      "map00770": "Pantothenate and CoA biosynthesis"
+    },
+    "enzymes": [
+      "1.1.1.106",
+      "1.2.1.33"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4294"
+      ],
+      "ChEBI": [
+        "16654"
+      ],
+      "LIPIDMAPS": [
+        "LMFA01050458"
+      ],
+      "3DMET": [
+        "B04760"
+      ],
+      "NIKKAJI": [
+        "J2.731.114H"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O6a O    21.7084  -15.8246\n            2   C6a C    20.5180  -16.5248\n            3   C1c C    19.2577  -15.8246\n            4   C1d C    18.0674  -16.5248\n            5   C4a C    16.8769  -15.8246\n            6   O4a O    15.6166  -16.5248\n            7   O6a O    20.5180  -17.9253\n            8   O1a O    19.2577  -14.4242\n            9   C1a C    17.0870  -17.5051\n            10  C1a C    19.0476  -17.5051\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 2\n            6     2   7 2\n            7     3   8 1 #Up\n            8     4   9 1\n            9     4  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

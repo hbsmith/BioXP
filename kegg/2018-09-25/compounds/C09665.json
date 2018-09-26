@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C09665",
+    "name": "alpha-Farnesene",
+    "names": [
+      "alpha-Farnesene",
+      "(3E,6E)-alpha-Farnesene"
+    ],
+    "formula": "C15H24",
+    "exact_mass": 204.1878,
+    "mol_weight": 204.3511,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08696"
+    ],
+    "pathways": {
+      "map00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "4.2.3.46"
+    ],
+    "dblinks": {
+      "CAS": [
+        "502-61-4"
+      ],
+      "PubChem": [
+        "11855"
+      ],
+      "ChEBI": [
+        "10280"
+      ],
+      "ChEMBL": [
+        "CHEMBL3182226"
+      ],
+      "KNApSAcK": [
+        "C00003130"
+      ],
+      "3DMET": [
+        "B03178"
+      ],
+      "NIKKAJI": [
+        "J47.112G"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C2c C    24.5069  -17.5700\n            2   C2b C    25.7118  -18.2742\n            3   C1b C    23.3020  -18.2742\n            4   C1a C    24.5069  -16.1673\n            5   C1b C    26.9224  -17.5700\n            6   C1b C    22.0914  -17.5700\n            7   C2b C    28.1332  -18.2742\n            8   C2b C    20.8806  -18.2742\n            9   C2c C    29.3439  -17.5700\n            10  C2c C    19.6699  -17.5700\n            11  C2b C    30.5488  -18.2742\n            12  C1a C    29.3439  -16.1673\n            13  C1a C    18.4591  -18.2742\n            14  C1a C    19.6699  -16.1673\n            15  C2a C    31.7594  -17.5700\nBOND        14\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     5   7 1\n            7     6   8 1\n            8     7   9 2\n            9     8  10 2\n            10    9  11 1\n            11    9  12 1\n            12   10  13 1\n            13   10  14 1\n            14   11  15 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C08389",
+    "name": "Propanethial S-oxide",
+    "names": [
+      "Propanethial S-oxide",
+      "Thiopropanal S-oxide"
+    ],
+    "formula": "C3H6OS",
+    "exact_mass": 90.0139,
+    "mol_weight": 90.1441,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "32157-29-2"
+      ],
+      "PubChem": [
+        "10585"
+      ],
+      "ChEBI": [
+        "8475"
+      ],
+      "KNApSAcK": [
+        "C00001266"
+      ],
+      "NIKKAJI": [
+        "J1.802.424A"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C2b C    27.9591  -20.3072\n            2   C1b C    26.8014  -19.6464\n            3   S4a S    29.1167  -19.6523\n            4   C1a C    25.6495  -20.3072\n            5   O3c O    30.4732  -18.7869\nBOND        4\n            1     1   2 1\n            2     1   3 2\n            3     2   4 1\n            4     3   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

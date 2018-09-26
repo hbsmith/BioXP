@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02081",
+    "name": "(R)-Mevalonate:NAD+ oxidoreductase (CoA-acetylating)",
+    "definition": "(R)-Mevalonate + CoA + 2 NAD+ <=> (S)-3-Hydroxy-3-methylglutaryl-CoA + 2 NADH + 2 H+",
+    "equation": "C00418 + C00010 + 2 C00003 <=> C00356 + 2 C00004 + 2 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.88"
+    ],
+    "pathways": {
+      "rn00900": "Terpenoid backbone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00054": "hydroxymethylglutaryl-CoA reductase [EC:1.1.1.88]"
+    }
+  }
+]

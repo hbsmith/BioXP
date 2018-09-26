@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C19575",
+    "name": "Styrene-butadiene copolymer",
+    "names": [
+      "Styrene-butadiene copolymer"
+    ],
+    "formula": "(C8H8)n. (C4H6)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "copolymer of 1,3-Butadiene [CPD:C16450] and Styrene [CPD:C07083]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "9003-55-8"
+      ],
+      "PubChem": [
+        "124490247"
+      ],
+      "ChEBI": [
+        "82570"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C     9.9400  -16.4500\n            2   C8x C     9.9400  -17.8500\n            3   C8x C    11.1524  -18.5500\n            4   C8x C    12.3649  -17.8500\n            5   C8x C    12.3649  -16.4500\n            6   C8y C    11.1524  -15.7500\n            7   C2b C    11.1524  -14.3500\n            8   C2a C    12.3479  -13.6596\n            9   C2a C    18.9700  -15.6100\n            10  C2b C    20.1824  -16.3100\n            11  C2b C    21.3949  -15.6100\n            12  C2a C    22.6073  -16.3100\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     7   8 2\n            9     9  10 2\n            10   10  11 1\n            11   11  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

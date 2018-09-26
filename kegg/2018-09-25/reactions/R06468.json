@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06468",
+    "name": "",
+    "definition": "6,8a-Seco-6,8a-deoxy-5-oxoavermectin ''2b'' aglycone + NADPH + Oxygen <=> 5-Oxoavermectin ''2b'' aglycone + NADP+ + H2O",
+    "equation": "C11953 + C00005 + C00007 <=> C11954 + C00006 + C00001",
+    "comment": "cytochrome P450 hydroxylase,AveE",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "pathways": {
+      "rn00522": "Biosynthesis of 12-, 14- and 16-membered macrolides"
+    },
+    "orthologs": {
+      "K14372": "cytochrome P450 hydroxylase [EC:1.14.-.-]"
+    }
+  }
+]

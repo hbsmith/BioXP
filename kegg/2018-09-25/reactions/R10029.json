@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R10029",
+    "name": "",
+    "definition": "N,N-Dihydroxy-L-isoleucine <=> (E)-2-Methylbutanal oxime + CO2 + H2O",
+    "equation": "C20311 <=> C19491 + C00011 + C00001",
+    "comment": "last step of three-step reaction (see R09403, R10027+R10028+R10029)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.38",
+      "1.14.14.39"
+    ],
+    "pathways": {
+      "rn00460": "Cyanoamino acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13401": "valine N-monooxygenase [EC:1.14.14.38]",
+      "K14984": "isoleucine N-monooxygenase [EC:1.14.14.39]"
+    }
+  }
+]

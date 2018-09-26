@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00611",
+    "name": "sarcosine:electron-transfer flavoprotein oxidoreductase (demethylating)",
+    "definition": "Sarcosine + Electron-transferring flavoprotein + H2O <=> Glycine + Formaldehyde + Reduced electron-transferring flavoprotein",
+    "equation": "C00213 + C04253 + C00001 <=> C00037 + C00067 + C04570",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.8.3"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00314": "sarcosine dehydrogenase [EC:1.5.8.3]"
+    }
+  }
+]

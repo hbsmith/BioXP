@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08374",
+    "name": "(2E,6E)-farnesyl-diphosphate diphosphate-lyase [(3S,6E)-nerolidol-forming]",
+    "definition": "trans,trans-Farnesyl diphosphate + H2O <=> Nerolidol + Diphosphate",
+    "equation": "C00448 + C00001 <=> C09704 + C00013",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.48"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K14175": "(3S,6E)-nerolidol synthase [EC:4.2.3.48]"
+    }
+  }
+]

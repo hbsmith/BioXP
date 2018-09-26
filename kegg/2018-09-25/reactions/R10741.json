@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10741",
+    "name": "epithienamycin-F,2-oxoglutarate:oxygen oxidoreductase (dehydrating)",
+    "definition": "Epithienamycin F + 2-Oxoglutarate + Oxygen <=> Epithienamycin E + Succinate + CO2 + H2O",
+    "equation": "C17399 + C00026 + C00007 <=> C11755 + C00042 + C00011 + C00001",
+    "comment": "proposed pathway not yet characterized sufficiently",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.20.-"
+    ],
+    "pathways": {
+      "rn00332": "Carbapenem biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K18565": "2-oxoglutarate-dependent dioxygenase [EC:1.14.20.-]"
+    }
+  }
+]

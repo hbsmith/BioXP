@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10951",
+    "name": "ATP:1-phosphatidyl-1D-myo-inositol 5-phosphotransferase",
+    "definition": "ATP + 1-Phosphatidyl-D-myo-inositol <=> ADP + 1-Phosphatidyl-1D-myo-inositol 5-phosphate",
+    "equation": "C00002 + C01194 <=> C00008 + C11557",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.150"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00921": "1-phosphatidylinositol-3-phosphate 5-kinase [EC:2.7.1.150]"
+    }
+  }
+]

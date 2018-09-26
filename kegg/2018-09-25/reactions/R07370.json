@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R07370",
+    "name": "3',5'-dihydroxyflavanone,NADPH:oxygen oxidoreductase",
+    "definition": "3'-Hydroxyflavanone + NADPH + H+ + Oxygen <=> 3',5'-Dihydroxyflavanone + NADP+ + H2O",
+    "equation": "C15204 + C00005 + C00080 + C00007 <=> C15609 + C00006 + C00001",
+    "comment": "second step of two-step reaction (see R10069, R07369+R07370)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.88"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

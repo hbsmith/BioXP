@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C02055",
+    "name": "N-Acylglycine",
+    "names": [
+      "N-Acylglycine"
+    ],
+    "formula": "C3H4NO3R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R00395"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.3.1.13"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5144"
+      ],
+      "ChEBI": [
+        "16180"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   R   R    14.9100  -23.4500\n            2   C5a C    16.1224  -22.7500\n            3   N1b N    17.3349  -23.4500\n            4   C1b C    18.5473  -22.7500\n            5   C6a C    19.7597  -23.4500\n            6   O6a O    20.9722  -22.7500\n            7   O5a O    16.1224  -21.3502\n            8   O6a O    19.7597  -24.8499\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     2   7 2\n            7     5   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

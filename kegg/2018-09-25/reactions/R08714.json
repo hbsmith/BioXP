@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08714",
+    "name": "putrescine:pyruvate aminotransferase",
+    "definition": "Putrescine + Pyruvate <=> 4-Aminobutyraldehyde + L-Alanine",
+    "equation": "C00134 + C00022 <=> C00555 + C00041",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.113"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K12256": "putrescine---pyruvate transaminase [EC:2.6.1.113]"
+    }
+  }
+]

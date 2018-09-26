@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C02126",
+    "name": "4-Nitroaniline",
+    "names": [
+      "4-Nitroaniline",
+      "p-Nitroaniline",
+      "4-Nitrobenzeneamine"
+    ],
+    "formula": "C6H6N2O2",
+    "exact_mass": 138.0429,
+    "mol_weight": 138.124,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04113",
+      "R04367"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.5.1.72",
+      "4.3.3.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "100-01-6"
+      ],
+      "PubChem": [
+        "5205"
+      ],
+      "ChEBI": [
+        "17064"
+      ],
+      "ChEMBL": [
+        "CHEMBL14282"
+      ],
+      "PDB-CCD": [
+        "NIT"
+      ],
+      "NIKKAJI": [
+        "J4.000B"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    18.4100  -15.8310\n            2   N2b N    18.4037  -17.2208 #+\n            3   C8x C    17.2058  -15.1200\n            4   C8x C    19.6333  -15.1200\n            5   O3a O    19.6014  -18.2119\n            6   O3a O    17.1995  -18.2054 #-\n            7   C8x C    17.2058  -13.7109\n            8   C8x C    19.6333  -13.7109\n            9   C8y C    18.4100  -13.0127\n            10  N1a N    18.4037  -11.6227\nBOND        10\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     4   8 2\n            8     7   9 2\n            9     9  10 1\n            10    8   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

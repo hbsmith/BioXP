@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "C00107",
+    "name": "Dipeptide",
+    "names": [
+      "Dipeptide"
+    ],
+    "formula": "C4H6N2O3R2",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map02010": "ABC transporters",
+      "map02030": "Bacterial chemotaxis"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3407"
+      ],
+      "ChEBI": [
+        "46761"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   N1a N    21.2805  -21.4904\n            2   C1c C    22.4929  -20.7904\n            3   C5a C    23.7055  -21.4904\n            4   N1b N    24.9179  -20.7904\n            5   C1c C    26.1303  -21.4904\n            6   C6a C    27.3429  -20.7904\n            7   O6a O    28.5553  -21.4904\n            8   O6a O    27.3429  -19.3907\n            9   O5a O    23.7055  -22.8903\n            10  R   R    26.1303  -22.8904\n            11  R   R    22.4929  -19.3906\nBOND        10\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     6   8 2\n            8     3   9 2\n            9     5  10 1\n            10    2  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

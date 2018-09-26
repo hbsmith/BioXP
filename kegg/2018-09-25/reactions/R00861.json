@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R00861",
+    "name": "hydrogen-sulfide:acceptor oxidoreductase",
+    "definition": "Hydrogen sulfide + Acceptor + 3 H2O <=> Sulfite + Reduced acceptor",
+    "equation": "C00283 + C00028 + 3 C00001 <=> C00094 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.99.5"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K11180": "dissimilatory sulfite reductase alpha subunit [EC:1.8.99.5]",
+      "K11181": "dissimilatory sulfite reductase beta subunit [EC:1.8.99.5]"
+    }
+  }
+]

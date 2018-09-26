@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C19349",
+    "name": "1,4-Bis(chloromethoxymethyl)benzene",
+    "names": [
+      "1,4-Bis(chloromethoxymethyl)benzene"
+    ],
+    "formula": "C10H12Cl2O2",
+    "exact_mass": 234.0214,
+    "mol_weight": 235.1071,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "56894-91-8"
+      ],
+      "PubChem": [
+        "124490021"
+      ],
+      "ChEBI": [
+        "82408"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    16.4500  -15.5400\n            2   C8y C    16.4500  -16.9400\n            3   C8x C    17.6624  -17.6400\n            4   C8x C    18.8749  -16.9400\n            5   C8y C    18.8749  -15.5400\n            6   C8x C    17.6624  -14.8400\n            7   C1b C    20.1124  -14.8400\n            8   O2a O    21.3249  -15.5400\n            9   C1b C    22.5373  -14.8400\n            10  X   Cl   23.7497  -15.5400\n            11  C1b C    15.2376  -17.6400\n            12  O2a O    14.0251  -16.9400\n            13  C1b C    12.8127  -17.6400\n            14  X   Cl   11.6003  -16.9400\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    2  11 1\n            12   11  12 1\n            13   12  13 1\n            14   13  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

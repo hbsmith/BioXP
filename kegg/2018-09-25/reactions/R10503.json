@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10503",
+    "name": "L-amino acid:2-oxo-4-phenylbutyric-acid aminotransferase",
+    "definition": "2-Oxo-4-phenylbutyric acid + L-Amino acid <=> L-Homophenylalanine + 2-Oxo acid",
+    "equation": "C20327 + C00151 <=> C17235 + C00161",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.-"
+    ],
+    "pathways": {
+      "rn00400": "Phenylalanine, tyrosine and tryptophan biosynthesis",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

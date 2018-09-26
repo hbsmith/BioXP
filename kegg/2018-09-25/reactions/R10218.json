@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10218",
+    "name": "",
+    "definition": "5-Hydroxymethyl-2-furaldehyde + NADH + H+ <=> 5-Hydroxymethylfurfuryl alcohol + NAD+",
+    "equation": "C11101 + C00004 + C00080 <=> C20443 + C00003",
+    "comment": "5-Hydroxymethylfurfuryl alcohol dehydrogenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00365": "Furfural degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

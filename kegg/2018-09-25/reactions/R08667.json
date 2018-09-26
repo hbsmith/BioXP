@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08667",
+    "name": "S-(4-methylthiobutylthiohydroximoyl)-L-cysteine 4-methylthiobutylthiohydroximate-lyase (deaminating; pyruvate-forming)",
+    "definition": "S-(4-Methylthiobutylthiohydroximoyl)-L-cysteine + H2O <=> 4-Methylthiobutylthiohydroximate + Pyruvate + Ammonia",
+    "equation": "C17242 + C00001 <=> C17243 + C00022 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.-"
+    ],
+    "pathways": {
+      "rn00966": "Glucosinolate biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+      "K11819": "S-alkyl-thiohydroximate lyase SUR1 [EC:4.4.1.-]"
+    }
+  }
+]

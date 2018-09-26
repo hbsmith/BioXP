@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C14138",
+    "name": "2-sec-Butylphenol",
+    "names": [
+      "2-sec-Butylphenol",
+      "2-(1-Methylpropyl)phenol"
+    ],
+    "formula": "C10H14O",
+    "exact_mass": 150.1045,
+    "mol_weight": 150.2176,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "89-72-5"
+      ],
+      "PubChem": [
+        "7846952"
+      ],
+      "ChEBI": [
+        "34303"
+      ],
+      "ChEMBL": [
+        "CHEMBL30193"
+      ],
+      "NIKKAJI": [
+        "J3.214J"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    25.0173  -19.5522\n            2   C8x C    25.0173  -20.9553\n            3   C8x C    26.2322  -21.6568\n            4   C8x C    27.4473  -20.9553\n            5   C8y C    27.4473  -19.5522\n            6   C8y C    26.2322  -18.8508\n            7   O1a O    26.2322  -17.4480\n            8   C1c C    28.6810  -18.8397\n            9   C1b C    29.8888  -19.5369\n            10  C1a C    28.6807  -17.4479\n            11  C1a C    31.0736  -18.8527\nBOND        11\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 2\n            7     6   7 1\n            8     5   8 1\n            9     8   9 1\n            10    8  10 1\n            11    9  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

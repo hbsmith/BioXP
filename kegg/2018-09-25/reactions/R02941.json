@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R02941",
+    "name": "salicylaldehyde:NAD+ oxidoreductase",
+    "definition": "Salicylaldehyde + NAD+ + H2O <=> Salicylate + NADH + H+",
+    "equation": "C06202 + C00003 + C00001 <=> C00805 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.65",
+      "1.2.1.-"
+    ],
+    "pathways": {
+      "rn00626": "Naphthalene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K00152": "salicylaldehyde dehydrogenase [EC:1.2.1.65]"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19176",
+    "name": "1,2-Dimethylhydrazine",
+    "names": [
+      "1,2-Dimethylhydrazine"
+    ],
+    "formula": "C2H8N2",
+    "exact_mass": 60.0687,
+    "mol_weight": 60.0983,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "540-73-8"
+      ],
+      "PubChem": [
+        "124489848"
+      ],
+      "ChEBI": [
+        "73755"
+      ],
+      "ChEMBL": [
+        "CHEMBL162921"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   C1a C    11.5500  -19.3200\n            2   N1b N    12.7624  -18.6200\n            3   N1b N    13.9749  -19.3200\n            4   C1a C    15.1873  -18.6200\nBOND        3\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

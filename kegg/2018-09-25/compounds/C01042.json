@@ -1,0 +1,61 @@
+[
+  {
+    "entry_id": "C01042",
+    "name": "N-Acetyl-L-aspartate",
+    "names": [
+      "N-Acetyl-L-aspartate",
+      "N-Acetyl-L-aspartic acid"
+    ],
+    "formula": "C6H9NO5",
+    "exact_mass": 175.0481,
+    "mol_weight": 175.1394,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00487",
+      "R00488",
+      "R10678",
+      "R10679",
+      "R10687"
+    ],
+    "pathways": {
+      "map00250": "Alanine, aspartate and glutamate metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "2.3.1.17",
+      "3.4.17.21",
+      "3.5.1.15",
+      "6.3.2.41",
+      "6.3.2.42"
+    ],
+    "dblinks": {
+      "CAS": [
+        "997-55-7"
+      ],
+      "PubChem": [
+        "4284"
+      ],
+      "ChEBI": [
+        "16953",
+        "21547"
+      ],
+      "ChEMBL": [
+        "CHEMBL1162494"
+      ],
+      "3DMET": [
+        "B00227"
+      ],
+      "NIKKAJI": [
+        "J62.824G"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   O6a O    17.2200  -18.9000\n            2   C6a C    18.4324  -19.6000\n            3   C1b C    19.6449  -18.9000\n            4   C1c C    20.8573  -19.6000\n            5   C6a C    22.0697  -18.9000\n            6   O6a O    23.2822  -19.6000\n            7   O6a O    22.0697  -17.5001\n            8   O6a O    18.4324  -20.9998\n            9   N1b N    20.8573  -21.0000\n            10  C5a C    22.0724  -21.7000\n            11  C1a C    23.2849  -21.0000\n            12  O5a O    22.0731  -23.0998\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     5   7 2\n            7     2   8 2\n            8     4   9 1 #Up\n            9     9  10 1\n            10   10  11 1\n            11   10  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

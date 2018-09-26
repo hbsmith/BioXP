@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11195",
+    "name": "4-hydroxy-3-methylbenzaldehyde:NADP+ oxidoreductase",
+    "definition": "4-Hydroxy-3-methylbenzaldehyde + NADP+ + H2O <=> 4-Hydroxy-3-methylbenzoate + NADPH + H+",
+    "equation": "C21166 + C00006 + C00001 <=> C21167 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.96"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K20199": "4-hydroxybenzaldehyde dehydrogenase (NADP+) [EC:1.2.1.96]"
+    }
+  }
+]

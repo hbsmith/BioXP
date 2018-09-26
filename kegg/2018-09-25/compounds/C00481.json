@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C00481",
+    "name": "Pyrazole",
+    "names": [
+      "Pyrazole",
+      "1,2-Diazole"
+    ],
+    "formula": "C3H4N2",
+    "exact_mass": 68.0374,
+    "mol_weight": 68.0773,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02378",
+      "R03134"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.5.1.51",
+      "4.2.1.50"
+    ],
+    "dblinks": {
+      "CAS": [
+        "288-13-1"
+      ],
+      "PubChem": [
+        "3764"
+      ],
+      "ChEBI": [
+        "17241"
+      ],
+      "ChEMBL": [
+        "CHEMBL15967"
+      ],
+      "PDB-CCD": [
+        "PZO"
+      ],
+      "NIKKAJI": [
+        "J5.452F"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C8x C    10.1500  -16.1000\n            2   C8x C    11.5500  -16.1000\n            3   N5x N    11.9826  -14.7685\n            4   N4x N    10.8500  -13.9456\n            5   C8x C     9.7174  -14.7685\nBOND        5\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     1   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

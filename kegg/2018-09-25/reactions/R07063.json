@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07063",
+    "name": "Linoleoyl-CoA,hydrogen-donor:oxygen oxidoreductase",
+    "definition": "Linoleate + Reduced acceptor + Oxygen <=> (6Z,9Z,12Z)-Octadecatrienoic acid + Acceptor + 2 H2O",
+    "equation": "C01595 + C00030 + C00007 <=> C06426 + C00028 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.3"
+    ],
+    "pathways": {
+      "rn00591": "Linoleic acid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00508": "linoleoyl-CoA desaturase [EC:1.14.19.3]"
+    }
+  }
+]

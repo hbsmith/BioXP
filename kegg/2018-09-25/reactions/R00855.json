@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00855",
+    "name": "CDPglycerol phosphoglycerohydrolase",
+    "definition": "CDP-glycerol + H2O <=> CMP + sn-Glycerol 3-phosphate",
+    "equation": "C00513 + C00001 <=> C00055 + C00093",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.16"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism"
+    },
+    "orthologs": {
+      "K01517": "manganese-dependent ADP-ribose/CDP-alcohol diphosphatase [EC:3.6.1.13 3.6.1.16 3.6.1.53]"
+    }
+  }
+]

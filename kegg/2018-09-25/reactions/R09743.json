@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09743",
+    "name": "(3S)-2,3-epoxy-2,3-dihydrosqualene hydro-lyase (lupan-3beta,20-diol forming)",
+    "definition": "Lupan-3beta,20-diol <=> (S)-2,3-Epoxysqualene + H2O",
+    "equation": "C19863 <=> C01054 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.128"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis"
+    },
+    "orthologs": {
+      "K15816": "lupeol synthase 1 [EC:4.2.1.128 5.4.99.41]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10486",
+    "name": "maltose 6'-phosphate phosphohydrolase",
+    "definition": "Maltose 6'-phosphate + H2O <=> Maltose + Orthophosphate",
+    "equation": "C02995 + C00001 <=> C00208 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.3.90"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism"
+    },
+    "orthologs": {
+      "K06896": "maltose 6'-phosphate phosphatase [EC:3.1.3.90]"
+    }
+  }
+]

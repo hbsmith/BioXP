@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C14175",
+    "name": "Diethyl phthalate",
+    "names": [
+      "Diethyl phthalate",
+      "Diethyl 1,2-benzenedicarboxylate"
+    ],
+    "formula": "C12H14O4",
+    "exact_mass": 222.0892,
+    "mol_weight": 222.2372,
+    "remark": "Same as: D03804",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "84-66-2"
+      ],
+      "PubChem": [
+        "7846987"
+      ],
+      "ChEBI": [
+        "34698"
+      ],
+      "ChEMBL": [
+        "CHEMBL388558"
+      ],
+      "KNApSAcK": [
+        "C00042472"
+      ],
+      "NIKKAJI": [
+        "J3.880F"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8x C    18.1618  -16.2281\n            2   C8x C    18.1629  -17.6183\n            3   C8x C    19.3650  -15.5321\n            4   C8x C    19.3673  -18.3125\n            5   C8y C    20.5695  -16.2261\n            6   C8y C    20.5707  -17.6163\n            7   C7a C    21.7729  -15.5302\n            8   C7a C    21.7752  -18.3104\n            9   O7a O    22.9773  -16.2243\n            10  O7a O    22.9784  -17.6144\n            11  C1b C    24.1701  -15.5340\n            12  C1a C    25.3852  -16.2343\n            13  C1b C    24.1516  -18.2902\n            14  C1a C    25.3419  -17.6014\n            15  O6a O    21.7718  -14.1154\n            16  O6a O    21.7761  -19.8845\nBOND        16\n            1     1   2 2\n            2     1   3 1\n            3     2   4 1\n            4     3   5 2\n            5     4   6 2\n            6     5   6 1\n            7     5   7 1\n            8     6   8 1\n            9     7   9 1\n            10    8  10 1\n            11    9  11 1\n            12   11  12 1\n            13   10  13 1\n            14   13  14 1\n            15    7  15 2\n            16    8  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

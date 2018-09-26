@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00907",
+    "name": "L-Alanine:3-oxopropanoate aminotransferase",
+    "definition": "L-Alanine + 3-Oxopropanoate <=> Pyruvate + beta-Alanine",
+    "equation": "C00041 + C00222 <=> C00022 + C00099",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.18"
+    ],
+    "pathways": {
+      "rn00410": "beta-Alanine metabolism",
+      "rn00640": "Propanoate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00822": "beta-alanine--pyruvate transaminase [EC:2.6.1.18]"
+    }
+  }
+]

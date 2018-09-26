@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11464",
+    "name": "",
+    "definition": "dTDP-4-oxo-5-C-methyl-L-rhamnose <=> dTDP-4-amino-4,6-dideoxy-5-C-methyl-D-allose",
+    "equation": "C11460 <=> C11461",
+    "comment": "unclear reaction incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00523": "Polyketide sugar unit biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21326": "aminotransferase"
+    }
+  }
+]

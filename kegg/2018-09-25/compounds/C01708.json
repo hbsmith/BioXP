@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C01708",
+    "name": "Hemoglobin",
+    "names": [
+      "Hemoglobin"
+    ],
+    "formula": "",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R03682",
+      "R03684"
+    ],
+    "pathways": {
+      "map00860": "Porphyrin and chlorophyll metabolism",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "9008-02-0"
+      ],
+      "PubChem": [
+        "4846"
+      ],
+      "ChEBI": [
+        "5656"
+      ],
+      "NIKKAJI": [
+        "J209.188G"
+      ]
+    },
+    "kcf": "",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

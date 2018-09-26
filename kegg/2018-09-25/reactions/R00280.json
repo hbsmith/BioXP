@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00280",
+    "name": "Nitric-oxide:acceptor oxidoreductase",
+    "definition": "Acceptor + 2 Nitric oxide + 2 H2O <=> Reduced acceptor + 2 Nitrite",
+    "equation": "C00028 + 2 C00533 + 2 C00001 <=> C00030 + 2 C00088",
+    "comment": "cytochrome c serves as the acceptor (see R00783)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.2.1"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

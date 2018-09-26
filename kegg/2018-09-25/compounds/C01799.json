@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C01799",
+    "name": "D-Norvaline",
+    "names": [
+      "D-Norvaline",
+      "D-2-Aminovaleric acid",
+      "D-2-Aminopentanoic acid"
+    ],
+    "formula": "C5H11NO2",
+    "exact_mass": 117.079,
+    "mol_weight": 117.1463,
+    "remark": "",
+    "comment": "L-Norvaline [CPD:C01826]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "2013-12-9"
+      ],
+      "PubChem": [
+        "4925"
+      ],
+      "ChEBI": [
+        "28804"
+      ],
+      "ChEMBL": [
+        "CHEMBL1916081"
+      ],
+      "NIKKAJI": [
+        "J9.206A"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1a C    21.5600  -25.3400\n            2   C1b C    22.7724  -26.0400\n            3   C1b C    23.9849  -25.3400\n            4   C1c C    25.1973  -26.0400\n            5   C6a C    26.4097  -25.3400\n            6   O6a O    27.6222  -26.0400\n            7   O6a O    26.4097  -23.9401\n            8   N1a N    25.1973  -27.4400\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     5   7 2\n            7     4   8 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

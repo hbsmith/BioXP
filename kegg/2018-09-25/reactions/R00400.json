@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00400",
+    "name": "L-alanine:oxaloacetate aminotransferase",
+    "definition": "L-Alanine + Oxaloacetate <=> Pyruvate + L-Aspartate",
+    "equation": "C00041 + C00036 <=> C00022 + C00049",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.12"
+    ],
+    "pathways": {
+      "rn00250": "Alanine, aspartate and glutamate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

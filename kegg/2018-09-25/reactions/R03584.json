@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03584",
+    "name": "L-glycol:NAD+ oxidoreductase",
+    "definition": "L-Glycol + NAD+ <=> 2-Hydroxycarbonyl compound + NADH + H+",
+    "equation": "C01506 + C00003 <=> C03667 + C00004 + C00080",
+    "comment": "NADP+ (see R03585)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.185"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

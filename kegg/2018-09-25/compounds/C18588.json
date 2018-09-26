@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C18588",
+    "name": "Sodium fluoroacetate",
+    "names": [
+      "Sodium fluoroacetate",
+      "Sodium monofluoroacetate"
+    ],
+    "formula": "C2H2FO2. Na",
+    "exact_mass": 99.9937,
+    "mol_weight": 100.0243,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "62-74-8"
+      ],
+      "PubChem": [
+        "124489262"
+      ],
+      "ChEBI": [
+        "38699"
+      ],
+      "ChEMBL": [
+        "CHEMBL369611"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   X   F    11.2000  -16.3800\n            2   C1b C    12.4124  -17.0800\n            3   C6a C    13.6249  -16.3800\n            4   O6a O    14.8373  -17.0800 #-\n            5   O6a O    13.6249  -14.9802\n            6   Z   Na   17.3600  -17.0100 #+\nBOND        4\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

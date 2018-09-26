@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00860",
+    "name": "AMP,sulfite:acceptor oxidoreductase (adenosine-5'-phosphosulfate-forming)",
+    "definition": "Sulfite + Acceptor + AMP <=> Adenylyl sulfate + Reduced acceptor",
+    "equation": "C00094 + C00028 + C00020 <=> C00224 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.99.2"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00394": "adenylylsulfate reductase, subunit A [EC:1.8.99.2]",
+      "K00395": "adenylylsulfate reductase, subunit B [EC:1.8.99.2]"
+    }
+  }
+]

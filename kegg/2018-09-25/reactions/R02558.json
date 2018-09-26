@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R02558",
+    "name": "(R)-Prunasin beta-D-glucohydrolase",
+    "definition": "Prunasin + H2O <=> Mandelonitrile + D-Glucose",
+    "equation": "C00844 + C00001 <=> C00561 + C00031",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.21",
+      "3.2.1.118"
+    ],
+    "pathways": {
+      "rn00460": "Cyanoamino acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K01188": "beta-glucosidase [EC:3.2.1.21]",
+      "K05349": "beta-glucosidase [EC:3.2.1.21]",
+      "K05350": "beta-glucosidase [EC:3.2.1.21]",
+      "K13032": "prunasin beta-glucosidase [EC:3.2.1.118]"
+    }
+  }
+]

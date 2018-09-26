@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10947",
+    "name": "3-oxopropionyl-CoA hydrolase",
+    "definition": "3-Oxopropionyl-CoA + H2O <=> 3-Oxopropanoate + CoA",
+    "equation": "C05989 + C00001 <=> C00222 + C00010",
+    "comment": "the third step of four-step reaction (see R10936, R10945+R10946+R10947+R06973)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.155"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

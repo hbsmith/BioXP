@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06408",
+    "name": "trans-2-Methyl-5-isopropylhexa-2,5-dienal dehydrogenase",
+    "definition": "trans-2-Methyl-5-isopropylhexa-2,5-dienal + NAD+ + H2O <=> trans-2-Methyl-5-isopropylhexa-2,5-dienoic acid + NADH + H+",
+    "equation": "C11942 + C00003 + C00001 <=> C11943 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.-"
+    ],
+    "pathways": {
+      "rn00903": "Limonene and pinene degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

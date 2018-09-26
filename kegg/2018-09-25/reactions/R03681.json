@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03681",
+    "name": "UDP-alpha-D-glucose:glycogenin alpha-D-glucosyltransferase",
+    "definition": "UDP-glucose + Glycogenin <=> UDP + alpha-D-Glucosylglycogenin",
+    "equation": "C00029 + C01702 <=> C00015 + C02687",
+    "comment": "Glycogenin is the enzyme itself.",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.186"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00750": "glycogenin [EC:2.4.1.186]"
+    }
+  }
+]

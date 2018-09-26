@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C19511",
+    "name": "Potassium bis(2-hydroxyethyl)dithiocarbamate",
+    "names": [
+      "Potassium bis(2-hydroxyethyl)dithiocarbamate",
+      "Bis(2-hydroxyethyl)dithiocarbamic acid, potassium salt"
+    ],
+    "formula": "C5H10NO2S2. K",
+    "exact_mass": 218.979,
+    "mol_weight": 219.3667,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "23746-34-1"
+      ],
+      "PubChem": [
+        "124490183"
+      ],
+      "ChEBI": [
+        "82523"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   O1a O    10.2200  -17.7800\n            2   C1b C    11.4324  -17.0800\n            3   C1b C    12.6449  -17.7800\n            4   N1c N    13.8573  -17.0800\n            5   C1b C    15.0697  -17.7800\n            6   C1b C    16.2822  -17.0800\n            7   O1a O    17.4946  -17.7800\n            8   C2c C    13.8573  -15.6800\n            9   S1a S    15.0718  -14.9788 #-\n            10  S0  S    12.6469  -14.9812\n            11  Z   K    16.5900  -14.7700 #+\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     4   8 1\n            8     8   9 1\n            9     8  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

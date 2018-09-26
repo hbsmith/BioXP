@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00753",
+    "name": "(S)-lactate acetaldehyde-lyase (formate-forming)",
+    "definition": "(S)-Lactate <=> Formate + Acetaldehyde",
+    "equation": "C00186 <=> C00058 + C00084",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.2.36"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

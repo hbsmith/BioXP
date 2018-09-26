@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08865",
+    "name": "",
+    "definition": "Hydroxymethylphosphonate <=> Formylphosphonate",
+    "equation": "C06455 <=> C17943",
+    "comment": "putative D-3-phosphoglycerate dehydrogenase incomplete reaction (unidentified acceptor, possibly NAD+[CPD:C00003])",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12906": "D-3-phosphoglycerate dehydrogenase"
+    }
+  }
+]

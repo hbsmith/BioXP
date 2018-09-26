@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01242",
+    "name": "3'-Phosphoadenylylsulfate:phenol sulfotransferase",
+    "definition": "3'-Phosphoadenylyl sulfate + Phenol <=> Adenosine 3',5'-bisphosphate + Aryl sulfate",
+    "equation": "C00053 + C15584 <=> C00054 + C00850",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.2.1"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K01014": "aryl sulfotransferase [EC:2.8.2.1]"
+    }
+  }
+]

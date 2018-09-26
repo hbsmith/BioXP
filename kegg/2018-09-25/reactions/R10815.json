@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10815",
+    "name": "5'-(N7-methylguanosine 5'-triphospho)-[mRNA] N7-methylguanosine-5'-diphosphate phosphohydrolase",
+    "definition": "m7G(5')pppR-mRNA + H2O <=> N7-Methylguanosine 5'-diphosphate + 5'-Phospho-[mRNA]",
+    "equation": "C02339 + C00001 <=> C20183 + C20863",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.62"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K12613": "mRNA-decapping enzyme subunit 2 [EC:3.6.1.62]",
+      "K16855": "U8 snoRNA-decapping enzyme [EC:3.6.1.62 3.6.1.64]"
+    }
+  }
+]

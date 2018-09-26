@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04449",
+    "name": "acetate:holo-[citrate-(pro-3S)-lyase] ligase (AMP-forming)",
+    "definition": "ATP + Acetate + Holo-[citrate (pro-3S)-lyase] <=> AMP + Diphosphate + Acetyl-[citrate (pro-3S)-lyase]",
+    "equation": "C00002 + C00033 + C04298 <=> C00020 + C00013 + C04334",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.22"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K01910": "[citrate (pro-3S)-lyase] ligase [EC:6.2.1.22]"
+    }
+  }
+]

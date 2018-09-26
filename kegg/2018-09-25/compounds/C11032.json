@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C11032",
+    "name": "Trichlopyr",
+    "names": [
+      "Trichlopyr",
+      "Triclopyr"
+    ],
+    "formula": "C7H4Cl3NO3",
+    "exact_mass": 254.9257,
+    "mol_weight": 256.4706,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "55335-06-3"
+      ],
+      "PubChem": [
+        "13215"
+      ],
+      "ChEBI": [
+        "9682"
+      ],
+      "ChEMBL": [
+        "CHEMBL1865925"
+      ],
+      "PDB-CCD": [
+        "SBK"
+      ],
+      "NIKKAJI": [
+        "J1.901A"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    25.7306  -24.9973\n            2   C8y C    25.7306  -26.3991\n            3   C8x C    26.9484  -27.0964\n            4   C8y C    28.1520  -26.3991\n            5   C8y C    28.1520  -24.9973\n            6   N5x N    26.9484  -24.2931\n            7   O2a O    29.3579  -24.3000\n            8   C1b C    30.5695  -25.0044\n            9   C6a C    31.7810  -24.3071\n            10  O6a O    32.9924  -25.0115\n            11  O6a O    31.7841  -22.9054\n            12  X   Cl   29.3672  -27.0955\n            13  X   Cl   24.5162  -27.0971\n            14  X   Cl   24.5162  -24.2924\nBOND        14\n            1     5   7 1\n            2     1   2 2\n            3     7   8 1\n            4     2   3 1\n            5     8   9 1\n            6     3   4 2\n            7     9  10 1\n            8     4   5 1\n            9     9  11 2\n            10    5   6 2\n            11    4  12 1\n            12    6   1 1\n            13    2  13 1\n            14    1  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

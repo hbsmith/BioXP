@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C02572",
+    "name": "5-O-Feruloylquinic acid",
+    "names": [
+      "5-O-Feruloylquinic acid",
+      "O-Feruloylquinate",
+      "3-O-Feruloylquinic acid"
+    ],
+    "formula": "C17H20O9",
+    "exact_mass": 368.1107,
+    "mol_weight": 368.3353,
+    "remark": "",
+    "comment": "3-O-Feruloylquinic acid is based on old nomenclature system of numbering.",
+    "reactions": [
+      "R02195"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.3.1.99"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5568"
+      ],
+      "ChEBI": [
+        "18013"
+      ],
+      "ChEMBL": [
+        "CHEMBL3526659"
+      ],
+      "NIKKAJI": [
+        "J2.738.985F"
+      ]
+    },
+    "kcf": "ATOM        26\n            1   C8y C    25.1268  -17.5934\n            2   C8x C    25.1268  -18.9998\n            3   C8x C    26.3449  -19.7031\n            4   C8y C    27.5630  -18.9998\n            5   C8y C    27.5630  -17.5934\n            6   C8x C    26.3449  -16.8902\n            7   O2a O    28.7997  -16.8792\n            8   O1a O    28.7997  -19.7142\n            9   C2b C    23.9088  -16.8902\n            10  C2b C    22.7078  -17.5838\n            11  C7a C    21.5149  -16.8951\n            12  O7a O    20.3182  -17.5863\n            13  O6a O    21.5147  -15.6245\n            14  C1y C    19.1232  -16.8964\n            15  C1x C    19.1230  -15.4839\n            16  C1z C    17.9049  -14.7809\n            17  C1x C    16.6870  -15.4842\n            18  C1y C    16.6871  -16.8968\n            19  C1y C    17.9052  -17.5998\n            20  O1a O    15.4727  -17.5980\n            21  O1a O    17.9053  -18.9996\n            22  C6a C    19.1230  -14.0776\n            23  O1a O    16.6869  -14.0776\n            24  O6a O    19.1230  -12.6711\n            25  O6a O    20.3605  -14.7924\n            26  C1a C    30.0121  -17.5792\nBOND        27\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     4   8 1\n            9     1   9 1\n            10    9  10 2\n            11   10  11 1\n            12   11  12 1\n            13   11  13 2\n            14   14  12 1 #Up\n            15   14  15 1\n            16   15  16 1\n            17   16  17 1\n            18   17  18 1\n            19   18  19 1\n            20   14  19 1\n            21   18  20 1 #Down\n            22   19  21 1 #Down\n            23   16  22 1 #Up\n            24   16  23 1 #Down\n            25   22  24 2\n            26   22  25 1\n            27    7  26 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

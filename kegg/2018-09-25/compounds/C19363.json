@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19363",
+    "name": "3-Chloro-2-methylpropene",
+    "names": [
+      "3-Chloro-2-methylpropene"
+    ],
+    "formula": "C4H7Cl",
+    "exact_mass": 90.0236,
+    "mol_weight": 90.5514,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "563-47-3"
+      ],
+      "PubChem": [
+        "124490035"
+      ],
+      "ChEBI": [
+        "82419"
+      ],
+      "ChEMBL": [
+        "CHEMBL157368"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C1a C    11.4800  -15.9600\n            2   C2c C    12.6924  -15.2600\n            3   C1b C    13.9049  -15.9600\n            4   X   Cl   15.1173  -15.2600\n            5   C2a C    12.6924  -13.8600\nBOND        4\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     2   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

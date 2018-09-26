@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C05600",
+    "name": "2-Hydroxyhepta-2,4-dienedioate",
+    "names": [
+      "2-Hydroxyhepta-2,4-dienedioate",
+      "2-Hydroxyhepta-2,4-diene-1,7-dioate"
+    ],
+    "formula": "C7H8O5",
+    "exact_mass": 172.0372,
+    "mol_weight": 172.1354,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04134",
+      "R04380",
+      "R04895",
+      "R06897"
+    ],
+    "pathways": {
+      "map00350": "Tyrosine metabolism",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "4.1.1.68",
+      "4.2.1.-",
+      "5.3.3.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7923"
+      ],
+      "ChEBI": [
+        "1162"
+      ],
+      "3DMET": [
+        "B00804"
+      ],
+      "NIKKAJI": [
+        "J2.756.600F"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C2b C    25.7215  -23.5438\n            2   C2b C    24.4996  -22.8422\n            3   C2c C    26.9374  -22.8365\n            4   C2b C    23.2894  -23.5497\n            5   C6a C    28.1534  -23.5321\n            6   O1a O    26.9374  -21.4391\n            7   C1b C    22.0792  -22.8539\n            8   O6a O    29.3578  -22.8305\n            9   O6a O    28.1534  -24.9294\n            10  C6a C    20.8691  -23.5555\n            11  O6a O    19.6530  -22.8599\n            12  O6a O    20.8748  -24.9528\nBOND        11\n            1     1   2 1\n            2     1   3 2\n            3     2   4 2\n            4     3   5 1\n            5     3   6 1\n            6     4   7 1\n            7     5   8 1\n            8     5   9 2\n            9     7  10 1\n            10   10  11 1\n            11   10  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

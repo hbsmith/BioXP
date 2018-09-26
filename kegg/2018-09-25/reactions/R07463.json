@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07463",
+    "name": "glycine:oxygen oxidoreductase",
+    "definition": "Glycine + Oxygen <=> Iminoglycine + Hydrogen peroxide",
+    "equation": "C00037 + C00007 <=> C15809 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.19"
+    ],
+    "pathways": {
+      "rn00730": "Thiamine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03153": "glycine oxidase [EC:1.4.3.19]"
+    }
+  }
+]

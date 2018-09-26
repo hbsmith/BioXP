@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08629",
+    "name": "3-(4'-methylthio)butylmalate:NAD+ oxidoreductase (decarboxylating)",
+    "definition": "3-(4'-Methylthio)butylmalic acid + NAD+ <=> 2-Oxo-7-methylthioheptanoic acid + CO2 + NADH + H+",
+    "equation": "C17219 + C00003 <=> C17220 + C00011 + C00004 + C00080",
+    "comment": "two-step reaction (similar to R10052, R04426+R01652)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00966": "Glucosinolate biosynthesis",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+      "K21360": "3-isopropylmalate/methylthioalkylmalate dehydrogenase [EC:1.1.1.85 1.1.1.-]"
+    }
+  }
+]

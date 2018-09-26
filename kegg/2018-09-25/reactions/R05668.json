@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05668",
+    "name": "",
+    "definition": "ATP + NAD+ <=> 3'-Keto-3'-deoxy-ATP + NADH + H+",
+    "equation": "C00002 + C00003 <=> C07024 + C00004 + C00080",
+    "comment": "Pur10, putative oxidoreductase Ref.1. The Journal of Biological chemistry; vol.271, No.3, Jan 19, pp.1579-1590, 1996",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.-.-.-"
+    ],
+    "pathways": {
+      "rn00231": "Puromycin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12628": "puromycin biosynthesis protein Pur10 [EC:1.-.-.-]"
+    }
+  }
+]

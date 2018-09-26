@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11186",
+    "name": "ditrans,octacis-undecaprenyl-diphosphate:KDO2-lipid-A phosphotransferase",
+    "definition": "di-trans,poly-cis-Undecaprenyl diphosphate + Di[3-deoxy-D-manno-octulosonyl]-lipid A <=> di-trans,poly-cis-Undecaprenyl phosphate + KDO2-lipid A 1-diphosphate",
+    "equation": "C04574 + C06026 <=> C17556 + C21157",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.29"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K19803": "Kdo2-lipid A phosphotransferase [EC:2.7.4.29]"
+    }
+  }
+]

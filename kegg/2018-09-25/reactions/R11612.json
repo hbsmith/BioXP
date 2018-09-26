@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11612",
+    "name": "CDP-glycerol:4-O-[(2R)-1-glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol glycerophosphotransferase",
+    "definition": "CDP-glycerol + 4-O-[(2R)-1-Glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol <=> CMP + 4-O-Di[(2R)-1-glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol",
+    "equation": "C00513 + C21464 <=> C00055 + C21502",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.8.45"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K21591": "teichoic acid glycerol-phosphate transferase [EC:2.7.8.45]"
+    }
+  }
+]

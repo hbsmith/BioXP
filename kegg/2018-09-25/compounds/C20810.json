@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "C20810",
+    "name": "(S)-3-Chloro-beta-tyrosyl-[pcp]",
+    "names": [
+      "(S)-3-Chloro-beta-tyrosyl-[pcp]",
+      "(3S)-3-Amino-3-(3-chloro-4-hydroxyphenyl)propanoyl-[peptidyl-carrier protein]"
+    ],
+    "formula": "C9H9ClNO2SR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = PCP (peptidyl-carrier protein)",
+    "reactions": [
+      "R10731",
+      "R11368"
+    ],
+    "pathways": {
+      "map01059": "Biosynthesis of enediyne antibiotics",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.14.14.15",
+      "1.14.19.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741277"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8x C    17.2025  -10.1868\n            2   C8y C    17.2025  -11.5908\n            3   C8y C    18.4184  -12.2928\n            4   C8x C    19.6344  -11.5908\n            5   C8y C    19.6344  -10.1868\n            6   C8x C    18.4184   -9.4848\n            7   O1a O    15.9866  -12.2928\n            8   C1c C    20.8690   -9.4738\n            9   C1b C    22.0777  -10.1715\n            10  C5a C    23.2634   -9.4867\n            11  N1a N    20.8687   -8.0809\n            12  S2a S    24.4608  -10.1780\n            13  O5a O    23.2634   -8.0810\n            14  X   Cl   18.4185  -13.7200\n            15  R   R    25.8608  -10.1780\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     2   7 1\n            8     5   8 1\n            9     8   9 1\n            10    9  10 1\n            11    8  11 1 #Up\n            12   10  12 1\n            13   10  13 2\n            14    3  14 1\n            15   12  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

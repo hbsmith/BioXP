@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10762",
+    "name": "all-trans-pentaprenyl-diphosphate diphosphate-lyase (cyclizing, ophiobolin-F-forming)",
+    "definition": "all-trans-Pentaprenyl diphosphate + H2O <=> Ophiobolin F + Diphosphate",
+    "equation": "C04217 + C00001 <=> C16818 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.145"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K18685": "ophiobolin F synthase [EC:4.2.3.145]"
+    }
+  }
+]

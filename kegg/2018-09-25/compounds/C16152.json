@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C16152",
+    "name": "Blue pigment",
+    "names": [
+      "Blue pigment",
+      "Nicotine blue",
+      "(E)-2,2',5,5'-Tetrahydroxy-6H,6'H-[3,3'-bipyridinylidene]-6,6'-dione"
+    ],
+    "formula": "C10H6N2O6",
+    "exact_mass": 250.0226,
+    "mol_weight": 250.1644,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07948",
+      "R10131",
+      "R10132"
+    ],
+    "pathways": {
+      "map00760": "Nicotinate and nicotinamide metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.1.328"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205462"
+      ],
+      "ChEBI": [
+        "80355"
+      ],
+      "NIKKAJI": [
+        "J2.486.577K"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   N2x N    15.8547  -14.9385\n            2   C5x C    15.1537  -16.1525\n            3   C2y C    15.8547  -17.3667\n            4   C2x C    17.2566  -17.3667\n            5   C2y C    17.9576  -16.1525\n            6   C2y C    17.2566  -14.9385\n            7   C2y C    19.3593  -16.1525\n            8   C2y C    20.0508  -17.3498\n            9   N2x N    21.4527  -17.3496\n            10  C5x C    22.1535  -16.1354\n            11  C2y C    21.4621  -14.9383\n            12  C2x C    20.0602  -14.9384\n            13  O5x O    13.7520  -16.1525\n            14  O1a O    17.9576  -13.7244\n            15  O1a O    15.1427  -18.5995\n            16  O1a O    19.3644  -18.5386\n            17  O5x O    23.5654  -16.1353\n            18  O1a O    22.1629  -13.7241\nBOND        19\n            1     1   2 1\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 1\n            6     1   6 2\n            7     5   7 2\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11   10  11 1\n            12   11  12 2\n            13    7  12 1\n            14    2  13 2\n            15    6  14 1\n            16    3  15 1\n            17    8  16 1\n            18   10  17 2\n            19   11  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C14040",
+    "name": "1-Nitronaphthalene",
+    "names": [
+      "1-Nitronaphthalene"
+    ],
+    "formula": "C10H7NO2",
+    "exact_mass": 173.0477,
+    "mol_weight": 173.1681,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07021",
+      "R07022",
+      "R07028"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "enzymes": [
+      "1.14.13.-",
+      "1.14.14.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "86-57-7"
+      ],
+      "PubChem": [
+        "7846934"
+      ],
+      "ChEBI": [
+        "34104"
+      ],
+      "ChEMBL": [
+        "CHEMBL165373"
+      ],
+      "NIKKAJI": [
+        "J3.536J"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    26.4132  -17.2899\n            2   C8x C    26.4132  -18.6899\n            3   C8x C    27.6257  -19.3899\n            4   C8y C    28.8381  -18.6899\n            5   C8y C    28.8381  -17.2899\n            6   C8y C    27.6257  -16.5899\n            7   C8x C    30.0505  -19.3899\n            8   C8x C    31.2630  -18.6899\n            9   C8x C    31.2630  -17.2899\n            10  C8x C    30.0505  -16.5899\n            11  N2b N    27.6257  -15.1899 #+\n            12  O3a O    29.1888  -14.2095 #-\n            13  O3a O    26.4139  -14.4903\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12    6  11 1\n            13   11  12 1\n            14   11  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

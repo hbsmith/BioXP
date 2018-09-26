@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R03824",
+    "name": "carotenoid beta-end group lyase (decyclizing)",
+    "definition": "gamma-Carotene <=> beta-Carotene",
+    "equation": "C05435 <=> C02094",
+    "comment": "lycopene cyclase (see R05341)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.19"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K06443": "lycopene beta-cyclase [EC:5.5.1.19]",
+      "K14605": "lycopene cyclase CruA [EC:5.5.1.19]",
+      "K14606": "lycopene cyclase CruP [EC:5.5.1.19]",
+      "K17841": "15-cis-phytoene synthase / lycopene beta-cyclase [EC:2.5.1.32 5.5.1.19]"
+    }
+  }
+]

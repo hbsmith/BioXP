@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09078",
+    "name": "(S)-acetoin:NAD+ oxidoreductase",
+    "definition": "Diacetyl + NADH + H+ <=> (S)-Acetoin + NAD+",
+    "equation": "C00741 + C00004 + C00080 <=> C01769 + C00003",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.304"
+    ],
+    "pathways": {
+      "rn00650": "Butanoate metabolism"
+    },
+    "orthologs": {
+      "K03366": "meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.- 1.1.1.76 1.1.1.304]",
+      "K18009": "meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.- 1.1.1.76 1.1.1.304]"
+    }
+  }
+]

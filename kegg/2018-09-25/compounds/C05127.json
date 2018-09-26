@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C05127",
+    "name": "N-Methylhistamine",
+    "names": [
+      "N-Methylhistamine",
+      "1-Methylhistamine",
+      "1-Methyl-4-(2-aminoethyl)imidazole",
+      "Ntau-Methylhistamine"
+    ],
+    "formula": "C6H11N3",
+    "exact_mass": 125.0953,
+    "mol_weight": 125.1716,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02155",
+      "R04674"
+    ],
+    "pathways": {
+      "map00340": "Histidine metabolism"
+    },
+    "enzymes": [
+      "1.4.3.4",
+      "1.4.3.22",
+      "2.1.1.8"
+    ],
+    "dblinks": {
+      "CAS": [
+        "501-75-7"
+      ],
+      "PubChem": [
+        "7548"
+      ],
+      "ChEBI": [
+        "29009"
+      ],
+      "ChEMBL": [
+        "CHEMBL507"
+      ],
+      "3DMET": [
+        "B00753"
+      ],
+      "NIKKAJI": [
+        "J86.801I"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   N4y N    14.8999  -18.1815\n            2   C8x C    15.3116  -19.5196\n            3   C8y C    16.7114  -19.5415\n            4   N5x N    17.1648  -18.2170\n            5   C8x C    16.0452  -17.3764\n            6   C1a C    13.5901  -17.7333\n            7   C1b C    17.9424  -20.2300\n            8   C1b C    19.1549  -19.5300\n            9   N1a N    20.3673  -20.2300\nBOND        9\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     1   5 1\n            6     1   6 1\n            7     3   7 1\n            8     7   8 1\n            9     8   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

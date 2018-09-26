@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09266",
+    "name": "",
+    "definition": "7,9,12-Decaketide intermediate 2 <=> 7,9,12-Decaketide intermediate 3 + 2 H2O",
+    "equation": "C18331 <=> C18332 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.-"
+    ],
+    "pathways": {
+      "rn01056": "Biosynthesis of type II polyketide backbone",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15884": "bifunctional aromatase (cyclase/dehydratase) [EC:4.2.1.-]"
+    }
+  }
+]

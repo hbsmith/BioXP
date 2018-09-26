@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02118",
+    "name": "UDPglucose:zeatin O-beta-D-glucosyltransferase",
+    "definition": "UDP-glucose + Zeatin <=> UDP + O-beta-D-Glucosylzeatin",
+    "equation": "C00029 + C00371 <=> C00015 + C03423",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.203"
+    ],
+    "pathways": {
+      "rn00908": "Zeatin biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13492": "zeatin O-glucosyltransferase [EC:2.4.1.203]"
+    }
+  }
+]

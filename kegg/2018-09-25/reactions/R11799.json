@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11799",
+    "name": "S-adenosyl-L-methionine:N-methylornithine lipid N-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + N-Methylornithine lipid <=> S-Adenosyl-L-homocysteine + N,N-Dimethylornithine lipid",
+    "equation": "C00019 + C21673 <=> C00021 + C21674",
+    "comment": "second step of three-step reaction (see R11797, R11798+R11799+R11800)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.344"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

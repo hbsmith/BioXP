@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03532",
+    "name": "donor:hydrogen-peroxide oxidoreductase",
+    "definition": "Reduced acceptor + Hydrogen peroxide <=> Acceptor + 2 H2O",
+    "equation": "C00030 + C00027 <=> C00028 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.11.1.7",
+      "1.11.1.21"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

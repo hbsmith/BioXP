@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10514",
+    "name": "acetyl-CoA:GDP-4-amino-4,6-dideoxy-alpha-D-mannose N-acetyltransferase",
+    "definition": "Acetyl-CoA + GDP-4-amino-4,6-dideoxy-alpha-D-mannose <=> CoA + GDP-4-acetamido-4,6-dideoxy-alpha-D-mannose",
+    "equation": "C00024 + C20638 <=> C00010 + C20672",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.227"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K17939": "GDP-perosamine N-acetyltransferase [EC:2.3.1.227]"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C02704",
+    "name": "Monomethyl sulfate",
+    "names": [
+      "Monomethyl sulfate",
+      "Methyl sulfate"
+    ],
+    "formula": "CH4O4S",
+    "exact_mass": 111.983,
+    "mol_weight": 112.1051,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01145"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.6.16"
+    ],
+    "dblinks": {
+      "CAS": [
+        "75-93-4"
+      ],
+      "PubChem": [
+        "5667"
+      ],
+      "ChEBI": [
+        "17760"
+      ],
+      "ChEMBL": [
+        "CHEMBL3219364"
+      ],
+      "3DMET": [
+        "B00486"
+      ],
+      "NIKKAJI": [
+        "J1.470B"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   S4a S    24.3997  -18.6505\n            2   O2a O    25.7263  -18.6505\n            3   O1d O    24.3997  -17.3239\n            4   O1d O    23.0793  -18.6505\n            5   O1d O    24.3997  -19.9707\n            6   C1a C    27.1013  -17.6403\nBOND        5\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     1   5 2\n            5     2   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

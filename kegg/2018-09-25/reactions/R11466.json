@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11466",
+    "name": "",
+    "definition": "dTDP-4-oxo-alpha-D-xylose <=> dTDP-3-methyl-4-oxo-alpha-D-ribopyranose",
+    "equation": "C21351 <=> C21362",
+    "comment": "unclear reaction incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn00523": "Polyketide sugar unit biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21336": "C-methyltransferase [EC:2.1.1.-]"
+    }
+  }
+]

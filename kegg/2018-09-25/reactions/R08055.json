@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08055",
+    "name": "isopentenyladenosine-5'-monophosphate,NADPH---hemoprotein reductase:oxygen oxidoreductase (trans-zeatin-riboside-monophosphate-forming)",
+    "definition": "N6-(delta2-Isopentenyl)-adenosine 5'-monophosphate + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> trans-Zeatin riboside monophosphate + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C04713 + C03024 + C00007 <=> C16430 + C03161 + C00001",
+    "comment": "CYP735A",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00908": "Zeatin biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K10717": "cytokinin trans-hydroxylase"
+    }
+  }
+]

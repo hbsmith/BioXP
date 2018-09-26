@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02480",
+    "name": "Cytochrome c apocytochrome-c-lyase",
+    "definition": "Cytochrome c <=> Apocytochrome c + Heme",
+    "equation": "C00524 <=> C02248 + C00032",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.17"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism"
+    },
+    "orthologs": {
+      "K01764": "cytochrome c heme-lyase [EC:4.4.1.17]"
+    }
+  }
+]

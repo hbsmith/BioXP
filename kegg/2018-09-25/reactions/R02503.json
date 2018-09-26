@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02503",
+    "name": "testosterone,NADPH---hemoprotein reductase:oxygen oxidoreductase (7alpha-hydroxylating)",
+    "definition": "Testosterone + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 7alpha-Hydroxytestosterone + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C00535 + C03024 + C00007 <=> C05291 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.1"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

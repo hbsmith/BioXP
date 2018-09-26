@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10249",
+    "name": "chavicol:NADP+ oxidoreductase",
+    "definition": "Coumaryl acetate + NADPH + H+ <=> Chavicol + NADP+ + Acetate",
+    "equation": "C20465 + C00005 + C00080 <=> C16930 + C00006 + C00033",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.318"
+    ],
+    "pathways": {
+      "rn00940": "Phenylpropanoid biosynthesis"
+    },
+    "orthologs": {
+      "K17055": "eugenol synthase [EC:1.1.1.318]"
+    }
+  }
+]

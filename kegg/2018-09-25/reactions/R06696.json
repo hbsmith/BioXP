@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06696",
+    "name": "",
+    "definition": "6-Deoxydihydrokalafungin + Oxygen <=> Dihydrokalafungin + H2O",
+    "equation": "C12435 + C00007 <=> C12436 + C00001",
+    "comment": "cofactor-independent monooxygenase, actVA-orf6",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K14632": "C-6 monooxygenase"
+    }
+  }
+]

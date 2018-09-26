@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R07381",
+    "name": "Plasmenylethanolamine ethanolamine phosphohydrolase",
+    "definition": "O-1-Alk-1-enyl-2-acyl-sn-glycero-3-phosphoethanolamine + H2O <=> 1-Alkenyl-2-acylglycerol + Ethanolamine phosphate",
+    "equation": "C04756 + C00001 <=> C03454 + C00346",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.4.3"
+    ],
+    "pathways": {
+      "rn00565": "Ether lipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01114": "phospholipase C [EC:3.1.4.3]",
+      "K16619": "phospholipase C / alpha-toxin [EC:3.1.4.3]"
+    }
+  }
+]

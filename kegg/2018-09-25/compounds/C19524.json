@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C19524",
+    "name": "Succinic anhydride",
+    "names": [
+      "Succinic anhydride",
+      "Dihydro-2,5-furandione"
+    ],
+    "formula": "C4H4O3",
+    "exact_mass": 100.016,
+    "mol_weight": 100.0728,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "108-30-5"
+      ],
+      "PubChem": [
+        "124490196"
+      ],
+      "ChEBI": [
+        "36595"
+      ],
+      "ChEMBL": [
+        "CHEMBL1370164"
+      ],
+      "KNApSAcK": [
+        "C00034296"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C7x C    17.9722  -18.4301\n            2   C1x C    18.4203  -19.7565\n            3   C1x C    19.8202  -19.7402\n            4   C7x C    20.2373  -18.4037\n            5   O7x O    19.0952  -17.5941\n            6   O6a O    21.5552  -17.9585\n            7   O6a O    16.6465  -18.0162\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     4   6 2\n            7     1   7 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

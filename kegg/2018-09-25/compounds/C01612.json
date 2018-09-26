@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C01612",
+    "name": "Secondary alcohol",
+    "names": [
+      "Secondary alcohol",
+      "R-CHOH-R'"
+    ],
+    "formula": "CH2OR2",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R00624",
+      "R02277",
+      "R03557",
+      "R09467",
+      "R09468",
+      "R10574"
+    ],
+    "pathways": {
+      "map00073": "Cutin, suberine and wax biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.1.1.1",
+      "1.1.1.184",
+      "1.1.3.18",
+      "1.1.98.5"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4764"
+      ],
+      "ChEBI": [
+        "35681"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   C1c C    24.8500  -17.8500\n            2   O1a O    24.8500  -16.4471\n            3   R   R    26.0600  -18.5514\n            4   R   R    23.6400  -18.5514\nBOND        3\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

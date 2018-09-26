@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R09722",
+    "name": "cyanophycinase",
+    "definition": "[L-Asp(4-L-Arg)]n+1(n) + H2O <=> [L-Asp(4-L-Arg)]n(n-1) + L-Asp(4-L-Arg)",
+    "equation": "C19713(n) + C00001 <=> C19709(n-1) + C19843",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.4.15.6"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K13282": "cyanophycinase [EC:3.4.15.6]"
+    }
+  }
+]

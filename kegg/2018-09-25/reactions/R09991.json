@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09991",
+    "name": "peptidyl-glutamate 4-carboxylase (menaquinone-epoxidizing)",
+    "definition": "2,3-Epoxymenaquinone + Gla protein + H2O <=> Menaquinol + Gla protein precursor + CO2 + Oxygen",
+    "equation": "C20265 + C06246 + C00001 <=> C05819 + C06247 + C00011 + C00007",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.90"
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K10106": "vitamin K-dependent gamma-carboxylase [EC:4.1.1.90]"
+    }
+  }
+]

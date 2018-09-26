@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R00816",
+    "name": "catechol:oxygen 2,3-oxidoreductase (decyclizing)",
+    "definition": "Catechol + Oxygen <=> 2-Hydroxymuconate semialdehyde",
+    "equation": "C00090 + C00007 <=> C00682",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.2"
+    ],
+    "pathways": {
+      "rn00362": "Benzoate degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K00446": "catechol 2,3-dioxygenase [EC:1.13.11.2]",
+      "K07104": "catechol 2,3-dioxygenase [EC:1.13.11.2]"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R01353",
+    "name": "ATP:propanoate phosphotransferase",
+    "definition": "ATP + Propanoate <=> ADP + Propanoyl phosphate",
+    "equation": "C00002 + C00163 <=> C00008 + C02876",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.2.1",
+      "2.7.2.15"
+    ],
+    "pathways": {
+      "rn00640": "Propanoate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00925": "acetate kinase [EC:2.7.2.1]",
+      "K00932": "propionate kinase [EC:2.7.2.15]",
+      "K19697": "propionate kinase [EC:2.7.2.15]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06398",
+    "name": "limonene 1,2-monooxygenase",
+    "definition": "d-Limonene + NADH + Oxygen + H+ <=> Limonene-1,2-epoxide + NAD+ + H2O",
+    "equation": "C06099 + C00004 + C00007 + C00080 <=> C07271 + C00003 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.107"
+    ],
+    "pathways": {
+      "rn00903": "Limonene and pinene degradation"
+    },
+    "orthologs": {
+      "K14733": "limonene 1,2-monooxygenase [EC:1.14.13.107]"
+    }
+  }
+]

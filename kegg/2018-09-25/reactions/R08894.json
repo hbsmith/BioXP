@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08894",
+    "name": "UDP-N-acetyl-alpha-D-glucosamine:2-deoxystreptamine N-acetyl-D-glucosaminyltransferase",
+    "definition": "UDP-N-acetyl-alpha-D-glucosamine + 2-Deoxystreptamine <=> UDP + 2'-N-Acetylparomamine",
+    "equation": "C00043 + C02627 <=> C00015 + C17582",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.283"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13550": "2-deoxystreptamine N-acetyl-D-glucosaminyltransferase / 2-deoxystreptamine glucosyltransferase [EC:2.4.1.283 2.4.1.284]"
+    }
+  }
+]

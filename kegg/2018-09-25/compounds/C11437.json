@@ -1,0 +1,64 @@
+[
+  {
+    "entry_id": "C11437",
+    "name": "1-Deoxy-D-xylulose 5-phosphate",
+    "names": [
+      "1-Deoxy-D-xylulose 5-phosphate"
+    ],
+    "formula": "C5H11O7P",
+    "exact_mass": 214.0242,
+    "mol_weight": 214.1104,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05636",
+      "R05688",
+      "R05838",
+      "R10247"
+    ],
+    "pathways": {
+      "map00730": "Thiamine metabolism",
+      "map00900": "Terpenoid backbone biosynthesis",
+      "map01060": "Biosynthesis of plant secondary metabolites",
+      "map01062": "Biosynthesis of terpenoids and steroids",
+      "map01066": "Biosynthesis of alkaloids derived from terpenoid and polyketide",
+      "map01070": "Biosynthesis of plant hormones",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.1.1.267",
+      "2.2.1.7",
+      "2.6.99.2",
+      "2.8.1.10"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "13609"
+      ],
+      "ChEBI": [
+        "16493"
+      ],
+      "KNApSAcK": [
+        "C00007292"
+      ],
+      "PDB-CCD": [
+        "DXP"
+      ],
+      "3DMET": [
+        "B04265"
+      ],
+      "NIKKAJI": [
+        "J866.535D"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C5a C    25.6173  -17.2806\n            2   C1c C    26.8291  -16.5831\n            3   C1c C    28.0337  -17.2806\n            4   C1b C    29.2453  -16.5831\n            5   O2b O    30.4570  -17.2806\n            6   C1a C    24.4015  -16.5845\n            7   O5a O    25.6190  -18.6823\n            8   O1a O    26.8291  -15.1812\n            9   O1a O    28.0337  -18.6823\n            10  P1b P    31.8589  -17.2806\n            11  O1c O    33.2607  -17.2806\n            12  O1c O    31.8518  -15.8786\n            13  O1c O    31.8518  -18.6823\nBOND        12\n            1     1   7 2\n            2     3   4 1\n            3     2   8 1 #Up\n            4     3   9 1 #Up\n            5     4   5 1\n            6     5  10 1\n            7     2   3 1\n            8    10  11 1\n            9     1   6 1\n            10   10  12 2\n            11    1   2 1\n            12   10  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

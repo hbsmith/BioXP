@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11038",
+    "name": "L-alanine:(5-formylfuran-3-yl)methyl-phosphate aminotransferase",
+    "definition": "(5-Formylfuran-3-yl)methyl phosphate + L-Alanine <=> [5-(Aminomethyl)furan-3-yl]methyl phosphate + Pyruvate",
+    "equation": "C20954 + C00041 <=> C21068 + C00022",
+    "comment": "(5-formylfuran-3-yl)methyl phosphate transaminase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.108"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism"
+    },
+    "orthologs": {
+      "K19793": "(5-formylfuran-3-yl)methyl phosphate transaminase [EC:2.6.1.108]"
+    }
+  }
+]

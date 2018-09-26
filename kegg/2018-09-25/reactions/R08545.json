@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08545",
+    "name": "(2E,6E)-Farnesyl-diphosphate diphosphate-lyase (germacrene-B-forming)",
+    "definition": "trans,trans-Farnesyl diphosphate <=> Germacrene B + Diphosphate",
+    "equation": "C00448 <=> C09672 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.71"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis"
+    },
+    "orthologs": {
+      "K15801": "(E,E)-germacrene B synthase [EC:4.2.3.71]"
+    }
+  }
+]

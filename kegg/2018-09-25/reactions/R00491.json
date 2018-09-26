@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00491",
+    "name": "aspartate racemase",
+    "definition": "L-Aspartate <=> D-Aspartate",
+    "equation": "C00049 <=> C00402",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.1.13"
+    ],
+    "pathways": {
+      "rn00250": "Alanine, aspartate and glutamate metabolism"
+    },
+    "orthologs": {
+      "K01779": "aspartate racemase [EC:5.1.1.13]"
+    }
+  }
+]

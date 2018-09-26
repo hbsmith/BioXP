@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08260",
+    "name": "SN38 glucuronide glucuronosohydrolase",
+    "definition": "SN38 glucuronide + H2O <=> SN-38 + D-Glucuronate",
+    "equation": "C11376 + C00001 <=> C11173 + C00191",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.31"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K01195": "beta-glucuronidase [EC:3.2.1.31]"
+    }
+  }
+]

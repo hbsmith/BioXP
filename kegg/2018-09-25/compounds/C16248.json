@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C16248",
+    "name": "2,6-Dibromohydroquinone",
+    "names": [
+      "2,6-Dibromohydroquinone"
+    ],
+    "formula": "C6H4Br2O2",
+    "exact_mass": 265.8578,
+    "mol_weight": 267.9028,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07779",
+      "R07784",
+      "R07785"
+    ],
+    "pathways": {
+      "map00364": "Fluorobenzoate degradation",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.14.13.50"
+    ],
+    "dblinks": {
+      "CAS": [
+        "3333-25-3"
+      ],
+      "PubChem": [
+        "47205556"
+      ],
+      "ChEBI": [
+        "19390"
+      ],
+      "NIKKAJI": [
+        "J13.024I"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    27.2526  -19.1375\n            2   C8x C    26.0437  -19.8349\n            3   C8x C    28.4679  -19.8349\n            4   C8y C    26.0437  -21.2421\n            5   C8y C    28.4679  -21.2421\n            6   C8y C    27.2526  -21.9522\n            7   X   Br   24.8346  -21.9329\n            8   X   Br   29.6768  -21.9329\n            9   O1a O    27.2463  -23.3466\n            10  O1a O    27.2514  -17.7102\nBOND        10\n            1     1   2 2\n            2     1   3 1\n            3     2   4 1\n            4     3   5 2\n            5     4   6 2\n            6     4   7 1\n            7     5   8 1\n            8     6   9 1\n            9     5   6 1\n            10    1  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

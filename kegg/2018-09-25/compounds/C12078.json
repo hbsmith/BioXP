@@ -1,0 +1,60 @@
+[
+  {
+    "entry_id": "C12078",
+    "name": "Dehydroabietic acid",
+    "names": [
+      "Dehydroabietic acid",
+      "(-)-Dehydroabietic acid",
+      "13-Isopropylpodocarpa-8,11,13-trien-15-oic acid",
+      "Abieta-8,11,13-trien-18-oic acid",
+      "Dehydroabietate"
+    ],
+    "formula": "C20H28O2",
+    "exact_mass": 300.2089,
+    "mol_weight": 300.4351,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1740-19-8"
+      ],
+      "PubChem": [
+        "14229"
+      ],
+      "ChEBI": [
+        "29571",
+        "58621"
+      ],
+      "ChEMBL": [
+        "CHEMBL12850"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0104050005"
+      ],
+      "KNApSAcK": [
+        "C00042455"
+      ],
+      "3DMET": [
+        "B04415"
+      ],
+      "NIKKAJI": [
+        "J12.735C"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C1z C    22.6661  -17.6480\n            2   C6a C    21.6005  -18.5699\n            3   C1a C    23.0857  -19.1999\n            4   C8y C    27.4811  -13.4509\n            5   C8x C    25.1147  -13.4484\n            6   C8x C    26.3523  -12.7511\n            7   C8y C    25.1148  -14.8448\n            8   C1x C    25.1027  -17.6694\n            9   C1x C    26.3313  -16.9509\n            10  C1c C    28.7507  -12.7450\n            11  C1y C    23.8978  -16.9610\n            12  C1z C    23.8474  -15.5512\n            13  C1x C    22.7053  -14.8284\n            14  C1x C    21.4036  -15.5154\n            15  C1x C    21.4540  -16.9252\n            16  C1a C    23.8978  -13.8717\n            17  C8x C    27.5340  -14.8411\n            18  C8y C    26.3313  -15.5303\n            19  C1a C    28.7436  -11.3526\n            20  C1a C    29.9533  -13.4344\n            21  O6a O    20.2984  -18.1177\n            22  O6a O    21.6005  -19.9699\nBOND        24\n            1     1   2 1 #Down\n            2     1   3 1 #Up\n            3    13  14 1\n            4    14  15 1\n            5    15   1 1\n            6     1  11 1\n            7    12   7 1\n            8     7  18 1\n            9     6   5 1\n            10    4  10 1\n            11   12  16 1 #Up\n            12    4  17 1\n            13    7   5 2\n            14   17  18 2\n            15   11   8 1\n            16   10  19 1\n            17    4   6 2\n            18   10  20 1\n            19    8   9 1\n            20   18   9 1\n            21   11  12 1\n            22   12  13 1\n            23    2  21 1\n            24    2  22 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06803",
+    "name": "UDP-glucose:pelargonidin 3-O-rutinoside 5-O-beta-D-glucosyltransferase",
+    "definition": "Pelargonidin 3-O-rutinoside + UDP-glucose <=> Pelargonidin 3-O-rutinoside 5-O-beta-D-glucoside + UDP",
+    "equation": "C12644 + C00029 <=> C12645 + C00015",
+    "comment": "cyanidin 3-O-rutinoside 5-O-glucosyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.116"
+    ],
+    "pathways": {
+      "rn00942": "Anthocyanin biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

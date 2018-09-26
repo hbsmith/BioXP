@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07985",
+    "name": "(S)-2-hydroxymethylglutarate:NAD+ oxidoreductase",
+    "definition": "2-Formylglutarate + NADH + H+ <=> (S)-2-(Hydroxymethyl)glutarate + NAD+",
+    "equation": "C16159 + C00004 + C00080 <=> C16390 + C00003",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.291"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K19647": "2-hydroxymethylglutarate dehydrogenase [EC:1.1.1.291]"
+    }
+  }
+]

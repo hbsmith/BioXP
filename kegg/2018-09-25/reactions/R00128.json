@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00128",
+    "name": "Adenosine-tetraphosphate phosphohydrolase",
+    "definition": "Adenosine tetraphosphate + H2O <=> ATP + Orthophosphate",
+    "equation": "C03483 + C00001 <=> C00002 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.14"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

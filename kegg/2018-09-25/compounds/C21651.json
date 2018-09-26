@@ -1,0 +1,31 @@
+[
+  {
+    "entry_id": "C21651",
+    "name": "(R)-2-Alkyl-3-oxoalkanoate",
+    "names": [
+      "(R)-2-Alkyl-3-oxoalkanoate"
+    ],
+    "formula": "C3H2O3R2",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R11774"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.412"
+    ],
+    "dblinks": {
+    },
+    "kcf": "ATOM        8\n            1   O6a O    13.7900  -10.9200\n            2   C6a C    13.7900  -12.3200\n            3   C1c C    15.0024  -13.0200\n            4   C5a C    16.2149  -12.3200\n            5   O5a O    16.2149  -10.9200\n            6   O6a O    12.5776  -13.0200\n            7   R   R    17.4273  -13.0200\n            8   R   R    15.0024  -14.4200\nBOND        7\n            1     1   2 2\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     2   6 1\n            6     4   7 1\n            7     3   8 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

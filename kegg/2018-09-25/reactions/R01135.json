@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01135",
+    "name": "IMP:L-aspartate ligase (GDP-forming)",
+    "definition": "GTP + IMP + L-Aspartate <=> GDP + Orthophosphate + N6-(1,2-Dicarboxyethyl)-AMP",
+    "equation": "C00044 + C00130 + C00049 <=> C00035 + C00009 + C03794",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.4.4"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism",
+      "rn00250": "Alanine, aspartate and glutamate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01939": "adenylosuccinate synthase [EC:6.3.4.4]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02205",
+    "name": "L-Pipecolate:(acceptor) 1,6-oxidoreductase",
+    "definition": "L-Pipecolate + FAD <=> FADH2 + (S)-2,3,4,5-Tetrahydropyridine-2-carboxylate",
+    "equation": "C00408 + C00016 <=> C01352 + C00450",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.99.3"
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11472",
+    "name": "dTDP-D-glucuronate:NAD+ oxidoreductase (decarboxylating)",
+    "definition": "dTDP-D-glucuronate + NAD+ <=> dTDP-4-oxo-alpha-D-xylose + CO2 + NADH + H+",
+    "equation": "C06017 + C00003 <=> C21351 + C00011 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00523": "Polyketide sugar unit biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21332": "dTDP-alpha-D-glucuronic acid decarboxylase [EC:1.1.1.-]"
+    }
+  }
+]

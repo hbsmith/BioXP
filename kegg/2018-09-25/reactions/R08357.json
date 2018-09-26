@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08357",
+    "name": "homotrypanothione:NADP+ oxidoreductase",
+    "definition": "Homotrypanothione + NADP+ <=> Homotrypanothione disulfide + NADPH + H+",
+    "equation": "C16567 + C00006 <=> C16568 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.1.12"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism"
+    },
+    "orthologs": {
+      "K04283": "trypanothione-disulfide reductase [EC:1.8.1.12]"
+    }
+  }
+]

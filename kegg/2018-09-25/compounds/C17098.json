@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C17098",
+    "name": "Lanosol",
+    "names": [
+      "Lanosol",
+      "2,3-Dibromo-4,5-dihydroxybenzyl alcohol"
+    ],
+    "formula": "C7H6Br2O3",
+    "exact_mass": 295.8684,
+    "mol_weight": 297.9287,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "4950-06-5"
+      ],
+      "PubChem": [
+        "96023571"
+      ],
+      "ChEBI": [
+        "80924"
+      ],
+      "ChEMBL": [
+        "CHEMBL253482"
+      ],
+      "KNApSAcK": [
+        "C00043652"
+      ],
+      "NIKKAJI": [
+        "J80.929B"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    15.8900  -16.7300\n            2   C8y C    15.8900  -18.1300\n            3   C8y C    17.1024  -18.8300\n            4   C8y C    18.3149  -18.1300\n            5   C8y C    18.3149  -16.7300\n            6   C8x C    17.1024  -16.0300\n            7   C1b C    19.5460  -16.0190\n            8   X   Br   19.5460  -18.8410\n            9   X   Br   17.1024  -20.2298\n            10  O1a O    14.6776  -18.8300\n            11  O1a O    14.6776  -16.0300\n            12  O1a O    20.7512  -16.7147\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     4   8 1\n            9     3   9 1\n            10    2  10 1\n            11    1  11 1\n            12    7  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

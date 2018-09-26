@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R01740",
+    "name": "D-Gluconate:NADP+ 5-oxidoreductase",
+    "definition": "D-Gluconic acid + NADP+ <=> 5-Dehydro-D-gluconate + NADPH + H+",
+    "equation": "C00257 + C00006 <=> C01062 + C00005 + C00080",
+    "comment": "NAD+ (see R01738)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.69"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

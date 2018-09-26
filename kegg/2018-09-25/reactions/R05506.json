@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R05506",
+    "name": "",
+    "definition": "Benzoylacetyl-CoA + CoA <=> Benzoyl-CoA + Acetyl-CoA",
+    "equation": "C07118 + C00010 <=> C00512 + C00024",
+    "comment": "benzoyl acetyl-CoA thiolase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.16",
+      "2.3.1.-"
+    ],
+    "pathways": {
+      "rn00642": "Ethylbenzene degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K00632": "acetyl-CoA acyltransferase [EC:2.3.1.16]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08892",
+    "name": "2-deoxy-scyllo-inosamine:NAD+ oxidoreductase",
+    "definition": "2-Deoxy-scyllo-inosamine + NAD+ <=> 3-Amino-2,3-dideoxy-scyllo-inosose + NADH + H+",
+    "equation": "C17580 + C00003 <=> C17581 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.329"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13548": "2-deoxy-scyllo-inosamine dehydrogenase [EC:1.1.1.329]"
+    }
+  }
+]

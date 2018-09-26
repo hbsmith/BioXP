@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C11103",
+    "name": "Hymexazol",
+    "names": [
+      "Hymexazol"
+    ],
+    "formula": "C4H5NO2",
+    "exact_mass": 99.032,
+    "mol_weight": 99.088,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "10004-44-1"
+      ],
+      "PubChem": [
+        "13285"
+      ],
+      "ChEBI": [
+        "5827"
+      ],
+      "ChEMBL": [
+        "CHEMBL244877"
+      ],
+      "NIKKAJI": [
+        "J3.115A"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C8y C    27.7200  -25.5500\n            2   N5x N    27.3700  -24.2200\n            3   O2x O    28.4900  -23.4500\n            4   C8y C    29.6100  -24.3600\n            5   C8x C    29.1200  -25.5500\n            6   O1a O    26.6700  -26.6000\n            7   C1a C    30.8000  -23.6600\nBOND        7\n            1     2   3 1\n            2     3   4 1\n            3     4   5 2\n            4     5   1 1\n            5     1   6 1\n            6     1   2 2\n            7     4   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

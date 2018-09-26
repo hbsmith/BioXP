@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00429",
+    "name": "ATP:GTP 3'-diphosphotransferase",
+    "definition": "ATP + GTP <=> AMP + Guanosine 3'-diphosphate 5'-triphosphate",
+    "equation": "C00002 + C00044 <=> C00020 + C04494",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.6.5"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K00951": "GTP pyrophosphokinase [EC:2.7.6.5]",
+      "K01139": "GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [EC:2.7.6.5 3.1.7.2]",
+      "K07816": "putative GTP pyrophosphokinase [EC:2.7.6.5]"
+    }
+  }
+]

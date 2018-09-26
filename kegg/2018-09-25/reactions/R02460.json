@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02460",
+    "name": "Bacitracin synthetase 2",
+    "definition": "D-Ornithine <=> Bacitracin",
+    "equation": "C00515 <=> C01667",
+    "comment": "Non-ribosomal peptide synthesis multi-step reaction incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00472": "D-Arginine and D-ornithine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

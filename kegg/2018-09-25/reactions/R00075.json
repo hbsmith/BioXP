@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00075",
+    "name": "S-adenosyl-L-methionine:S-adenosyl-L-methionine 3-amino-3-carboxypropyltransferase",
+    "definition": "3 S-Adenosyl-L-methionine <=> 3 5'-Methylthioadenosine + Nicotianamine",
+    "equation": "3 C00019 <=> 3 C00170 + C05324",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.43"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

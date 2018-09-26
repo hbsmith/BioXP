@@ -1,0 +1,58 @@
+[
+  {
+    "entry_id": "C11356",
+    "name": "trans,trans,cis-Geranylgeranyl diphosphate",
+    "names": [
+      "trans,trans,cis-Geranylgeranyl diphosphate",
+      "trans,trans,cis-Geranylgeranyl pyrophosphate",
+      "Geranylneryl diphosphate",
+      "2-cis,6-trans,10-trans-Geranylgeranyl diphosphate"
+    ],
+    "formula": "C20H36O7P2",
+    "exact_mass": 450.1936,
+    "mol_weight": 450.4432,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05555",
+      "R08748"
+    ],
+    "pathways": {
+      "map01062": "Biosynthesis of terpenoids and steroids"
+    },
+    "enzymes": [
+      "2.5.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "13531"
+      ],
+      "ChEBI": [
+        "10698"
+      ],
+      "ChEMBL": [
+        "CHEMBL1160061"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0104010001",
+        "LMPR0104010003"
+      ],
+      "LipidBank": [
+        "IIP0007"
+      ],
+      "3DMET": [
+        "B04224"
+      ],
+      "NIKKAJI": [
+        "J1.283.779H"
+      ]
+    },
+    "kcf": "ATOM        29\n            1   O2b O    32.1369  -17.1075\n            2   P1b P    33.4377  -17.1018\n            3   O2c O    34.7513  -17.1018\n            4   O1c O    33.4377  -15.7880\n            5   O1c O    33.4436  -18.4025\n            6   P1b P    36.0592  -17.1018\n            7   O1c O    37.3657  -17.1018\n            8   O1c O    36.0592  -15.7880\n            9   O1c O    36.0592  -18.4025\n            10  C1b C    30.8895  -16.3958\n            11  C2b C    30.9036  -14.9513\n            12  C1a C    13.5043  -15.0007\n            13  C2c C    14.7445  -14.2818\n            14  C2b C    15.9849  -14.9935\n            15  C1b C    17.2323  -14.2676\n            16  C1b C    18.4725  -14.9864\n            17  C2c C    19.7127  -14.2605\n            18  C2b C    20.9601  -14.9795\n            19  C1b C    22.2005  -14.2536\n            20  C1b C    23.4407  -14.9724\n            21  C2c C    24.6880  -14.2465\n            22  C2b C    25.9283  -14.9582\n            23  C1b C    27.1687  -14.2394\n            24  C1b C    28.4160  -14.9513\n            25  C2c C    29.6562  -14.2325\n            26  C1a C    14.7374  -12.8371\n            27  C1a C    19.7056  -12.8229\n            28  C1a C    24.6809  -12.8089\n            29  C1a C    29.6491  -12.7949\nBOND        28\n            1     2   5 2\n            2     3   6 1\n            3    11  10 1\n            4     6   7 1\n            5     6   8 1\n            6     6   9 2\n            7     1   2 1\n            8     2   3 1\n            9     2   4 1\n            10   10   1 1\n            11   17  18 2\n            12   18  19 1\n            13   19  20 1\n            14   20  21 1\n            15   21  22 2\n            16   12  13 1\n            17   22  23 1\n            18   23  24 1\n            19   13  14 2\n            20   24  25 1\n            21   14  15 1\n            22   13  26 1\n            23   15  16 1\n            24   17  27 1\n            25   21  28 1\n            26   16  17 1\n            27   25  29 1\n            28   25  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

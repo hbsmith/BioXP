@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00811",
+    "name": "protein-Npi-phospho-L-histidine:sugar phosphotransferase",
+    "definition": "Sucrose + Protein N(pi)-phospho-L-histidine <=> Sucrose 6-phosphate + Protein histidine",
+    "equation": "C00089 + C04261 <=> C16688 + C00615",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.211"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism"
+    },
+    "orthologs": {
+      "K02808": "PTS system, sucrose-specific IIA component [EC:2.7.1.211]",
+      "K02809": "PTS system, sucrose-specific IIB component [EC:2.7.1.211]",
+      "K02810": "PTS system, sucrose-specific IIC component"
+    }
+  }
+]

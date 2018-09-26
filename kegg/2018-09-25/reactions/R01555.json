@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01555",
+    "name": "Maltose:phosphate 1-beta-D-glucosyltransferase",
+    "definition": "Maltose + Orthophosphate <=> D-Glucose + beta-D-Glucose 1-phosphate",
+    "equation": "C00208 + C00009 <=> C00031 + C00663",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.8"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00691": "maltose phosphorylase [EC:2.4.1.8]"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C11408",
+    "name": "(4S,6S)-cis-Carveol",
+    "names": [
+      "(4S,6S)-cis-Carveol"
+    ],
+    "formula": "C10H16O",
+    "exact_mass": 152.1201,
+    "mol_weight": 152.2334,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06375"
+    ],
+    "pathways": {
+      "map00903": "Limonene and pinene degradation"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "13582"
+      ],
+      "ChEBI": [
+        "232"
+      ],
+      "ChEMBL": [
+        "CHEMBL1908058"
+      ],
+      "KNApSAcK": [
+        "C00010883"
+      ],
+      "3DMET": [
+        "B04251"
+      ],
+      "NIKKAJI": [
+        "J9.139A"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C2x C    23.0302  -15.2355\n            2   C1x C    23.0302  -16.6373\n            3   C1y C    24.2481  -17.3417\n            4   C1x C    25.4518  -16.6373\n            5   C1y C    25.4518  -15.2355\n            6   C2y C    24.2481  -14.5381\n            7   C1a C    24.2498  -13.1362\n            8   O1a O    26.6672  -14.5390\n            9   C2c C    24.2498  -18.7435\n            10  C1a C    23.0358  -19.4424\n            11  C2a C    25.4586  -19.4394\nBOND        11\n            1     5   6 1\n            2     6   1 2\n            3     6   7 1\n            4     1   2 1\n            5     5   8 1 #Up\n            6     2   3 1\n            7     3   9 1 #Up\n            8     3   4 1\n            9     9  10 1\n            10    4   5 1\n            11    9  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

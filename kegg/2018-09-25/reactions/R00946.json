@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R00946",
+    "name": "5-Methyltetrahydrofolate:L-homocysteine S-methyltransferase",
+    "definition": "5-Methyltetrahydrofolate + L-Homocysteine <=> Tetrahydrofolate + L-Methionine",
+    "equation": "C00440 + C00155 <=> C00101 + C00073",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.13"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn00670": "One carbon pool by folate",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K00548": "5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04807",
+    "name": "",
+    "definition": "3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestane + Oxygen + 2 H+ + 2 Reduced adrenal ferredoxin <=> 3alpha,7alpha,12alpha,26-Tetrahydroxy-5beta-cholestane + H2O + 2 Oxidized adrenal ferredoxin",
+    "equation": "C05454 + C00007 + 2 C00080 + 2 C00662 <=> C05446 + C00001 + 2 C00667",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.15"
+    ],
+    "pathways": {
+      "rn00120": "Primary bile acid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00488": "cholestanetriol 26-monooxygenase [EC:1.14.15.15]"
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "entry_id": "C01092",
+    "name": "8-Amino-7-oxononanoate",
+    "names": [
+      "8-Amino-7-oxononanoate",
+      "8-Amino-7-oxononanoic acid",
+      "7-Keto-8-aminopelargonic acid",
+      "KAPA"
+    ],
+    "formula": "C9H17NO3",
+    "exact_mass": 187.1208,
+    "mol_weight": 187.2362,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03210",
+      "R03231",
+      "R10124",
+      "R10699"
+    ],
+    "pathways": {
+      "map00780": "Biotin metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "2.3.1.47",
+      "2.6.1.62",
+      "2.6.1.105"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4327"
+      ],
+      "ChEBI": [
+        "12266",
+        "15830"
+      ],
+      "LIPIDMAPS": [
+        "LMFA01060168"
+      ],
+      "3DMET": [
+        "B04764"
+      ],
+      "NIKKAJI": [
+        "J511.019J"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1b C    20.3270  -16.5126\n            2   C5a C    19.1109  -15.8113\n            3   C1b C    21.5368  -15.8113\n            4   C1c C    17.9012  -16.5126\n            5   O5a O    19.1109  -14.4149\n            6   C1b C    22.7465  -16.5126\n            7   C1a C    17.9012  -17.9153\n            8   N1a N    16.6914  -15.8113\n            9   C1b C    23.9626  -15.8113\n            10  C1b C    25.1724  -16.5126\n            11  C6a C    26.3885  -15.8113\n            12  O6a O    27.5983  -16.5191\n            13  O6a O    26.3822  -14.4149\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 2\n            5     3   6 1\n            6     4   7 1\n            7     4   8 1\n            8     6   9 1\n            9     9  10 1\n            10   10  11 1\n            11   11  12 1\n            12   11  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

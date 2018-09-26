@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03154",
+    "name": "succinyl-CoA:(S)-citramalate CoA-transferase",
+    "definition": "Succinyl-CoA + (S)-2-Methylmalate <=> Succinate + (3S)-Citramalyl-CoA",
+    "equation": "C00091 + C02614 <=> C00042 + C01011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.22"
+    ],
+    "pathways": {
+      "rn00660": "C5-Branched dibasic acid metabolism"
+    },
+    "orthologs": {
+      "K14471": "succinyl-CoA:(S)-malate CoA-transferase subunit A [EC:2.8.3.22]",
+      "K14472": "succinyl-CoA:(S)-malate CoA-transferase subunit B [EC:2.8.3.22]",
+      "K18289": "itaconate CoA-transferase [EC:2.8.3.- 2.8.3.22]"
+    }
+  }
+]

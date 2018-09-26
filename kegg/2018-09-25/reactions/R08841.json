@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08841",
+    "name": "typhasterol,NADPH---hemoprotein reductase:oxygen oxidoreductase (7-oxatyphasterol-forming)",
+    "definition": "Typhasterol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 7-Oxatyphasterol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C15793 + C03024 + C00007 <=> C17735 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.-"
+    ],
+    "pathways": {
+      "rn00905": "Brassinosteroid biosynthesis"
+    },
+    "orthologs": {
+      "K12640": "brassinosteroid-6-oxidase 2 [EC:1.14.-.-]"
+    }
+  }
+]

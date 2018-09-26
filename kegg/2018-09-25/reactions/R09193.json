@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R09193",
+    "name": "anhydrochlortetracycline,NADPH:oxygen oxidoreductase (6-hydroxylating)",
+    "definition": "Anhydrochlortetracycline + Oxygen + NADPH + H+ <=> 5a,11a-Dehydrochlortetracycline + NADP+ + H2O",
+    "equation": "C18297 + C00007 + C00005 + C00080 <=> C18298 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.38"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K14256": "anhydrotetracycline 6-monooxygenase / 5a,11a-dehydrotetracycline 5-monooxygenase [EC:1.14.13.38 1.14.13.234]"
+    }
+  }
+]

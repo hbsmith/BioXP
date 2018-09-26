@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07816",
+    "name": "",
+    "definition": "G13038 + H2O <=> G13039 + N-Acetyl-D-glucosamine",
+    "equation": "G13038 + C00001 <=> G13039 + C00140",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.50"
+    ],
+    "pathways": {
+      "rn00531": "Glycosaminoglycan degradation",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01205": "alpha-N-acetylglucosaminidase [EC:3.2.1.50]"
+    }
+  }
+]

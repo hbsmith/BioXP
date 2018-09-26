@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C14583",
+    "name": "1,4-Diethylbenzene",
+    "names": [
+      "1,4-Diethylbenzene",
+      "p-Diethylbenzene"
+    ],
+    "formula": "C10H14",
+    "exact_mass": 134.1096,
+    "mol_weight": 134.2182,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "105-05-5"
+      ],
+      "PubChem": [
+        "17395583"
+      ],
+      "ChEBI": [
+        "34062"
+      ],
+      "ChEMBL": [
+        "CHEMBL3187283"
+      ],
+      "NIKKAJI": [
+        "J43.478G"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    11.6200  -16.5900\n            2   C8y C    11.6200  -17.9900\n            3   C8x C    12.8324  -18.6900\n            4   C8x C    14.0449  -17.9900\n            5   C8y C    14.0449  -16.5900\n            6   C8x C    12.8324  -15.8900\n            7   C1b C    15.2760  -15.8790\n            8   C1a C    16.4812  -16.5747\n            9   C1b C    10.4076  -18.6900\n            10  C1a C     9.2121  -17.9996\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     2   9 1\n            10    9  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

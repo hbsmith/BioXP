@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C18320",
+    "name": "4-Amino-2-nitrotoluene",
+    "names": [
+      "4-Amino-2-nitrotoluene"
+    ],
+    "formula": "C7H8N2O2",
+    "exact_mass": 152.0586,
+    "mol_weight": 152.1506,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09232",
+      "R09235",
+      "R09242",
+      "R09243"
+    ],
+    "pathways": {
+      "map00633": "Nitrotoluene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.7.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "119-32-4"
+      ],
+      "PubChem": [
+        "103061502"
+      ],
+      "ChEBI": [
+        "81670"
+      ],
+      "ChEMBL": [
+        "CHEMBL1350617"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    26.3200  -18.9000\n            2   C8x C    26.3200  -20.3000\n            3   C8y C    27.5324  -21.0000\n            4   C8x C    28.7449  -20.3000\n            5   C8x C    28.7449  -18.9000\n            6   C8y C    27.5324  -18.2000\n            7   C1a C    27.5324  -16.8002\n            8   N2b N    25.1076  -18.2000 #+\n            9   N1a N    27.5324  -22.3998\n            10  O3a O    23.9121  -18.8904\n            11  O3a O    25.1075  -16.8002 #-\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     1   8 1\n            9     3   9 1\n            10    8  10 2\n            11    8  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

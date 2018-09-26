@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R02051",
+    "name": "phosphatidylethanolamine phosphatidohydrolase",
+    "definition": "Phosphatidylethanolamine + H2O <=> Ethanolamine + Phosphatidate",
+    "equation": "C00350 + C00001 <=> C00189 + C00416",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.4.4"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K01115": "phospholipase D1/2 [EC:3.1.4.4]",
+      "K16860": "phospholipase D3/4 [EC:3.1.4.4]",
+      "K17717": "phospholipase D [EC:3.1.4.4]"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R07640",
+    "name": "poly(ribonucleotide):poly(ribonucleotide) ligase (AMP-forming)",
+    "definition": "ATP + RNA(n) + RNA(m) <=> AMP + Diphosphate + RNA(n+m)",
+    "equation": "C00002 + C00046(n) + C00046(m) <=> C00020 + C00013 + C00046(n+m)",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.5.1.3"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

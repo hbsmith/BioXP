@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03055",
+    "name": "(R)-5,6-dihydrothymine amidohydrolase",
+    "definition": "(R)-5,6-Dihydrothymine + H2O <=> (R)-3-Ureidoisobutyrate",
+    "equation": "C21028 + C00001 <=> C21029",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.2.2"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01464": "dihydropyrimidinase [EC:3.5.2.2]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04187",
+    "name": "L-Alanine:3-oxopropanoate aminotransferase",
+    "definition": "L-Alanine + (S)-Methylmalonate semialdehyde <=> Pyruvate + L-3-Aminoisobutanoate",
+    "equation": "C00041 + C06002 <=> C00022 + C03284",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.18"
+    ],
+    "pathways": {
+      "rn00280": "Valine, leucine and isoleucine degradation"
+    },
+    "orthologs": {
+      "K00822": "beta-alanine--pyruvate transaminase [EC:2.6.1.18]"
+    }
+  }
+]

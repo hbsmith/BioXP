@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C16194",
+    "name": "2,6-Naphthalenedisulfonic acid",
+    "names": [
+      "2,6-Naphthalenedisulfonic acid"
+    ],
+    "formula": "C10H8O6S2",
+    "exact_mass": 287.9762,
+    "mol_weight": 288.2969,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07683"
+    ],
+    "pathways": {
+      "map00626": "Naphthalene degradation"
+    },
+    "enzymes": [
+      "1.14.99.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "581-75-9"
+      ],
+      "PubChem": [
+        "47205502"
+      ],
+      "ChEBI": [
+        "41070"
+      ],
+      "ChEMBL": [
+        "CHEMBL1206869"
+      ],
+      "PDB-CCD": [
+        "BIH"
+      ],
+      "NIKKAJI": [
+        "J7.437C"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C8x C    31.6400  -26.3200\n            2   C8y C    31.6400  -27.7200\n            3   C8x C    32.8300  -28.4200\n            4   C8y C    34.0200  -27.7200\n            5   C8y C    34.0200  -26.3200\n            6   C8x C    32.8300  -25.6900\n            7   C8x C    35.2100  -28.4200\n            8   C8x C    36.4700  -27.7200\n            9   C8y C    36.4700  -26.3200\n            10  C8x C    35.2100  -25.6900\n            11  S4a S    30.4500  -28.4200\n            12  O1d O    29.6100  -27.2300\n            13  O1d O    31.3600  -29.6100\n            14  O1d O    29.1200  -29.0500\n            15  S4a S    37.6600  -25.6200\n            16  O1d O    36.9600  -24.4300\n            17  O1d O    38.3600  -26.8100\n            18  O1d O    38.9200  -24.9200\nBOND        19\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12    2  11 1\n            13   11  12 2\n            14   11  13 2\n            15   11  14 1\n            16    9  15 1\n            17   15  16 2\n            18   15  17 2\n            19   15  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

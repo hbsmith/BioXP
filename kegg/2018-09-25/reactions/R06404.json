@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06404",
+    "name": "alpha-pinene monooxygenase",
+    "definition": "alpha-Pinene + Oxygen + 2 H+ + 2 e- <=> Pinocarveol + H2O",
+    "equation": "C09880 + C00007 + 2 C00080 + 2 C05359 <=> C11941 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "pathways": {
+      "rn00903": "Limonene and pinene degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

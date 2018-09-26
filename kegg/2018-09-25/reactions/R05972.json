@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05972",
+    "name": "",
+    "definition": "GDP-D-mannose + N,N'-Chitobiosyldiphosphodolichol <=> GDP + G00003",
+    "equation": "G10614 + G00002 <=> G10620 + G00003",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.142"
+    ],
+    "pathways": {
+      "rn00510": "N-Glycan biosynthesis",
+      "rn00513": "Various types of N-glycan biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03842": "beta-1,4-mannosyltransferase [EC:2.4.1.142]"
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C10684",
+    "name": "2',6'-Dimethoxy-4'-hydroxyacetophenone",
+    "names": [
+      "2',6'-Dimethoxy-4'-hydroxyacetophenone"
+    ],
+    "formula": "C10H12O4",
+    "exact_mass": 196.0736,
+    "mol_weight": 196.1999,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "13246-14-5"
+      ],
+      "PubChem": [
+        "12867"
+      ],
+      "ChEBI": [
+        "27769"
+      ],
+      "KNApSAcK": [
+        "C00002695"
+      ],
+      "3DMET": [
+        "B04059"
+      ],
+      "NIKKAJI": [
+        "J455.937A"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    26.7940  -19.1655\n            2   C8x C    26.7940  -20.5649\n            3   C8y C    28.0098  -21.2610\n            4   C8x C    29.2185  -20.5649\n            5   C8y C    29.2185  -19.1655\n            6   C8y C    28.0098  -18.4625\n            7   C5a C    28.0115  -17.0631\n            8   C1a C    29.2252  -16.3685\n            9   O5a O    26.7996  -16.3654\n            10  O2a O    30.4317  -18.4633\n            11  O2a O    25.5817  -18.4618\n            12  C1a C    24.3686  -19.1643\n            13  C1a C    31.6439  -19.1674\n            14  O1a O    28.0115  -22.6604\nBOND        14\n            1     6   7 1\n            2     1   2 2\n            3     7   8 1\n            4     2   3 1\n            5     7   9 2\n            6     3   4 2\n            7     5  10 1\n            8     4   5 1\n            9     1  11 1\n            10    5   6 2\n            11   11  12 1\n            12    6   1 1\n            13   10  13 1\n            14    3  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

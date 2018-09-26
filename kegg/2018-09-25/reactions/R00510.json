@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00510",
+    "name": "Cytidine-5'-monophosphate phosphoribohydrolase",
+    "definition": "CMP + H2O <=> Cytosine + D-Ribose 5-phosphate",
+    "equation": "C00055 + C00001 <=> C00380 + C00117",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.2.10"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

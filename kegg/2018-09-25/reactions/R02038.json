@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02038",
+    "name": "CTP:ethanolamine-phosphate cytidylyltransferase",
+    "definition": "CTP + Ethanolamine phosphate <=> Diphosphate + CDP-ethanolamine",
+    "equation": "C00063 + C00346 <=> C00013 + C00570",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.14"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00967": "ethanolamine-phosphate cytidylyltransferase [EC:2.7.7.14]"
+    }
+  }
+]

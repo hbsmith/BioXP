@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02471",
+    "name": "",
+    "definition": "(R)-Pantoate + NAD+ <=> (R)-4-Dehydropantoate + NADH + H+",
+    "equation": "C00522 + C00003 <=> C01053 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.106"
+    ],
+    "pathways": {
+      "rn00770": "Pantothenate and CoA biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

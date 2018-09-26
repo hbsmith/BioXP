@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10345",
+    "name": "7,8-dihydroneopterin 2',3'-cyclic phosphate 2'-phosphodiesterase",
+    "definition": "7,8-Dihydroneopterin 2',3'-cyclic phosphate + H2O <=> 7,8-Dihydroneopterin 2'-phosphate",
+    "equation": "C20567 + C00001 <=> C20566",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.4.56"
+    ],
+    "pathways": {
+      "rn00790": "Folate biosynthesis"
+    },
+    "orthologs": {
+      "K17487": "7,8-dihydroneopterin 2',3'-cyclic phosphate phosphodiesterase [EC:3.1.4.56]"
+    }
+  }
+]

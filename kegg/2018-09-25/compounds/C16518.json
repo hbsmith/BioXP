@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C16518",
+    "name": "S-(Indolylmethylthiohydroximoyl)-L-cysteine",
+    "names": [
+      "S-(Indolylmethylthiohydroximoyl)-L-cysteine"
+    ],
+    "formula": "C13H15N3O3S",
+    "exact_mass": 293.0834,
+    "mol_weight": 293.3415,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08168",
+      "R08170",
+      "R08608"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism",
+      "map00966": "Glucosinolate biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "enzymes": [
+      "1.14.14.45",
+      "4.4.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "51090847"
+      ],
+      "ChEBI": [
+        "80546"
+      ],
+      "NIKKAJI": [
+        "J2.803.444J"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C8y C    24.4920  -14.8289\n            2   C1b C    25.6436  -14.1516\n            3   C2c C    26.7999  -14.8219\n            4   S2a S    26.7876  -16.1568\n            5   N2b N    27.9500  -14.1453\n            6   O1b O    29.3070  -14.5089\n            7   C1b C    27.9832  -16.8471\n            8   C1c C    27.9832  -18.2276\n            9   N1a N    26.7876  -18.9179\n            10  C6a C    29.1787  -18.9179\n            11  O6a O    29.1787  -20.2984\n            12  O6a O    30.3744  -18.2276\n            13  C8y C    23.1626  -14.4259\n            14  C8y C    22.3686  -15.5657\n            15  N4x N    23.2072  -16.6731\n            16  C8x C    24.5196  -16.2177\n            17  C8x C    22.5680  -13.1585\n            18  C8x C    21.1730  -13.0398\n            19  C8x C    20.3789  -14.1795\n            20  C8x C    20.9736  -15.4470\nBOND        21\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 2\n            5     5   6 1\n            6     4   7 1\n            7     8   7 1 #Up\n            8     8   9 1\n            9     8  10 1\n            10   10  11 2\n            11   10  12 1\n            12    1  13 1\n            13   13  14 1\n            14   14  15 1\n            15   15  16 1\n            16    1  16 2\n            17   13  17 2\n            18   17  18 1\n            19   18  19 2\n            20   19  20 1\n            21   14  20 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

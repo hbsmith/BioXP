@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05385",
+    "name": "1-Chloro-2,2-bis(4'-chlorophenyl)ethane chloride-lyase",
+    "definition": "1-Chloro-2,2-bis(4'-chlorophenyl)ethane <=> unsym-Bis(4'-chlorophenyl)ethylene + Hydrochloric acid",
+    "equation": "C06638 <=> C06642 + C01327",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.5.1.-"
+    ],
+    "pathways": {
+      "rn00351": "DDT degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

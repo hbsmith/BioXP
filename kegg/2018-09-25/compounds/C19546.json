@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C19546",
+    "name": "Vinyl chloride-vinyl acetate copolymer",
+    "names": [
+      "Vinyl chloride-vinyl acetate copolymer",
+      "Pevikon"
+    ],
+    "formula": "(C4H6O2)n. (C2H3Cl)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "9003-22-9"
+      ],
+      "PubChem": [
+        "124490218"
+      ],
+      "ChEBI": [
+        "82549"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   X   Cl   21.0000  -17.5000\n            2   C2b C    22.2124  -16.8000\n            3   C2a C    23.4249  -17.5000\n            4   C2a C    29.4700  -17.3600\n            5   C2b C    30.6824  -16.6600\n            6   O7a O    31.8949  -17.3600\n            7   C7a C    33.1073  -16.6600\n            8   C1a C    34.3197  -17.3600\n            9   O6a O    33.1073  -15.2600\nBOND        7\n            1     1   2 1\n            2     2   3 2\n            3     4   5 2\n            4     5   6 1\n            5     6   7 1\n            6     7   8 1\n            7     7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

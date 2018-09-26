@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06574",
+    "name": "caffeic aldehyde:3,4-dihydroxy-trans-cinnamate 3-O-methyltransferase",
+    "definition": "Caffeic aldehyde + S-Adenosyl-L-methionine <=> Coniferyl aldehyde + S-Adenosyl-L-homocysteine",
+    "equation": "C10945 + C00019 <=> C02666 + C00021",
+    "comment": "caffeic acid O-methyltranseferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.68"
+    ],
+    "pathways": {
+      "rn00940": "Phenylpropanoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13066": "caffeic acid 3-O-methyltransferase [EC:2.1.1.68]"
+    }
+  }
+]

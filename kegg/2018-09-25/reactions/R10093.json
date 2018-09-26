@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R10093",
+    "name": "ATP:isopentenyl phosphate phosphotransferase",
+    "definition": "ATP + Isopentenyl phosphate <=> ADP + Isopentenyl diphosphate",
+    "equation": "C00002 + C20345 <=> C00008 + C00129",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.26"
+    ],
+    "pathways": {
+      "rn00900": "Terpenoid backbone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K06981": "isopentenyl phosphate kinase [EC:2.7.4.26]"
+    }
+  }
+]

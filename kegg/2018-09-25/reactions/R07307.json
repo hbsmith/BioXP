@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07307",
+    "name": "dCTP aminohydrolase (dUMP-forming)",
+    "definition": "dCTP + 2 H2O <=> dUMP + Diphosphate + Ammonia",
+    "equation": "C00458 + 2 C00001 <=> C00365 + C00013 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.4.30"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+      "K09887": "dCTP deaminase (dUMP-forming) [EC:3.5.4.30]"
+    }
+  }
+]

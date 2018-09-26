@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19238",
+    "name": "Ethyl acrylate",
+    "names": [
+      "Ethyl acrylate"
+    ],
+    "formula": "C5H8O2",
+    "exact_mass": 100.0524,
+    "mol_weight": 100.1158,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "140-88-5"
+      ],
+      "PubChem": [
+        "124489910"
+      ],
+      "ChEBI": [
+        "82327"
+      ],
+      "ChEMBL": [
+        "CHEMBL52084"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C2b C    15.8900  -16.8700\n            2   C7a C    17.1024  -16.1700\n            3   O7a O    18.3149  -16.8700\n            4   C1b C    19.5273  -16.1700\n            5   C2a C    14.6776  -16.1700\n            6   O6a O    17.1024  -14.7702\n            7   C1a C    20.7418  -16.8712\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     1   5 2\n            5     2   6 2\n            6     4   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

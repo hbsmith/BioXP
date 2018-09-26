@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00106",
+    "name": "NADPH:ferricytochrome oxidoreductase",
+    "definition": "NADPH + 2 Ferricytochrome <=> NADP+ + 2 Ferrocytochrome + H+",
+    "equation": "C00005 + 2 C00923 <=> C00006 + 2 C00924 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.6.2.4"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

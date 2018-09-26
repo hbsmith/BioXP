@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03096",
+    "name": "Indole-3-acetamide amidohydrolase",
+    "definition": "(Indol-3-yl)acetamide + H2O <=> Indole-3-acetate + Ammonia",
+    "equation": "C02693 + C00001 <=> C00954 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.4",
+      "3.5.1.-"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+      "K01426": "amidase [EC:3.5.1.4]",
+      "K21478": "poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase [EC:3.5.1.-]"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C02858",
+    "name": "N5-Acyl-L-ornithine",
+    "names": [
+      "N5-Acyl-L-ornithine"
+    ],
+    "formula": "C6H11N2O3R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R04070"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.1.48"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5796"
+      ],
+      "ChEBI": [
+        "17339"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1b C    23.8629  -18.3746\n            2   C1b C    25.0947  -19.0326\n            3   C1c C    22.6739  -19.1112\n            4   C1b C    26.2836  -18.2959\n            5   C6a C    21.4420  -18.4532\n            6   N1a N    22.7195  -20.5148\n            7   N1b N    27.5212  -18.9569\n            8   O6a O    21.3934  -17.0554\n            9   O6a O    20.2501  -19.1957\n            10  C5a C    28.7073  -18.2115\n            11  O5a O    28.7344  -16.8167\n            12  R   R    29.9450  -18.8727\nBOND        11\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     3   6 1 #Down\n            6     4   7 1\n            7     5   8 2\n            8     5   9 1\n            9     7  10 1\n            10   10  11 2\n            11   10  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C18348",
+    "name": "2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl",
+    "names": [
+      "2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl"
+    ],
+    "formula": "C15H12O8",
+    "exact_mass": 320.0532,
+    "mol_weight": 320.251,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09275",
+      "R09276"
+    ],
+    "pathways": {
+      "map00627": "Aminobenzoate degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "124489022"
+      ],
+      "ChEBI": [
+        "81694"
+      ]
+    },
+    "kcf": "ATOM        23\n            1   C8y C    25.9774  -19.2573\n            2   C8y C    27.2378  -18.5570\n            3   C8y C    24.7870  -18.5570\n            4   C8x C    25.9774  -20.6577\n            5   C8y C    28.4282  -19.2573\n            6   C8x C    27.2378  -17.1565\n            7   C8y C    23.5266  -19.2573\n            8   O1a O    24.7870  -17.1565\n            9   C8y C    24.7870  -21.4279\n            10  C8y C    29.6186  -18.5570\n            11  O1a O    28.4282  -20.5876\n            12  C8y C    28.4282  -16.4563\n            13  C8x C    23.5266  -20.6577\n            14  C8x C    29.6186  -17.1565\n            15  O2a O    22.3316  -18.5541\n            16  C1a C    21.1203  -19.2403\n            17  C6a C    24.8051  -22.8382\n            18  O6a O    26.0233  -23.5209\n            19  O6a O    23.5968  -23.5566\n            20  O1a O    30.8495  -19.2611\n            21  C6a C    28.4283  -15.0621\n            22  O6a O    29.6525  -14.3553\n            23  O6a O    27.2257  -14.3677\nBOND        24\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 2\n            5     2   6 1\n            6     3   7 2\n            7     3   8 1\n            8     4   9 1\n            9     5  10 1\n            10    5  11 1\n            11    6  12 2\n            12    7  13 1\n            13   10  14 2\n            14    9  13 2\n            15   12  14 1\n            16    7  15 1\n            17   15  16 1\n            18    9  17 1\n            19   17  18 2\n            20   17  19 1\n            21   10  20 1\n            22   12  21 1\n            23   21  22 1\n            24   21  23 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

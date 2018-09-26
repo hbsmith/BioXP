@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11144",
+    "name": "isolithocholate:NAD+ 3-oxidoreductase",
+    "definition": "Isolithocholate + NAD+ <=> 3-Oxo-5beta-cholanate + NADH + H+",
+    "equation": "C17658 + C00003 <=> C03070 + C00004 + C00080",
+    "comment": "NADP+ (see R11146)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.391"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

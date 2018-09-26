@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C06751",
+    "name": "Prenyl-L-cysteine",
+    "names": [
+      "Prenyl-L-cysteine",
+      "S-Prenyl-L-cysteine"
+    ],
+    "formula": "C3H7NO2S(C5H8)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy S-(2E,6E)-Farnesyl-L-cysteine (n=3) [CPD:C19691]",
+    "reactions": [
+      "R07360"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.8.3.5"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8972"
+      ],
+      "ChEBI": [
+        "47914"
+      ],
+      "NIKKAJI": [
+        "J8.832C"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C1b C    17.3977  -15.7960\n            2   S2a S    18.6148  -16.4981\n            3   C1c C    16.1867  -16.4981\n            4   C1b C    19.8260  -15.7960\n            5   C6a C    14.9755  -15.7960\n            6   N1a N    16.1867  -17.8965\n            7   C2b C    21.0371  -16.4981\n            8   O6a O    13.7644  -16.4981\n            9   O6a O    14.9755  -14.3975\n            10  C2c C    22.2483  -15.7960\n            11  C1b C    23.4595  -16.4981\n            12  C1a C    22.2483  -14.3975\n            13  C1b C    24.6719  -15.7981\n            14  C2b C    25.8843  -16.4981\n            15  C2c C    27.0968  -15.7981\n            16  C1a C    28.3092  -16.4981\n            17  C1a C    27.0967  -14.4200\nBOND        16\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     3   6 1 #Down\n            6     4   7 1\n            7     5   8 1\n            8     5   9 2\n            9     7  10 2\n            10   10  11 1\n            11   10  12 1\n            12   11  13 1\n            13   13  14 1\n            14   14  15 2\n            15   15  16 1\n            16   15  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

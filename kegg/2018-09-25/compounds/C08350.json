@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C08350",
+    "name": "beta-D-Glucopyranuronic acid",
+    "names": [
+      "beta-D-Glucopyranuronic acid",
+      "beta-D-Glucuronic acid"
+    ],
+    "formula": "C6H10O7",
+    "exact_mass": 194.0427,
+    "mol_weight": 194.1394,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "10547"
+      ],
+      "ChEBI": [
+        "28860"
+      ],
+      "ChEMBL": [
+        "CHEMBL1159524",
+        "CHEMBL496672"
+      ],
+      "PDB-CCD": [
+        "BDP"
+      ],
+      "NIKKAJI": [
+        "J283.110D"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1y C    25.0844  -18.3234\n            2   C1y C    25.0844  -19.7213\n            3   O2x O    26.2960  -17.6244\n            4   C6a C    23.8729  -17.6244\n            5   C1y C    26.2960  -20.4262\n            6   O1a O    23.8729  -20.4262\n            7   C1y C    27.5075  -18.3234\n            8   O6a O    22.6555  -18.3176\n            9   O6a O    23.8729  -16.2207\n            10  C1y C    27.5075  -19.7213\n            11  O1a O    26.2960  -21.8242\n            12  O1a O    28.7190  -17.6244\n            13  O1a O    28.7190  -20.4262\nBOND        13\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Down\n            6     3   7 1\n            7     4   8 1\n            8     4   9 2\n            9     5  10 1\n            10    5  11 1 #Up\n            11    7  12 1 #Up\n            12   10  13 1 #Down\n            13    7  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

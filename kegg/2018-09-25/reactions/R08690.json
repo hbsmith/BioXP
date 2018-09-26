@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08690",
+    "name": "side chain-elongation",
+    "definition": "L-Phenylalanine <=> L-Homophenylalanine",
+    "equation": "C00079 <=> C17235",
+    "comment": "incomplete reaction multi-step reaction (see R10499+R10500+R10501+R10502+R10503) side chain-elongationed",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00966": "Glucosinolate biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

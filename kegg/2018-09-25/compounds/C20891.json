@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C20891",
+    "name": "Isoxazolin-5-one",
+    "names": [
+      "Isoxazolin-5-one",
+      "5-Hydroxyisoxazole"
+    ],
+    "formula": "C3H3NO2",
+    "exact_mass": 85.0164,
+    "mol_weight": 85.0614,
+    "remark": "",
+    "comment": "including tautomers",
+    "reactions": [
+      "R10839",
+      "R10840"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.5.1.118",
+      "2.5.1.119"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741354"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C8y C     9.9400  -15.2600\n            2   O7x O    11.3400  -15.2600\n            3   N4x N    11.7726  -13.9285\n            4   C8x C    10.6400  -13.1056\n            5   C8x C     9.5074  -13.9285\n            6   O6a O     9.1171  -16.3926\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     1   5 1\n            6     1   6 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

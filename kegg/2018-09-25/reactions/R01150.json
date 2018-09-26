@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01150",
+    "name": "D-alanine:D-alanine ligase (ADP-forming)",
+    "definition": "ATP + 2 D-Alanine <=> ADP + Orthophosphate + D-Alanyl-D-alanine",
+    "equation": "C00002 + 2 C00133 <=> C00008 + C00009 + C00993",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.4"
+    ],
+    "pathways": {
+      "rn00473": "D-Alanine metabolism",
+      "rn00550": "Peptidoglycan biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01921": "D-alanine-D-alanine ligase [EC:6.3.2.4]"
+    }
+  }
+]

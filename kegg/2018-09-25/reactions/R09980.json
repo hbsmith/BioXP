@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09980",
+    "name": "Ureidoacrylate amidohydrolase",
+    "definition": "Ureidoacrylate + H2O <=> Aminoacrylate + Carbamate",
+    "equation": "C20254 + C00001 <=> C20253 + C01563",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.110"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+      "K09020": "ureidoacrylate peracid hydrolase [EC:3.5.1.110]"
+    }
+  }
+]

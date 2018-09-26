@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05346",
+    "name": "",
+    "definition": "Parathion + 3 Reduced acceptor <=> Aminoparathion + 3 Acceptor + 2 H2O",
+    "equation": "C06604 + 3 C00030 <=> C06605 + 3 C00028 + 2 C00001",
+    "comment": "unclear reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

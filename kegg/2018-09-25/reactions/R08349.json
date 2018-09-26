@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08349",
+    "name": "citalopram aldehyde:oxygen oxidoreductase",
+    "definition": "Citalopram aldehyde + H2O + Oxygen <=> Citalopram propionic acid + Hydrogen peroxide",
+    "equation": "C16612 + C00001 + C00007 <=> C16610 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.3.1"
+    ],
+    "pathways": {
+      "rn00982": "Drug metabolism - cytochrome P450"
+    },
+    "orthologs": {
+      "K00157": "aldehyde oxidase [EC:1.2.3.1]"
+    }
+  }
+]

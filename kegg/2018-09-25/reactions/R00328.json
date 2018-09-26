@@ -1,0 +1,27 @@
+[
+  {
+    "entry_id": "R00328",
+    "name": "GDP phosphohydrolase",
+    "definition": "GDP + H2O <=> GMP + Orthophosphate",
+    "equation": "C00035 + C00001 <=> C00144 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.5",
+      "3.6.1.6",
+      "3.6.1.42"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K01510": "apyrase [EC:3.6.1.5]",
+      "K01511": "ectonucleoside triphosphate diphosphohydrolase 5/6 [EC:3.6.1.6]",
+      "K12304": "soluble calcium-activated nucleotidase 1 [EC:3.6.1.6]",
+      "K12305": "ectonucleoside triphosphate diphosphohydrolase 4 [EC:3.6.1.6]",
+      "K14641": "apyrase [EC:3.6.1.5]",
+      "K14642": "golgi apyrase [EC:3.6.1.5]"
+    }
+  }
+]

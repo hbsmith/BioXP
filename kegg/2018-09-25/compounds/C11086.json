@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C11086",
+    "name": "Molinate",
+    "names": [
+      "Molinate",
+      "Ordram"
+    ],
+    "formula": "C9H17NOS",
+    "exact_mass": 187.1031,
+    "mol_weight": 187.3024,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "2212-67-1"
+      ],
+      "PubChem": [
+        "13268"
+      ],
+      "ChEBI": [
+        "6964"
+      ],
+      "ChEMBL": [
+        "CHEMBL1865916"
+      ],
+      "NIKKAJI": [
+        "J1.802C"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1x C    25.1948  -24.7852\n            2   C1x C    26.4596  -24.1929\n            3   N1y N    27.7192  -24.8185\n            4   C1x C    24.8691  -26.1505\n            5   C1x C    28.0204  -26.1841\n            6   C1x C    25.7357  -27.3275\n            7   C1x C    27.1382  -27.2675\n            8   C5a C    28.9282  -24.1120\n            9   S2a S    30.1388  -24.8088\n            10  C1b C    31.3496  -24.1049\n            11  C1a C    32.5532  -24.8017\n            12  O5a O    28.9235  -22.7112\nBOND        12\n            1     1   2 1\n            2     5   7 1\n            3     6   7 1\n            4     1   4 1\n            5     3   8 1\n            6     8   9 1\n            7     3   5 1\n            8     9  10 1\n            9     2   3 1\n            10   10  11 1\n            11    4   6 1\n            12    8  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

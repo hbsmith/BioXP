@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04888",
+    "name": "3-Methoxy-4-hydroxyphenylacetaldehyde:NAD+ oxidoreductase",
+    "definition": "3-Methoxy-4-hydroxyphenylacetaldehyde + NAD+ + H2O <=> Homovanillate + NADH + H+",
+    "equation": "C05581 + C00003 + C00001 <=> C05582 + C00004 + C00080",
+    "comment": "see R04889 (NADPH)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.5"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00129": "aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]"
+    }
+  }
+]

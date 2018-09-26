@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C03847",
+    "name": "6-Phospho-beta-D-galactoside",
+    "names": [
+      "6-Phospho-beta-D-galactoside"
+    ],
+    "formula": "C6H12O9PR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R03255"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.2.1.85"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6584"
+      ],
+      "ChEBI": [
+        "27887"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C1y C    18.5563  -13.6752\n            2   O2x O    19.7646  -12.9748\n            3   C1y C    18.5563  -15.0763\n            4   C1b C    17.3612  -12.9748\n            5   C1y C    20.9856  -13.6688\n            6   C1y C    19.7646  -15.7703\n            7   O1a O    17.3612  -15.7703\n            8   O2b O    16.2879  -13.8744\n            9   C1y C    20.9856  -15.0763\n            10  O2a O    22.2002  -12.9748\n            11  O1a O    19.7646  -17.1647\n            12  P1b P    14.8804  -13.8681\n            13  O1a O    22.2002  -15.7703\n            14  R   R    23.4084  -13.6752\n            15  O1c O    13.4860  -13.8681\n            16  O1c O    14.8869  -12.4671\n            17  O1c O    14.8998  -15.3010\nBOND        17\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     3   6 1\n            6     3   7 1 #Up\n            7     4   8 1\n            8     5   9 1\n            9     5  10 1 #Up\n            10    6  11 1 #Up\n            11    8  12 1\n            12    9  13 1 #Down\n            13   10  14 1\n            14   12  15 1\n            15   12  16 1\n            16   12  17 2\n            17    6   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

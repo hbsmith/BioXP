@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C14111",
+    "name": "5,6,7,8-Tetrahydro-2-naphthoic acid",
+    "names": [
+      "5,6,7,8-Tetrahydro-2-naphthoic acid"
+    ],
+    "formula": "C11H12O2",
+    "exact_mass": 176.0837,
+    "mol_weight": 176.2118,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06898",
+      "R06899",
+      "R06900",
+      "R06901"
+    ],
+    "pathways": {
+      "map00626": "Naphthalene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1131-63-1"
+      ],
+      "PubChem": [
+        "854347"
+      ],
+      "ChEBI": [
+        "34447"
+      ],
+      "NIKKAJI": [
+        "J203.377A"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    26.2500  -18.6200\n            2   C8x C    26.2500  -20.0200\n            3   C8x C    25.0600  -20.7200\n            4   C8x C    25.0600  -17.9200\n            5   C8y C    23.8700  -18.6200\n            6   C8y C    23.8700  -20.0200\n            7   C1x C    22.6100  -20.7200\n            8   C1x C    21.4200  -20.0200\n            9   C1x C    21.4200  -18.6200\n            10  C1x C    22.6100  -17.9200\n            11  C6a C    27.5100  -17.9200\n            12  O6a O    28.7000  -18.6200\n            13  O6a O    27.5100  -16.5200\nBOND        14\n            1     3   6 2\n            2     5   4 2\n            3     4   1 1\n            4     5   6 1\n            5     6   7 1\n            6     7   8 1\n            7     8   9 1\n            8     9  10 1\n            9    10   5 1\n            10    1  11 1\n            11    1   2 2\n            12   11  12 1\n            13    2   3 1\n            14   11  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

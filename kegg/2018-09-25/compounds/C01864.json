@@ -1,0 +1,59 @@
+[
+  {
+    "entry_id": "C01864",
+    "name": "Xanthotoxin",
+    "names": [
+      "Xanthotoxin",
+      "Methoxsalen",
+      "O-Methylxanthotoxol",
+      "8-Methoxypsoralen",
+      "8-Methoxyfuranocoumarin"
+    ],
+    "formula": "C12H8O4",
+    "exact_mass": 216.0423,
+    "mol_weight": 216.1895,
+    "remark": "Same as: D00139",
+    "comment": "",
+    "reactions": [
+      "R02982"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.1.1.70"
+    ],
+    "dblinks": {
+      "CAS": [
+        "298-81-7"
+      ],
+      "PubChem": [
+        "4978"
+      ],
+      "ChEBI": [
+        "18358"
+      ],
+      "ChEMBL": [
+        "CHEMBL416"
+      ],
+      "KNApSAcK": [
+        "C00000576"
+      ],
+      "PDB-CCD": [
+        "8MO"
+      ],
+      "3DMET": [
+        "B00362"
+      ],
+      "NIKKAJI": [
+        "J2.983A"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8y C    24.7100  -21.4900\n            2   C8x C    24.7100  -22.8900\n            3   C8x C    25.9000  -23.5900\n            4   C8y C    27.1600  -22.8900\n            5   C8y C    27.1600  -21.4900\n            6   O7x O    25.9000  -20.7900\n            7   C8x C    28.3500  -23.5900\n            8   C8y C    29.5400  -22.8900\n            9   C8y C    29.5400  -21.4900\n            10  C8y C    28.3500  -20.7900\n            11  C8x C    30.8700  -23.3100\n            12  C8x C    31.7100  -22.1900\n            13  O2x O    30.8700  -21.0700\n            14  O6a O    23.5200  -20.7900\n            15  O2a O    28.3500  -19.3900\n            16  C1a C    29.5400  -18.6900\nBOND        18\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     4   7 2\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    5  10 2\n            12    8  11 1\n            13   11  12 2\n            14   12  13 1\n            15    9  13 1\n            16    1  14 2\n            17   10  15 1\n            18   15  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

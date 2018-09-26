@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C14514",
+    "name": "Chinomethionat",
+    "names": [
+      "Chinomethionat",
+      "Quinomethionate",
+      "6-Methyl-2,3-quinoxalinedithiol cyclic S,S-dithiocarbonate"
+    ],
+    "formula": "C10H6N2OS2",
+    "exact_mass": 233.9922,
+    "mol_weight": 234.2974,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "2439-01-2"
+      ],
+      "PubChem": [
+        "17395514"
+      ],
+      "ChEBI": [
+        "34620"
+      ],
+      "ChEMBL": [
+        "CHEMBL1595865"
+      ],
+      "NIKKAJI": [
+        "J3.029E"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8y C    12.8800  -16.8700\n            2   C8x C    12.8800  -18.2700\n            3   C8x C    14.0924  -18.9700\n            4   C8y C    15.3049  -18.2700\n            5   C8y C    15.3049  -16.8700\n            6   C8x C    14.0924  -16.1700\n            7   N5x N    16.5173  -18.9700\n            8   C8y C    17.7297  -18.2700\n            9   C8y C    17.7297  -16.8700\n            10  N5x N    16.5173  -16.1700\n            11  S2x S    19.0612  -18.7026\n            12  C8y C    19.8841  -17.5700\n            13  S2x S    19.0612  -16.4374\n            14  O5x O    21.2800  -17.5700\n            15  C1a C    11.6676  -16.1700\nBOND        17\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 2\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12    8  11 1\n            13   11  12 1\n            14   12  13 1\n            15    9  13 1\n            16   12  14 2\n            17    1  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

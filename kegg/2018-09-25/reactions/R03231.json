@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03231",
+    "name": "S-Adenosyl-L-methionine:8-amino-7-oxononanoate aminotransferase",
+    "definition": "S-Adenosyl-L-methionine + 8-Amino-7-oxononanoate <=> S-Adenosyl-4-methylthio-2-oxobutanoate + 7,8-Diaminononanoate",
+    "equation": "C00019 + C01092 <=> C04425 + C01037",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.62"
+    ],
+    "pathways": {
+      "rn00780": "Biotin metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00833": "adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62]",
+      "K19562": "bifunctional dethiobiotin synthetase / adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:6.3.3.3 2.6.1.62]"
+    }
+  }
+]

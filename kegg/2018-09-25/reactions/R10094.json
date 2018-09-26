@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10094",
+    "name": "2'-deamino-2'-hydroxyneamine:2-oxoglutarate aminotransferase",
+    "definition": "2'-Deamino-2'-hydroxyneamine + 2-Oxoglutarate <=> 2'-Deamino-2'-hydroxy-6'-dehydroparomamine + L-Glutamate",
+    "equation": "C20350 + C00026 <=> C20351 + C00025",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.94"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20568": "neamine transaminase / 2'-deamino-2'-hydroxyneamine transaminase [EC:2.6.1.93 2.6.1.94]"
+    }
+  }
+]

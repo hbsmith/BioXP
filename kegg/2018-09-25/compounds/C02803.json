@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C02803",
+    "name": "4-Nitroacetophenone",
+    "names": [
+      "4-Nitroacetophenone",
+      "p-Nitroacetophenone"
+    ],
+    "formula": "C8H7NO3",
+    "exact_mass": 165.0426,
+    "mol_weight": 165.1461,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "100-19-6"
+      ],
+      "PubChem": [
+        "5753"
+      ],
+      "ChEBI": [
+        "28735"
+      ],
+      "ChEMBL": [
+        "CHEMBL167997"
+      ],
+      "NIKKAJI": [
+        "J803F"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    18.4100  -13.3604\n            2   C5a C    18.4100  -12.0400\n            3   C8x C    17.2054  -14.0587\n            4   C8x C    19.6338  -14.0587\n            5   C1a C    19.6146  -11.3415\n            6   O5a O    17.1991  -11.3480\n            7   C8x C    17.2054  -15.4685\n            8   C8x C    19.6338  -15.4685\n            9   C8y C    18.4100  -16.1796\n            10  N2b N    18.4100  -17.5763 #+\n            11  O3a O    19.7481  -18.5548\n            12  O3a O    17.1225  -18.5548 #-\nBOND        12\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     4   8 2\n            8     7   9 2\n            9     9  10 1\n            10   10  11 2\n            11   10  12 1\n            12    8   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

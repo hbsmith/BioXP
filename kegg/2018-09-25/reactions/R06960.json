@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06960",
+    "name": "carotenoid psi-end group lyase (decyclizing)",
+    "definition": "all-trans-Neurosporene <=> alpha-Zeacarotene",
+    "equation": "C05431 <=> C14146",
+    "comment": "lycopene epsilon cyclase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.18"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K06444": "lycopene epsilon-cyclase [EC:5.5.1.18]"
+    }
+  }
+]

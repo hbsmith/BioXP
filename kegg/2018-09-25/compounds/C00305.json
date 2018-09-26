@@ -1,0 +1,59 @@
+[
+  {
+    "entry_id": "C00305",
+    "name": "Magnesium cation",
+    "names": [
+      "Magnesium cation",
+      "Mg2+",
+      "Magnesium(2+)",
+      "Magnesium ion"
+    ],
+    "formula": "Mg",
+    "exact_mass": 23.985,
+    "mol_weight": 24.305,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03877",
+      "R04795",
+      "R08584",
+      "R09033"
+    ],
+    "pathways": {
+      "map02020": "Two-component system",
+      "map04217": "Necroptosis",
+      "map04720": "Long-term potentiation",
+      "map04744": "Phototransduction",
+      "map04978": "Mineral absorption"
+    },
+    "enzymes": [
+      "4.99.1.10",
+      "6.6.1.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "22537-22-0"
+      ],
+      "PubChem": [
+        "3599"
+      ],
+      "ChEBI": [
+        "18420",
+        "25107"
+      ],
+      "PDB-CCD": [
+        "MG"
+      ],
+      "NIKKAJI": [
+        "J3.728A"
+      ]
+    },
+    "kcf": "ATOM        1\n            1   Z   Mg   25.6900  -19.0400 #2+\nBOND        0\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

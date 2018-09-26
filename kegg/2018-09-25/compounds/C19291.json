@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19291",
+    "name": "Phenyl glycidyl ether",
+    "names": [
+      "Phenyl glycidyl ether"
+    ],
+    "formula": "C9H10O2",
+    "exact_mass": 150.0681,
+    "mol_weight": 150.1745,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "122-60-1"
+      ],
+      "PubChem": [
+        "124489963"
+      ],
+      "ChEBI": [
+        "82367"
+      ],
+      "ChEMBL": [
+        "CHEMBL1568222"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    18.1300  -15.1900\n            2   C8x C    18.1300  -16.5900\n            3   C8x C    19.3424  -17.2900\n            4   C8x C    20.5549  -16.5900\n            5   C8y C    20.5549  -15.1900\n            6   C8x C    19.3424  -14.4900\n            7   O2a O    21.7924  -14.4900\n            8   C1b C    23.0049  -15.1900\n            9   C1y C    24.2173  -14.4900\n            10  C1x C    25.6173  -14.4900\n            11  O2x O    24.9173  -13.2776\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    9  11 1\n            12   11  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

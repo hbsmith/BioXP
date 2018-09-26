@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02926",
+    "name": "Melibiitol galactohydrolase",
+    "definition": "Melibiitol + H2O <=> D-Sorbitol + D-Galactose",
+    "equation": "C05399 + C00001 <=> C00794 + C00124",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.22"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism"
+    },
+    "orthologs": {
+      "K01189": "alpha-galactosidase [EC:3.2.1.22]",
+      "K07406": "alpha-galactosidase [EC:3.2.1.22]",
+      "K07407": "alpha-galactosidase [EC:3.2.1.22]"
+    }
+  }
+]

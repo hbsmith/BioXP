@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C13693",
+    "name": "4,5,6,7-Tetrahydroisoxazolo(5,4-c)pyridin-3-ol",
+    "names": [
+      "4,5,6,7-Tetrahydroisoxazolo(5,4-c)pyridin-3-ol",
+      "THIP",
+      "Gaboxadol"
+    ],
+    "formula": "C6H8N2O2",
+    "exact_mass": 140.0586,
+    "mol_weight": 140.1399,
+    "remark": "Same as: D04282",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "64603-91-4"
+      ],
+      "PubChem": [
+        "586282"
+      ],
+      "ChEBI": [
+        "34373"
+      ],
+      "ChEMBL": [
+        "CHEMBL312443"
+      ],
+      "NIKKAJI": [
+        "J23.621G"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    28.2074  -19.0204\n            2   C8y C    29.5516  -18.6290\n            3   N4x N    30.3967  -19.6486\n            4   O2x O    29.4861  -20.9082\n            5   C8y C    28.1760  -20.4148\n            6   O5x O    29.8911  -17.2908\n            7   C1x C    26.9101  -21.0750\n            8   N1x N    25.7428  -20.3212\n            9   C1x C    25.7743  -18.9268\n            10  C1x C    27.0402  -18.2666\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 2\n            6     2   6 2\n            7     5   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    1  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

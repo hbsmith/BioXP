@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06814",
+    "name": "UDP-D-xylose:flavonol-3-O-glycoside 2''-O-beta-D-xylosyltransferase",
+    "definition": "Quercetin 3-O-glucoside + UDP-D-xylose <=> Quercetin 3-O-[beta-D-xylosyl-(1->2)-beta-D-glucoside] + UDP",
+    "equation": "C05623 + C00190 <=> C12637 + C00015",
+    "comment": "flavonol-3-O-glycoside xylosyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.2.35"
+    ],
+    "pathways": {
+      "rn00944": "Flavone and flavonol biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

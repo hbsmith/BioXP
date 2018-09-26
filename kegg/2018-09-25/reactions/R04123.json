@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04123",
+    "name": "Transferrin[Fe(II)]2:NAD+ oxidoreductase",
+    "definition": "Transferrin[Fe(II)]2 + NAD+ + H+ <=> Transferrin[Fe(III)]2 + NADH",
+    "equation": "C03029 + C00003 + C00080 <=> C03179 + C00004",
+    "comment": "subsequentry R04124 (releasing iron(2+)[CPD:C14818])",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.16.1.2"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05345",
+    "name": "",
+    "definition": "beta-Carotene <=> Echinenone",
+    "equation": "C02094 <=> C08592",
+    "comment": "incomplete reaction beta-carotene ketolase(crtO or crtW)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis"
+    },
+    "orthologs": {
+      "K02292": "beta-carotene ketolase (CrtO type)",
+      "K09836": "beta-carotene ketolase (CrtW type)"
+    }
+  }
+]

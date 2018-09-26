@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01378",
+    "name": "Phenylpyruvate keto-enol-isomerase",
+    "definition": "Phenylpyruvate <=> 2-Hydroxy-3-phenylpropenoate",
+    "equation": "C00166 <=> C02763",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.2.1"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism"
+    },
+    "orthologs": {
+      "K07253": "phenylpyruvate tautomerase [EC:5.3.2.1]"
+    }
+  }
+]

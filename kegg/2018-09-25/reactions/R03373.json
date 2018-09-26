@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03373",
+    "name": "4-Hydroxyphenyllactate:NAD+ oxidoreductase",
+    "definition": "3-(3,4-Dihydroxyphenyl)lactate + NAD+ <=> 3-(3,4-Dihydroxyphenyl)pyruvate + NADH + H+",
+    "equation": "C01207 + C00003 <=> C04045 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.237"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism"
+    },
+    "orthologs": {
+      "K18606": "hydroxyphenylpyruvate reductase [EC:1.1.1.237]"
+    }
+  }
+]

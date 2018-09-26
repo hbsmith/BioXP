@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02060",
+    "name": "D-Glucosamine 1-phosphate 1,6-phosphomutase; D-glucosamine 1,6-phosphomutase",
+    "definition": "alpha-D-Glucosamine 1-phosphate <=> D-Glucosamine 6-phosphate",
+    "equation": "C06156 <=> C00352",
+    "comment": "intermediate (alpha-D-glucosamine 1,6-bisphosphate)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.2.10"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K03431": "phosphoglucosamine mutase [EC:5.4.2.10]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11639",
+    "name": "",
+    "definition": "(Z)-2-Methylbutanal oxime <=> 2-Methylbutanenitrile + H2O",
+    "equation": "C20312 <=> C21525 + C00001",
+    "comment": "second step of three-step reaction (see R11597, R10030+R11639+R11640)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.41"
+    ],
+    "pathways": {
+      "rn00460": "Cyanoamino acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

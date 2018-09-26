@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C09898",
+    "name": "alpha-Terpinene",
+    "names": [
+      "alpha-Terpinene"
+    ],
+    "formula": "C10H16",
+    "exact_mass": 136.1252,
+    "mol_weight": 136.234,
+    "remark": "",
+    "comment": "See gamma-Terpinene [CPD:C09900]",
+    "reactions": [
+      "R09970"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.2.3.115"
+    ],
+    "dblinks": {
+      "CAS": [
+        "99-86-5"
+      ],
+      "PubChem": [
+        "12084"
+      ],
+      "ChEBI": [
+        "10334"
+      ],
+      "ChEMBL": [
+        "CHEMBL2251642"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0102090026"
+      ],
+      "KNApSAcK": [
+        "C00003060"
+      ],
+      "3DMET": [
+        "B03361"
+      ],
+      "NIKKAJI": [
+        "J4.975A"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C2y C    24.6400  -16.1740\n            2   C1c C    24.6400  -17.5706\n            3   C1x C    23.4238  -15.4700\n            4   C2x C    25.8503  -15.4700\n            5   C1a C    23.4297  -18.2689\n            6   C1a C    25.8562  -18.2632\n            7   C1x C    23.4238  -14.0677\n            8   C2x C    25.8503  -14.0677\n            9   C2y C    24.6400  -13.3751\n            10  C1a C    24.6400  -11.9727\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     4   8 1\n            8     7   9 1\n            9     9  10 1\n            10    8   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

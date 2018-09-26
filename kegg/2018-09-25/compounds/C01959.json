@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C01959",
+    "name": "Taurocyamine",
+    "names": [
+      "Taurocyamine"
+    ],
+    "formula": "C3H9N3O3S",
+    "exact_mass": 167.0365,
+    "mol_weight": 167.1869,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01686",
+      "R03785"
+    ],
+    "pathways": {
+      "map00430": "Taurine and hypotaurine metabolism"
+    },
+    "enzymes": [
+      "2.1.4.1",
+      "2.7.3.4"
+    ],
+    "dblinks": {
+      "CAS": [
+        "543-18-0"
+      ],
+      "PubChem": [
+        "5060"
+      ],
+      "ChEBI": [
+        "17228"
+      ],
+      "ChEMBL": [
+        "CHEMBL21832"
+      ],
+      "PDB-CCD": [
+        "3S5"
+      ],
+      "3DMET": [
+        "B00373"
+      ],
+      "NIKKAJI": [
+        "J11.554A"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   N1b N    14.7000  -19.7400\n            2   C1b C    15.9124  -19.0400\n            3   C1b C    17.1249  -19.7400\n            4   S4a S    18.3373  -19.0400\n            5   O1d O    19.5497  -19.7400\n            6   O1d O    19.5373  -18.1201\n            7   O1d O    17.0674  -18.1901\n            8   C2c C    13.4876  -19.0400\n            9   N1a N    12.2921  -19.7304\n            10  N2a N    13.4875  -17.6402\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     4   6 2\n            6     4   7 2\n            7     1   8 1\n            8     8   9 1\n            9     8  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

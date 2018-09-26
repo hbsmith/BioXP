@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06852",
+    "name": "",
+    "definition": "4-Hydroxyaniline + H2O <=> p-Benzoquinone + Ammonia",
+    "equation": "C02372 + C00001 <=> C00472 + C00014",
+    "comment": "4-aminophenol dehydrogenase two-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.-.-"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

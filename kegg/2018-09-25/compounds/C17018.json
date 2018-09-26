@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C17018",
+    "name": "1,4-Dihydroxy-6-naphthoate",
+    "names": [
+      "1,4-Dihydroxy-6-naphthoate"
+    ],
+    "formula": "C11H8O4",
+    "exact_mass": 204.0423,
+    "mol_weight": 204.1788,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08589",
+      "R08596"
+    ],
+    "pathways": {
+      "map00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023499"
+      ],
+      "ChEBI": [
+        "64254",
+        "64284"
+      ],
+      "NIKKAJI": [
+        "J2.695.785K"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8y C    14.8400  -13.3000\n            2   C8x C    14.8400  -14.7000\n            3   C8x C    16.0524  -15.4000\n            4   C8y C    17.2649  -14.7000\n            5   C8y C    17.2649  -13.3000\n            6   C8x C    16.0524  -12.6000\n            7   C8y C    18.4773  -15.4000\n            8   C8x C    19.6897  -14.7000\n            9   C8x C    19.6897  -13.3000\n            10  C8y C    18.4773  -12.6000\n            11  C6a C    13.6276  -12.6000\n            12  O6a O    12.4151  -13.3000\n            13  O6a O    13.6276  -11.2000\n            14  O1a O    18.4773  -11.2000\n            15  O1a O    18.4773  -16.8000\nBOND        16\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 2\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12    1  11 1\n            13   11  12 1\n            14   11  13 2\n            15   10  14 1\n            16    7  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

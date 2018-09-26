@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09997",
+    "name": "methanethiol:coenzyme M methyltransferase",
+    "definition": "Methanethiol + Coenzyme M <=> 2-(Methylthio)ethanesulfonate + Hydrogen sulfide",
+    "equation": "C00409 + C03576 <=> C03920 + C00283",
+    "comment": "two-step reaction (see R10001+R10000)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.251"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism"
+    },
+    "orthologs": {
+      "K16954": "methylthiol:coenzyme M methyltransferase [EC:2.1.1.251]",
+      "K16955": "methylated-thiol--corrinoid protein"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10492",
+    "name": "S-adenosyl-L-methionine:delta-tocotrienol 5-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + delta-Tocotrienol <=> S-Adenosyl-L-homocysteine + beta-Tocotrienol",
+    "equation": "C00019 + C14156 <=> C00021 + C14154",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.95"
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K05928": "tocopherol O-methyltransferase [EC:2.1.1.95]"
+    }
+  }
+]

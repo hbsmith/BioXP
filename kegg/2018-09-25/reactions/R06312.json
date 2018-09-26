@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06312",
+    "name": "9alpha-Copalyl-diphosphate lyase (decyclizing)",
+    "definition": "Geranylgeranyl diphosphate <=> 9alpha-Copalyl diphosphate",
+    "equation": "C00353 <=> C11902",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.14"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K12928": "aphidicolan-16beta-ol synthase/syn-copalyl-diphosphate synthase [EC:4.2.3.42 5.5.1.14]",
+      "K14043": "syn-copalyl-diphosphate synthase [EC:5.5.1.14]"
+    }
+  }
+]

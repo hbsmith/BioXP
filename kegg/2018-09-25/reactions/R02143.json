@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02143",
+    "name": "Xanthosine ribohydrolase",
+    "definition": "Xanthosine + H2O <=> Xanthine + D-Ribose",
+    "equation": "C01762 + C00001 <=> C00385 + C00121",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.2.1"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K01239": "purine nucleosidase [EC:3.2.2.1]"
+    }
+  }
+]

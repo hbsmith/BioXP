@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C12251",
+    "name": "2-Iodo-6-methoxyphenol",
+    "names": [
+      "2-Iodo-6-methoxyphenol"
+    ],
+    "formula": "C7H7IO2",
+    "exact_mass": 249.9491,
+    "mol_weight": 250.0338,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "14396"
+      ],
+      "ChEBI": [
+        "31084"
+      ],
+      "NIKKAJI": [
+        "J1.218.776I"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O1a O    26.1762  -20.0885\n            2   C8y C    27.4751  -17.8282\n            3   C8y C    27.4751  -19.2150\n            4   C8y C    28.6751  -19.9121\n            5   C8x C    29.8597  -19.2150\n            6   C8x C    29.8597  -17.8282\n            7   C8x C    28.6751  -17.1387\n            8   O2a O    28.6692  -21.2989\n            9   X   I    26.2712  -17.1380\n            10  C1a C    29.8519  -21.9897\nBOND        10\n            1     2   3 2\n            2     3   4 1\n            3     4   5 2\n            4     5   6 1\n            5     6   7 2\n            6     7   2 1\n            7     4   8 1\n            8     3   1 1\n            9     2   9 1\n            10    8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

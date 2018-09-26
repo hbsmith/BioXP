@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06303",
+    "name": "ent-copalyl-diphosphate diphosphate-lyase [ent-abieta-8(14),12-diene-forming]",
+    "definition": "Copalyl diphosphate <=> Neoabietadiene + Diphosphate",
+    "equation": "C11901 <=> C11880 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.132"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K12927": "abietadiene/neoabietadiene/copalyl diphosphate synthase [EC:4.2.3.18 4.2.3.132 5.5.1.12]",
+      "K19571": "levopimaradiene/neoabietadiene/copalyl diphosphate synthase [EC:4.2.3.32 4.2.3.132 5.5.1.12]"
+    }
+  }
+]

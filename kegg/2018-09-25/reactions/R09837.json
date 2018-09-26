@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09837",
+    "name": "2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase",
+    "definition": "2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA <=> 2-Oxepin-2(3H)-ylideneacetyl-CoA",
+    "equation": "C20062 <=> C19975",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.3.18"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K15866": "2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase [EC:5.3.3.18]"
+    }
+  }
+]

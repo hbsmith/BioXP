@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R11680",
+    "name": "",
+    "definition": "1-Phosphatidyl-1D-myo-inositol 4-phosphate + H2O <=> 1-Phosphatidyl-D-myo-inositol + Orthophosphate",
+    "equation": "C01277 + C00001 <=> C01194 + C00009",
+    "comment": "phosphatidyl-myo-inositol-4-phosphate 4-phosphohydrolase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.3.-"
+    ],
+    "pathways": {
+      "rn00562": "Inositol phosphate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K21797": "phosphatidylinositol 4-phosphatase [EC:3.1.3.-]",
+      "K21798": "phosphatidylinositol 4-phosphatase [EC:3.1.3.-]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07535",
+    "name": "S-adenosyl-L-methionine:demethylspheroidene O-methyltransferase",
+    "definition": "Demethylspheroidene + S-Adenosyl-L-methionine <=> Spheroidene + S-Adenosyl-L-homocysteine",
+    "equation": "C15898 + C00019 <=> C15900 + C00021",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.210"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K09846": "demethylspheroidene O-methyltransferase [EC:2.1.1.210]"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C16817",
+    "name": "Goitrin",
+    "names": [
+      "Goitrin"
+    ],
+    "formula": "C5H7NOS",
+    "exact_mass": 129.0248,
+    "mol_weight": 129.1802,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "500-12-9"
+      ],
+      "PubChem": [
+        "96023341"
+      ],
+      "ChEBI": [
+        "80751"
+      ],
+      "NIKKAJI": [
+        "J21.392F"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C2y C    30.5987  -19.0317\n            2   O2x O    29.4880  -19.8837\n            3   C1y C    29.9552  -21.2034\n            4   C1x C    31.3546  -21.2368\n            5   N1x N    31.7523  -19.8246\n            6   S0  S    30.5622  -17.6639\n            7   C2b C    29.1666  -22.3502\n            8   C2a C    27.7580  -22.3092\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     1   6 2\n            7     3   7 1\n            8     7   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

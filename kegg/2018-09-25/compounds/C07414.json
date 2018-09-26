@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C07414",
+    "name": "Pargyline",
+    "names": [
+      "Pargyline"
+    ],
+    "formula": "C11H13N",
+    "exact_mass": 159.1048,
+    "mol_weight": 159.2276,
+    "remark": "Same as: D08453",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "555-57-7"
+      ],
+      "PubChem": [
+        "9618"
+      ],
+      "ChEBI": [
+        "7930"
+      ],
+      "ChEMBL": [
+        "CHEMBL673"
+      ],
+      "NIKKAJI": [
+        "J6.471H"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    22.7582  -18.4868\n            2   C1b C    23.9748  -17.7940\n            3   C8x C    22.7582  -19.8955\n            4   C8x C    21.5533  -17.7882\n            5   N1c N    25.1798  -18.4868\n            6   C8x C    21.5533  -20.5881\n            7   C8x C    20.3367  -18.4868\n            8   C1b C    26.3905  -17.7940\n            9   C1a C    25.1798  -19.8955\n            10  C8x C    20.3367  -19.8955\n            11  C3b C    27.6071  -18.4925\n            12  C3a C    28.8178  -19.1969\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     3   6 2\n            6     4   7 1\n            7     5   8 1\n            8     5   9 1\n            9     6  10 1\n            10    8  11 1\n            11   11  12 3\n            12    7  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

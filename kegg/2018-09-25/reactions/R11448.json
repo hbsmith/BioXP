@@ -1,0 +1,27 @@
+[
+  {
+    "entry_id": "R11448",
+    "name": "butane,NADH:oxygen oxidoreductase",
+    "definition": "Butane + NADH + H+ + Oxygen <=> 1-Butanol + NAD+ + H2O",
+    "equation": "C21390 + C00004 + C00080 + C00007 <=> C06142 + C00003 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.230"
+    ],
+    "pathways": {
+      "rn00650": "Butanoate metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K21317": "butane monooxygenase alpha subunit [EC:1.14.13.230]",
+      "K21318": "butane monooxygenase beta subunit [EC:1.14.13.230]",
+      "K21319": "butane monooxygenase gamma subunit [EC:1.14.13.230]",
+      "K21320": "butane monooxygenase reductase",
+      "K21321": "butane monooxygenase regulatory protein",
+      "K21322": "butane monooxygenase hypothetical assembly protein"
+    }
+  }
+]

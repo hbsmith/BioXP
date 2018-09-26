@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C00848",
+    "name": "6-Oxocineole",
+    "names": [
+      "6-Oxocineole",
+      "(1R,4S)-1,3,3-Trimethyl-2-oxabicyclo[2.2.2]octan-6-one",
+      "2-Oxo-1,8-cineole"
+    ],
+    "formula": "C10H16O2",
+    "exact_mass": 168.115,
+    "mol_weight": 168.2328,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02994",
+      "R02995"
+    ],
+    "pathways": {
+      "map00902": "Monoterpenoid biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.1.1.241",
+      "1.14.13.51"
+    ],
+    "dblinks": {
+      "CAS": [
+        "70222-88-7"
+      ],
+      "PubChem": [
+        "4105"
+      ],
+      "ChEBI": [
+        "16123"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0102090064"
+      ],
+      "3DMET": [
+        "B04736"
+      ],
+      "NIKKAJI": [
+        "J288.891B"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1z C    27.7897  -17.9198\n            2   O2x O    29.1598  -18.2065\n            3   C5x C    25.9825  -18.3377\n            4   C1x C    27.3561  -16.5127\n            5   C1a C    28.6480  -17.0883\n            6   C1z C    29.1598  -19.3401\n            7   C1x C    25.6844  -19.4802\n            8   C1x C    26.8528  -17.0696\n            9   C1y C    27.5807  -18.9647\n            10  C1a C    30.0900  -19.9002\n            11  C1a C    29.1598  -20.5114\n            12  O5x O    24.9131  -17.2385\nBOND        13\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1\n            5     2   6 1\n            6     3   7 1\n            7     4   8 1\n            8     6   9 1\n            9     6  10 1\n            10    6  11 1\n            11    7   9 1\n            12    8   9 1\n            13    3  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

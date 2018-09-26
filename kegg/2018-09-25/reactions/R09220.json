@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09220",
+    "name": "dienelactone hydrolase",
+    "definition": "3-Chloro-2-methyldienelactone + H2O <=> 3-Chloro-2-methylmaleylacetate",
+    "equation": "C18309 + C00001 <=> C18310",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.45"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01061": "carboxymethylenebutenolidase [EC:3.1.1.45]"
+    }
+  }
+]

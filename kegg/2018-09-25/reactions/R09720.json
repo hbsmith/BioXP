@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R09720",
+    "name": "(R)-2-hydroxybutane-1,2,4-tricarboxylate hydro-lyase [(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate-forming]",
+    "definition": "(R)-2-Hydroxybutane-1,2,4-tricarboxylate <=> Homoisocitrate",
+    "equation": "C01251 <=> C05662",
+    "comment": "two-step reaction (see R03444+R04371)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.114"
+    ],
+    "pathways": {
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01210": "2-Oxocarboxylic acid metabolism",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K16792": "methanogen homoaconitase large subunit [EC:4.2.1.114]",
+      "K16793": "methanogen homoaconitase small subunit [EC:4.2.1.114]"
+    }
+  }
+]

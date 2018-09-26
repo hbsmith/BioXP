@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00748",
+    "name": "ethanolamine-phosphate phosphate-lyase (deaminating; acetaldehyde-forming)",
+    "definition": "Ethanolamine phosphate + H2O <=> Acetaldehyde + Ammonia + Orthophosphate",
+    "equation": "C00346 + C00001 <=> C00084 + C00014 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.2"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K14286": "ethanolamine-phosphate phospho-lyase [EC:4.2.3.2]"
+    }
+  }
+]

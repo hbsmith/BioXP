@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08495",
+    "name": "Strychnine synthesis",
+    "definition": "3-alpha(S)-Strictosidine <=> Strychnine",
+    "equation": "C03470 <=> C06522",
+    "comment": "multi-step reaction incomplete reaction possibly intermediate (geissoschizine [CPD:C02151], see R03820+R05844+R05845+R05824+R03860)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

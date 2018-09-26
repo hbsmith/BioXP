@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R08059",
+    "name": "",
+    "definition": "5,10-Methylenetetrahydromethanopterin + NADP+ <=> 5,10-Methenyltetrahydromethanopterin + NADPH",
+    "equation": "C04377 + C00006 <=> C04330 + C00005",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.1.-"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K10714": "methylene-tetrahydromethanopterin dehydrogenase [EC:1.5.1.-]"
+    }
+  }
+]

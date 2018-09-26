@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C12289",
+    "name": "Isoamyl isovalerate",
+    "names": [
+      "Isoamyl isovalerate"
+    ],
+    "formula": "C10H20O2",
+    "exact_mass": 172.1463,
+    "mol_weight": 172.2646,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "659-70-1"
+      ],
+      "PubChem": [
+        "14433"
+      ],
+      "ChEBI": [
+        "31727"
+      ],
+      "ChEMBL": [
+        "CHEMBL3189076"
+      ],
+      "LIPIDMAPS": [
+        "LMFA07010919"
+      ],
+      "NIKKAJI": [
+        "J2.103B"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1a C    23.1658  -20.5853\n            2   C1c C    24.3711  -19.8806\n            3   C1b C    25.5835  -20.5784\n            4   C1b C    26.7956  -19.8735\n            5   O7a O    28.0080  -20.5713\n            6   C7a C    29.2204  -19.8664\n            7   C1b C    30.4326  -20.5642\n            8   C1c C    31.6449  -19.8595\n            9   C1a C    32.8502  -20.5573\n            10  C1a C    24.3680  -18.4779\n            11  C1a C    31.6419  -18.4568\n            12  O6a O    29.2133  -18.4639\nBOND        11\n            1     1   2 1\n            2     6   7 1\n            3     3   4 1\n            4     7   8 1\n            5     8   9 1\n            6     4   5 1\n            7     2  10 1\n            8     2   3 1\n            9     8  11 1\n            10    5   6 1\n            11    6  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R10371",
+    "name": "paspaline,NADPH:oxygen oxidoreductase",
+    "definition": "Paspaline + 2 NADPH + 2 H+ + 2 Oxygen <=> Paspaline B + 2 NADP+ + 3 H2O",
+    "equation": "C20530 + 2 C00005 + 2 C00080 + 2 C00007 <=> C20587 + 2 C00006 + 3 C00001",
+    "comment": "two-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00403": "Indole diterpene alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K18388": "cytochrome P450 monooxygenase [EC:1.14.13.-]",
+      "K18392": "cytochrome P450 monooxygenase [EC:1.14.13.-]"
+    }
+  }
+]

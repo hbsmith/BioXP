@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05078",
+    "name": "",
+    "definition": "Parapyruvate <=> 4-Methylene-2-oxoglutarate + H2O",
+    "equation": "C06033 <=> C06035 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.-"
+    ],
+    "pathways": {
+      "rn00362": "Benzoate degradation",
+      "rn00660": "C5-Branched dibasic acid metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

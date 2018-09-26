@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R09557",
+    "name": "2-sulfoacetaldehyde:NADP+ oxidoreductase (CoA-acetylating)",
+    "definition": "Sulfoacetaldehyde + CoA + NADP+ <=> Sulfoacetyl-CoA + NADPH + H+",
+    "equation": "C00593 + C00010 + C00006 <=> C19685 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.81"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

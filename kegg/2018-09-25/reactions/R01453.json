@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R01453",
+    "name": "cholesterol,NADPH:oxygen oxidoreductase (5beta,6beta-epoxidizing)",
+    "definition": "Cholesterol + Oxygen + NADPH + H+ <=> Cholesterol-5beta,6beta-epoxide + NADP+ + H2O",
+    "equation": "C00187 + C00007 + C00005 + C00080 <=> C05418 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

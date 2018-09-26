@@ -1,0 +1,68 @@
+[
+  {
+    "entry_id": "C00750",
+    "name": "Spermine",
+    "names": [
+      "Spermine",
+      "N,N'-Bis(3-aminopropyl)-1,4-butanediamine"
+    ],
+    "formula": "C10H26N4",
+    "exact_mass": 202.2157,
+    "mol_weight": 202.3402,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02869",
+      "R08352",
+      "R09076"
+    ],
+    "pathways": {
+      "map00330": "Arginine and proline metabolism",
+      "map00410": "beta-Alanine metabolism",
+      "map00480": "Glutathione metabolism",
+      "map01100": "Metabolic pathways",
+      "map04976": "Bile secretion"
+    },
+    "enzymes": [
+      "1.5.3.16",
+      "1.5.3.17",
+      "2.5.1.16",
+      "2.5.1.22",
+      "6.3.1.9"
+    ],
+    "dblinks": {
+      "CAS": [
+        "71-44-3"
+      ],
+      "PubChem": [
+        "4012"
+      ],
+      "ChEBI": [
+        "15746"
+      ],
+      "ChEMBL": [
+        "CHEMBL23194"
+      ],
+      "KNApSAcK": [
+        "C00001432"
+      ],
+      "PDB-CCD": [
+        "SPK",
+        "SPM"
+      ],
+      "3DMET": [
+        "B01325"
+      ],
+      "NIKKAJI": [
+        "J5.246I"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   N1a N    20.5800  -17.0800\n            2   C1b C    21.7924  -16.3800\n            3   C1b C    23.0049  -17.0800\n            4   C1b C    24.2173  -16.3800\n            5   N1b N    25.4297  -17.0800\n            6   C1b C    26.6422  -16.3800\n            7   C1b C    27.8546  -17.0800\n            8   C1b C    29.0670  -16.3800\n            9   C1b C    30.2795  -17.0800\n            10  N1b N    31.4919  -16.3800\n            11  C1b C    32.7044  -17.0800\n            12  C1b C    33.9168  -16.3800\n            13  C1b C    35.1292  -17.0800\n            14  N1a N    36.3417  -16.3800\nBOND        13\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10   10  11 1\n            11   11  12 1\n            12   12  13 1\n            13   13  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10311",
+    "name": "(1'S,5'R)-hydroxyaverantin:NAD+ oxidoreductase",
+    "definition": "(1'S,5'R)-5'-Hydroxyaverantin + NAD+ <=> 5'-Oxoaverantin + NADH + H+",
+    "equation": "C20501 + C00003 <=> C20502 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.352"
+    ],
+    "pathways": {
+      "rn00254": "Aflatoxin biosynthesis"
+    },
+    "orthologs": {
+      "K17652": "5'-hydroxyaverantin dehydrogenase [EC:1.1.1.352]"
+    }
+  }
+]

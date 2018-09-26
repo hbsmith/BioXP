@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C17234",
+    "name": "2-Aminobut-2-enoate",
+    "names": [
+      "2-Aminobut-2-enoate",
+      "(2Z)-2-Aminobut-2-enoic acid",
+      "2-Ammoniobut-2-enoate"
+    ],
+    "formula": "C4H7NO2",
+    "exact_mass": 101.0477,
+    "mol_weight": 101.1039,
+    "remark": "",
+    "comment": "2-Ammoniobut-2-enoate (zwitterion form)",
+    "reactions": [
+      "R08632",
+      "R08633",
+      "R08635",
+      "R08637",
+      "R11101"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.3.1.19",
+      "4.4.1.1",
+      "4.4.1.2",
+      "4.4.1.11"
+    ],
+    "dblinks": {
+      "CAS": [
+        "71018-10-5"
+      ],
+      "PubChem": [
+        "96023642"
+      ],
+      "ChEBI": [
+        "18820"
+      ],
+      "PDB-CCD": [
+        "DBU"
+      ],
+      "NIKKAJI": [
+        "J1.018.629C"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1a C    14.5600  -20.2300\n            2   C2b C    15.7724  -19.5300\n            3   C2c C    16.9849  -20.2300\n            4   C6a C    18.1973  -19.5300\n            5   O6a O    19.4097  -20.2300\n            6   N1a N    16.9849  -21.6300\n            7   O6a O    18.1973  -18.1300\nBOND        6\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     3   6 1\n            6     4   7 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

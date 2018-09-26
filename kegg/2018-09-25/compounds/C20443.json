@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C20443",
+    "name": "5-Hydroxymethylfurfuryl alcohol",
+    "names": [
+      "5-Hydroxymethylfurfuryl alcohol",
+      "2,5-Bis(hydroxymethyl)furan"
+    ],
+    "formula": "C6H8O3",
+    "exact_mass": 128.0473,
+    "mol_weight": 128.1259,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10218"
+    ],
+    "pathways": {
+      "map00365": "Furfural degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1883-75-6"
+      ],
+      "PubChem": [
+        "163312180"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    19.3548  -17.2872\n            2   C8y C    19.7905  -15.9568\n            3   O2x O    18.6549  -15.1308\n            4   C8y C    17.5194  -15.9568\n            5   C8x C    17.9549  -17.2872\n            6   C1b C    16.3077  -15.2511\n            7   O1a O    15.0988  -15.9510\n            8   C1b C    20.9950  -15.2511\n            9   O1a O    22.2039  -15.9510\nBOND        9\n            1     4   5 2\n            2     5   1 1\n            3     4   6 1\n            4     1   2 2\n            5     6   7 1\n            6     2   3 1\n            7     2   8 1\n            8     3   4 1\n            9     8   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C20919",
+    "name": "Isotabtoxin",
+    "names": [
+      "Isotabtoxin",
+      "delta-Tabtoxin"
+    ],
+    "formula": "C11H19N3O6",
+    "exact_mass": 289.1274,
+    "mol_weight": 289.2851,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10895"
+    ],
+    "pathways": {
+      "map00261": "Monobactam biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741382"
+      ],
+      "ChEBI": [
+        "134653"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C1a C    13.1010  -16.0441\n            2   C1c C    14.3145  -15.3435\n            3   C1c C    15.5281  -16.0441\n            4   N1b N    16.7415  -15.3435\n            5   C5a C    17.9549  -16.0441\n            6   C1y C    19.1687  -15.3435\n            7   O1a O    14.3145  -13.9424\n            8   C6a C    15.5281  -17.4450\n            9   O6a O    16.7603  -18.1567\n            10  O6a O    14.3334  -18.1349\n            11  O5a O    17.9549  -17.4451\n            12  N1x N    20.3836  -16.0451\n            13  C5x C    21.5961  -15.3453\n            14  C1z C    21.5962  -13.9453\n            15  C1x C    20.3813  -13.2436\n            16  C1x C    19.1688  -13.9435\n            17  O5x O    22.8267  -16.0565\n            18  C1b C    22.8406  -13.2269\n            19  N1a N    24.0388  -13.9189\n            20  O1a O    21.5962  -12.5453\nBOND        20\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     6   5 1 #Down\n            6     2   7 1 #Up\n            7     3   8 1 #Down\n            8     8   9 2\n            9     8  10 1\n            10    5  11 2\n            11    6  12 1\n            12   12  13 1\n            13   13  14 1\n            14   14  15 1\n            15   15  16 1\n            16    6  16 1\n            17   13  17 2\n            18   14  18 1 #Down\n            19   18  19 1\n            20   14  20 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

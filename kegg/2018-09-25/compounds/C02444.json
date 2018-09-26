@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C02444",
+    "name": "N6-Acyl-L-lysine",
+    "names": [
+      "N6-Acyl-L-lysine"
+    ],
+    "formula": "C7H13N2O3R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R00545"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.5.1.17"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5466"
+      ],
+      "ChEBI": [
+        "16232"
+      ],
+      "NIKKAJI": [
+        "J206.006J"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1b C    23.0284  -17.1593\n            2   C1c C    21.8176  -17.8613\n            3   C1b C    24.2392  -17.8613\n            4   C6a C    20.6068  -17.1593\n            5   N1a N    21.8176  -19.2592\n            6   C1b C    25.4501  -17.1593\n            7   O6a O    19.3902  -17.8613\n            8   O6a O    20.6068  -15.7614\n            9   C1b C    26.6667  -17.8613\n            10  N1b N    27.8775  -17.1593\n            11  C5a C    29.0883  -17.8613\n            12  R   R    30.2992  -17.1593\n            13  O5a O    29.0883  -19.2592\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1 #Down\n            5     3   6 1\n            6     4   7 1\n            7     4   8 2\n            8     6   9 1\n            9     9  10 1\n            10   10  11 1\n            11   11  12 1\n            12   11  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

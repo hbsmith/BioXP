@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19205",
+    "name": "3-Chloro-4-(dichloromethyl)-5-hydroxy-2(5H)-furanone",
+    "names": [
+      "3-Chloro-4-(dichloromethyl)-5-hydroxy-2(5H)-furanone"
+    ],
+    "formula": "C5H3Cl3O3",
+    "exact_mass": 215.9148,
+    "mol_weight": 217.4345,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "77439-76-0"
+      ],
+      "PubChem": [
+        "124489877"
+      ],
+      "ChEBI": [
+        "82299"
+      ],
+      "ChEMBL": [
+        "CHEMBL1450607"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C7x C    16.6402  -19.2115\n            2   C2y C    17.0989  -20.5342\n            3   C2y C    18.4986  -20.5067\n            4   C1y C    18.9050  -19.1670\n            5   O7x O    17.7565  -18.3665\n            6   O6a O    15.3104  -18.8078\n            7   O1a O    20.2192  -18.7113\n            8   X   Cl   16.3036  -21.6750\n            9   C1c C    19.3383  -21.6161\n            10  X   Cl   20.7077  -21.4451\n            11  X   Cl   18.7863  -22.9243\nBOND        11\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     1   6 2\n            7     4   7 1\n            8     2   8 1\n            9     3   9 1\n            10    9  10 1\n            11    9  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06350",
+    "name": "",
+    "definition": "2,3-Dehydro-gibberellin A9 <=> Gibberellin A7",
+    "equation": "C11866 <=> C11867",
+    "comment": "GA 3-oxidase(2-oxoglutarate dependent dioxygenase),GA3ox unclear reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.-"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

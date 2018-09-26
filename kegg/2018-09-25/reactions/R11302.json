@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11302",
+    "name": "",
+    "definition": "Antibiotic JI-20A <=> Gentamicin C1a",
+    "equation": "C17704 <=> C00908",
+    "comment": "incomplete reaction 3'-phosphorylation + 3',4'-bisdehydroxylation",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20598": "aminoglycoside phosphotransferase"
+    }
+  }
+]

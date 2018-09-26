@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00130",
+    "name": "ATP:dephospho-CoA 3'-phosphotransferase",
+    "definition": "ATP + Dephospho-CoA <=> ADP + CoA",
+    "equation": "C00002 + C00882 <=> C00008 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.24"
+    ],
+    "pathways": {
+      "rn00770": "Pantothenate and CoA biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00859": "dephospho-CoA kinase [EC:2.7.1.24]",
+      "K02318": "phosphopantetheine adenylyltransferase / dephospho-CoA kinase [EC:2.7.7.3 2.7.1.24]"
+    }
+  }
+]

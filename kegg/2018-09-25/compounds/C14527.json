@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C14527",
+    "name": "Methyl methacrylate",
+    "names": [
+      "Methyl methacrylate",
+      "MMA",
+      "Methyl 2-methylpropenoate"
+    ],
+    "formula": "C5H8O2",
+    "exact_mass": 100.0524,
+    "mol_weight": 100.1158,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map05204": "Chemical carcinogenesis"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "80-62-6"
+      ],
+      "PubChem": [
+        "17395527"
+      ],
+      "ChEBI": [
+        "34840"
+      ],
+      "ChEMBL": [
+        "CHEMBL49996"
+      ],
+      "NIKKAJI": [
+        "J3.532G"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1a C    18.6200  -15.5400\n            2   C2c C    19.8324  -16.2400\n            3   C7a C    21.0279  -15.5496\n            4   C2a C    19.8325  -17.6398\n            5   O7a O    22.2153  -16.2351\n            6   O6a O    21.0280  -14.1403\n            7   C1a C    23.4065  -15.5471\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n            4     3   5 1\n            5     3   6 2\n            6     5   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

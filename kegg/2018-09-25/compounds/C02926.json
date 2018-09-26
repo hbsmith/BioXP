@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C02926",
+    "name": "Homoserine lactone",
+    "names": [
+      "Homoserine lactone",
+      "2-Aminobutan-4-olide"
+    ],
+    "formula": "C4H7NO2",
+    "exact_mass": 101.0477,
+    "mol_weight": 101.1039,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00180"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.5.1.4"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1192-20-7"
+      ],
+      "PubChem": [
+        "5848"
+      ],
+      "ChEBI": [
+        "17289"
+      ],
+      "NIKKAJI": [
+        "J38.532H"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1x C    28.7609  -17.1267\n            2   C1x C    29.1680  -18.4662\n            3   C1y C    30.5678  -18.4929\n            4   C7x C    31.0257  -17.1699\n            5   O7x O    29.9090  -16.3255\n            6   O6a O    32.3561  -16.7653\n            7   N1a N    31.3700  -19.6426\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     4   6 2\n            7     3   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

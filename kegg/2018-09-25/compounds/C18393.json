@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C18393",
+    "name": "Disophenol",
+    "names": [
+      "Disophenol",
+      "2,6-Diiod-4-nitrophenol"
+    ],
+    "formula": "C6H3I2NO3",
+    "exact_mass": 390.8202,
+    "mol_weight": 390.9019,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "305-85-1"
+      ],
+      "PubChem": [
+        "124489067"
+      ],
+      "ChEBI": [
+        "81727"
+      ],
+      "ChEMBL": [
+        "CHEMBL1361334"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    20.5800  -16.7300\n            2   C8x C    20.5800  -18.1300\n            3   C8y C    21.7924  -18.8300\n            4   C8x C    23.0049  -18.1300\n            5   C8y C    23.0049  -16.7300\n            6   C8y C    21.7924  -16.0300\n            7   O1a O    21.7924  -14.6302\n            8   N2b N    21.7924  -20.2298 #+\n            9   O3a O    20.5632  -20.9397\n            10  O3a O    22.9880  -20.9202 #-\n            11  X   I    24.2360  -16.0190\n            12  X   I    19.3676  -16.0300\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     3   8 1\n            9     8   9 2\n            10    8  10 1\n            11    5  11 1\n            12    1  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

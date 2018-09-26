@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01449",
+    "name": "lactoyl-CoA:propanoate CoA-transferase",
+    "definition": "Lactoyl-CoA + Propanoate <=> (S)-Lactate + Propanoyl-CoA",
+    "equation": "C00827 + C00163 <=> C00186 + C00100",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.1"
+    ],
+    "pathways": {
+      "rn00640": "Propanoate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01026": "propionate CoA-transferase [EC:2.8.3.1]"
+    }
+  }
+]

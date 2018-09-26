@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09107",
+    "name": "N-acetyl-L-citrulline amidohydrolase",
+    "definition": "N-Acetyl-L-citrulline + H2O <=> Acetate + L-Citrulline",
+    "equation": "C15532 + C00001 <=> C00033 + C00327",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.16"
+    ],
+    "pathways": {
+      "rn00220": "Arginine biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01438": "acetylornithine deacetylase [EC:3.5.1.16]"
+    }
+  }
+]

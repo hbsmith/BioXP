@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C09320",
+    "name": "Afzelechin",
+    "names": [
+      "Afzelechin",
+      "3,5,7,4'-Tetrahydroxyflavan"
+    ],
+    "formula": "C15H14O5",
+    "exact_mass": 274.0841,
+    "mol_weight": 274.2687,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06615"
+    ],
+    "pathways": {
+      "map00941": "Flavonoid biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.17.1.3"
+    ],
+    "dblinks": {
+      "CAS": [
+        "2545-00-8"
+      ],
+      "PubChem": [
+        "11511"
+      ],
+      "ChEBI": [
+        "2507"
+      ],
+      "ChEMBL": [
+        "CHEMBL3437595"
+      ],
+      "KNApSAcK": [
+        "C00000937"
+      ],
+      "3DMET": [
+        "B02860"
+      ],
+      "NIKKAJI": [
+        "J14.392H"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C8y C    24.5568  -21.2418\n            2   C8y C    24.5625  -19.8389\n            3   C1x C    25.7664  -21.9496\n            4   C8y C    23.3587  -21.9438\n            5   O2x O    25.7781  -19.1440\n            6   C8x C    23.3587  -19.1440\n            7   C1y C    26.9891  -21.2535\n            8   C8x C    22.1429  -21.2418\n            9   O1a O    23.3587  -23.3348\n            10  C1y C    26.9949  -19.8506\n            11  C8y C    22.1429  -19.8389\n            12  O1a O    28.2049  -21.9730\n            13  O1a O    20.9390  -19.1497\n            14  C8y C    28.2049  -19.1557\n            15  C8x C    29.4205  -19.8564\n            16  C8x C    28.2049  -17.7587\n            17  C8x C    30.6361  -19.1674\n            18  C8x C    29.4263  -17.0567\n            19  C8y C    30.6361  -17.7645\n            20  O1a O    31.8459  -17.0684\nBOND        22\n            1     4   9 1\n            2     5  10 1\n            3     6  11 2\n            4     7  12 1 #Up\n            5    11  13 1\n            6     7  10 1\n            7     8  11 1\n            8     1   2 2\n            9    10  14 1 #Down\n            10    1   3 1\n            11    1   4 1\n            12    2   5 1\n            13    2   6 1\n            14    3   7 1\n            15    4   8 2\n            16   14  15 2\n            17   14  16 1\n            18   15  17 1\n            19   16  18 2\n            20   17  19 2\n            21   19  20 1\n            22   18  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

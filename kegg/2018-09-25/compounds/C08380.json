@@ -1,0 +1,60 @@
+[
+  {
+    "entry_id": "C08380",
+    "name": "2-Heptanone",
+    "names": [
+      "2-Heptanone",
+      "Heptan-2-one",
+      "Methyl n-amyl ketone"
+    ],
+    "formula": "C7H14O",
+    "exact_mass": 114.1045,
+    "mol_weight": 114.1855,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "110-43-0"
+      ],
+      "PubChem": [
+        "10576"
+      ],
+      "ChEBI": [
+        "5672"
+      ],
+      "ChEMBL": [
+        "CHEMBL18893"
+      ],
+      "LIPIDMAPS": [
+        "LMFA12000004"
+      ],
+      "KNApSAcK": [
+        "C00001254"
+      ],
+      "PDB-CCD": [
+        "HTX"
+      ],
+      "3DMET": [
+        "B02178"
+      ],
+      "NIKKAJI": [
+        "J5.091A"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1b C    27.6356  -17.9273\n            2   C1b C    28.8702  -17.2661\n            3   C5a C    26.4419  -17.1901\n            4   C1b C    30.0579  -18.0033\n            5   C1a C    25.2133  -17.8513\n            6   O5a O    26.4887  -15.7918\n            7   C1b C    31.2923  -17.3363\n            8   C1a C    32.4801  -18.0795\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     3   6 2\n            6     4   7 1\n            7     7   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

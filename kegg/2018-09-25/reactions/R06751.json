@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06751",
+    "name": "",
+    "definition": "L-Tyrosine + Peptidyl-carrier protein + ATP <=> L-Tyrosyl-[pcp] + AMP + Diphosphate",
+    "equation": "C00082 + C21097 + C00002 <=> C12461 + C00020 + C00013",
+    "comment": "peptide synthetase, NovH CloH CouH Peptidyl-carrier protein is pcp domain of the enzyme itself [KO:K12701].",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00401": "Novobiocin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12701": "novobiocin biosynthesis protein NovH"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03627",
+    "name": "9-cis,12-cis-Octadecadienoate delta12-cis-delta11-trans-isomerase",
+    "definition": "Linoleate <=> 9-cis,11-trans-Octadecadienoate",
+    "equation": "C01595 <=> C04056",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.2.1.5"
+    ],
+    "pathways": {
+      "rn00591": "Linoleic acid metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

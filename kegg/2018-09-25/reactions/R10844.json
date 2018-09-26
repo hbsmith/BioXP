@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10844",
+    "name": "beta-citraurin:oxygen oxidoreductase (7,8-cleaving)",
+    "definition": "beta-Citraurin + Oxygen <=> Crocetin dialdehyde + (3S)-3-Hydroxycyclocitral",
+    "equation": "C20894 + C00007 <=> C19730 + C19731",
+    "comment": "second step of two-step reaction (see R09603, R10843+R10844)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.42"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11257",
+    "name": "(2Z)-4,6-dioxohept-2-enedioate acylhydrolase",
+    "definition": "Maleylpyruvate + H2O <=> Maleic acid + Pyruvate",
+    "equation": "C02167 + C00001 <=> C01384 + C00022",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.7.1.23"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism"
+    },
+    "orthologs": {
+      "K20758": "maleylpyruvate hydrolase [EC:3.7.1.23]"
+    }
+  }
+]

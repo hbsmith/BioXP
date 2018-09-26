@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00976",
+    "name": "uracil:acceptor oxidoreductase",
+    "definition": "Uracil + Acceptor + H2O <=> Barbiturate + Reduced acceptor",
+    "equation": "C00106 + C00028 + C00001 <=> C00813 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.17.99.4"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

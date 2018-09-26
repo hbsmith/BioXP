@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R03696",
+    "name": "L-threo-3-Methylaspartate ammonia-lyase",
+    "definition": "L-threo-3-Methylaspartate <=> Mesaconate + Ammonia",
+    "equation": "C03618 <=> C01732 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.3.1.2"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn00660": "C5-Branched dibasic acid metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K04835": "methylaspartate ammonia-lyase [EC:4.3.1.2]"
+    }
+  }
+]

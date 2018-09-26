@@ -1,0 +1,28 @@
+[
+  {
+    "entry_id": "R03232",
+    "name": "protein-N(pi)-phosphohistidine:D-fructose 1-phosphotransferase",
+    "definition": "Protein N(pi)-phospho-L-histidine + D-Fructose <=> Protein histidine + D-Fructose 1-phosphate",
+    "equation": "C04261 + C00095 <=> C00615 + C01094",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.202"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K02768": "PTS system, fructose-specific IIA component [EC:2.7.1.202]",
+      "K02769": "PTS system, fructose-specific IIB component [EC:2.7.1.202]",
+      "K02770": "PTS system, fructose-specific IIC component",
+      "K02771": "PTS system, fructose-specific IID component",
+      "K11194": "PTS system, fructose-specific IIA component [EC:2.7.1.202]",
+      "K11195": "PTS system, fructose-specific IIB component [EC:2.7.1.202]",
+      "K11196": "PTS system, fructose-specific IIC component"
+    }
+  }
+]

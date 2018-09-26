@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07876",
+    "name": "caffeoyl-CoA:pelargonidin 3,5-di-beta-D-glucoside 6''-O-acyltransferase",
+    "definition": "Pelargonin + Caffeoyl-CoA <=> Pelargonidin 3-O-(6-caffeoyl-beta-D-glucoside) 5-O-beta-D-glucoside + CoA",
+    "equation": "C08725 + C00323 <=> C12640 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.215"
+    ],
+    "pathways": {
+      "rn00942": "Anthocyanin biosynthesis"
+    },
+    "orthologs": {
+      "K21383": "anthocyanidin 3-O-glucoside 6''-O-acyltransferase [EC:2.3.1.215]"
+    }
+  }
+]

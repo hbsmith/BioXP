@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C21640",
+    "name": "6-(1'-Hydroxy-2'-oxopropyl)-tetrahydropterin",
+    "names": [
+      "6-(1'-Hydroxy-2'-oxopropyl)-tetrahydropterin",
+      "1'-Hydroxy-2'-oxopropyltetrahydropterin"
+    ],
+    "formula": "C9H13N5O3",
+    "exact_mass": 239.1018,
+    "mol_weight": 239.2312,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11762",
+      "R11763",
+      "R11764"
+    ],
+    "pathways": {
+      "map00790": "Folate biosynthesis"
+    },
+    "enzymes": [
+      "1.1.1.21",
+      "1.1.1.153",
+      "1.1.1.213"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "340650300"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   N4x N     6.7200   -9.5900\n            2   C8y C     6.7200  -10.9900\n            3   N5x N     7.9324  -11.6900\n            4   C8y C     9.1449  -10.9900\n            5   C8y C     9.1449   -9.5900\n            6   C8y C     7.9324   -8.8900\n            7   N1x N    10.3573  -11.6900\n            8   C1x C    11.5697  -10.9900\n            9   C1y C    11.5697   -9.5900\n            10  N1x N    10.3573   -8.8900\n            11  O5x O     7.9324   -7.4902\n            12  N1a N     5.5076  -11.6900\n            13  C1c C    12.7673   -8.8985\n            14  C5a C    13.9556   -9.5845\n            15  C1a C    15.1464   -8.8969\n            16  O5a O    13.9557  -10.9898\n            17  O1a O    12.7674   -7.4903\nBOND        18\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    5  10 1\n            12    6  11 2\n            13    2  12 1\n            14    9  13 1\n            15   13  14 1\n            16   14  15 1\n            17   14  16 2\n            18   13  17 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

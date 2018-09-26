@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07053",
+    "name": "Arachidonate:oxygen 8-oxidoreductase",
+    "definition": "Arachidonate + Oxygen <=> 8(S)-HPETE",
+    "equation": "C00219 + C00007 <=> C14823",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.-"
+    ],
+    "pathways": {
+      "rn00590": "Arachidonic acid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K08022": "arachidonate 15-lipoxygenase (second type) / 8-lipoxygenase (S-type) [EC:1.13.11.33 1.13.11.-]"
+    }
+  }
+]

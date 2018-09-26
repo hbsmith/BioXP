@@ -1,0 +1,64 @@
+[
+  {
+    "entry_id": "C06090",
+    "name": "ent-Kaurene",
+    "names": [
+      "ent-Kaurene",
+      "ent-Kaur-16-ene"
+    ],
+    "formula": "C20H32",
+    "exact_mass": 272.2504,
+    "mol_weight": 272.4681,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05092",
+      "R06195",
+      "R06196",
+      "R06291",
+      "R08401",
+      "R10066"
+    ],
+    "pathways": {
+      "map00904": "Diterpenoid biosynthesis",
+      "map01062": "Biosynthesis of terpenoids and steroids",
+      "map01070": "Biosynthesis of plant hormones",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.13.78",
+      "4.2.3.19"
+    ],
+    "dblinks": {
+      "CAS": [
+        "562-28-7"
+      ],
+      "PubChem": [
+        "8356"
+      ],
+      "ChEBI": [
+        "15415"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0104130002"
+      ],
+      "KNApSAcK": [
+        "C00007253"
+      ],
+      "3DMET": [
+        "B05159"
+      ],
+      "NIKKAJI": [
+        "J144.066G"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C1z C    27.0429  -20.3134\n            2   C1y C    25.8637  -19.6278\n            3   C1x C    28.1964  -19.6278\n            4   C1x C    27.0429  -21.6850\n            5   C1x C    28.1964  -20.9864\n            6   C1z C    24.6717  -20.3071\n            7   C1x C    25.8299  -18.2627\n            8   C1y C    28.2008  -18.2756\n            9   C1x C    25.8572  -22.3771\n            10  C2y C    29.3609  -18.9484\n            11  C1y C    24.6654  -21.6850\n            12  C1x C    23.4796  -19.6213\n            13  C1a C    24.6589  -18.9549\n            14  C1x C    27.0153  -17.5835\n            15  C2a C    30.6491  -18.6024\n            16  C1z C    23.4796  -22.3706\n            17  C1x C    22.2941  -20.3071\n            18  C1x C    22.2941  -21.6722\n            19  C1a C    24.0422  -23.9009\n            20  C1a C    22.9744  -23.9009\nBOND        23\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1\n            5     2   6 1\n            6     2   7 1\n            7     3   8 1\n            8     4   9 1\n            9     5  10 1\n            10    6  11 1\n            11    6  12 1\n            12    6  13 1 #Down\n            13    7  14 1\n            14   10  15 2\n            15   11  16 1\n            16   12  17 1\n            17   16  18 1\n            18   16  19 1\n            19   16  20 1\n            20    8  10 1\n            21    8  14 1\n            22    9  11 1\n            23   17  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

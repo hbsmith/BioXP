@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R04152",
+    "name": "(2-Aminoethyl)phosphonate:pyruvate aminotransferase",
+    "definition": "2-Aminoethylphosphonate + Pyruvate <=> Phosphonoacetaldehyde + L-Alanine",
+    "equation": "C03557 + C00022 <=> C03167 + C00041",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.37"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K03430": "2-aminoethylphosphonate-pyruvate transaminase [EC:2.6.1.37]",
+      "K09469": "2-aminoethylphosphonate-pyruvate transaminase"
+    }
+  }
+]

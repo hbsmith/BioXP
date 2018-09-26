@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C18332",
+    "name": "7,9,12-Decaketide intermediate 3",
+    "names": [
+      "7,9,12-Decaketide intermediate 3"
+    ],
+    "formula": "C20H19O8SR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R09266",
+      "R09325",
+      "R09340"
+    ],
+    "pathways": {
+      "map01056": "Biosynthesis of type II polyketide backbone",
+      "map01057": "Biosynthesis of type II polyketide products",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "4.2.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "124489006"
+      ],
+      "ChEBI": [
+        "81678"
+      ]
+    },
+    "kcf": "ATOM        30\n            1   C8x C    19.5300  -16.0300\n            2   C8x C    19.5300  -17.3600\n            3   C8y C    20.7200  -18.1300\n            4   C8y C    21.9100  -17.3600\n            5   C8y C    21.9100  -16.0300\n            6   C8x C    20.7200  -15.3300\n            7   C5a C    23.6600  -18.4800\n            8   C1b C    24.8500  -17.7800\n            9   C5a C    25.9700  -18.4800\n            10  C1b C    27.1600  -17.7800\n            11  C1b C    23.5200  -14.7700\n            12  C5a C    24.7100  -15.4700\n            13  C1b C    25.9000  -14.7700\n            14  C5a C    27.0200  -15.4700\n            15  C1b C    28.2100  -14.7700\n            16  C5a C    29.4000  -15.4700\n            17  S2a S    30.5900  -14.7700\n            18  O5a O    23.6600  -19.8100\n            19  O1a O    20.7200  -19.4600\n            20  O5a O    25.9700  -19.8100\n            21  O5a O    24.7100  -16.6600\n            22  O5a O    27.0200  -16.6600\n            23  O5a O    29.4000  -16.6600\n            24  R   R    31.9900  -14.7700\n            25  C5a C    28.3500  -18.4800\n            26  C1b C    29.5400  -17.7800\n            27  C5a C    30.8000  -18.4800\n            28  C1a C    31.9200  -17.7800\n            29  O5a O    28.3500  -19.8800\n            30  O5a O    30.8000  -19.8800\nBOND        30\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 2\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    5  11 1\n            12   11  12 1\n            13   12  13 1\n            14   13  14 1\n            15   14  15 1\n            16   15  16 1\n            17   16  17 1\n            18    7  18 2\n            19    3  19 1\n            20    9  20 2\n            21   12  21 2\n            22   14  22 2\n            23   16  23 2\n            24   17  24 1\n            25   10  25 1\n            26   25  26 1\n            27   26  27 1\n            28   27  28 1\n            29   25  29 2\n            30   27  30 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

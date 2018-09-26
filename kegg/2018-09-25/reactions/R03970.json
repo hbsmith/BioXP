@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03970",
+    "name": "(5-glutamyl)-peptide:amino-acid 5-glutamyltransferase",
+    "definition": "3-Cyano-L-alanine + L-Glutamate <=> gamma-Glutamyl-beta-cyanoalanine + H2O",
+    "equation": "C02512 + C00025 <=> C05711 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.2.2"
+    ],
+    "pathways": {
+      "rn00460": "Cyanoamino acid metabolism"
+    },
+    "orthologs": {
+      "K00681": "gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]",
+      "K18592": "gamma-glutamyltranspeptidase / glutathione hydrolase / leukotriene-C4 hydrolase [EC:2.3.2.2 3.4.19.13 3.4.19.14]"
+    }
+  }
+]

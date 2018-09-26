@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C11143",
+    "name": "Dimethyl sulfoxide",
+    "names": [
+      "Dimethyl sulfoxide",
+      "DMSO"
+    ],
+    "formula": "C2H6OS",
+    "exact_mass": 78.0139,
+    "mol_weight": 78.1334,
+    "remark": "Same as: D01043",
+    "comment": "",
+    "reactions": [
+      "R09498",
+      "R09500",
+      "R09501"
+    ],
+    "pathways": {
+      "map00920": "Sulfur metabolism"
+    },
+    "enzymes": [
+      "1.8.1.17",
+      "1.8.2.4",
+      "1.8.5.3"
+    ],
+    "dblinks": {
+      "CAS": [
+        "67-68-5"
+      ],
+      "PubChem": [
+        "13325"
+      ],
+      "ChEBI": [
+        "28262"
+      ],
+      "ChEMBL": [
+        "CHEMBL504"
+      ],
+      "PDB-CCD": [
+        "DMS"
+      ],
+      "NIKKAJI": [
+        "J1.933J"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   S4a S    21.7679  -17.3311\n            2   O3c O    21.7608  -15.9311\n            3   C1a C    20.5590  -18.0372\n            4   C1a C    22.9838  -18.0250\nBOND        3\n            1     1   3 1\n            2     1   2 2\n            3     1   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

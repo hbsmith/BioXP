@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07212",
+    "name": "L-tyrosine,tetrahydrobiopterin:oxygen oxidoreductase(3-hydroxylating)",
+    "definition": "L-Tyrosine + Tetrahydrobiopterin + Oxygen <=> 3,4-Dihydroxy-L-phenylalanine + 4a-Hydroxytetrahydrobiopterin",
+    "equation": "C00082 + C00272 + C00007 <=> C00355 + C15522",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.16.2"
+    ],
+    "pathways": {
+      "rn00790": "Folate biosynthesis",
+      "rn00950": "Isoquinoline alkaloid biosynthesis"
+    },
+    "orthologs": {
+      "K00501": "tyrosine 3-monooxygenase [EC:1.14.16.2]"
+    }
+  }
+]

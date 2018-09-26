@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04292",
+    "name": "glycerone phosphate:iminosuccinate alkyltransferase (cyclizing)",
+    "definition": "Quinolinate + 2 H2O + Orthophosphate <=> Iminoaspartate + Glycerone phosphate",
+    "equation": "C03722 + 2 C00001 + C00009 <=> C05840 + C00111",
+    "comment": "quinolinate synthetase, NadA multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.72"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03517": "quinolinate synthase [EC:2.5.1.72]"
+    }
+  }
+]

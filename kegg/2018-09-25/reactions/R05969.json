@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05969",
+    "name": "UDP-N-acetyl-D-glucosamine:dolichyl-phosphate N-acetyl-D-glucosamine phosphotransferase",
+    "definition": "UDP-N-acetyl-alpha-D-glucosamine + Dolichyl phosphate <=> UMP + N-Acetyl-D-glucosaminyldiphosphodolichol",
+    "equation": "C00043 + C00110 <=> C00105 + G00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.8.15"
+    ],
+    "pathways": {
+      "rn00510": "N-Glycan biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01001": "UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15]"
+    }
+  }
+]

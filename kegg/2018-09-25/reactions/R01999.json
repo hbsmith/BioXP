@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01999",
+    "name": "Acyl-CoA:long-chain-alcohol O-acyltransferase",
+    "definition": "Acyl-CoA + Long-chain alcohol <=> CoA + Long-chain ester",
+    "equation": "C00040 + C00339 <=> C00010 + C02434",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.75"
+    ],
+    "pathways": {
+      "rn00073": "Cutin, suberine and wax biosynthesis"
+    },
+    "orthologs": {
+      "K15406": "wax-ester synthase / diacylglycerol O-acyltransferase [EC:2.3.1.75 2.3.1.20]"
+    }
+  }
+]

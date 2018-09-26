@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00326",
+    "name": "acetaldehyde:acceptor oxidoreductase",
+    "definition": "Acetaldehyde + Acceptor + H2O <=> Acetate + Reduced acceptor",
+    "equation": "C00084 + C00028 + C00001 <=> C00033 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.99.6"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

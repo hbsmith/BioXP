@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06327",
+    "name": "",
+    "definition": "Gibberellin A36 <=> Gibberellin A4 + CO2",
+    "equation": "C11862 <=> C11864 + C00011",
+    "comment": "GA 20-oxidase(2-oxoglutarate dependent dioxygenase),GA20ox unclear reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K12918": "cytochrome P450 monooxygenase 2"
+    }
+  }
+]

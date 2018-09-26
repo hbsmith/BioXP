@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09811",
+    "name": "linoleate:oxygen (10R)-oxidoreductase",
+    "definition": "Linoleate + Oxygen <=> (8E,10R,12Z)-10-Hydroperoxy-8,12-octadecadienoate",
+    "equation": "C01595 + C00007 <=> C19937",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.62"
+    ],
+    "pathways": {
+      "rn00591": "Linoleic acid metabolism"
+    },
+    "orthologs": {
+      "K17862": "linoleate 10R-lipoxygenase [EC:1.13.11.62]"
+    }
+  }
+]

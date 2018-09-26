@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05839",
+    "name": "pyridoxamine:2-oxoglutarate aminotransferase",
+    "definition": "Pyridoxamine + 2-Oxoglutarate <=> Pyridoxal + D-Glutamate",
+    "equation": "C00534 + C00026 <=> C00250 + C00217",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.54"
+    ],
+    "pathways": {
+      "rn00750": "Vitamin B6 metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

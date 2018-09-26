@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "C20284",
+    "name": "Benzenediazonium",
+    "names": [
+      "Benzenediazonium",
+      "Benzenediazonium ion"
+    ],
+    "formula": "C6H5N2",
+    "exact_mass": 105.0453,
+    "mol_weight": 105.1173,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map05204": "Chemical carcinogenesis"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "2684-02-8"
+      ],
+      "PubChem": [
+        "163312024"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C8y C    18.6066  -15.8364\n            2   C8x C    17.4048  -16.5269\n            3   C8x C    19.8279  -16.5269\n            4   N3a N    18.6003  -14.4425 #+\n            5   C8x C    17.4048  -17.9334\n            6   C8x C    19.8279  -17.9334\n            7   N3a N    20.3623  -13.3957\n            8   C8x C    18.6066  -18.6494\nBOND        8\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 2\n            6     4   7 3\n            7     5   8 2\n            8     6   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

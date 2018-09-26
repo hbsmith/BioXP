@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05376",
+    "name": "",
+    "definition": "Bis(4'-chlorophenyl)methane + CO2 <=> Bis(4'-chlorophenyl)acetate",
+    "equation": "C06641 + C00011 <=> C06640",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.-"
+    ],
+    "pathways": {
+      "rn00351": "DDT degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C07841",
+    "name": "Levetiracetam",
+    "names": [
+      "Levetiracetam"
+    ],
+    "formula": "C8H14N2O2",
+    "exact_mass": 170.1055,
+    "mol_weight": 170.209,
+    "remark": "Same as: D00709",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "102767-28-2"
+      ],
+      "PubChem": [
+        "10043"
+      ],
+      "ChEBI": [
+        "6437"
+      ],
+      "ChEMBL": [
+        "CHEMBL1286"
+      ],
+      "NIKKAJI": [
+        "J523.599E"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   N1y N    17.9529  -16.5972\n            2   C1c C    19.1587  -15.8890\n            3   C5x C    16.8171  -15.7718\n            4   C1x C    17.5138  -17.9261\n            5   C5a C    20.3647  -16.5855\n            6   C1x C    15.6816  -16.5972\n            7   O5x O    16.7996  -14.3728\n            8   C1x C    16.1146  -17.9261\n            9   N1a N    21.5766  -15.8832\n            10  O5a O    20.3588  -17.9847\n            11  C1b C    19.1587  -14.4890\n            12  C1a C    20.3866  -13.7799\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     3   7 2\n            7     4   8 1\n            8     5   9 1\n            9     5  10 2\n            10    6   8 1\n            11    2  11 1 #Up\n            12   11  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

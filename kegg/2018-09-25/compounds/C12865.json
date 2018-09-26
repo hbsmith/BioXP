@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C12865",
+    "name": "Benzyl nicotinate",
+    "names": [
+      "Benzyl nicotinate",
+      "Nicotinic acid benzyl ester"
+    ],
+    "formula": "C13H11NO2",
+    "exact_mass": 213.079,
+    "mol_weight": 213.2319,
+    "remark": "Same as: D01419",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "94-44-0"
+      ],
+      "PubChem": [
+        "583254"
+      ],
+      "ChEBI": [
+        "31268"
+      ],
+      "ChEMBL": [
+        "CHEMBL209744"
+      ],
+      "PDB-CCD": [
+        "0OM"
+      ],
+      "NIKKAJI": [
+        "J60.115B"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   N5x N    22.5154  -18.2391\n            2   C8x C    22.5154  -19.6429\n            3   C8x C    23.7340  -20.3448\n            4   C8x C    24.9455  -19.6429\n            5   C8y C    24.9455  -18.2391\n            6   C8x C    23.7340  -17.5372\n            7   C7a C    26.1524  -17.5372\n            8   O7a O    27.3648  -18.2321\n            9   C1b C    28.5772  -17.5302\n            10  C8y C    29.7895  -18.2250\n            11  C8x C    29.7939  -19.6223\n            12  C8x C    31.0063  -20.3170\n            13  C8x C    32.2142  -19.6146\n            14  C8x C    32.2096  -18.2173\n            15  C8x C    30.9973  -17.5224\n            16  O6a O    26.1478  -16.1334\nBOND        17\n            1     7   8 1\n            2     2   3 1\n            3     8   9 1\n            4     3   4 2\n            5     9  10 1\n            6     4   5 1\n            7     5   6 2\n            8     6   1 1\n            9     5   7 1\n            10   10  11 2\n            11   11  12 1\n            12   12  13 2\n            13   13  14 1\n            14   14  15 2\n            15   15  10 1\n            16    1   2 2\n            17    7  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R03425",
+    "name": "glycine:lipoylprotein oxidoreductase (decarboxylating and acceptor-aminomethylating)",
+    "definition": "Glycine + Lipoylprotein <=> S-Aminomethyldihydrolipoylprotein + CO2",
+    "equation": "C00037 + C02051 <=> C01242 + C00011",
+    "comment": "a part step of glycine cleavage system (see R01221, R03425+R04125+R03815)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.4.2"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00281": "glycine dehydrogenase [EC:1.4.4.2]",
+      "K00282": "glycine dehydrogenase subunit 1 [EC:1.4.4.2]",
+      "K00283": "glycine dehydrogenase subunit 2 [EC:1.4.4.2]"
+    }
+  }
+]

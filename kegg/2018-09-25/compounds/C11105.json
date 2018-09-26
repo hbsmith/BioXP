@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C11105",
+    "name": "5-Methyl-3-isoxazolyl sulfate",
+    "names": [
+      "5-Methyl-3-isoxazolyl sulfate"
+    ],
+    "formula": "C4H5NO5S",
+    "exact_mass": 178.9888,
+    "mol_weight": 179.1512,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "13287"
+      ],
+      "ChEBI": [
+        "2131"
+      ],
+      "NIKKAJI": [
+        "J2.788.914J"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    28.4200  -18.1300\n            2   N5x N    28.0245  -16.8128\n            3   O2x O    29.1874  -16.0024\n            4   C8y C    30.2680  -16.8758\n            5   C8x C    29.8216  -18.1519\n            6   C1a C    31.5032  -16.1329\n            7   O2a O    27.2300  -18.8300\n            8   S4a S    25.8300  -18.8300\n            9   O1d O    24.4300  -18.8300\n            10  O1d O    25.8300  -17.4300\n            11  O1d O    25.8300  -20.2300\nBOND        11\n            1     4   6 1\n            2     1   2 2\n            3     1   7 1\n            4     2   3 1\n            5     7   8 1\n            6     3   4 1\n            7     8   9 1\n            8     4   5 2\n            9     8  10 2\n            10    5   1 1\n            11    8  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

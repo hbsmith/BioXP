@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C08303",
+    "name": "Galegine",
+    "names": [
+      "Galegine"
+    ],
+    "formula": "C6H13N3",
+    "exact_mass": 127.1109,
+    "mol_weight": 127.1875,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "543-83-9"
+      ],
+      "PubChem": [
+        "10501"
+      ],
+      "ChEBI": [
+        "5265"
+      ],
+      "ChEMBL": [
+        "CHEMBL111469"
+      ],
+      "KNApSAcK": [
+        "C00001410"
+      ],
+      "NIKKAJI": [
+        "J78.499K"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C2c C    24.0301  -20.9242\n            2   C2b C    25.2451  -21.6250\n            3   C1a C    22.8152  -21.6193\n            4   C1a C    24.0360  -19.5223\n            5   C1b C    26.4600  -20.9358\n            6   N1b N    27.6749  -21.6309\n            7   C2c C    28.8840  -20.9417\n            8   N1a N    30.0991  -21.6367\n            9   N2a N    28.8957  -19.5340\nBOND        8\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

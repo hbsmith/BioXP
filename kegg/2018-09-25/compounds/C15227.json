@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C15227",
+    "name": "Potassium dichromate",
+    "names": [
+      "Potassium dichromate"
+    ],
+    "formula": "K2Cr2O7",
+    "exact_mass": 293.7728,
+    "mol_weight": 294.1846,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "7778-50-9"
+      ],
+      "PubChem": [
+        "17396224"
+      ],
+      "ChEBI": [
+        "53444"
+      ],
+      "NIKKAJI": [
+        "J43.946K"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   Z   Cr   17.6400  -16.7300\n            2   O0  O    17.6400  -15.3300\n            3   O0  O    17.6400  -18.1300\n            4   O2a O    19.1800  -16.7300\n            5   O1a O    16.2400  -16.7300 #-\n            6   Z   Cr   20.4400  -16.7300\n            7   O1a O    21.8400  -16.7300 #-\n            8   O0  O    20.4400  -18.1300\n            9   O0  O    20.4400  -15.3300\n            10  Z   K    24.6400  -16.7300 #+\n            11  Z   K    13.5800  -16.8000 #+\nBOND        8\n            1     1   2 2\n            2     1   3 2\n            3     1   4 1\n            4     1   5 1\n            5     4   6 1\n            6     6   7 1\n            7     6   8 2\n            8     6   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

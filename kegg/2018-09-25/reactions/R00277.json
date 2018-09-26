@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00277",
+    "name": "Pyridoxamine-5'-phosphate:oxygen oxidoreductase (deaminating)",
+    "definition": "Pyridoxamine phosphate + H2O + Oxygen <=> Pyridoxal phosphate + Ammonia + Hydrogen peroxide",
+    "equation": "C00647 + C00001 + C00007 <=> C00018 + C00014 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.5"
+    ],
+    "pathways": {
+      "rn00750": "Vitamin B6 metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00275": "pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5]"
+    }
+  }
+]

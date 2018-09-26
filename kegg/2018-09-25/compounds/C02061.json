@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C02061",
+    "name": "Plastoquinone",
+    "names": [
+      "Plastoquinone"
+    ],
+    "formula": "C8H8O2(C5H8)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy Plastoquinone-1 (n=1) [CPD:C16694] Plastoquinone-9 (n=9) [CPD:C10385]",
+    "reactions": [
+      "R03817",
+      "R09503",
+      "R09652",
+      "R09653",
+      "R09654"
+    ],
+    "pathways": {
+      "map00195": "Photosynthesis",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.3.5.5",
+      "1.10.3.9",
+      "1.10.9.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "112055-76-2"
+      ],
+      "PubChem": [
+        "5150"
+      ],
+      "ChEBI": [
+        "17757",
+        "72953"
+      ],
+      "NIKKAJI": [
+        "J1.379.903B"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C2y C    12.5300  -18.4100\n            2   C2y C    12.5300  -19.8100\n            3   C5x C    13.7424  -20.5100\n            4   C2y C    14.9549  -19.8100\n            5   C2x C    14.9549  -18.4100\n            6   C5x C    13.7424  -17.7100\n            7   C1a C    11.3176  -17.7100\n            8   C1a C    11.3176  -20.5100\n            9   O5x O    13.7424  -16.3100\n            10  O5x O    13.7424  -21.9100\n            11  C1b C    16.1924  -20.5100\n            12  C2b C    17.4049  -19.8100\n            13  C2c C    18.6173  -20.5100\n            14  C1a C    19.8297  -19.8100\n            15  C1a C    18.6173  -21.9100\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 1\n            7     1   7 1\n            8     2   8 1\n            9     6   9 2\n            10    3  10 2\n            11    4  11 1\n            12   11  12 1\n            13   12  13 2\n            14   13  14 1\n            15   13  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

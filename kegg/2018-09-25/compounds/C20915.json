@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C20915",
+    "name": "C20915",
+    "names": [
+      "C20915",
+      "Tabtoxin biosynthesis intermediate 5"
+    ],
+    "formula": "C11H21N3O6",
+    "exact_mass": 291.143,
+    "mol_weight": 291.3009,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10888",
+      "R10889"
+    ],
+    "pathways": {
+      "map00261": "Monobactam biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741378"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C1a C     8.4700   -8.8200\n            2   C1c C     9.6824   -8.1200\n            3   C1c C    10.8949   -8.8200\n            4   N1b N    12.1073   -8.1200\n            5   C5a C    13.3197   -8.8200\n            6   C1c C    14.5322   -8.1200\n            7   C1b C    15.7446   -8.8200\n            8   C1b C    16.9570   -8.1200\n            9   C1c C    18.1695   -8.8200\n            10  C1b C    19.3819   -8.1200\n            11  N1a N    20.5944   -8.8200\n            12  O1a O     9.6824   -6.7202\n            13  C6a C    10.8949  -10.2198\n            14  O6a O    12.1261  -10.9308\n            15  O6a O     9.7013  -10.9090\n            16  O5a O    13.3197  -10.2199\n            17  N1a N    14.5322   -6.7203\n            18  C6a C    18.1695  -10.2197\n            19  O6a O    19.4047  -10.9332\n            20  O6a O    16.9799  -10.9066\nBOND        19\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10   10  11 1\n            11    2  12 1 #Up\n            12    3  13 1 #Down\n            13   13  14 2\n            14   13  15 1\n            15    5  16 2\n            16    6  17 1 #Up\n            17    9  18 1\n            18   18  19 2\n            19   18  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

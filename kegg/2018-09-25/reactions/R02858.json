@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02858",
+    "name": "S-adenosyl-L-methionine:macrocin 3'''-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Macrocin <=> S-Adenosyl-L-homocysteine + Tylosin",
+    "equation": "C00019 + C00744 <=> C00021 + C01457",
+    "comment": "macrocin-O-methyltransferase,TylF",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.101"
+    ],
+    "pathways": {
+      "rn00522": "Biosynthesis of 12-, 14- and 16-membered macrolides",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15996": "macrocin O-methyltransferase [EC:2.1.1.101]"
+    }
+  }
+]

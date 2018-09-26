@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C01705",
+    "name": "Glyphosate",
+    "names": [
+      "Glyphosate",
+      "Roundup (TN)"
+    ],
+    "formula": "C3H8NO5P",
+    "exact_mass": 169.014,
+    "mol_weight": 169.0731,
+    "remark": "",
+    "comment": "Herbicide target: EPSP synthase [KO:K00800]",
+    "reactions": [
+      "R11486"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.5.3.23"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1071-83-6"
+      ],
+      "PubChem": [
+        "4843"
+      ],
+      "ChEBI": [
+        "27744"
+      ],
+      "ChEMBL": [
+        "CHEMBL95764"
+      ],
+      "PDB-CCD": [
+        "GPF",
+        "GPJ"
+      ],
+      "NIKKAJI": [
+        "J3.359F"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   P1b P    24.4271  -16.2210\n            2   C1b C    23.1842  -15.5772\n            3   O1c O    24.4526  -17.6869\n            4   O1c O    25.8165  -16.2655\n            5   O1c O    24.4080  -14.7358\n            6   N1b N    21.9796  -16.2720\n            7   C1b C    20.7813  -15.5772\n            8   C6a C    19.5830  -16.2720\n            9   O6a O    18.3846  -15.5772\n            10  O6a O    19.5830  -17.6550\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     2   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     8  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

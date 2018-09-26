@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C04126",
+    "name": "L-1-Aminopropan-2-ol O-phosphate",
+    "names": [
+      "L-1-Aminopropan-2-ol O-phosphate",
+      "(S)-1-Aminopropan-2-yl phosphate"
+    ],
+    "formula": "C3H10NO4P",
+    "exact_mass": 155.0347,
+    "mol_weight": 155.0896,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6812"
+      ],
+      "ChEBI": [
+        "28293"
+      ],
+      "NIKKAJI": [
+        "J2.746.922A"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   P1b P    17.5035  -16.1683\n            2   O2b O    17.5163  -17.5763\n            3   O1c O    17.5035  -14.7665\n            4   O1c O    18.8988  -16.1555\n            5   O1c O    16.1018  -16.1747\n            6   C1c C    17.5163  -18.9717\n            7   C1b C    18.7315  -19.6726\n            8   C1a C    16.3075  -19.6726\n            9   N1a N    19.9404  -18.9717\nBOND        8\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     6   2 1 #Down\n            6     6   7 1\n            7     6   8 1\n            8     7   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

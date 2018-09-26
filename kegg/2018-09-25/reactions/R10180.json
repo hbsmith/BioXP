@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10180",
+    "name": "L-tryptophan:pyruvate aminotransferase",
+    "definition": "L-Tryptophan + Pyruvate <=> Indolepyruvate + L-Alanine",
+    "equation": "C00078 + C00022 <=> C00331 + C00041",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.99"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K16903": "L-tryptophan---pyruvate aminotransferase [EC:2.6.1.99]"
+    }
+  }
+]

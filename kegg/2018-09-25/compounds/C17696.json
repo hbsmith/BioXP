@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C17696",
+    "name": "Valienone",
+    "names": [
+      "Valienone"
+    ],
+    "formula": "C7H10O5",
+    "exact_mass": 174.0528,
+    "mol_weight": 174.1513,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11233",
+      "R11234"
+    ],
+    "pathways": {
+      "map00525": "Acarbose and validamycin biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "2.7.1.214",
+      "4.2.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "315431296"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1y C    26.1082  -17.8483\n            2   C1y C    26.1082  -19.2482\n            3   C1y C    27.3204  -19.9481\n            4   C5x C    28.5328  -19.2482\n            5   C2x C    28.5328  -17.8483\n            6   C2y C    27.3204  -17.1484\n            7   C1b C    27.3204  -15.7488\n            8   O1a O    28.5159  -15.0585\n            9   O1a O    24.8959  -19.9481\n            10  O1a O    27.3204  -21.3478\n            11  O1a O    24.8959  -17.1484\n            12  O5x O    29.7638  -19.9591\nBOND        12\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     2   9 1 #Up\n            10    3  10 1 #Down\n            11    1  11 1 #Down\n            12    4  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

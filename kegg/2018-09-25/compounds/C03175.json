@@ -1,0 +1,60 @@
+[
+  {
+    "entry_id": "C03175",
+    "name": "Shikimate 3-phosphate",
+    "names": [
+      "Shikimate 3-phosphate",
+      "Shikimate 5-phosphate"
+    ],
+    "formula": "C7H11O8P",
+    "exact_mass": 254.0192,
+    "mol_weight": 254.1312,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02412",
+      "R03460"
+    ],
+    "pathways": {
+      "map00400": "Phenylalanine, tyrosine and tryptophan biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01130": "Biosynthesis of antibiotics",
+      "map01230": "Biosynthesis of amino acids"
+    },
+    "enzymes": [
+      "2.5.1.19",
+      "2.7.1.71"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6057"
+      ],
+      "ChEBI": [
+        "17052"
+      ],
+      "ChEMBL": [
+        "CHEMBL95193"
+      ],
+      "KNApSAcK": [
+        "C00000002"
+      ],
+      "PDB-CCD": [
+        "S3P"
+      ],
+      "3DMET": [
+        "B01636"
+      ],
+      "NIKKAJI": [
+        "J746.034A"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   P1b P    15.9831  -16.4982\n            2   O2b O    17.3811  -16.4982\n            3   O1c O    14.5851  -16.4982\n            4   O1c O    15.9831  -15.1002\n            5   O1c O    15.9766  -17.8899\n            6   C1y C    18.5932  -15.8056\n            7   C1y C    19.7989  -16.5175\n            8   C2x C    18.5932  -14.3947\n            9   C1y C    21.0238  -15.8056\n            10  O1a O    19.7989  -17.9156\n            11  C2y C    19.7989  -13.6958\n            12  C1x C    21.0238  -14.3947\n            13  O1a O    22.2360  -16.4982\n            14  C6a C    19.7989  -12.3041\n            15  O6a O    21.0046  -11.6050\n            16  O6a O    18.5869  -11.6115\nBOND        16\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     6   2 1 #Down\n            6     6   7 1\n            7     6   8 1\n            8     7   9 1\n            9     7  10 1 #Down\n            10    8  11 2\n            11    9  12 1\n            12    9  13 1 #Up\n            13   11  14 1\n            14   14  15 1\n            15   14  16 2\n            16   11  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

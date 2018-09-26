@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R00566",
+    "name": "L-arginine carboxy-lyase (agmatine-forming)",
+    "definition": "L-Arginine <=> Agmatine + CO2",
+    "equation": "C00062 <=> C00179 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.19"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01583": "arginine decarboxylase [EC:4.1.1.19]",
+      "K01584": "arginine decarboxylase [EC:4.1.1.19]",
+      "K01585": "arginine decarboxylase [EC:4.1.1.19]",
+      "K02626": "arginine decarboxylase [EC:4.1.1.19]"
+    }
+  }
+]

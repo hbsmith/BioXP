@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R02417",
+    "name": "questin,NADPH:oxygen oxidoreductase (hydroxylating, anthraquinone-ring-opening)",
+    "definition": "Questin + Oxygen + NADPH + H+ <=> Demethylsulochrin + NADP+",
+    "equation": "C01448 + C00007 + C00005 + C00080 <=> C15504 + C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.43"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

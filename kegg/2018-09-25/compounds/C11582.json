@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C11582",
+    "name": "2-Chlorophenylhydrazine hydrochloride",
+    "names": [
+      "2-Chlorophenylhydrazine hydrochloride",
+      "o-Chlorophenylhydrazine hydrochloride"
+    ],
+    "formula": "C6H7ClN2. HCl",
+    "exact_mass": 178.0065,
+    "mol_weight": 179.0471,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "41052-75-9"
+      ],
+      "PubChem": [
+        "13747"
+      ],
+      "ChEBI": [
+        "1046"
+      ],
+      "ChEMBL": [
+        "CHEMBL2006059"
+      ],
+      "NIKKAJI": [
+        "J257.191I"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    24.5660  -19.8840\n            2   C8x C    24.5660  -21.2843\n            3   C8x C    25.7826  -21.9879\n            4   C8x C    26.9920  -21.2843\n            5   C8y C    26.9920  -19.8840\n            6   C8y C    25.7826  -19.1873\n            7   N1b N    25.7693  -17.7870\n            8   N1a N    26.9795  -17.0765\n            9   X   Cl   28.1983  -19.1867\n            10  X   Cl   31.4830  -20.3062\nBOND        9\n            1     2   3 1\n            2     3   4 2\n            3     4   5 1\n            4     5   6 2\n            5     6   1 1\n            6     6   7 1\n            7     1   2 2\n            8     7   8 1\n            9     5   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

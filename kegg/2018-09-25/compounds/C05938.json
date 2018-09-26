@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C05938",
+    "name": "L-4-Hydroxyglutamate semialdehyde",
+    "names": [
+      "L-4-Hydroxyglutamate semialdehyde"
+    ],
+    "formula": "C5H9NO4",
+    "exact_mass": 147.0532,
+    "mol_weight": 147.1293,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04443",
+      "R05051"
+    ],
+    "pathways": {
+      "map00330": "Arginine and proline metabolism"
+    },
+    "enzymes": [
+      "1.2.1.88"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8224"
+      ],
+      "ChEBI": [
+        "27809"
+      ],
+      "3DMET": [
+        "B01917"
+      ],
+      "NIKKAJI": [
+        "J2.760.771C"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1b C    27.9859  -19.8537\n            2   C1c C    26.7809  -19.1579\n            3   C1c C    29.1906  -19.1579\n            4   C6a C    25.5697  -19.8537\n            5   N1a N    26.7680  -17.7534\n            6   C4a C    30.3952  -19.8537\n            7   O1a O    29.1840  -17.7534\n            8   O6a O    24.3587  -19.1579\n            9   O6a O    25.5633  -21.2581\n            10  O4a O    31.5850  -19.1673\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1 #Up\n            5     3   6 1\n            6     3   7 1 #Up\n            7     4   8 1\n            8     4   9 2\n            9     6  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

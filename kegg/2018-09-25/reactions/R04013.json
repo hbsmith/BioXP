@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04013",
+    "name": "S-adenosyl-L-methionine:16-methoxy-2,3-dihydro-3-hydroxytabersonine N-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 16-Methoxy-2,3-dihydro-3-hydroxytabersonine <=> S-Adenosyl-L-homocysteine + Desacetoxyvindoline",
+    "equation": "C00019 + C04578 <=> C00021 + C02673",
+    "comment": "irreversible Ref:1. DEVLIN Biochemistry 5th, p.805",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.99"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis"
+    },
+    "orthologs": {
+      "K21896": "3-hydroxy-16-methoxy-2,3-dihydrotabersonine N-methyltransferase [EC:2.1.1.99]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11641",
+    "name": "",
+    "definition": "(Z)-2-Methylpropanal oxime <=> Isobutyronitrile + H2O",
+    "equation": "C20315 <=> C02420 + C00001",
+    "comment": "second step of three-step reaction (see R11598, R10034+R11641+R11642)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.41"
+    ],
+    "pathways": {
+      "rn00460": "Cyanoamino acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

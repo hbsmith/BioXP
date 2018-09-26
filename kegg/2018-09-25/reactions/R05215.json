@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05215",
+    "name": "(S)-N-Methylcoclaurine, NADPH:oxygen oxidoreductase (C-O phenol-coupling)",
+    "definition": "Guattegaumerine + NADP+ + 2 H2O <=> 2 (R)-N-Methylcoclaurine + Oxygen + NADPH + H+",
+    "equation": "C06511 + C00006 + 2 C00001 <=> 2 C05243 + C00007 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.21.3"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis"
+    },
+    "orthologs": {
+      "K13387": "berbamunine synthase [EC:1.14.21.3]"
+    }
+  }
+]

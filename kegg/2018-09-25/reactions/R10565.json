@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10565",
+    "name": "L-galactonate:NAD+ oxidoreductase",
+    "definition": "L-Galactonate + NAD+ <=> D-Galacturonate + NADH + H+",
+    "equation": "C15930 + C00003 <=> C00333 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K18106": "D-galacturonate reductase [EC:1.1.1.-]"
+    }
+  }
+]

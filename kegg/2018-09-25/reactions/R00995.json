@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00995",
+    "name": "methyloxaloacetate carboxy-lyase (2-oxobutanoate-forming)",
+    "definition": "2-Oxobutanoate + CO2 <=> Methyloxaloacetate",
+    "equation": "C00109 + C00011 <=> C06030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.3"
+    ],
+    "pathways": {
+      "rn00660": "C5-Branched dibasic acid metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

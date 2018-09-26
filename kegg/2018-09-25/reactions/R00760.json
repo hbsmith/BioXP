@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00760",
+    "name": "ATP:D-fructose 6-phosphotransferase",
+    "definition": "ATP + D-Fructose <=> ADP + D-Fructose 6-phosphate",
+    "equation": "C00002 + C00095 <=> C00008 + C00085",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.1",
+      "2.7.1.4"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism"
+    },
+    "orthologs": {
+      "K00844": "hexokinase [EC:2.7.1.1]",
+      "K00847": "fructokinase [EC:2.7.1.4]"
+    }
+  }
+]

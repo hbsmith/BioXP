@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11598",
+    "name": "(E)-2-methylpropanal oxime,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase",
+    "definition": "(E)-2-Methylpropanal oxime + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Acetone cyanohydrin + [Oxidized NADPH---hemoprotein reductase] + 2 H2O",
+    "equation": "C03219 + C03024 + C00007 <=> C02659 + C03161 + 2 C00001",
+    "comment": "three-step reaction (see R10034+R11641+R11642)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.41"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C14395",
+    "name": "alpha-Methylstyrene",
+    "names": [
+      "alpha-Methylstyrene",
+      "1-Methyl-1-phenylethylene",
+      "2-Phenylpropene"
+    ],
+    "formula": "C9H10",
+    "exact_mass": 118.0783,
+    "mol_weight": 118.1757,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "98-83-9"
+      ],
+      "PubChem": [
+        "17395395"
+      ],
+      "ChEBI": [
+        "35060"
+      ],
+      "ChEMBL": [
+        "CHEMBL1344773"
+      ],
+      "NIKKAJI": [
+        "J3.582C"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    27.6501  -17.2901\n            2   C8x C    27.6501  -18.6901\n            3   C8x C    28.8625  -19.3901\n            4   C8x C    30.0750  -18.6901\n            5   C8x C    30.0750  -17.2901\n            6   C8y C    28.8625  -16.5901\n            7   C2c C    28.8625  -15.1903\n            8   C1a C    27.6333  -14.4804\n            9   C2a C    30.0581  -14.4999\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

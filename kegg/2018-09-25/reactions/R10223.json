@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10223",
+    "name": "tRNA(adenine34) aminohydrolase",
+    "definition": "tRNA adenine + H2O <=> tRNA hypoxanthine + Ammonia",
+    "equation": "C17324 + C00001 <=> C20451 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.4.33"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K11991": "tRNA(adenine34) deaminase [EC:3.5.4.33]"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R01253",
+    "name": "L-proline:quinone oxidoreductase",
+    "definition": "L-Proline + Quinone <=> (S)-1-Pyrroline-5-carboxylate + Hydroquinone",
+    "equation": "C00148 + C15602 <=> C03912 + C15603",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.5.2"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13821": "RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]"
+    }
+  }
+]

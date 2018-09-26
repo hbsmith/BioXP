@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00301",
+    "name": "D-Glucose:NADP+ 1-oxidoreductase",
+    "definition": "D-Glucose + NADP+ <=> D-Glucono-1,4-lactone + NADPH + H+",
+    "equation": "C00031 + C00006 <=> C03107 + C00005 + C00080",
+    "comment": "possibly intermediate ([CPD:C00198], see R07147)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.119"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

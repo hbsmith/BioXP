@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02374",
+    "name": "Ecdysone, hydrogen-donor:oxygen oxidoreductase (20-hydroxylating)",
+    "definition": "Ecdysone + Reduced acceptor + Oxygen <=> 20-Hydroxyecdysone + Acceptor + H2O",
+    "equation": "C00477 + C00030 + C00007 <=> C02633 + C00028 + C00001",
+    "comment": "CYP314A1",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.22"
+    ],
+    "pathways": {
+      "rn00981": "Insect hormone biosynthesis"
+    },
+    "orthologs": {
+      "K10723": "ecdysone 20-monooxygenase [EC:1.14.99.22]"
+    }
+  }
+]

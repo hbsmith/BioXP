@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C04043",
+    "name": "3,4-Dihydroxyphenylacetaldehyde",
+    "names": [
+      "3,4-Dihydroxyphenylacetaldehyde",
+      "Protocatechuatealdehyde"
+    ],
+    "formula": "C8H8O3",
+    "exact_mass": 152.0473,
+    "mol_weight": 152.1473,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03300",
+      "R03302",
+      "R04084",
+      "R04300"
+    ],
+    "pathways": {
+      "map00350": "Tyrosine metabolism",
+      "map00950": "Isoquinoline alkaloid biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.2.1.5",
+      "1.2.1.29",
+      "1.4.3.4",
+      "1.4.3.21",
+      "1.4.9.2",
+      "4.2.1.78"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6744"
+      ],
+      "ChEBI": [
+        "27978"
+      ],
+      "3DMET": [
+        "B00668"
+      ],
+      "NIKKAJI": [
+        "J466.586D"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    27.9754  -18.8001\n            2   C8x C    26.7534  -18.1156\n            3   C8x C    27.9992  -20.2095\n            4   C1b C    29.1662  -18.0874\n            5   C8y C    25.5472  -18.8524\n            6   C8x C    26.8118  -20.9275\n            7   C4a C    30.3817  -18.7611\n            8   C8y C    25.5730  -20.2528\n            9   O1a O    24.3317  -18.1787\n            10  O1a O    24.3891  -20.9764\n            11  O4a O    31.5809  -18.0405\nBOND        11\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 2\n            6     4   7 1\n            7     5   8 2\n            8     5   9 1\n            9     8  10 1\n            10    6   8 1\n            11    7  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

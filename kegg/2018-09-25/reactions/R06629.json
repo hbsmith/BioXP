@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06629",
+    "name": "",
+    "definition": "dTDP-L-4-oxovancosamine + NADPH + H+ <=> dTDP-L-epivancosamine + NADP+",
+    "equation": "C12320 + C00005 + C00080 <=> C12321 + C00006",
+    "comment": "reductase,EvaE",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01055": "Biosynthesis of vancomycin group antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16439": "reductase EvaE"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04925",
+    "name": "",
+    "definition": "N-Monomethyl-2-aminoethylphosphonate <=> N-Dimethyl-2-aminoethylphosphonate",
+    "equation": "C05679 <=> C05680",
+    "comment": "incomplete reaction methylation",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

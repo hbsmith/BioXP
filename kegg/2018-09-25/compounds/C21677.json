@@ -1,0 +1,32 @@
+[
+  {
+    "entry_id": "C21677",
+    "name": "(3S)-(+)-Asterisca-2(9),6-diene",
+    "names": [
+      "(3S)-(+)-Asterisca-2(9),6-diene",
+      "(4S,7Z)-2,2,4,7-Tetramethyl-2,3,4,5,6,9-hexahydro-1H-cyclopenta[8]annulene"
+    ],
+    "formula": "C15H24",
+    "exact_mass": 204.1878,
+    "mol_weight": 204.3511,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+    },
+    "kcf": "ATOM        15\n            1   C1x C    17.9020  -14.5050\n            2   C2y C    19.3031  -14.5050\n            3   C2x C    20.2958  -15.4905\n            4   C1x C    20.2958  -16.8916\n            5   C1x C    19.3031  -17.8843\n            6   C1y C    17.9020  -17.8843\n            7   C2y C    16.9163  -16.8916\n            8   C2y C    16.9163  -15.4905\n            9   C1x C    15.5837  -15.0575\n            10  C1z C    14.7601  -16.1911\n            11  C1x C    15.5837  -17.3246\n            12  C1a C    13.5477  -15.4911\n            13  C1a C    13.7702  -17.1810\n            14  C1a C    19.8441  -13.1918\n            15  C1a C    17.3789  -19.1412\nBOND        16\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 2\n            8     8   1 1\n            9     8   9 1\n            10    9  10 1\n            11   10  11 1\n            12    7  11 1\n            13   10  12 1\n            14   10  13 1\n            15    2  14 1\n            16    6  15 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

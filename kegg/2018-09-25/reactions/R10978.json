@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10978",
+    "name": "6-aminohexanoate-cyclic-oligomer amidohydrolase",
+    "definition": "6-Aminohexanoate cyclic oligomer + H2O <=> [N-(6-Aminohexanoyl)]n",
+    "equation": "C20990 + C00001 <=> C20988",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.117"
+    ],
+    "pathways": {
+      "rn00930": "Caprolactam degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K19963": "6-aminohexanoate-oligomer endohydrolase [EC:3.5.1.117]"
+    }
+  }
+]

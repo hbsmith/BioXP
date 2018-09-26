@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08172",
+    "name": "amino phenylpropanoyl-CoA:Baccatin III amino phenylpropanoyl-13-O-transferase",
+    "definition": "Baccatin III + beta-Phenylalanoyl-CoA <=> 3'-N-Debenzoyl-2'-deoxytaxol + CoA",
+    "equation": "C11900 + C16833 <=> C16523 + C00010",
+    "comment": "amino phenylpropanoyl-13-O-transferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.2.-"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

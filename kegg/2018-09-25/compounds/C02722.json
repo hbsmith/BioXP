@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C02722",
+    "name": "N-Methylhexanamide",
+    "names": [
+      "N-Methylhexanamide"
+    ],
+    "formula": "C7H15NO",
+    "exact_mass": 129.1154,
+    "mol_weight": 129.2001,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03620"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.5.1.39"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5684"
+      ],
+      "ChEBI": [
+        "15860"
+      ],
+      "3DMET": [
+        "B00490"
+      ],
+      "NIKKAJI": [
+        "J488.678J"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C5a C    26.7055  -17.5342\n            2   C1b C    25.5602  -18.1980\n            3   N1b N    27.8508  -18.1980\n            4   O5a O    26.7055  -16.2123\n            5   C1b C    24.4089  -17.5342\n            6   C1b C    23.2637  -18.1980\n            7   C1b C    22.1185  -17.5342\n            8   C1a C    20.9672  -18.1980\n            9   C1a C    29.0704  -17.4966\nBOND        8\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     3   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

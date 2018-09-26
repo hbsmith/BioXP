@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05708",
+    "name": "N6-dimethylallyladenine:(acceptor) oxidoreductase",
+    "definition": "N6-(Delta2-Isopentenyl)-adenine + H2O + Acceptor <=> Adenine + 3-Methyl-2-butenal + Reduced acceptor",
+    "equation": "C04083 + C00001 + C00028 <=> C00147 + C07330 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.99.12"
+    ],
+    "pathways": {
+      "rn00908": "Zeatin biosynthesis"
+    },
+    "orthologs": {
+      "K00279": "cytokinin dehydrogenase [EC:1.5.99.12]"
+    }
+  }
+]

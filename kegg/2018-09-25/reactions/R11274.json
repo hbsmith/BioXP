@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11274",
+    "name": "",
+    "definition": "Paromamine + S-Adenosyl-L-methionine + Reduced acceptor <=> 4'-Oxolividamine + L-Methionine + 5'-Deoxyadenosine + Acceptor + H2O",
+    "equation": "C01743 + C00019 + C00030 <=> C21257 + C00073 + C05198 + C00028 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20575": "radical SAM diol-dehydratase"
+    }
+  }
+]

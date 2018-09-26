@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C12603",
+    "name": "Sodium bicarbonate",
+    "names": [
+      "Sodium bicarbonate",
+      "Sodium hydrogencarbonate"
+    ],
+    "formula": "NaHCO3",
+    "exact_mass": 83.9823,
+    "mol_weight": 84.0066,
+    "remark": "Same as: D01203",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "144-55-8"
+      ],
+      "PubChem": [
+        "582993"
+      ],
+      "ChEBI": [
+        "32139"
+      ],
+      "ChEMBL": [
+        "CHEMBL1353"
+      ],
+      "NIKKAJI": [
+        "J44.042F"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C6a C    25.7819  -18.1786\n            2   O6a O    26.4894  -16.9650\n            3   O6a O    26.4777  -19.3909 #-\n            4   O6a O    24.3845  -18.1657\n            5   Z   Na   29.6575  -18.3272 #+\nBOND        3\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

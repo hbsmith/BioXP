@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10096",
+    "name": "UDP-alpha-D-glucose:2-deoxystreptamine 4-O-alpha-D-glucosyltransferase",
+    "definition": "UDP-glucose + 2-Deoxystreptamine <=> UDP + 2'-Deamino-2'-hydroxyparomamine",
+    "equation": "C00029 + C02627 <=> C00015 + C20353",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.284"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13550": "2-deoxystreptamine N-acetyl-D-glucosaminyltransferase / 2-deoxystreptamine glucosyltransferase [EC:2.4.1.283 2.4.1.284]"
+    }
+  }
+]

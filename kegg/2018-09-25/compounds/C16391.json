@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C16391",
+    "name": "Trinitrotoluene",
+    "names": [
+      "Trinitrotoluene",
+      "2,4,6-Trinitrotoluene"
+    ],
+    "formula": "C7H5N3O6",
+    "exact_mass": 227.0178,
+    "mol_weight": 227.1311,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08014",
+      "R08017",
+      "R08042"
+    ],
+    "pathways": {
+      "map00633": "Nitrotoluene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.-.-.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "118-96-7"
+      ],
+      "PubChem": [
+        "47205689"
+      ],
+      "ChEBI": [
+        "46053"
+      ],
+      "ChEMBL": [
+        "CHEMBL1236345"
+      ],
+      "PDB-CCD": [
+        "TNL"
+      ],
+      "NIKKAJI": [
+        "J2.477E"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8y C    26.8415  -23.7118\n            2   C8x C    26.8415  -25.1121\n            3   C8y C    28.0581  -25.8157\n            4   C8x C    29.2673  -25.1121\n            5   C8y C    29.2673  -23.7118\n            6   C8y C    28.0581  -23.0152\n            7   C1a C    28.0598  -21.6151\n            8   N2b N    30.4815  -23.0162 #+\n            9   N2b N    28.0598  -27.2158 #+\n            10  O3a O    31.6945  -23.7136\n            11  O3a O    30.4825  -21.6159 #-\n            12  O3a O    26.8471  -27.9139\n            13  O3a O    29.2743  -27.9109 #-\n            14  N2b N    25.6152  -23.0004 #+\n            15  O3a O    24.3923  -23.7028\n            16  O3a O    25.6182  -21.6300 #-\nBOND        16\n            1     6   7 1\n            2     1   2 2\n            3     5   8 1\n            4     2   3 1\n            5     3   9 1\n            6     3   4 2\n            7     8  10 2\n            8     4   5 1\n            9     8  11 1\n            10    5   6 2\n            11    9  12 2\n            12    6   1 1\n            13    9  13 1\n            14    1  14 1\n            15   14  15 2\n            16   14  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

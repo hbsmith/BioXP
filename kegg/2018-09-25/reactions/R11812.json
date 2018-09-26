@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11812",
+    "name": "butachlor,ferredoxin:oxygen oxidoreductase (butyl formate-releasing)",
+    "definition": "Butachlor + 2 Reduced ferredoxin + Oxygen <=> 2-Chloro-N-(2,6-diethylphenyl)acetamide + Butyl formate + 2 Oxidized ferredoxin + H2O",
+    "equation": "C10931 + 2 C00138 + C00007 <=> C21712 + C21713 + 2 C00139 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.23"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

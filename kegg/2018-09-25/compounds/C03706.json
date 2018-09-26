@@ -1,0 +1,34 @@
+[
+  {
+    "entry_id": "C03706",
+    "name": "Lysosomal-enzyme D-mannose",
+    "names": [
+      "Lysosomal-enzyme D-mannose"
+    ],
+    "formula": "C6H11O6R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R04291"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.7.8.17"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6474"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   O1a O    22.9555  -18.0856\n            2   C1b C    24.2917  -17.2941\n            3   C1y C    25.4884  -17.9780\n            4   C1y C    25.4884  -19.3710\n            5   O2x O    26.6790  -17.2941\n            6   C1y C    26.6790  -20.0740\n            7   O1a O    24.2917  -20.0549\n            8   C1y C    27.8884  -17.9780\n            9   C1y C    27.8884  -19.3710\n            10  O1a O    26.6790  -21.4544\n            11  O2a O    29.0789  -17.2876\n            12  O1a O    29.0854  -20.0613\n            13  R   R    30.4789  -17.2876\nBOND        13\n            1     1   2 1\n            2     3   2 1 #Up\n            3     3   4 1\n            4     3   5 1\n            5     4   6 1\n            6     4   7 1 #Down\n            7     5   8 1\n            8     6   9 1\n            9     6  10 1 #Up\n            10    8  11 1 #Down\n            11    9  12 1 #Up\n            12    8   9 1\n            13   11  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

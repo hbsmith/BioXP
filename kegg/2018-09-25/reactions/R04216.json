@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04216",
+    "name": "dolichyl-diphosphooligosaccharide:protein-L-asparagine oligopolysaccharidotransferase",
+    "definition": "Dolichyl diphosphooligosaccharide + Protein asparagine <=> Dolichyl diphosphate + Glycoprotein with the oligosaccharide chain attached by N-glycosyl linkage to protein L-asparagine",
+    "equation": "C04213 + C03021 <=> C00621 + C11572",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.99.18"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K07151": "dolichyl-diphosphooligosaccharide---protein glycosyltransferase [EC:2.4.99.18]"
+    }
+  }
+]

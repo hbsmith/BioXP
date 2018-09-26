@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00914",
+    "name": "beta-alanine CoA-transferase",
+    "definition": "beta-Alanine <=> beta-Alanyl-CoA",
+    "equation": "C00099 <=> C02335",
+    "comment": "unclear reaction incomplete reaction (CoA donor not yet characterized)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.-"
+    ],
+    "pathways": {
+      "rn00640": "Propanoate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

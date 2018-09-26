@@ -1,0 +1,67 @@
+[
+  {
+    "entry_id": "C05141",
+    "name": "Estriol",
+    "names": [
+      "Estriol",
+      "1,3,5(10)-Estratriene-3,16-alpha,17beta-triol"
+    ],
+    "formula": "C18H24O3",
+    "exact_mass": 288.1725,
+    "mol_weight": 288.3814,
+    "remark": "Same as: D00185",
+    "comment": "",
+    "reactions": [
+      "R03089",
+      "R04681",
+      "R04682",
+      "R04683"
+    ],
+    "pathways": {
+      "map00140": "Steroid hormone biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map07226": "Progesterone, androgen and estrogen receptor agonists/antagonists"
+    },
+    "enzymes": [
+      "1.1.1.62",
+      "1.14.14.1",
+      "2.4.1.17"
+    ],
+    "dblinks": {
+      "CAS": [
+        "50-27-1"
+      ],
+      "PubChem": [
+        "7560"
+      ],
+      "ChEBI": [
+        "27974"
+      ],
+      "ChEMBL": [
+        "CHEMBL193482"
+      ],
+      "LIPIDMAPS": [
+        "LMST02010003"
+      ],
+      "LipidBank": [
+        "SST0014"
+      ],
+      "PDB-CCD": [
+        "ESL"
+      ],
+      "3DMET": [
+        "B01814"
+      ],
+      "NIKKAJI": [
+        "J4.099A"
+      ]
+    },
+    "kcf": "ATOM        21\n            1   C1y C    23.5304  -17.3600\n            2   C1y C    22.3397  -18.0510\n            3   C1z C    23.5304  -15.9842\n            4   C1x C    25.9056  -17.3661\n            5   C1y C    21.1551  -17.3723\n            6   C1x C    22.3460  -19.4205\n            7   C1y C    24.7273  -15.2932\n            8   C1x C    22.3336  -15.3055\n            9   C1a C    23.4255  -14.5838\n            10  C1y C    25.9119  -15.9904\n            11  C8y C    19.9768  -18.0572\n            12  C1x C    21.1675  -15.9287\n            13  C1x C    21.1614  -20.0992\n            14  O1a O    24.7273  -13.9544\n            15  O1a O    27.0779  -15.3241\n            16  C8y C    19.9768  -19.4145\n            17  C8x C    18.7985  -17.3908\n            18  C8x C    18.7985  -20.1054\n            19  C8x C    17.6386  -18.0572\n            20  C8y C    17.6386  -19.4145\n            21  O1a O    16.4726  -20.0807\nBOND        24\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     3   8 1\n            8     3   9 1 #Up\n            9     4  10 1\n            10    5  11 1\n            11    5  12 1\n            12    6  13 1\n            13    7  14 1 #Up\n            14   10  15 1 #Down\n            15   11  16 2\n            16   11  17 1\n            17   16  18 1\n            18   17  19 2\n            19   18  20 2\n            20   20  21 1\n            21    7  10 1\n            22    8  12 1\n            23   13  16 1\n            24   19  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

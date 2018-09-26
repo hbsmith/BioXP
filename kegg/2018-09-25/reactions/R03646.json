@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03646",
+    "name": "L-Arginine:tRNA(Arg) ligase (AMP-forming)",
+    "definition": "ATP + L-Arginine + tRNA(Arg) <=> AMP + Diphosphate + L-Arginyl-tRNA(Arg)",
+    "equation": "C00002 + C00062 + C01636 <=> C00020 + C00013 + C02163",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.1.1.19"
+    ],
+    "pathways": {
+      "rn00970": "Aminoacyl-tRNA biosynthesis"
+    },
+    "orthologs": {
+      "K01887": "arginyl-tRNA synthetase [EC:6.1.1.19]"
+    }
+  }
+]

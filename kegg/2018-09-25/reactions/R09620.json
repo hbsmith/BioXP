@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09620",
+    "name": "(2E,6E)-farnesyl-diphosphate diphosphate-lyase [(Z)-gamma-bisabolene-forming]",
+    "definition": "trans,trans-Farnesyl diphosphate <=> gamma-Bisabolene + Diphosphate",
+    "equation": "C00448 <=> C16814 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.40"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis"
+    },
+    "orthologs": {
+      "K15795": "(Z)-gamma-bisabolene synthase [EC:4.2.3.40]"
+    }
+  }
+]

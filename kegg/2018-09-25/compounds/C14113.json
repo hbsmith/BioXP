@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C14113",
+    "name": "Decahydro-2-naphthoic acid",
+    "names": [
+      "Decahydro-2-naphthoic acid",
+      "Decahydro-2-naphthalenecarboxylic acid"
+    ],
+    "formula": "C11H18O2",
+    "exact_mass": 182.1307,
+    "mol_weight": 182.2594,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06899"
+    ],
+    "pathways": {
+      "map00626": "Naphthalene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "13032-41-2"
+      ],
+      "PubChem": [
+        "854349"
+      ],
+      "ChEBI": [
+        "34667"
+      ],
+      "NIKKAJI": [
+        "J761.591D"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1y C    27.6024  -16.9252\n            2   C1x C    27.6024  -18.3254\n            3   C1x C    28.8189  -19.0291\n            4   C1x C    28.8189  -16.2286\n            5   C1y C    30.0281  -16.9252\n            6   C1y C    30.0222  -18.3254\n            7   C1x C    31.2328  -19.0342\n            8   C1x C    32.4493  -18.3357\n            9   C1x C    32.4552  -16.9355\n            10  C1x C    31.2446  -16.2339\n            11  C6a C    26.3893  -16.2281\n            12  O6a O    25.1753  -16.9240\n            13  O6a O    26.3899  -14.8279\nBOND        14\n            1     3   6 1\n            2     5   4 1\n            3     4   1 1\n            4     5   6 1\n            5     6   7 1\n            6     7   8 1\n            7     8   9 1\n            8     9  10 1\n            9    10   5 1\n            10    1  11 1\n            11    1   2 1\n            12   11  12 2\n            13    2   3 1\n            14   11  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

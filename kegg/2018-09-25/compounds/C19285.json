@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19285",
+    "name": "N-Nitrosopyrrolidine",
+    "names": [
+      "N-Nitrosopyrrolidine"
+    ],
+    "formula": "C4H8N2O",
+    "exact_mass": 100.0637,
+    "mol_weight": 100.1191,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "930-55-2"
+      ],
+      "PubChem": [
+        "124489957"
+      ],
+      "ChEBI": [
+        "82362"
+      ],
+      "ChEMBL": [
+        "CHEMBL351175"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1x C    15.3110  -19.1370\n            2   C1x C    15.7655  -20.4612\n            3   C1x C    17.1654  -20.4380\n            4   C1x C    17.5759  -19.0996\n            5   N1y N    16.4299  -18.2955\n            6   N2b N    16.4760  -16.8707\n            7   O3a O    17.6576  -16.1616\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     5   6 1\n            7     6   7 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

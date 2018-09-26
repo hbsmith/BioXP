@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C17941",
+    "name": "2-Oxo-4-phosphonobutanoate",
+    "names": [
+      "2-Oxo-4-phosphonobutanoate",
+      "2-Oxo-4-phosphonobutanoic acid"
+    ],
+    "formula": "C4H7O6P",
+    "exact_mass": 181.998,
+    "mol_weight": 182.0685,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08881",
+      "R08882"
+    ],
+    "pathways": {
+      "map00440": "Phosphonate and phosphinate metabolism"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96024162"
+      ],
+      "ChEBI": [
+        "81397"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   O6a O    25.5723  -22.5693\n            2   C6a C    26.8301  -23.2680\n            3   C5a C    28.0178  -22.5693\n            4   C1b C    29.2057  -23.2680\n            5   C1b C    30.4634  -22.5693\n            6   P1b P    31.6512  -23.2680\n            7   O1c O    31.6512  -21.8705\n            8   O1c O    33.0487  -23.2680\n            9   O1c O    31.6512  -24.6655\n            10  O5a O    28.0178  -21.1714\n            11  O6a O    26.8311  -24.4787\nBOND        10\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 2\n            7     6   8 1\n            8     6   9 1\n            9     3  10 2\n            10    2  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

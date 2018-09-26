@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C15522",
+    "name": "4a-Hydroxytetrahydrobiopterin",
+    "names": [
+      "4a-Hydroxytetrahydrobiopterin",
+      "4a-Hydroxy-5,6,4,8-tetrahydrobiopterin",
+      "(6R)-6-(L-erythro-1,2-Dihydroxypropyl)-5,6,7,8-tetrahydro-4a-hydroxypterin"
+    ],
+    "formula": "C9H15N5O4",
+    "exact_mass": 257.1124,
+    "mol_weight": 257.2465,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04734",
+      "R07211",
+      "R07212",
+      "R07213",
+      "R10729"
+    ],
+    "pathways": {
+      "map00790": "Folate biosynthesis"
+    },
+    "enzymes": [
+      "1.14.16.1",
+      "1.14.16.2",
+      "1.14.16.4",
+      "1.14.16.7",
+      "4.2.1.96"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17396514"
+      ],
+      "ChEBI": [
+        "15642"
+      ],
+      "NIKKAJI": [
+        "J2.794.818I"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C2y C    17.4172  -17.6271\n            2   C1z C    17.4172  -16.1581\n            3   N1x N    18.6764  -18.3266\n            4   N2x N    16.2281  -18.3266\n            5   N1x N    18.6764  -15.4587\n            6   C5x C    16.2281  -15.4587\n            7   C1x C    19.8655  -17.6271\n            8   C2y C    15.0390  -17.6271\n            9   C1y C    19.8655  -16.1581\n            10  N2x N    15.0390  -16.1581\n            11  O5x O    16.2281  -14.0597\n            12  N1a N    13.7799  -18.3266\n            13  C1c C    21.1246  -15.5986\n            14  C1c C    22.3137  -16.2980\n            15  O1a O    21.1246  -14.1996\n            16  C1a C    23.5028  -15.5986\n            17  O1a O    22.3137  -17.5571\n            18  O1a O    17.4172  -14.7581\nBOND        19\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     6  10 1\n            10    6  11 2\n            11    8  12 1\n            12    9  13 1\n            13   13  14 1\n            14   13  15 1 #Up\n            15   14  16 1\n            16   14  17 1 #Down\n            17    7   9 1\n            18    8  10 2\n            19    2  18 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

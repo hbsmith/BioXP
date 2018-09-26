@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06479",
+    "name": "",
+    "definition": "Avermectin B1b aglycone + S-Adenosyl-L-methionine <=> Avermectin A1b aglycone + S-Adenosyl-L-homocysteine",
+    "equation": "C11963 + C00019 <=> C11964 + C00021",
+    "comment": "C5-O-methyltransferase,AveD",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn00522": "Biosynthesis of 12-, 14- and 16-membered macrolides",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K14374": "avermectin B 5-O-methyltransferase [EC:2.1.1.-]"
+    }
+  }
+]

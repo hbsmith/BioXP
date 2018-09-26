@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01990",
+    "name": "4-Guanidinobutanoate amidinohydrolase",
+    "definition": "4-Guanidinobutanoate + H2O <=> 4-Aminobutanoate + Urea",
+    "equation": "C01035 + C00001 <=> C00334 + C00086",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.3.7"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K12255": "guanidinobutyrase [EC:3.5.3.7]"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R02432",
+    "name": "NTP:gentamicin 2''-nucleotidyltransferase",
+    "definition": "Nucleoside triphosphate + Gentamicin <=> Diphosphate + 2''-Nucleotidylgentamicin",
+    "equation": "C00201 + C00505 <=> C00013 + C03565",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.46"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

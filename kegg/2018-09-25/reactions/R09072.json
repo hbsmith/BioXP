@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09072",
+    "name": "S-adenosyl-L-methionine:1,2-diacyl-sn-glycerol 3-amino-3-carboxypropyltransferase",
+    "definition": "1,2-Diacyl-sn-glycerol + S-Adenosyl-L-methionine <=> Diacylglycerylhomoserine + 5'-Methylthioadenosine",
+    "equation": "C00641 + C00019 <=> C18168 + C00170",
+    "comment": "S-adenosylmethionine-diacylglycerol 3-amino-3-carboxypropyl transferase",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism"
+    },
+    "orthologs": {
+      "K13621": "betaine lipid synthase",
+      "K13622": "S-adenosylmethionine-diacylglycerol 3-amino-3-carboxypropyl transferase"
+    }
+  }
+]

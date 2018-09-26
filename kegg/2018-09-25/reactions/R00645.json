@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00645",
+    "name": "ascorbate:acceptor oxidoreductase",
+    "definition": "2 Ascorbate + Acceptor <=> 2 Monodehydroascorbate + Reduced acceptor",
+    "equation": "2 C00072 + C00028 <=> 2 C01041 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "pathways": {
+      "rn00053": "Ascorbate and aldarate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

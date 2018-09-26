@@ -1,0 +1,31 @@
+[
+  {
+    "entry_id": "C21702",
+    "name": "beta-Thujene",
+    "names": [
+      "beta-Thujene"
+    ],
+    "formula": "C10H16",
+    "exact_mass": 136.1252,
+    "mol_weight": 136.234,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+    },
+    "kcf": "ATOM        10\n            1   C1z C    18.1291  -17.2506\n            2   C1c C    18.1291  -18.5727\n            3   C1y C    19.2426  -15.2324\n            4   C2x C    17.0157  -16.5547\n            5   C1x C    19.2426  -16.5547\n            6   C1a C    17.0157  -19.1991\n            7   C1a C    19.2426  -19.1991\n            8   C1y C    18.1291  -14.6061\n            9   C2x C    17.0157  -15.2324\n            10  C1a C    18.1291  -13.2142\nBOND        11\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1\n            5     2   6 1\n            6     2   7 1\n            7     3   8 1\n            8     4   9 2\n            9     3   5 1\n            10    8   9 1\n            11    8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

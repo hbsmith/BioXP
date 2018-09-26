@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R10115",
+    "name": "malonyl-[acyl-carrier protein]-methyl-ester:malonyl-[acyl-carrier protein] C-acyltransferase",
+    "definition": "Malonyl-[acp] methyl ester + Malonyl-[acyl-carrier protein] <=> 3-Ketoglutaryl-[acp] methyl ester + CO2 + Acyl-carrier protein",
+    "equation": "C19673 + C01209 <=> C20372 + C00011 + C00229",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.41",
+      "2.3.1.179"
+    ],
+    "pathways": {
+      "rn00780": "Biotin metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00647": "3-oxoacyl-[acyl-carrier-protein] synthase I [EC:2.3.1.41]",
+      "K09458": "3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08574",
+    "name": "CTP:riboflavin 5'-phosphotransferase",
+    "definition": "CTP + Riboflavin <=> CDP + FMN",
+    "equation": "C00063 + C00255 <=> C00112 + C00061",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.161"
+    ],
+    "pathways": {
+      "rn00740": "Riboflavin metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K07732": "riboflavin kinase, archaea type [EC:2.7.1.161]"
+    }
+  }
+]

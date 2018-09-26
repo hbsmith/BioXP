@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08923",
+    "name": "(+)-pulegone,NADPH:oxygen oxidoreductase (9-hydroxylating)",
+    "definition": "Pulegone + NADPH + H+ + Oxygen <=> (+)-Menthofuran + NADP+ + 2 H2O",
+    "equation": "C09893 + C00005 + C00080 + C00007 <=> C18025 + C00006 + 2 C00001",
+    "comment": "multi-step reaction (9-hydroxylation, cyclization and dehydration)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.104"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15093": "(+)-menthofuran synthase [EC:1.14.13.104]"
+    }
+  }
+]

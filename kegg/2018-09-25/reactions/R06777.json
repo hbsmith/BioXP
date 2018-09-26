@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06777",
+    "name": "",
+    "definition": "3-Methylpyrrole-2,4-dicarboxylic acid + 3-Amino-4,7-dihydroxycoumarin + ATP <=> 5-[[(4,7-Dihydroxy-2-oxo-2H-1-benzopyran-3-yl)amino]carbonyl]-4-methyl-1H-pyrrole-3-carboxylate + AMP + Diphosphate",
+    "equation": "C12477 + C12468 + C00002 <=> C20637 + C00020 + C00013",
+    "comment": "ligase, CouL",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00401": "Novobiocin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12709": "8-demethylnovobiocic acid synthase [EC:6.3.1.15]"
+    }
+  }
+]

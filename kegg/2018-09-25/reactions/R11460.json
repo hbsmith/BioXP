@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11460",
+    "name": "ATP:L-erythrulose 4-phosphotransferase",
+    "definition": "ATP + L-Erythrulose <=> ADP + L-Erythrulose 4-phosphate",
+    "equation": "C00002 + C02045 <=> C00008 + C21286",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.209"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K20901": "L-erythrulose 4-kinase [EC:2.7.1.209]"
+    }
+  }
+]

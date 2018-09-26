@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10423",
+    "name": "3alpha-hydroxysteroid:NADP+ 3-oxidoreductase",
+    "definition": "3alpha-Hydroxysteroid + NADP+ <=> 3-Oxosteroid + NADPH + H+",
+    "equation": "C03072 + C00006 <=> C01876 + C00005 + C00080",
+    "comment": "general reaction Si-specific with respect to NADP+ (ec 1.1.1.50) Re-specific with respect to NADP+ (ec 1.1.1.213) stereo-specificity is not known (ec 1.1.1.357) NAD+ (see R10422)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.50",
+      "1.1.1.213",
+      "1.1.1.357"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

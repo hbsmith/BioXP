@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C12483",
+    "name": "Pyrrole-2-carbonyl-[pcp]",
+    "names": [
+      "Pyrrole-2-carbonyl-[pcp]"
+    ],
+    "formula": "C5H4NOSR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = PCP (peptidyl carrier protein)",
+    "reactions": [
+      "R06747",
+      "R06748",
+      "R06768",
+      "R06775",
+      "R11665"
+    ],
+    "pathways": {
+      "map00333": "Prodigiosin biosynthesis",
+      "map00401": "Novobiocin biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.3.8.-",
+      "2.3.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "582873"
+      ],
+      "ChEBI": [
+        "32078"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    27.7568  -18.9514\n            2   C8x C    28.1922  -17.6220\n            3   C8x C    27.0574  -16.7966\n            4   C8y C    25.9228  -17.6220\n            5   N4x N    26.3580  -18.9514\n            6   C5a C    24.7149  -16.9170\n            7   S2a S    23.5047  -17.6128\n            8   O5a O    24.7149  -15.5138\n            9   R   R    22.1052  -17.6091\nBOND        9\n            1     4   5 1\n            2     5   1 1\n            3     1   2 2\n            4     2   3 1\n            5     6   7 1\n            6     6   8 2\n            7     3   4 2\n            8     7   9 1\n            9     6   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

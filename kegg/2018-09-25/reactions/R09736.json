@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R09736",
+    "name": "S-adenosyl-L-methione:demethylmenaquinol methyltransferase",
+    "definition": "Demethylmenaquinol + S-Adenosyl-L-methionine <=> Menaquinol + S-Adenosyl-L-homocysteine",
+    "equation": "C19847 + C00019 <=> C05819 + C00021",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.163"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K03183": "demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]"
+    }
+  }
+]

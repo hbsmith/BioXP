@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09578",
+    "name": "L-phenylalanine,NADPH:oxygen oxidoreductase (N-hydroxylating)",
+    "definition": "L-Phenylalanine + 2 Oxygen + 2 [Reduced NADPH---hemoprotein reductase] <=> (E)-Phenylacetaldoxime + 2 [Oxidized NADPH---hemoprotein reductase] + CO2 + 3 H2O",
+    "equation": "C00079 + 2 C00007 + 2 C03024 <=> C19714 + 2 C03161 + C00011 + 3 C00001",
+    "comment": "three-step reaction (see R09579+R09580+R09581)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.40"
+    ],
+    "pathways": {
+      "rn00966": "Glucosinolate biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+      "K12153": "phenylalanine N-monooxygenase [EC:1.14.14.40]"
+    }
+  }
+]

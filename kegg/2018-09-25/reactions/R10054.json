@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10054",
+    "name": "L-lysine:NAD+ 6-oxidoreductase (deaminating)",
+    "definition": "L-Lysine + NAD+ <=> (S)-2,3,4,5-Tetrahydropyridine-2-carboxylate + NADH + H+ + Ammonia",
+    "equation": "C00047 + C00003 <=> C00450 + C00004 + C00080 + C00014",
+    "comment": "two-step reaction (see R00446+R02317)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.1.18"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

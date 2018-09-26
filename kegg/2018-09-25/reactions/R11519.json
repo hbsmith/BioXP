@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11519",
+    "name": "protochlorophyllide-a:ferredoxin C-8(1)-oxidoreductase",
+    "definition": "Protochlorophyllide + 2 Oxidized ferredoxin <=> Divinylprotochlorophyllide + 2 Reduced ferredoxin + 2 H+",
+    "equation": "C02880 + 2 C00139 <=> C11831 + 2 C00138 + 2 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.7.13"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K21231": "3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin) [EC:1.3.7.13]"
+    }
+  }
+]

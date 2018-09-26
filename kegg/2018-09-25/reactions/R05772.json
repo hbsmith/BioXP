@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05772",
+    "name": "trans-feruloyl-CoA hydratase; 4-Hydroxy-3-methoxyphenyl-beta-hydroxypropionyl-CoA hydro-lyase (feruloyl-CoA-forming)",
+    "definition": "Feruloyl-CoA + H2O <=> 4-Hydroxy-3-methoxyphenyl-beta-hydroxypropanoyl-CoA",
+    "equation": "C00406 + C00001 <=> C07303",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.101"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K18383": "trans-feruloyl-CoA hydratase / vanillin synthase [EC:4.2.1.101 4.1.2.41]"
+    }
+  }
+]

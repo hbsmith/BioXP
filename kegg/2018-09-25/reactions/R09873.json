@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09873",
+    "name": "acetyl-CoA:dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase",
+    "definition": "Acetyl-CoA + dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose <=> CoA + dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactopyranose",
+    "equation": "C00024 + C19947 <=> C00010 + C20156",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.197"
+    ],
+    "pathways": {
+      "rn00523": "Polyketide sugar unit biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20681": "dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase [EC:2.3.1.197]"
+    }
+  }
+]

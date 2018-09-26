@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R04036",
+    "name": "Photinus-luciferin:oxygen 4-oxidoreductase(decarboxylating,ATP-hydrolysing)",
+    "definition": "Photinus luciferin + Oxygen + ATP <=> Oxidized Photinus luciferin + hn + AMP + Diphosphate + CO2",
+    "equation": "C02740 + C00007 + C00002 <=> C03797 + C00205 + C00020 + C00013 + C00011",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.12.7"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

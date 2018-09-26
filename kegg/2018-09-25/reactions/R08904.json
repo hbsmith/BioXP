@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08904",
+    "name": "neomycin-C 5'''-epimerase",
+    "definition": "Neomycin C <=> Neomycin B",
+    "equation": "C15652 <=> C01737",
+    "comment": "radical SAM enzyme, epimerization at C-5'''",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.3.-"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13557": "neomycin C epimerase [EC:5.1.3.-]"
+    }
+  }
+]

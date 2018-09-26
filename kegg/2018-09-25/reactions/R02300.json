@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02300",
+    "name": "S-Aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate aminomethyltransferase (ammonia-forming)",
+    "definition": "Folinic acid <=> 5,10-Methenyltetrahydrofolate + H2O",
+    "equation": "C03479 <=> C00445 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.2.10"
+    ],
+    "pathways": {
+      "rn00670": "One carbon pool by folate"
+    },
+    "orthologs": {
+      "K00605": "aminomethyltransferase [EC:2.1.2.10]"
+    }
+  }
+]

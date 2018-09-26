@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06757",
+    "name": "dimethylallyl diphosphate:4-hydroxyphenylpyruvate 3-dimethylallyltransferase",
+    "definition": "3-(4-Hydroxyphenyl)pyruvate + Dimethylallyl diphosphate <=> 3-Dimethylallyl-4-hydroxyphenylpyruvate + Diphosphate",
+    "equation": "C01179 + C00235 <=> C12456 + C00013",
+    "comment": "prenyltransferase, NovQ CloQ",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.111"
+    ],
+    "pathways": {
+      "rn00401": "Novobiocin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12707": "4-hydroxyphenylpyruvate 3-dimethylallyltransferase [EC:2.5.1.111]"
+    }
+  }
+]

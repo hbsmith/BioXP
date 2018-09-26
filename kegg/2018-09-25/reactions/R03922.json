@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03922",
+    "name": "S-adenosyl-L-methionine:5-(N7-methyl 5-triphosphoguanosine)-(purine-ribonucleotide)-[mRNA] 2-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + m7G(5')pppR-mRNA <=> S-Adenosyl-L-homocysteine + m7G(5')pppRm-mRNA",
+    "equation": "C00019 + C02339 <=> C00021 + C04802",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.57"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K14589": "cap1 methyltransferase [EC:2.1.1.57]"
+    }
+  }
+]

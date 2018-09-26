@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02511",
+    "name": "trimethylamine:electron-transferring flavoprotein oxidoreductase(demethylating)",
+    "definition": "Trimethylamine + H2O + Electron-transferring flavoprotein <=> Dimethylamine + Formaldehyde + Reduced electron-transferring flavoprotein",
+    "equation": "C00565 + C00001 + C04253 <=> C00543 + C00067 + C04570",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.8.2"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K00317": "dimethylamine/trimethylamine dehydrogenase [EC:1.5.8.1 1.5.8.2]"
+    }
+  }
+]

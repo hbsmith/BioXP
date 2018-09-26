@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03661",
+    "name": "L-proline:tRNA(Pro) ligase (AMP-forming)",
+    "definition": "ATP + L-Proline + tRNA(Pro) <=> AMP + Diphosphate + L-Prolyl-tRNA(Pro)",
+    "equation": "C00002 + C00148 + C01649 <=> C00020 + C00013 + C02702",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.1.1.15"
+    ],
+    "pathways": {
+      "rn00970": "Aminoacyl-tRNA biosynthesis"
+    },
+    "orthologs": {
+      "K01881": "prolyl-tRNA synthetase [EC:6.1.1.15]",
+      "K14163": "bifunctional glutamyl/prolyl-tRNA synthetase [EC:6.1.1.17 6.1.1.15]"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "entry_id": "C01935",
+    "name": "Maltodextrin",
+    "names": [
+      "Maltodextrin",
+      "Maltodextrin(n)",
+      "Maltodextrin(n-2)",
+      "n+2 Maltodextrin",
+      "Linear maltodextrin",
+      "Maltooligosaccharide"
+    ],
+    "formula": "H2O(C6H10O5)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "Same as: D02329 G10495",
+    "comment": "",
+    "reactions": [
+      "R01824",
+      "R03122",
+      "R11256",
+      "R11261",
+      "R11262"
+    ],
+    "pathways": {
+      "map00500": "Starch and sucrose metabolism",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map02010": "ABC transporters"
+    },
+    "enzymes": [
+      "3.2.1.1",
+      "3.2.1.2",
+      "3.2.1.54",
+      "3.2.1.68",
+      "3.2.1.133",
+      "3.2.1.141",
+      "5.4.99.15"
+    ],
+    "dblinks": {
+      "CAS": [
+        "9050-36-6"
+      ],
+      "PubChem": [
+        "5040"
+      ],
+      "ChEBI": [
+        "18398"
+      ]
+    },
+    "kcf": "ATOM        34\n            1   C1y C    12.3200  -18.1300\n            2   C1y C    12.3200  -19.5300\n            3   C1y C    13.5324  -20.2300\n            4   C1y C    14.7449  -19.5300\n            5   C1y C    14.7449  -18.1300\n            6   O2x O    13.5324  -17.4300\n            7   C1b C    11.1076  -17.4300\n            8   O2a O    15.9760  -17.4190\n            9   O1a O    13.5324  -21.6298\n            10  C1y C    18.0284  -16.1590\n            11  C1y C    19.2692  -16.8755\n            12  C1y C    20.4817  -16.1757\n            13  C1y C    20.4819  -14.7757\n            14  O2x O    19.2411  -14.0591\n            15  C1y C    18.0286  -14.7590\n            16  O2a O    21.7179  -14.0621\n            17  C1y C    23.7003  -12.8021\n            18  C1y C    24.9383  -13.5171\n            19  C1y C    26.1508  -12.8173\n            20  C1y C    26.1510  -11.4173\n            21  O2x O    24.9130  -10.7023\n            22  C1y C    23.7005  -11.4021\n            23  O1a O    19.2690  -18.2699\n            24  C1b C    16.8446  -14.0751\n            25  C1b C    22.5138  -10.7166\n            26  O1a O    24.9380  -14.9099\n            27  O1a O    27.3883  -10.7029\n            28  O1a O    27.3816  -13.5284\n            29  O1a O    21.7125  -16.8869\n            30  O1a O    15.9760  -20.2410\n            31  O1a O    11.1076  -20.2300\n            32  O1a O     9.9121  -18.1204\n            33  O1a O    15.6534  -14.7627\n            34  O1a O    21.3238  -11.4034\nBOND        36\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     1   7 1 #Up\n            8     5   8 1 #Down\n            9     3   9 1 #Up\n            10   10   8 1 #Down\n            11   10  11 1\n            12   11  12 1\n            13   12  13 1\n            14   13  14 1\n            15   14  15 1\n            16   10  15 1\n            17   13  16 1 #Down\n            18   17  16 1 #Down\n            19   17  18 1\n            20   18  19 1\n            21   19  20 1\n            22   20  21 1\n            23   21  22 1\n            24   17  22 1\n            25   11  23 1 #Up\n            26   15  24 1 #Up\n            27   22  25 1 #Up\n            28   18  26 1 #Up\n            29   20  27 1 #Either\n            30   19  28 1 #Down\n            31   12  29 1 #Down\n            32    4  30 1 #Down\n            33    2  31 1 #Down\n            34    7  32 1\n            35   24  33 1\n            36   25  34 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

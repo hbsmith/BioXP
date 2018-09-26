@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04025",
+    "name": "N-Acetylputrescine:oxygen oxidoreductase(deaminating)(flavin-containing)",
+    "definition": "N-Acetylputrescine + H2O + Oxygen <=> N4-Acetylaminobutanal + Ammonia + Hydrogen peroxide",
+    "equation": "C02714 + C00001 + C00007 <=> C05936 + C00014 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.4"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00274": "monoamine oxidase [EC:1.4.3.4]"
+    }
+  }
+]

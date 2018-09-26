@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00875",
+    "name": "D-Glucitol:NAD+ 2-oxidoreductase",
+    "definition": "D-Sorbitol + NAD+ <=> D-Fructose + NADH + H+",
+    "equation": "C00794 + C00003 <=> C00095 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.14",
+      "1.1.1.15"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00008": "L-iditol 2-dehydrogenase [EC:1.1.1.14]"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R08685",
+    "name": "aldoxime,NADPH:oxygen oxidoreductase (adding cysteine)",
+    "definition": "Aldoxime + NADPH + Oxygen + L-Cysteine + H+ <=> S-Alkyl-thiohydroximate + NADP+ + 2 H2O",
+    "equation": "C02658 + C00005 + C00007 + C00097 + C00080 <=> C17262 + C00006 + 2 C00001",
+    "comment": "From aliphatic amino acid:CYP83A1 (see R08666) From aromatic amino acid:CYP83B1 (see R08168, R08653 and R10671) two-step reaction (see R08607+R08608)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

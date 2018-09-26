@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02577",
+    "name": "Propane-1,2-diol:NADP+ 1-oxidoreductase",
+    "definition": "Propane-1,2-diol + NADP+ <=> Lactaldehyde + NADPH + H+",
+    "equation": "C00583 + C00006 <=> C05999 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.21"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00011": "aldehyde reductase [EC:1.1.1.21]"
+    }
+  }
+]

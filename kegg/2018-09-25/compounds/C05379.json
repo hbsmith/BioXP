@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C05379",
+    "name": "Oxalosuccinate",
+    "names": [
+      "Oxalosuccinate",
+      "Oxalosuccinic acid"
+    ],
+    "formula": "C6H6O7",
+    "exact_mass": 190.0114,
+    "mol_weight": 190.1076,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00268",
+      "R01899",
+      "R08201"
+    ],
+    "pathways": {
+      "map00020": "Citrate cycle (TCA cycle)",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01130": "Biosynthesis of antibiotics",
+      "map01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "enzymes": [
+      "1.1.1.42",
+      "6.4.1.7"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1948-82-9"
+      ],
+      "PubChem": [
+        "7753"
+      ],
+      "ChEBI": [
+        "7815"
+      ],
+      "3DMET": [
+        "B05012"
+      ],
+      "NIKKAJI": [
+        "J13.032J"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   O6a O    19.0624   -9.0300\n            2   C6a C    20.2749   -8.3300\n            3   C1b C    21.4873   -9.0300\n            4   C1c C    22.6997   -8.3300\n            5   C5a C    23.9122   -9.0300\n            6   C6a C    25.1246   -8.3300\n            7   O6a O    26.3370   -9.0300\n            8   O6a O    20.2749   -6.9302\n            9   C6a C    22.6997   -6.9301\n            10  O6a O    21.4725   -6.2215\n            11  O6a O    23.8974   -6.2386\n            12  O5a O    23.9122  -10.4297\n            13  O6a O    25.1246   -6.9300\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     2   8 1\n            8     4   9 1\n            9     9  10 2\n            10    9  11 1\n            11    5  12 2\n            12    6  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

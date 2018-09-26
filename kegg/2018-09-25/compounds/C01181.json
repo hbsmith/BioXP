@@ -1,0 +1,58 @@
+[
+  {
+    "entry_id": "C01181",
+    "name": "4-Trimethylammoniobutanoate",
+    "names": [
+      "4-Trimethylammoniobutanoate",
+      "Butyro-betaine",
+      "gamma-Butyrobetaine"
+    ],
+    "formula": "C7H16NO2",
+    "exact_mass": 146.1181,
+    "mol_weight": 146.2074,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02397",
+      "R03283",
+      "R10644"
+    ],
+    "pathways": {
+      "map00310": "Lysine degradation",
+      "map02010": "ABC transporters"
+    },
+    "enzymes": [
+      "1.2.1.3",
+      "1.2.1.47",
+      "1.14.11.1",
+      "2.8.3.21"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4408"
+      ],
+      "ChEBI": [
+        "1941"
+      ],
+      "ChEMBL": [
+        "CHEMBL2074645"
+      ],
+      "PDB-CCD": [
+        "NM2"
+      ],
+      "3DMET": [
+        "B00256"
+      ],
+      "NIKKAJI": [
+        "J38.536K"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   N1d N    30.7300  -25.4800 #+\n            2   C1b C    29.6100  -26.1100\n            3   C1a C    32.2000  -26.1800\n            4   C1a C    30.7300  -23.8000\n            5   C1a C    32.4800  -24.9200\n            6   C1b C    28.4900  -25.4800\n            7   C1b C    27.3700  -26.1100\n            8   C6a C    26.2500  -25.4800\n            9   O6a O    25.1300  -26.1100\n            10  O6a O    26.2500  -24.2200\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1\n            5     2   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     8  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

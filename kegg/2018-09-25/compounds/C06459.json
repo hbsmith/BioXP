@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C06459",
+    "name": "N-Trimethyl-2-aminoethylphosphonate",
+    "names": [
+      "N-Trimethyl-2-aminoethylphosphonate",
+      "2-Trimethylaminoethylphosphonate"
+    ],
+    "formula": "C5H15NO3P",
+    "exact_mass": 168.079,
+    "mol_weight": 168.1513,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02590",
+      "R02592"
+    ],
+    "pathways": {
+      "map00440": "Phosphonate and phosphinate metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "2.7.7.15"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8691"
+      ],
+      "ChEBI": [
+        "7347"
+      ],
+      "3DMET": [
+        "B00965"
+      ],
+      "NIKKAJI": [
+        "J431.384D"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   P1b P    23.4691  -17.4485\n            2   C1b C    24.8724  -17.4485\n            3   O1c O    22.0718  -17.4485\n            4   O1c O    23.4634  -18.8517\n            5   O1c O    23.4634  -16.0512\n            6   C1b C    25.5586  -18.6374\n            7   N1d N    26.9499  -18.6375 #+\n            8   C1a C    28.3499  -18.6375\n            9   C1a C    26.9499  -20.0200\n            10  C1a C    26.9499  -17.2200\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     2   6 1\n            6     6   7 1\n            7     7   8 1\n            8     7   9 1\n            9     7  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

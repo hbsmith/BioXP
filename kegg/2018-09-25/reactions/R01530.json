@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01530",
+    "name": "D-arabinose-5-phosphate aldose-ketose-isomerase",
+    "definition": "D-Arabinose 5-phosphate <=> D-Ribulose 5-phosphate",
+    "equation": "C01112 <=> C00199",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.1.13"
+    ],
+    "pathways": {
+      "rn00540": "Lipopolysaccharide biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K02467": "arabinose 5-phosphate isomerase [EC:5.3.1.13]",
+      "K06041": "arabinose-5-phosphate isomerase [EC:5.3.1.13]"
+    }
+  }
+]

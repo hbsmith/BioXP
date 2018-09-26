@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C01950",
+    "name": "Picolinamide",
+    "names": [
+      "Picolinamide"
+    ],
+    "formula": "C6H6N2O",
+    "exact_mass": 122.048,
+    "mol_weight": 122.1246,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1452-77-3"
+      ],
+      "PubChem": [
+        "5053"
+      ],
+      "ChEBI": [
+        "8200"
+      ],
+      "PDB-CCD": [
+        "WM1"
+      ],
+      "NIKKAJI": [
+        "J27.993E"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    14.2100  -20.3000\n            2   C8x C    14.2100  -21.7000\n            3   C8x C    15.4224  -22.4000\n            4   C8x C    16.6349  -21.7000\n            5   C8y C    16.6349  -20.3000\n            6   N5x N    15.4224  -19.6000\n            7   C5a C    17.8724  -19.6000\n            8   N1a N    19.0849  -20.3000\n            9   O5a O    17.8786  -18.2003\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

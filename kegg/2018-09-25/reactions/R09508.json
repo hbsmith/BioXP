@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R09508",
+    "name": "hydrogen:NAD+, ferredoxin oxidoreductase",
+    "definition": "2 Hydrogen + NAD+ + 2 Oxidized ferredoxin <=> 5 H+ + NADH + 2 Reduced ferredoxin",
+    "equation": "2 C00282 + C00003 + 2 C00139 <=> 5 C00080 + C00004 + 2 C00138",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.12.1.4"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

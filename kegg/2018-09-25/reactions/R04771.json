@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04771",
+    "name": "ATP:L-selenomethione S-adenosyltransferase",
+    "definition": "ATP + L-Selenomethionine + H2O <=> Orthophosphate + Diphosphate + Se-Adenosylselenomethionine",
+    "equation": "C00002 + C05335 + C00001 <=> C00009 + C00013 + C05691",
+    "comment": "possibly intermediate (triphosphate, see [CPD:C00536])",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.6"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00789": "S-adenosylmethionine synthetase [EC:2.5.1.6]"
+    }
+  }
+]

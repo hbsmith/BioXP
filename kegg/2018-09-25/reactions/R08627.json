@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08627",
+    "name": "acetyl-CoA:6-methylthio-2-oxohexanoate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)",
+    "definition": "2-Oxo-6-methylthiohexanoic acid + Acetyl-CoA + H2O <=> 2-(4'-Methylthio)butylmalic acid + CoA",
+    "equation": "C17216 + C00024 + C00001 <=> C17218 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.3.17"
+    ],
+    "pathways": {
+      "rn00966": "Glucosinolate biosynthesis",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+      "K15742": "methylthioalkylmalate synthase 3 [EC:2.3.3.17]"
+    }
+  }
+]

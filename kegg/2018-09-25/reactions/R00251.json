@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00251",
+    "name": "5-oxo-L-proline amidohydrolase (ATP-hydrolysing)",
+    "definition": "ATP + Pidolic acid + 2 H2O <=> ADP + Orthophosphate + L-Glutamate",
+    "equation": "C00002 + C01879 + 2 C00001 <=> C00008 + C00009 + C00025",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.2.9"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism"
+    },
+    "orthologs": {
+      "K01469": "5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]"
+    }
+  }
+]

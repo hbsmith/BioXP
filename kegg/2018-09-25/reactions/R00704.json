@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00704",
+    "name": "(R)-Lactate:NAD+ oxidoreductase",
+    "definition": "(R)-Lactate + NAD+ <=> Pyruvate + NADH + H+",
+    "equation": "C00256 + C00003 <=> C00022 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.28"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K03777": "D-lactate dehydrogenase (quinone) [EC:1.1.5.12]",
+      "K03778": "D-lactate dehydrogenase [EC:1.1.1.28]"
+    }
+  }
+]

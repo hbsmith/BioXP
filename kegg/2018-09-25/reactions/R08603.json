@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08603",
+    "name": "3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing)",
+    "definition": "3D-3,5/4-Trihydroxycyclohexane-1,2-dione + H2O <=> 5-Deoxy-D-glucuronate",
+    "equation": "C04287 + C00001 <=> C16737",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.7.1.22"
+    ],
+    "pathways": {
+      "rn00562": "Inositol phosphate metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K03336": "3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing) [EC:3.7.1.22]"
+    }
+  }
+]

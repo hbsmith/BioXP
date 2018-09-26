@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11029",
+    "name": "",
+    "definition": "2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate <=> DNA 5-hydroxymethylcytosine",
+    "equation": "C11039 <=> C21031",
+    "comment": "incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.7"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+      "K18942": "DNA polymerase [EC:2.7.7.7]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09903",
+    "name": "ent-copalyl-diphosphate diphosphate-lyase (cyclizing, ent-isokaurene-forming)",
+    "definition": "ent-Copalyl diphosphate <=> ent-Isokaurene + Diphosphate",
+    "equation": "C06089 <=> C20145 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.103"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K16082": "ent-isokaurene synthase [EC:4.2.3.103]"
+    }
+  }
+]

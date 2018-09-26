@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08094",
+    "name": "3-hydroxy-5-methylhex-4-enoyl-CoA:NAD+ oxidoreductase",
+    "definition": "3-Hydroxy-5-methylhex-4-enoyl-CoA + NAD+ <=> 5-Methyl-3-oxo-4-hexenoyl-CoA + NADH + H+",
+    "equation": "C16469 + C00003 <=> C16471 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.35"
+    ],
+    "pathways": {
+      "rn00281": "Geraniol degradation"
+    },
+    "orthologs": {
+      "K00022": "3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]",
+      "K01782": "3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3]",
+      "K01825": "3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase [EC:1.1.1.35 4.2.1.17 5.1.2.3 5.3.3.8]"
+    }
+  }
+]

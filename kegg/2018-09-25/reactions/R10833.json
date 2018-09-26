@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10833",
+    "name": "dTDP-beta-L-vancomycin:desvancosaminyl-vancomycin beta-L-vancosaminetransferase",
+    "definition": "dTDP-L-vancosamine + Desvancosaminyl-vancomycin <=> dTDP + Vancomycin",
+    "equation": "C12322 + C20720 <=> C00363 + C06689",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.322"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K16443": "desvancosaminyl-vancomycin vancosaminetransferase [EC:2.4.1.322]"
+    }
+  }
+]

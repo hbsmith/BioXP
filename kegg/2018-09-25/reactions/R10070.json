@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10070",
+    "name": "zeaxanthin,NADH:oxygen oxidoreductase",
+    "definition": "Zeaxanthin + 4 Reduced ferredoxin + 4 H+ + 2 Oxygen <=> Violaxanthin + 4 Oxidized ferredoxin + 2 H2O",
+    "equation": "C06098 + 4 C00138 + 4 C00080 + 2 C00007 <=> C08614 + 4 C00139 + 2 C00001",
+    "comment": "two-step reaction (see R06946+R06947)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.21"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K09838": "zeaxanthin epoxidase [EC:1.14.15.21]"
+    }
+  }
+]

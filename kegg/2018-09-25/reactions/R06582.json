@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R06582",
+    "name": "trans-5-O-(4-coumaroyl)-D-shikimate,NADPH:oxygen oxidoreductase (3'-hydorxylating)",
+    "definition": "4-Coumaroylshikimate + Oxygen + NADPH + H+ <=> 5-O-Caffeoylshikimic acid + NADP+ + H2O",
+    "equation": "C02947 + C00007 + C00005 + C00080 <=> C10434 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.36"
+    ],
+    "pathways": {
+      "rn00940": "Phenylpropanoid biosynthesis",
+      "rn00941": "Flavonoid biosynthesis",
+      "rn00945": "Stilbenoid, diarylheptanoid and gingerol biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K09754": "coumaroylquinate(coumaroylshikimate) 3'-monooxygenase [EC:1.14.13.36]"
+    }
+  }
+]

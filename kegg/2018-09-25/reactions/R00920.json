@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00920",
+    "name": "propanoate:CoA ligase (ADP-forming)",
+    "definition": "ATP + Propanoate + CoA <=> ADP + Orthophosphate + Propanoyl-CoA",
+    "equation": "C00002 + C00163 + C00010 <=> C00008 + C00009 + C00100",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.13"
+    ],
+    "pathways": {
+      "rn00640": "Propanoate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01905": "acetate---CoA ligase (ADP-forming) subunit alpha [EC:6.2.1.13]",
+      "K22224": "acetate---CoA ligase (ADP-forming) subunit beta [EC:6.2.1.13]"
+    }
+  }
+]

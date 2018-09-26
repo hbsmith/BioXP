@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10719",
+    "name": "2,3-dihydroxypropane-1-sulfonate:NAD+ 3-oxidoreductase",
+    "definition": "2,3-Dihydroxypropane-1-sulfonate + NAD+ <=> 2-Hydroxy-3-oxopropane-1-sulfonate + NADH + H+",
+    "equation": "C20797 + C00003 <=> C20798 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.373"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K08318": "4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase [EC:1.1.1.61 1.1.1.373]"
+    }
+  }
+]

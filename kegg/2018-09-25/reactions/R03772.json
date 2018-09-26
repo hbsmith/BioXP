@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03772",
+    "name": "L-rhamno-1,4-lactone lactonohydrolase",
+    "definition": "L-Rhamnono-1,4-lactone + H2O <=> L-Rhamnonate",
+    "equation": "C02991 + C00001 <=> C01934",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.65"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K18338": "L-rhamnono-1,4-lactonase [EC:3.1.1.65]"
+    }
+  }
+]

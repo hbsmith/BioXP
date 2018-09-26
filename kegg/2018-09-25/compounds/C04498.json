@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C04498",
+    "name": "p-Coumaroylagmatine",
+    "names": [
+      "p-Coumaroylagmatine",
+      "N-(4-Guanidinobutyl)-4-hydroxycinnamide",
+      "N-(4-Guanidinobutyl)-4-hydroxycinnamamide"
+    ],
+    "formula": "C14H20N4O2",
+    "exact_mass": 276.1586,
+    "mol_weight": 276.3342,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01617"
+    ],
+    "pathways": {
+      "map00330": "Arginine and proline metabolism"
+    },
+    "enzymes": [
+      "2.3.1.64"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7113"
+      ],
+      "ChEBI": [
+        "32818"
+      ],
+      "ChEMBL": [
+        "CHEMBL568603"
+      ],
+      "KNApSAcK": [
+        "C00028060"
+      ],
+      "3DMET": [
+        "B00725"
+      ],
+      "NIKKAJI": [
+        "J817.815A"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C1b C    30.5356  -24.9611\n            2   C1b C    31.7353  -24.2554\n            3   C1b C    32.9349  -24.9611\n            4   C1b C    34.1346  -24.2554\n            5   N1b N    35.3343  -24.9611\n            6   C2c C    36.5340  -24.2554\n            7   N2a N    36.5340  -22.8441\n            8   N1a N    37.7337  -24.9611\n            9   N1b N    29.3076  -24.2654\n            10  C5a C    28.1165  -24.9662\n            11  C2b C    26.9013  -24.2776\n            12  C2b C    25.7206  -24.9721\n            13  O5a O    28.1280  -26.3725\n            14  C8y C    24.5004  -24.2805\n            15  C8x C    24.4893  -22.8900\n            16  C8x C    23.2713  -22.1997\n            17  C8y C    22.0645  -22.9094\n            18  C8x C    22.0756  -24.2999\n            19  C8x C    23.2936  -24.9902\n            20  O1a O    20.8272  -22.2083\nBOND        20\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 2\n            7     6   8 1\n            8     1   9 1\n            9     9  10 1\n            10   10  11 1\n            11   11  12 2\n            12   10  13 2\n            13   12  14 1\n            14   14  15 2\n            15   15  16 1\n            16   16  17 2\n            17   17  18 1\n            18   18  19 2\n            19   14  19 1\n            20   17  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R05599",
+    "name": "",
+    "definition": "E-Phenylitaconyl-CoA + H2O <=> (Hydroxymethylphenyl)succinyl-CoA",
+    "equation": "C09818 + C00001 <=> C09819",
+    "comment": "BbsH",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.-"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K07546": "E-phenylitaconyl-CoA hydratase [EC:4.2.1.-]"
+    }
+  }
+]

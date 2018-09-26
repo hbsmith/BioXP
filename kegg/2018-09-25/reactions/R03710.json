@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03710",
+    "name": "UDPglucose:trans-2-hydroxycinnamate O-beta-D-glucosyltransferase",
+    "definition": "UDP-glucose + trans-2-Hydroxycinnamate <=> UDP + trans-beta-D-Glucosyl-2-hydroxycinnamate",
+    "equation": "C00029 + C01772 <=> C00015 + C05158",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.114"
+    ],
+    "pathways": {
+      "rn00940": "Phenylpropanoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

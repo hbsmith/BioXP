@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03645",
+    "name": "Vitamin K:oxidized-dithiothreitol oxidoreductase",
+    "definition": "Vitamin K + Oxidized dithiothreitol + H2O <=> Vitamin K epoxide + Dithiothreitol",
+    "equation": "C01628 + C01119 + C00001 <=> C16711 + C00265",
+    "comment": "general reaction (see R03511 R09992)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.17.4.4"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K05357": "vitamin-K-epoxide reductase (warfarin-sensitive) [EC:1.17.4.4]"
+    }
+  }
+]

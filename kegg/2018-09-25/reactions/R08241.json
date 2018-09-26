@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08241",
+    "name": "",
+    "definition": "6-Thioinosine-5'-monophosphate + ATP <=> 6-Mercaptopurine ribonucleoside 5'-diphosphate + ADP",
+    "equation": "C04646 + C00002 <=> C16616 + C00008",
+    "comment": "monophosphate kinase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.-"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+    }
+  }
+]

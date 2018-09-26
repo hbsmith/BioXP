@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C04368",
+    "name": "3-Amino-3-(4-hydroxyphenyl)propanoate",
+    "names": [
+      "3-Amino-3-(4-hydroxyphenyl)propanoate",
+      "beta-Tyrosine"
+    ],
+    "formula": "C9H11NO3",
+    "exact_mass": 181.0739,
+    "mol_weight": 181.1885,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00739"
+    ],
+    "pathways": {
+      "map00350": "Tyrosine metabolism"
+    },
+    "enzymes": [
+      "5.4.3.6"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7012"
+      ],
+      "ChEBI": [
+        "16939"
+      ],
+      "3DMET": [
+        "B04938"
+      ],
+      "NIKKAJI": [
+        "J2.370.463C"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    18.2700  -37.1700\n            2   C8y C    18.2700  -38.5700\n            3   C8x C    19.4824  -39.2700\n            4   C8x C    20.6949  -38.5700\n            5   C8y C    20.6949  -37.1700\n            6   C8x C    19.4824  -36.4700\n            7   O1a O    17.0576  -39.2700\n            8   C1c C    21.9260  -36.4590\n            9   C1b C    23.1312  -37.1547\n            10  C6a C    24.3135  -36.4719\n            11  N1a N    21.9257  -35.0701\n            12  O6a O    25.5075  -37.1612\n            13  O6a O    24.3135  -35.0702\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     2   7 1\n            8     5   8 1\n            9     8   9 1\n            10    9  10 1\n            11    8  11 1\n            12   10  12 1\n            13   10  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

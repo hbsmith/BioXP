@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C15250",
+    "name": "3-(3,4-Dichlorophenyl)-1-hydroxy-1-methylurea",
+    "names": [
+      "3-(3,4-Dichlorophenyl)-1-hydroxy-1-methylurea",
+      "Hydroxylinuron"
+    ],
+    "formula": "C8H8Cl2N2O2",
+    "exact_mass": 233.9963,
+    "mol_weight": 235.0673,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17396247"
+      ],
+      "ChEBI": [
+        "79752"
+      ],
+      "NIKKAJI": [
+        "J2.791.429B"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    13.1006  -27.1804\n            2   C8y C    13.1006  -28.5828\n            3   C8y C    14.3188  -29.2876\n            4   C8x C    15.5302  -28.5828\n            5   C8y C    15.5302  -27.1804\n            6   C8x C    14.3188  -26.4827\n            7   N1b N    16.7369  -26.4827\n            8   C5a C    17.9489  -27.1735\n            9   N1c N    19.1611  -26.4758\n            10  O1b O    20.3662  -27.1663\n            11  O5a O    17.9420  -28.5757\n            12  C1a C    19.1540  -25.0733\n            13  X   Cl   11.8884  -29.2805\n            14  X   Cl   14.3756  -30.6899\nBOND        14\n            1     1   2 2\n            2     7   8 1\n            3     2   3 1\n            4     8   9 1\n            5     3   4 2\n            6     9  10 1\n            7     4   5 1\n            8     8  11 2\n            9     5   6 2\n            10    9  12 1\n            11    6   1 1\n            12    2  13 1\n            13    3  14 1\n            14    5   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

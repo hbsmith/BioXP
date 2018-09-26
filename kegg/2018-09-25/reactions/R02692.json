@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02692",
+    "name": "1,2-Diacyl-sn-glycerol:sterol O-acyltransferase",
+    "definition": "1,2-Diacyl-sn-glycerol + Cholesterol <=> 1-Acylglycerol + Cholesterol ester",
+    "equation": "C00641 + C00187 <=> C01885 + C02530",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.73"
+    ],
+    "pathways": {
+      "rn00100": "Steroid biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

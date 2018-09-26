@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10692",
+    "name": "",
+    "definition": "20,21-Diprenylterpendole J + 3 Oxygen + 3 NADPH + 3 H+ <=> Lolitrem E + 3 NADP+ + 4 H2O",
+    "equation": "C20594 + 3 C00007 + 3 C00005 + 3 C00080 <=> C20550 + 3 C00006 + 4 C00001",
+    "comment": "cytochrome P450 monooxygenase, LtmJ",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00403": "Indole diterpene alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K18395": "cytochrome P450 monooxygenase [EC:1.14.13.-]"
+    }
+  }
+]

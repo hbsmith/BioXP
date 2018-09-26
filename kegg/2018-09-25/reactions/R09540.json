@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R09540",
+    "name": "",
+    "definition": "2 Ascorbate + Hydrogen peroxide <=> 2 Monodehydroascorbate + 2 H2O",
+    "equation": "2 C00072 + C00027 <=> 2 C01041 + 2 C00001",
+    "comment": "first step of two-step reaction (R00644, R09540+R03186)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.11.1.11"
+    ],
+    "pathways": {
+      "rn00053": "Ascorbate and aldarate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

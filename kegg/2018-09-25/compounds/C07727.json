@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C07727",
+    "name": "2-Indanone",
+    "names": [
+      "2-Indanone",
+      "2H-Inden-2-one, 1,3-dihydro-"
+    ],
+    "formula": "C9H8O",
+    "exact_mass": 132.0575,
+    "mol_weight": 132.1592,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05437",
+      "R05438",
+      "R05545"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.12.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "615-13-4"
+      ],
+      "PubChem": [
+        "9929"
+      ],
+      "ChEBI": [
+        "27930"
+      ],
+      "ChEMBL": [
+        "CHEMBL195557"
+      ],
+      "3DMET": [
+        "B01099"
+      ],
+      "NIKKAJI": [
+        "J7.027K"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    11.9000  -19.5300\n            2   C8x C    11.9000  -20.9300\n            3   C8x C    13.1124  -21.6300\n            4   C8y C    14.3249  -20.9300\n            5   C8y C    14.3249  -19.5300\n            6   C8x C    13.1124  -18.8300\n            7   C1x C    15.6564  -21.3626\n            8   C5x C    16.4793  -20.2300\n            9   C1x C    15.6564  -19.0974\n            10  O5x O    17.8500  -20.2300\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    5   9 1\n            11    8  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

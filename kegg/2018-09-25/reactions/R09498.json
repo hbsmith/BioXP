@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R09498",
+    "name": "dimethylsulfone reductase",
+    "definition": "Dimethyl sulfoxide + H2O + NAD+ <=> Dimethyl sulfone + NADH + H+",
+    "equation": "C11143 + C00001 + C00003 <=> C11142 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.1.17"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

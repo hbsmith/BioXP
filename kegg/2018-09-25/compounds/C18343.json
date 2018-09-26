@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C18343",
+    "name": "4-n-Butylresorcinol",
+    "names": [
+      "4-n-Butylresorcinol",
+      "Rucinol (TN)"
+    ],
+    "formula": "C10H14O2",
+    "exact_mass": 166.0994,
+    "mol_weight": 166.217,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "18979-61-8"
+      ],
+      "PubChem": [
+        "124489017"
+      ],
+      "ChEBI": [
+        "81689"
+      ],
+      "ChEMBL": [
+        "CHEMBL450195"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    28.2100  -15.8200\n            2   C8x C    28.2100  -17.2200\n            3   C8y C    29.4224  -17.9200\n            4   C8y C    30.6349  -17.2200\n            5   C8x C    30.6349  -15.8200\n            6   C8y C    29.4224  -15.1200\n            7   O1a O    29.4224  -13.7202\n            8   O1a O    31.8660  -17.9310\n            9   C1b C    29.4224  -19.3198\n            10  C1b C    28.1932  -20.0296\n            11  C1b C    26.9893  -19.3346\n            12  C1a C    25.8062  -20.0177\nBOND        12\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 2\n            7     6   7 1\n            8     4   8 1\n            9     3   9 1\n            10    9  10 1\n            11   10  11 1\n            12   11  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

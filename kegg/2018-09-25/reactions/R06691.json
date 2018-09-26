@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06691",
+    "name": "13-deoxycarminomycin,NADPH:oxygen oxidoreductase (13-hydroxylating)",
+    "definition": "13-Deoxycarminomycin + NADPH + H+ + Oxygen <=> 13-Dihydrocarminomycin + NADP+ + H2O",
+    "equation": "C12428 + C00005 + C00080 + C00007 <=> C12431 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.181"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15955": "13-deoxydaunorubicin hydroxylase [EC:1.14.13.181]"
+    }
+  }
+]

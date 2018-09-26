@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03909",
+    "name": "Monocarboxylic acid amide amidohydrolase",
+    "definition": "Monocarboxylic acid amide + H2O <=> Carboxylate + Ammonia",
+    "equation": "C03620 + C00001 <=> C00060 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.4"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K01426": "amidase [EC:3.5.1.4]"
+    }
+  }
+]

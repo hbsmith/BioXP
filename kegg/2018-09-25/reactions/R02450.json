@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R02450",
+    "name": "phenylglyoxylate:NAD+ oxidoreductase (CoA benzoylating)",
+    "definition": "alpha-Oxo-benzeneacetic acid + CoA + NAD+ <=> Benzoyl-CoA + CO2 + NADH + H+",
+    "equation": "C02137 + C00010 + C00003 <=> C00512 + C00011 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.58"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism"
+    },
+    "orthologs": {
+      "K18355": "phenylglyoxylate dehydrogenase alpha subunit [EC:1.2.1.58]",
+      "K18356": "phenylglyoxylate dehydrogenase beta subunit [EC:1.2.1.58]",
+      "K18357": "phenylglyoxylate dehydrogenase gamma subunit [EC:1.2.1.58]",
+      "K18358": "phenylglyoxylate dehydrogenase delta subunit [EC:1.2.1.58]",
+      "K18359": "phenylglyoxylate dehydrogenase epsilon subunit [EC:1.2.1.58]"
+    }
+  }
+]

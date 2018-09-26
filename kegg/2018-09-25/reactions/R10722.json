@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10722",
+    "name": "2-amino-1-hydroxyethylphosphonate:oxygen 1-oxidoreductase (glycine-forming)",
+    "definition": "(2-Amino-1-hydroxyethyl)phosphonate + Oxygen <=> Glycine + Orthophosphate",
+    "equation": "C05678 + C00007 <=> C00037 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.78"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism"
+    },
+    "orthologs": {
+      "K21196": "2-amino-1-hydroxyethylphosphonate dioxygenase (glycine-forming) [EC:1.13.11.78]"
+    }
+  }
+]

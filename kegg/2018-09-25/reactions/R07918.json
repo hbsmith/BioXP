@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07918",
+    "name": "7-methylxanthosine ribohydrolase",
+    "definition": "7-Methylxanthosine + H2O <=> 7-Methylxanthine + D-Ribose",
+    "equation": "C16352 + C00001 <=> C16353 + C00121",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.2.25"
+    ],
+    "pathways": {
+      "rn00232": "Caffeine metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

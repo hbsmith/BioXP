@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C07494",
+    "name": "Soman",
+    "names": [
+      "Soman"
+    ],
+    "formula": "C7H16FO2P",
+    "exact_mass": 182.0872,
+    "mol_weight": 182.1729,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "96-64-0"
+      ],
+      "PubChem": [
+        "9697"
+      ],
+      "ChEBI": [
+        "9195"
+      ],
+      "ChEMBL": [
+        "CHEMBL15910"
+      ],
+      "NIKKAJI": [
+        "J4.722H"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1d C    25.8138  -17.4536\n            2   C1c C    24.6581  -16.7941\n            3   C1a C    26.8005  -18.2185\n            4   C1a C    26.5902  -16.4555\n            5   C1a C    24.9790  -18.5395\n            6   O2b O    23.4263  -17.5354\n            7   C1a C    24.6581  -15.4514\n            8   P1a P    22.0719  -16.6598\n            9   C1a C    20.9160  -15.9943\n            10  O3b O    22.8833  -15.3055\n            11  X   F    21.3246  -17.9383\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1\n            5     2   6 1\n            6     2   7 1\n            7     6   8 1\n            8     8   9 1\n            9     8  10 2\n            10    8  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

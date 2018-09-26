@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10691",
+    "name": "",
+    "definition": "2,4-Diketo-3-deoxy-L-fuconate + H2O <=> (S)-Lactate + Pyruvate",
+    "equation": "C20781 + C00001 <=> C00186 + C00022",
+    "comment": "2,4-diketo-3-deoxy-L-fuconate hydrolase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.7.1.-"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K18336": "2,4-diketo-3-deoxy-L-fuconate hydrolase [EC:3.7.1.-]"
+    }
+  }
+]

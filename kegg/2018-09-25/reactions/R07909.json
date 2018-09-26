@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07909",
+    "name": "",
+    "definition": "Cyanidin 5-O-glucoside <=> Cyanin",
+    "equation": "C16298 <=> C08639",
+    "comment": "3-glucosyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn00942": "Anthocyanin biosynthesis"
+    },
+    "orthologs": {
+      "K12938": "anthocyanidin 5,3-O-glucosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

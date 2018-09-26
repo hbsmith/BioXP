@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07672",
+    "name": "",
+    "definition": "GDP-mannose <=> GDP-L-gulose",
+    "equation": "C00096 <=> C15925",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.3.18"
+    ],
+    "pathways": {
+      "rn00053": "Ascorbate and aldarate metabolism",
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K10046": "GDP-D-mannose 3', 5'-epimerase [EC:5.1.3.18 5.1.3.-]"
+    }
+  }
+]

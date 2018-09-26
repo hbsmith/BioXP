@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08318",
+    "name": "",
+    "definition": "2-Hydroxycarbamazepine <=> 2-Hydroxyiminostilbene",
+    "equation": "C16601 <=> C16604",
+    "comment": "CYP3A4 incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00982": "Drug metabolism - cytochrome P450"
+    },
+    "orthologs": {
+      "K17689": "cytochrome P450 family 3 subfamily A polypeptide 4 [EC:1.14.13.32 1.14.13.67 1.14.13.97 1.14.13.157 1.14.13.-]"
+    }
+  }
+]

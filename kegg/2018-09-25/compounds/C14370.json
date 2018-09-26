@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C14370",
+    "name": "2-Hydroxy-3,5-dichlorobiphenyl",
+    "names": [
+      "2-Hydroxy-3,5-dichlorobiphenyl",
+      "3,5-Dichloro-2-hydroxybiphenyl",
+      "2,4-Dichloro-6-phenylphenol"
+    ],
+    "formula": "C12H8Cl2O",
+    "exact_mass": 237.9952,
+    "mol_weight": 239.0973,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "5335-24-0"
+      ],
+      "PubChem": [
+        "17395370"
+      ],
+      "ChEBI": [
+        "34279"
+      ],
+      "ChEMBL": [
+        "CHEMBL79701"
+      ],
+      "NIKKAJI": [
+        "J146.420E"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8x C    25.1945  -17.9920\n            2   C8x C    25.1945  -19.3913\n            3   C8x C    26.4062  -20.0908\n            4   C8x C    27.6181  -19.3913\n            5   C8y C    27.6181  -17.9920\n            6   C8x C    26.4062  -17.2925\n            7   C8y C    28.8484  -17.2814\n            8   C8x C    30.0530  -17.9767\n            9   C8y C    31.2646  -17.2770\n            10  C8x C    31.2646  -15.8778\n            11  C8y C    30.0601  -15.1825\n            12  C8y C    28.8483  -15.8822\n            13  O1a O    27.6295  -15.1785\n            14  X   Cl   32.4955  -17.9874\n            15  X   Cl   30.0599  -13.8057\nBOND        16\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11   10  11 1\n            12   11  12 2\n            13    7  12 1\n            14   12  13 1\n            15    9  14 1\n            16   11  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

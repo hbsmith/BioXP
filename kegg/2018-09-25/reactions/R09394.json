@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09394",
+    "name": "GTP 3',8-cyclase [(8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate-forming]",
+    "definition": "GTP + S-Adenosyl-L-methionine + Reduced acceptor <=> (8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate + 5'-Deoxyadenosine + L-Methionine + Acceptor",
+    "equation": "C00044 + C00019 + C00030 <=> C21310 + C05198 + C00073 + C00028",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.99.22"
+    ],
+    "pathways": {
+      "rn00790": "Folate biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03639": "GTP 3',8-cyclase [EC:4.1.99.22]",
+      "K20967": "GTP 3',8-cyclase / cyclic pyranopterin monophosphate synthase [EC:4.1.99.22 4.6.1.17]"
+    }
+  }
+]

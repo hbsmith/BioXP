@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05572",
+    "name": "",
+    "definition": "Deisopropylatrazine + H2O <=> Deisopropylhydroxyatrazine + Hydrochloric acid",
+    "equation": "C06556 + C00001 <=> C06557 + C01327",
+    "comment": "TrzA",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.8.1.-"
+    ],
+    "pathways": {
+      "rn00791": "Atrazine degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

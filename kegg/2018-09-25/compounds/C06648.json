@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C06648",
+    "name": "4-Chlorobenzaldehyde",
+    "names": [
+      "4-Chlorobenzaldehyde"
+    ],
+    "formula": "C7H5ClO",
+    "exact_mass": 140.0029,
+    "mol_weight": 140.567,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05252",
+      "R05344"
+    ],
+    "pathways": {
+      "map00351": "DDT degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.2.-.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "104-88-1"
+      ],
+      "PubChem": [
+        "8874"
+      ],
+      "ChEBI": [
+        "28105"
+      ],
+      "ChEMBL": [
+        "CHEMBL1474"
+      ],
+      "3DMET": [
+        "B01017"
+      ],
+      "NIKKAJI": [
+        "J96.206F"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8y C    28.5988  -19.5610\n            2   C8x C    28.5988  -20.9668\n            3   C8x C    27.3864  -18.8639\n            4   C4a C    29.8112  -18.8639\n            5   C8x C    27.3864  -21.6637\n            6   C8x C    26.1738  -19.5610\n            7   C8y C    26.1738  -20.9668\n            8   X   Cl   24.9614  -21.6637\n            9   O4a O    31.0141  -19.5609\nBOND        9\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     3   6 1\n            6     5   7 1\n            7     7   8 1\n            8     6   7 2\n            9     4   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

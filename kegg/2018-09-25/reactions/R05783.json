@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05783",
+    "name": "mandelamide hydrolase",
+    "definition": "(R)-Mandelamide + H2O <=> (R)-Mandelate + Ammonia",
+    "equation": "C07301 + C00001 <=> C01983 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.86"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K18541": "mandelamide amidase [EC:3.5.1.86]"
+    }
+  }
+]

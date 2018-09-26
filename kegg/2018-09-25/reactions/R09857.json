@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09857",
+    "name": "UDP-glucose:N-demethylansamitocin-P-3 beta-D-glucosyltransferase",
+    "definition": "UDP-glucose + N-Demethylansamitocin P-3 <=> UDP + Ansamitocinoside P-3",
+    "equation": "C00029 + C20138 <=> C00015 + C20139",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn01051": "Biosynthesis of ansamycins",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16039": "N-glycosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

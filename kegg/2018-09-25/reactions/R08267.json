@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08267",
+    "name": "",
+    "definition": "Tamoxifen + NADPH + Oxygen + H+ <=> Hydroxytamoxifen + NADP+ + H2O",
+    "equation": "C07108 + C00005 + C00007 + C00080 <=> C05011 + C00006 + C00001",
+    "comment": "CYP2D6, CYP2C9",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.1",
+      "1.14.14.-"
+    ],
+    "pathways": {
+      "rn00982": "Drug metabolism - cytochrome P450"
+    },
+    "orthologs": {
+      "K17712": "cytochrome P450 family 2 subfamily D polypeptide 6 [EC:1.14.14.1]",
+      "K17719": "cytochrome P450 family 2 subfamily C polypeptide 9 [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.-]"
+    }
+  }
+]

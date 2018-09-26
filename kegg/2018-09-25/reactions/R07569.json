@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07569",
+    "name": "3'-hydroxyechinenone,NADH:oxygen 3-oxidoreductase",
+    "definition": "3'-Hydroxyechinenone + NADH + H+ + Oxygen <=> Adonixanthin + NAD+ + H2O",
+    "equation": "C15965 + C00004 + C00080 + C00007 <=> C15968 + C00003 + C00001",
+    "comment": "beta-carotene hydroxylase(crtZ)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.129"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis"
+    },
+    "orthologs": {
+      "K02294": "beta-carotene hydroxylase [EC:1.14.13.-]"
+    }
+  }
+]

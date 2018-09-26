@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C03273",
+    "name": "5-Oxopentanoate",
+    "names": [
+      "5-Oxopentanoate",
+      "Glutarate semialdehyde"
+    ],
+    "formula": "C5H8O3",
+    "exact_mass": 116.0473,
+    "mol_weight": 116.1152,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02274",
+      "R02401",
+      "R10981",
+      "R10982"
+    ],
+    "pathways": {
+      "map00310": "Lysine degradation"
+    },
+    "enzymes": [
+      "1.1.1.-",
+      "1.2.1.20",
+      "1.2.1.-",
+      "2.6.1.48"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6134"
+      ],
+      "ChEBI": [
+        "16120",
+        "39153"
+      ],
+      "LIPIDMAPS": [
+        "LMFA01060161"
+      ],
+      "3DMET": [
+        "B00572"
+      ],
+      "NIKKAJI": [
+        "J135.882K"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1b C    26.7949  -18.4838\n            2   C1b C    28.0078  -19.1871\n            3   C6a C    25.5756  -19.1871\n            4   C1b C    29.2205  -18.4838\n            5   O6a O    25.5756  -20.5935\n            6   O6a O    24.3627  -18.4838\n            7   C4a C    30.4399  -19.1871\n            8   O4a O    31.6627  -18.4804\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 2\n            5     3   6 1\n            6     4   7 1\n            7     7   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

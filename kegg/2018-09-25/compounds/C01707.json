@@ -1,0 +1,34 @@
+[
+  {
+    "entry_id": "C01707",
+    "name": "Hemiacetal",
+    "names": [
+      "Hemiacetal"
+    ],
+    "formula": "CH2O2R2",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4845"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   R   R    17.9200  -20.3000\n            2   C1c C    19.1324  -21.0000\n            3   O2a O    20.3449  -20.3000\n            4   R   R    21.5573  -21.0000\n            5   O1a O    19.1324  -22.3998\nBOND        4\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     2   5 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

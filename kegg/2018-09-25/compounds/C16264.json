@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C16264",
+    "name": "2-Hydroxy-6-oxo-6-(2-carboxyphenyl)-hexa-2,4-dienoate",
+    "names": [
+      "2-Hydroxy-6-oxo-6-(2-carboxyphenyl)-hexa-2,4-dienoate"
+    ],
+    "formula": "C13H10O6",
+    "exact_mass": 262.0477,
+    "mol_weight": 262.2149,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07801",
+      "R07802"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.13.-.-",
+      "3.7.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205572"
+      ],
+      "ChEBI": [
+        "80407"
+      ],
+      "NIKKAJI": [
+        "J2.799.285D"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   C8x C    24.4240  -23.0248\n            2   C8x C    25.8233  -23.0248\n            3   C8y C    26.5230  -21.8130\n            4   C8y C    25.8233  -20.6010\n            5   C8x C    24.4240  -20.6010\n            6   C8x C    23.7243  -21.8130\n            7   C5a C    27.9221  -21.8130\n            8   O5a O    28.6317  -23.0416\n            9   C2b C    30.7306  -21.8294\n            10  C2b C    30.0210  -20.6008\n            11  C2b C    28.6217  -20.6010\n            12  C6a C    26.5340  -19.3705\n            13  O6a O    27.9222  -19.3708\n            14  O6a O    25.8387  -18.1659\n            15  C2c C    32.1300  -21.8293\n            16  O1a O    32.8347  -23.0497\n            17  C6a C    32.8253  -20.6249\n            18  O6a O    34.2298  -20.6247\n            19  O6a O    32.1371  -19.4335\nBOND        19\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     3   7 1\n            8     7   8 2\n            9     9  10 1\n            10   10  11 2\n            11    7  11 1\n            12    4  12 1\n            13   12  13 2\n            14   12  14 1\n            15    9  15 2\n            16   15  16 1\n            17   15  17 1\n            18   17  18 2\n            19   17  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

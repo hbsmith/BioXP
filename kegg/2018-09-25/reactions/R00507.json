@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00507",
+    "name": "3'-phosphoadenylyl-sulfate sulfohydrolase; 3'-phosphoadenylyl-sulfate nucleotidohydrolase",
+    "definition": "3'-Phosphoadenylyl sulfate + H2O <=> Sulfate + Adenosine 3',5'-bisphosphate",
+    "equation": "C00053 + C00001 <=> C00059 + C00054",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.2.2"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism",
+      "rn00920": "Sulfur metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

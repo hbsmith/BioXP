@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00761",
+    "name": "D-fructose-6-phosphate D-erythrose-4-phosphate-lyase (adding phosphate; acetyl-phosphate-forming)",
+    "definition": "D-Fructose 6-phosphate + Orthophosphate <=> Acetyl phosphate + D-Erythrose 4-phosphate + H2O",
+    "equation": "C00085 + C00009 <=> C00227 + C00279 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.2.22"
+    ],
+    "pathways": {
+      "rn00710": "Carbon fixation in photosynthetic organisms",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01621": "xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22]"
+    }
+  }
+]

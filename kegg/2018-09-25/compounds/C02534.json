@@ -1,0 +1,34 @@
+[
+  {
+    "entry_id": "C02534",
+    "name": "Dialkyl phosphate",
+    "names": [
+      "Dialkyl phosphate"
+    ],
+    "formula": "HPO4R2",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R03979"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.8.1"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5541"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   P1b P    25.0600  -18.6200\n            2   O2b O    26.4620  -18.6200\n            3   O2b O    23.6580  -18.6200\n            4   O1c O    25.0600  -20.0220\n            5   O1c O    25.0600  -17.2180\n            6   R   R    27.8580  -18.6200\n            7   R   R    22.2620  -18.6200\nBOND        6\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     2   6 1\n            6     3   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

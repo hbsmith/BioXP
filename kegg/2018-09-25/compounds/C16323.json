@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C16323",
+    "name": "3,6-Nonadienal",
+    "names": [
+      "3,6-Nonadienal"
+    ],
+    "formula": "C9H14O",
+    "exact_mass": 138.1045,
+    "mol_weight": 138.2069,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07868"
+    ],
+    "pathways": {
+      "map00592": "alpha-Linolenic acid metabolism",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205631"
+      ],
+      "ChEBI": [
+        "80444"
+      ],
+      "NIKKAJI": [
+        "J53.070K"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1a C    22.3639  -19.8530\n            2   C1b C    23.5762  -20.5501\n            3   C2b C    24.7948  -19.8466\n            4   C2b C    26.1892  -19.8466\n            5   C1b C    27.3952  -20.5501\n            6   C2b C    28.6075  -19.8466\n            7   C2b C    30.0020  -19.8466\n            8   C1b C    31.2142  -20.5501\n            9   C4a C    32.4267  -19.8592\n            10  O4a O    33.6432  -20.5709\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 1\n            6     6   7 2\n            7     7   8 1\n            8     8   9 1\n            9     9  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

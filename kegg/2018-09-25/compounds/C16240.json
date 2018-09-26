@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C16240",
+    "name": "Apoprotein",
+    "names": [
+      "Apoprotein",
+      "[Lipoyl-carrier protein]-L-lysine"
+    ],
+    "formula": "NH2R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R07766",
+      "R07769",
+      "R07771",
+      "R11143"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.3.1.181",
+      "6.3.1.20"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205548"
+      ],
+      "ChEBI": [
+        "13850"
+      ]
+    },
+    "kcf": "ATOM        2\n            1   N1a N    26.6332  -18.2329\n            2   R   R    28.0332  -18.2279\nBOND        1\n            1     1   2 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

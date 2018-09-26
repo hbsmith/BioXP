@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11396",
+    "name": "CTP:8-amino-3,8-dideoxy-D-manno-octulosonate cytidylyltransferase",
+    "definition": "CTP + 8-Amino-3,8-dideoxy-D-manno-octulosonate <=> Diphosphate + CMP-8-amino-3,8-dideoxy-beta-D-manno-octulosonate",
+    "equation": "C00063 + C21333 <=> C00013 + C21334",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.90"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00979": "3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]"
+    }
+  }
+]

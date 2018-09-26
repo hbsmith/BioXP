@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04136",
+    "name": "3-Hydroxybenzyl-alcohol:NADP+ oxidoreductase",
+    "definition": "3-Hydroxybenzyl alcohol + NADP+ <=> 3-Hydroxybenzaldehyde + NADPH + H+",
+    "equation": "C03351 + C00006 <=> C03067 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.97"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+    }
+  }
+]

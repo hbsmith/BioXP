@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R02810",
+    "name": "iodide:hydrogen-peroxide oxidoreductase",
+    "definition": "2 Iodide + Hydrogen peroxide + 2 H+ <=> Iodine + 2 H2O",
+    "equation": "2 C00708 + C00027 + 2 C00080 <=> C01382 + 2 C00001",
+    "comment": "thyroid peroxidase, TPO multi-step reaction on thyroglobulin [KO:K10809] (see R02810+R08520+R08521+R08522+R08523)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.11.1.8"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

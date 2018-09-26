@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19406",
+    "name": "Dimethyl hydrogen phosphite",
+    "names": [
+      "Dimethyl hydrogen phosphite"
+    ],
+    "formula": "C2H7O3P",
+    "exact_mass": 110.0133,
+    "mol_weight": 110.0489,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "868-85-9"
+      ],
+      "PubChem": [
+        "124490078"
+      ],
+      "ChEBI": [
+        "82454"
+      ],
+      "ChEMBL": [
+        "CHEMBL3183964"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C1a C    15.5400  -21.0000\n            2   O2b O    16.7524  -21.7000\n            3   P1b P    17.9649  -21.0000\n            4   O2b O    19.1773  -21.7000\n            5   C1a C    20.3897  -21.0000\n            6   O3b O    17.9649  -19.6000\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     3   6 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

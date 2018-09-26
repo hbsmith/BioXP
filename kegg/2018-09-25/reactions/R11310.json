@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11310",
+    "name": "beta-D-glucose 1,6-phosphomutase",
+    "definition": "beta-D-Glucose 1-phosphate <=> D-Glucose 6-phosphate",
+    "equation": "C00663 <=> C00092",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.2.6"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism"
+    },
+    "orthologs": {
+      "K01838": "beta-phosphoglucomutase [EC:5.4.2.6]"
+    }
+  }
+]

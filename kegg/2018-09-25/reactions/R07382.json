@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R07382",
+    "name": "",
+    "definition": "1-(1-Alkenyl)-sn-glycero-3-phosphate + Acyl-CoA <=> 2-Acyl-1-(1-alkenyl)-sn-glycero-3-phosphate + CoA",
+    "equation": "C15646 + C00040 <=> C15647 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.-"
+    ],
+    "pathways": {
+      "rn00565": "Ether lipid metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

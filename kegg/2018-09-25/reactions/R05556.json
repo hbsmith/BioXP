@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05556",
+    "name": "(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate cistransferase (adding 10-55 isopentenyl units)",
+    "definition": "trans,trans-Farnesyl diphosphate + n Isopentenyl diphosphate <=> Dehydrodolichol diphosphate + n Diphosphate",
+    "equation": "C00448 + n C00129 <=> C05859 + n C00013",
+    "comment": "multistep-reaction (n = 10-55)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.87"
+    ],
+    "pathways": {
+      "rn00900": "Terpenoid backbone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K11778": "ditrans,polycis-polyprenyl diphosphate synthase [EC:2.5.1.87]",
+      "K19177": "dehydrodolichyl diphosphate syntase complex subunit NUS1 [EC:2.5.1.87]"
+    }
+  }
+]

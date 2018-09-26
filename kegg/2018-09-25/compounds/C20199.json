@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C20199",
+    "name": "3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoate",
+    "names": [
+      "3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoate",
+      "9,17-Dioxo-1,2,3,4,10,19-hexanorandrostan-5-oic acid",
+      "DOHNAA",
+      "HIP"
+    ],
+    "formula": "C13H18O4",
+    "exact_mass": 238.1205,
+    "mol_weight": 238.2796,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09883",
+      "R10769"
+    ],
+    "pathways": {
+      "map00984": "Steroid degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "3.7.1.17",
+      "6.2.1.41"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "163311942"
+      ],
+      "ChEBI": [
+        "63741"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C1y C    19.4040  -15.7118\n            2   C1z C    19.3979  -14.3337\n            3   C1y C    18.2218  -16.4031\n            4   C1x C    18.2026  -13.6483\n            5   C1a C    19.3830  -12.9182\n            6   C5x C    17.0073  -15.7238\n            7   C1b C    18.2279  -17.7860\n            8   C1x C    17.0012  -14.3470\n            9   O5x O    15.8187  -16.4827\n            10  C1b C    17.0015  -18.5010\n            11  C1x C    20.7166  -16.1318\n            12  C1x C    21.5217  -15.0133\n            13  C5x C    20.7067  -13.9020\n            14  O5x O    21.1512  -12.5119\n            15  C6a C    17.0076  -19.8800\n            16  O6a O    18.2249  -20.5757\n            17  O6a O    15.8001  -20.5843\nBOND        18\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1 #Up\n            5     3   6 1\n            6     3   7 1\n            7     4   8 1\n            8     6   9 2\n            9     6   8 1\n            10    7  10 1\n            11    1  11 1\n            12   11  12 1\n            13   12  13 1\n            14    2  13 1\n            15   13  14 2\n            16   10  15 1\n            17   15  16 2\n            18   15  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

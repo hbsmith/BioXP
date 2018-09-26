@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02037",
+    "name": "S-Adenosyl-L-methionine:ethanolamine-phosphate N-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Ethanolamine phosphate <=> S-Adenosyl-L-homocysteine + N-Methylethanolamine phosphate",
+    "equation": "C00019 + C00346 <=> C00021 + C01210",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.103"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism"
+    },
+    "orthologs": {
+      "K05929": "phosphoethanolamine N-methyltransferase [EC:2.1.1.103]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10778",
+    "name": "2-methyl-3-oxo-3-ureidopropanoate amidohydrolase (urea- and methylmalonate-forming)",
+    "definition": "3-Oxo-3-ureidoisobutyrate + H2O <=> Methylmalonate + Urea",
+    "equation": "C20846 + C00001 <=> C02170 + C00086",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.95"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+      "K19795": "ureidomalonase [EC:3.5.1.95]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02745",
+    "name": "1-(1-alkenyl)-sn-glycero-3-phosphocholine aldehydohydrolase",
+    "definition": "1-(1-Alkenyl)-sn-glycero-3-phosphocholine + H2O <=> Aldehyde + sn-Glycero-3-phosphocholine",
+    "equation": "C04517 + C00001 <=> C00071 + C00670",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.3.2.2"
+    ],
+    "pathways": {
+      "rn00565": "Ether lipid metabolism"
+    },
+    "orthologs": {
+      "K18575": "alkenylglycerophosphocholine hydrolase [EC:3.3.2.2]"
+    }
+  }
+]

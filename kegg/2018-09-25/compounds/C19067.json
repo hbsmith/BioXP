@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C19067",
+    "name": "Potassium cyanate",
+    "names": [
+      "Potassium cyanate"
+    ],
+    "formula": "KCNO",
+    "exact_mass": 80.9617,
+    "mol_weight": 81.1151,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "590-28-3"
+      ],
+      "PubChem": [
+        "124489739"
+      ],
+      "ChEBI": [
+        "38904"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   N3a N    21.1400  -21.0000\n            2   C3b C    22.5400  -21.0000\n            3   O1a O    23.9400  -21.0000 #-\n            4   Z   K    26.3200  -21.4900 #+\nBOND        2\n            1     1   2 3\n            2     2   3 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

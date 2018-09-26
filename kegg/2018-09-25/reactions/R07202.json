@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07202",
+    "name": "abscisate,NADPH:oxygen oxidoreductase (8'-hydroxylating)",
+    "definition": "Abscisate + NADPH + H+ + Oxygen <=> 8'-Hydroxyabscisate + NADP+ + H2O",
+    "equation": "C06082 + C00005 + C00080 + C00007 <=> C15514 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.93"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis"
+    },
+    "orthologs": {
+      "K09843": "(+)-abscisic acid 8'-hydroxylase [EC:1.14.13.93]"
+    }
+  }
+]

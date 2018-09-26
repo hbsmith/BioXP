@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R04112",
+    "name": "N-Acetylmuramoyl-Ala amidohydrolase",
+    "definition": "N-Acetylmuramoyl-Ala + H2O <=> N-Acetylmuramate + L-Alanine",
+    "equation": "C02999 + C00001 <=> C02713 + C00041",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.28"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K01446": "peptidoglycan recognition protein",
+      "K01447": "N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]",
+      "K01448": "N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]",
+      "K01449": "N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]"
+    }
+  }
+]

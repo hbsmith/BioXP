@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09095",
+    "name": "hydrogen:2-(2,3-dihydropentaprenyloxy)phenazine oxidoreductase",
+    "definition": "Methanophenazine + Hydrogen <=> Dihydromethanophenazine",
+    "equation": "C11903 + C00282 <=> C11904",
+    "comment": "methanophenazine hydrogenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.12.2.-",
+      "1.12.98.3"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K14068": "methanophenazine hydrogenase, large subunit [EC:1.12.98.3]",
+      "K14069": "methanophenazine hydrogenase, cytochrome b subunit [EC:1.12.98.3]",
+      "K14070": "methanophenazine hydrogenase [EC:1.12.98.3]"
+    }
+  }
+]

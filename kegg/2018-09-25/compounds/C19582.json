@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19582",
+    "name": "1-(3-Pyridinyl)-1,4-butanediol",
+    "names": [
+      "1-(3-Pyridinyl)-1,4-butanediol"
+    ],
+    "formula": "C9H13NO2",
+    "exact_mass": 167.0946,
+    "mol_weight": 167.205,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09436",
+      "R09440"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450",
+      "map05204": "Chemical carcinogenesis"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "76014-83-0"
+      ],
+      "PubChem": [
+        "124490254"
+      ],
+      "ChEBI": [
+        "82576"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   N5x N    18.6193  -19.3685\n            2   C8x C    18.6193  -20.7670\n            3   C8x C    19.8304  -21.4663\n            4   C8x C    21.0416  -20.7670\n            5   C8y C    21.0416  -19.3685\n            6   C8x C    19.8304  -18.6694\n            7   C1c C    22.2777  -18.6694\n            8   C1b C    23.4889  -19.3685\n            9   C1b C    24.6998  -18.6694\n            10  C1b C    25.9109  -19.3685\n            11  O1a O    22.2839  -17.2712\n            12  O1a O    27.1418  -18.6575\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    7  11 1\n            12   10  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

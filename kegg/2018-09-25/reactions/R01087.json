@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01087",
+    "name": "Maleate cis-trans-isomerase",
+    "definition": "Maleic acid <=> Fumarate",
+    "equation": "C01384 <=> C00122",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.2.1.1"
+    ],
+    "pathways": {
+      "rn00650": "Butanoate metabolism",
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01799": "maleate isomerase [EC:5.2.1.1]"
+    }
+  }
+]

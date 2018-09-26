@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08789",
+    "name": "S-adenosyl-L-methionine:(S)-canadine N-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + (S)-Canadine <=> S-Adenosyl-L-homocysteine + (S)-cis-N-Methylcanadine",
+    "equation": "C00019 + C03329 <=> C00021 + C02915",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.122"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis"
+    },
+    "orthologs": {
+      "K13396": "(S)-tetrahydroprotoberberine N-methyltransferase [EC:2.1.1.122]"
+    }
+  }
+]

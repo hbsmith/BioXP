@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03148",
+    "name": "phosphoramidate:hexose 1-phosphotransferase",
+    "definition": "Phosphoramidate + D-Hexose <=> Ammonia + alpha-D-Hexose 1-phosphate",
+    "equation": "C02306 + C00738 <=> C00014 + C01171",
+    "comment": "general reaction (see R08514)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.62"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

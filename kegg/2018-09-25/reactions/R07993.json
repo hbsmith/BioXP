@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07993",
+    "name": "flavanone,2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating)",
+    "definition": "Pinocembrin + 2-Oxoglutarate + Oxygen <=> Pinobanksin + Succinate + CO2",
+    "equation": "C09827 + C00026 + C00007 <=> C09826 + C00042 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.9"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis"
+    },
+    "orthologs": {
+      "K00475": "naringenin 3-dioxygenase [EC:1.14.11.9]"
+    }
+  }
+]

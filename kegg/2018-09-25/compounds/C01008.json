@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C01008",
+    "name": "Trimethylsulfonium",
+    "names": [
+      "Trimethylsulfonium"
+    ],
+    "formula": "C3H9S",
+    "exact_mass": 77.0425,
+    "mol_weight": 77.1686,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02572",
+      "R02573"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.1.1.19",
+      "2.1.1.96"
+    ],
+    "dblinks": {
+      "CAS": [
+        "676-84-6"
+      ],
+      "PubChem": [
+        "4253"
+      ],
+      "ChEBI": [
+        "17434"
+      ],
+      "ChEMBL": [
+        "CHEMBL1237171"
+      ],
+      "NIKKAJI": [
+        "J257.549C"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   S0  S    22.1995  -15.8663 #+\n            2   C1a C    23.5438  -14.9136\n            3   C1a C    20.9571  -14.9355\n            4   C1a C    22.1995  -17.4200\nBOND        3\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

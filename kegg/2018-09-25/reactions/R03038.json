@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03038",
+    "name": "L-Alanine:tRNA(Ala) ligase (AMP-forming)",
+    "definition": "ATP + L-Alanine + tRNA(Ala) <=> AMP + Diphosphate + L-Alanyl-tRNA",
+    "equation": "C00002 + C00041 + C01635 <=> C00020 + C00013 + C00886",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.1.1.7"
+    ],
+    "pathways": {
+      "rn00970": "Aminoacyl-tRNA biosynthesis"
+    },
+    "orthologs": {
+      "K01872": "alanyl-tRNA synthetase [EC:6.1.1.7]"
+    }
+  }
+]

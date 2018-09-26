@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00241",
+    "name": "ATP:L-glutamate 1-phosphotransferase",
+    "definition": "ATP + L-Glutamate <=> ADP + L-Glutamyl 1-phosphate",
+    "equation": "C00002 + C00025 <=> C00008 + C05765",
+    "comment": "possibly erroneous This reaction was proposed to be involved in the conversion of L-glutamate to 5-aminolevulinate, but the conversion was revised to R05578+R04109+R02272.",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.2.13"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

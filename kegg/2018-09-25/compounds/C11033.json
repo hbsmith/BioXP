@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C11033",
+    "name": "1-Aminomethylphosphonic acid",
+    "names": [
+      "1-Aminomethylphosphonic acid",
+      "Aminomethylphosphonate",
+      "AMPA"
+    ],
+    "formula": "CH6NO3P",
+    "exact_mass": 111.0085,
+    "mol_weight": 111.037,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11486"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.5.3.23"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1066-51-9"
+      ],
+      "PubChem": [
+        "13216"
+      ],
+      "ChEBI": [
+        "28812"
+      ],
+      "ChEMBL": [
+        "CHEMBL41873"
+      ],
+      "PDB-CCD": [
+        "PGL"
+      ],
+      "NIKKAJI": [
+        "J138.614J"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   N1a N    33.1572  -28.8492\n            2   C1b C    34.3682  -28.1450\n            3   P1b P    35.5724  -28.8492\n            4   O1c O    35.5654  -27.4478\n            5   O1c O    35.5654  -30.2505\n            6   O1c O    36.9737  -28.8492\nBOND        5\n            1     1   2 1\n            2     3   4 2\n            3     3   5 1\n            4     2   3 1\n            5     3   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

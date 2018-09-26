@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C14266",
+    "name": "p-Chloroacetoacetanilide",
+    "names": [
+      "p-Chloroacetoacetanilide",
+      "4'-Chloroacetoacetanilide"
+    ],
+    "formula": "C10H10ClNO2",
+    "exact_mass": 211.04,
+    "mol_weight": 211.6449,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "101-92-8"
+      ],
+      "PubChem": [
+        "17395266"
+      ],
+      "ChEBI": [
+        "35090"
+      ],
+      "NIKKAJI": [
+        "J4.997B"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    24.4300  -20.2300\n            2   C8x C    24.4300  -18.8300\n            3   C8x C    25.6200  -18.1300\n            4   C8y C    26.8100  -18.8300\n            5   C8x C    26.8100  -20.2300\n            6   C8x C    25.6200  -20.9300\n            7   X   Cl   23.1700  -20.9300\n            8   N1b N    28.0700  -18.1300\n            9   C5a C    29.2600  -18.8300\n            10  C1b C    30.4500  -18.2000\n            11  O5a O    29.2600  -20.3000\n            12  C5a C    31.6400  -18.9000\n            13  C1a C    32.9000  -18.2000\n            14  O5a O    31.6400  -20.3000\nBOND        14\n            1     4   8 1\n            2     2   3 1\n            3     8   9 1\n            4     3   4 2\n            5     9  10 1\n            6     4   5 1\n            7     9  11 2\n            8     5   6 2\n            9    10  12 1\n            10    6   1 1\n            11   12  13 1\n            12   12  14 2\n            13    1   7 1\n            14    1   2 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

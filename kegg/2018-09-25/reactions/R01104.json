@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01104",
+    "name": "Galactosylglycerol galactohydrolase",
+    "definition": "3-beta-D-Galactosyl-sn-glycerol + H2O <=> D-Galactose + Glycerol",
+    "equation": "C05401 + C00001 <=> C00124 + C00116",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.22"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism"
+    },
+    "orthologs": {
+      "K01189": "alpha-galactosidase [EC:3.2.1.22]",
+      "K07406": "alpha-galactosidase [EC:3.2.1.22]",
+      "K07407": "alpha-galactosidase [EC:3.2.1.22]"
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C12263",
+    "name": "1,2-Dimethoxy-4-[2-(2-propenyloxy)ethenyl]-benzene",
+    "names": [
+      "1,2-Dimethoxy-4-[2-(2-propenyloxy)ethenyl]-benzene"
+    ],
+    "formula": "C13H16O3",
+    "exact_mass": 220.1099,
+    "mol_weight": 220.2643,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "14408"
+      ],
+      "ChEBI": [
+        "31036"
+      ],
+      "NIKKAJI": [
+        "J820.781J"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8x C    26.2013  -18.8172\n            2   C8y C    26.2013  -20.2175\n            3   C8y C    27.4169  -20.9176\n            4   C8x C    28.6254  -20.2175\n            5   C8y C    28.6254  -18.8172\n            6   C8x C    27.4169  -18.1171\n            7   C2b C    29.8365  -18.1196\n            8   C2b C    31.0487  -18.8208\n            9   O2a O    32.2619  -18.1215\n            10  O2a O    24.9889  -20.9183\n            11  O2a O    27.4186  -22.3179\n            12  C1a C    23.7759  -20.2188\n            13  C1a C    26.2068  -23.0196\n            14  C1b C    33.4836  -18.8280\n            15  C2b C    34.6778  -18.1394\n            16  C2a C    35.8648  -18.8258\nBOND        16\n            1     3   4 2\n            2     4   5 1\n            3     5   6 2\n            4     7   8 2\n            5     8   9 1\n            6     5   7 1\n            7     6   1 1\n            8     2  10 1\n            9     3  11 1\n            10    1   2 2\n            11   10  12 1\n            12    2   3 1\n            13   11  13 1\n            14    9  14 1\n            15   14  15 1\n            16   15  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

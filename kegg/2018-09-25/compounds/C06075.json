@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C06075",
+    "name": "Terpinolene",
+    "names": [
+      "Terpinolene"
+    ],
+    "formula": "C10H16",
+    "exact_mass": 136.1252,
+    "mol_weight": 136.234,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02010"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.2.3.113"
+    ],
+    "dblinks": {
+      "CAS": [
+        "586-62-9"
+      ],
+      "PubChem": [
+        "8341"
+      ],
+      "ChEBI": [
+        "9457"
+      ],
+      "ChEMBL": [
+        "CHEMBL454697"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0102090062"
+      ],
+      "KNApSAcK": [
+        "C00000861"
+      ],
+      "3DMET": [
+        "B00897"
+      ],
+      "NIKKAJI": [
+        "J9.438B"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C2y C    28.3623  -19.2362\n            2   C2c C    28.3738  -20.6328\n            3   C1x C    27.1485  -18.5384\n            4   C1x C    29.5690  -18.5384\n            5   C1a C    29.5994  -21.3259\n            6   C1a C    27.1730  -21.3492\n            7   C1x C    27.1485  -17.1358\n            8   C2x C    29.5690  -17.1358\n            9   C2y C    28.3623  -16.4370\n            10  C1a C    28.3738  -15.0343\nBOND        10\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     4   8 1\n            8     7   9 1\n            9     9  10 1\n            10    8   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

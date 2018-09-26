@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08159",
+    "name": "tetradecanoyl-[acyl-carrier protein] hydrolase",
+    "definition": "Tetradecanoyl-[acp] + H2O <=> Acyl-carrier protein + Tetradecanoic acid",
+    "equation": "C05761 + C00001 <=> C00229 + C06424",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.2.14"
+    ],
+    "pathways": {
+      "rn00061": "Fatty acid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00665": "fatty acid synthase, animal type [EC:2.3.1.85]",
+      "K10781": "fatty acyl-ACP thioesterase B [EC:3.1.2.14 3.1.2.21]"
+    }
+  }
+]

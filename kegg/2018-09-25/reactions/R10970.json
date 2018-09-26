@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10970",
+    "name": "ATP:6-deoxy-6-sulfo-D-fructose 1-phosphotransferase",
+    "definition": "ATP + 6-Deoxy-6-sulfo-D-fructose <=> ADP + 6-Deoxy-6-sulfo-D-fructose 1-phosphate",
+    "equation": "C00002 + C20830 <=> C00008 + C20831",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.184"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K18478": "sulfofructose kinase [EC:2.7.1.184]"
+    }
+  }
+]

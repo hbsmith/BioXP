@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05357",
+    "name": "amidinoproclavaminate amidinohydrolase",
+    "definition": "Guanidinoproclavaminic acid + H2O <=> Proclavaminic acid + Urea",
+    "equation": "C06657 + C00001 <=> C06658 + C00086",
+    "comment": "pah gene",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.3.22"
+    ],
+    "pathways": {
+      "rn00331": "Clavulanic acid biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12676": "proclavaminate amidinohydrolase [EC:3.5.3.22]"
+    }
+  }
+]

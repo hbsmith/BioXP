@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06797",
+    "name": "malonyl-CoA:flavonol-3-O-beta-D-glucoside 6''-O-malonyltransferase",
+    "definition": "Quercetin 3-O-glucoside + Malonyl-CoA <=> Quercetin 3-O-(6-O-malonyl-beta-D-glucoside) + CoA",
+    "equation": "C05623 + C00083 <=> C12638 + C00010",
+    "comment": "flavonol-3-O-beta-glucoside O-malonyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.116"
+    ],
+    "pathways": {
+      "rn00944": "Flavone and flavonol biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

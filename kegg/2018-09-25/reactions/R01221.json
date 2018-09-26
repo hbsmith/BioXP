@@ -1,0 +1,31 @@
+[
+  {
+    "entry_id": "R01221",
+    "name": "glycine synthase; glycine cleavage system",
+    "definition": "Glycine + Tetrahydrofolate + NAD+ <=> 5,10-Methylenetetrahydrofolate + Ammonia + CO2 + NADH + H+",
+    "equation": "C00037 + C00101 + C00003 <=> C00143 + C00014 + C00011 + C00004 + C00080",
+    "comment": "multienzyme system multi-step reaction (see R03425+R04125+R03815)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.4.2",
+      "1.8.1.4",
+      "2.1.2.10"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K00281": "glycine dehydrogenase [EC:1.4.4.2]",
+      "K00282": "glycine dehydrogenase subunit 1 [EC:1.4.4.2]",
+      "K00283": "glycine dehydrogenase subunit 2 [EC:1.4.4.2]",
+      "K00382": "dihydrolipoamide dehydrogenase [EC:1.8.1.4]",
+      "K00605": "aminomethyltransferase [EC:2.1.2.10]",
+      "K02437": "glycine cleavage system H protein"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C21154",
+    "name": "N-Methylmyosmine",
+    "names": [
+      "N-Methylmyosmine",
+      "3-(4,5-Dihydro-1-methyl-1H-pyrrol-2-yl)pyridine"
+    ],
+    "formula": "C10H12N2",
+    "exact_mass": 160.1,
+    "mol_weight": 160.2157,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11175",
+      "R11176"
+    ],
+    "pathways": {
+      "map00760": "Nicotinate and nicotinamide metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.5.3.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "525-74-6"
+      ],
+      "PubChem": [
+        "313369414"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    15.7303  -16.5781\n            2   C8x C    15.7303  -17.9772\n            3   N5x N    16.9195  -18.6767\n            4   C8x C    18.1786  -17.9772\n            5   C8y C    18.1786  -16.5781\n            6   C8x C    16.9195  -15.8786\n            7   C2y C    19.3678  -15.8786\n            8   C2x C    20.6969  -16.2284\n            9   C1x C    21.5363  -15.1091\n            10  C1x C    20.6270  -13.9899\n            11  N1y N    19.3678  -14.4795\n            12  C1a C    18.1786  -13.7101\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     7   5 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 1\n            11   10  11 1\n            12    7  11 1\n            13   11  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

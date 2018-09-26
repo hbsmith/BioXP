@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00790",
+    "name": "Ammonia:ferredoxin oxidoreductase",
+    "definition": "Ammonia + 2 H2O + 6 Oxidized ferredoxin <=> Nitrite + 6 Reduced ferredoxin + 6 H+",
+    "equation": "C00014 + 2 C00001 + 6 C00139 <=> C00088 + 6 C00138 + 6 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.7.1"
+    ],
+    "pathways": {
+      "rn00910": "Nitrogen metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00366": "ferredoxin-nitrite reductase [EC:1.7.7.1]"
+    }
+  }
+]

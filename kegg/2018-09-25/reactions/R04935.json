@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04935",
+    "name": "(5-L-glutamyl)-peptide:Se-Methylselenocysteine 5-glutamyltransferase",
+    "definition": "(5-L-Glutamyl)-peptide + Se-Methyl-L-selenocysteine <=> Peptide + gamma-Glutamyl-Se-methylselenocysteine",
+    "equation": "C03193 + C05689 <=> C00012 + C05695",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.2.2"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00681": "gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]"
+    }
+  }
+]

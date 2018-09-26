@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C19483",
+    "name": "N-Nitrosohydroxyproline",
+    "names": [
+      "N-Nitrosohydroxyproline",
+      "4-Hydroxy-1-nitroso-L-proline"
+    ],
+    "formula": "C5H8N2O4",
+    "exact_mass": 160.0484,
+    "mol_weight": 160.128,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "30310-80-6"
+      ],
+      "PubChem": [
+        "124490155"
+      ],
+      "ChEBI": [
+        "82513"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1x C    18.6074  -17.2136\n            2   C1y C    19.0305  -18.5481\n            3   C1x C    20.4305  -18.5580\n            4   C1y C    20.8726  -17.2297\n            5   N1y N    19.7458  -16.3987\n            6   O1a O    18.2020  -19.6715\n            7   N2b N    19.7560  -14.9801\n            8   O3a O    20.9613  -14.2956\n            9   C6a C    22.0724  -16.5200\n            10  O6a O    23.2849  -17.2200\n            11  O6a O    22.0724  -15.1200\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     2   6 1 #Up\n            7     5   7 1\n            8     7   8 2\n            9     4   9 1 #Down\n            10    9  10 1\n            11    9  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

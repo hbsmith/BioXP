@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01588",
+    "name": "dimethylamine:electron-transferring flavoprotein oxidoreductase",
+    "definition": "Dimethylamine + H2O + Electron-transferring flavoprotein <=> Methylamine + Formaldehyde + Reduced electron-transferring flavoprotein",
+    "equation": "C00543 + C00001 + C04253 <=> C00218 + C00067 + C04570",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.8.1"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K00317": "dimethylamine/trimethylamine dehydrogenase [EC:1.5.8.1 1.5.8.2]"
+    }
+  }
+]

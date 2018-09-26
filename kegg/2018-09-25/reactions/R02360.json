@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02360",
+    "name": "Poly(1,4-alpha-D-galacturonate) glycanohydrolase",
+    "definition": "Pectate + H2O <=> Digalacturonate + Pectate",
+    "equation": "C00470 + C00001 <=> C02273 + C00470",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.15"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01184": "polygalacturonase [EC:3.2.1.15]"
+    }
+  }
+]

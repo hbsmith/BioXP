@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C10772",
+    "name": "Lupanine",
+    "names": [
+      "Lupanine",
+      "(+)-Lupanine"
+    ],
+    "formula": "C15H24N2O",
+    "exact_mass": 248.1889,
+    "mol_weight": 248.3639,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08421",
+      "R09049",
+      "R09050",
+      "R09938"
+    ],
+    "pathways": {
+      "map00960": "Tropane, piperidine and pyridine alkaloid biosynthesis",
+      "map01064": "Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid"
+    },
+    "enzymes": [
+      "1.17.2.2"
+    ],
+    "dblinks": {
+      "CAS": [
+        "550-90-3"
+      ],
+      "PubChem": [
+        "12955"
+      ],
+      "ChEBI": [
+        "28193"
+      ],
+      "ChEMBL": [
+        "CHEMBL459396"
+      ],
+      "KNApSAcK": [
+        "C00002225"
+      ],
+      "NIKKAJI": [
+        "J10.587B"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C1x C    22.4705  -16.6946\n            2   C1x C    22.4705  -18.0897\n            3   C5x C    23.6816  -18.7873\n            4   C1x C    23.6816  -15.9970\n            5   C1y C    24.8857  -16.6946\n            6   N1y N    24.9496  -18.0897\n            7   C1x C    26.0848  -18.7925\n            8   C1y C    27.2961  -18.1000\n            9   C1x C    27.3020  -16.7049\n            10  C1y C    26.0968  -16.0023\n            11  C1x C    27.2969  -15.2926\n            12  O5x O    23.6683  -20.1824\n            13  N1y N    28.5089  -15.9759\n            14  C1y C    28.4948  -17.3922\n            15  C1x C    29.7142  -18.1125\n            16  C1x C    30.9479  -17.4167\n            17  C1x C    30.9619  -16.0004\n            18  C1x C    29.7425  -15.2800\nBOND        21\n            1    10   9 1 #Up\n            2    10   5 1\n            3    10  11 1\n            4     8  14 1\n            5    11  13 1\n            6     1   2 1\n            7     2   3 1\n            8     3  12 2\n            9     3   6 1\n            10    5   4 1\n            11    4   1 1\n            12    5   6 1\n            13    6   7 1\n            14    7   8 1\n            15   13  14 1\n            16   14  15 1\n            17   15  16 1\n            18   16  17 1\n            19   17  18 1\n            20   18  13 1\n            21    8   9 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

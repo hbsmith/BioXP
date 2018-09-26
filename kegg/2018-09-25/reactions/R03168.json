@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03168",
+    "name": "Acetyl-CoA:N6-hydroxy-L-lysine 6-acetyltransferase",
+    "definition": "Acetyl-CoA + N6-Hydroxy-L-lysine <=> CoA + N6-Acetyl-N6-hydroxy-L-lysine",
+    "equation": "C00024 + C01028 <=> C00010 + C03955",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.102"
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K03896": "acetyl CoA:N6-hydroxylysine acetyl transferase [EC:2.3.1.102]"
+    }
+  }
+]

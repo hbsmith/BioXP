@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R09678",
+    "name": "S-adenosyl-L-methionine:tricin 4'-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Tricin <=> S-Adenosyl-L-homocysteine + 3',4',5'-O-Trimethyltricetin",
+    "equation": "C00019 + C10193 <=> C00021 + C19807",
+    "comment": "third step of three-step reaction (see R09679, R09612+R09613+R09678)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.169"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

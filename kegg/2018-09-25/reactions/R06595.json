@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06595",
+    "name": "5-amino-5-deoxy-3-dehydroshikimate hydro-lyase (3-amino-5-hydroxybenzoate-forming)",
+    "definition": "5-Amino-5-deoxy-3-dehydroshikimate <=> 3-Amino-5-hydroxybenzoate + H2O",
+    "equation": "C12108 <=> C12107 + C00001",
+    "comment": "AHBA synthase, RifK Asm24",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.144"
+    ],
+    "pathways": {
+      "rn01051": "Biosynthesis of ansamycins",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16016": "3-amino-5-hydroxybenzoate synthase [EC:4.2.1.144 2.6.1.-]"
+    }
+  }
+]

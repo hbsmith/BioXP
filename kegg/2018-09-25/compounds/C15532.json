@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C15532",
+    "name": "N-Acetyl-L-citrulline",
+    "names": [
+      "N-Acetyl-L-citrulline"
+    ],
+    "formula": "C8H15N3O4",
+    "exact_mass": 217.1063,
+    "mol_weight": 217.2224,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07245",
+      "R09107"
+    ],
+    "pathways": {
+      "map00220": "Arginine biosynthesis",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "2.1.3.9",
+      "3.5.1.16"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17396524"
+      ],
+      "ChEBI": [
+        "49002"
+      ],
+      "PDB-CCD": [
+        "OLN"
+      ],
+      "NIKKAJI": [
+        "J2.794.851K"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C1b C    27.5533  -19.9098\n            2   C1b C    28.7520  -20.6313\n            3   C1c C    26.3257  -20.5847\n            4   C1b C    29.9798  -19.9563\n            5   C6a C    25.1329  -19.8632\n            6   N1b N    26.3025  -21.9812\n            7   N1b N    31.1783  -20.6779\n            8   O6a O    23.9052  -20.5498\n            9   O6a O    25.1562  -18.4610\n            10  C5a C    32.4003  -19.9970\n            11  N1a N    33.5988  -20.7185\n            12  O5a O    32.4236  -18.5948\n            13  C5a C    27.5154  -22.7088\n            14  C1a C    28.7473  -22.0249\n            15  O5a O    27.4922  -24.0799\nBOND        14\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     3   6 1 #Down\n            6     4   7 1\n            7     5   8 1\n            8     5   9 2\n            9     7  10 1\n            10   10  11 1\n            11   10  12 2\n            12    6  13 1\n            13   13  14 1\n            14   13  15 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

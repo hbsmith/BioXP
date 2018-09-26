@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02469",
+    "name": "(-)-limonene,NADPH:oxygen oxidoreductase (3-hydroxylating)",
+    "definition": "(-)-Limonene + Oxygen + NADPH + H+ <=> (-)-trans-Isopiperitenol + NADP+ + H2O",
+    "equation": "C00521 + C00007 + C00005 + C00080 <=> C01123 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.47"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15089": "(S)-limonene 3-monooxygenase [EC:1.14.13.47]"
+    }
+  }
+]

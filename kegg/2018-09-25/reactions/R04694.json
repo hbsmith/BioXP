@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04694",
+    "name": "(S)-N-methylcoclaurine, NADPH:oxygen oxidoreductase (C-O phenol-coupling)",
+    "definition": "Berbamunine + NADP+ + 2 H2O <=> (R)-N-Methylcoclaurine + (S)-N-Methylcoclaurine + Oxygen + NADPH + H+",
+    "equation": "C05177 + C00006 + 2 C00001 <=> C05243 + C05176 + C00007 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.21.3"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis"
+    },
+    "orthologs": {
+      "K13387": "berbamunine synthase [EC:1.14.21.3]"
+    }
+  }
+]

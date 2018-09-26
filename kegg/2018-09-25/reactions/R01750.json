@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01750",
+    "name": "D-Glycerate:NADP+ oxidoreductase (carboxylating)",
+    "definition": "D-Glycerate + NADP+ + CO2 <=> 2-Hydroxy-3-oxosuccinate + NADPH + H+",
+    "equation": "C00258 + C00006 + C00011 <=> C03459 + C00005 + C00080",
+    "comment": "NAD+ (see R01749)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.92"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08806",
+    "name": "feruloyl-CoA:malonyl-CoA C-feruloyltransferase (decarboxylating)",
+    "definition": "Feruloyl-CoA + Malonyl-CoA <=> Feruloyl-diketide-CoA + CoA + CO2",
+    "equation": "C00406 + C00083 <=> C17741 + C00010 + C00011",
+    "comment": "diketide-CoA synthase (DCS)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.218"
+    ],
+    "pathways": {
+      "rn00945": "Stilbenoid, diarylheptanoid and gingerol biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13233": "phenylpropanoylacetyl-CoA synthase [EC:2.3.1.218]"
+    }
+  }
+]

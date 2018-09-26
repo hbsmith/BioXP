@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08223",
+    "name": "L-seryl-tRNA(Sec) kinase",
+    "definition": "L-Seryl-tRNA(Sec) + ATP <=> O-Phosphoseryl-tRNA(Sec) + ADP",
+    "equation": "C06481 + C00002 <=> C16638 + C00008",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.164"
+    ],
+    "pathways": {
+      "rn00450": "Selenocompound metabolism",
+      "rn00970": "Aminoacyl-tRNA biosynthesis"
+    },
+    "orthologs": {
+      "K10837": "O-phosphoseryl-tRNA(Sec) kinase [EC:2.7.1.164]"
+    }
+  }
+]

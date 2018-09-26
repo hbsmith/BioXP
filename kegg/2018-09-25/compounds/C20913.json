@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C20913",
+    "name": "C20913",
+    "names": [
+      "C20913",
+      "Tabtoxin biosynthesis intermediate 3"
+    ],
+    "formula": "C8H14N2O6",
+    "exact_mass": 234.0852,
+    "mol_weight": 234.2066,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10886",
+      "R10887"
+    ],
+    "pathways": {
+      "map00261": "Monobactam biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "4.1.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741376"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C1c C    22.1991  -16.5002\n            2   C1b C    20.9902  -15.8020\n            3   N1a N    22.1926  -17.9031\n            4   C6a C    23.4078  -15.7957\n            5   C1b C    19.7813  -16.5068\n            6   O6a O    24.6233  -16.4875\n            7   O6a O    23.4013  -14.3864\n            8   C1c C    18.5659  -15.8086\n            9   C1c C    17.3570  -16.5131\n            10  C6a C    16.1482  -15.8150\n            11  N1a N    17.3506  -17.9225\n            12  O6a O    14.9328  -16.5197\n            13  O6a O    16.1353  -14.4123\n            14  C6a C    18.5616  -14.4385\n            15  O6a O    17.3508  -13.7444\n            16  O6a O    19.7788  -13.7308\nBOND        15\n            1     1   2 1\n            2     1   3 1 #Up\n            3     1   4 1\n            4     2   5 1\n            5     4   6 1\n            6     4   7 2\n            7     5   8 1\n            8     8   9 1\n            9     9  10 1\n            10    9  11 1\n            11   10  12 1\n            12   10  13 2\n            13    8  14 1\n            14   14  15 2\n            15   14  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

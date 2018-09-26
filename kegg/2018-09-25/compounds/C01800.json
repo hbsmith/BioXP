@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C01800",
+    "name": "Deazaflavin",
+    "names": [
+      "Deazaflavin",
+      "5-Deazaflavin"
+    ],
+    "formula": "C11H7N3O2",
+    "exact_mass": 213.0538,
+    "mol_weight": 213.1922,
+    "remark": "",
+    "comment": "Generic compound coenzyme F420 [CPD:C00876]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4926"
+      ],
+      "ChEBI": [
+        "4342"
+      ],
+      "ChEMBL": [
+        "CHEMBL1905125"
+      ],
+      "NIKKAJI": [
+        "J468.277G"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8y C    28.6273  -24.3697\n            2   C8y C    28.6273  -25.7634\n            3   C8x C    29.8366  -23.6568\n            4   C8y C    27.4118  -23.6759\n            5   N4x N    29.8493  -26.4699\n            6   N5x N    27.4118  -26.4761\n            7   C8y C    31.0648  -24.3570\n            8   N4x N    26.2153  -24.3697\n            9   O5x O    27.4053  -22.3594\n            10  C8y C    31.0713  -25.8462\n            11  C8y C    26.2153  -25.7634\n            12  C8x C    32.2804  -23.6314\n            13  C8x C    32.3123  -26.4761\n            14  O5x O    25.0125  -26.4507\n            15  C8x C    33.5213  -24.3314\n            16  C8x C    33.5023  -25.7316\nBOND        18\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     4   8 1\n            8     4   9 2\n            9     5  10 1\n            10    6  11 1\n            11    7  12 1\n            12   10  13 1\n            13   11  14 2\n            14   12  15 2\n            15   13  16 2\n            16    7  10 2\n            17    8  11 1\n            18   15  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

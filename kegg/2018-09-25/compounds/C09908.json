@@ -1,0 +1,59 @@
+[
+  {
+    "entry_id": "C09908",
+    "name": "Thymol",
+    "names": [
+      "Thymol"
+    ],
+    "formula": "C10H14O",
+    "exact_mass": 150.1045,
+    "mol_weight": 150.2176,
+    "remark": "Same as: D01039",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "89-83-8"
+      ],
+      "PubChem": [
+        "12094"
+      ],
+      "ChEBI": [
+        "133663",
+        "27607"
+      ],
+      "ChEMBL": [
+        "CHEMBL29411"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0102090029"
+      ],
+      "KNApSAcK": [
+        "C00000155"
+      ],
+      "PDB-CCD": [
+        "IPB"
+      ],
+      "3DMET": [
+        "B03370"
+      ],
+      "NIKKAJI": [
+        "J10.606B"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    24.3488  -18.9804\n            2   C8y C    25.5597  -18.2760\n            3   C8x C    23.1320  -18.2760\n            4   C1c C    24.3546  -20.3777\n            5   C8x C    25.5597  -16.8728\n            6   O1a O    26.7649  -18.9747\n            7   C8x C    23.1320  -16.8728\n            8   C1a C    23.1378  -21.0763\n            9   C1a C    25.5656  -21.0704\n            10  C8y C    24.3488  -16.1801\n            11  C1a C    24.3546  -14.7771\nBOND        11\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     4   8 1\n            8     4   9 1\n            9     5  10 1\n            10   10  11 1\n            11    7  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

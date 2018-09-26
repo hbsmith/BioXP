@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01840",
+    "name": "androstenedione,NADPH---hemoprotein reductase:oxygen oxidoreductase (19-hydroxylating)",
+    "definition": "Androstenedione + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 19-Hydroxyandrost-4-ene-3,17-dione + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C00280 + C03024 + C00007 <=> C05290 + C03161 + C00001",
+    "comment": "aromatase, ARO three successive reactions (R01840+R04759+R02351) subsequently R04759",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.14"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K07434": "aromatase [EC:1.14.14.14]"
+    }
+  }
+]

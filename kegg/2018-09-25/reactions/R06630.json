@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06630",
+    "name": "",
+    "definition": "dTDP-L-4-oxovancosamine <=> dTDP-L-vancosamine",
+    "equation": "C12320 <=> C12322",
+    "comment": "reductase,VcaE",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01055": "Biosynthesis of vancomycin group antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K18836": "reductase VcaE"
+    }
+  }
+]

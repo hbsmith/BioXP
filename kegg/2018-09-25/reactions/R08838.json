@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08838",
+    "name": "benzoate,NADPH:oxygen oxidoreductase (2-hydroxylating)",
+    "definition": "Benzoate + NADPH + Oxygen <=> Salicylate + NADP+ + H2O",
+    "equation": "C00180 + C00005 + C00007 <=> C00805 + C00006 + C00001",
+    "comment": "benzoic acid 2-hydroxylase (BA2H)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

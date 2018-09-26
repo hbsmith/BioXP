@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C01069",
+    "name": "Desulfoglucotropeolin",
+    "names": [
+      "Desulfoglucotropeolin"
+    ],
+    "formula": "C14H19NO6S",
+    "exact_mass": 329.0933,
+    "mol_weight": 329.3688,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03213",
+      "R03214"
+    ],
+    "pathways": {
+      "map00966": "Glucosinolate biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "enzymes": [
+      "2.4.1.195",
+      "2.8.2.24"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4308"
+      ],
+      "ChEBI": [
+        "136422",
+        "15911"
+      ],
+      "NIKKAJI": [
+        "J2.731.144J"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C1y C    28.8634  -16.2050\n            2   C1y C    30.0359  -16.8760\n            3   O2x O    27.7025  -16.8700\n            4   S2a S    28.8460  -14.7408\n            5   C1y C    30.0302  -18.2294\n            6   O1a O    31.1968  -16.2167\n            7   C1y C    27.7025  -18.2234\n            8   C2c C    28.8576  -13.3931\n            9   C1y C    28.8576  -18.9061\n            10  O1a O    31.1911  -18.9177\n            11  C1b C    26.5299  -18.9235\n            12  C1b C    27.5800  -12.6640\n            13  N2b N    30.0243  -12.7164\n            14  O1a O    28.8460  -20.2419\n            15  O1a O    25.3457  -18.2527\n            16  C8y C    26.3024  -13.3874\n            17  O1b O    31.2028  -13.3874\n            18  C8x C    26.3083  -14.8692\n            19  C8x C    25.0131  -12.6582\n            20  C8x C    25.0248  -15.6158\n            21  C8x C    23.7240  -13.3990\n            22  C8x C    23.7297  -14.8807\nBOND        23\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Down\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     5  10 1 #Up\n            10    7  11 1 #Up\n            11    8  12 1\n            12    8  13 2\n            13    9  14 1 #Down\n            14   11  15 1\n            15   12  16 1\n            16   13  17 1\n            17   16  18 1\n            18   16  19 2\n            19   18  20 2\n            20   19  21 1\n            21   20  22 1\n            22    7   9 1\n            23   21  22 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

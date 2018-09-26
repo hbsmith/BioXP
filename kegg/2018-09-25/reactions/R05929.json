@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05929",
+    "name": "",
+    "definition": "UDP-N-acetyl-D-galactosamine + G00157 <=> UDP + G00158",
+    "equation": "G10611 + G00157 <=> G10619 + G00158",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.174"
+    ],
+    "pathways": {
+      "rn00532": "Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00746": "chondroitin sulfate N-acetylgalactosaminyltransferase 1/2 [EC:2.4.1.174 2.4.1.175]"
+    }
+  }
+]

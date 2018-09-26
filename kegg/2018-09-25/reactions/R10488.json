@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10488",
+    "name": "(2S)-2-amino-3-[(carbamoylamino)oxy]propanoate 2-epimerase",
+    "definition": "O-Ureido-L-serine <=> O-Ureido-D-serine",
+    "equation": "C20639 <=> C20651",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.1.19"
+    ],
+    "pathways": {
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19724": "O-ureido-serine racemase [EC:5.1.1.19]"
+    }
+  }
+]

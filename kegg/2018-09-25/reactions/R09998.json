@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R09998",
+    "name": "methylamine:coenzyme M methyltransferase",
+    "definition": "Methylamine + Coenzyme M <=> Ammonia + 2-(Methylthio)ethanesulfonate",
+    "equation": "C00218 + C03576 <=> C00014 + C03920",
+    "comment": "two-step reaction (see R10014+R10000)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.247",
+      "2.1.1.248"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K14082": "[methyl-Co(III) methylamine-specific corrinoid protein]:coenzyme M methyltransferase [EC:2.1.1.247]",
+      "K16176": "methylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.248]",
+      "K16177": "monomethylamine corrinoid protein"
+    }
+  }
+]

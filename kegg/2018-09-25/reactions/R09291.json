@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09291",
+    "name": "ethylmalonyl-CoA:NADP+ oxidoreductase (decarboxylating)",
+    "definition": "(2S)-Ethylmalonyl-CoA + NADP+ <=> Crotonoyl-CoA + CO2 + NADPH + H+",
+    "equation": "C18026 + C00006 <=> C00877 + C00011 + C00005 + C00080",
+    "comment": "crotonyl-CoA carboxylase/reductase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.1.85"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K14446": "crotonyl-CoA carboxylase/reductase [EC:1.3.1.85]"
+    }
+  }
+]

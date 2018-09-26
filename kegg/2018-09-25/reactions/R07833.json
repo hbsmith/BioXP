@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07833",
+    "name": "",
+    "definition": "3-Hydroxy-5-oxohexanoyl-CoA + CoA <=> (S)-3-Hydroxybutanoyl-CoA + Acetyl-CoA",
+    "equation": "C16273 + C00010 <=> C01144 + C00024",
+    "comment": "3-hydroxybutyryl-CoA thiolase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.-"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

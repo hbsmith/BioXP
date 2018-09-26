@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10851",
+    "name": "L-allo-threonine:NADP+ 3-oxidoreductase",
+    "definition": "L-Allothreonine + NADP+ <=> L-2-Amino-3-oxobutanoic acid + NADPH + H+",
+    "equation": "C05519 + C00006 <=> C03508 + C00005 + C00080",
+    "comment": "first step of two-step reaction (see R10852, R10851+R03758)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.381"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism"
+    },
+    "orthologs": {
+      "K16066": "3-hydroxy acid dehydrogenase / malonic semialdehyde reductase [EC:1.1.1.381 1.1.1.-]"
+    }
+  }
+]

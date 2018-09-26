@@ -1,0 +1,61 @@
+[
+  {
+    "entry_id": "C06255",
+    "name": "2-Oxopentanoic acid",
+    "names": [
+      "2-Oxopentanoic acid",
+      "2-Oxovalerate",
+      "2-Oxopentanoate",
+      "alpha-Ketovaleric acid"
+    ],
+    "formula": "C5H8O3",
+    "exact_mass": 116.0473,
+    "mol_weight": 116.1152,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05063"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.1.3.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1821-02-9"
+      ],
+      "PubChem": [
+        "8494"
+      ],
+      "ChEBI": [
+        "33033"
+      ],
+      "ChEMBL": [
+        "CHEMBL1162544"
+      ],
+      "LIPIDMAPS": [
+        "LMFA01060004"
+      ],
+      "LipidBank": [
+        "DFA0388"
+      ],
+      "PDB-CCD": [
+        "69O"
+      ],
+      "3DMET": [
+        "B00929"
+      ],
+      "NIKKAJI": [
+        "J150.812A"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C5a C    26.0858  -18.0610\n            2   C1b C    27.2968  -17.3590\n            3   C6a C    24.8748  -17.3590\n            4   O5a O    26.0858  -19.4591\n            5   C1b C    28.5135  -18.0610\n            6   O6a O    23.6638  -18.0610\n            7   O6a O    24.8748  -15.9609\n            8   C1a C    29.7245  -17.3590\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     3   6 1\n            6     3   7 2\n            7     5   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

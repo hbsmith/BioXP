@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C03230",
+    "name": "(Indol-3-yl)glycolaldehyde",
+    "names": [
+      "(Indol-3-yl)glycolaldehyde",
+      "3-Indoleglycolaldehyde"
+    ],
+    "formula": "C10H9NO2",
+    "exact_mass": 175.0633,
+    "mol_weight": 175.184,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00681"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism"
+    },
+    "enzymes": [
+      "1.13.99.3"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6101"
+      ],
+      "ChEBI": [
+        "15976"
+      ],
+      "3DMET": [
+        "B04885"
+      ],
+      "NIKKAJI": [
+        "J2.368.984G"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    24.7637  -20.1445\n            2   C8x C    24.7637  -21.5433\n            3   C8x C    25.9751  -22.2428\n            4   C8y C    27.1866  -21.5433\n            5   C8y C    27.1866  -20.1445\n            6   C8x C    25.9751  -19.4451\n            7   N4x N    28.5170  -21.9756\n            8   C8x C    29.3393  -20.8439\n            9   C8y C    28.5170  -19.7122\n            10  C1c C    28.9478  -18.3865\n            11  C4a C    30.3261  -18.0935\n            12  O1a O    28.0221  -17.3582\n            13  O4a O    31.2391  -19.1072\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    9  10 1\n            12   10  11 1\n            13   10  12 1\n            14   11  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

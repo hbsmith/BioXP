@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07423",
+    "name": "2-hydroxy-2H-1,4-benzoxazin-3(4H)-one,NADPH:oxygen oxidoreductase (N-hydroxylating)",
+    "definition": "HBOA + NADPH + H+ + Oxygen <=> DIBOA + NADP+ + H2O",
+    "equation": "C15769 + C00005 + C00080 + C00007 <=> C15770 + C00006 + C00001",
+    "comment": "Benzoxazinone N-monooxygenase, P450 (CYP71C3), bx5",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.140"
+    ],
+    "pathways": {
+      "rn00402": "Benzoxazinoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13226": "2-hydroxy-1,4-benzoxazin-3-one monooxygenase [EC:1.14.13.140]"
+    }
+  }
+]

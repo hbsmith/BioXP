@@ -1,0 +1,29 @@
+[
+  {
+    "entry_id": "R08060",
+    "name": "",
+    "definition": "Formylmethanofuran + H2O <=> Formate + Methanofuran",
+    "equation": "C01001 + C00001 <=> C00058 + C00862",
+    "comment": "fhc",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.7.12"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K00200": "formylmethanofuran dehydrogenase subunit A [EC:1.2.7.12]",
+      "K00201": "formylmethanofuran dehydrogenase subunit B [EC:1.2.7.12]",
+      "K00202": "formylmethanofuran dehydrogenase subunit C [EC:1.2.7.12]",
+      "K00203": "formylmethanofuran dehydrogenase subunit D [EC:1.2.7.12]",
+      "K00204": "4Fe-4S ferredoxin",
+      "K00205": "4Fe-4S ferredoxin",
+      "K11260": "4Fe-4S ferredoxin",
+      "K11261": "formylmethanofuran dehydrogenase subunit E [EC:1.2.7.12]"
+    }
+  }
+]

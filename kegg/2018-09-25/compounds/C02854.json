@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C02854",
+    "name": "N-Furfurylformamide",
+    "names": [
+      "N-Furfurylformamide"
+    ],
+    "formula": "C6H7NO2",
+    "exact_mass": 125.0477,
+    "mol_weight": 125.1253,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "72693-10-8"
+      ],
+      "PubChem": [
+        "5792"
+      ],
+      "ChEBI": [
+        "28219"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    16.5054  -19.6733\n            2   C8x C    16.9377  -21.0049\n            3   C8x C    18.3378  -21.0052\n            4   C8y C    18.7707  -19.6738\n            5   O2x O    17.6382  -18.8507\n            6   C1b C    19.9724  -18.9700\n            7   N1b N    21.1849  -19.6700\n            8   C4a C    22.3973  -18.9700\n            9   O4a O    22.3973  -17.5700\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     1   5 1\n            6     4   6 1\n            7     6   7 1\n            8     7   8 1\n            9     8   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

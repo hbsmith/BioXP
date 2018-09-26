@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06774",
+    "name": "",
+    "definition": "Novclobiocin 105 + S-Adenosyl-L-methionine <=> Novclobiocin 104 + S-Adenosyl-L-homocysteine",
+    "equation": "C12472 + C00019 <=> C12473 + C00021",
+    "comment": "O-methyltransferase, CloP",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00401": "Novobiocin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12712": "demethyldecarbamoylnovobiocin O-methyltransferase [EC:2.1.1.285]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08796",
+    "name": "",
+    "definition": "p-Coumaroyl-CoA + Malonyl-CoA + Hexanoyl-CoA + H2O <=> 1-(4-Hydroxyphenyl)-1-decene-3,5-dione + 3 CoA + 2 CO2",
+    "equation": "C00223 + C00083 + C05270 + C00001 <=> C17744 + 3 C00010 + 2 C00011",
+    "comment": "several steps reaction polyketide synthase(s)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00945": "Stilbenoid, diarylheptanoid and gingerol biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

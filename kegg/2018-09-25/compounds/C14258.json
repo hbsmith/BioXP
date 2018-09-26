@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C14258",
+    "name": "4-Cumylphenol",
+    "names": [
+      "4-Cumylphenol",
+      "p-Cumylphenol",
+      "2-Phenyl-2-(4-hydroxyphenyl)propane"
+    ],
+    "formula": "C15H16O",
+    "exact_mass": 212.1201,
+    "mol_weight": 212.2869,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "599-64-4"
+      ],
+      "PubChem": [
+        "7847068"
+      ],
+      "ChEBI": [
+        "35092"
+      ],
+      "ChEMBL": [
+        "CHEMBL194805"
+      ],
+      "PDB-CCD": [
+        "1OH"
+      ],
+      "NIKKAJI": [
+        "J6.797K"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8x C    25.0137  -19.1875\n            2   C8y C    25.0059  -20.5873\n            3   C8x C    26.2171  -21.2942\n            4   C8x C    27.4292  -20.6012\n            5   C8y C    27.4371  -19.2014\n            6   C8x C    26.2332  -18.4946\n            7   O1a O    23.7899  -21.2809\n            8   C1d C    28.6540  -18.5095\n            9   C8y C    29.7918  -19.2171\n            10  C1a C    27.4329  -17.5942\n            11  C1a C    29.8580  -17.5873\n            12  C8x C    29.8488  -20.6104\n            13  C8x C    31.0563  -21.3182\n            14  C8x C    32.2733  -20.6262\n            15  C8x C    32.2823  -19.2263\n            16  C8x C    31.0745  -18.5187\nBOND        17\n            1     2   3 1\n            2     8   9 1\n            3     3   4 2\n            4     8  10 1\n            5     4   5 1\n            6     8  11 1\n            7     5   6 2\n            8     6   1 1\n            9     2   7 1\n            10    1   2 2\n            11    9  12 2\n            12   12  13 1\n            13   13  14 2\n            14   14  15 1\n            15   15  16 2\n            16   16   9 1\n            17    5   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

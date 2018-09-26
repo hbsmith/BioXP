@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08959",
+    "name": "5alpha-pregnane-3alpha,20alpha-diol:NADP+ 20-oxidoreductase",
+    "definition": "5alpha-Pregnane-3alpha,20alpha-diol + NADP+ <=> Allopregnanolone + NADPH + H+",
+    "equation": "C18042 + C00006 <=> C13712 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.149"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+      "K00212": "20alpha/3alpha-hydroxysteroid dehydrogenase / dihydrodiol dehydrogenase [EC:1.1.1.149 1.1.1.357 1.3.1.20]",
+      "K05295": "20alpha-hydroxysteroid dehydrogenase [EC:1.1.1.149]"
+    }
+  }
+]

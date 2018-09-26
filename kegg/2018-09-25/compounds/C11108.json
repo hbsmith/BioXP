@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C11108",
+    "name": "(-)-erythro-(2R,3R)-Dihydroxybutylamide",
+    "names": [
+      "(-)-erythro-(2R,3R)-Dihydroxybutylamide",
+      "DBA"
+    ],
+    "formula": "C4H9NO3",
+    "exact_mass": 119.0582,
+    "mol_weight": 119.1192,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "13290"
+      ],
+      "ChEBI": [
+        "28598"
+      ],
+      "NIKKAJI": [
+        "J2.719.368D"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1a C    25.6200  -19.8800\n            2   C1c C    26.8100  -19.1800\n            3   C1c C    28.0000  -19.8800\n            4   C5a C    29.2600  -19.1800\n            5   N1a N    30.4500  -19.8800\n            6   O1a O    26.8100  -17.7800\n            7   O5a O    29.2600  -17.7800\n            8   O1a O    28.0000  -21.2800\nBOND        7\n            1     4   5 1\n            2     2   3 1\n            3     2   6 1\n            4     1   2 1\n            5     4   7 2\n            6     3   4 1\n            7     3   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

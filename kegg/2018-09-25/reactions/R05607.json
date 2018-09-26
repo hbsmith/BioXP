@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05607",
+    "name": "D-sorbitol-6-phosphate:NAD 2-oxidoreductase",
+    "definition": "Sorbitol 6-phosphate + NAD+ <=> beta-D-Fructose 6-phosphate + NADH + H+",
+    "equation": "C01096 + C00003 <=> C05345 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.140"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism"
+    },
+    "orthologs": {
+      "K00068": "sorbitol-6-phosphate 2-dehydrogenase [EC:1.1.1.140]"
+    }
+  }
+]

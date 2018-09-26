@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11269",
+    "name": "kanamycin-A:2-oxoglutarate aminotransferase",
+    "definition": "Kanamycin A + 2-Oxoglutarate <=> 6'-Oxokanamycin X + L-Glutamate",
+    "equation": "C01822 + C00026 <=> C21251 + C00025",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.94"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20568": "neamine transaminase / 2'-deamino-2'-hydroxyneamine transaminase [EC:2.6.1.93 2.6.1.94]"
+    }
+  }
+]

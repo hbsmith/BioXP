@@ -1,0 +1,65 @@
+[
+  {
+    "entry_id": "C00380",
+    "name": "Cytosine",
+    "names": [
+      "Cytosine"
+    ],
+    "formula": "C4H5N3O",
+    "exact_mass": 111.0433,
+    "mol_weight": 111.102,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00510",
+      "R00974",
+      "R02137",
+      "R02296",
+      "R10837"
+    ],
+    "pathways": {
+      "map00240": "Pyrimidine metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "2.4.2.2",
+      "2.4.2.57",
+      "3.2.2.8",
+      "3.2.2.10",
+      "3.5.4.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "71-30-7"
+      ],
+      "PubChem": [
+        "3670"
+      ],
+      "ChEBI": [
+        "16040"
+      ],
+      "ChEMBL": [
+        "CHEMBL15913"
+      ],
+      "KNApSAcK": [
+        "C00001498"
+      ],
+      "PDB-CCD": [
+        "CYT"
+      ],
+      "3DMET": [
+        "B00097"
+      ],
+      "NIKKAJI": [
+        "J9.343B"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   N5x N    24.4993  -16.8995\n            2   C8y C    23.2810  -16.2059\n            3   C8y C    24.4993  -18.3043\n            4   C8x C    22.0802  -16.9054\n            5   N1a N    23.2810  -14.8068\n            6   N4x N    23.2926  -19.0098\n            7   O5x O    25.7177  -18.9981\n            8   C8x C    22.0802  -18.3103\nBOND        8\n            1     1   2 2\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1\n            5     3   6 1\n            6     3   7 2\n            7     4   8 2\n            8     6   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

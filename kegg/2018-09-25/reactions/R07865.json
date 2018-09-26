@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07865",
+    "name": "",
+    "definition": "9(S)-HPOT <=> 9,10-EOT + H2O",
+    "equation": "C16321 <=> C16324 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.92"
+    ],
+    "pathways": {
+      "rn00592": "alpha-Linolenic acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K01723": "hydroperoxide dehydratase [EC:4.2.1.92]"
+    }
+  }
+]

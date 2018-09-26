@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02090",
+    "name": "ATP:dGMP phosphotransferase",
+    "definition": "ATP + dGMP <=> ADP + dGDP",
+    "equation": "C00002 + C00362 <=> C00008 + C00361",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.8",
+      "2.7.4.12"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00942": "guanylate kinase [EC:2.7.4.8]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08355",
+    "name": "glutathione:glutathionylaminopropylcadaverine ligase (ADP-forming)",
+    "definition": "ATP + Glutathione + Glutathionylaminopropylcadaverine <=> ADP + Orthophosphate + Homotrypanothione",
+    "equation": "C00002 + C00051 + C16566 <=> C00008 + C00009 + C16567",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.1.9"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism"
+    },
+    "orthologs": {
+      "K01833": "trypanothione synthetase/amidase [EC:6.3.1.9 3.5.1.-]"
+    }
+  }
+]

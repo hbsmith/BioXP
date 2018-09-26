@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03821",
+    "name": "trypanathione:NADP+ oxidoreductase",
+    "definition": "Trypanothione + NADP+ <=> Trypanothione disulfide + NADPH + H+",
+    "equation": "C02090 + C00006 <=> C03170 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.1.12"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K04283": "trypanothione-disulfide reductase [EC:1.8.1.12]"
+    }
+  }
+]

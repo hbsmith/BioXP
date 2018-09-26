@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08331",
+    "name": "acetyl-CoA:2-oxoadipate C-acetyltransferase (thioester-hydrolysing, carboxymethyl forming)",
+    "definition": "2-Oxoadipate + Acetyl-CoA + H2O <=> (R)-(Homo)2-citrate + CoA",
+    "equation": "C00322 + C00024 + C00001 <=> C16583 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.3.-"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+      "K10977": "methanogen homocitrate synthase [EC:2.3.3.14 2.3.3.-]"
+    }
+  }
+]

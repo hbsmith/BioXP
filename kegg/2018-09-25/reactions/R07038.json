@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07038",
+    "name": "Arachidonate: oxygen 12-oxidoreductase",
+    "definition": "Arachidonate + Oxygen <=> 12(R)-HPETE",
+    "equation": "C00219 + C00007 <=> C14812",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.-"
+    ],
+    "pathways": {
+      "rn00590": "Arachidonic acid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K08021": "arachidonate 12-lipoxygenase (R-type) [EC:1.13.11.-]"
+    }
+  }
+]

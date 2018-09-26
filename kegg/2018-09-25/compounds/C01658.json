@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C01658",
+    "name": "Acid amide",
+    "names": [
+      "Acid amide"
+    ],
+    "formula": "CHNOR2",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4807"
+      ],
+      "ChEBI": [
+        "2427"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   R   R    22.7500  -24.6400\n            2   C5a C    23.9624  -23.9400\n            3   N1b N    25.1749  -24.6400\n            4   R   R    26.3873  -23.9400\n            5   O5a O    23.9624  -22.5402\nBOND        4\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     2   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

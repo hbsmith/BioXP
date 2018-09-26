@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C08285",
+    "name": "10,16-Dihydroxyhexadecanoic acid",
+    "names": [
+      "10,16-Dihydroxyhexadecanoic acid",
+      "Hexadecanoic acid, 10,16-dihydroxy-"
+    ],
+    "formula": "C16H32O4",
+    "exact_mass": 288.2301,
+    "mol_weight": 288.4229,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09460"
+    ],
+    "pathways": {
+      "map00073": "Cutin, suberine and wax biosynthesis"
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "3233-90-7"
+      ],
+      "PubChem": [
+        "10483"
+      ],
+      "ChEBI": [
+        "692"
+      ],
+      "KNApSAcK": [
+        "C00007440"
+      ],
+      "3DMET": [
+        "B05260"
+      ],
+      "NIKKAJI": [
+        "J1.900.757J"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C1b C    27.2873  -17.3604\n            2   C1c C    28.5052  -18.0596\n            3   C1b C    26.0811  -18.0596\n            4   C1b C    29.7171  -17.3604\n            5   O1a O    28.5052  -19.4582\n            6   C1b C    24.8691  -17.3604\n            7   C1b C    30.9293  -18.0596\n            8   C1b C    23.6512  -18.0596\n            9   C1b C    32.1471  -17.3604\n            10  C1b C    22.4391  -17.3604\n            11  C1b C    33.3591  -18.0596\n            12  C1b C    21.2214  -18.0596\n            13  C1b C    34.5770  -17.3604\n            14  C1b C    20.0092  -17.3604\n            15  C1b C    35.7891  -18.0596\n            16  C1b C    18.7973  -18.0596\n            17  O1a O    36.9952  -17.3604\n            18  C6a C    17.5794  -17.3604\n            19  O6a O    16.3732  -18.0596\n            20  O6a O    17.5794  -15.9618\nBOND        19\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1\n            5     3   6 1\n            6     4   7 1\n            7     6   8 1\n            8     7   9 1\n            9     8  10 1\n            10    9  11 1\n            11   10  12 1\n            12   11  13 1\n            13   12  14 1\n            14   13  15 1\n            15   14  16 1\n            16   15  17 1\n            17   16  18 1\n            18   18  19 1\n            19   18  20 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

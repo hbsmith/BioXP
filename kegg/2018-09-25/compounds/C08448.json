@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C08448",
+    "name": "Eutypine",
+    "names": [
+      "Eutypine",
+      "4-Hydroxy-3-(3-methyl-3-butene-1-ynyl)benzaldehyde"
+    ],
+    "formula": "C12H10O2",
+    "exact_mass": 186.0681,
+    "mol_weight": 186.2066,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "121007-17-8"
+      ],
+      "PubChem": [
+        "10641"
+      ],
+      "ChEBI": [
+        "28756"
+      ],
+      "ChEMBL": [
+        "CHEMBL501128"
+      ],
+      "KNApSAcK": [
+        "C00001282"
+      ],
+      "NIKKAJI": [
+        "J391.841F"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    26.7400  -19.8800\n            2   C8x C    26.7400  -18.4800\n            3   C8y C    25.5500  -20.5800\n            4   C3b C    28.0000  -20.5800\n            5   C8y C    25.5500  -17.7800\n            6   C8x C    24.3600  -19.8800\n            7   O1a O    25.5500  -21.9800\n            8   C3b C    29.1900  -21.2800\n            9   C8x C    24.3600  -18.4800\n            10  C4a C    25.5500  -16.3800\n            11  C2c C    30.3800  -21.9800\n            12  O4a O    24.3600  -15.6800\n            13  C1a C    31.6400  -21.2800\n            14  C2a C    30.3800  -23.3800\nBOND        14\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 2\n            6     3   7 1\n            7     4   8 3\n            8     5   9 2\n            9     5  10 1\n            10    8  11 1\n            11   10  12 2\n            12   11  13 1\n            13   11  14 2\n            14    6   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

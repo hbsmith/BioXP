@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C19779",
+    "name": "beta-Alaninamide",
+    "names": [
+      "beta-Alaninamide",
+      "beta-Alanine amide",
+      "3-Aminopropionamide"
+    ],
+    "formula": "C3H8N2O",
+    "exact_mass": 88.0637,
+    "mol_weight": 88.1084,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09648"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.5.1.100"
+    ],
+    "dblinks": {
+      "CAS": [
+        "4726-85-6"
+      ],
+      "PubChem": [
+        "135626246"
+      ],
+      "ChEMBL": [
+        "CHEMBL1229081"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   N1a N    23.3100  -18.7600\n            2   C1b C    22.1200  -18.0600\n            3   C1b C    20.8600  -18.7600\n            4   C5a C    19.6700  -18.0600\n            5   N1a N    18.4800  -18.7600\n            6   O5a O    19.6700  -16.6600\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     4   6 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

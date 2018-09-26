@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03769",
+    "name": "GDP-mannose:heteroglycan 3-alpha-D-mannosyltransferase",
+    "definition": "GDP-mannose + Heteroglycan <=> GDP + 3-alpha-D-Mannosylheteroglycan",
+    "equation": "C00096 + C01923 <=> C00035 + C04098",
+    "comment": "also mannosylating at 2-position (see R03768)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.48"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

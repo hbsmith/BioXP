@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01761",
+    "name": "L-Arabinose aldose-ketose-isomerase",
+    "definition": "L-Arabinose <=> L-Ribulose",
+    "equation": "C00259 <=> C00508",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.1.4"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01804": "L-arabinose isomerase [EC:5.3.1.4]"
+    }
+  }
+]

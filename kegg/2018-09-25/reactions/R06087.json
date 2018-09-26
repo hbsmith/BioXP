@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06087",
+    "name": "",
+    "definition": "Sucrose + H2O <=> D-Fructose + D-Glucose",
+    "equation": "G00370 + C00001 <=> C00095 + C00031",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.20",
+      "3.2.1.48"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K01187": "alpha-glucosidase [EC:3.2.1.20]",
+      "K01203": "sucrase-isomaltase [EC:3.2.1.48 3.2.1.10]",
+      "K12047": "maltase-glucoamylase [EC:3.2.1.20 3.2.1.3]"
+    }
+  }
+]

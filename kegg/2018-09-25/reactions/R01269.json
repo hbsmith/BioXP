@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01269",
+    "name": "S-Adenosyl-L-methionine:nicotinamide N-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Nicotinamide + H+ <=> S-Adenosyl-L-homocysteine + 1-Methylnicotinamide",
+    "equation": "C00019 + C00153 + C00080 <=> C00021 + C02918",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.1"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00541": "nicotinamide N-methyltransferase [EC:2.1.1.1]"
+    }
+  }
+]

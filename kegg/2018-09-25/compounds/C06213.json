@@ -1,0 +1,58 @@
+[
+  {
+    "entry_id": "C06213",
+    "name": "N-Methyltryptamine",
+    "names": [
+      "N-Methyltryptamine",
+      "N-Methylindoleethylamine",
+      "1-Methyl-2-(3-indolyl)ethylamine"
+    ],
+    "formula": "C11H14N2",
+    "exact_mass": 174.1157,
+    "mol_weight": 174.2423,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02174"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism"
+    },
+    "enzymes": [
+      "2.1.1.49"
+    ],
+    "dblinks": {
+      "CAS": [
+        "61-49-4"
+      ],
+      "PubChem": [
+        "8460"
+      ],
+      "ChEBI": [
+        "28136"
+      ],
+      "ChEMBL": [
+        "CHEMBL348588"
+      ],
+      "KNApSAcK": [
+        "C00026521"
+      ],
+      "PDB-CCD": [
+        "1HU"
+      ],
+      "3DMET": [
+        "B00925"
+      ],
+      "NIKKAJI": [
+        "J213.548E"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    20.5300  -16.3367\n            2   C8x C    20.5300  -17.7388\n            3   C8x C    21.7442  -18.4399\n            4   C8y C    22.9585  -17.7388\n            5   C8y C    22.9585  -16.3367\n            6   C8x C    21.7442  -15.6357\n            7   C8y C    24.2920  -18.1721\n            8   C8x C    25.1162  -17.0378\n            9   N4x N    24.2920  -15.9035\n            10  C1b C    24.7329  -19.5281\n            11  C1b C    26.0808  -19.8145\n            12  N1b N    26.5149  -21.1502\n            13  C1a C    27.8966  -21.4438\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    5   9 1\n            11    7  10 1\n            12   10  11 1\n            13   11  12 1\n            14   12  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

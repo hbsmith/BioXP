@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R05282",
+    "name": "4-Methylbenzyl alcohol:NAD+ oxidoreductase",
+    "definition": "4-Methylbenzyl alcohol + NAD+ <=> p-Tolualdehyde + NADH + H+",
+    "equation": "C06757 + C00003 <=> C06758 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.90"
+    ],
+    "pathways": {
+      "rn00622": "Xylene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K00055": "aryl-alcohol dehydrogenase [EC:1.1.1.90]"
+    }
+  }
+]

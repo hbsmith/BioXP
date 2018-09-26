@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R01540",
+    "name": "D-altronate hydro-lyase (2-dehydro-3-deoxy-D-gluconate-forming)",
+    "definition": "D-Altronate <=> 2-Dehydro-3-deoxy-D-gluconate + H2O",
+    "equation": "C00817 <=> C00204 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.7"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01685": "altronate hydrolase [EC:4.2.1.7]",
+      "K16849": "altronate dehydratase small subunit [EC:4.2.1.7]",
+      "K16850": "altronate dehydratase large subunit [EC:4.2.1.7]"
+    }
+  }
+]

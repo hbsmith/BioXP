@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04773",
+    "name": "Selenomethionine:tRNAMet ligase (AMP-forming)",
+    "definition": "ATP + L-Selenomethionine + tRNA(Met) <=> AMP + Diphosphate + Selenomethionyl-tRNA(Met)",
+    "equation": "C00002 + C05335 + C01647 <=> C00020 + C00013 + C05336",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.1.1.10"
+    ],
+    "pathways": {
+      "rn00450": "Selenocompound metabolism"
+    },
+    "orthologs": {
+      "K01874": "methionyl-tRNA synthetase [EC:6.1.1.10]"
+    }
+  }
+]

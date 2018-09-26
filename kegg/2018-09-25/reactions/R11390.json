@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11390",
+    "name": "",
+    "definition": "3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoate + CoA <=> 3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoyl-CoA",
+    "equation": "C21323 + C00010 <=> C21324",
+    "comment": "proposed pathway incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21225": "acyl-CoA synthetase"
+    }
+  }
+]

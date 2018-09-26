@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R05456",
+    "name": "4-keto-anhydrotetracycline:FADH2 oxidoreductase (7-halogenating)",
+    "definition": "4-Keto-anhydrotetracycline + FADH2 + Cl- + Oxygen + H+ <=> 4-Ketoanhydrochlortetracycline + FAD + 2 H2O",
+    "equation": "C06627 + C01352 + C00698 + C00007 + C00080 <=> C06626 + C00016 + 2 C00001",
+    "comment": "chl gene",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.-"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K14257": "tetracycline 7-halogenase / FADH2 O2-dependent halogenase [EC:1.14.19.49 1.14.19.-]"
+    }
+  }
+]

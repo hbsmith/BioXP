@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R07830",
+    "name": "(2E,6E)-farnesyl-diphosphate diphosphate-lyase [(+)-epi-isozizaene-forming]",
+    "definition": "trans,trans-Farnesyl diphosphate <=> (+)-epi-Isozizaene + Diphosphate",
+    "equation": "C00448 <=> C16269 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.37"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K10156": "epi-isozizaene synthase [EC:4.2.3.37]"
+    }
+  }
+]

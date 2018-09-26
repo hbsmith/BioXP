@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01117",
+    "name": "CTP:N-acetylneuraminate cytidylyltransferase",
+    "definition": "CTP + N-Acetylneuraminate <=> Diphosphate + CMP-N-acetylneuraminate",
+    "equation": "C00063 + C00270 <=> C00013 + C00128",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.43"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00983": "N-acylneuraminate cytidylyltransferase [EC:2.7.7.43]",
+      "K21749": "N-acylneuraminate/3-deoxy-D-glycero-D-galacto-nononate cytidylyltransferase [EC:2.7.7.43 2.7.7.92]"
+    }
+  }
+]

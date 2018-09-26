@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C10760",
+    "name": "Caulophylline",
+    "names": [
+      "Caulophylline",
+      "N-Methylcytisine"
+    ],
+    "formula": "C12H16N2O",
+    "exact_mass": 204.1263,
+    "mol_weight": 204.2682,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "486-86-2"
+      ],
+      "PubChem": [
+        "12943"
+      ],
+      "ChEBI": [
+        "3474"
+      ],
+      "ChEMBL": [
+        "CHEMBL66191"
+      ],
+      "KNApSAcK": [
+        "C00002216"
+      ],
+      "3DMET": [
+        "B05479"
+      ],
+      "NIKKAJI": [
+        "J9.380G"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8x C    23.0109  -16.6880\n            2   C8x C    23.0109  -18.0876\n            3   C8y C    24.2259  -18.7873\n            4   C8x C    24.2259  -15.9882\n            5   C8y C    25.4338  -16.6880\n            6   N4y N    25.4278  -18.0876\n            7   C1x C    26.6369  -18.7924\n            8   C1y C    27.8519  -18.0979\n            9   C1x C    27.8580  -16.6983\n            10  C1y C    26.6489  -15.9935\n            11  C1x C    27.8529  -15.2813\n            12  N1y N    29.0687  -15.9670\n            13  C1x C    29.0545  -17.3878\n            14  O5x O    24.2126  -20.1869\n            15  C1a C    30.2775  -15.2601\nBOND        17\n            1     4   1 1\n            2     5   6 1\n            3     6   7 1\n            4     7   8 1\n            5     8   9 1 #Down\n            6    10   9 1 #Down\n            7    10   5 1\n            8    10  11 1\n            9     8  13 1\n            10   11  12 1\n            11    1   2 2\n            12    2   3 1\n            13   12  13 1\n            14    3   6 1\n            15    3  14 2\n            16    5   4 2\n            17   12  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

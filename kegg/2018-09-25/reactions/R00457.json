@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00457",
+    "name": "L-Lysine:2-oxoglutarate 6-aminotransferase",
+    "definition": "L-Lysine + 2-Oxoglutarate <=> L-2-Aminoadipate 6-semialdehyde + L-Glutamate",
+    "equation": "C00047 + C00026 <=> C04076 + C00025",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.36"
+    ],
+    "pathways": {
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03918": "L-lysine 6-transaminase [EC:2.6.1.36]"
+    }
+  }
+]

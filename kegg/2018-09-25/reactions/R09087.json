@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R09087",
+    "name": "ATP:1D-myo-inositol-hexakisphosphate 5-phosphotransferase",
+    "definition": "ATP + Phytic acid <=> ADP + 5-PP-InsP5",
+    "equation": "C00002 + C01204 <=> C00008 + C11526",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.21"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K07756": "inositol-hexakisphosphate 5-kinase [EC:2.7.4.21]"
+    }
+  }
+]

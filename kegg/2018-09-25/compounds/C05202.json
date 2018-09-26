@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C05202",
+    "name": "3'-Hydroxy-N-methyl-(S)-coclaurine",
+    "names": [
+      "3'-Hydroxy-N-methyl-(S)-coclaurine",
+      "(S)-3'-Hydroxy-N-methylcoclaurine"
+    ],
+    "formula": "C18H21NO4",
+    "exact_mass": 315.1471,
+    "mol_weight": 315.3636,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03832",
+      "R04693",
+      "R05732",
+      "R08794"
+    ],
+    "pathways": {
+      "map00950": "Isoquinoline alkaloid biosynthesis",
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.13.71",
+      "1.14.18.1",
+      "2.1.1.115",
+      "2.1.1.116"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7607"
+      ],
+      "ChEBI": [
+        "17079"
+      ],
+      "3DMET": [
+        "B01827"
+      ],
+      "NIKKAJI": [
+        "J351.145F"
+      ]
+    },
+    "kcf": "ATOM        23\n            1   C8y C    27.0948  -22.6553\n            2   C1y C    28.3008  -21.9562\n            3   C8y C    27.0890  -24.0536\n            4   C8x C    25.8830  -21.9503\n            5   C1b C    28.3065  -20.5520\n            6   N1y N    29.5125  -22.6611\n            7   C8x C    25.8830  -24.7528\n            8   C1x C    28.2891  -24.7585\n            9   C8y C    24.6654  -22.6553\n            10  C8y C    27.1064  -19.8530\n            11  C1x C    29.5068  -24.0653\n            12  C1a C    30.7302  -21.9619\n            13  C8y C    24.6654  -24.0536\n            14  O1a O    23.4534  -21.9503\n            15  C8x C    27.1005  -18.4488\n            16  C8x C    25.9004  -20.5520\n            17  O2a O    23.4534  -24.7528\n            18  C8y C    25.8830  -17.7497\n            19  C8x C    24.6828  -19.8645\n            20  C1a C    22.2358  -24.0536\n            21  C8y C    24.6770  -18.4605\n            22  O1a O    25.8771  -16.3573\n            23  O1a O    23.4594  -17.7614\nBOND        25\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1 #Down\n            5     2   6 1\n            6     3   7 2\n            7     3   8 1\n            8     4   9 1\n            9     5  10 1\n            10    6  11 1\n            11    6  12 1\n            12    7  13 1\n            13    9  14 1\n            14   10  15 1\n            15   10  16 2\n            16   13  17 1\n            17   15  18 2\n            18   16  19 1\n            19   17  20 1\n            20   18  21 1\n            21   18  22 1\n            22   21  23 1\n            23    8  11 1\n            24    9  13 2\n            25   19  21 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

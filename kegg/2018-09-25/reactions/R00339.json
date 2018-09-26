@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00339",
+    "name": "(R,R)-tartrate hydro-lyase (oxaloacetate-forming)",
+    "definition": "(R,R)-Tartaric acid <=> Oxaloacetate + H2O",
+    "equation": "C00898 <=> C00036 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.32"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism"
+    },
+    "orthologs": {
+      "K03779": "L(+)-tartrate dehydratase alpha subunit [EC:4.2.1.32]",
+      "K03780": "L(+)-tartrate dehydratase beta subunit [EC:4.2.1.32]"
+    }
+  }
+]

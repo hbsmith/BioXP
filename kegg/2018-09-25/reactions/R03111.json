@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03111",
+    "name": "S-adenosyl-L-methionine:sterigmatocystin 8-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Sterigmatocystin <=> S-Adenosyl-L-homocysteine + O-Methylsterigmatocystin",
+    "equation": "C00019 + C00961 <=> C00021 + C03686",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.110"
+    ],
+    "pathways": {
+      "rn00254": "Aflatoxin biosynthesis"
+    },
+    "orthologs": {
+      "K17650": "sterigmatocystin 8-O-methyltransferase [EC:2.1.1.110]"
+    }
+  }
+]

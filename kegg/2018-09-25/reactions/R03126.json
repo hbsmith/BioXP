@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03126",
+    "name": "dihydroflavonol,2-oxoglutarate:oxygen oxidoreductase",
+    "definition": "Dihydrokaempferol + 2-Oxoglutarate + Oxygen <=> Kaempferol + Succinate + CO2 + H2O",
+    "equation": "C00974 + C00026 + C00007 <=> C05903 + C00042 + C00011 + C00001",
+    "comment": "Dihydrokaempferol dioxygenase flavonol synthase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.23"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K05278": "flavonol synthase [EC:1.14.11.23]"
+    }
+  }
+]

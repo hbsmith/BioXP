@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R01267",
+    "name": "L-asparagine hydro-lyase (3-cyanoalanine-forming)",
+    "definition": "L-Asparagine <=> 3-Cyano-L-alanine + H2O",
+    "equation": "C00152 <=> C02512 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.5.4",
+      "4.2.1.65"
+    ],
+    "pathways": {
+      "rn00460": "Cyanoamino acid metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13035": "beta-cyano-L-alanine hydratase/nitrilase [EC:3.5.5.4 4.2.1.65]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10408",
+    "name": "D-glucosaminate-6-phosphate ammonia-lyase; 2-amino-2-deoxy-D-gluconate 6-phosphate ammonia-lyase (2-dehydro-3-deoxy-6-phospho-D-gluconate-forming)",
+    "definition": "D-Glucosaminate-6-phosphate <=> 2-Dehydro-3-deoxy-6-phospho-D-gluconate + Ammonia",
+    "equation": "C20589 <=> C04442 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.3.1.29"
+    ],
+    "pathways": {
+      "rn00030": "Pentose phosphate pathway",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K17468": "D-glucosaminate-6-phosphate ammonia-lyase [EC:4.3.1.29]"
+    }
+  }
+]

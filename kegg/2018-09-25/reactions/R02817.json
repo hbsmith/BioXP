@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02817",
+    "name": "serine-phosphoethanolamine ethanolaminephosphohydrolase",
+    "definition": "L-Serine-phosphoethanolamine + H2O <=> L-Serine + Ethanolamine phosphate",
+    "equation": "C03872 + C00001 <=> C00065 + C00346",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.4.13"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

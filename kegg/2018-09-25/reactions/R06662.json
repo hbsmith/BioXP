@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06662",
+    "name": "",
+    "definition": "104-2 + dTDP-beta-L-rhodinose + dTDP-D-olivose <=> 124-1 + 2 dTDP",
+    "equation": "C12407 + C12447 + C11923 <=> C12409 + 2 C00363",
+    "comment": "multi-step reaction glycosyltransferase, UrdGT1c+UrdGT1b",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15938": "glycosyltransferase",
+      "K15939": "glycosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

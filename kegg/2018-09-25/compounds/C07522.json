@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C07522",
+    "name": "Etomidate",
+    "names": [
+      "Etomidate",
+      "1-(1-Phenylethyl)-imidazole-5-carboxylic acid, ethyl ester"
+    ],
+    "formula": "C14H16N2O2",
+    "exact_mass": 244.1212,
+    "mol_weight": 244.289,
+    "remark": "Same as: D00548",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "33125-97-2"
+      ],
+      "PubChem": [
+        "9725"
+      ],
+      "ChEBI": [
+        "4910"
+      ],
+      "ChEMBL": [
+        "CHEMBL681"
+      ],
+      "NIKKAJI": [
+        "J17.549H"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   N4y N    18.6257  -16.4148\n            2   C8y C    19.9646  -16.0098\n            3   C1c C    17.3975  -15.7072\n            4   C8x C    18.6034  -17.8220\n            5   C8x C    20.7542  -17.1565\n            6   C8y C    16.1867  -16.4148\n            7   C1a C    17.3975  -14.3091\n            8   N5x N    19.9266  -18.2742\n            9   C8x C    14.9760  -15.7072\n            10  C8x C    16.1867  -17.8069\n            11  C8x C    13.7594  -16.4148\n            12  C8x C    14.9760  -18.5087\n            13  C8x C    13.7654  -17.8186\n            14  C7a C    19.9646  -14.6102\n            15  O7a O    21.1523  -13.9246\n            16  O6a O    18.7443  -13.9054\n            17  C1b C    22.3512  -14.6170\n            18  C1a C    23.5365  -13.9327\nBOND        19\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 2\n            5     3   6 1\n            6     3   7 1 #Up\n            7     4   8 2\n            8     6   9 2\n            9     6  10 1\n            10    9  11 1\n            11   10  12 2\n            12   11  13 2\n            13    5   8 1\n            14   12  13 1\n            15    2  14 1\n            16   14  15 1\n            17   14  16 2\n            18   15  17 1\n            19   17  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

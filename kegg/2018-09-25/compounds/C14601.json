@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C14601",
+    "name": "Methyl methoxyacetate",
+    "names": [
+      "Methyl methoxyacetate"
+    ],
+    "formula": "C4H8O3",
+    "exact_mass": 104.0473,
+    "mol_weight": 104.1045,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "6290-49-9"
+      ],
+      "PubChem": [
+        "17395601"
+      ],
+      "ChEBI": [
+        "34841"
+      ],
+      "NIKKAJI": [
+        "J39.927B"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   O7a O    15.8200  -16.7300\n            2   C7a C    17.0324  -17.4300\n            3   C1a C    14.6076  -17.4300\n            4   C1b C    18.2279  -16.7396\n            5   O6a O    17.0325  -18.8298\n            6   O2a O    19.4153  -17.4251\n            7   C1a C    20.6065  -16.7371\nBOND        6\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 2\n            5     4   6 1\n            6     6   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

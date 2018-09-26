@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03703",
+    "name": "Raucaffricine beta-D-glucohydrolase",
+    "definition": "Raucaffricine + H2O <=> Vomilenine + D-Glucose",
+    "equation": "C02074 + C00001 <=> C01761 + C00031",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.125"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis"
+    },
+    "orthologs": {
+      "K12695": "raucaffricine beta-D-glucosidase / vomilenine glucosyltransferase [EC:3.2.1.125 2.4.1.219]"
+    }
+  }
+]

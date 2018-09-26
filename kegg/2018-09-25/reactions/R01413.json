@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01413",
+    "name": "thymine:acceptor oxidoreductase",
+    "definition": "Thymine + Acceptor + H2O <=> 5-Methylbarbiturate + Reduced acceptor",
+    "equation": "C00178 + C00028 + C00001 <=> C05281 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.17.99.4"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

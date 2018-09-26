@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07452",
+    "name": "Campest-4-en-3-one,NADPH:brassinosteroid C22alpha-hydroxylase",
+    "definition": "Campest-4-en-3-one + Oxygen + NADPH <=> 22alpha-Hydroxy-campest-4-en-3-one + NADP+ + H2O",
+    "equation": "C15785 + C00007 + C00005 <=> C15796 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00905": "Brassinosteroid biosynthesis"
+    },
+    "orthologs": {
+      "K09587": "steroid 22-alpha-hydroxylase [EC:1.14.13.-]"
+    }
+  }
+]

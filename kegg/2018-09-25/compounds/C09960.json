@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C09960",
+    "name": "Gentianaine",
+    "names": [
+      "Gentianaine"
+    ],
+    "formula": "C6H7NO3",
+    "exact_mass": 141.0426,
+    "mol_weight": 141.1247,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "58213-76-6"
+      ],
+      "PubChem": [
+        "12146"
+      ],
+      "ChEBI": [
+        "5315"
+      ],
+      "KNApSAcK": [
+        "C00001975"
+      ],
+      "3DMET": [
+        "B03414"
+      ],
+      "NIKKAJI": [
+        "J82.222A"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C2y C    28.0118  -19.8791\n            2   C5x C    29.2287  -19.1805\n            3   C7x C    26.8009  -19.1805\n            4   C2b C    28.0235  -21.2823\n            5   C1x C    29.2287  -17.7831\n            6   O5x O    30.4456  -19.8732\n            7   O7x O    26.8009  -17.7831\n            8   O6a O    25.5956  -19.8791\n            9   N1a N    29.2404  -21.9750\n            10  C1x C    28.0118  -17.0785\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     3   8 2\n            8     4   9 1\n            9     5  10 1\n            10    7  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

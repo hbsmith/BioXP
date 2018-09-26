@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01520",
+    "name": "beta-D-Glucose:NAD+ 1-oxoreductase",
+    "definition": "beta-D-Glucose + NAD+ <=> D-Glucono-1,5-lactone + NADH + H+",
+    "equation": "C00221 + C00003 <=> C00198 + C00004 + C00080",
+    "comment": "NADP+ (see R01521)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.47"
+    ],
+    "pathways": {
+      "rn00030": "Pentose phosphate pathway",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K00034": "glucose 1-dehydrogenase [EC:1.1.1.47]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06978",
+    "name": "acetyl-CoA:L-2,4-diaminobutanoate N4-acetyltransferase",
+    "definition": "L-2,4-Diaminobutanoate + Acetyl-CoA <=> N(gamma)-Acetyldiaminobutyrate + CoA",
+    "equation": "C03283 + C00024 <=> C06442 + C00010",
+    "comment": "Ectoine biosynthesis reaction step2, EctA",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.178"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K06718": "L-2,4-diaminobutyric acid acetyltransferase [EC:2.3.1.178]"
+    }
+  }
+]

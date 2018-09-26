@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07061",
+    "name": "linoleate:oxygen (8R)-oxidoreductase",
+    "definition": "Linoleate + Oxygen <=> 8(R)-HPODE",
+    "equation": "C01595 + C00007 <=> C14831",
+    "comment": "sequential reaction (see R07062)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.60"
+    ],
+    "pathways": {
+      "rn00591": "Linoleic acid metabolism"
+    },
+    "orthologs": {
+      "K17863": "linoleate 8R-lipoxygenase / 9,12-octadecadienoate 8-hydroperoxide 8R-isomerase [EC:1.13.11.60 5.4.4.5]",
+      "K17864": "linoleate 8R-lipoxygenase / 9,12-octadecadienoate 8-hydroperoxide 8S-isomerase [EC:1.13.11.60 5.4.4.6]"
+    }
+  }
+]

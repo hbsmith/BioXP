@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08124",
+    "name": "ATP:D-fructosyl-L-lysine 6-phosphotransferase",
+    "definition": "Fructoselysine + ATP <=> Fructoselysine 6-phosphate + ADP",
+    "equation": "C16488 + C00002 <=> C16489 + C00008",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.218"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K10710": "fructoselysine 6-kinase [EC:2.7.1.-]"
+    }
+  }
+]

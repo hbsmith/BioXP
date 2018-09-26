@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R05624",
+    "name": "2,6-beta-D-Fructan fructanohydrolase",
+    "definition": "H2O + Levan(m+n) <=> Levan(m) + Levan(n)",
+    "equation": "C00001 + C06215(m+n) <=> C06215(m) + C06215(n)",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.65"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K01212": "levanase [EC:3.2.1.65]"
+    }
+  }
+]

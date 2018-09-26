@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C18253",
+    "name": "Phenanthrene-4-carboxylate",
+    "names": [
+      "Phenanthrene-4-carboxylate",
+      "4-Phenanthroic acid"
+    ],
+    "formula": "C15H10O2",
+    "exact_mass": 222.0681,
+    "mol_weight": 222.2387,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09164",
+      "R09165"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.12.-",
+      "4.1.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "42156-92-3"
+      ],
+      "PubChem": [
+        "103061435"
+      ],
+      "ChEBI": [
+        "81604"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C8x C    23.5163  -18.6284\n            2   C8x C    23.5163  -20.0448\n            3   C8x C    24.7429  -20.7530\n            4   C8x C    25.9696  -20.0448\n            5   C8y C    25.9696  -18.6284\n            6   C8y C    24.7429  -17.9202\n            7   C8y C    27.1962  -17.9202\n            8   C8y C    27.1962  -16.5038\n            9   C8x C    25.9696  -15.7956\n            10  C8x C    24.7429  -16.5038\n            11  C8y C    28.4228  -18.6284\n            12  C8x C    29.6495  -17.9202\n            13  C8x C    29.6495  -16.5038\n            14  C8x C    28.4228  -15.7956\n            15  C6a C    28.4328  -19.8417\n            16  O6a O    29.6734  -20.5445\n            17  O6a O    27.3815  -20.5433\nBOND        19\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     5   7 2\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    6  10 2\n            12    7  11 1\n            13   11  12 2\n            14   12  13 1\n            15   13  14 2\n            16    8  14 1\n            17   11  15 1\n            18   15  16 2\n            19   15  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

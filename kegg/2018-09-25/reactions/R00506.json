@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00506",
+    "name": "UDP-alpha-D-galactose:galactan beta-1,4-D-galactosyltransferase",
+    "definition": "UDP-alpha-D-galactose + Galactan <=> Galactan + UDP",
+    "equation": "C00052 + C05796 <=> C05796 + C00015",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

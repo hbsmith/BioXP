@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C06721",
+    "name": "cis-1,2-Dihydroxy-1,2-dihydrodibenzothiophene",
+    "names": [
+      "cis-1,2-Dihydroxy-1,2-dihydrodibenzothiophene"
+    ],
+    "formula": "C12H10O2S",
+    "exact_mass": 218.0402,
+    "mol_weight": 218.2716,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05310"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.3.1.60"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8944"
+      ],
+      "ChEBI": [
+        "16941"
+      ],
+      "NIKKAJI": [
+        "J2.763.685C"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8y C    28.6127  -16.9809\n            2   C8y C    29.9131  -17.4474\n            3   C8y C    28.6301  -15.5520\n            4   C1y C    27.4288  -17.6748\n            5   C8y C    30.7354  -16.3161\n            6   C8x C    30.4497  -18.7713\n            7   S2x S    29.9423  -15.1379\n            8   C2x C    27.4404  -14.8171\n            9   C1y C    26.2506  -16.9342\n            10  O1a O    27.4345  -19.1095\n            11  C8x C    32.1001  -16.5026\n            12  C8x C    31.8144  -18.9578\n            13  C2x C    26.2565  -15.5053\n            14  O1a O    25.0493  -17.6341\n            15  C8x C    32.6367  -17.8149\nBOND        17\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     3   8 1\n            8     4   9 1\n            9     4  10 1 #Down\n            10    5  11 1\n            11    6  12 2\n            12    8  13 2\n            13    9  14 1 #Down\n            14   11  15 2\n            15    5   7 1\n            16    9  13 1\n            17   12  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

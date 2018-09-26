@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08854",
+    "name": "(5R)-albaflavenol,NADPH:oxygen 5-oxidoreductase",
+    "definition": "(5R)-Albaflavenol + NADPH + H+ + Oxygen <=> Albaflavenone + 2 H2O + NADP+",
+    "equation": "C17955 + C00005 + C00080 + C00007 <=> C17954 + 2 C00001 + C00006",
+    "comment": "second step of two-step reaction (see R10072, R08853+R08854) (S)-form (see R08851+R08852)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.106"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12645": "epi-isozizaene 5-monooxygenase / beta-farnesene synthase [EC:1.14.13.106 4.2.3.47]"
+    }
+  }
+]

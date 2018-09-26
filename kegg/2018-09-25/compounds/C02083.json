@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C02083",
+    "name": "Styrene oxide",
+    "names": [
+      "Styrene oxide",
+      "Styrene-7,8-oxide"
+    ],
+    "formula": "C8H8O",
+    "exact_mass": 120.0575,
+    "mol_weight": 120.1485,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02615"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "5.3.99.7"
+    ],
+    "dblinks": {
+      "CAS": [
+        "96-09-3"
+      ],
+      "PubChem": [
+        "5168"
+      ],
+      "ChEBI": [
+        "17907"
+      ],
+      "ChEMBL": [
+        "CHEMBL1605493"
+      ],
+      "NIKKAJI": [
+        "J5.159D"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1y C    28.8337  -15.4868\n            2   C8y C    28.8400  -16.8753\n            3   C1x C    29.5247  -14.2775\n            4   O2x O    28.1362  -14.2775\n            5   C8x C    27.6307  -17.5727\n            6   C8x C    30.0621  -17.5727\n            7   C8x C    27.6307  -18.9803\n            8   C8x C    30.0621  -18.9803\n            9   C8x C    28.8400  -19.6906\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     5   7 1\n            7     6   8 2\n            8     7   9 2\n            9     3   4 1\n            10    8   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

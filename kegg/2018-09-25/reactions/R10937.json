@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10937",
+    "name": "alpha-D-sedoheptulopyranose-7-phosphate phosphate-lyase (cyclizing, 2-epi-5-epi-valiolone-forming)",
+    "definition": "alpha-D-Sedoheptulopyranose 7-phosphate <=> 2-epi-5-epi-Valiolone + Orthophosphate",
+    "equation": "C20956 <=> C17691 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.152"
+    ],
+    "pathways": {
+      "rn00525": "Acarbose and validamycin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19969": "2-epi-5-epi-valiolone synthase [EC:4.2.3.152]"
+    }
+  }
+]

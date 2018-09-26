@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11545",
+    "name": "S-adenosyl-L-methionine:(-)-5'-demethylyatein 5'-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + (-)-5'-Demethylyatein <=> S-Adenosyl-L-homocysteine + Dihydroanhydropodorhizol",
+    "equation": "C00019 + C21184 <=> C00021 + C10557",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.330"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K21204": "5'-demethylyatein 5'-O-methyltransferase [EC:2.1.1.330]"
+    }
+  }
+]

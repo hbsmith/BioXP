@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11462",
+    "name": "4-methylpentanoyl-CoA:(R)-2-hydroxy-4-methylpentanoate CoA-transferase",
+    "definition": "Isocaproyl-CoA + (R)-2-Hydroxyisocaproate <=> Isocaproate + (R)-2-Hydroxyisocaproyl-CoA",
+    "equation": "C21400 + C03264 <=> C21399 + C21089",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.24"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K20882": "(R)-2-hydroxy-4-methylpentanoate CoA-transferase [EC:2.8.3.24]"
+    }
+  }
+]

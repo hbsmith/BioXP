@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C13714",
+    "name": "alpha-EMGBL",
+    "names": [
+      "alpha-EMGBL",
+      "2-Ethyl-2-methyl-4-butyrolactone"
+    ],
+    "formula": "C7H12O2",
+    "exact_mass": 128.0837,
+    "mol_weight": 128.169,
+    "remark": "",
+    "comment": "beta-EMGBL [CPD:C13717]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "31004-76-9"
+      ],
+      "PubChem": [
+        "586303"
+      ],
+      "ChEBI": [
+        "35057"
+      ],
+      "ChEMBL": [
+        "CHEMBL285171"
+      ],
+      "NIKKAJI": [
+        "J345.134H"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1x C    27.6715  -21.3483\n            2   C1z C    28.1071  -20.0181\n            3   C7x C    26.9717  -19.1925\n            4   O7x O    25.8365  -20.0181\n            5   C1x C    26.2719  -21.3483\n            6   C1b C    28.7955  -18.7965\n            7   C1a C    30.1949  -18.8519\n            8   O6a O    26.9717  -17.7929\n            9   C1a C    29.3724  -20.7919\nBOND        9\n            1     4   5 1\n            2     5   1 1\n            3     2   6 1\n            4     1   2 1\n            5     6   7 1\n            6     2   3 1\n            7     3   8 2\n            8     3   4 1\n            9     2   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

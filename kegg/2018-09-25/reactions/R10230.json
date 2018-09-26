@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10230",
+    "name": "hydroxylamine:oxygen oxidoreductase",
+    "definition": "Hydroxylamine + Oxygen <=> Nitrite + H2O + H+",
+    "equation": "C00192 + C00007 <=> C00088 + C00001 + C00080",
+    "comment": "two-step reaction (see R10913+R10914)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.3.6"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

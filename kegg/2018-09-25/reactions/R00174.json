@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00174",
+    "name": "ATP:pyridoxal 5'-phosphotransferase",
+    "definition": "ATP + Pyridoxal <=> ADP + Pyridoxal phosphate",
+    "equation": "C00002 + C00250 <=> C00008 + C00018",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.35"
+    ],
+    "pathways": {
+      "rn00750": "Vitamin B6 metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00868": "pyridoxine kinase [EC:2.7.1.35]"
+    }
+  }
+]

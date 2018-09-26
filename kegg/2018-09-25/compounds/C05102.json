@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C05102",
+    "name": "alpha-Hydroxy fatty acid",
+    "names": [
+      "alpha-Hydroxy fatty acid",
+      "2-Hydroxy fatty acid"
+    ],
+    "formula": "C2H3O3R(CH2)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R04121",
+      "R09740"
+    ],
+    "pathways": {
+      "map00071": "Fatty acid degradation"
+    },
+    "enzymes": [
+      "1.11.2.4",
+      "1.14.14.1"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7530"
+      ],
+      "ChEBI": [
+        "10283"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   R   R    16.7300  -20.7900\n            2   C1b C    18.3624  -21.4900\n            3   C1c C    19.7149  -20.7900\n            4   C6a C    20.9273  -21.4900\n            5   O6a O    22.1397  -20.7900\n            6   O6a O    20.9273  -22.8900\n            7   O1a O    19.7149  -19.3902\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     4   6 2\n            6     3   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

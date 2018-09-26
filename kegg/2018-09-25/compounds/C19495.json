@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C19495",
+    "name": "Penicillic acid",
+    "names": [
+      "Penicillic acid",
+      "3-Methoxy-5-methyl-4-oxo-2,5-hexadienoic acid"
+    ],
+    "formula": "C8H10O4",
+    "exact_mass": 170.0579,
+    "mol_weight": 170.1626,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "90-65-3"
+      ],
+      "PubChem": [
+        "124490167"
+      ],
+      "ChEBI": [
+        "53395"
+      ],
+      "KNApSAcK": [
+        "C00024006"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1a C    18.6424  -17.9900\n            2   O2a O    19.8549  -18.6900\n            3   C2c C    21.0673  -17.9900\n            4   C5a C    22.2797  -18.6900\n            5   C2b C    21.0673  -16.5900\n            6   C6a C    22.2824  -15.8900\n            7   O6a O    23.4949  -16.5900\n            8   O6a O    22.2824  -14.4900\n            9   C2c C    22.2797  -20.0900\n            10  C2a C    21.0526  -20.7986\n            11  C1a C    23.4773  -20.7815\n            12  O5a O    23.4773  -17.9985\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 2\n            5     5   6 1\n            6     6   7 1\n            7     6   8 2\n            8     4   9 1\n            9     9  10 2\n            10    9  11 1\n            11    4  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07260",
+    "name": "UDP-glucose:cis-zeatin O-beta-D-glucosyltransferase",
+    "definition": "UDP-glucose + cis-Zeatin <=> UDP + O-beta-D-Glucopyranosyl-cis-zeatin",
+    "equation": "C00029 + C15545 <=> C00015 + C15546",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.215"
+    ],
+    "pathways": {
+      "rn00908": "Zeatin biosynthesis"
+    },
+    "orthologs": {
+      "K13495": "cis-zeatin O-glucosyltransferase [EC:2.4.1.215]"
+    }
+  }
+]

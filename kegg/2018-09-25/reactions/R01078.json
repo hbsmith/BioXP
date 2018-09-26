@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01078",
+    "name": "dethiobiotin:sulfur sulfurtransferase",
+    "definition": "Dethiobiotin + Sulfur donor + 2 S-Adenosyl-L-methionine + 2 e- + 2 H+ <=> Biotin + 2 L-Methionine + 2 5'-Deoxyadenosine",
+    "equation": "C01909 + C17023 + 2 C00019 + 2 C05359 + 2 C00080 <=> C00120 + 2 C00073 + 2 C05198",
+    "comment": "the reactant sulfur is not elemental sulfur, but it may be from the enzyme itself ([2Fe-2S] iron-sulfur centre) multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.1.6"
+    ],
+    "pathways": {
+      "rn00780": "Biotin metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01012": "biotin synthase [EC:2.8.1.6]"
+    }
+  }
+]

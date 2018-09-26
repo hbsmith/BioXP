@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05140",
+    "name": "sucrose:2,6-beta-D-fructan 6-beta-D-fructosyltransferase",
+    "definition": "D-Glucose + Levan <=> Sucrose + Levan",
+    "equation": "C00031 + C06215 <=> C00089 + C06215",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.10"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00692": "levansucrase [EC:2.4.1.10]"
+    }
+  }
+]

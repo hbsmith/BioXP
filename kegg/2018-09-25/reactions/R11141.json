@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11141",
+    "name": "pyruvate:(E)-oct-2-enal acetaldehydetransferase (decarboxylating)",
+    "definition": "Pyruvate + trans-2-Octenal <=> (S)-3-Acetyloctanal + CO2",
+    "equation": "C00022 + C21138 <=> C21139 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.2.1.12"
+    ],
+    "pathways": {
+      "rn00333": "Prodigiosin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21428": "3-acetyloctanal synthase [EC:2.2.1.12]"
+    }
+  }
+]

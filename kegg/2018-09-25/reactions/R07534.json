@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07534",
+    "name": "1-hydroxy-1,2-dihydrolycopene:acceptor oxidoreductase",
+    "definition": "Chloroxanthin <=> Demethylspheroidene",
+    "equation": "C15892 <=> C15898",
+    "comment": "methoxyneurosporene dehydrogenase(crtD)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.99.27"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K09845": "1-hydroxycarotenoid 3,4-desaturase [EC:1.3.99.27]"
+    }
+  }
+]

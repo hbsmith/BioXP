@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09820",
+    "name": "3-oxo-5,6-dehydrosuberyl-CoA semialdehyde:NADP+ oxidoreductase",
+    "definition": "3-Oxo-5,6-dehydrosuberyl-CoA semialdehyde + NADP+ + H2O <=> 3-Oxo-5,6-dehydrosuberyl-CoA + NADPH + H+",
+    "equation": "C19946 + C00006 + C00001 <=> C19945 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.91"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K02618": "oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase [EC:3.3.2.12 1.2.1.91]"
+    }
+  }
+]

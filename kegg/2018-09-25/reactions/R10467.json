@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10467",
+    "name": "2-heptyl-4(1H)-quinolone,NADH:oxygen oxidoreductase (3-hydroxylating)",
+    "definition": "2-Heptyl-4(1H)-quinolone + NADH + H+ + Oxygen <=> 2-Heptyl-3-hydroxy-quinolone + NAD+ + H2O",
+    "equation": "C20643 + C00004 + C00080 + C00007 <=> C11848 + C00003 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.182"
+    ],
+    "pathways": {
+      "rn00405": "Phenazine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K17940": "2-heptyl-3-hydroxy-4(1H)-quinolone synthase [EC:1.14.13.182]"
+    }
+  }
+]

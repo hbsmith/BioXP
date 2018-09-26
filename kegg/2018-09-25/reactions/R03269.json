@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03269",
+    "name": "N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase",
+    "definition": "(R)-4'-Phosphopantothenoyl-L-cysteine <=> Pantetheine 4'-phosphate + CO2",
+    "equation": "C04352 <=> C01134 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.36"
+    ],
+    "pathways": {
+      "rn00770": "Pantothenate and CoA biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01598": "phosphopantothenoylcysteine decarboxylase [EC:4.1.1.36]",
+      "K13038": "phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5]"
+    }
+  }
+]

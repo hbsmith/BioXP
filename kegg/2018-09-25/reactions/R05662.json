@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05662",
+    "name": "UDP-N-acetyl-D-glucosamine:N-acetyl-alpha-D-muramyl(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol 4-beta-N-acetylglucosaminlytransferase",
+    "definition": "MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol + UDP-N-acetyl-alpha-D-glucosamine <=> Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine + UDP",
+    "equation": "C04851 + C00043 <=> C05893 + C00015",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.227"
+    ],
+    "pathways": {
+      "rn00550": "Peptidoglycan biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K02563": "UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]"
+    }
+  }
+]

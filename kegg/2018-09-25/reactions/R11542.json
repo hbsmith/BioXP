@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11542",
+    "name": "2-aminobenzoylacetyl-CoA hydrolase",
+    "definition": "2-Aminobenzoylacetyl-CoA + H2O <=> 2-Aminobenzoylacetate + CoA",
+    "equation": "C21452 + C00001 <=> C21453 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.2.32"
+    ],
+    "pathways": {
+      "rn00405": "Phenazine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20257": "2-aminobenzoylacetyl-CoA thioesterase [EC:3.1.2.32]"
+    }
+  }
+]

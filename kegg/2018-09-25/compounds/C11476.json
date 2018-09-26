@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C11476",
+    "name": "L-Arabinose",
+    "names": [
+      "L-Arabinose"
+    ],
+    "formula": "C5H10O5",
+    "exact_mass": 150.0528,
+    "mol_weight": 150.1299,
+    "remark": "",
+    "comment": "L-Arabinopyranose [CPD:C00259] L-Arabinofuranose [CPD:C06115]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.2.1.55"
+    ],
+    "dblinks": {
+      "CAS": [
+        "5328-37-0"
+      ],
+      "PubChem": [
+        "13646"
+      ],
+      "ChEBI": [
+        "40886",
+        "6182"
+      ],
+      "PDB-CCD": [
+        "LAI"
+      ],
+      "NIKKAJI": [
+        "J14.786I"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O1a O    24.3294  -19.9173\n            2   C1b C    25.5398  -19.2184\n            3   C1c C    26.7502  -19.9173\n            4   C1c C    27.9606  -19.2184\n            5   C1c C    29.1710  -19.9173\n            6   C4a C    30.3815  -19.2184\n            7   O1a O    26.7502  -21.3147\n            8   O1a O    27.9606  -17.8208\n            9   O1a O    29.1710  -21.3148\n            10  O4a O    31.6063  -19.9253\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     3   7 1 #Up\n            7     4   8 1 #Down\n            8     5   9 1 #Down\n            9     6  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

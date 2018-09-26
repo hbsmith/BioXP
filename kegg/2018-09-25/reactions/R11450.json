@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11450",
+    "name": "eicosanoyl-CoA:methylmalonyl-CoA C-acyltransferase (mycocerosate-forming)",
+    "definition": "Eicosanoyl-CoA + 4 Methylmalonyl-CoA + 8 NADPH + 8 H+ + Acyl-carrier protein <=> C32-Mycocerosyl-[acp] + 5 CoA + 4 CO2 + 8 NADP+ + 4 H2O",
+    "equation": "C02041 + 4 C02557 + 8 C00005 + 8 C00080 + C00229 <=> C21393 + 5 C00010 + 4 C00011 + 8 C00006 + 4 C00001",
+    "comment": "Acy-carrier protein is acp domain of the enzyme itself [KO:K11628].",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.111"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K11628": "mycocerosic acid synthase [EC:2.3.1.111]"
+    }
+  }
+]

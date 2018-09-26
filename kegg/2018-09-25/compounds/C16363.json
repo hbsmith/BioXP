@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C16363",
+    "name": "N-Methylurea",
+    "names": [
+      "N-Methylurea",
+      "Methylurea"
+    ],
+    "formula": "C2H6N2O",
+    "exact_mass": 74.048,
+    "mol_weight": 74.0818,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07982"
+    ],
+    "pathways": {
+      "map00232": "Caffeine metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "598-50-5"
+      ],
+      "PubChem": [
+        "47205671"
+      ],
+      "ChEBI": [
+        "44383"
+      ],
+      "PDB-CCD": [
+        "NMU"
+      ],
+      "NIKKAJI": [
+        "J2.718I"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   N1a N    31.0100  -25.9000\n            2   C5a C    29.8900  -25.1300\n            3   N1b N    28.7700  -25.9000\n            4   O5a O    29.8900  -23.6600\n            5   C1a C    27.5100  -25.3400\nBOND        4\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n            4     3   5 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

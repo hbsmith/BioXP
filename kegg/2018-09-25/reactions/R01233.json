@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01233",
+    "name": "GDPglucose sugarphosphohydrolase",
+    "definition": "GDP-glucose + H2O <=> GMP + D-Glucose 1-phosphate",
+    "equation": "C00394 + C00001 <=> C00144 + C00103",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.-"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11507",
+    "name": "S-adenosyl-L-methionine:8-ethyl-12-methyl-3-vinylbacteriochlorophyllide-d C-12(1)-methyltransferase",
+    "definition": "8-Ethyl-12-methyl-3-vinylbacteriochlorophyllide d + S-Adenosyl-L-methionine <=> 8,12-Diethyl-3-vinylbacteriochlorophyllide d + S-Adenosyl-L-homocysteine",
+    "equation": "C18157 + C00019 <=> C21427 + C00021",
+    "comment": "radical SAM",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.331"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13602": "bacteriochlorophyllide d C-12(1)-methyltransferase [EC:2.1.1.331]"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R02161",
+    "name": "Ubiquinol:ferricytochrome-c oxidoreductase",
+    "definition": "Ubiquinol + 2 Ferricytochrome c <=> Ubiquinone + 2 Ferrocytochrome c + 2 H+",
+    "equation": "C00390 + 2 C00125 <=> C00399 + 2 C00126 + 2 C00080",
+    "comment": "electron transport complex III",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.10.2.2"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

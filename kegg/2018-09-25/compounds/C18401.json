@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C18401",
+    "name": "Fosetyl",
+    "names": [
+      "Fosetyl"
+    ],
+    "formula": "C2H7O3P",
+    "exact_mass": 110.0133,
+    "mol_weight": 110.0489,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "15845-66-6"
+      ],
+      "PubChem": [
+        "124489075"
+      ],
+      "ChEBI": [
+        "40926"
+      ],
+      "ChEMBL": [
+        "CHEMBL1231082"
+      ],
+      "PDB-CCD": [
+        "ATJ"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   P1b P    26.9244  -18.3285\n            2   O2b O    28.3761  -18.8947\n            3   C1b C    29.4780  -18.2585\n            4   C1a C    30.5798  -18.8947\n            5   O1c O    25.6126  -18.9647\n            6   O1c O    26.9244  -16.9161\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     1   5 1\n            5     1   6 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

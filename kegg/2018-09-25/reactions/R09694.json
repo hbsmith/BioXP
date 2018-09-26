@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R09694",
+    "name": "1,5-anhydro-D-fructose hydro-lyase (ascopyrone-M-forming)",
+    "definition": "1,5-Anhydro-D-fructose <=> 1,5-Anhydro-4-deoxy-D-glycero-hex-3-en-2-ulose + H2O",
+    "equation": "C06485 <=> C19822 + C00001",
+    "comment": "first step of two-step reaction (see R09696, R09694+R09695)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.110",
+      "4.2.1.111"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

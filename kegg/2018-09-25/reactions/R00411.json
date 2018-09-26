@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00411",
+    "name": "N-succinyl-L-glutamate amidohydrolase",
+    "definition": "N-Succinyl-L-glutamate + H2O <=> L-Glutamate + Succinate",
+    "equation": "C05931 + C00001 <=> C00025 + C00042",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.96"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K05526": "succinylglutamate desuccinylase [EC:3.5.1.96]"
+    }
+  }
+]

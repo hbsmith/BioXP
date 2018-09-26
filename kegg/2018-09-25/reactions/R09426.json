@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09426",
+    "name": "",
+    "definition": "4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol + UDP-glucuronate <=> 4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol glucuronide + UDP",
+    "equation": "C19574 + C00167 <=> C19605 + C00015",
+    "comment": "UGT1A9, UGT2B7, UGT2B17",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.17"
+    ],
+    "pathways": {
+      "rn00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "orthologs": {
+      "K00699": "glucuronosyltransferase [EC:2.4.1.17]"
+    }
+  }
+]

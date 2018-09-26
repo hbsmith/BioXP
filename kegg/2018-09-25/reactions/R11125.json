@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11125",
+    "name": "malonyl-CoA:acetyl-CoA malonyltransferase (2-hydroxy-5-methyl-1-naphthoic acid forming)",
+    "definition": "Acetyl-CoA + 5 Malonyl-CoA + 2 NADPH + 2 H+ <=> 2-Hydroxy-5-methyl-1-naphthoate + 6 CoA + 5 CO2 + 3 H2O + 2 NADP+",
+    "equation": "C00024 + 5 C00083 + 2 C00005 + 2 C00080 <=> C20856 + 6 C00010 + 5 C00011 + 3 C00001 + 2 C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.237"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20422": "neocarzinostatin naphthoate synthase [EC:2.3.1.237]"
+    }
+  }
+]

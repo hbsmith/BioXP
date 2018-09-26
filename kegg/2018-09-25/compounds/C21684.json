@@ -1,0 +1,32 @@
+[
+  {
+    "entry_id": "C21684",
+    "name": "(+)-Eremophilene",
+    "names": [
+      "(+)-Eremophilene",
+      "(3S,4aS,5R)-4a,5-Dimethyl-3-(prop-1-en-2-yl)-1,2,3,4,4a,5,6,7-octahydronaphthalene"
+    ],
+    "formula": "C15H24",
+    "exact_mass": 204.1878,
+    "mol_weight": 204.3511,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+    },
+    "kcf": "ATOM        15\n            1   C1x C    15.0047  -14.8021\n            2   C1x C    15.0047  -16.2049\n            3   C1y C    16.2196  -16.9063\n            4   C1z C    17.4345  -16.2049\n            5   C2y C    17.4345  -14.8021\n            6   C2x C    16.2196  -14.1007\n            7   C1x C    18.6494  -16.9063\n            8   C1y C    19.8642  -16.2049\n            9   C1x C    19.8642  -14.8021\n            10  C1x C    18.6494  -14.1007\n            11  C2c C    21.0642  -16.8978\n            12  C1a C    21.0642  -18.3006\n            13  C2a C    22.2548  -16.2103\n            14  C1a C    17.4345  -17.6077\n            15  C1a C    16.2196  -18.3091\nBOND        16\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    5  10 1\n            12    8  11 1 #Down\n            13   11  12 1\n            14   11  13 2\n            15    4  14 1 #Down\n            16    3  15 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10917",
+    "name": "L-dihydroanticapsin:NAD+ oxidoreductase",
+    "definition": "L-Dihydroanticapsin + NAD+ <=> L-Anticapsin + NADH + H+",
+    "equation": "C20940 + C00003 <=> C20941 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.385"
+    ],
+    "pathways": {
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19548": "dihydroanticapsin dehydrogenase [EC:1.1.1.385]"
+    }
+  }
+]

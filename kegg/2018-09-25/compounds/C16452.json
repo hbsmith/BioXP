@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C16452",
+    "name": "N'-Nitrosonornicotine",
+    "names": [
+      "N'-Nitrosonornicotine",
+      "NNN"
+    ],
+    "formula": "C9H11N3O",
+    "exact_mass": 177.0902,
+    "mol_weight": 177.2031,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "16543-55-8"
+      ],
+      "PubChem": [
+        "47205748"
+      ],
+      "ChEBI": [
+        "80502"
+      ],
+      "ChEMBL": [
+        "CHEMBL434108"
+      ],
+      "NIKKAJI": [
+        "J2.745F"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    14.1400   -9.1000\n            2   C8x C    14.1400  -10.5000\n            3   N5x N    15.3524  -11.2000\n            4   C8x C    16.5649  -10.5000\n            5   C8y C    16.5649   -9.1000\n            6   C8x C    15.3524   -8.4000\n            7   C1y C    17.7960   -8.3890\n            8   N1y N    19.0656   -8.9542\n            9   C1x C    19.9955   -7.9213\n            10  C1x C    19.3006   -6.7178\n            11  C1x C    17.9412   -7.0068\n            12  N2b N    19.3568  -10.3237\n            13  O3a O    20.7076  -10.7632\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11   10  11 1\n            12    7  11 1\n            13    8  12 1\n            14   12  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

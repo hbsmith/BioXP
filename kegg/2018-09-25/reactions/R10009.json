@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10009",
+    "name": "all-trans-heptaprenyl-diphosphate diphosphate-lyase (cyclizing, tetraprenyl-beta-curcumene-forming)",
+    "definition": "all-trans-Heptaprenyl diphosphate <=> Tetraprenyl-beta-curcumene + Diphosphate",
+    "equation": "C04216 <=> C20276 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.130"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K16188": "tetraprenyl-beta-curcumene synthase [EC:4.2.3.130]"
+    }
+  }
+]

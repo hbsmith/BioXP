@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05703",
+    "name": "lanosterol D24-reductase",
+    "definition": "Lathosterol + NADP+ <=> 5alpha-Cholesta-7,24-dien-3beta-ol + NADPH + H+",
+    "equation": "C01189 + C00006 <=> C05439 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.1.72"
+    ],
+    "pathways": {
+      "rn00100": "Steroid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K09828": "Delta24-sterol reductase [EC:1.3.1.72 1.3.1.-]"
+    }
+  }
+]

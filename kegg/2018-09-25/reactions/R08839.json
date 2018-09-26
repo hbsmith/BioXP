@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08839",
+    "name": "UDP-glucose:ferulate D-glucosyltransferase",
+    "definition": "UDP-glucose + Ferulate <=> 1-O-Feruloyl-beta-D-glucose + UDP",
+    "equation": "C00029 + C01494 <=> C17759 + C00015",
+    "comment": "ec 2.4.1.120 forms only glucose esters ec 2.4.1.126 forms a mixture of glucose esters and 4-glucosides",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.120",
+      "2.4.1.126"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

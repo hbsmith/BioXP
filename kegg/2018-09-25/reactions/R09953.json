@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09953",
+    "name": "scyllo-inositol:NAD+ oxidoreductase",
+    "definition": "scyllo-Inositol + NAD+ <=> 2,4,6/3,5-Pentahydroxycyclohexanone + NADH + H+",
+    "equation": "C06153 + C00003 <=> C00691 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.370"
+    ],
+    "pathways": {
+      "rn00562": "Inositol phosphate metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K16043": "scyllo-inositol 2-dehydrogenase (NAD+) [EC:1.1.1.370]"
+    }
+  }
+]

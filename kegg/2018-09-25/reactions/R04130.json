@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04130",
+    "name": "2,6-dihydroxypyridine,NADH:oxygen oxidoreductase (3-hydroxylating)",
+    "definition": "2,6-Dihydroxypyridine + Oxygen + NADH + H+ <=> 2,3,6-Trihydroxypyridine + NAD+ + H2O",
+    "equation": "C03056 + C00007 + C00004 + C00080 <=> C03458 + C00003 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.10"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K19189": "2,6-dihydroxypyridine 3-monooxygenase [EC:1.14.13.10]"
+    }
+  }
+]

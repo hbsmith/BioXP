@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05582",
+    "name": "",
+    "definition": "2-Hydroxycyclohexane-1-carboxyl-CoA + NAD+ <=> 2-Ketocyclohexane-1-carboxyl-CoA + NADH + H+",
+    "equation": "C09812 + C00003 <=> C09813 + C00004 + C00080",
+    "comment": "BadH",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00362": "Benzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K07535": "2-hydroxycyclohexanecarboxyl-CoA dehydrogenase [EC:1.1.1.-]"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C14280",
+    "name": "Furfural diethyl acetal",
+    "names": [
+      "Furfural diethyl acetal"
+    ],
+    "formula": "C9H14O3",
+    "exact_mass": 170.0943,
+    "mol_weight": 170.2057,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "13529-27-6"
+      ],
+      "PubChem": [
+        "17395280"
+      ],
+      "ChEBI": [
+        "34769"
+      ],
+      "NIKKAJI": [
+        "J241.168G"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    25.7868  -19.0135\n            2   C8x C    25.2864  -17.7625\n            3   O2x O    26.4123  -16.8868\n            4   C8y C    27.5382  -17.7625\n            5   C8x C    27.1629  -19.0135\n            6   C1c C    28.7891  -17.0119\n            7   O2a O    30.0401  -17.7625\n            8   O2a O    28.7891  -15.6358\n            9   C1b C    31.1660  -17.0119\n            10  C1a C    32.4170  -17.7625\n            11  C1b C    30.0401  -14.8853\n            12  C1a C    31.1660  -15.6358\nBOND        12\n            1     4   5 2\n            2     5   1 1\n            3     4   6 1\n            4     1   2 2\n            5     6   7 1\n            6     2   3 1\n            7     3   4 1\n            8     6   8 1\n            9     7   9 1\n            10    9  10 1\n            11    8  11 1\n            12   11  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

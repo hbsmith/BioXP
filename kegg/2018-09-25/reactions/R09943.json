@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R09943",
+    "name": "4-O-beta-D-mannopyranosyl-D-glucopyranose:phosphate alpha-D-mannosyltransferase",
+    "definition": "4-O-beta-D-Mannopyranosyl-D-glucopyranose + Orthophosphate <=> D-Glucose + D-Mannose 1-phosphate",
+    "equation": "C20236 + C00009 <=> C00031 + C00636",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.281"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K16212": "4-O-beta-D-mannosyl-D-glucose phosphorylase [EC:2.4.1.281]"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19201",
+    "name": "beta-Butyrolactone",
+    "names": [
+      "beta-Butyrolactone"
+    ],
+    "formula": "C4H6O2",
+    "exact_mass": 86.0368,
+    "mol_weight": 86.0892,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "3068-88-0"
+      ],
+      "PubChem": [
+        "124489873"
+      ],
+      "ChEBI": [
+        "82296"
+      ],
+      "ChEMBL": [
+        "CHEMBL1361205"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C7x C    21.3500  -15.5400\n            2   C1x C    21.3500  -16.9400\n            3   C1y C    22.7500  -16.9400\n            4   O7x O    22.7500  -15.5400\n            5   O6a O    20.3601  -14.5501\n            6   C1a C    23.7399  -17.9299\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     1   4 1\n            5     1   5 2\n            6     3   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

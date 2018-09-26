@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05577",
+    "name": "L-Aspartate:tRNA(Asp) ligase (AMP-forming)",
+    "definition": "tRNA(Asp) + L-Aspartate + ATP <=> L-Aspartyl-tRNA(Asp) + Diphosphate + AMP",
+    "equation": "C01638 + C00049 + C00002 <=> C02984 + C00013 + C00020",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.1.1.12",
+      "6.1.1.23"
+    ],
+    "pathways": {
+      "rn00970": "Aminoacyl-tRNA biosynthesis"
+    },
+    "orthologs": {
+      "K01876": "aspartyl-tRNA synthetase [EC:6.1.1.12]",
+      "K09759": "nondiscriminating aspartyl-tRNA synthetase [EC:6.1.1.23]"
+    }
+  }
+]

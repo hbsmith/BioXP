@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R04336",
+    "name": "",
+    "definition": "L-2-Amino-6-oxoheptanedioate <=> 2,3,4,5-Tetrahydrodipicolinate + H2O",
+    "equation": "C03871 <=> C03972 + C00001",
+    "comment": "non-enzymatic",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00300": "Lysine biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+    }
+  }
+]

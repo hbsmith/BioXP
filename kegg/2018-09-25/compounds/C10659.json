@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C10659",
+    "name": "Deoxyvasicinone",
+    "names": [
+      "Deoxyvasicinone",
+      "2,3-Trimethylene-4-quinazolone"
+    ],
+    "formula": "C11H10N2O",
+    "exact_mass": 186.0793,
+    "mol_weight": 186.2099,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "530-53-0"
+      ],
+      "PubChem": [
+        "12842"
+      ],
+      "ChEBI": [
+        "4435"
+      ],
+      "ChEMBL": [
+        "CHEMBL456881"
+      ],
+      "KNApSAcK": [
+        "C00002150"
+      ],
+      "3DMET": [
+        "B04036"
+      ],
+      "NIKKAJI": [
+        "J324.098C"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   N5x N    26.8278  -19.8025\n            2   C8y C    26.8278  -17.0027\n            3   C8y C    25.6197  -17.7026\n            4   C8y C    25.6256  -19.1025\n            5   C8x C    24.4163  -19.8076\n            6   C8x C    23.2010  -19.1129\n            7   C8x C    23.1949  -17.7130\n            8   C8x C    24.4042  -17.0080\n            9   C8y C    28.0431  -19.1025\n            10  N4y N    28.0389  -17.6998\n            11  C1x C    29.3717  -17.2623\n            12  C1x C    30.1995  -18.3948\n            13  C1x C    29.3784  -19.5320\n            14  O5x O    26.8411  -15.6028\nBOND        16\n            1     4   5 1\n            2     5   6 2\n            3     6   7 1\n            4     7   8 2\n            5     8   3 1\n            6     9   1 2\n            7     1   4 1\n            8     3   2 1\n            9     2  10 1\n            10    9  10 1\n            11   10  11 1\n            12   11  12 1\n            13   12  13 1\n            14   13   9 1\n            15    3   4 2\n            16    2  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

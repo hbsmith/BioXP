@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R08956",
+    "name": "(2S)-2-amino-4-deoxychorismate:L-glutamate aminotransferase",
+    "definition": "2-Amino-2-deoxyisochorismate + L-Glutamate <=> Chorismate + L-Glutamine",
+    "equation": "C18054 + C00025 <=> C00251 + C00064",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.86"
+    ],
+    "pathways": {
+      "rn00405": "Phenazine biosynthesis",
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13063": "2-amino-4-deoxychorismate synthase [EC:2.6.1.86]",
+      "K20159": "2-amino-4-deoxychorismate synthase [EC:2.6.1.86]",
+      "K21175": "2-amino-4-deoxychorismate synthase, glutamine amidotransferase component [EC:2.6.1.86]"
+    }
+  }
+]

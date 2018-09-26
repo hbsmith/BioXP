@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C04209",
+    "name": "3-(Carboxycarbonylamino)-L-alanine",
+    "names": [
+      "3-(Carboxycarbonylamino)-L-alanine",
+      "N3-Oxalyl-L-2,3-diaminopropanoate",
+      "L-alpha-Amino-beta-oxalylaminopropionic acid",
+      "beta-ODAP"
+    ],
+    "formula": "C5H8N2O5",
+    "exact_mass": 176.0433,
+    "mol_weight": 176.1274,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04211"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.3.1.58"
+    ],
+    "dblinks": {
+      "CAS": [
+        "5302-45-4"
+      ],
+      "PubChem": [
+        "6882"
+      ],
+      "ChEBI": [
+        "16399"
+      ],
+      "KNApSAcK": [
+        "C00001339"
+      ],
+      "3DMET": [
+        "B00693"
+      ],
+      "NIKKAJI": [
+        "J356.641B"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   O6a O    14.9800  -18.6200\n            2   C6a C    16.1924  -17.9200\n            3   C1c C    17.4049  -18.6200\n            4   C1b C    18.6173  -17.9200\n            5   N1b N    19.8297  -18.6200\n            6   C5a C    21.0422  -17.9200\n            7   C6a C    22.2546  -18.6200\n            8   N1a N    17.4049  -20.0198\n            9   O6a O    16.1924  -16.5202\n            10  O5a O    21.0422  -16.5203\n            11  O6a O    23.4711  -17.9177\n            12  O6a O    22.2546  -20.0200\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     3   8 1 #Down\n            8     2   9 2\n            9     6  10 2\n            10    7  11 1\n            11    7  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

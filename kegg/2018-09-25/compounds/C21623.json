@@ -1,0 +1,35 @@
+[
+  {
+    "entry_id": "C21623",
+    "name": "1-aci-Nitro-2-phenylethane",
+    "names": [
+      "1-aci-Nitro-2-phenylethane"
+    ],
+    "formula": "C8H9NO2",
+    "exact_mass": 151.0633,
+    "mol_weight": 151.1626,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11738",
+      "R11739"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.14.45"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "340650287"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    18.0531  -16.8636\n            2   C8x C    19.2427  -17.5633\n            3   C8x C    19.2427  -18.9628\n            4   C8x C    18.0531  -19.6625\n            5   C8x C    16.7936  -18.9628\n            6   C8x C    16.7936  -17.5633\n            7   C1b C    18.0531  -15.4641\n            8   C2b C    19.2427  -14.7644\n            9   N2b N    19.2427  -13.3650 #+\n            10  O3a O    20.4323  -12.6653 #-\n            11  O1b O    18.0303  -12.6650\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 1\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    9  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

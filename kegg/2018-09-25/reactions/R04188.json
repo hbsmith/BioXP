@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04188",
+    "name": "L-3-amino-isobutanoate:2-oxoglutarate aminotransferase",
+    "definition": "L-3-Aminoisobutanoate + 2-Oxoglutarate <=> (S)-Methylmalonate semialdehyde + L-Glutamate",
+    "equation": "C03284 + C00026 <=> C06002 + C00025",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.22"
+    ],
+    "pathways": {
+      "rn00280": "Valine, leucine and isoleucine degradation"
+    },
+    "orthologs": {
+      "K07250": "4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22]",
+      "K13524": "4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22]"
+    }
+  }
+]

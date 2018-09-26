@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R01368",
+    "name": "Acyl-CoA:2-acylglycerol O-acyltransferase",
+    "definition": "Acyl-CoA + 2-Acylglycerol <=> CoA + Diacylglycerol",
+    "equation": "C00040 + C02112 <=> C00010 + C00165",
+    "comment": "general reaction also acylating at sn-3 position",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.22"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

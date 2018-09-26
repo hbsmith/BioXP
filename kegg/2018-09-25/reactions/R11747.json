@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11747",
+    "name": "cellulose, hydrogen-donor:oxygen oxidoreductase (D-glucosyl 4-dehydrogenating)",
+    "definition": "Cellulose(n+m) + Reduced acceptor + Oxygen <=> 4-Dehydro-beta-D-glucosyl-[(1->4)-beta-D-glucosyl]n-1 + Cellulose(m) + Acceptor + H2O",
+    "equation": "C00760(n+m) + C00030 + C00007 <=> C21628 + C00760(m) + C00028 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.56"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

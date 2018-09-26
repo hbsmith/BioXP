@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10167",
+    "name": "S-adenosyl-L-methionine:squalene C-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Squalene <=> S-Adenosyl-L-homocysteine + 3-Methyl-1,2-didehydro-2,3-dihydrosqualene",
+    "equation": "C00019 + C00751 <=> C00021 + C20411",
+    "comment": "first step of two-step reaction (see R10169, R10167+R10168)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.262"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

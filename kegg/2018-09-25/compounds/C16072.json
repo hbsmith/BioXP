@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C16072",
+    "name": "Aliphatic nitrile",
+    "names": [
+      "Aliphatic nitrile"
+    ],
+    "formula": "CNR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205382"
+      ],
+      "ChEBI": [
+        "80291"
+      ]
+    },
+    "kcf": "ATOM        3\n            1   C3b C    23.5900  -19.9500\n            2   N3a N    24.8011  -19.2478\n            3   R   R    22.3789  -20.6522\nBOND        2\n            1     1   2 3\n            2     1   3 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

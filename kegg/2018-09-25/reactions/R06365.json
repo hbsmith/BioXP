@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06365",
+    "name": "",
+    "definition": "O-(1->4)-alpha-L-Dihydrostreptosyl-streptidine 6-phosphate + NDP-N-methyl-L-glucosamine <=> Dihydrostreptomycin 6-phosphate + NDP",
+    "equation": "C04767 + C06592 <=> C01221 + C00454",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00521": "Streptomycin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+    }
+  }
+]

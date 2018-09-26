@@ -1,0 +1,26 @@
+[
+  {
+    "entry_id": "R07157",
+    "name": "carbon-monoxide,water:ferredoxin oxidoreductase",
+    "definition": "CO + H2O + Oxidized ferredoxin <=> CO2 + Reduced ferredoxin",
+    "equation": "C00237 + C00001 + C00139 <=> C00011 + C00138",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.7.4"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn00720": "Carbon fixation pathways in prokaryotes",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K00192": "acetyl-CoA decarbonylase/synthase complex subunit alpha [EC:1.2.7.4]",
+      "K00195": "acetyl-CoA decarbonylase/synthase complex subunit epsilon",
+      "K00196": "anaerobic carbon-monoxide dehydrogenase iron sulfur subunit",
+      "K00198": "anaerobic carbon-monoxide dehydrogenase catalytic subunit [EC:1.2.7.4]"
+    }
+  }
+]

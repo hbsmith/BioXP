@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C02295",
+    "name": "Methylitaconate",
+    "names": [
+      "Methylitaconate",
+      "2-Methylene-3-methylsuccinate"
+    ],
+    "formula": "C6H8O4",
+    "exact_mass": 144.0423,
+    "mol_weight": 144.1253,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03070",
+      "R03908"
+    ],
+    "pathways": {
+      "map00760": "Nicotinate and nicotinamide metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "5.3.3.6",
+      "5.4.99.4"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5351"
+      ],
+      "ChEBI": [
+        "16093"
+      ],
+      "3DMET": [
+        "B00419"
+      ],
+      "NIKKAJI": [
+        "J1.895.610A"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C6a C    11.6424  -14.4200\n            2   C2c C    12.8549  -15.1200\n            3   C1c C    14.0673  -14.4200\n            4   C6a C    15.2797  -15.1200\n            5   O6a O    16.4922  -14.4200\n            6   C2a C    12.8549  -16.5198\n            7   C1a C    14.0673  -13.0200\n            8   O6a O    10.4133  -15.1298\n            9   O6a O    11.6423  -13.0202\n            10  O6a O    15.2797  -16.5199\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     2   6 2\n            6     3   7 1\n            7     1   8 1\n            8     1   9 2\n            9     4  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "entry_id": "C21300",
+    "name": "R'NH2",
+    "names": [
+      "R'NH2"
+    ],
+    "formula": "NH2R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = H [CPD:C00014] R = CH3 [CPD: C00218]",
+    "reactions": [
+      "R11354"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.4.3.4"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "318172280"
+      ]
+    },
+    "kcf": "ATOM        2\n            1   N1a N    19.2351  -15.8366\n            2   R   R    18.0035  -16.5024\nBOND        1\n            1     1   2 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

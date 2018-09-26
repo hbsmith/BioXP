@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05565",
+    "name": "",
+    "definition": "2 Atrazine + Oxygen <=> 2 Deethylatrazine + 2 Acetaldehyde",
+    "equation": "2 C06551 + C00007 <=> 2 C06559 + 2 C00084",
+    "comment": "AtrA,ThcB,ThcC,ThcD Atrazine monooxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.-"
+    ],
+    "pathways": {
+      "rn00791": "Atrazine degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

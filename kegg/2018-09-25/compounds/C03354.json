@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C03354",
+    "name": "3-Methylthiopropanamine",
+    "names": [
+      "3-Methylthiopropanamine",
+      "3-Methylthiopropylamine",
+      "3-(Methylsulfanyl)propanamine"
+    ],
+    "formula": "C4H11NS",
+    "exact_mass": 105.0612,
+    "mol_weight": 105.2018,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00656"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.1.1.57"
+    ],
+    "dblinks": {
+      "CAS": [
+        "4104-45-4"
+      ],
+      "PubChem": [
+        "6194"
+      ],
+      "ChEBI": [
+        "16696"
+      ],
+      "3DMET": [
+        "B00580"
+      ],
+      "NIKKAJI": [
+        "J146.566J"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   N1a N    18.8300  -15.6100\n            2   C1b C    20.0200  -16.3100\n            3   C1b C    21.2800  -15.6100\n            4   C1b C    22.4700  -16.3100\n            5   S2a S    23.6600  -15.6100\n            6   C1a C    24.9200  -16.3100\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

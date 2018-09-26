@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C14326",
+    "name": "Dimethoate",
+    "names": [
+      "Dimethoate"
+    ],
+    "formula": "C5H12NO3PS2",
+    "exact_mass": 228.9996,
+    "mol_weight": 229.2574,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "60-51-5"
+      ],
+      "PubChem": [
+        "17395326"
+      ],
+      "ChEBI": [
+        "34714"
+      ],
+      "ChEMBL": [
+        "CHEMBL1569524"
+      ],
+      "NIKKAJI": [
+        "J1.926G"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C5a C    27.5240  -25.6833\n            2   C1b C    28.7337  -24.9809\n            3   S2a S    29.9414  -25.6730\n            4   P1a P    31.1562  -24.9738\n            5   O2b O    31.1562  -23.5754\n            6   C1a C    29.9414  -22.8762\n            7   O2b O    32.3710  -25.6659\n            8   C1a C    32.3710  -27.0642\n            9   S0  S    32.3710  -24.2606\n            10  N1b N    26.2765  -24.9673\n            11  O5a O    27.5270  -27.0676\n            12  C1a C    25.0835  -25.6601\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     4   7 1\n            7     7   8 1\n            8     4   9 2\n            9     1  10 1\n            10    1  11 2\n            11   10  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

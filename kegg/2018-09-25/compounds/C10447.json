@@ -1,0 +1,59 @@
+[
+  {
+    "entry_id": "C10447",
+    "name": "3,4-Dihydroxyphenylpropanoate",
+    "names": [
+      "3,4-Dihydroxyphenylpropanoate",
+      "Dihydrocaffeic acid",
+      "3,4-Dihydroxyphenylpropionic acid",
+      "3-(3,4-Dihydroxyphenyl)propanoate"
+    ],
+    "formula": "C9H10O4",
+    "exact_mass": 182.0579,
+    "mol_weight": 182.1733,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08846",
+      "R08847",
+      "R11206"
+    ],
+    "pathways": {
+      "map00350": "Tyrosine metabolism"
+    },
+    "enzymes": [
+      "2.8.3.23",
+      "4.3.1.22"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1078-61-1"
+      ],
+      "PubChem": [
+        "12630"
+      ],
+      "ChEBI": [
+        "48400"
+      ],
+      "ChEMBL": [
+        "CHEMBL136927"
+      ],
+      "KNApSAcK": [
+        "C00002735"
+      ],
+      "3DMET": [
+        "B03853"
+      ],
+      "NIKKAJI": [
+        "J12.480J"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    27.4400  -19.5300\n            2   C8x C    27.4400  -20.9300\n            3   C8x C    26.1800  -18.8300\n            4   C8x C    26.1800  -21.6300\n            5   C8y C    24.9900  -19.5300\n            6   C8y C    24.9900  -20.9300\n            7   O1a O    23.7300  -21.6300\n            8   O1a O    23.8000  -18.8300\n            9   C1b C    28.6300  -18.8300\n            10  C1b C    29.8200  -19.5300\n            11  C6a C    31.0800  -18.7600\n            12  O6a O    32.2700  -19.4600\n            13  O6a O    31.0800  -17.4300\nBOND        13\n            1     1   2 1\n            2     1   3 2\n            3     2   4 2\n            4     3   5 1\n            5     4   6 1\n            6     6   7 1\n            7     5   6 2\n            8     5   8 1\n            9     1   9 1\n            10    9  10 1\n            11   10  11 1\n            12   11  12 1\n            13   11  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

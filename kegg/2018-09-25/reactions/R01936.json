@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R01936",
+    "name": "(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate:NAD+ oxidoreductase (decarboxylating)",
+    "definition": "Oxaloglutarate <=> 2-Oxoadipate + CO2",
+    "equation": "C05533 <=> C00322 + C00011",
+    "comment": "second step of R01934 (R04862 + R01936) following after R04862",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.87",
+      "1.1.1.286"
+    ],
+    "pathways": {
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+      "K05824": "homoisocitrate dehydrogenase [EC:1.1.1.87]",
+      "K10978": "methanogen homoisocitrate dehydrogenase [EC:1.1.1.87 1.1.1.-]",
+      "K17753": "isocitrate--homoisocitrate dehydrogenase [EC:1.1.1.286]"
+    }
+  }
+]

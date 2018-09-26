@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04132",
+    "name": "",
+    "definition": "2-Oxohept-3-enedioate + H2O <=> 2,4-Dihydroxyhept-2-enedioate",
+    "equation": "C03063 + C00001 <=> C06201",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.-"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K02509": "2-oxo-hept-3-ene-1,7-dioate hydratase [EC:4.2.1.-]"
+    }
+  }
+]

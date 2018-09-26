@@ -1,0 +1,62 @@
+[
+  {
+    "entry_id": "C08276",
+    "name": "3-(Methylthio)propanoate",
+    "names": [
+      "3-(Methylthio)propanoate",
+      "3-(Methylthio)propionic acid",
+      "3-Methylthiopropionate",
+      "3-(Methylsulfanyl)propanoate"
+    ],
+    "formula": "C4H8O2S",
+    "exact_mass": 120.0245,
+    "mol_weight": 120.1701,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07363",
+      "R10333",
+      "R10820"
+    ],
+    "pathways": {
+      "map00270": "Cysteine and methionine metabolism",
+      "map00920": "Sulfur metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.13.11.53",
+      "2.1.1.269",
+      "6.2.1.44"
+    ],
+    "dblinks": {
+      "CAS": [
+        "646-01-5"
+      ],
+      "PubChem": [
+        "10474"
+      ],
+      "ChEBI": [
+        "1438"
+      ],
+      "ChEMBL": [
+        "CHEMBL116212"
+      ],
+      "KNApSAcK": [
+        "C00001194"
+      ],
+      "3DMET": [
+        "B02154"
+      ],
+      "NIKKAJI": [
+        "J22.485E"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1b C    25.9050  -21.6025\n            2   C6a C    24.6943  -20.9006\n            3   C1b C    27.1155  -20.9006\n            4   O6a O    23.4777  -21.6025\n            5   O6a O    24.6943  -19.5027\n            6   S2a S    28.3262  -21.6025\n            7   C1a C    29.5369  -20.9006\nBOND        6\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 2\n            5     3   6 1\n            6     6   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

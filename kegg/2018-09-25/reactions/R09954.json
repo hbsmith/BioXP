@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R09954",
+    "name": "scyllo-inositol:NADP+ oxidoreductase",
+    "definition": "scyllo-Inositol + NADP+ <=> 2,4,6/3,5-Pentahydroxycyclohexanone + NADPH + H+",
+    "equation": "C06153 + C00006 <=> C00691 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.371",
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00562": "Inositol phosphate metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K16044": "scyllo-inositol 2-dehydrogenase (NADP+) [EC:1.1.1.371]",
+      "K22230": "scyllo-inositol 2-dehydrogenase (NADP+) [EC:1.1.1.-]"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10059",
+    "name": "L-tyrosine,iodide:NADP+ oxidoreductase (iodinating)",
+    "definition": "L-Tyrosine + 2 NADP+ + 2 Iodide <=> 3,5-Diiodo-L-tyrosine + 2 NADPH",
+    "equation": "C00082 + 2 C00006 + 2 C00708 <=> C01060 + 2 C00005",
+    "comment": "two-step reaction (see R09521+R09522)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.21.1.1"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

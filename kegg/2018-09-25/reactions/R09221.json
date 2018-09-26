@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09221",
+    "name": "chloromuconate cycloisomerase",
+    "definition": "3,5-Dichloro-2-methylmuconate <=> 2-Chloro-5-methyl-cis-dienelactone + Hydrochloric acid",
+    "equation": "C18303 <=> C18304 + C01327",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.7"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01860": "chloromuconate cycloisomerase [EC:5.5.1.7]"
+    }
+  }
+]

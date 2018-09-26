@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C14330",
+    "name": "2,6-Dimethylnaphthalene",
+    "names": [
+      "2,6-Dimethylnaphthalene"
+    ],
+    "formula": "C12H12",
+    "exact_mass": 156.0939,
+    "mol_weight": 156.2237,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "581-42-0"
+      ],
+      "PubChem": [
+        "17395330"
+      ],
+      "ChEBI": [
+        "34251"
+      ],
+      "ChEMBL": [
+        "CHEMBL194983"
+      ],
+      "NIKKAJI": [
+        "J45.113D"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    26.4028  -16.2528\n            2   C8y C    26.4028  -17.6540\n            3   C8x C    27.6164  -18.3546\n            4   C8y C    28.8301  -17.6540\n            5   C8y C    28.8301  -16.2528\n            6   C8x C    27.6164  -15.5521\n            7   C8x C    30.0436  -18.3546\n            8   C8x C    31.2571  -17.6540\n            9   C8y C    31.2571  -16.2528\n            10  C8x C    30.0436  -15.5521\n            11  C1a C    32.4558  -15.5605\n            12  C1a C    25.1889  -18.3549\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12    9  11 1\n            13    2  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

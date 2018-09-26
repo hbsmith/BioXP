@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C05717",
+    "name": "alpha-Amino-gamma-cyanobutanoate",
+    "names": [
+      "alpha-Amino-gamma-cyanobutanoate",
+      "2-Amino-4-cyanobutanoic acid"
+    ],
+    "formula": "C5H8N2O2",
+    "exact_mass": 128.0586,
+    "mol_weight": 128.1292,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8023"
+      ],
+      "ChEBI": [
+        "27578"
+      ],
+      "LIPIDMAPS": [
+        "LMFA01100038"
+      ],
+      "3DMET": [
+        "B05110"
+      ],
+      "NIKKAJI": [
+        "J1.940.373D"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1c C    32.2604  -21.7533\n            2   C6a C    33.4651  -21.0514\n            3   C1b C    31.0555  -21.0572\n            4   N1a N    32.2545  -23.1510\n            5   O6a O    34.6874  -21.7473\n            6   O6a O    33.4594  -19.6477\n            7   C1b C    29.8391  -21.7650\n            8   C3b C    28.6342  -21.0631\n            9   N3a N    27.4177  -21.7650\nBOND        8\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     7   8 1\n            8     8   9 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

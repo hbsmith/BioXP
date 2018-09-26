@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04360",
+    "name": "",
+    "definition": "1-Alkyl-sn-glycero-3-phosphate + NADP+ <=> O-Alkylglycerone phosphate + NADPH + H+",
+    "equation": "C03968 + C00006 <=> C03715 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.101"
+    ],
+    "pathways": {
+      "rn00565": "Ether lipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K06123": "1-acylglycerone phosphate reductase [EC:1.1.1.101]"
+    }
+  }
+]

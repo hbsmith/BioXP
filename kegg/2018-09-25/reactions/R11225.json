@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11225",
+    "name": "dimethylallyl-phosphate:FMNH2 prenyltransferase",
+    "definition": "Dimethylallyl phosphate + Reduced FMN <=> Prenylated FMNH2 + Orthophosphate",
+    "equation": "C21214 + C01847 <=> C21215 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.129"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K03186": "flavin prenyltransferase [EC:2.5.1.129]"
+    }
+  }
+]

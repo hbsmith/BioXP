@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07112",
+    "name": "1,2-dibromoethane,NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)",
+    "definition": "1,2-Dibromoethane + NADPH + Oxygen + H+ <=> 2-Bromoacetaldehyde + NADP+ + H2O + Hydrobromic acid",
+    "equation": "C11088 + C00005 + C00007 + C00080 <=> C14870 + C00006 + C00001 + C13645",
+    "comment": "CYP2E1 2 steps reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "orthologs": {
+      "K07415": "cytochrome P450 family 2 subfamily E polypeptide 1 [EC:1.14.13.-]"
+    }
+  }
+]

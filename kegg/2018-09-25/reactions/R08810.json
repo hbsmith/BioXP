@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08810",
+    "name": "feruloyl-CoA:feruloylacetyl-CoA feruloyltransferase (curcumin-forming)",
+    "definition": "Feruloyl-diketide-CoA + Feruloyl-CoA + H2O <=> Curcumin + 2 CoA + CO2",
+    "equation": "C17741 + C00406 + C00001 <=> C10443 + 2 C00010 + C00011",
+    "comment": "curcuminoid synthase (CURS)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.217"
+    ],
+    "pathways": {
+      "rn00945": "Stilbenoid, diarylheptanoid and gingerol biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13234": "curcumin synthase [EC:2.3.1.217]",
+      "K17211": "curcumin/demethoxycurcumin synthase [EC:2.3.1.217 2.3.1.219]"
+    }
+  }
+]

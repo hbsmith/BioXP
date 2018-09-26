@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11484",
+    "name": "bacteriochlorophyllide-c:S-adenosyl-L-methionine oxidoreductase (C-7(1)-hydroxylating)",
+    "definition": "S-Adenosyl-L-methionine + Bacteriochlorophyllide c + H2O <=> 7-(Hydroxymethyl)bacteriochlorophyllide c + 5'-Deoxyadenosine + L-Methionine",
+    "equation": "C00019 + C18161 + C00001 <=> C21407 + C05198 + C00073",
+    "comment": "first step of three-step reaction (see R11710, R11484+R10437+R11709)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.17.98.2"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

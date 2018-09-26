@@ -1,0 +1,27 @@
+[
+  {
+    "entry_id": "R00093",
+    "name": "L-glutamate:NAD+ oxidoreductase (transaminating)",
+    "definition": "2 L-Glutamate + NAD+ <=> L-Glutamine + 2-Oxoglutarate + NADH + H+",
+    "equation": "2 C00025 + C00003 <=> C00064 + C00026 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.1.14"
+    ],
+    "pathways": {
+      "rn00250": "Alanine, aspartate and glutamate metabolism",
+      "rn00910": "Nitrogen metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00264": "glutamate synthase (NADPH/NADH) [EC:1.4.1.13 1.4.1.14]",
+      "K00265": "glutamate synthase (NADPH/NADH) large chain [EC:1.4.1.13 1.4.1.14]",
+      "K00266": "glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14]"
+    }
+  }
+]

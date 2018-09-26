@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R10305",
+    "name": "O3-acetyl-L-serine:L-homocysteine S-(2-amino-2-carboxyethyl)transferase",
+    "definition": "O-Acetyl-L-serine + L-Homocysteine <=> L-Cystathionine + Acetate",
+    "equation": "C00979 + C00155 <=> C02291 + C00033",
+    "comment": "cystathionine beta-synthase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.134"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K17216": "cystathionine beta-synthase (O-acetyl-L-serine) [EC:2.5.1.134]"
+    }
+  }
+]

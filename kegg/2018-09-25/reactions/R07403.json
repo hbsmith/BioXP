@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07403",
+    "name": "indole,NADPH:oxygen oxidoreductase (2-hydroxylating)",
+    "definition": "Indole + NADPH + H+ + Oxygen <=> Indolin-2-one + NADP+ + H2O",
+    "equation": "C00463 + C00005 + C00080 + C00007 <=> C12312 + C00006 + C00001",
+    "comment": "Cytochrome P450 monooxygenase (CYP71C4), bx2",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.137"
+    ],
+    "pathways": {
+      "rn00402": "Benzoxazinoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13223": "indole-2-monooxygenase [EC:1.14.13.137]"
+    }
+  }
+]

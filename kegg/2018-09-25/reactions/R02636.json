@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02636",
+    "name": "UDP-D-galacturonate carboxy-lyase",
+    "definition": "UDP-D-galacturonate <=> UDP-L-arabinose + CO2",
+    "equation": "C00617 <=> C00935 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.67"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

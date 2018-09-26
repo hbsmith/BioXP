@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07415",
+    "name": "",
+    "definition": "gamma-L-Glutamylputrescine + H2O + Oxygen <=> gamma-Glutamyl-gamma-aminobutyraldehyde + Ammonia + Hydrogen peroxide",
+    "equation": "C15699 + C00001 + C00007 <=> C15700 + C00014 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.-"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K09471": "gamma-glutamylputrescine oxidase [EC:1.4.3.-]"
+    }
+  }
+]

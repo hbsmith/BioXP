@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R10702",
+    "name": "propane,NADH:oxygen oxidoreductase (2-hydroxylating)",
+    "definition": "Propane + NADH + H+ + Oxygen <=> Propan-2-ol + NAD+ + H2O",
+    "equation": "C20783 + C00004 + C00080 + C00007 <=> C01845 + C00003 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.227"
+    ],
+    "pathways": {
+      "rn00640": "Propanoate metabolism"
+    },
+    "orthologs": {
+      "K18223": "propane 2-monooxygenase large subunit [EC:1.14.13.227]",
+      "K18224": "propane 2-monooxygenase small subunit [EC:1.14.13.227]",
+      "K18225": "propane monooxygenase reductase component [EC:1.18.1.-]",
+      "K18226": "propane monooxygenase coupling protein"
+    }
+  }
+]

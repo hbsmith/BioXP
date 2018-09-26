@@ -1,0 +1,35 @@
+[
+  {
+    "entry_id": "C20845",
+    "name": "(4S,5R)-4,5,6-Trihydroxy-2-iminohexanoate",
+    "names": [
+      "(4S,5R)-4,5,6-Trihydroxy-2-iminohexanoate"
+    ],
+    "formula": "C6H11NO5",
+    "exact_mass": 177.0637,
+    "mol_weight": 177.1552,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10774",
+      "R10775"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.3.1.9"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741311"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   O1a O    14.4159  -16.5147\n            2   C1b C    15.6280  -15.8150\n            3   C1c C    16.8401  -16.5147\n            4   C1c C    18.0522  -15.8150\n            5   C1b C    19.2642  -16.5147\n            6   C2c C    20.4765  -15.8150\n            7   C6a C    21.6886  -16.5147\n            8   O1a O    16.8401  -17.9142\n            9   O1a O    18.0522  -14.4153\n            10  N2a N    20.4765  -14.4156\n            11  O6a O    22.9047  -15.8127\n            12  O6a O    21.6886  -17.9144\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     3   8 1 #Down\n            8     4   9 1 #Up\n            9     6  10 2\n            10    7  11 1\n            11    7  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

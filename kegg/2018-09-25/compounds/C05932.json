@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C05932",
+    "name": "N-Succinyl-L-glutamate 5-semialdehyde",
+    "names": [
+      "N-Succinyl-L-glutamate 5-semialdehyde",
+      "(2S)-2-(3-Carboxypropanoylamino)-5-oxopentanoic acid"
+    ],
+    "formula": "C9H13NO6",
+    "exact_mass": 231.0743,
+    "mol_weight": 231.2026,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04217",
+      "R05049"
+    ],
+    "pathways": {
+      "map00330": "Arginine and proline metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.2.1.71",
+      "2.6.1.81"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8220"
+      ],
+      "ChEBI": [
+        "27657"
+      ],
+      "3DMET": [
+        "B00878"
+      ],
+      "NIKKAJI": [
+        "J2.760.759D"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   O6a O    26.1553  -18.8258\n            2   C6a C    27.3739  -18.1223\n            3   C1c C    28.5925  -18.8258\n            4   C1b C    29.8110  -18.1223\n            5   C1b C    31.0295  -18.8258\n            6   C4a C    32.2481  -18.1223\n            7   O6a O    27.3739  -16.7154\n            8   N1b N    28.5925  -20.2327\n            9   C5a C    27.3928  -20.9253\n            10  C1b C    26.2008  -20.2371\n            11  C1b C    25.0029  -20.9288\n            12  C6a C    23.8077  -20.2389\n            13  O5a O    27.3926  -22.3431\n            14  O6a O    22.6114  -20.9297\n            15  O6a O    23.8075  -18.8260\n            16  O4a O    33.4802  -18.8338\nBOND        15\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     2   7 2\n            7     3   8 1 #Down\n            8     8   9 1\n            9     9  10 1\n            10   10  11 1\n            11   11  12 1\n            12    9  13 2\n            13   12  14 1\n            14   12  15 2\n            15    6  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

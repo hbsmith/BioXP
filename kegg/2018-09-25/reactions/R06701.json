@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06701",
+    "name": "",
+    "definition": "Tetracenomycin D3 <=> Tetracenomycin B3",
+    "equation": "C12368 <=> C12369",
+    "comment": "Multifunctional cyclase-dehydratase-3-O-methyl transferase, tcmN",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15886": "multifunctional cyclase / dehydratase / O-methyltransferase [EC:2.3.1.235]"
+    }
+  }
+]

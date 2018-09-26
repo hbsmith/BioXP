@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06414",
+    "name": "2,6-Dimethyl-5-methylene-3-oxo-heptanoyl-CoA C-acetyltransferase",
+    "definition": "2,6-Dimethyl-5-methylene-3-oxo-heptanoyl-CoA + CoA <=> 3-Isopropylbut-3-enoyl-CoA + Propanoyl-CoA",
+    "equation": "C11948 + C00010 <=> C11949 + C00100",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.-"
+    ],
+    "pathways": {
+      "rn00903": "Limonene and pinene degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

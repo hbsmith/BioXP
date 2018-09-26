@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C20396",
+    "name": "Methylphosphonate",
+    "names": [
+      "Methylphosphonate"
+    ],
+    "formula": "CH5O3P",
+    "exact_mass": 95.9976,
+    "mol_weight": 96.0224,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10185",
+      "R10191"
+    ],
+    "pathways": {
+      "map00440": "Phosphonate and phosphinate metabolism"
+    },
+    "enzymes": [
+      "1.13.11.73",
+      "2.7.8.37"
+    ],
+    "dblinks": {
+      "CAS": [
+        "993-13-5"
+      ],
+      "PubChem": [
+        "163312134"
+      ],
+      "ChEMBL": [
+        "CHEMBL122938"
+      ],
+      "PDB-CCD": [
+        "GB"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C1a C    19.0123  -16.1799\n            2   P1b P    17.6205  -16.1682\n            3   O1c O    16.1821  -16.1566\n            4   O1c O    17.6205  -17.5543\n            5   O1c O    17.6205  -14.7705\nBOND        4\n            1     1   2 1\n            2     2   3 1\n            3     2   4 1\n            4     2   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10359",
+    "name": "13-desoxypaxilline,NADPH:oxygen oxidoreductase",
+    "definition": "13-Desoxypaxilline + NADPH + H+ + Oxygen <=> Paxilline + NADP+ + H2O",
+    "equation": "C20531 + C00005 + C00080 + C00007 <=> C13782 + C00006 + C00001",
+    "comment": "cytochrome P450 monooxygenase, PaxQ",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00403": "Indole diterpene alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K18389": "cytochrome P450 monooxygenase [EC:1.14.13.-]"
+    }
+  }
+]

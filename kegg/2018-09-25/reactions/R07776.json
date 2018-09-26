@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R07776",
+    "name": "biochanin A,NADPH:oxygen oxidoreductase (3'-hydroxylating)",
+    "definition": "Biochanin A + Oxygen + NADPH + H+ <=> Pratensein + NADP+ + H2O",
+    "equation": "C00814 + C00007 + C00005 + C00080 <=> C10520 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.52"
+    ],
+    "pathways": {
+      "rn00943": "Isoflavonoid biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

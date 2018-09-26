@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R00717",
+    "name": "Glycolate:NAD+ oxidoreductase",
+    "definition": "Glycolate + NAD+ <=> Glyoxylate + NADH + H+",
+    "equation": "C00160 + C00003 <=> C00048 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.26",
+      "1.1.1.29"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00015": "glyoxylate reductase [EC:1.1.1.26]",
+      "K00018": "glycerate dehydrogenase [EC:1.1.1.29]"
+    }
+  }
+]

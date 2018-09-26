@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C19262",
+    "name": "4-Methylimidazole",
+    "names": [
+      "4-Methylimidazole"
+    ],
+    "formula": "C4H6N2",
+    "exact_mass": 82.0531,
+    "mol_weight": 82.1038,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "822-36-6"
+      ],
+      "PubChem": [
+        "124489934"
+      ],
+      "ChEBI": [
+        "40035"
+      ],
+      "ChEMBL": [
+        "CHEMBL1230309"
+      ],
+      "PDB-CCD": [
+        "4MZ"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C8y C    26.4600  -16.3800\n            2   C8x C    26.8800  -17.7100\n            3   N5x N    28.2800  -17.7100\n            4   C8x C    28.7700  -16.3800\n            5   N4x N    27.6500  -15.6100\n            6   C1a C    25.1426  -15.9061\nBOND        6\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     1   5 1\n            6     1   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

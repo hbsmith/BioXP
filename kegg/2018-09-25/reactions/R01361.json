@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01361",
+    "name": "(R)-3-Hydroxybutanoate:NAD+ oxidoreductase",
+    "definition": "(R)-3-Hydroxybutanoate + NAD+ <=> Acetoacetate + NADH + H+",
+    "equation": "C01089 + C00003 <=> C00164 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.30"
+    ],
+    "pathways": {
+      "rn00072": "Synthesis and degradation of ketone bodies",
+      "rn00650": "Butanoate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00019": "3-hydroxybutyrate dehydrogenase [EC:1.1.1.30]"
+    }
+  }
+]

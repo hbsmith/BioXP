@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11733",
+    "name": "",
+    "definition": "Phenylacetonitrile + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Mandelonitrile + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C16074 + C03024 + C00007 <=> C00561 + C03161 + C00001",
+    "comment": "last step of three-step reaction (see R11732, R10041+R07638+R11733)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.44"
+    ],
+    "pathways": {
+      "rn00460": "Cyanoamino acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00495": "phenylacetaldehyde oxime monooxygenase [EC:1.14.14.44]"
+    }
+  }
+]

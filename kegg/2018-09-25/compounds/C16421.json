@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C16421",
+    "name": "AI-2",
+    "names": [
+      "AI-2",
+      "Autoinducer 2"
+    ],
+    "formula": "C5H10BO7",
+    "exact_mass": 193.052,
+    "mol_weight": 192.9397,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map02010": "ABC transporters",
+      "map02020": "Two-component system",
+      "map02024": "Quorum sensing",
+      "map05111": "Biofilm formation - Vibrio cholerae"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205719"
+      ],
+      "ChEBI": [
+        "40646"
+      ],
+      "ChEMBL": [
+        "CHEMBL1230903"
+      ],
+      "PDB-CCD": [
+        "AI2"
+      ],
+      "NIKKAJI": [
+        "J1.691.576I"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1z C    18.1431  -16.6666\n            2   C1z C    19.5440  -16.6666\n            3   O2x O    19.9768  -15.3343\n            4   Z   B    18.8435  -14.5109 #-\n            5   O2x O    17.7102  -15.3343\n            6   C1y C    17.7102  -17.9990\n            7   C1x C    18.8435  -18.8224\n            8   O2x O    19.9768  -17.9990\n            9   C1a C    20.9449  -16.6666\n            10  O1a O    16.7422  -16.6666\n            11  O1a O    16.3897  -18.4281\n            12  O1a O    17.8530  -13.5203\n            13  O1a O    19.8341  -13.5203\nBOND        14\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     2   8 1\n            10    2   9 1 #Down\n            11    1  10 1 #Down\n            12    6  11 1 #Down\n            13    4  12 1\n            14    4  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

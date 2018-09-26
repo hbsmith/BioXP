@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03455",
+    "name": "Acetyl-CoA:1-alkyl-sn-glycero-3-phosphate 2-O-acetyltransferase",
+    "definition": "Acetyl-CoA + 1-Alkyl-sn-glycero-3-phosphate <=> CoA + 2-Acetyl-1-alkyl-sn-glycero-3-phosphate",
+    "equation": "C00024 + C03968 <=> C00010 + C01264",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.105"
+    ],
+    "pathways": {
+      "rn00565": "Ether lipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

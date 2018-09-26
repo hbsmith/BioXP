@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04400",
+    "name": "(S)-tetrahydrocolumbamine, NADPH:oxygen oxidoreductase (methylenedioxy-bridge-forming)",
+    "definition": "(S)-Canadine + NADP+ + 2 H2O <=> Isocorypalmine + NADPH + Oxygen + H+",
+    "equation": "C03329 + C00006 + 2 C00001 <=> C04118 + C00005 + C00007 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.21.5"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13395": "(S)-stylopine/(S)-canadine/(S)-nandinine synthase [EC:1.14.21.1 1.14.21.5 1.14.21.12]"
+    }
+  }
+]

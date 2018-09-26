@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R02334",
+    "name": "[1,4-(N-Acetyl-beta-D-glucosaminyl)]n glycanohydrolase",
+    "definition": "Chitin + H2O <=> Chitobiose + Chitin",
+    "equation": "C00461 + C00001 <=> C01674 + C00461",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.14"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01183": "chitinase [EC:3.2.1.14]",
+      "K13381": "bifunctional chitinase/lysozyme [EC:3.2.1.14 3.2.1.17]",
+      "K20547": "basic endochitinase B [EC:3.2.1.14]"
+    }
+  }
+]

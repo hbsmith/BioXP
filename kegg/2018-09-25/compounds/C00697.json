@@ -1,0 +1,70 @@
+[
+  {
+    "entry_id": "C00697",
+    "name": "Nitrogen",
+    "names": [
+      "Nitrogen",
+      "N2"
+    ],
+    "formula": "N2",
+    "exact_mass": 28.0061,
+    "mol_weight": 28.0134,
+    "remark": "Same as: D00083",
+    "comment": "",
+    "reactions": [
+      "R02802",
+      "R02804",
+      "R05185",
+      "R05186",
+      "R07174",
+      "R09435",
+      "R09436",
+      "R09808",
+      "R09996"
+    ],
+    "pathways": {
+      "map00910": "Nitrogen metabolism",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map02020": "Two-component system",
+      "map02060": "Phosphotransferase system (PTS)"
+    },
+    "enzymes": [
+      "1.7.1.14",
+      "1.7.2.4",
+      "1.7.2.8",
+      "1.18.6.1",
+      "1.19.6.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "7727-37-9"
+      ],
+      "PubChem": [
+        "3965"
+      ],
+      "ChEBI": [
+        "17997"
+      ],
+      "ChEMBL": [
+        "CHEMBL142438"
+      ],
+      "PDB-CCD": [
+        "HDZ"
+      ],
+      "3DMET": [
+        "B00156"
+      ],
+      "NIKKAJI": [
+        "J44.424C"
+      ]
+    },
+    "kcf": "ATOM        2\n            1   N3a N    24.3600  -17.0100\n            2   N3a N    25.7600  -17.0100\nBOND        1\n            1     1   2 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

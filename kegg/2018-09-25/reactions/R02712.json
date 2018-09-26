@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02712",
+    "name": "4-Methylene-L-glutamine amidohydrolase",
+    "definition": "4-Methylene-L-glutamine + H2O <=> 4-Methylene-L-glutamate + Ammonia",
+    "equation": "C01109 + C00001 <=> C00651 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.67"
+    ],
+    "pathways": {
+      "rn00660": "C5-Branched dibasic acid metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

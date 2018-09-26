@@ -1,0 +1,58 @@
+[
+  {
+    "entry_id": "C08365",
+    "name": "Ricinoleic acid",
+    "names": [
+      "Ricinoleic acid",
+      "(9Z)-(12R)-Hydroxyoctadecenoic acid",
+      "12-Hydroxy-9-octadecenoic acid",
+      "12-Hydroxy-cis-9-octadecenoic acid"
+    ],
+    "formula": "C18H34O3",
+    "exact_mass": 298.2508,
+    "mol_weight": 298.4608,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "141-22-0"
+      ],
+      "PubChem": [
+        "10561"
+      ],
+      "ChEBI": [
+        "28592"
+      ],
+      "ChEMBL": [
+        "CHEMBL3186422"
+      ],
+      "LipidBank": [
+        "DFA0374"
+      ],
+      "KNApSAcK": [
+        "C00001237"
+      ],
+      "3DMET": [
+        "B02173"
+      ],
+      "NIKKAJI": [
+        "J5.804A"
+      ]
+    },
+    "kcf": "ATOM        21\n            1   C1c C    30.4093  -18.1104\n            2   C1b C    29.2127  -18.8099\n            3   C1b C    31.6121  -18.8099\n            4   O1a O    30.4155  -16.5764\n            5   C2b C    28.0039  -18.1043\n            6   C1b C    32.8147  -18.1104\n            7   C2b C    26.5434  -18.1043\n            8   C1b C    34.0115  -18.8099\n            9   C1b C    25.3468  -18.8099\n            10  C1b C    35.2080  -18.1104\n            11  C1b C    24.1503  -18.1043\n            12  C1b C    36.4107  -18.8099\n            13  C1b C    22.9597  -18.8099\n            14  C1a C    37.6074  -18.1104\n            15  C1b C    21.7509  -18.1043\n            16  C1b C    20.5481  -18.8099\n            17  C1b C    19.3515  -18.1043\n            18  C1b C    18.1549  -18.8099\n            19  C6a C    16.9584  -18.1043\n            20  O6a O    15.7618  -18.8099\n            21  O6a O    16.9584  -16.7298\nBOND        20\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     2   5 1\n            5     3   6 1\n            6     5   7 2\n            7     6   8 1\n            8     7   9 1\n            9     8  10 1\n            10    9  11 1\n            11   10  12 1\n            12   11  13 1\n            13   12  14 1\n            14   13  15 1\n            15   15  16 1\n            16   16  17 1\n            17   17  18 1\n            18   18  19 1\n            19   19  20 1\n            20   19  21 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

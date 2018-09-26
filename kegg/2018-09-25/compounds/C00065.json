@@ -1,0 +1,142 @@
+[
+  {
+    "entry_id": "C00065",
+    "name": "L-Serine",
+    "names": [
+      "L-Serine",
+      "L-2-Amino-3-hydroxypropionic acid",
+      "L-3-Hydroxy-alanine",
+      "Serine"
+    ],
+    "formula": "C3H7NO3",
+    "exact_mass": 105.0426,
+    "mol_weight": 105.0926,
+    "remark": "Same as: D00016",
+    "comment": "",
+    "reactions": [
+      "R00220",
+      "R00581",
+      "R00582",
+      "R00584",
+      "R00585",
+      "R00586",
+      "R00588",
+      "R00589",
+      "R00590",
+      "R00674",
+      "R00891",
+      "R00945",
+      "R01281",
+      "R01289",
+      "R01290",
+      "R01800",
+      "R02378",
+      "R02563",
+      "R02722",
+      "R02817",
+      "R03662",
+      "R03923",
+      "R04350",
+      "R04942",
+      "R06126",
+      "R07376",
+      "R07377",
+      "R07644",
+      "R08218",
+      "R09099",
+      "R10255",
+      "R10441",
+      "R10880",
+      "R10984",
+      "R10985",
+      "R10986",
+      "R11667"
+    ],
+    "pathways": {
+      "map00260": "Glycine, serine and threonine metabolism",
+      "map00261": "Monobactam biosynthesis",
+      "map00270": "Cysteine and methionine metabolism",
+      "map00460": "Cyanoamino acid metabolism",
+      "map00600": "Sphingolipid metabolism",
+      "map00630": "Glyoxylate and dicarboxylate metabolism",
+      "map00680": "Methane metabolism",
+      "map00920": "Sulfur metabolism",
+      "map00970": "Aminoacyl-tRNA biosynthesis",
+      "map01060": "Biosynthesis of plant secondary metabolites",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01130": "Biosynthesis of antibiotics",
+      "map01200": "Carbon metabolism",
+      "map01230": "Biosynthesis of amino acids",
+      "map01502": "Vancomycin resistance",
+      "map02010": "ABC transporters",
+      "map04071": "Sphingolipid signaling pathway",
+      "map04974": "Protein digestion and absorption",
+      "map04978": "Mineral absorption",
+      "map05230": "Central carbon metabolism in cancer"
+    },
+    "enzymes": [
+      "1.1.1.276",
+      "1.1.1.387",
+      "1.4.1.7",
+      "2.1.2.1",
+      "2.3.1.30",
+      "2.3.1.50",
+      "2.6.1.45",
+      "2.6.1.51",
+      "2.7.1.80",
+      "2.7.8.4",
+      "2.7.8.8",
+      "2.7.8.29",
+      "2.7.8.38",
+      "2.8.1.4",
+      "3.1.3.3",
+      "3.1.4.13",
+      "3.5.1.61",
+      "4.2.1.20",
+      "4.2.1.22",
+      "4.2.1.50",
+      "4.2.1.122",
+      "4.3.1.17",
+      "4.3.1.19",
+      "5.1.1.10",
+      "5.1.1.18",
+      "6.1.1.11",
+      "6.3.2.14"
+    ],
+    "dblinks": {
+      "CAS": [
+        "56-45-1"
+      ],
+      "PubChem": [
+        "3365"
+      ],
+      "ChEBI": [
+        "17115"
+      ],
+      "ChEMBL": [
+        "CHEMBL11298"
+      ],
+      "KNApSAcK": [
+        "C00001393"
+      ],
+      "PDB-CCD": [
+        "SER"
+      ],
+      "3DMET": [
+        "B01145"
+      ],
+      "NIKKAJI": [
+        "J1.195I"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1c C    23.5961  -17.5357\n            2   C6a C    22.4445  -16.7873\n            3   C1b C    24.8238  -16.8518\n            4   N1a N    23.6370  -18.9388\n            5   O6a O    21.2226  -17.4714\n            6   O6a O    22.4677  -15.3785\n            7   O1a O    26.0339  -17.5708\nBOND        6\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

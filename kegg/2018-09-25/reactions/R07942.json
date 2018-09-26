@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07942",
+    "name": "1-methylxanthine:oxygen oxidoreductase",
+    "definition": "1-Methylxanthine + H2O + Oxygen <=> 1-Methyluric acid + Hydrogen peroxide",
+    "equation": "C16358 + C00001 + C00007 <=> C16359 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.17.3.2"
+    ],
+    "pathways": {
+      "rn00232": "Caffeine metabolism"
+    },
+    "orthologs": {
+      "K00106": "xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2]"
+    }
+  }
+]

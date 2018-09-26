@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02491",
+    "name": "(3S)-citramalyl-CoA hydro-lyase (itaconyl-CoA-forming)",
+    "definition": "(3S)-Citramalyl-CoA <=> Itaconyl-CoA + H2O",
+    "equation": "C01011 <=> C00531 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.56"
+    ],
+    "pathways": {
+      "rn00660": "C5-Branched dibasic acid metabolism"
+    },
+    "orthologs": {
+      "K18290": "itaconyl-CoA hydratase [EC:4.2.1.56]",
+      "K18291": "itaconyl-CoA hydratase / mesaconyl-C4 CoA hydratase [EC:4.2.1.56 4.2.1.-]"
+    }
+  }
+]

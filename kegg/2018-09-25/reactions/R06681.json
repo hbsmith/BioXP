@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06681",
+    "name": "aklaviketone lyase (ring-opening); methyl aklanonate cyclase",
+    "definition": "Methyl aklanonate <=> Aklaviketone",
+    "equation": "C12422 <=> C12423",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.23"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15943": "nogalonic acid methyl ester cyclase / aklanonic acid methyl ester cyclase [EC:5.5.1.26 5.5.1.23]"
+    }
+  }
+]

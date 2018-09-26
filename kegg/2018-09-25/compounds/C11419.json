@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C11419",
+    "name": "(3S)-3-Isopropenyl-6-oxoheptanoate",
+    "names": [
+      "(3S)-3-Isopropenyl-6-oxoheptanoate",
+      "(3S)-3-Isopropenyl-6-oxoheptanoic acid"
+    ],
+    "formula": "C10H16O3",
+    "exact_mass": 184.1099,
+    "mol_weight": 184.2322,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06395",
+      "R06397",
+      "R09391"
+    ],
+    "pathways": {
+      "map00903": "Limonene and pinene degradation"
+    },
+    "enzymes": [
+      "1.14.13.105",
+      "6.2.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "13593"
+      ],
+      "ChEBI": [
+        "211",
+        "37291"
+      ],
+      "3DMET": [
+        "B04261"
+      ],
+      "NIKKAJI": [
+        "J1.121.166F"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C6a C    27.8890  -16.7987\n            2   O6a O    29.0421  -17.5957\n            3   C5a C    26.6807  -16.1004\n            4   C1a C    25.4643  -15.3952\n            5   O5a O    27.8973  -15.3952\n            6   C1b C    25.4643  -16.7987\n            7   C1b C    25.4643  -18.1952\n            8   C1c C    26.6769  -18.8935\n            9   C1b C    27.8890  -18.1952\n            10  O6a O    29.0985  -16.1004\n            11  C2c C    26.6785  -20.2900\n            12  C1a C    25.4699  -20.9898\n            13  C2a C    27.8958  -20.9868\nBOND        12\n            1     1   2 1\n            2     3   4 1\n            3     3   5 2\n            4     6   7 1\n            5     7   8 1\n            6     1  10 2\n            7     8   9 1\n            8     8  11 1 #Up\n            9     9   1 1\n            10   11  12 1\n            11   11  13 2\n            12    6   3 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

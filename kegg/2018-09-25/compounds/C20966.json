@@ -1,0 +1,36 @@
+[
+  {
+    "entry_id": "C20966",
+    "name": "3-{[(2E)-4-Amino-4-oxobut-2-enoyl]amino}-L-alanine",
+    "names": [
+      "3-{[(2E)-4-Amino-4-oxobut-2-enoyl]amino}-L-alanine"
+    ],
+    "formula": "C7H11N3O4",
+    "exact_mass": 201.075,
+    "mol_weight": 201.1799,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10942",
+      "R10943",
+      "R10944"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "6.3.2.47"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741426"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   N1a N    11.3658  -16.1740\n            2   C5a C    12.5786  -15.4739\n            3   C2b C    13.7913  -16.1740\n            4   C2b C    15.0039  -15.4739\n            5   C5a C    16.2166  -16.1740\n            6   N1b N    17.4293  -15.4739\n            7   O5a O    12.5786  -14.0738\n            8   O5a O    16.2166  -17.5740\n            9   C1b C    18.6474  -16.1740\n            10  C1c C    19.8601  -15.4739\n            11  C6a C    21.0728  -16.1740\n            12  O6a O    22.2854  -15.4739\n            13  N1a N    19.8601  -14.0738\n            14  O6a O    21.0728  -17.5743\nBOND        13\n            1     1   2 1\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 1\n            6     2   7 2\n            7     5   8 2\n            8     6   9 1\n            9     9  10 1\n            10   10  11 1\n            11   11  12 1\n            12   10  13 1 #Down\n            13   11  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

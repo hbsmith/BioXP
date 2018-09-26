@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07143",
+    "name": "D-arabinitol:NADP+ oxidoreductase",
+    "definition": "D-Arabitol + NADP+ <=> D-Xylulose + NADPH + H+",
+    "equation": "C01904 + C00006 <=> C00310 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.287"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K17818": "D-arabinitol dehydrogenase (NADP+) [EC:1.1.1.287]"
+    }
+  }
+]

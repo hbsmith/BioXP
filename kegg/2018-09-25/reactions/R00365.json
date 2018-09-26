@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00365",
+    "name": "glycine:NAD+ oxidoreductase (deaminating)",
+    "definition": "Glycine + H2O + NAD+ <=> Glyoxylate + Ammonia + NADH + H+",
+    "equation": "C00037 + C00001 + C00003 <=> C00048 + C00014 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.1.1",
+      "1.4.1.10"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

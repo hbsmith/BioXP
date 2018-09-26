@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09121",
+    "name": "ent-Copalyl-diphosphate diphosphate-lyase [ent-pimara-8(14),15-diene-forming]",
+    "definition": "ent-Copalyl diphosphate <=> ent-Pimara-8(14),15-diene + Diphosphate",
+    "equation": "C06089 <=> C18228 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.30"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K14038": "ent-pimara-8(14),15-diene synthase [EC:4.2.3.30]"
+    }
+  }
+]

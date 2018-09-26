@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00743",
+    "name": "Acetyl-CoA:malonate CoA-transferase",
+    "definition": "Acetyl-CoA + Malonate <=> Acetate + Malonyl-CoA",
+    "equation": "C00024 + C00383 <=> C00033 + C00083",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.3"
+    ],
+    "pathways": {
+      "rn00410": "beta-Alanine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

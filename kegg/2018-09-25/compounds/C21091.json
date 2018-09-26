@@ -1,0 +1,35 @@
+[
+  {
+    "entry_id": "C21091",
+    "name": "(2S,3R)-2,3-Dihydroxy-5-oxohexanedioate",
+    "names": [
+      "(2S,3R)-2,3-Dihydroxy-5-oxohexanedioate",
+      "3-Deoxy-D-threo-hex-2-ulosarate"
+    ],
+    "formula": "C6H8O7",
+    "exact_mass": 192.027,
+    "mol_weight": 192.1235,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11077"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.2.1.158"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "310920472"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   O6a O    14.4362  -16.5378\n            2   C6a C    15.6486  -15.8400\n            3   C1c C    16.8609  -16.5378\n            4   C1c C    18.0734  -15.8400\n            5   C1b C    19.2858  -16.5378\n            6   C5a C    20.4912  -15.8400\n            7   C6a C    21.7035  -16.5378\n            8   O6a O    22.9159  -15.8400\n            9   O6a O    15.6486  -14.4372\n            10  O5a O    20.4912  -14.4372\n            11  O6a O    21.7035  -17.9406\n            12  O1a O    16.8609  -17.9406\n            13  O1a O    18.0734  -14.4372\nBOND        12\n            1     6   7 1\n            2     3   4 1\n            3     7   8 1\n            4     2   9 2\n            5     4   5 1\n            6     6  10 2\n            7     2   3 1\n            8     7  11 2\n            9     5   6 1\n            10    3  12 1 #Down\n            11    1   2 1\n            12    4  13 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R03018",
+    "name": "ATP:pantothenate 4'-phosphotransferase",
+    "definition": "ATP + Pantothenate <=> ADP + D-4'-Phosphopantothenate",
+    "equation": "C00002 + C00864 <=> C00008 + C03492",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.33"
+    ],
+    "pathways": {
+      "rn00770": "Pantothenate and CoA biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00867": "type I pantothenate kinase [EC:2.7.1.33]",
+      "K01947": "biotin---[acetyl-CoA-carboxylase] ligase / type III pantothenate kinase [EC:6.3.4.15 2.7.1.33]",
+      "K03525": "type III pantothenate kinase [EC:2.7.1.33]",
+      "K09680": "type II pantothenate kinase [EC:2.7.1.33]"
+    }
+  }
+]

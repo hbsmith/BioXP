@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C08042",
+    "name": "Nitrofurazone",
+    "names": [
+      "Nitrofurazone",
+      "5-Nitro-2-furaldehyde semicarbazone"
+    ],
+    "formula": "C6H6N4O4",
+    "exact_mass": 198.0389,
+    "mol_weight": 198.1362,
+    "remark": "Same as: D00862",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "59-87-0"
+      ],
+      "PubChem": [
+        "10242"
+      ],
+      "ChEBI": [
+        "44368"
+      ],
+      "ChEMBL": [
+        "CHEMBL869"
+      ],
+      "PDB-CCD": [
+        "NFZ"
+      ],
+      "NIKKAJI": [
+        "J1.921F"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    31.4300  -17.5000\n            2   C2b C    32.6200  -16.8000\n            3   N2b N    33.8100  -17.5000\n            4   N1b N    35.0700  -16.8000\n            5   C5a C    36.2600  -17.5000\n            6   N1a N    37.4500  -16.8000\n            7   O5a O    36.2600  -18.8300\n            8   O2x O    30.3100  -16.6600\n            9   C8y C    29.1900  -17.5000\n            10  C8x C    29.6800  -18.8300\n            11  C8x C    31.0100  -18.8300\n            12  N2b N    28.0000  -16.8000 #+\n            13  O3a O    26.6700  -17.6400 #-\n            14  O3a O    28.0000  -15.4700\nBOND        14\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     5   7 2\n            7     1   8 1\n            8     8   9 1\n            9     9  10 2\n            10   10  11 1\n            11    1  11 2\n            12    9  12 1\n            13   12  13 1\n            14   12  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

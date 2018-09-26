@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04693",
+    "name": "Monophenol,L-dopa:oxygen oxidoreductase",
+    "definition": "(S)-N-Methylcoclaurine + Oxygen + Reduced acceptor <=> 3'-Hydroxy-N-methyl-(S)-coclaurine + H2O + Acceptor",
+    "equation": "C05176 + C00007 + C00030 <=> C05202 + C00001 + C00028",
+    "comment": "Ref:1. Meth Enzymol 1987; 142: 165-169",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.18.1"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00505": "tyrosinase [EC:1.14.18.1]"
+    }
+  }
+]

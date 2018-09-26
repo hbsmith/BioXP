@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09073",
+    "name": "S-adenosylmethionine:diacylglycerylhomoserine N-methyltransferase (diacylglyceryl-N,N,N-trimethylhomoserine-forming)",
+    "definition": "Diacylglycerylhomoserine + 3 S-Adenosyl-L-methionine <=> Diacylglyceryl-N,N,N-trimethylhomoserine + 3 S-Adenosyl-L-homocysteine",
+    "equation": "C18168 + 3 C00019 <=> C18169 + 3 C00021",
+    "comment": "S-adenosylmethionine-diacylglycerolhomoserine-N-methyltransferase three-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism"
+    },
+    "orthologs": {
+      "K13621": "betaine lipid synthase",
+      "K13623": "S-adenosylmethionine-diacylgycerolhomoserine-N-methlytransferase"
+    }
+  }
+]

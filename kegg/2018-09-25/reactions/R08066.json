@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08066",
+    "name": "isopentenyladenosine,NADPH---hemoprotein reductase:oxygen oxidoreductase (trans-zeatin-riboside-forming)",
+    "definition": "Isopentenyl adenosine + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> trans-Zeatin riboside + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C16427 + C03024 + C00007 <=> C16431 + C03161 + C00001",
+    "comment": "P-450 monooxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00908": "Zeatin biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

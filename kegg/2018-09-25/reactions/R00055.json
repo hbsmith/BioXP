@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00055",
+    "name": "inosine:oxygen 5'-oxidoreductase",
+    "definition": "2 Inosine + Oxygen <=> 2 5'-Oxoinosine + 2 H2O",
+    "equation": "2 C00294 + C00007 <=> 2 C01993 + 2 C00001",
+    "comment": "the first step of two-step reaction (see R05821, R00055+R05822) subsequently R05822",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.3.28"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

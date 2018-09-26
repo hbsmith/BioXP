@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08103",
+    "name": "",
+    "definition": "Fluorobenzene + NADH + Oxygen + H+ <=> 4-Fluorocyclohexadiene-cis,cis-1,2-diol + NAD+",
+    "equation": "C11272 + C00004 + C00007 + C00080 <=> C16483 + C00003",
+    "comment": "fluorobenzene dioxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.12.-"
+    ],
+    "pathways": {
+      "rn00364": "Fluorobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+    }
+  }
+]

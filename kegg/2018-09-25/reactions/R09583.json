@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R09583",
+    "name": "L-tryptophan,NADPH:oxygen oxidoreductase (N-hydroxylating)",
+    "definition": "L-Tryptophan + Oxygen + NADPH + H+ <=> N-Hydroxy-L-tryptophan + NADP+ + H2O",
+    "equation": "C00078 + C00007 + C00005 + C00080 <=> C19716 + C00006 + C00001",
+    "comment": "first step of three-step reaction (see R08160, R09583+R09584+R09585)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.125"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

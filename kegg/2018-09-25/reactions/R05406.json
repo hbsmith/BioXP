@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R05406",
+    "name": "catechol:oxygen 2,3-oxidoreductase (ring-opening)",
+    "definition": "4-Chlorocatechol + Oxygen <=> 5-Chloro-2-hydroxymuconic semialdehyde",
+    "equation": "C02375 + C00007 <=> C07089",
+    "comment": "Ref.: 1. Mol Cells 2000;10(4):475-479",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.2"
+    ],
+    "pathways": {
+      "rn00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00446": "catechol 2,3-dioxygenase [EC:1.13.11.2]",
+      "K07104": "catechol 2,3-dioxygenase [EC:1.13.11.2]"
+    }
+  }
+]

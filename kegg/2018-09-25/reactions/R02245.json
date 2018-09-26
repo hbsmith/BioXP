@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R02245",
+    "name": "ATP:(R)-mevalonate 5-phosphotransferase",
+    "definition": "ATP + (R)-Mevalonate <=> ADP + (R)-5-Phosphomevalonate",
+    "equation": "C00002 + C00418 <=> C00008 + C01107",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.36"
+    ],
+    "pathways": {
+      "rn00900": "Terpenoid backbone biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00869": "mevalonate kinase [EC:2.7.1.36]"
+    }
+  }
+]

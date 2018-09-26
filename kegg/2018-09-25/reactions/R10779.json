@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R10779",
+    "name": "ATP:(R)-mevalonate 3-phosphotransferase",
+    "definition": "(R)-Mevalonate + ATP <=> (R)-Mevalonate 3-phosphate + ADP",
+    "equation": "C00418 + C00002 <=> C20847 + C00008",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.185"
+    ],
+    "pathways": {
+      "rn00900": "Terpenoid backbone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K18689": "mevalonate-3-kinase [EC:2.7.1.185]"
+    }
+  }
+]

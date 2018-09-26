@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R07262",
+    "name": "1,4-dihydroxy-2-naphthoyl-CoA hydrolase",
+    "definition": "1,4-Dihydroxy-2-naphthoyl-CoA + H2O <=> 1,4-Dihydroxy-2-naphthoate + CoA",
+    "equation": "C15547 + C00001 <=> C03657 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.2.28"
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K12073": "1,4-dihydroxy-2-naphthoyl-CoA hydrolase [EC:3.1.2.28]",
+      "K19222": "1,4-dihydroxy-2-naphthoyl-CoA hydrolase [EC:3.1.2.28]"
+    }
+  }
+]

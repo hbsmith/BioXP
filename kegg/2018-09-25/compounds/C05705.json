@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C05705",
+    "name": "Selenocysteine seleninic acid",
+    "names": [
+      "Selenocysteine seleninic acid",
+      "Selenocysteine seleninate",
+      "3-Seleninoalanine"
+    ],
+    "formula": "C3H7NO4Se",
+    "exact_mass": 200.954,
+    "mol_weight": 200.052,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04933"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8012"
+      ],
+      "ChEBI": [
+        "28454"
+      ],
+      "PDB-CCD": [
+        "SE7"
+      ],
+      "3DMET": [
+        "B05103"
+      ],
+      "NIKKAJI": [
+        "J2.758.831J"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1c C    30.6600  -25.3400\n            2   C1b C    31.9200  -24.6400\n            3   C6a C    29.4700  -24.6400\n            4   N1a N    30.6600  -26.8800\n            5   Z   Se   33.1100  -25.3400\n            6   O6a O    28.2800  -25.3400\n            7   O6a O    29.4700  -23.2400\n            8   O1a O    34.7900  -24.1500\n            9   O0  O    33.1100  -26.8800\nBOND        8\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     2   5 1\n            5     3   6 1\n            6     3   7 2\n            7     5   8 1\n            8     5   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

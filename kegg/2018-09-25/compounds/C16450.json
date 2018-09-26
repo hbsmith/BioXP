@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C16450",
+    "name": "1,3-Butadiene",
+    "names": [
+      "1,3-Butadiene"
+    ],
+    "formula": "C4H6",
+    "exact_mass": 54.047,
+    "mol_weight": 54.0904,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "106-99-0"
+      ],
+      "PubChem": [
+        "47205746"
+      ],
+      "ChEBI": [
+        "39478"
+      ],
+      "ChEMBL": [
+        "CHEMBL537970"
+      ],
+      "NIKKAJI": [
+        "J4.043F"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   C2a C    13.0900  -16.1700\n            2   C2b C    14.3024  -16.8700\n            3   C2b C    15.5149  -16.1700\n            4   C2a C    16.7273  -16.8700\nBOND        3\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C01235",
+    "name": "alpha-D-Galactosyl-(1->3)-1D-myo-inositol",
+    "names": [
+      "alpha-D-Galactosyl-(1->3)-1D-myo-inositol",
+      "O-alpha-D-Galactosyl-(1->3)-1D-myo-inositol",
+      "3-O-alpha-D-Galactosyl-1D-myo-inositol",
+      "1-alpha-D-Galactosyl-myo-inositol",
+      "Galactinol"
+    ],
+    "formula": "C12H22O11",
+    "exact_mass": 342.1162,
+    "mol_weight": 342.2965,
+    "remark": "Same as: G10488",
+    "comment": "",
+    "reactions": [
+      "R01192",
+      "R01194",
+      "R02411",
+      "R03418"
+    ],
+    "pathways": {
+      "map00052": "Galactose metabolism"
+    },
+    "enzymes": [
+      "2.4.1.67",
+      "2.4.1.82",
+      "2.4.1.123",
+      "3.2.1.22"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4456"
+      ],
+      "ChEBI": [
+        "17505"
+      ],
+      "3DMET": [
+        "B01419"
+      ],
+      "NIKKAJI": [
+        "J475.283J"
+      ]
+    },
+    "kcf": "ATOM        23\n            1   C1y C    29.6797  -20.6791\n            2   O2a O    27.6376  -19.1703\n            3   C1y C    30.8135  -20.0277\n            4   C1y C    29.6797  -22.0059\n            5   C1y C    25.6654  -19.9605\n            6   C1y C    31.9655  -20.6791\n            7   O1a O    30.8135  -18.7830\n            8   C1y C    30.8135  -22.6754\n            9   O1a O    28.6713  -22.8420\n            10  O2x O    24.5136  -19.3031\n            11  C1y C    25.6654  -21.2872\n            12  C1y C    31.9655  -22.0059\n            13  O1a O    33.2392  -20.0216\n            14  O1a O    30.8135  -23.9901\n            15  C1y C    23.3798  -19.9605\n            16  C1y C    24.5136  -21.9568\n            17  O1a O    26.6739  -21.9376\n            18  O1a O    33.1053  -22.6633\n            19  C1y C    23.3798  -21.2872\n            20  C1b C    22.2458  -19.3031\n            21  O1a O    24.5136  -23.2653\n            22  O1a O    22.2400  -21.9327\n            23  O1a O    21.1061  -19.9605\nBOND        24\n            1     1   2 1 #Up\n            2     1   3 1\n            3     1   4 1\n            4     5   2 1 #Down\n            5     3   6 1\n            6     3   7 1 #Up\n            7     4   8 1\n            8     4   9 1 #Down\n            9     5  10 1\n            10    5  11 1\n            11    6  12 1\n            12    6  13 1 #Up\n            13    8  14 1 #Up\n            14   10  15 1\n            15   11  16 1\n            16   11  17 1 #Down\n            17   12  18 1 #Down\n            18   15  19 1\n            19   15  20 1 #Up\n            20   16  21 1 #Up\n            21   19  22 1 #Up\n            22   20  23 1\n            23    8  12 1\n            24   16  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

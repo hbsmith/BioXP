@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00526",
+    "name": "N-Formyl-L-aspartate amidohydrolase",
+    "definition": "N-Formyl-L-aspartate + H2O <=> Formate + L-Aspartate",
+    "equation": "C01044 + C00001 <=> C00058 + C00049",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.8",
+      "3.5.1.15"
+    ],
+    "pathways": {
+      "rn00340": "Histidine metabolism",
+      "rn00630": "Glyoxylate and dicarboxylate metabolism"
+    },
+    "orthologs": {
+      "K01437": "aspartoacylase [EC:3.5.1.15]"
+    }
+  }
+]

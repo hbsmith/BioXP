@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C04063",
+    "name": "D-myo-Inositol 3,4-bisphosphate",
+    "names": [
+      "D-myo-Inositol 3,4-bisphosphate",
+      "1D-myo-Inositol 3,4-bisphosphate",
+      "Inositol 3,4-bisphosphate"
+    ],
+    "formula": "C6H14O12P2",
+    "exact_mass": 339.996,
+    "mol_weight": 340.1157,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03427",
+      "R04372"
+    ],
+    "pathways": {
+      "map00562": "Inositol phosphate metabolism",
+      "map01100": "Metabolic pathways",
+      "map04070": "Phosphatidylinositol signaling system"
+    },
+    "enzymes": [
+      "3.1.3.57",
+      "3.1.3.66"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6760"
+      ],
+      "ChEBI": [
+        "28858"
+      ],
+      "3DMET": [
+        "B01714"
+      ],
+      "NIKKAJI": [
+        "J709.339J"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   P1b P    20.3945  -17.2272\n            2   O2b O    19.0081  -17.2144\n            3   O1c O    21.8001  -17.2272\n            4   O1c O    20.3818  -15.8344\n            5   O1c O    20.3945  -18.6136\n            6   C1y C    17.8069  -16.5309\n            7   C1y C    16.5866  -17.2399\n            8   C1y C    17.8069  -15.1253\n            9   C1y C    15.3854  -16.5309\n            10  O2b O    16.5866  -18.6201\n            11  C1y C    16.5866  -14.4288\n            12  O1a O    19.1103  -14.3586\n            13  C1y C    15.3854  -15.1253\n            14  O1a O    14.1779  -17.2209\n            15  P1b P    16.5994  -20.0129\n            16  O1a O    16.5866  -13.0423\n            17  O1a O    14.1844  -14.4288\n            18  O1c O    18.0049  -20.0129\n            19  O1c O    15.2066  -20.0064\n            20  O1c O    16.5931  -21.3994\nBOND        20\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     6   2 1 #Down\n            6     6   7 1\n            7     6   8 1\n            8     7   9 1\n            9     7  10 1 #Up\n            10    8  11 1\n            11    8  12 1 #Up\n            12    9  13 1\n            13    9  14 1 #Up\n            14   10  15 1\n            15   11  16 1 #Down\n            16   13  17 1 #Up\n            17   15  18 1\n            18   15  19 1\n            19   15  20 2\n            20   11  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

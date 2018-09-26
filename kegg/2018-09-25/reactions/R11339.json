@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11339",
+    "name": "2-dehydro-3-deoxy-L-rhamnonate:NAD+ 4-oxidoreductase",
+    "definition": "2-Dehydro-3-deoxy-L-rhamnonate + NAD+ <=> 2,4-Diketo-3-deoxy-L-fuconate + NADH + H+",
+    "equation": "C03979 + C00003 <=> C20781 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.401"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K21883": "2-dehydro-3-deoxy-L-rhamnonate dehydrogenase (NAD+) [EC:1.1.1.401]"
+    }
+  }
+]

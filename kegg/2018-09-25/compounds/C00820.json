@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C00820",
+    "name": "D-Threonine",
+    "names": [
+      "D-Threonine",
+      "D-2-Amino-3-hydroxybutyric acid"
+    ],
+    "formula": "C4H9NO3",
+    "exact_mass": 119.0582,
+    "mol_weight": 119.1192,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01467",
+      "R08195"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.1.2.42",
+      "5.1.1.6"
+    ],
+    "dblinks": {
+      "CAS": [
+        "632-20-2"
+      ],
+      "PubChem": [
+        "4078"
+      ],
+      "ChEBI": [
+        "16398"
+      ],
+      "ChEMBL": [
+        "CHEMBL1734340"
+      ],
+      "PDB-CCD": [
+        "DTH"
+      ],
+      "3DMET": [
+        "B01339"
+      ],
+      "NIKKAJI": [
+        "J9.180D"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   O6a O    22.5407  -18.2704\n            2   C6a C    23.7531  -17.5704\n            3   C1c C    24.9657  -18.2704\n            4   C1c C    26.1781  -17.5704\n            5   C1a C    27.3906  -18.2704\n            6   O6a O    23.7531  -16.1705\n            7   O1a O    26.1781  -16.1700\n            8   N1a N    24.9657  -19.6698\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     2   6 2\n            6     4   7 1 #Up\n            7     3   8 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

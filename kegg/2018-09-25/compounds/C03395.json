@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C03395",
+    "name": "Fatty acid methyl ester",
+    "names": [
+      "Fatty acid methyl ester"
+    ],
+    "formula": "C2H3O2R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R01349"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.1.1.15"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6226"
+      ],
+      "ChEBI": [
+        "4986"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   R   R    24.6711  -17.1037\n            2   C7a C    25.8826  -16.3992\n            3   O7a O    27.0871  -17.1037\n            4   C1a C    28.2987  -16.3992\n            5   O6a O    25.8826  -14.9975\nBOND        4\n            1     2   3 1\n            2     1   2 1\n            3     3   4 1\n            4     2   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

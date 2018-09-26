@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11526",
+    "name": "chlortetracycline,NADPH:oxygen oxidoreductase (11a-hydroxylating)",
+    "definition": "Chlortetracycline + NADPH + H+ + Oxygen <=> 11a-Hydroxy-7-chlortetracycline + NADP+ + H2O",
+    "equation": "C06571 + C00005 + C00080 + C00007 <=> C21439 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.231"
+    ],
+    "pathways": {
+      "rn00253": "Tetracycline biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K18221": "tetracycline 11a-monooxygenase, tetracycline resistance protein [EC:1.14.13.231]"
+    }
+  }
+]

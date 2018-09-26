@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05177",
+    "name": "precorrin 8X 11,12-methylmutase",
+    "definition": "Precorrin 8X <=> Hydrogenobyrinate",
+    "equation": "C06408 <=> C06399",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.99.61"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K06042": "precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60]"
+    }
+  }
+]

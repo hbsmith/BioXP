@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R03654",
+    "name": "glycine:tRNA(Gly) ligase (AMP-forming)",
+    "definition": "ATP + Glycine + tRNA(Gly) <=> AMP + Diphosphate + Glycyl-tRNA(Gly)",
+    "equation": "C00002 + C00037 + C01642 <=> C00020 + C00013 + C02412",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.1.1.14"
+    ],
+    "pathways": {
+      "rn00970": "Aminoacyl-tRNA biosynthesis"
+    },
+    "orthologs": {
+      "K01878": "glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]",
+      "K01879": "glycyl-tRNA synthetase beta chain [EC:6.1.1.14]",
+      "K01880": "glycyl-tRNA synthetase [EC:6.1.1.14]",
+      "K14164": "glycyl-tRNA synthetase [EC:6.1.1.14]"
+    }
+  }
+]

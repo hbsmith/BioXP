@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07413",
+    "name": "",
+    "definition": "Digalacturonate + H2O <=> 2 D-Galacturonate",
+    "equation": "C02273 + C00001 <=> 2 C00333",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.67"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01213": "galacturan 1,4-alpha-galacturonidase [EC:3.2.1.67]"
+    }
+  }
+]

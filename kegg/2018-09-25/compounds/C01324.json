@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C01324",
+    "name": "Bromide",
+    "names": [
+      "Bromide",
+      "Br-"
+    ],
+    "formula": "Br",
+    "exact_mass": 78.9183,
+    "mol_weight": 79.904,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03523",
+      "R07781"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.3.1.32",
+      "3.8.1.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "24959-67-9"
+      ],
+      "PubChem": [
+        "4536"
+      ],
+      "ChEBI": [
+        "15858"
+      ],
+      "ChEMBL": [
+        "CHEMBL11685"
+      ],
+      "PDB-CCD": [
+        "BR"
+      ],
+      "NIKKAJI": [
+        "J44.422G"
+      ]
+    },
+    "kcf": "ATOM        1\n            1   X   Br   25.1300  -17.2200 #-\nBOND        0\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

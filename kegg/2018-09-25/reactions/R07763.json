@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R07763",
+    "name": "",
+    "definition": "3-Oxostearoyl-[acp] + NADPH + H+ <=> (R)-3-Hydroxyoctadecanoyl-[acp] + NADP+",
+    "equation": "C16219 + C00005 + C00080 <=> C16220 + C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.100",
+      "2.3.1.-"
+    ],
+    "pathways": {
+      "rn00061": "Fatty acid biosynthesis",
+      "rn01040": "Biosynthesis of unsaturated fatty acids",
+      "rn01212": "Fatty acid metabolism"
+    },
+    "orthologs": {
+      "K00059": "3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]",
+      "K11533": "fatty acid synthase, bacteria type [EC:2.3.1.-]"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R02733",
+    "name": "N6-Acetyl-LL-2,6-diaminoheptanedioate amidohydrolase",
+    "definition": "N6-Acetyl-LL-2,6-diaminoheptanedioate + H2O <=> Acetate + LL-2,6-Diaminoheptanedioate",
+    "equation": "C04390 + C00001 <=> C00033 + C00666",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.47"
+    ],
+    "pathways": {
+      "rn00300": "Lysine biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K05823": "N-acetyldiaminopimelate deacetylase [EC:3.5.1.47]"
+    }
+  }
+]

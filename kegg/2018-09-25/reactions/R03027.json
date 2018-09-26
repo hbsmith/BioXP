@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R03027",
+    "name": "(3R)-3-hydroxybutanoyl-CoA hydro-lyase",
+    "definition": "(R)-3-Hydroxybutanoyl-CoA <=> Crotonoyl-CoA + H2O",
+    "equation": "C03561 <=> C00877 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.55"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn00650": "Butanoate metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K17865": "3-hydroxybutyryl-CoA dehydratase [EC:4.2.1.55]"
+    }
+  }
+]

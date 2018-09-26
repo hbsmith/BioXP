@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01723",
+    "name": "",
+    "definition": "Nicotinate + Glycine + ATP <=> Nicotinurate + AMP + Diphosphate",
+    "equation": "C00253 + C00037 + C00002 <=> C05380 + C00020 + C00013",
+    "comment": "multi-step reaction (similar to R01422+R02452) intermediate (Nicotinoyl-CoA)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00076",
+    "name": "ATP:phosphorylase-b phosphotransferase; ATP:[glycogen phosphorylase] phosphotransferase",
+    "definition": "4 ATP + 2 Phosphorylase b <=> 4 ADP + Phosphorylase a",
+    "equation": "4 C00002 + 2 C02308 <=> 4 C00008 + C02307",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.11.19"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

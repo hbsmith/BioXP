@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R04427",
+    "name": "S-Adenosyl-L-methionine:zymosterol C-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Zymosterol <=> S-Adenosyl-L-homocysteine + Fecosterol",
+    "equation": "C00019 + C05437 <=> C00021 + C04525",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.41"
+    ],
+    "pathways": {
+      "rn00100": "Steroid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00559": "sterol 24-C-methyltransferase [EC:2.1.1.41]"
+    }
+  }
+]

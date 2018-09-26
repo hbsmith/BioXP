@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C08397",
+    "name": "5-(3-Buten-1-ynyl)-2,2'-bithiophene",
+    "names": [
+      "5-(3-Buten-1-ynyl)-2,2'-bithiophene",
+      "5-(3-Buten-1-ynyl)-2,2'-bithienyl"
+    ],
+    "formula": "C12H8S2",
+    "exact_mass": 216.0067,
+    "mol_weight": 216.3219,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1134-61-8"
+      ],
+      "PubChem": [
+        "10593"
+      ],
+      "ChEBI": [
+        "2015"
+      ],
+      "ChEMBL": [
+        "CHEMBL2252901"
+      ],
+      "KNApSAcK": [
+        "C00001274"
+      ],
+      "NIKKAJI": [
+        "J149.956D"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    14.9678  -20.4352\n            2   C8x C    15.3881  -21.7706\n            3   C8x C    16.7881  -21.7835\n            4   C8y C    17.2330  -20.4561\n            5   S2x S    16.1080  -19.6228\n            6   C8y C    18.6330  -20.4561\n            7   S2x S    19.7427  -21.2764\n            8   C8y C    20.8688  -20.4800\n            9   C8x C    20.4593  -19.1628\n            10  C8x C    19.0801  -19.1452\n            11  C3b C    22.1956  -20.9298\n            12  C3b C    23.5479  -21.2922\n            13  C2b C    24.9002  -21.6545\n            14  C2a C    25.9124  -20.6425\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     1   5 1\n            6     4   6 1\n            7     6   7 1\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    6  10 2\n            12    8  11 1\n            13   11  12 3\n            14   12  13 1\n            15   13  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

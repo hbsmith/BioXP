@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R04365",
+    "name": "Succinyl-CoA:2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",
+    "definition": "Succinyl-CoA + 2,3,4,5-Tetrahydrodipicolinate + H2O <=> CoA + N-Succinyl-2-L-amino-6-oxoheptanedioate",
+    "equation": "C00091 + C03972 + C00001 <=> C00010 + C04462",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.117"
+    ],
+    "pathways": {
+      "rn00300": "Lysine biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K00674": "2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]"
+    }
+  }
+]

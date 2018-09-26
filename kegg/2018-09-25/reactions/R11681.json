@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11681",
+    "name": "S-adenosyl-L-methionine:deacetylisoipecoside 6-O-methyltransferase",
+    "definition": "Deacetylisoipecoside + S-Adenosyl-L-methionine <=> 6-O-Methyldeacetylisoipecoside + S-Adenosyl-L-homocysteine",
+    "equation": "C07304 + C00019 <=> C21566 + C00021",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22091": "O-methyltransferase [EC:2.1.1.-]"
+    }
+  }
+]

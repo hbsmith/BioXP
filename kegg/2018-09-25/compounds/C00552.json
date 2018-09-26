@@ -1,0 +1,60 @@
+[
+  {
+    "entry_id": "C00552",
+    "name": "meso-Tartaric acid",
+    "names": [
+      "meso-Tartaric acid",
+      "meso-Tartrate"
+    ],
+    "formula": "C4H6O6",
+    "exact_mass": 150.0164,
+    "mol_weight": 150.0868,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02544",
+      "R02545",
+      "R02546",
+      "R02547"
+    ],
+    "pathways": {
+      "map00630": "Glyoxylate and dicarboxylate metabolism"
+    },
+    "enzymes": [
+      "1.1.1.93",
+      "1.3.1.7",
+      "3.3.2.4",
+      "5.1.2.5"
+    ],
+    "dblinks": {
+      "CAS": [
+        "147-73-9"
+      ],
+      "PubChem": [
+        "3833"
+      ],
+      "ChEBI": [
+        "15673"
+      ],
+      "ChEMBL": [
+        "CHEMBL225983"
+      ],
+      "PDB-CCD": [
+        "SRT"
+      ],
+      "3DMET": [
+        "B04699"
+      ],
+      "NIKKAJI": [
+        "J134.706C"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O6a O    19.2024   -8.3300\n            2   C6a C    20.4149   -9.0300\n            3   C1c C    21.6273   -8.3300\n            4   C1c C    22.8397   -9.0300\n            5   C6a C    24.0522   -8.3300\n            6   O6a O    25.2646   -9.0300\n            7   O6a O    20.4149  -10.4298\n            8   O1a O    21.6273   -6.9300\n            9   O1a O    22.8397  -10.4299\n            10  O6a O    24.0522   -6.9303\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     2   7 2\n            7     3   8 1 #Down\n            8     4   9 1 #Up\n            9     5  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

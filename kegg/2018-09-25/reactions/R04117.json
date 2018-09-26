@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R04117",
+    "name": "naphthalene-1,2-diol:oxygen oxidoreductase",
+    "definition": "Naphthalene-1,2-diol + Oxygen <=> 2-Hydroxychromene-2-carboxylate",
+    "equation": "C03012 + C00007 <=> C06204",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.56"
+    ],
+    "pathways": {
+      "rn00626": "Naphthalene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K14583": "1,2-dihydroxynaphthalene dioxygenase [EC:1.13.11.56]"
+    }
+  }
+]

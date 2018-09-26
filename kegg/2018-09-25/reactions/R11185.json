@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11185",
+    "name": "ATP:2-epi-5-epi-valiolone 7-phosphotransferase",
+    "definition": "ATP + 2-epi-5-epi-Valiolone <=> ADP + 2-epi-5-epi-Valiolone 7-phosphate",
+    "equation": "C00002 + C17691 <=> C00008 + C17692",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.188"
+    ],
+    "pathways": {
+      "rn00525": "Acarbose and validamycin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19979": "2-epi-5-epi-valiolone 7-kinase [EC:2.7.1.188]"
+    }
+  }
+]

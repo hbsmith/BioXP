@@ -1,0 +1,61 @@
+[
+  {
+    "entry_id": "C14866",
+    "name": "Chloral",
+    "names": [
+      "Chloral",
+      "Trichloroacetaldehyde"
+    ],
+    "formula": "C2HCl3O",
+    "exact_mass": 145.9093,
+    "mol_weight": 147.3877,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07099",
+      "R07101",
+      "R09146",
+      "R09149",
+      "R09150"
+    ],
+    "pathways": {
+      "map00625": "Chloroalkane and chloroalkene degradation",
+      "map00980": "Metabolism of xenobiotics by cytochrome P450",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map05204": "Chemical carcinogenesis"
+    },
+    "enzymes": [
+      "1.1.-.-",
+      "1.14.13.-",
+      "1.14.14.1",
+      "1.14.-.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "75-87-6"
+      ],
+      "PubChem": [
+        "17395864"
+      ],
+      "ChEBI": [
+        "48814"
+      ],
+      "ChEMBL": [
+        "CHEMBL27551"
+      ],
+      "PDB-CCD": [
+        "CLX"
+      ],
+      "NIKKAJI": [
+        "J1.469I"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C1d C    24.8664  -19.9742\n            2   C4a C    26.2664  -19.9742\n            3   X   Cl   24.1664  -21.1865\n            4   X   Cl   24.1664  -18.7617\n            5   O4a O    26.9664  -21.1865\n            6   X   Cl   23.4664  -19.9742\nBOND        5\n            1     1   4 1\n            2     2   5 2\n            3     1   3 1\n            4     1   2 1\n            5     1   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

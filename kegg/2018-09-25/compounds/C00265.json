@@ -1,0 +1,59 @@
+[
+  {
+    "entry_id": "C00265",
+    "name": "Dithiothreitol",
+    "names": [
+      "Dithiothreitol",
+      "1,4-Dithiothreitol",
+      "threo-1,4-Dimercapto-2,3-butanediol",
+      "DL-threo-1,4-Dimercapto-2,3-butanediol"
+    ],
+    "formula": "C4H10O2S2",
+    "exact_mass": 154.0122,
+    "mol_weight": 154.251,
+    "remark": "",
+    "comment": "Relative configuration (including both enantiomers)",
+    "reactions": [
+      "R03511",
+      "R03512",
+      "R03645",
+      "R05830",
+      "R09992"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.17.4.4",
+      "1.17.4.5"
+    ],
+    "dblinks": {
+      "CAS": [
+        "3483-12-3"
+      ],
+      "PubChem": [
+        "3563"
+      ],
+      "ChEBI": [
+        "18320",
+        "42106"
+      ],
+      "ChEMBL": [
+        "CHEMBL406270"
+      ],
+      "PDB-CCD": [
+        "DTT"
+      ],
+      "NIKKAJI": [
+        "J388.818E",
+        "J64.633D"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1c C    21.5147  -16.5177\n            2   C1c C    22.7253  -15.8223\n            3   C1b C    20.2974  -15.8223\n            4   O1a O    21.5147  -17.9216\n            5   C1b C    23.9426  -16.5177\n            6   O1a O    22.7253  -14.4184\n            7   S1a S    19.0869  -16.5177\n            8   S1a S    25.1531  -15.8223\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Up\n            6     3   7 1\n            7     5   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

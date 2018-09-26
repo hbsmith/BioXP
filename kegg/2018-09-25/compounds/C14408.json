@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C14408",
+    "name": "1,2,3-Trichlorobenzene",
+    "names": [
+      "1,2,3-Trichlorobenzene"
+    ],
+    "formula": "C6H3Cl3",
+    "exact_mass": 179.93,
+    "mol_weight": 181.447,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "87-61-6"
+      ],
+      "PubChem": [
+        "17395408"
+      ],
+      "ChEBI": [
+        "35289"
+      ],
+      "ChEMBL": [
+        "CHEMBL46557"
+      ],
+      "NIKKAJI": [
+        "J3.538F"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    27.0221  -16.9443\n            2   C8x C    27.0221  -18.3395\n            3   C8x C    28.2304  -19.0371\n            4   C8y C    29.4387  -18.3395\n            5   C8y C    29.4387  -16.9443\n            6   C8y C    28.2304  -16.2466\n            7   X   Cl   28.2304  -14.8516\n            8   X   Cl   30.6656  -16.2357\n            9   X   Cl   30.6656  -19.0480\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     4   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

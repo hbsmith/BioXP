@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R07649",
+    "name": "2-trans,6-trans-farnesyl-diphosphate diphosphate-lyase (germacrene-A-forming)",
+    "definition": "trans,trans-Farnesyl diphosphate <=> (+)-Germacrene A + Diphosphate",
+    "equation": "C00448 <=> C16141 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.23"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K14179": "germacrene-A synthase [EC:4.2.3.23]",
+      "K21927": "alpha-muurolene/germacrene-A/gamma-muurolene synthase [EC:4.2.3.125 4.2.3.23 4.2.3.126]"
+    }
+  }
+]

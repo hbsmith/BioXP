@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02119",
+    "name": "UDP-D-xylose:zeatin O-beta-D-xylosyltransferase",
+    "definition": "UDP-D-xylose + Zeatin <=> UDP + O-beta-D-Xylosylzeatin",
+    "equation": "C00190 + C00371 <=> C00015 + C03300",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.2.40"
+    ],
+    "pathways": {
+      "rn00908": "Zeatin biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13494": "zeatin O-xylosyltransferase [EC:2.4.2.40]"
+    }
+  }
+]

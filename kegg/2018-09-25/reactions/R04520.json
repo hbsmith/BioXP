@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04520",
+    "name": "geranylgeranyl diphosphate:sn-3-O-(geranylgeranyl)glycerol 1-phosphate geranylgeranyltransferase",
+    "definition": "Geranylgeranyl diphosphate + 3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate <=> Diphosphate + 2,3-Bis-O-(geranylgeranyl)glycerol 1-phosphate",
+    "equation": "C00353 + C04590 <=> C00013 + C04638",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.42"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism"
+    },
+    "orthologs": {
+      "K17105": "geranylgeranylglycerol-phosphate geranylgeranyltransferase [EC:2.5.1.42]"
+    }
+  }
+]

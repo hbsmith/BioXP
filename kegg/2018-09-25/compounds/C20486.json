@@ -1,0 +1,35 @@
+[
+  {
+    "entry_id": "C20486",
+    "name": "7-Epizingiberene",
+    "names": [
+      "7-Epizingiberene",
+      "(5R)-2-Methyl-5-[(2R)-6-methylhept-5-en-2-yl]cyclohexa-1,3-diene"
+    ],
+    "formula": "C15H24",
+    "exact_mass": 204.1878,
+    "mol_weight": 204.3511,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10284"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.2.3.142"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "163312223"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C1y C    20.4211  -16.1757\n            2   C1c C    19.2090  -15.4706\n            3   C1x C    21.6334  -15.4706\n            4   C2x C    20.4211  -17.5804\n            5   C1b C    18.0026  -16.1700\n            6   C1a C    19.2031  -14.0719\n            7   C2x C    22.8455  -16.1757\n            8   C2x C    21.6334  -18.2738\n            9   C1b C    16.7903  -15.4649\n            10  C2y C    22.8455  -17.5804\n            11  C2b C    15.5782  -16.1643\n            12  C1a C    24.0635  -18.2738\n            13  C2c C    14.3718  -15.4590\n            14  C1a C    13.1597  -16.1583\n            15  C1a C    14.3718  -14.0603\nBOND        15\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1 #Up\n            6     3   7 1\n            7     4   8 2\n            8     5   9 1\n            9     7  10 2\n            10    9  11 1\n            11   10  12 1\n            12   11  13 2\n            13   13  14 1\n            14   13  15 1\n            15    8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

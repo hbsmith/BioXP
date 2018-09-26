@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R04391",
+    "name": "ATP:pantothenate 4'-phosphotransferase",
+    "definition": "ATP + N-((R)-Pantothenoyl)-L-cysteine <=> ADP + (R)-4'-Phosphopantothenoyl-L-cysteine",
+    "equation": "C00002 + C04079 <=> C00008 + C04352",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.33"
+    ],
+    "pathways": {
+      "rn00770": "Pantothenate and CoA biosynthesis"
+    },
+    "orthologs": {
+      "K00867": "type I pantothenate kinase [EC:2.7.1.33]",
+      "K01947": "biotin---[acetyl-CoA-carboxylase] ligase / type III pantothenate kinase [EC:6.3.4.15 2.7.1.33]",
+      "K03525": "type III pantothenate kinase [EC:2.7.1.33]",
+      "K09680": "type II pantothenate kinase [EC:2.7.1.33]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00928",
+    "name": "Acetyl-CoA:propanoate CoA-transferase",
+    "definition": "Acetyl-CoA + Propanoate <=> Acetate + Propanoyl-CoA",
+    "equation": "C00024 + C00163 <=> C00033 + C00100",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.1"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism",
+      "rn00640": "Propanoate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01026": "propionate CoA-transferase [EC:2.8.3.1]"
+    }
+  }
+]

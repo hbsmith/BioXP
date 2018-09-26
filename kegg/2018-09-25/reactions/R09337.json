@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09337",
+    "name": "epsilon-rhodomycin-T acylhydrolase",
+    "definition": "epsilon-Rhodomycin T + H2O <=> 15-Demethoxy-epsilon-rhodomycin + Methanol",
+    "equation": "C18640 + C00001 <=> C18641 + C00132",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.95"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15957": "aclacinomycin methylesterase [EC:3.1.1.95]"
+    }
+  }
+]

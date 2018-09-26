@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10901",
+    "name": "UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase",
+    "definition": "ATP + UDP-N-acetylmuramate + L-Alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptanedioate <=> ADP + Orthophosphate + UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate",
+    "equation": "C00002 + C01050 + C20925 <=> C00008 + C00009 + C04877",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.45"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10810",
+    "name": "beta-1,4-mannobiose 2-epimerase",
+    "definition": "Mannobiose <=> 4-O-beta-D-Mannopyranosyl-D-glucopyranose",
+    "equation": "C20861 <=> C20236",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.3.11"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K16213": "cellobiose epimerase [EC:5.1.3.11]"
+    }
+  }
+]

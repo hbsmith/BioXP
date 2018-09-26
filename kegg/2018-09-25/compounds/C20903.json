@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C20903",
+    "name": "3,6-Anhydro-L-galactonate",
+    "names": [
+      "3,6-Anhydro-L-galactonate"
+    ],
+    "formula": "C6H10O6",
+    "exact_mass": 178.0477,
+    "mol_weight": 178.14,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10861",
+      "R10862",
+      "R10900"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.2.1.92",
+      "5.5.1.25"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741366"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1y C     6.0900  -21.9100\n            2   C1y C     7.4900  -21.9100\n            3   C1y C     7.9226  -20.5785\n            4   O2x O     6.7900  -19.7556\n            5   C1x C     5.6574  -20.5785\n            6   C1c C     9.1224  -19.8800\n            7   C6a C    10.3349  -20.5800\n            8   O6a O    11.5473  -19.8800\n            9   O1a O     9.1199  -18.4801\n            10  O6a O    10.3349  -21.9798\n            11  O1a O     8.3129  -23.0426\n            12  O1a O     5.2671  -23.0426\nBOND        12\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     3   6 1\n            7     6   7 1\n            8     7   8 1\n            9     6   9 1 #Down\n            10    7  10 2\n            11    2  11 1 #Down\n            12    1  12 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

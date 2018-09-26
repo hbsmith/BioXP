@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03493",
+    "name": "3-(4-methylpent-3-en-1-yl)-pent-2-enedioyl-CoA hydro-lyase",
+    "definition": "3-Hydroxy-3-(4-methylpent-3-en-1-yl)glutaryl-CoA <=> 3-(4-Methylpent-3-en-1-yl)pent-2-enedioyl-CoA + H2O",
+    "equation": "C04675 <=> C01291 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.57"
+    ],
+    "pathways": {
+      "rn00281": "Geraniol degradation"
+    },
+    "orthologs": {
+      "K13779": "isohexenylglutaconyl-CoA hydratase [EC:4.2.1.57]"
+    }
+  }
+]

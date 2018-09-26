@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08138",
+    "name": "",
+    "definition": "2,22-Dideoxy-3-dehydroecdysone <=> 3-Dehydro-2-deoxyecdysone",
+    "equation": "C16498 <=> C16497",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00981": "Insect hormone biosynthesis"
+    },
+    "orthologs": {
+      "K10721": "CYP302A1; ecdysteroid 22-hydroxylase"
+    }
+  }
+]

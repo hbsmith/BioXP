@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R09524",
+    "name": "acetyl-CoA:acetoin O-acetyltransferase",
+    "definition": "Acetoin + CoA + NAD+ <=> Acetaldehyde + Acetyl-CoA + NADH + H+",
+    "equation": "C00466 + C00010 + C00003 <=> C00084 + C00024 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.190"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

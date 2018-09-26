@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C14746",
+    "name": "Chlordimeform",
+    "names": [
+      "Chlordimeform",
+      "Chlorphenamidine",
+      "N'-(4-Chloro-2-methylphenyl)-N,N-dimethylformamidine"
+    ],
+    "formula": "C10H13ClN2",
+    "exact_mass": 196.0767,
+    "mol_weight": 196.6766,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "6164-98-3"
+      ],
+      "PubChem": [
+        "17395744"
+      ],
+      "ChEBI": [
+        "34629"
+      ],
+      "ChEMBL": [
+        "CHEMBL2288609"
+      ],
+      "NIKKAJI": [
+        "J3.083J"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    13.3700  -17.0800\n            2   C8y C    13.3700  -18.4800\n            3   C8x C    14.5824  -19.1800\n            4   C8y C    15.7949  -18.4800\n            5   C8y C    15.7949  -17.0800\n            6   C8x C    14.5824  -16.3800\n            7   X   Cl   12.1576  -19.1800\n            8   C1a C    17.0260  -19.1910\n            9   N2b N    17.0260  -16.3690\n            10  C2b C    18.2312  -17.0647\n            11  N1c N    19.4135  -16.3819\n            12  C1a C    20.6075  -17.0712\n            13  C1a C    19.4135  -14.9802\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     2   7 1\n            8     4   8 1\n            9     5   9 1\n            10    9  10 2\n            11   10  11 1\n            12   11  12 1\n            13   11  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

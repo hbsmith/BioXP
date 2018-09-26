@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07417",
+    "name": "4-(gamma-L-glutamylamino)butanal:NAD+ oxidoreductase",
+    "definition": "gamma-Glutamyl-gamma-aminobutyraldehyde + NAD+ + H2O <=> 4-(L-gamma-Glutamylamino)butanoate + NADH + H+",
+    "equation": "C15700 + C00003 + C00001 <=> C15767 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.99"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K09472": "4-(gamma-glutamylamino)butanal dehydrogenase [EC:1.2.1.99]"
+    }
+  }
+]

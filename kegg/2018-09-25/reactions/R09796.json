@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R09796",
+    "name": "(R)-lactate hydro-lyase",
+    "definition": "(R)-Lactate <=> Methylglyoxal + H2O",
+    "equation": "C00256 <=> C00546 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.130"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K05523": "D-lactate dehydratase / protein deglycase [EC:4.2.1.130 3.5.1.124]",
+      "K18881": "D-lactate dehydratase [EC:4.2.1.130]",
+      "K22211": "D-lactate dehydratase [EC:4.2.1.130]"
+    }
+  }
+]

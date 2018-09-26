@@ -1,0 +1,82 @@
+[
+  {
+    "entry_id": "C00469",
+    "name": "Ethanol",
+    "names": [
+      "Ethanol",
+      "Ethyl alcohol",
+      "Methylcarbinol"
+    ],
+    "formula": "C2H6O",
+    "exact_mass": 46.0419,
+    "mol_weight": 46.0684,
+    "remark": "Same as: D00068 D02798 D04855 D06542",
+    "comment": "",
+    "reactions": [
+      "R00746",
+      "R00754",
+      "R02359",
+      "R02682",
+      "R04410",
+      "R05198",
+      "R09127",
+      "R09479",
+      "R09552"
+    ],
+    "pathways": {
+      "map00010": "Glycolysis / Gluconeogenesis",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01130": "Biosynthesis of antibiotics",
+      "map04750": "Inflammatory mediator regulation of TRP channels",
+      "map05034": "Alcoholism"
+    },
+    "enzymes": [
+      "1.1.1.1",
+      "1.1.1.2",
+      "1.1.1.71",
+      "1.1.2.7",
+      "1.1.2.8",
+      "1.1.5.5",
+      "1.1.99.36",
+      "2.3.1.152",
+      "2.8.1.2",
+      "3.1.1.67",
+      "3.5.1.75"
+    ],
+    "dblinks": {
+      "CAS": [
+        "64-17-5"
+      ],
+      "PubChem": [
+        "3752"
+      ],
+      "ChEBI": [
+        "16236"
+      ],
+      "ChEMBL": [
+        "CHEMBL545"
+      ],
+      "KNApSAcK": [
+        "C00019560"
+      ],
+      "PDB-CCD": [
+        "EOH"
+      ],
+      "3DMET": [
+        "B01253"
+      ],
+      "NIKKAJI": [
+        "J1.930E"
+      ]
+    },
+    "kcf": "ATOM        3\n            1   C1b C    22.1200  -15.8397\n            2   C1a C    20.9088  -16.5419\n            3   O1a O    23.3312  -16.5419\nBOND        2\n            1     1   2 1\n            2     1   3 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

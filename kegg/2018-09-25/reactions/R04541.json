@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R04541",
+    "name": "2-(methylthio)ethanesulfonate:N-(7-thioheptanoyl)-3-O-phosphothreonine S-(2-sulfoethyl)thiotransferase",
+    "definition": "Coenzyme B + 2-(Methylthio)ethanesulfonate <=> Coenzyme M 7-mercaptoheptanoylthreonine-phosphate heterodisulfide + Methane",
+    "equation": "C04628 + C03920 <=> C04832 + C01438",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.4.1"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K00399": "methyl-coenzyme M reductase alpha subunit [EC:2.8.4.1]",
+      "K00401": "methyl-coenzyme M reductase beta subunit [EC:2.8.4.1]",
+      "K00402": "methyl-coenzyme M reductase gamma subunit [EC:2.8.4.1]"
+    }
+  }
+]

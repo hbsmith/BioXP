@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11706",
+    "name": "ATP:3-dehydro-L-erythronate 4-phosphotransferase",
+    "definition": "ATP + 3-Dehydro-L-erythronate <=> ADP + 3-Dehydro-4-phospho-L-erythronate",
+    "equation": "C00002 + C21612 <=> C00008 + C21611",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.217"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K21948": "3-dehydrotetronate 4-kinase [EC:2.7.1.217]"
+    }
+  }
+]

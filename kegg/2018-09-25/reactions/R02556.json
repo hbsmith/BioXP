@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02556",
+    "name": "Deoxyadenosine aminohydrolase",
+    "definition": "Deoxyadenosine + H2O <=> Deoxyinosine + Ammonia",
+    "equation": "C00559 + C00001 <=> C05512 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.4.4"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01488": "adenosine deaminase [EC:3.5.4.4]"
+    }
+  }
+]

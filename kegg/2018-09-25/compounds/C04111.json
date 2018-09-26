@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C04111",
+    "name": "3-(Phosphoacetylamido)-L-alanine",
+    "names": [
+      "3-(Phosphoacetylamido)-L-alanine"
+    ],
+    "formula": "C5H11N2O7P",
+    "exact_mass": 242.0304,
+    "mol_weight": 242.1238,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6801"
+      ],
+      "ChEBI": [
+        "1439"
+      ],
+      "NIKKAJI": [
+        "J2.746.333I"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   O6a O    10.2900  -18.2000\n            2   C6a C    11.5024  -17.5000\n            3   C1c C    12.7149  -18.2000\n            4   C1b C    13.9273  -17.5000\n            5   N1b N    15.1397  -18.2000\n            6   C5a C    16.3522  -17.5000\n            7   C1b C    17.5646  -18.2000\n            8   O6a O    11.5024  -16.1002\n            9   O5a O    16.3522  -16.1003\n            10  N1a N    12.7149  -19.5998\n            11  O2b O    18.7811  -17.4977\n            12  P1b P    20.1811  -17.4977\n            13  O1c O    21.5811  -17.4977\n            14  O1c O    20.1810  -16.1002\n            15  O1c O    20.1811  -18.8977\nBOND        14\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     2   8 2\n            8     6   9 2\n            9     3  10 1 #Down\n            10    7  11 1\n            11   11  12 1\n            12   12  13 1\n            13   12  14 2\n            14   12  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

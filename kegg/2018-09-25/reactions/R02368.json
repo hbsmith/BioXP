@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02368",
+    "name": "retinyl-palmitate palmitohydrolase",
+    "definition": "Retinyl palmitate + H2O <=> Retinol + Hexadecanoic acid",
+    "equation": "C02588 + C00001 <=> C00473 + C00249",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.-"
+    ],
+    "pathways": {
+      "rn00830": "Retinol metabolism"
+    },
+    "orthologs": {
+      "K11157": "patatin-like phospholipase domain-containing protein 4 [EC:3.1.1.-]"
+    }
+  }
+]

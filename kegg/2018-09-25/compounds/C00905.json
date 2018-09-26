@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C00905",
+    "name": "D-Fructuronate",
+    "names": [
+      "D-Fructuronate",
+      "D-Fructuronic acid"
+    ],
+    "formula": "C6H10O7",
+    "exact_mass": 194.0427,
+    "mol_weight": 194.1394,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01482",
+      "R02454",
+      "R10848",
+      "R11624"
+    ],
+    "pathways": {
+      "map00040": "Pentose and glucuronate interconversions",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.1.1.57",
+      "1.1.1.380",
+      "5.1.2.7",
+      "5.3.1.12"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4160"
+      ],
+      "ChEBI": [
+        "4126"
+      ],
+      "3DMET": [
+        "B04749"
+      ],
+      "NIKKAJI": [
+        "J2.372.985G"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1z C    26.7106  -15.5867\n            2   C1y C    26.2906  -16.8757\n            3   O2x O    25.5558  -14.7527\n            4   C1b C    27.6904  -14.5953\n            5   O1a O    27.9820  -16.0534\n            6   C1y C    24.8851  -16.8757\n            7   O1a O    27.1072  -18.0130\n            8   C1y C    24.4361  -15.5575\n            9   O1a O    28.9618  -15.1784\n            10  O1a O    24.0685  -18.0187\n            11  C6a C    23.1063  -15.1494\n            12  O6a O    22.2664  -16.2633\n            13  O6a O    23.0887  -13.6446\nBOND        13\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Either\n            4     1   5 1\n            5     2   6 1\n            6     2   7 1 #Up\n            7     3   8 1\n            8     4   9 1\n            9     6  10 1 #Down\n            10    8  11 1 #Up\n            11   11  12 1\n            12   11  13 2\n            13    6   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

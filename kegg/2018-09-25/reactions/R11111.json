@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11111",
+    "name": "(9Z,12Z,15Z,18Z)-tetracosatetraenoyl-CoA,ferrocytochrome-b5:oxygen oxidoreductase (6,7 cis-dehydrogenating)",
+    "definition": "(9Z,12Z,15Z,18Z)-Tetracosatetraenoyl-CoA + 2 Ferrocytochrome b5 + Oxygen + 2 H+ <=> (6Z,9Z,12Z,15Z,18Z)-Tetracosapentaenoyl-CoA + 2 Ferricytochrome b5 + 2 H2O",
+    "equation": "C16171 + 2 C00999 + C00007 + 2 C00080 <=> C16172 + 2 C00996 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.3"
+    ],
+    "pathways": {
+      "rn01040": "Biosynthesis of unsaturated fatty acids",
+      "rn01212": "Fatty acid metabolism"
+    },
+    "orthologs": {
+      "K10226": "acyl-CoA 6-desaturase (Delta-6 desaturase) [EC:1.14.19.3]"
+    }
+  }
+]

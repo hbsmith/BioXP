@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04217",
+    "name": "N2-succinyl-L-ornithine:2-oxoglutarate 5-aminotransferase",
+    "definition": "N2-Succinyl-L-ornithine + 2-Oxoglutarate <=> N-Succinyl-L-glutamate 5-semialdehyde + L-Glutamate",
+    "equation": "C03415 + C00026 <=> C05932 + C00025",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.81"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00840": "succinylornithine aminotransferase [EC:2.6.1.81]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R10672",
+    "name": "4-hydroxyphenylacetaldehyde-oxime,NADPH:oxygen oxidoreductase (adding cysteine)",
+    "definition": "(E)-4-Hydroxyphenylacetaldehyde oxime + L-Cysteine + NADPH + Oxygen + H+ <=> S-(Hydroxyphenylacetothiohydroximoyl)-L-cysteine + NADP+ + 2 H2O",
+    "equation": "C04350 + C00097 + C00005 + C00007 + C00080 <=> C17238 + C00006 + 2 C00001",
+    "comment": "multi-step reaction (similar to R08168, R08607+R08608)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.45"
+    ],
+    "pathways": {
+      "rn00966": "Glucosinolate biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+      "K11818": "aromatic aldoxime N-monooxygenase [EC:1.14.14.45]"
+    }
+  }
+]

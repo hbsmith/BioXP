@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00531",
+    "name": "Adenylylsulfate sulfohydrolase",
+    "definition": "Adenylyl sulfate + H2O <=> AMP + Sulfate",
+    "equation": "C00224 + C00001 <=> C00020 + C00059",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.2.1"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09491",
+    "name": "(3Z)-phycoerythrobilin:ferredoxin oxidoreductase (from biliverdin IXalpha)",
+    "definition": "(3Z)-Phycoerythrobilin + 2 Oxidized ferredoxin <=> Biliverdin + 2 Reduced ferredoxin",
+    "equation": "C05912 + 2 C00139 <=> C00500 + 2 C00138",
+    "comment": "multi-step reaction (see R05818+R05819)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.7.6"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism"
+    },
+    "orthologs": {
+      "K21796": "phycoerythrobilin synthase [EC:1.3.7.6]"
+    }
+  }
+]

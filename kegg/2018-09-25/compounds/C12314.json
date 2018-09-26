@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C12314",
+    "name": "1-Oxa-2-oxo-3-hydroxycycloheptane",
+    "names": [
+      "1-Oxa-2-oxo-3-hydroxycycloheptane"
+    ],
+    "formula": "C6H10O3",
+    "exact_mass": 130.063,
+    "mol_weight": 130.1418,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06622"
+    ],
+    "pathways": {
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.13.22"
+    ],
+    "dblinks": {
+      "CAS": [
+        "80816-54-2"
+      ],
+      "PubChem": [
+        "582705"
+      ],
+      "ChEBI": [
+        "31046"
+      ],
+      "NIKKAJI": [
+        "J2.781.717C"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   O7x O    27.1773  -16.6860\n            2   C7x C    28.4412  -16.0941\n            3   C1y C    29.6998  -16.7194\n            4   C1x C    26.8519  -18.0504\n            5   C1x C    30.0008  -18.0839\n            6   C1x C    27.7109  -19.1566\n            7   C1x C    29.1122  -19.1664\n            8   O6a O    28.3874  -14.6946\n            9   O1a O    30.7955  -15.8527\nBOND        9\n            1     3   5 1\n            2     2   3 1\n            3     4   6 1\n            4     1   2 1\n            5     5   7 1\n            6     6   7 1\n            7     1   4 1\n            8     2   8 2\n            9     3   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

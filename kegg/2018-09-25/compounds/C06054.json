@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C06054",
+    "name": "2-Oxo-3-hydroxy-4-phosphobutanoate",
+    "names": [
+      "2-Oxo-3-hydroxy-4-phosphobutanoate",
+      "alpha-Keto-3-hydroxy-4-phosphobutyrate",
+      "(3R)-3-Hydroxy-2-oxo-4-phosphonooxybutanoate",
+      "(3R)-3-Hydroxy-2-oxo-4-phosphooxybutanoate"
+    ],
+    "formula": "C4H7O8P",
+    "exact_mass": 213.9879,
+    "mol_weight": 214.0673,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04210",
+      "R05085"
+    ],
+    "pathways": {
+      "map00750": "Vitamin B6 metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.1.1.290",
+      "2.6.1.52"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8324"
+      ],
+      "ChEBI": [
+        "27951"
+      ],
+      "3DMET": [
+        "B01959"
+      ],
+      "NIKKAJI": [
+        "J2.761.015C"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   P1b P    25.1468  -15.8509\n            2   O2b O    23.7425  -15.8509\n            3   O1c O    26.5510  -15.8509\n            4   O1c O    25.1405  -14.4467\n            5   O1c O    25.1405  -17.2552\n            6   C1b C    22.5373  -16.5497\n            7   C1c C    21.3253  -15.8573\n            8   C5a C    20.1263  -16.5562\n            9   O1a O    21.3190  -14.4532\n            10  C6a C    18.9080  -15.8573\n            11  O5a O    20.1200  -17.9540\n            12  O6a O    17.6962  -16.5497\n            13  O6a O    18.9017  -14.4532\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     2   6 1\n            6     6   7 1\n            7     7   8 1\n            8     7   9 1 #Down\n            9     8  10 1\n            10    8  11 2\n            11   10  12 1\n            12   10  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

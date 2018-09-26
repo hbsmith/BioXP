@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08217",
+    "name": "ATP:7-mercaptoheptanoylthreonine 3-phosphotransferase",
+    "definition": "7-Mercaptoheptanoylthreonine + ATP <=> Coenzyme B + ADP",
+    "equation": "C16594 + C00002 <=> C04628 + C00008",
+    "comment": "enzyme not yet characterized",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.-"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

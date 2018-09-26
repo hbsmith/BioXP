@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07870",
+    "name": "",
+    "definition": "13(S)-HPOT <=> 12-Oxo-9(Z)-dodecenoic acid + 3-Hexenal",
+    "equation": "C04785 <=> C16311 + C16310",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00592": "alpha-Linolenic acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K10528": "hydroperoxide lyase [EC:4.1.2.-]"
+    }
+  }
+]

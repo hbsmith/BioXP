@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R07324",
+    "name": "1D-myo-inositol-3-phosphate lyase (isomerizing)",
+    "definition": "D-Glucose 6-phosphate <=> 1D-myo-Inositol 3-phosphate",
+    "equation": "C00092 <=> C04006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.4"
+    ],
+    "pathways": {
+      "rn00521": "Streptomycin biosynthesis",
+      "rn00562": "Inositol phosphate metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K01858": "myo-inositol-1-phosphate synthase [EC:5.5.1.4]"
+    }
+  }
+]

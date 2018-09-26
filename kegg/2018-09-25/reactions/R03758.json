@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03758",
+    "name": "",
+    "definition": "Aminoacetone + CO2 <=> L-2-Amino-3-oxobutanoic acid",
+    "equation": "C01888 + C00011 <=> C03508",
+    "comment": "spontaneous second step of two-step reaction (see R10852, R10851+R03758)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.381"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

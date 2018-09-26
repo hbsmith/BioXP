@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01352",
+    "name": "2-acylglycerol acylhydrolase",
+    "definition": "2-Acylglycerol + H2O <=> Glycerol + Fatty acid",
+    "equation": "C02112 + C00001 <=> C00116 + C00162",
+    "comment": "see R01351 (1-acyl type reaction)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.23"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K13700": "abhydrolase domain-containing protein 6 [EC:3.1.1.23]",
+      "K13704": "abhydrolase domain-containing protein 12 [EC:3.1.1.23]"
+    }
+  }
+]

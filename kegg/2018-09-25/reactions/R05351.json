@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05351",
+    "name": "",
+    "definition": "Ethylene oxide + CoA + NAD+ <=> Acetyl-CoA + NADH + H+",
+    "equation": "C06548 + C00010 + C00003 <=> C00024 + C00004 + C00080",
+    "comment": "epoxide dehydrogenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00625": "Chloroalkane and chloroalkene degradation",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

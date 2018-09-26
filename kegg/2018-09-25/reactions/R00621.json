@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00621",
+    "name": "",
+    "definition": "2-Oxoglutarate + Thiamin diphosphate <=> 3-Carboxy-1-hydroxypropyl-ThPP + CO2",
+    "equation": "C00026 + C00068 <=> C05381 + C00011",
+    "comment": "2-oxoglutarate dehydrogenase complex: oxoglutarate dehydrogenase (see R01700) TPP-dependent enzymatic reaction (see R00621+R03316) subsequently R03316",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.4.2"
+    ],
+    "pathways": {
+      "rn00020": "Citrate cycle (TCA cycle)",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00164": "2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11429",
+    "name": "",
+    "definition": "D-Mannose 1-phosphate <=> NDP-D-mannose",
+    "equation": "C00636 <=> C21314",
+    "comment": "proposed pathway unclear reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21210": "NDP-mannose synthase"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C03149",
+    "name": "N-Phosphotaurocyamine",
+    "names": [
+      "N-Phosphotaurocyamine",
+      "Taurocyamine phosphate",
+      "N(omega)-Phosphotaurocyamine"
+    ],
+    "formula": "C3H10N3O6PS",
+    "exact_mass": 247.0028,
+    "mol_weight": 247.1668,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03785"
+    ],
+    "pathways": {
+      "map00430": "Taurine and hypotaurine metabolism"
+    },
+    "enzymes": [
+      "2.7.3.4"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6037"
+      ],
+      "ChEBI": [
+        "16621"
+      ],
+      "3DMET": [
+        "B00549"
+      ],
+      "NIKKAJI": [
+        "J2.740.856G"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   N1b N    25.2700  -18.9700\n            2   C1b C    26.4600  -18.2700\n            3   C1b C    27.6500  -18.9700\n            4   S4a S    28.8400  -18.2700\n            5   O1d O    30.0300  -18.9700\n            6   O1d O    30.0300  -17.3600\n            7   O1d O    27.6500  -17.4300\n            8   C2c C    24.0800  -18.2700\n            9   N1b N    22.9600  -18.9700\n            10  N2a N    24.0800  -16.9400\n            11  P1b P    21.5600  -18.9700\n            12  O1c O    20.1600  -18.9700\n            13  O1c O    21.5600  -17.5700\n            14  O1c O    21.5600  -20.3700\nBOND        13\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     4   6 2\n            6     4   7 2\n            7     1   8 1\n            8     8   9 1\n            9     8  10 2\n            10    9  11 1\n            11   11  12 1\n            12   11  13 2\n            13   11  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

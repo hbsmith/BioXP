@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08686",
+    "name": "S-thiohydroximoyl-L-cysteine thiohydroximate-lyase (deaminating; pyruvate-forming)",
+    "definition": "S-Alkyl-thiohydroximate + H2O <=> Thiohydroximic acid + Pyruvate + Ammonia",
+    "equation": "C17262 + C00001 <=> C17261 + C00022 + C00014",
+    "comment": "general reaction (see R08170, R08654, R08660 and R08667)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.-"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K11819": "S-alkyl-thiohydroximate lyase SUR1 [EC:4.4.1.-]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05918",
+    "name": "",
+    "definition": "G00144 + Palmitoyl-CoA <=> G00145 + CoA",
+    "equation": "G00144 + C00154 <=> G00145 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.-.-"
+    ],
+    "pathways": {
+      "rn00563": "Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K05283": "phosphatidylinositol glycan, class W [EC:2.3.-.-]"
+    }
+  }
+]

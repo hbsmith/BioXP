@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R05636",
+    "name": "1-Deoxy-D-xylulose-5-phosphate pyruvate-lyase (carboxylating)",
+    "definition": "Pyruvate + D-Glyceraldehyde 3-phosphate <=> 1-Deoxy-D-xylulose 5-phosphate + CO2",
+    "equation": "C00022 + C00118 <=> C11437 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.2.1.7"
+    ],
+    "pathways": {
+      "rn00730": "Thiamine metabolism",
+      "rn00900": "Terpenoid backbone biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K01662": "1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]"
+    }
+  }
+]

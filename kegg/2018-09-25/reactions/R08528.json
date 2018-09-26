@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08528",
+    "name": "Z-farnesyl diphosphate synthase",
+    "definition": "Geranyl diphosphate + Isopentenyl diphosphate <=> 2-cis,6-trans-Farnesyl diphosphate + Diphosphate",
+    "equation": "C00341 + C00129 <=> C16826 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.68"
+    ],
+    "pathways": {
+      "rn00900": "Terpenoid backbone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K12503": "short-chain Z-isoprenyl diphosphate synthase [EC:2.5.1.68]"
+    }
+  }
+]

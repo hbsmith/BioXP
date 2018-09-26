@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10777",
+    "name": "5-methylbarbiturate amidohydrolase (2-methyl-3-oxo-3-ureidopropanoate-forming)",
+    "definition": "5-Methylbarbiturate + H2O <=> 3-Oxo-3-ureidoisobutyrate",
+    "equation": "C05281 + C00001 <=> C20846",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.2.1"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+      "K19794": "barbiturase [EC:3.5.2.1]"
+    }
+  }
+]

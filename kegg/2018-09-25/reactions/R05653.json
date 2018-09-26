@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05653",
+    "name": "phenanthrene 9,10-monooxygenase",
+    "definition": "Phenanthrene + Oxygen + NADH + H+ <=> Phenanthrene-9,10-oxide + H2O + NAD+",
+    "equation": "C11422 + C00007 + C00004 + C00080 <=> C11429 + C00001 + C00003",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00624": "Polycyclic aromatic hydrocarbon degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

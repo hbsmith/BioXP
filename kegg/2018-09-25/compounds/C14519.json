@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C14519",
+    "name": "1-Hydroxypyrene",
+    "names": [
+      "1-Hydroxypyrene"
+    ],
+    "formula": "C16H10O",
+    "exact_mass": 218.0732,
+    "mol_weight": 218.25,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09170",
+      "R09171",
+      "R09174",
+      "R09177",
+      "R09181"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.-.-",
+      "2.1.1.-",
+      "2.8.2.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "5315-79-7"
+      ],
+      "PubChem": [
+        "17395519"
+      ],
+      "ChEBI": [
+        "34093"
+      ],
+      "ChEMBL": [
+        "CHEMBL3184813"
+      ],
+      "NIKKAJI": [
+        "J353.424C"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C8x C    20.3700  -19.1800\n            2   C8x C    20.3700  -20.5801\n            3   C8x C    21.5825  -21.2801\n            4   C8y C    22.7950  -20.5801\n            5   C8y C    22.7950  -19.1800\n            6   C8y C    21.5825  -18.4800\n            7   C8y C    24.0074  -18.4800\n            8   C8y C    24.0074  -17.0800\n            9   C8x C    22.7950  -16.3800\n            10  C8x C    21.5825  -17.0800\n            11  C8x C    24.0074  -21.2801\n            12  C8x C    25.2198  -20.5801\n            13  C8y C    25.2198  -19.1800\n            14  C8x C    26.4323  -18.4800\n            15  C8x C    26.4323  -17.0800\n            16  C8y C    25.2198  -16.3800\n            17  O1a O    25.2197  -14.9801\nBOND        20\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     5   7 2\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    6  10 2\n            12    4  11 1\n            13   11  12 2\n            14   12  13 1\n            15    7  13 1\n            16   13  14 2\n            17   14  15 1\n            18   15  16 2\n            19    8  16 1\n            20   16  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

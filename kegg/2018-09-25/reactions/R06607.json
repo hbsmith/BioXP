@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06607",
+    "name": "formononetin,NADPH:oxygen oxidoreductase (2'-hydroxylating)",
+    "definition": "Genistein + NADPH + H+ + Oxygen <=> 2'-Hydroxygenistein + NADP+ + H2O",
+    "equation": "C06563 + C00005 + C00080 + C00007 <=> C12134 + C00006 + C00001",
+    "comment": "isoflavone 2'-hydroxylase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.89"
+    ],
+    "pathways": {
+      "rn00943": "Isoflavonoid biosynthesis"
+    },
+    "orthologs": {
+      "K13260": "isoflavone 2'-hydroxylase [EC:1.14.13.89]"
+    }
+  }
+]

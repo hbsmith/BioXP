@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00806",
+    "name": "UDP-glucose:D-fructose 2-alpha-D-glucosyltransferase",
+    "definition": "UDP-glucose + D-Fructose <=> UDP + Sucrose",
+    "equation": "C00029 + C00095 <=> C00015 + C00089",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.13"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00695": "sucrose synthase [EC:2.4.1.13]"
+    }
+  }
+]

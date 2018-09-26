@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10252",
+    "name": "S-adenosyl-L-methionine:trans-anol O-methyltransferase",
+    "definition": "Isochavicol + S-Adenosyl-L-methionine <=> Anethole + S-Adenosyl-L-homocysteine",
+    "equation": "C20464 + C00019 <=> C10428 + C00021",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.279"
+    ],
+    "pathways": {
+      "rn00940": "Phenylpropanoid biosynthesis"
+    },
+    "orthologs": {
+      "K17059": "trans-anol O-methyltransferase [EC:2.1.1.279]"
+    }
+  }
+]

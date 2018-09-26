@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R05961",
+    "name": "",
+    "definition": "H2O + Globotriaosylceramide <=> D-Galactose + Lactosylceramide",
+    "equation": "C00001 + G00093 <=> C00124 + G00092",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.22",
+      "3.2.1.47"
+    ],
+    "pathways": {
+      "rn00603": "Glycosphingolipid biosynthesis - globo and isoglobo series"
+    },
+    "orthologs": {
+      "K01189": "alpha-galactosidase [EC:3.2.1.22]",
+      "K07406": "alpha-galactosidase [EC:3.2.1.22]",
+      "K07407": "alpha-galactosidase [EC:3.2.1.22]"
+    }
+  }
+]

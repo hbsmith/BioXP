@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04311",
+    "name": "1-Acyl-glycerone-3-phosphate:long-chain-alcohol O-3-phospho-2-oxopropanyltransferase",
+    "definition": "Acylglycerone phosphate + Long-chain alcohol <=> O-Alkylglycerone phosphate + Long-chain acid anion",
+    "equation": "C03372 + C00339 <=> C03715 + C03129",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.26"
+    ],
+    "pathways": {
+      "rn00565": "Ether lipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00803": "alkyldihydroxyacetonephosphate synthase [EC:2.5.1.26]"
+    }
+  }
+]

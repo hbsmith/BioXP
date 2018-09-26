@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10365",
+    "name": "dimethylallyl-diphosphate:paspalinine dimethylallyltransferase",
+    "definition": "Paspalinine + Dimethylallyl diphosphate <=> Aflatrem + Diphosphate",
+    "equation": "C20554 + C00235 <=> C20555 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.-"
+    ],
+    "pathways": {
+      "rn00403": "Indole diterpene alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K18391": "dimethylallyldiphosphate transferase [EC:2.5.1.-]"
+    }
+  }
+]

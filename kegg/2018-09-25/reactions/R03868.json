@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R03868",
+    "name": "3-Maleylpyruvate cis-trans-isomerase",
+    "definition": "Maleylpyruvate <=> 3-Fumarylpyruvate",
+    "equation": "C02167 <=> C02514",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.2.1.2",
+      "5.2.1.4"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01801": "maleylpyruvate isomerase [EC:5.2.1.4]",
+      "K16163": "maleylpyruvate isomerase [EC:5.2.1.4]"
+    }
+  }
+]

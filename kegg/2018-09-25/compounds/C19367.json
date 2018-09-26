@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19367",
+    "name": "2-Chloro-1,1,1-trifluoroethane",
+    "names": [
+      "2-Chloro-1,1,1-trifluoroethane"
+    ],
+    "formula": "C2H2ClF3",
+    "exact_mass": 117.9797,
+    "mol_weight": 118.4855,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "75-88-7"
+      ],
+      "PubChem": [
+        "124490039"
+      ],
+      "ChEBI": [
+        "82423"
+      ],
+      "ChEMBL": [
+        "CHEMBL142556"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C1d C    16.1700  -16.6600\n            2   C1b C    17.5700  -16.6600\n            3   X   F    14.7700  -16.6600\n            4   X   F    16.1700  -15.2600\n            5   X   F    16.1700  -18.0600\n            6   X   Cl   18.2700  -17.8724\nBOND        5\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1\n            5     2   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

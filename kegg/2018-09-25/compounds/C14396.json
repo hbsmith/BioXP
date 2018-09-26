@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C14396",
+    "name": "Cumene",
+    "names": [
+      "Cumene",
+      "Isopropylbenzene"
+    ],
+    "formula": "C9H12",
+    "exact_mass": 120.0939,
+    "mol_weight": 120.1916,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "98-82-8"
+      ],
+      "PubChem": [
+        "17395396"
+      ],
+      "ChEBI": [
+        "34656"
+      ],
+      "ChEMBL": [
+        "CHEMBL1398949"
+      ],
+      "NIKKAJI": [
+        "J3.581E"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    27.0901  -17.0102\n            2   C8x C    27.0901  -18.4102\n            3   C8x C    28.3025  -19.1102\n            4   C8x C    29.5150  -18.4102\n            5   C8x C    29.5150  -17.0102\n            6   C8y C    28.3025  -16.3102\n            7   C1c C    28.3025  -14.9104\n            8   C1a C    27.0733  -14.2005\n            9   C1a C    29.4981  -14.2199\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     7   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

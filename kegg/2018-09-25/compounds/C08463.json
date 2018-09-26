@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C08463",
+    "name": "Triacetylene",
+    "names": [
+      "Triacetylene",
+      "1,3,5-Hexatriyne"
+    ],
+    "formula": "C6H2",
+    "exact_mass": 74.0156,
+    "mol_weight": 74.0801,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "3161-99-7"
+      ],
+      "PubChem": [
+        "10656"
+      ],
+      "ChEBI": [
+        "9662"
+      ],
+      "KNApSAcK": [
+        "C00001297"
+      ],
+      "NIKKAJI": [
+        "J492.757E"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C3b C    28.1383  -16.9342\n            2   C3b C    29.5417  -16.9458\n            3   C3b C    26.7407  -16.9283\n            4   C3b C    30.9452  -16.9517\n            5   C3a C    25.3372  -16.9166\n            6   C3a C    32.3370  -16.9634\nBOND        5\n            1     1   2 3\n            2     1   3 1\n            3     2   4 1\n            4     3   5 3\n            5     4   6 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

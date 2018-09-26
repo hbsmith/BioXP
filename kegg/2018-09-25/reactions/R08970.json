@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08970",
+    "name": "N-acyl-L-homoserine-lactone lactonohydrolase",
+    "definition": "N-Acyl-L-homoserine lactone + H2O <=> N-Acyl-L-homoserine",
+    "equation": "C18049 + C00001 <=> C18061",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.81"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K13075": "N-acyl homoserine lactone hydrolase [EC:3.1.1.81]"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C15647",
+    "name": "2-Acyl-1-(1-alkenyl)-sn-glycero-3-phosphate",
+    "names": [
+      "2-Acyl-1-(1-alkenyl)-sn-glycero-3-phosphate"
+    ],
+    "formula": "C6H9O7PR2",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R07382",
+      "R07383",
+      "R07385"
+    ],
+    "pathways": {
+      "map00565": "Ether lipid metabolism"
+    },
+    "enzymes": [
+      "2.3.1.-",
+      "3.1.3.-",
+      "3.1.4.4"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17396637"
+      ],
+      "ChEBI": [
+        "73327"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C1c C    18.7061  -16.6427\n            2   C1b C    18.7177  -18.4544\n            3   C1b C    18.7177  -14.9350\n            4   O7a O    17.1727  -16.6716\n            5   O2b O    20.0320  -18.4544\n            6   O2a O    20.0320  -14.9350\n            7   C7a C    15.8469  -16.6716\n            8   P1b P    21.3405  -18.4544\n            9   C2b C    20.7207  -13.7546\n            10  O6a O    15.8411  -15.3516\n            11  R   R    14.5327  -16.6716\n            12  O1c O    22.6661  -18.4544\n            13  O1c O    21.3347  -19.7743\n            14  O1c O    21.3463  -17.1529\n            15  C2b C    22.0869  -13.7546\n            16  R   R    22.7812  -14.9540\nBOND        15\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     4   7 1\n            7     5   8 1\n            8     6   9 1\n            9     7  10 2\n            10    7  11 1\n            11    8  12 1\n            12    8  13 1\n            13    8  14 2\n            14    9  15 2\n            15   15  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

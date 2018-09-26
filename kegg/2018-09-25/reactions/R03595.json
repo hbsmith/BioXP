@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03595",
+    "name": "ATP:selenide, water phosphotransferase",
+    "definition": "ATP + Hydrogen selenide + H2O <=> AMP + Selenophosphoric acid + Orthophosphate",
+    "equation": "C00002 + C01528 + C00001 <=> C00020 + C05172 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.9.3"
+    ],
+    "pathways": {
+      "rn00450": "Selenocompound metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01008": "selenide, water dikinase [EC:2.7.9.3]"
+    }
+  }
+]

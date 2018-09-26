@@ -1,0 +1,64 @@
+[
+  {
+    "entry_id": "C01839",
+    "name": "Orsellinate",
+    "names": [
+      "Orsellinate",
+      "o-Orsellinic acid",
+      "2,4-Dihydroxy-6-methylbenzoic acid",
+      "2,4-Dihydroxy-6-methylbenzoate",
+      "4,6-Dihydroxy-o-toluic acid"
+    ],
+    "formula": "C8H8O4",
+    "exact_mass": 168.0423,
+    "mol_weight": 168.1467,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00054",
+      "R02831"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.1.40",
+      "4.1.1.58"
+    ],
+    "dblinks": {
+      "CAS": [
+        "480-64-8"
+      ],
+      "PubChem": [
+        "4958"
+      ],
+      "ChEBI": [
+        "32807"
+      ],
+      "ChEMBL": [
+        "CHEMBL457583"
+      ],
+      "LIPIDMAPS": [
+        "LMPK13010001"
+      ],
+      "KNApSAcK": [
+        "C00000487"
+      ],
+      "PDB-CCD": [
+        "6X7"
+      ],
+      "3DMET": [
+        "B00357"
+      ],
+      "NIKKAJI": [
+        "J6.167K"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    22.1200  -15.0908\n            2   C8y C    20.9095  -15.7888\n            3   C8y C    23.3370  -15.7888\n            4   C6a C    22.1137  -13.7009\n            5   C8x C    20.9095  -17.1979\n            6   C1a C    19.7053  -15.0908\n            7   C8x C    23.3370  -17.1979\n            8   O1a O    24.5475  -15.0908\n            9   O6a O    23.3177  -12.9963\n            10  O6a O    20.9030  -13.0026\n            11  C8y C    22.1200  -17.9090\n            12  O1a O    22.1137  -19.3752\nBOND        12\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 2\n            7     3   8 1\n            8     4   9 1\n            9     4  10 2\n            10    5  11 2\n            11   11  12 1\n            12    7  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

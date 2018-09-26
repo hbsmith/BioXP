@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05401",
+    "name": "nitrosobenzene:NADP+ oxidoreductase",
+    "definition": "Nitrobenzene + NADPH + H+ <=> Nitrosobenzene + NADP+ + H2O",
+    "equation": "C06813 + C00005 + C00080 <=> C06876 + C00006 + C00001",
+    "comment": "nitrobenzene nitroreductase, nbzA second step of two-step reaction (see R11744, R05400+R05401)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.1.16"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K15057": "nitrobenzene nitroreductase [EC:1.7.1.16]"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00639",
+    "name": "primary alcohol:acceptor oxidoreductase",
+    "definition": "Primary alcohol + Acceptor <=> Aldehyde + Reduced acceptor",
+    "equation": "C00226 + C00028 <=> C00071 + C00030",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.99.20"
+    ],
+    "pathways": {
+      "rn00071": "Fatty acid degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

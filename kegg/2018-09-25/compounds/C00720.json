@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C00720",
+    "name": "RBr",
+    "names": [
+      "RBr"
+    ],
+    "formula": "BrR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R09505"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.11.1.18"
+    ],
+    "dblinks": {
+      "CAS": [
+        "24959-67-9"
+      ],
+      "PubChem": [
+        "3986"
+      ],
+      "ChEBI": [
+        "15858"
+      ]
+    },
+    "kcf": "ATOM        2\n            1   X   Br   22.6830  -15.7540\n            2   R   R    21.3470  -16.7260\nBOND        1\n            1     1   2 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

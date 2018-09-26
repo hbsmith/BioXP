@@ -1,0 +1,27 @@
+[
+  {
+    "entry_id": "R04540",
+    "name": "Coenzyme B:coenzyme M:methanophenazine oxidoreductase",
+    "definition": "Coenzyme M 7-mercaptoheptanoylthreonine-phosphate heterodisulfide + Dihydromethanophenazine <=> Coenzyme B + Coenzyme M + Methanophenazine",
+    "equation": "C04832 + C11904 <=> C04628 + C03576 + C11903",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.98.1"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K03388": "heterodisulfide reductase subunit A [EC:1.8.98.1]",
+      "K03389": "heterodisulfide reductase subunit B [EC:1.8.98.1]",
+      "K03390": "heterodisulfide reductase subunit C [EC:1.8.98.1]",
+      "K08264": "heterodisulfide reductase subunit D [EC:1.8.98.1]",
+      "K08265": "heterodisulfide reductase subunit E [EC:1.8.98.1]"
+    }
+  }
+]

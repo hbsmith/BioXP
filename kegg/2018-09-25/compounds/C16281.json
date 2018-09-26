@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C16281",
+    "name": "Thiobenzamide",
+    "names": [
+      "Thiobenzamide"
+    ],
+    "formula": "C7H7NS",
+    "exact_mass": 137.0299,
+    "mol_weight": 137.2022,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07836"
+    ],
+    "pathways": {
+      "map00627": "Aminobenzoate degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "2227-79-4"
+      ],
+      "PubChem": [
+        "47205589"
+      ],
+      "ChEBI": [
+        "80418"
+      ],
+      "ChEMBL": [
+        "CHEMBL3739883"
+      ],
+      "NIKKAJI": [
+        "J29.488H"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    20.8600  -19.1800\n            2   C8x C    20.8600  -20.5800\n            3   C8x C    19.6700  -21.2800\n            4   C8x C    18.4100  -20.5800\n            5   C8x C    18.4100  -19.1800\n            6   C8y C    19.6700  -18.4800\n            7   C2c C    19.6700  -17.0800\n            8   S0  S    20.8600  -16.3800\n            9   N1a N    18.4800  -16.3800\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     7   8 2\n            9     7   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

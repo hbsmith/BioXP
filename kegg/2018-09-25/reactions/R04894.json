@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04894",
+    "name": "L-Metanephrine:oxygen oxidoreductase (deaminating) (flavin-containing)",
+    "definition": "L-Metanephrine + H2O + Oxygen <=> 3-Methoxy-4-hydroxyphenylglycolaldehyde + Hydrogen peroxide + Methylamine",
+    "equation": "C05588 + C00001 + C00007 <=> C05583 + C00027 + C00218",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.4"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00274": "monoamine oxidase [EC:1.4.3.4]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08018",
+    "name": "",
+    "definition": "4-Hydroxylamino-2,6-dinitrotoluene + NADH + H+ <=> 4-Amino-2,6-dinitrotoluene + NAD+ + H2O",
+    "equation": "C16392 + C00004 + C00080 <=> C16394 + C00003 + C00001",
+    "comment": "nitroreductase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.1.-"
+    ],
+    "pathways": {
+      "rn00633": "Nitrotoluene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

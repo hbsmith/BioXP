@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C19484",
+    "name": "3-(N-Nitrosomethylamino)propionaldehyde",
+    "names": [
+      "3-(N-Nitrosomethylamino)propionaldehyde",
+      "3-(Methylnitrosoamino)-propanal"
+    ],
+    "formula": "C4H8N2O2",
+    "exact_mass": 116.0586,
+    "mol_weight": 116.1185,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "85502-23-4"
+      ],
+      "PubChem": [
+        "124490156"
+      ],
+      "ChEBI": [
+        "82514"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1a C    13.7900  -15.6800\n            2   N1c N    15.0024  -14.9800\n            3   C1b C    16.2149  -15.6800\n            4   C1b C    17.4273  -14.9800\n            5   C4a C    18.6397  -15.6800\n            6   O4a O    19.8522  -14.9800\n            7   N2b N    15.0024  -13.5802\n            8   O3a O    16.1980  -12.8898\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 2\n            6     2   7 1\n            7     7   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

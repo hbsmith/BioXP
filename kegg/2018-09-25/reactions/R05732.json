@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05732",
+    "name": "N-methylcoclaurine 3'-hydroxylase",
+    "definition": "(S)-N-Methylcoclaurine + NADPH + H+ + Oxygen <=> 3'-Hydroxy-N-methyl-(S)-coclaurine + NADP+ + H2O",
+    "equation": "C05176 + C00005 + C00080 + C00007 <=> C05202 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.71"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13385": "N-methylcoclaurine 3'-monooxygenase [EC:1.14.13.71]"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R05587",
+    "name": "",
+    "definition": "Benzoylsuccinyl-CoA + CoA <=> Benzoyl-CoA + Succinyl-CoA",
+    "equation": "C09820 + C00010 <=> C00512 + C00091",
+    "comment": "BbsB",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.-"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K07549": "benzoylsuccinyl-CoA thiolase BbsA subunit [EC:2.3.1.-]",
+      "K07550": "benzoylsuccinyl-CoA thiolase BbsB subunit [EC:2.3.1.-]"
+    }
+  }
+]

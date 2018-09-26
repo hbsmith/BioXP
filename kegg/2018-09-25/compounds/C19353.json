@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C19353",
+    "name": "Bromochloroacetonitrile",
+    "names": [
+      "Bromochloroacetonitrile"
+    ],
+    "formula": "C2HBrClN",
+    "exact_mass": 152.8981,
+    "mol_weight": 154.393,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "83463-62-1"
+      ],
+      "PubChem": [
+        "124490025"
+      ],
+      "ChEBI": [
+        "82412"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   X   Br   12.3200  -18.1300\n            2   C1c C    13.5324  -17.4300\n            3   C3b C    14.7449  -18.1300\n            4   X   Cl   13.5324  -16.0302\n            5   N3a N    15.9573  -18.8300\nBOND        4\n            1     1   2 1\n            2     2   3 1\n            3     2   4 1\n            4     3   5 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

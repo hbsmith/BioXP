@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01103",
+    "name": "Raffinose galactohydrolase",
+    "definition": "Raffinose + H2O <=> D-Galactose + Sucrose",
+    "equation": "C00492 + C00001 <=> C00124 + C00089",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.22"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism"
+    },
+    "orthologs": {
+      "K01189": "alpha-galactosidase [EC:3.2.1.22]",
+      "K07406": "alpha-galactosidase [EC:3.2.1.22]",
+      "K07407": "alpha-galactosidase [EC:3.2.1.22]"
+    }
+  }
+]

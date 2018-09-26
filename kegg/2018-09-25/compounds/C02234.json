@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C02234",
+    "name": "4-Cyanopyridine",
+    "names": [
+      "4-Cyanopyridine"
+    ],
+    "formula": "C6H4N2",
+    "exact_mass": 104.0374,
+    "mol_weight": 104.1094,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "100-48-1"
+      ],
+      "PubChem": [
+        "5298"
+      ],
+      "ChEBI": [
+        "28020"
+      ],
+      "ChEMBL": [
+        "CHEMBL504918"
+      ],
+      "NIKKAJI": [
+        "J39.102F"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C8y C    18.4037  -14.7383\n            2   C8x C    17.2070  -14.0317\n            3   C8x C    19.6195  -14.0317\n            4   C3b C    18.3973  -16.1197\n            5   C8x C    17.2070  -12.6313\n            6   C8x C    19.6195  -12.6313\n            7   N3a N    18.4290  -17.5582\n            8   N5x N    18.4037  -11.9376\nBOND        8\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 2\n            6     4   7 3\n            7     5   8 2\n            8     6   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

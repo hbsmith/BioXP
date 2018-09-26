@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09562",
+    "name": "S-(2E,6E)-farnesyl-L-cysteine oxidase",
+    "definition": "Farnesylcysteine + Oxygen + H2O <=> 2-trans,6-trans-Farnesal + L-Cysteine + Hydrogen peroxide",
+    "equation": "C19691 + C00007 + C00001 <=> C03461 + C00097 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.3.5",
+      "1.8.3.6"
+    ],
+    "pathways": {
+      "rn00900": "Terpenoid backbone biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K05906": "prenylcysteine oxidase / farnesylcysteine lyase [EC:1.8.3.5 1.8.3.6]"
+    }
+  }
+]

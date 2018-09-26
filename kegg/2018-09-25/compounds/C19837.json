@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C19837",
+    "name": "Indole-3-carboxylate",
+    "names": [
+      "Indole-3-carboxylate",
+      "Indole-3-carboxylic acid"
+    ],
+    "formula": "C9H7NO2",
+    "exact_mass": 161.0477,
+    "mol_weight": 161.1574,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09488"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.1.1.92"
+    ],
+    "dblinks": {
+      "CAS": [
+        "771-50-6"
+      ],
+      "PubChem": [
+        "135626304"
+      ],
+      "ChEMBL": [
+        "CHEMBL387527"
+      ],
+      "KNApSAcK": [
+        "C00000113"
+      ],
+      "PDB-CCD": [
+        "ICO"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    22.0844  -22.0228\n            2   C8x C    22.0844  -23.4205\n            3   C8x C    23.2948  -24.1194\n            4   C8y C    24.5053  -23.4205\n            5   C8y C    24.5053  -22.0228\n            6   C8x C    23.2948  -21.3240\n            7   N4x N    25.8346  -23.8524\n            8   C8x C    26.6561  -22.7217\n            9   C8y C    25.8346  -21.5910\n            10  C6a C    26.2650  -20.2663\n            11  O6a O    27.6421  -19.9736\n            12  O6a O    25.3382  -19.2376\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    9  10 1\n            12   10  11 1\n            13   10  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

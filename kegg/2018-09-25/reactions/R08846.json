@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08846",
+    "name": "3,4-dihydroxy-L-phenylalanine ammonia-lyase (3,4-dihydroxyphenylpropanoate-forming)",
+    "definition": "3,4-Dihydroxy-L-phenylalanine + NADH + H+ <=> 3,4-Dihydroxyphenylpropanoate + NAD+ + Ammonia",
+    "equation": "C00355 + C00004 + C00080 <=> C10447 + C00003 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.3.1.22"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

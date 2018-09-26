@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C20631",
+    "name": "(2S,3S)-3-Hydroxyasparagine",
+    "names": [
+      "(2S,3S)-3-Hydroxyasparagine"
+    ],
+    "formula": "C4H8N2O4",
+    "exact_mass": 148.0484,
+    "mol_weight": 148.1173,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10446"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.11.39"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "172232355"
+      ],
+      "PDB-CCD": [
+        "AHB"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1c C    17.9875  -16.4718\n            2   C1c C    19.1938  -15.8332\n            3   C5a C    20.4000  -16.4718\n            4   N1a N    21.6772  -15.8332\n            5   O5a O    20.4009  -17.8908\n            6   C6a C    16.7814  -15.8332\n            7   O6a O    15.5752  -16.5428\n            8   O6a O    16.7814  -14.4141\n            9   O1a O    19.1938  -14.4141\n            10  N1a N    17.9875  -17.8908\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 2\n            5     1   6 1\n            6     6   7 1\n            7     6   8 2\n            8     2   9 1 #Down\n            9     1  10 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

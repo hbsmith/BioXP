@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C17386",
+    "name": "2-Methoxy-4-nitrophenol",
+    "names": [
+      "2-Methoxy-4-nitrophenol",
+      "4-Nitroguaiacol"
+    ],
+    "formula": "C7H7NO4",
+    "exact_mass": 169.0375,
+    "mol_weight": 169.1348,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "3251-56-7"
+      ],
+      "PubChem": [
+        "96023739"
+      ],
+      "ChEBI": [
+        "81050"
+      ],
+      "NIKKAJI": [
+        "J50.149B"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    20.8251  -17.2582\n            2   N2b N    20.8251  -18.6557 #+\n            3   C8x C    22.0129  -16.5595\n            4   C8x C    19.6372  -16.5595\n            5   O3a O    19.6372  -19.3544\n            6   O3a O    22.0129  -19.3544 #-\n            7   C8y C    22.0129  -15.1622\n            8   C8x C    19.6372  -15.1622\n            9   C8y C    20.8251  -14.4635\n            10  O1a O    20.8251  -13.0662\n            11  O2a O    23.2258  -14.4684\n            12  C1a C    24.5654  -15.2377\nBOND        12\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     4   8 2\n            8     7   9 2\n            9     9  10 1\n            10    8   9 1\n            11    7  11 1\n            12   11  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

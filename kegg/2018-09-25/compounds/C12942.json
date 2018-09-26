@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C12942",
+    "name": "Paraformaldehyde",
+    "names": [
+      "Paraformaldehyde"
+    ],
+    "formula": "(CH2O)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "Same as: D01494",
+    "comment": "polymer of Formaldehyde [CPD:C00067]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "30525-89-4"
+      ],
+      "PubChem": [
+        "583331"
+      ],
+      "ChEBI": [
+        "31962"
+      ],
+      "NIKKAJI": [
+        "J209.233F"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   Z   *    14.0000  -18.2000\n            2   C1a C    15.9124  -17.0800\n            3   O1a O    17.1249  -17.7800\n            4   Z   *    19.4573  -16.5900\nBOND        3\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

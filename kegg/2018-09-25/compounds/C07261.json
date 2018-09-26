@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C07261",
+    "name": "Octamethyltrisiloxane",
+    "names": [
+      "Octamethyltrisiloxane"
+    ],
+    "formula": "C8H24O2Si3",
+    "exact_mass": 236.1084,
+    "mol_weight": 236.5315,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "107-51-7"
+      ],
+      "PubChem": [
+        "9470"
+      ],
+      "ChEBI": [
+        "9147"
+      ],
+      "ChEMBL": [
+        "CHEMBL2142985"
+      ],
+      "NIKKAJI": [
+        "J99.786B"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   O2a O    26.6005  -19.5300\n            2   Z   Si   28.0058  -19.5300\n            3   Z   Si   25.2009  -19.5300\n            4   O2a O    29.4054  -19.5300\n            5   C1a C    27.9942  -18.1305\n            6   C1a C    27.9942  -20.9295\n            7   C1a C    23.8014  -19.5242\n            8   C1a C    25.1951  -18.1305\n            9   C1a C    25.1951  -20.9295\n            10  Z   Si   30.8049  -19.5300\n            11  C1a C    30.7991  -18.1305\n            12  C1a C    32.2045  -19.5300\n            13  C1a C    30.7991  -20.9295\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     3   8 1\n            8     3   9 1\n            9     4  10 1\n            10   10  11 1\n            11   10  12 1\n            12   10  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

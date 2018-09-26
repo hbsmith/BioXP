@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R01294",
+    "name": "4-hydroxybenzaldehyde:NADP+ oxidoreductase",
+    "definition": "4-Hydroxybenzaldehyde + NADP+ + H2O <=> 4-Hydroxybenzoate + NADPH + H+",
+    "equation": "C00633 + C00006 + C00001 <=> C00156 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.7",
+      "1.2.1.96"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K20199": "4-hydroxybenzaldehyde dehydrogenase (NADP+) [EC:1.2.1.96]"
+    }
+  }
+]

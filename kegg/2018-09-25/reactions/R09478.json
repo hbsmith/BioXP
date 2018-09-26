@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09478",
+    "name": "2-hydroxyethylphosphonate:NAD+ oxidoreductase",
+    "definition": "2-Hydroxyethylphosphonate + NAD+ <=> Phosphonoacetaldehyde + NADH + H+",
+    "equation": "C06451 + C00003 <=> C03167 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.309"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12904": "phosphonoacetaldehyde reductase [EC:1.1.1.309]"
+    }
+  }
+]

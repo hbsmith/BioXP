@@ -1,0 +1,60 @@
+[
+  {
+    "entry_id": "C12204",
+    "name": "5-Hydroxyconiferaldehyde",
+    "names": [
+      "5-Hydroxyconiferaldehyde"
+    ],
+    "formula": "C10H10O4",
+    "exact_mass": 194.0579,
+    "mol_weight": 194.184,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06569",
+      "R06570",
+      "R06572",
+      "R06576"
+    ],
+    "pathways": {
+      "map00940": "Phenylpropanoid biosynthesis",
+      "map01061": "Biosynthesis of phenylpropanoids",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.1.1.195",
+      "1.2.1.44",
+      "1.14.13.-",
+      "2.1.1.68"
+    ],
+    "dblinks": {
+      "CAS": [
+        "249647-14-1"
+      ],
+      "PubChem": [
+        "14350"
+      ],
+      "ChEBI": [
+        "31134"
+      ],
+      "KNApSAcK": [
+        "C00007611"
+      ],
+      "3DMET": [
+        "B04444"
+      ],
+      "NIKKAJI": [
+        "J1.181.065I",
+        "J1.273.258I"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    28.0708  -18.8075\n            2   C8x C    28.0708  -20.2111\n            3   C8y C    26.8778  -20.9128\n            4   C8y C    25.6147  -20.2111\n            5   C8y C    25.6147  -18.8075\n            6   C8x C    26.8778  -18.1058\n            7   C2b C    29.2638  -18.1058\n            8   C2b C    30.4569  -18.8075\n            9   C4a C    31.6499  -18.1058\n            10  O2a O    24.4217  -18.1058\n            11  O1a O    24.4217  -20.9128\n            12  O1a O    26.8778  -22.3164\n            13  C1a C    23.2005  -18.7976\n            14  O4a O    32.8707  -18.7974\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 1\n            8     7   8 2\n            9     8   9 1\n            10    5  10 1\n            11    4  11 1\n            12    3  12 1\n            13   10  13 1\n            14    9  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

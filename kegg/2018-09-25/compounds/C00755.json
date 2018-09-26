@@ -1,0 +1,77 @@
+[
+  {
+    "entry_id": "C00755",
+    "name": "4-Hydroxy-3-methoxy-benzaldehyde",
+    "names": [
+      "4-Hydroxy-3-methoxy-benzaldehyde",
+      "Vanillin",
+      "Vanillaldehyde",
+      "4-Hydroxy-3-methoxybenzaldehyde"
+    ],
+    "formula": "C8H8O3",
+    "exact_mass": 152.0473,
+    "mol_weight": 152.1473,
+    "remark": "Same as: D00091",
+    "comment": "",
+    "reactions": [
+      "R00043",
+      "R02877",
+      "R05273",
+      "R05699",
+      "R05773",
+      "R08461",
+      "R11503"
+    ],
+    "pathways": {
+      "map00360": "Phenylalanine metabolism",
+      "map00627": "Aminobenzoate degradation",
+      "map01061": "Biosynthesis of phenylpropanoids",
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.3.38",
+      "1.2.1.67",
+      "1.2.3.9",
+      "1.11.1.16",
+      "1.13.11.43",
+      "4.1.2.41"
+    ],
+    "dblinks": {
+      "CAS": [
+        "121-33-5"
+      ],
+      "PubChem": [
+        "4017"
+      ],
+      "ChEBI": [
+        "18346"
+      ],
+      "ChEMBL": [
+        "CHEMBL13883"
+      ],
+      "KNApSAcK": [
+        "C00002683",
+        "C00029531"
+      ],
+      "PDB-CCD": [
+        "V55"
+      ],
+      "3DMET": [
+        "B00167"
+      ],
+      "NIKKAJI": [
+        "J2.923H"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    25.4479  -19.7481\n            2   C8x C    25.4479  -18.3491\n            3   C8y C    24.2422  -20.4445\n            4   O2a O    26.6595  -20.4445\n            5   C8y C    24.2422  -17.6467\n            6   C8x C    23.0249  -19.7481\n            7   O1a O    24.2422  -21.8493\n            8   C8x C    23.0249  -18.3491\n            9   C4a C    24.2422  -16.2478\n            10  O4a O    23.0306  -15.5455\n            11  C1a C    27.8804  -19.7365\nBOND        11\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     3   6 1\n            6     3   7 1\n            7     5   8 1\n            8     5   9 1\n            9     9  10 2\n            10    6   8 2\n            11    4  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05603",
+    "name": "",
+    "definition": "Phenolic phosphate + CO2 + H2O <=> 4-Hydroxybenzoate + Orthophosphate",
+    "equation": "C02734 + C00011 + C00001 <=> C00156 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.4.1.-"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

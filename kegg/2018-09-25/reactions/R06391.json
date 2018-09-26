@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06391",
+    "name": "isopropenylmethyloxepan-2-one lactonohydrolase",
+    "definition": "(3S,6R)-6-Isopropenyl-3-methyl-2-oxo-oxepanone + H2O <=> (5R)-6-Hydroxy-5-isopropenyl-2-methylhexanoate",
+    "equation": "C11403 + C00001 <=> C11406",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.83"
+    ],
+    "pathways": {
+      "rn00903": "Limonene and pinene degradation"
+    },
+    "orthologs": {
+      "K14731": "epsilon-lactone hydrolase [EC:3.1.1.83]"
+    }
+  }
+]

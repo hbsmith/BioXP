@@ -1,0 +1,36 @@
+[
+  {
+    "entry_id": "C21248",
+    "name": "2-Aminovalienone",
+    "names": [
+      "2-Aminovalienone"
+    ],
+    "formula": "C7H11NO4",
+    "exact_mass": 173.0688,
+    "mol_weight": 173.1665,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11252"
+    ],
+    "pathways": {
+      "map00525": "Acarbose and validamycin biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "315431337"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1y C    17.4268  -15.8871\n            2   C1y C    17.4268  -17.2868\n            3   C1y C    18.6166  -17.9867\n            4   C5x C    19.8763  -17.2868\n            5   C2x C    19.8763  -15.8871\n            6   C2y C    18.6166  -15.1872\n            7   C1b C    18.6166  -13.7874\n            8   O1a O    19.8064  -13.0175\n            9   O1a O    16.2370  -17.9867\n            10  N1a N    18.6166  -19.3864\n            11  O1a O    16.2370  -15.1872\n            12  O5x O    21.0661  -17.9867\nBOND        12\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     2   9 1 #Up\n            10    3  10 1\n            11    1  11 1 #Down\n            12    4  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

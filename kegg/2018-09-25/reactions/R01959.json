@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R01959",
+    "name": "N-Formyl-L-kynurenine amidohydrolase",
+    "definition": "L-Formylkynurenine + H2O <=> Formate + L-Kynurenine",
+    "equation": "C02700 + C00001 <=> C00058 + C00328",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.9"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism",
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01432": "arylformamidase [EC:3.5.1.9]",
+      "K07130": "arylformamidase [EC:3.5.1.9]",
+      "K14263": "kynurenine formamidase [EC:3.5.1.9]"
+    }
+  }
+]

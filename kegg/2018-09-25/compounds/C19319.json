@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C19319",
+    "name": "5-Aminoacenaphthene",
+    "names": [
+      "5-Aminoacenaphthene",
+      "5-Acenaphthenamine"
+    ],
+    "formula": "C12H11N",
+    "exact_mass": 169.0891,
+    "mol_weight": 169.2224,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "4657-93-6"
+      ],
+      "PubChem": [
+        "124489991"
+      ],
+      "ChEBI": [
+        "82381"
+      ],
+      "ChEMBL": [
+        "CHEMBL1557111"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    18.1300  -16.9400\n            2   C8x C    18.1300  -18.3400\n            3   C8y C    19.3424  -19.0400\n            4   C8y C    20.5549  -18.3400\n            5   C8y C    20.5549  -16.9400\n            6   C8y C    19.3424  -16.2400\n            7   C8y C    21.7673  -19.0400\n            8   C8x C    22.9797  -18.3400\n            9   C8x C    22.9797  -16.9400\n            10  C8x C    21.7673  -16.2400\n            11  N1a N    19.3424  -14.8402\n            12  C1x C    19.3424  -20.4400\n            13  C1x C    21.7673  -20.4400\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12    6  11 1\n            13    3  12 1\n            14    7  13 1\n            15   12  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

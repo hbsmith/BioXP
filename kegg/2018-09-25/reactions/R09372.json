@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09372",
+    "name": "methaneselenol:NADP+ oxidoreductase",
+    "definition": "2 NADPH + 2 H+ + Methylselenic acid <=> 2 NADP+ + 2 H2O + Methaneselenol",
+    "equation": "2 C00005 + 2 C00080 + C18902 <=> 2 C00006 + 2 C00001 + C05703",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.1.9"
+    ],
+    "pathways": {
+      "rn00450": "Selenocompound metabolism"
+    },
+    "orthologs": {
+      "K00384": "thioredoxin reductase (NADPH) [EC:1.8.1.9]",
+      "K22182": "thioredoxin reductase (NADPH) [EC:1.8.1.9]"
+    }
+  }
+]

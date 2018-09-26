@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01883",
+    "name": "S-Adenosyl-L-methionine:guanidinoacetate N-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Guanidinoacetate <=> S-Adenosyl-L-homocysteine + Creatine",
+    "equation": "C00019 + C00581 <=> C00021 + C00300",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.2"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism",
+      "rn00330": "Arginine and proline metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00542": "guanidinoacetate N-methyltransferase [EC:2.1.1.2]"
+    }
+  }
+]

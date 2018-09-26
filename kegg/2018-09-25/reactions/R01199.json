@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R01199",
+    "name": "2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propanoylating)",
+    "definition": "2 Oxidized ferredoxin + 2-Oxobutanoate + CoA <=> 2 Reduced ferredoxin + Propanoyl-CoA + CO2 + 2 H+",
+    "equation": "2 C00139 + C00109 + C00010 <=> 2 C00138 + C00100 + C00011 + 2 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.7.1"
+    ],
+    "pathways": {
+      "rn00640": "Propanoate metabolism"
+    },
+    "orthologs": {
+      "K00169": "pyruvate ferredoxin oxidoreductase alpha subunit [EC:1.2.7.1]",
+      "K00170": "pyruvate ferredoxin oxidoreductase beta subunit [EC:1.2.7.1]",
+      "K00171": "pyruvate ferredoxin oxidoreductase delta subunit [EC:1.2.7.1]",
+      "K00172": "pyruvate ferredoxin oxidoreductase gamma subunit [EC:1.2.7.1]"
+    }
+  }
+]

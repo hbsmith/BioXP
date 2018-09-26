@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C08334",
+    "name": "Lotaustralin",
+    "names": [
+      "Lotaustralin"
+    ],
+    "formula": "C11H19NO6",
+    "exact_mass": 261.1212,
+    "mol_weight": 261.2717,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10037",
+      "R10039"
+    ],
+    "pathways": {
+      "map00460": "Cyanoamino acid metabolism",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "2.4.1.63",
+      "3.2.1.21"
+    ],
+    "dblinks": {
+      "CAS": [
+        "534-67-8"
+      ],
+      "PubChem": [
+        "10532"
+      ],
+      "ChEBI": [
+        "6542"
+      ],
+      "KNApSAcK": [
+        "C00001448"
+      ],
+      "NIKKAJI": [
+        "J412.304B"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C1y C    26.6465  -16.3261\n            2   O2x O    25.4312  -15.6483\n            3   C1y C    26.6641  -17.7168\n            4   O2a O    27.8677  -15.6016\n            5   C1y C    24.2274  -16.3670\n            6   C1y C    25.4837  -18.4237\n            7   O1a O    27.8677  -18.3946\n            8   C1d C    29.1006  -16.3144\n            9   C1y C    24.1984  -17.7519\n            10  C1b C    23.0064  -15.6834\n            11  O1a O    25.4837  -19.8086\n            12  C1b C    30.3276  -15.6016\n            13  C3b C    29.0889  -17.7343\n            14  C1a C    30.3801  -17.2197\n            15  O1a O    23.0589  -18.4588\n            16  O1a O    21.8201  -16.4021\n            17  C1a C    31.5488  -16.3144\n            18  N3a N    29.1531  -19.1542\nBOND        18\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     3   6 1\n            6     3   7 1 #Down\n            7     4   8 1\n            8     5   9 1\n            9     5  10 1 #Up\n            10    6  11 1 #Up\n            11    8  12 1\n            12    8  13 1 #Down\n            13    8  14 1 #Up\n            14    9  15 1 #Down\n            15   10  16 1\n            16   12  17 1\n            17   13  18 3\n            18    6   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

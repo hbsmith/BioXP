@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05834",
+    "name": "S-adenosyl-L-methionine:secologanate 11-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Secologanate <=> S-Adenosyl-L-homocysteine + Secologanin",
+    "equation": "C00019 + C01957 <=> C00021 + C01852",
+    "comment": "irreversible",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.50"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

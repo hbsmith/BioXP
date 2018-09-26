@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C00038",
+    "name": "Zinc cation",
+    "names": [
+      "Zinc cation",
+      "Zn2+",
+      "Zn(II)",
+      "Zinc ion"
+    ],
+    "formula": "Zn",
+    "exact_mass": 63.9291,
+    "mol_weight": 65.409,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map02010": "ABC transporters",
+      "map02020": "Two-component system",
+      "map04978": "Mineral absorption"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "23713-49-7"
+      ],
+      "PubChem": [
+        "3340"
+      ],
+      "ChEBI": [
+        "27363",
+        "29105"
+      ],
+      "ChEMBL": [
+        "CHEMBL1236970"
+      ],
+      "PDB-CCD": [
+        "ZN"
+      ],
+      "NIKKAJI": [
+        "J3.735D"
+      ]
+    },
+    "kcf": "ATOM        1\n            1   Z   Zn   37.3800  -22.7500 #2+\nBOND        0\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19384",
+    "name": "1,2-Diamino-4-nitrobenzene",
+    "names": [
+      "1,2-Diamino-4-nitrobenzene"
+    ],
+    "formula": "C6H7N3O2",
+    "exact_mass": 153.0538,
+    "mol_weight": 153.1387,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "99-56-9"
+      ],
+      "PubChem": [
+        "124490056"
+      ],
+      "ChEBI": [
+        "67116"
+      ],
+      "ChEMBL": [
+        "CHEMBL433721"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    17.2200  -17.2900\n            2   C8y C    17.2200  -18.6900\n            3   C8x C    18.4324  -19.3900\n            4   C8x C    19.6449  -18.6900\n            5   C8y C    19.6449  -17.2900\n            6   C8y C    18.4324  -16.5900\n            7   N1a N    18.4324  -15.1902\n            8   N1a N    20.8760  -16.5790\n            9   N2b N    16.0076  -19.3900 #+\n            10  O3a O    14.8121  -18.6996 #-\n            11  O3a O    16.0075  -20.7898\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     2   9 1\n            10    9  10 1\n            11    9  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07634",
+    "name": "L-cysteate bisulfite-lyase (deaminating)",
+    "definition": "L-Cysteate + H2O <=> Pyruvate + HSO3- + Ammonia",
+    "equation": "C00506 + C00001 <=> C00022 + C11481 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.25"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism"
+    },
+    "orthologs": {
+      "K17950": "L-cysteate sulfo-lyase [EC:4.4.1.25]"
+    }
+  }
+]

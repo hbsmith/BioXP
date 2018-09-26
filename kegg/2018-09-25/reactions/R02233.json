@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02233",
+    "name": "Cyclohexylamine:oxygen oxidoreductase (deaminating)",
+    "definition": "Cyclohexylamine + Oxygen + H2O <=> Cyclohexanone + Hydrogen peroxide + Ammonia",
+    "equation": "C00571 + C00007 + C00001 <=> C00414 + C00027 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.12"
+    ],
+    "pathways": {
+      "rn00930": "Caprolactam degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

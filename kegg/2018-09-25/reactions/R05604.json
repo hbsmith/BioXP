@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05604",
+    "name": "D-arabinitol:NAD 4-oxidoreductase",
+    "definition": "D-Arabitol + NAD+ <=> D-Xylulose + NADH + H+",
+    "equation": "C01904 + C00003 <=> C00310 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.11"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00007": "D-arabinitol 4-dehydrogenase [EC:1.1.1.11]"
+    }
+  }
+]

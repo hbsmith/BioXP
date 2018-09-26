@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R01079",
+    "name": "D-Ribose:NADP+ 1-oxidoreductase",
+    "definition": "D-Ribose + NADP+ + H2O <=> D-Ribonate + NADPH + H+",
+    "equation": "C00121 + C00006 + C00001 <=> C01685 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.115"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

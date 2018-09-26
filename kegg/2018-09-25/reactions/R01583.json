@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01583",
+    "name": "D-glutamate hydro-lyase (cyclizing; 5-oxo-D-proline-forming)",
+    "definition": "D-Glutamate <=> 5-Oxo-D-proline + H2O",
+    "equation": "C00217 <=> C02237 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.48"
+    ],
+    "pathways": {
+      "rn00471": "D-Glutamine and D-glutamate metabolism"
+    },
+    "orthologs": {
+      "K22210": "D-glutamate cyclase [EC:4.2.1.48]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00805",
+    "name": "sucrose-6F-phosphate phosphohydrolase",
+    "definition": "Sucrose 6'-phosphate + H2O <=> Sucrose + Orthophosphate",
+    "equation": "C02591 + C00001 <=> C00089 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.3.24"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K07024": "sucrose-6-phosphatase&#160; [EC:3.1.3.24]"
+    }
+  }
+]

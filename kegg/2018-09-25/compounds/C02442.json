@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C02442",
+    "name": "N-Methyltyramine",
+    "names": [
+      "N-Methyltyramine"
+    ],
+    "formula": "C9H13NO",
+    "exact_mass": 151.0997,
+    "mol_weight": 151.2056,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02384",
+      "R03943"
+    ],
+    "pathways": {
+      "map00350": "Tyrosine metabolism"
+    },
+    "enzymes": [
+      "2.1.1.27",
+      "2.1.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "370-98-9"
+      ],
+      "PubChem": [
+        "5464"
+      ],
+      "ChEBI": [
+        "17458"
+      ],
+      "KNApSAcK": [
+        "C00027432"
+      ],
+      "3DMET": [
+        "B01573"
+      ],
+      "NIKKAJI": [
+        "J50.151D"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    18.1300  -22.1900\n            2   C8y C    18.1300  -23.5900\n            3   C8x C    19.3424  -24.2900\n            4   C8x C    20.5549  -23.5900\n            5   C8y C    20.5549  -22.1900\n            6   C8x C    19.3424  -21.4900\n            7   O1a O    16.9176  -24.2900\n            8   C1b C    21.7860  -21.4790\n            9   C1b C    22.9912  -22.1747\n            10  N1b N    24.1735  -21.4919\n            11  C1a C    25.3675  -22.1812\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     2   7 1\n            8     5   8 1\n            9     8   9 1\n            10    9  10 1\n            11   10  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C06576",
+    "name": "p-Cumic alcohol",
+    "names": [
+      "p-Cumic alcohol"
+    ],
+    "formula": "C10H14O",
+    "exact_mass": 150.1045,
+    "mol_weight": 150.2176,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05232",
+      "R05266"
+    ],
+    "pathways": {
+      "map00622": "Xylene degradation",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "536-60-7"
+      ],
+      "PubChem": [
+        "8805"
+      ],
+      "ChEBI": [
+        "27628"
+      ],
+      "ChEMBL": [
+        "CHEMBL3183500"
+      ],
+      "KNApSAcK": [
+        "C00032864"
+      ],
+      "3DMET": [
+        "B00976"
+      ],
+      "NIKKAJI": [
+        "J6.353C"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    28.8805  -18.3662\n            2   C8x C    27.6646  -17.6740\n            3   C8x C    30.0907  -17.6740\n            4   C1c C    28.8805  -19.7684\n            5   C8x C    27.6646  -16.2720\n            6   C8x C    30.0907  -16.2720\n            7   C1a C    27.6705  -20.4723\n            8   C1a C    30.0964  -20.4666\n            9   C8y C    28.8805  -15.5738\n            10  C1b C    28.8805  -14.1716\n            11  O1a O    27.6705  -13.4735\nBOND        11\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     3   6 1\n            6     4   7 1\n            7     4   8 1\n            8     5   9 1\n            9     9  10 1\n            10   10  11 1\n            11    6   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

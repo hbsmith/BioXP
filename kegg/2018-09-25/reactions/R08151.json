@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08151",
+    "name": "S-adenosyl-L-methionine:juvenile hormone III acid O-methyltransferase",
+    "definition": "Juvenile hormone III acid + S-Adenosyl-L-methionine <=> Juvenile hormone III + S-Adenosyl-L-homocysteine",
+    "equation": "C16504 + C00019 <=> C09694 + C00021",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.325"
+    ],
+    "pathways": {
+      "rn00981": "Insect hormone biosynthesis"
+    },
+    "orthologs": {
+      "K10718": "juvenile hormone-III synthase [EC:2.1.1.325]"
+    }
+  }
+]

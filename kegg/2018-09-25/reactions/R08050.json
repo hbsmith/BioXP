@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08050",
+    "name": "",
+    "definition": "Ectoine + 2-Oxoglutarate + Oxygen <=> 5-Hydroxyectoine + Succinate + CO2",
+    "equation": "C06231 + C00026 + C00007 <=> C16432 + C00042 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.55"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K10674": "ectoine hydroxylase [EC:1.14.11.55]"
+    }
+  }
+]

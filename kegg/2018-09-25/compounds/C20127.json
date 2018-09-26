@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C20127",
+    "name": "alpha-Methyltryptamine",
+    "names": [
+      "alpha-Methyltryptamine",
+      "Indopan"
+    ],
+    "formula": "C11H14N2",
+    "exact_mass": 174.1157,
+    "mol_weight": 174.2423,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "299-26-3"
+      ],
+      "PubChem": [
+        "135626587"
+      ],
+      "ChEMBL": [
+        "CHEMBL30713"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C     9.8700  -16.5200\n            2   C8x C     9.8700  -17.9200\n            3   C8x C    11.0824  -18.6200\n            4   C8y C    12.2949  -17.9200\n            5   C8y C    12.2949  -16.5200\n            6   C8x C    11.0824  -15.8200\n            7   C8y C    13.6264  -18.3526\n            8   C8x C    14.4493  -17.2200\n            9   N4x N    13.6264  -16.0874\n            10  C1b C    14.0575  -19.6794\n            11  C1c C    15.4369  -19.9726\n            12  C1a C    16.3995  -18.9031\n            13  N1a N    15.8663  -21.2927\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    5   9 1\n            11    7  10 1\n            12   10  11 1\n            13   11  12 1\n            14   11  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

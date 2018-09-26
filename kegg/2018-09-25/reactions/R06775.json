@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06775",
+    "name": "",
+    "definition": "Novclobiocin 104 + Pyrrole-2-carbonyl-[pcp] <=> Clorobiocin",
+    "equation": "C12473 + C12483 <=> C12032",
+    "comment": "methyltransferase, CloN6 acyl transferase, CloN7 incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00401": "Novobiocin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12722": "clorobiocin/coumermycin A biosynthesis protein CloN6/CouN6",
+      "K12724": "clorobiocin/coumermycin A biosynthesis protein CloN7/CouN7"
+    }
+  }
+]

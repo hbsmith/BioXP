@@ -1,0 +1,61 @@
+[
+  {
+    "entry_id": "C00503",
+    "name": "Erythritol",
+    "names": [
+      "Erythritol",
+      "Erythrol",
+      "Phycitol",
+      "Phycite",
+      "Erythrite"
+    ],
+    "formula": "C4H10O4",
+    "exact_mass": 122.0579,
+    "mol_weight": 122.1198,
+    "remark": "Same as: D08915",
+    "comment": "",
+    "reactions": [
+      "R02430",
+      "R11536"
+    ],
+    "pathways": {
+      "map02010": "ABC transporters"
+    },
+    "enzymes": [
+      "1.1.1.162",
+      "2.7.1.27",
+      "2.7.1.215"
+    ],
+    "dblinks": {
+      "CAS": [
+        "149-32-6"
+      ],
+      "PubChem": [
+        "3786"
+      ],
+      "ChEBI": [
+        "17113",
+        "48299"
+      ],
+      "ChEMBL": [
+        "CHEMBL349605"
+      ],
+      "KNApSAcK": [
+        "C00001161"
+      ],
+      "PDB-CCD": [
+        "MRY"
+      ],
+      "NIKKAJI": [
+        "J43.360H"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   O1a O    26.7405  -20.3703\n            2   C1b C    27.9530  -19.6703\n            3   C1c C    29.1655  -20.3703\n            4   C1c C    30.3779  -19.6703\n            5   C1b C    31.5903  -20.3703\n            6   O1a O    32.8029  -19.6703\n            7   O1a O    29.1655  -21.7702\n            8   O1a O    30.3779  -18.2703\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     3   7 1 #Down\n            7     4   8 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

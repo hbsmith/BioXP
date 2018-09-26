@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03720",
+    "name": "Choloyl-CoA:glycine N-choloyltransferase",
+    "definition": "Choloyl-CoA + Taurine <=> CoA + Taurocholate",
+    "equation": "C01794 + C00245 <=> C00010 + C05122",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.65"
+    ],
+    "pathways": {
+      "rn00120": "Primary bile acid biosynthesis",
+      "rn00430": "Taurine and hypotaurine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00659": "bile acid-CoA:amino acid N-acyltransferase [EC:2.3.1.65 3.1.2.2]"
+    }
+  }
+]

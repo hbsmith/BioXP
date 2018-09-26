@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11644",
+    "name": "acyl-[glycerolipid],ferrocytochrome b5:oxygen oxidoreductase [omega(9-4),omega(9-5) cis-dehydrogenating]",
+    "definition": "Linoleoyl-[glycerolipid] + 2 Ferrocytochrome b5 + Oxygen + 2 H+ <=> Pinolenoyl-[glycerolipid] + 2 Ferricytochrome b5 + 2 H2O",
+    "equation": "C21529 + 2 C00999 + C00007 + 2 C00080 <=> C21530 + 2 C00996 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.12"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00856",
+    "name": "CTP:sn-glycerol-3-phosphate cytidylyltransferase",
+    "definition": "CTP + sn-Glycerol 3-phosphate <=> Diphosphate + CDP-glycerol",
+    "equation": "C00063 + C00093 <=> C00013 + C00513",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.39"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism"
+    },
+    "orthologs": {
+      "K00980": "glycerol-3-phosphate cytidylyltransferase [EC:2.7.7.39]"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08085",
+    "name": "",
+    "definition": "(-)-Citronellol + NADP+ <=> (S)-(-)-Citronellal + NADPH + H+",
+    "equation": "C11386 + C00006 <=> C11384 + C00005 + C00080",
+    "comment": "citronellol dehydrogenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.183"
+    ],
+    "pathways": {
+      "rn00281": "Geraniol degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

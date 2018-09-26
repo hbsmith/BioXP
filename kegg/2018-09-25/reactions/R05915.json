@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05915",
+    "name": "",
+    "definition": "UDP-N-acetyl-D-glucosamine + G00028 <=> UDP + G00029",
+    "equation": "G10610 + G00028 <=> G10619 + G00029",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.148"
+    ],
+    "pathways": {
+      "rn00512": "Mucin type O-glycan biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K09662": "N-acetylglucosaminyltransferase 3, mucin type [EC:2.4.1.-]"
+    }
+  }
+]

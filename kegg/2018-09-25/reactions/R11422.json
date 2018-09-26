@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11422",
+    "name": "dTDP-3'-O-methyl-beta-L-rhamnose:calicheamicin-alpha1(I) 3'-O-methyl-beta-L-rhamnosyltransferase",
+    "definition": "dTDP-3-O-methyl-beta-L-rhamnose + Calicheamicin alpha1(I) <=> dTDP + Calicheamicin gamma(1)I",
+    "equation": "C21350 + C21341 <=> C00363 + C11469",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21263": "calicheamicin 3'-O-methyl-rhamnosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

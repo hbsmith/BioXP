@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C01371",
+    "name": "Alkane",
+    "names": [
+      "Alkane",
+      "RH"
+    ],
+    "formula": "HR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R00052",
+      "R02281",
+      "R03529",
+      "R04122",
+      "R09466",
+      "R09467",
+      "R09505",
+      "R09507"
+    ],
+    "pathways": {
+      "map00071": "Fatty acid degradation",
+      "map00073": "Cutin, suberine and wax biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.11.1.10",
+      "1.11.1.18",
+      "1.11.2.1",
+      "1.14.14.1",
+      "1.14.15.3",
+      "4.1.99.5",
+      "4.99.1.2"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4569"
+      ],
+      "ChEBI": [
+        "18310"
+      ]
+    },
+    "kcf": "ATOM        1\n            1   R   R    27.1600  -21.3500\nBOND        0\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

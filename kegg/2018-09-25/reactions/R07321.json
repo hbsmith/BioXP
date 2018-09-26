@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07321",
+    "name": "antheraxanthin-capsanthin isomerase (ketone-forming)",
+    "definition": "Antheraxanthin <=> Capsanthin",
+    "equation": "C08579 <=> C08584",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.99.8"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis"
+    },
+    "orthologs": {
+      "K14593": "capsanthin/capsorubin synthase [EC:5.3.99.8]"
+    }
+  }
+]

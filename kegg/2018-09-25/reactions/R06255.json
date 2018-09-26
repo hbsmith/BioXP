@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06255",
+    "name": "",
+    "definition": "2 L-Urobilinogen + Oxygen <=> 2 L-Urobilin + 2 H2O",
+    "equation": "2 C05789 + C00007 <=> 2 C05793 + 2 C00001",
+    "comment": "non enzymatic",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

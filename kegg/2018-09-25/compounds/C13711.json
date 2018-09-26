@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C13711",
+    "name": "Thio-THIP",
+    "names": [
+      "Thio-THIP",
+      "4,5,6,7-Tetrahydroisothiazolo[5,4-c]pyridin-3-ol"
+    ],
+    "formula": "C6H8N2OS",
+    "exact_mass": 156.0357,
+    "mol_weight": 156.2055,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "586300"
+      ],
+      "ChEBI": [
+        "35010"
+      ],
+      "ChEMBL": [
+        "CHEMBL170539"
+      ],
+      "NIKKAJI": [
+        "J845.494I"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   S2x S    29.3288  -21.0079\n            2   N5x N    30.3412  -19.7083\n            3   C8y C    29.4954  -18.6798\n            4   C8y C    28.0894  -20.4547\n            5   C8y C    28.0808  -19.0535\n            6   C1x C    26.9681  -18.2998\n            7   C1x C    25.7239  -18.9472\n            8   N1x N    25.6625  -20.3482\n            9   C1x C    26.8452  -21.1020\n            10  O1a O    29.9829  -17.3722\nBOND        11\n            1     2   3 2\n            2     3   5 1\n            3     4   1 1\n            4     4   5 2\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9   4 1\n            10    1   2 1\n            11    3  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

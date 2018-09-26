@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11227",
+    "name": "",
+    "definition": "Pheophorbide a + 2 Reduced ferredoxin + 2 H+ + Oxygen <=> Epoxypheophorbide a + 2 Oxidized ferredoxin + H2O",
+    "equation": "C18021 + 2 C00138 + 2 C00080 + C00007 <=> C21192 + 2 C00139 + C00001",
+    "comment": "first step of two-step reaction (see R08921, R11227+R11228)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.17"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

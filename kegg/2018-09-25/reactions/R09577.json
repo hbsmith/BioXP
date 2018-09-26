@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09577",
+    "name": "solavetivol,NADPH:oxygen 2-oxidoreductase",
+    "definition": "Solavetivol + NADPH + H+ + Oxygen <=> Solavetivone + NADP+ + 2 H2O",
+    "equation": "C19711 + C00005 + C00080 + C00007 <=> C09737 + C00006 + 2 C00001",
+    "comment": "second step of two-step reaction (see R10073, R09576+R09577)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.121"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15472": "premnaspirodiene oxygenase [EC:1.14.13.121]"
+    }
+  }
+]

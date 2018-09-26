@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R06466",
+    "name": "(3S)-2,3-epoxy-2,3-dihydrosqualene mutase (cyclizing, lupeol-forming)",
+    "definition": "(S)-2,3-Epoxysqualene <=> Lupeol",
+    "equation": "C01054 <=> C08628",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.99.41"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15815": "lupeol synthase 2 [EC:5.4.99.39 5.4.99.40 5.4.99.41]",
+      "K15816": "lupeol synthase 1 [EC:4.2.1.128 5.4.99.41]",
+      "K20659": "lupeol synthase [EC:5.4.99.41]"
+    }
+  }
+]

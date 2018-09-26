@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C14110",
+    "name": "4-Hydroxymethylcatechol",
+    "names": [
+      "4-Hydroxymethylcatechol",
+      "3,4-Dihydroxybenzyl alcohol"
+    ],
+    "formula": "C7H8O3",
+    "exact_mass": 140.0473,
+    "mol_weight": 140.1366,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06936"
+    ],
+    "pathways": {
+      "map00626": "Naphthalene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.13.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "3897-89-0"
+      ],
+      "PubChem": [
+        "854346"
+      ],
+      "ChEBI": [
+        "20412"
+      ],
+      "ChEMBL": [
+        "CHEMBL440107"
+      ],
+      "NIKKAJI": [
+        "J79.872J"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    27.4203  -18.8006\n            2   C8x C    27.4203  -20.2023\n            3   C8x C    28.6310  -20.9067\n            4   C8x C    28.6310  -18.1033\n            5   C8y C    29.8416  -18.8006\n            6   C8y C    29.8355  -20.2023\n            7   O1a O    31.0474  -20.9118\n            8   O1a O    31.0594  -18.1086\n            9   C1b C    26.2059  -18.1028\n            10  O1a O    24.9907  -18.7994\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   6 2\n            4     5   6 1\n            5     6   7 1\n            6     8   5 1\n            7     5   4 2\n            8     1   9 1\n            9     4   1 1\n            10    9  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

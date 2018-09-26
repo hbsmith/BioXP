@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08784",
+    "name": "1,8-cineole,NADPH:oxygen oxidoreductase (2-endo-hydroxylating)",
+    "definition": "1,8-Cineole + NADPH + H+ + Oxygen <=> 6-endo-Hydroxycineole + NADP+ + H2O",
+    "equation": "C09844 + C00005 + C00080 + C00007 <=> C03092 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.156"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03241",
+    "name": "ATP:L-fuculose 1-phosphotransferase",
+    "definition": "ATP + L-Fuculose <=> ADP + L-Fuculose 1-phosphate",
+    "equation": "C00002 + C01721 <=> C00008 + C01099",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.51"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00879": "L-fuculokinase [EC:2.7.1.51]"
+    }
+  }
+]

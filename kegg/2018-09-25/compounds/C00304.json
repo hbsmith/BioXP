@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C00304",
+    "name": "Kanamycin",
+    "names": [
+      "Kanamycin"
+    ],
+    "formula": "C18H33N3O10(R1)(R2)",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "ATC code: A07AA08 J01GB04 S01AA24",
+    "comment": "Comprised of three components, Kanamycin A [CPD:C01822], the major component (usually designated as Kanamycin), Kanamycin B [CPD:C00825] and Kanamycin C [CPD:C01823].",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "8063-07-8"
+      ],
+      "PubChem": [
+        "3598"
+      ],
+      "ChEBI": [
+        "6104"
+      ]
+    },
+    "kcf": "ATOM        33\n            1   O2a O    27.8437  -15.0357\n            2   C1y C    29.0329  -14.3361\n            3   O2x O    30.2921  -15.0357\n            4   C1y C    31.4814  -14.3361\n            5   C1y C    31.4814  -12.9370\n            6   C1y C    30.2921  -12.2374\n            7   C1y C    29.0329  -12.9370\n            8   C1b C    32.7406  -15.0357\n            9   Z   R#   32.7406  -16.4348\n            10  Z   R#   27.8437  -12.2374\n            11  C1y C    27.9136  -16.4348\n            12  C1y C    29.1029  -17.1344\n            13  C1x C    29.1029  -18.5335\n            14  C1y C    27.9136  -19.2331\n            15  C1y C    26.6544  -18.5335\n            16  C1y C    26.6544  -17.1344\n            17  N1a N    30.2921  -16.4348\n            18  N1a N    27.9136  -20.6322\n            19  O1a O    25.4652  -16.5048\n            20  O2a O    25.5351  -19.3030\n            21  C1y C    24.2759  -20.0026\n            22  C1y C    24.2759  -21.4017\n            23  C1y C    23.0866  -22.1013\n            24  C1y C    21.8974  -21.4017\n            25  C1y C    21.8974  -20.0026\n            26  O2x O    23.0866  -19.3030\n            27  O1a O    25.5351  -22.1013\n            28  O1a O    20.6382  -22.1013\n            29  C1b C    20.6382  -19.3030\n            30  N1a N    23.0866  -23.5004\n            31  O1a O    19.4489  -20.0026\n            32  O1a O    30.2222  -10.8383\n            33  O1a O    32.6707  -12.2374\nBOND        35\n            1    16  19 1 #Up\n            2     8   9 1\n            3    15  20 1 #Down\n            4    11   1 1 #Down\n            5    21  20 1 #Down\n            6     7  10 1 #Down\n            7     2   3 1\n            8     3   4 1\n            9     4   5 1\n            10    5   6 1\n            11   21  22 1\n            12   22  23 1\n            13   23  24 1\n            14   24  25 1\n            15   25  26 1\n            16   26  21 1\n            17    6   7 1\n            18   22  27 1 #Down\n            19    7   2 1\n            20   24  28 1 #Down\n            21   11  12 1\n            22   25  29 1 #Up\n            23   12  13 1\n            24   23  30 1 #Up\n            25   13  14 1\n            26   29  31 1\n            27   14  15 1\n            28    6  32 1 #Up\n            29   15  16 1\n            30    5  33 1 #Down\n            31   16  11 1\n            32    2   1 1 #Down\n            33   12  17 1 #Up\n            34    4   8 1 #Up\n            35   14  18 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

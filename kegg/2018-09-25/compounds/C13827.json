@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C13827",
+    "name": "Chloroform",
+    "names": [
+      "Chloroform"
+    ],
+    "formula": "CHCl3",
+    "exact_mass": 117.9144,
+    "mol_weight": 119.3776,
+    "remark": "ATC code: N01AB02",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "67-66-3"
+      ],
+      "PubChem": [
+        "854072"
+      ],
+      "ChEBI": [
+        "35255"
+      ],
+      "ChEMBL": [
+        "CHEMBL44618"
+      ],
+      "PDB-CCD": [
+        "MCH"
+      ],
+      "NIKKAJI": [
+        "J2.366C"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   C1c C    28.3032  -17.0099\n            2   X   Cl   29.5157  -17.7099\n            3   X   Cl   27.0908  -17.7099\n            4   X   Cl   28.3032  -15.6099\nBOND        3\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

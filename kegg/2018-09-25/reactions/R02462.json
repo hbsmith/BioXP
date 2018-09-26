@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02462",
+    "name": "Hexadecanol:NAD+ oxidoreductase",
+    "definition": "1-Hexadecanol + NAD+ <=> Hexadecanal + NADH + H+",
+    "equation": "C00823 + C00003 <=> C00517 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.164",
+      "1.1.1.192"
+    ],
+    "pathways": {
+      "rn00071": "Fatty acid degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

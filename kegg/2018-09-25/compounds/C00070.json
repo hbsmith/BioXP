@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C00070",
+    "name": "Copper",
+    "names": [
+      "Copper",
+      "Cu+",
+      "Cu2+",
+      "Cu(II)"
+    ],
+    "formula": "Cu",
+    "exact_mass": 62.9296,
+    "mol_weight": 63.546,
+    "remark": "",
+    "comment": "Copper and copper compounds Usually existing as +1 or +2 cations",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map02010": "ABC transporters",
+      "map02020": "Two-component system",
+      "map04978": "Mineral absorption",
+      "map05010": "Alzheimer's disease",
+      "map05014": "Amyotrophic lateral sclerosis (ALS)"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "7440-50-8"
+      ],
+      "PubChem": [
+        "3370"
+      ],
+      "ChEBI": [
+        "28694"
+      ],
+      "NIKKAJI": [
+        "J3.733H"
+      ]
+    },
+    "kcf": "ATOM        1\n            1   Z   Cu   22.1200  -16.1700\nBOND        0\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

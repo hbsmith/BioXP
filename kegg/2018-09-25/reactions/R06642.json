@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06642",
+    "name": "",
+    "definition": "18-Carbamoyl-3,5,7,9,11,13,15,17-octaoxooctadecanoyl-[acp] + NADPH + H+ <=> C-9 Reduced nonaketamide + NADP+",
+    "equation": "C12441 + C00005 + C00080 <=> C12442 + C00006",
+    "comment": "ketoreductase, OxyJ (otcY2-1)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00253": "Tetracycline biosynthesis",
+      "rn01056": "Biosynthesis of type II polyketide backbone",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12420": "ketoreductase [EC:1.1.1.-]"
+    }
+  }
+]

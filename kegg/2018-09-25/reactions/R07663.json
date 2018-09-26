@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07663",
+    "name": "",
+    "definition": "Toluene-4-sulfonate + Oxygen <=> 4-Cresol + Sulfate",
+    "equation": "C06677 + C00007 <=> C01468 + C00059",
+    "comment": "toluene-4-sulfonate monooxygenase incomplete reaction (unidentified electron-donor)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

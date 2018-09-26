@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01174",
+    "name": "butanoyl-CoA:phosphate butanoyltransferase",
+    "definition": "Butanoyl-CoA + Orthophosphate <=> CoA + Butanoylphosphate",
+    "equation": "C00136 + C00009 <=> C00010 + C02527",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.19"
+    ],
+    "pathways": {
+      "rn00650": "Butanoate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00634": "phosphate butyryltransferase [EC:2.3.1.19]"
+    }
+  }
+]

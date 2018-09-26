@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07445",
+    "name": "Campesterol,NADPH:brassinosteroid C22alpha-hydroxylase",
+    "definition": "Campesterol + Oxygen + NADPH <=> 22alpha-Hydroxy-campesterol + NADP+ + H2O",
+    "equation": "C01789 + C00007 + C00005 <=> C15795 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00905": "Brassinosteroid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K09587": "steroid 22-alpha-hydroxylase [EC:1.14.13.-]"
+    }
+  }
+]

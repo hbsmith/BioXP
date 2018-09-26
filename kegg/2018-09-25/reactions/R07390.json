@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07390",
+    "name": "",
+    "definition": "2 Phosphatidylglycerol <=> Cardiolipin + Glycerol",
+    "equation": "2 C00344 <=> C05980 + C00116",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.8.-"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K06131": "cardiolipin synthase A/B [EC:2.7.8.-]"
+    }
+  }
+]

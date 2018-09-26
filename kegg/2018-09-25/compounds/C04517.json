@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C04517",
+    "name": "1-(1-Alkenyl)-sn-glycero-3-phosphocholine",
+    "names": [
+      "1-(1-Alkenyl)-sn-glycero-3-phosphocholine",
+      "1-Alkenyl-sn-glycero-3-phosphocholine",
+      "1-Alkenylglycerophosphocholine",
+      "1-O-Alk-1-enyl-glycero-3-phosphocholine"
+    ],
+    "formula": "C10H22NO6PR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R02745",
+      "R03107",
+      "R03109"
+    ],
+    "pathways": {
+      "map00565": "Ether lipid metabolism"
+    },
+    "enzymes": [
+      "2.3.1.25",
+      "3.1.1.4",
+      "3.3.2.2"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7130"
+      ],
+      "ChEBI": [
+        "17832"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   O2b O    21.8783  -15.8413\n            2   P1b P    20.5263  -15.8413\n            3   O2b O    19.1921  -15.8472\n            4   O1c O    20.5263  -14.4893\n            5   O1c O    20.5263  -17.1814\n            6   C1b C    23.0897  -16.5424\n            7   C1b C    24.3152  -15.8349\n            8   N1d N    25.5406  -16.5424 #+\n            9   C1b C    17.9504  -16.5424\n            10  C1c C    16.7250  -15.8349\n            11  C1b C    15.4996  -16.5424\n            12  O2a O    14.2742  -15.8349\n            13  C2b C    13.0487  -16.5424\n            14  O1a O    16.7250  -14.4201\n            15  C2b C    11.8024  -15.8225\n            16  C1a C    25.5406  -17.9573\n            17  C1a C    26.7681  -17.2511\n            18  C1a C    25.5406  -15.1274\n            19  R   R    11.8026  -14.4203\nBOND        18\n            1     1   2 1\n            2     2   3 1\n            3     2   4 1\n            4     2   5 2\n            5     1   6 1\n            6     6   7 1\n            7     7   8 1\n            8     3   9 1\n            9     9  10 1\n            10   10  11 1\n            11   11  12 1\n            12   12  13 1\n            13   10  14 1 #Up\n            14   13  15 2\n            15    8  16 1\n            16    8  17 1\n            17    8  18 1\n            18   15  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

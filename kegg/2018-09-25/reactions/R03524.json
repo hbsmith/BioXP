@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03524",
+    "name": "L-cysteine hydrogen-sulfide-lyase (adding HCN)",
+    "definition": "L-Cysteine + Hydrogen cyanide <=> Hydrogen sulfide + 3-Cyano-L-alanine",
+    "equation": "C00097 + C01326 <=> C00283 + C02512",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.9"
+    ],
+    "pathways": {
+      "rn00460": "Cyanoamino acid metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13034": "L-3-cyanoalanine synthase/ cysteine synthase [EC:2.5.1.47 4.4.1.9]"
+    }
+  }
+]

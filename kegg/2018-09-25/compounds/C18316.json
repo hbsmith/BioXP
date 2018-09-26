@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C18316",
+    "name": "2-Hydroxy-5-methylquinone",
+    "names": [
+      "2-Hydroxy-5-methylquinone",
+      "2-Hydroxy-5-methyl-1,4-benzoquinone"
+    ],
+    "formula": "C7H6O3",
+    "exact_mass": 138.0317,
+    "mol_weight": 138.1207,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09234",
+      "R09236",
+      "R11150"
+    ],
+    "pathways": {
+      "map00633": "Nitrotoluene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.1.-",
+      "1.14.13.210"
+    ],
+    "dblinks": {
+      "CAS": [
+        "615-91-8"
+      ],
+      "PubChem": [
+        "103061498"
+      ],
+      "ChEBI": [
+        "81667"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C2x C    21.0000  -16.0300\n            2   C5x C    21.0000  -17.4300\n            3   C2y C    22.2124  -18.1300\n            4   C2x C    23.4249  -17.4300\n            5   C5x C    23.4249  -16.0300\n            6   C2y C    22.2124  -15.3300\n            7   C1a C    22.2124  -13.9302\n            8   O5x O    24.6560  -15.3190\n            9   O5x O    19.7876  -18.1300\n            10  O1a O    22.2124  -19.5298\nBOND        10\n            1     1   2 1\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 1\n            6     1   6 2\n            7     6   7 1\n            8     5   8 2\n            9     2   9 2\n            10    3  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

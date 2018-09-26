@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R10695",
+    "name": "6-amino-6-deoxyfutalosine deaminase",
+    "definition": "6-Amino-6-deoxyfutalosine + H2O <=> Futalosine + Ammonia",
+    "equation": "C20773 + C00001 <=> C16999 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.4.40"
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K18286": "aminodeoxyfutalosine deaminase [EC:3.5.4.40]",
+      "K20810": "aminodeoxyfutalosine deaminase [EC:3.5.4.40]"
+    }
+  }
+]

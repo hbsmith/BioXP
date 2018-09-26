@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11147",
+    "name": "",
+    "definition": "3,4-Dihydroxy-2-methy-4-[(2E,6E)-farnesyl]-3,4-dihydroquinoline 1-oxide + NAD+ <=> 4-Hydroxy-2-methyl-3-oxo-4-[(2E,6E)-farnesyl]-3,4-dihydroquinoline 1-oxide + NADH + H+",
+    "equation": "C21142 + C00003 <=> C21141 + C00004 + C00080",
+    "comment": "first step of two-step reaction (see R11149, R11147+R11148)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.394"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

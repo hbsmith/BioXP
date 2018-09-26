@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03070",
+    "name": "methylitaconate Delta2-Delta3-isomerase",
+    "definition": "Methylitaconate <=> 2,3-Dimethylmaleate",
+    "equation": "C02295 <=> C00922",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.3.6"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K20451": "methylitaconate Delta-isomerase [EC:5.3.3.6]"
+    }
+  }
+]

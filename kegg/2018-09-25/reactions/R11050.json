@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11050",
+    "name": "",
+    "definition": "(R)-6-Hydroxynicotine + Oxygen <=> 5-(N-Methyl-4,5-dihydro-1H-pyrrol-2-yl)pyridin-2-ol + Hydrogen peroxide",
+    "equation": "C03043 + C00007 <=> C21075 + C00027",
+    "comment": "first step of two-step reaction (see R07170, R11050+R11049)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.3.6"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K19890": "(R)-6-hydroxynicotine oxidase [EC:1.5.3.6]"
+    }
+  }
+]

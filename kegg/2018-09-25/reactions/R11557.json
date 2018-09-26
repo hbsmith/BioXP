@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11557",
+    "name": "phosphatidylethanolamine:Kdo2-lipid-A-1-(2-aminoethyl diphosphate) ethanolaminephosphotransferase",
+    "definition": "Phosphatidylethanolamine + Kdo2-lipid A 1-(2-aminoethyl diphosphate) <=> Diacylglycerol + Kdo2-lipid A 1,4'-bis(2-aminoethyl diphosphate)",
+    "equation": "C00350 + C21461 <=> C00165 + C21463",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.8.43"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K03760": "lipid A ethanolaminephosphotransferase [EC:2.7.8.43]"
+    }
+  }
+]

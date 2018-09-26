@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R07002",
+    "name": "(1R)-hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene glutathione-lyase (epoxide-forming)",
+    "definition": "(1R,2S)-Naphthalene 1,2-oxide + Glutathione <=> (1R)-Hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene",
+    "equation": "C14786 + C00051 <=> C14791",
+    "comment": "glutathione S-transferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.18"
+    ],
+    "pathways": {
+      "rn00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "orthologs": {
+      "K00799": "glutathione S-transferase [EC:2.5.1.18]",
+      "K04097": "prostaglandin-H2 D-isomerase / glutathione transferase [EC:5.3.99.2 2.5.1.18]",
+      "K13299": "glutathione S-transferase kappa 1 [EC:2.5.1.18]"
+    }
+  }
+]

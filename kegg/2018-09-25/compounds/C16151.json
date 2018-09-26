@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C16151",
+    "name": "2,6-Dihydroxy-N-methylmyosmine",
+    "names": [
+      "2,6-Dihydroxy-N-methylmyosmine"
+    ],
+    "formula": "C10H12N2O2",
+    "exact_mass": 192.0899,
+    "mol_weight": 192.2145,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07947"
+    ],
+    "pathways": {
+      "map00760": "Nicotinate and nicotinamide metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205461"
+      ],
+      "ChEBI": [
+        "80354"
+      ],
+      "NIKKAJI": [
+        "J2.798.389H"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    23.4391  -15.4620\n            2   C8y C    23.4391  -16.8615\n            3   N5x N    24.6511  -17.5613\n            4   C8y C    25.8632  -16.8615\n            5   C8x C    25.8632  -15.4620\n            6   C8x C    24.6511  -14.7622\n            7   C2y C    22.2271  -14.7622\n            8   C2x C    22.0811  -13.3729\n            9   C1x C    20.7146  -13.0824\n            10  C1x C    20.0161  -14.2922\n            11  N1y N    20.9509  -15.3305\n            12  C1a C    20.6603  -16.6973\n            13  O1a O    22.2271  -17.5613\n            14  O1a O    27.0939  -17.5723\nBOND        15\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 2\n            7     1   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 1\n            11   10  11 1\n            12    7  11 1\n            13   11  12 1\n            14    2  13 1\n            15    4  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

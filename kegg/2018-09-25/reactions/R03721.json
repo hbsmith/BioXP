@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03721",
+    "name": "S-Adenosyl-L-methionine:columbamine O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Columbamine <=> S-Adenosyl-L-homocysteine + Palmatine",
+    "equation": "C00019 + C01795 <=> C00021 + C05315",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.118"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis"
+    },
+    "orthologs": {
+      "K13398": "columbamine O-methyltransferase [EC:2.1.1.118]"
+    }
+  }
+]

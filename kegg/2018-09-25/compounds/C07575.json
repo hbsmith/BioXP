@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C07575",
+    "name": "Phencyclidine",
+    "names": [
+      "Phencyclidine"
+    ],
+    "formula": "C17H25N",
+    "exact_mass": 243.1987,
+    "mol_weight": 243.3871,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map07235": "N-Metyl-D-aspartic acid receptor antagonists"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "77-10-1"
+      ],
+      "PubChem": [
+        "9778"
+      ],
+      "ChEBI": [
+        "8058"
+      ],
+      "ChEMBL": [
+        "CHEMBL275528"
+      ],
+      "PDB-CCD": [
+        "1PC"
+      ],
+      "NIKKAJI": [
+        "J4.441E"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C1z C    32.0600  -17.1739\n            2   C8y C    30.8542  -17.8789\n            3   N1y N    33.2715  -17.8789\n            4   C1x C    33.2715  -16.4633\n            5   C1x C    30.8425  -16.4749\n            6   C8x C    30.8542  -19.2769\n            7   C8x C    29.6484  -17.1739\n            8   C1x C    33.2715  -19.2769\n            9   C1x C    34.4833  -17.1739\n            10  C1x C    33.2658  -15.0595\n            11  C1x C    30.8368  -15.0711\n            12  C8x C    29.6484  -19.9759\n            13  C8x C    28.4309  -17.8789\n            14  C1x C    34.4833  -19.9700\n            15  C1x C    35.6948  -17.8789\n            16  C1x C    32.0483  -14.3721\n            17  C8x C    28.4309  -19.2769\n            18  C1x C    35.6948  -19.2769\nBOND        20\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1\n            5     2   6 1\n            6     2   7 2\n            7     3   8 1\n            8     3   9 1\n            9     4  10 1\n            10    5  11 1\n            11    6  12 2\n            12    7  13 1\n            13    8  14 1\n            14    9  15 1\n            15   10  16 1\n            16   12  17 1\n            17   14  18 1\n            18   11  16 1\n            19   13  17 2\n            20   15  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

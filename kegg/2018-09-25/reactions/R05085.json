@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05085",
+    "name": "O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase",
+    "definition": "O-Phospho-4-hydroxy-L-threonine + 2-Oxoglutarate <=> 2-Oxo-3-hydroxy-4-phosphobutanoate + L-Glutamate",
+    "equation": "C06055 + C00026 <=> C06054 + C00025",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.52"
+    ],
+    "pathways": {
+      "rn00750": "Vitamin B6 metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00831": "phosphoserine aminotransferase [EC:2.6.1.52]"
+    }
+  }
+]

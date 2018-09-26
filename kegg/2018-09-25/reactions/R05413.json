@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R05413",
+    "name": "",
+    "definition": "2,2',3-Trihydroxydiphenylether + Oxygen <=> 2-Hydroxy-6-oxo-6-(2-hydroxyphenoxy)-hexa-2,4-dienoate",
+    "equation": "C07733 + C00007 <=> C07734",
+    "comment": "2,2',3-trihydroxybiphenyl dioxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.-"
+    ],
+    "pathways": {
+      "rn00621": "Dioxin degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K15749": "2,2',3-trihydroxybiphenyl dioxygenase [EC:1.13.11.-]"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11099",
+    "name": "2-iminopropanoate aminohydrolase",
+    "definition": "2-Iminopropanoate + H2O <=> Pyruvate + Ammonia",
+    "equation": "C20904 + C00001 <=> C00022 + C00014",
+    "comment": "spontaneous following after R11100 This reaction is accelerated by enzyme ec 3.5.99.10.",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.99.10"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K09022": "2-iminobutanoate/2-iminopropanoate deaminase [EC:3.5.99.10]"
+    }
+  }
+]

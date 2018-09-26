@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C16593",
+    "name": "7-Mercaptoheptanoic acid",
+    "names": [
+      "7-Mercaptoheptanoic acid"
+    ],
+    "formula": "C7H14O2S",
+    "exact_mass": 162.0715,
+    "mol_weight": 162.2499,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08323",
+      "R10397"
+    ],
+    "pathways": {
+      "map00680": "Methane metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "52000-32-5"
+      ],
+      "PubChem": [
+        "51090920"
+      ],
+      "ChEBI": [
+        "80591"
+      ],
+      "KNApSAcK": [
+        "C00000772"
+      ],
+      "NIKKAJI": [
+        "J659.994J"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1b C    33.5994  -20.5369\n            2   C1b C    34.8567  -21.2354\n            3   C1b C    32.4119  -21.2354\n            4   S1a S    35.9045  -20.3972\n            5   C1b C    31.2244  -20.5369\n            6   C1b C    30.0369  -21.2354\n            7   C1b C    28.7795  -20.4670\n            8   C6a C    27.5920  -21.1656\n            9   O6a O    26.3347  -20.4670\n            10  O6a O    27.5920  -22.5626\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     8  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

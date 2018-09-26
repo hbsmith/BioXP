@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R04301",
+    "name": "S-Adenosyl-L-methionine:catechol O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Dopamine <=> S-Adenosyl-L-homocysteine + 3-Methoxytyramine",
+    "equation": "C00019 + C03758 <=> C00021 + C05587",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.6"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn00965": "Betalain biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00545": "catechol O-methyltransferase [EC:2.1.1.6]"
+    }
+  }
+]

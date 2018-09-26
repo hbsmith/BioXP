@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C11107",
+    "name": "3-beta-D-Glucopyranuronosyloxy-5-methylisoxazole",
+    "names": [
+      "3-beta-D-Glucopyranuronosyloxy-5-methylisoxazole"
+    ],
+    "formula": "C10H13NO8",
+    "exact_mass": 275.0641,
+    "mol_weight": 275.2121,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "13289"
+      ],
+      "ChEBI": [
+        "1679"
+      ],
+      "NIKKAJI": [
+        "J2.788.921B"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   C8y C    29.9567  -18.8288\n            2   N5x N    30.3156  -20.1768\n            3   O2x O    31.7090  -20.1797\n            4   C8y C    32.2136  -18.9470\n            5   C8x C    31.1281  -18.0661\n            6   C1y C    25.1157  -18.8245\n            7   C1y C    25.1157  -20.2288\n            8   C1y C    26.3285  -20.9273\n            9   C1y C    27.5414  -20.2288\n            10  C1y C    27.5414  -18.8245\n            11  O2x O    26.3285  -18.1191\n            12  O2a O    28.7495  -18.1191\n            13  O1a O    28.7495  -20.9273\n            14  O1a O    26.3152  -22.3315\n            15  O1a O    23.8951  -20.9202\n            16  C6a C    23.9020  -18.1191\n            17  C1a C    33.4207  -18.2318\n            18  O6a O    23.8362  -16.7220\n            19  O6a O    22.6902  -18.8140\nBOND        20\n            1     7   8 1\n            2     8   9 1\n            3     9  10 1\n            4    10  11 1\n            5    11   6 1\n            6    10  12 1 #Down\n            7     1   2 2\n            8     9  13 1 #Down\n            9     2   3 1\n            10    8  14 1 #Up\n            11    3   4 1\n            12    7  15 1 #Down\n            13    4   5 2\n            14    6  16 1 #Up\n            15   12   1 1\n            16    5   1 1\n            17    4  17 1\n            18   16  18 2\n            19    6   7 1\n            20   16  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10549",
+    "name": "long-chain-aldehyde:NADP+ oxidoreductase (protein thioester-forming)",
+    "definition": "Long-chain aldehyde + [Protein]-L-cysteine + NADP+ <=> [Protein]-S-(long-chain-acyl)-L-cysteine + NADPH + H+",
+    "equation": "C00609 + C02743 + C00006 <=> C03371 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.50"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K03400": "long-chain-fatty-acyl-CoA reductase [EC:1.2.1.50]"
+    }
+  }
+]

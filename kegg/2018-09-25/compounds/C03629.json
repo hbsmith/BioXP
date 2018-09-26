@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C03629",
+    "name": "O-Phosphorylhydroxylamine",
+    "names": [
+      "O-Phosphorylhydroxylamine",
+      "O-Phosphonohydroxylamine"
+    ],
+    "formula": "H2PO4NH2",
+    "exact_mass": 112.9878,
+    "mol_weight": 113.0098,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6412"
+      ],
+      "ChEBI": [
+        "28048"
+      ],
+      "NIKKAJI": [
+        "J1.389.234B"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   P1b P    19.1663  -14.7714\n            2   O2b O    17.8641  -14.7773\n            3   O1c O    20.4805  -14.7714\n            4   O1c O    19.1663  -13.4630\n            5   O1c O    19.1663  -16.0856\n            6   N1a N    16.3026  -15.5913\nBOND        5\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     2   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

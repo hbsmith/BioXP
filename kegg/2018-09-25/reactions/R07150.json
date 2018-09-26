@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R07150",
+    "name": "dTDP-D-galactose:NADP+ 6-oxidoreductase",
+    "definition": "dTDP-galactose + 2 NADP+ + H2O <=> dTDP-D-galacturonate + 2 NADPH + 2 H+",
+    "equation": "C02097 + 2 C00006 + C00001 <=> C03034 + 2 C00005 + 2 C00080",
+    "comment": "NAD+ (see R03826)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.186"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

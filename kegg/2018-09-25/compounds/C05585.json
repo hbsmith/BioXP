@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C05585",
+    "name": "Gentisate aldehyde",
+    "names": [
+      "Gentisate aldehyde",
+      "2,5-Dihydroxybenzaldehyde"
+    ],
+    "formula": "C7H6O3",
+    "exact_mass": 138.0317,
+    "mol_weight": 138.1207,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02518",
+      "R02520",
+      "R02655",
+      "R02657"
+    ],
+    "pathways": {
+      "map00350": "Tyrosine metabolism",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.2.1.29",
+      "1.2.3.1",
+      "1.13.12.-",
+      "4.1.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7911"
+      ],
+      "ChEBI": [
+        "28508"
+      ],
+      "ChEMBL": [
+        "CHEMBL243186"
+      ],
+      "3DMET": [
+        "B00799"
+      ],
+      "NIKKAJI": [
+        "J7.451I"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    17.8500  -23.0300\n            2   C8y C    17.8500  -24.4300\n            3   C8x C    19.0624  -25.1300\n            4   C8x C    20.2749  -24.4300\n            5   C8y C    20.2749  -23.0300\n            6   C8y C    19.0624  -22.3300\n            7   O1a O    16.6376  -25.1300\n            8   O1a O    21.5060  -22.3190\n            9   C4a C    19.0624  -20.9302\n            10  O4a O    17.8332  -20.2203\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     2   7 1\n            8     5   8 1\n            9     6   9 1\n            10    9  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

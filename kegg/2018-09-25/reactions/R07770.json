@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07770",
+    "name": "",
+    "definition": "ATP + (R)-Lipoate <=> Diphosphate + Lipoyl-AMP",
+    "equation": "C00002 + C16241 <=> C00013 + C16238",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.1.20"
+    ],
+    "pathways": {
+      "rn00785": "Lipoic acid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03800": "lipoate---protein ligase [EC:6.3.1.20]"
+    }
+  }
+]

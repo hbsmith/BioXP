@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05917",
+    "name": "",
+    "definition": "G00143 + H2O <=> G00144 + Acetate",
+    "equation": "G00143 + C00001 <=> G00144 + C00033",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.89"
+    ],
+    "pathways": {
+      "rn00563": "Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03434": "N-acetylglucosaminylphosphatidylinositol deacetylase [EC:3.5.1.89]"
+    }
+  }
+]

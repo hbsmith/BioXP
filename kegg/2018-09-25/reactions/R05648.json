@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R05648",
+    "name": "",
+    "definition": "cis-4-(1'-Hydroxynaphth-2'-yl)-2-oxobut-3-enoate + H2O <=> 1-Hydroxy-2-naphthaldehyde + Pyruvate",
+    "equation": "C11426 + C00001 <=> C11427 + C00022",
+    "comment": "PhdG",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.2.-"
+    ],
+    "pathways": {
+      "rn00624": "Polycyclic aromatic hydrocarbon degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K11946": "hydratase-aldolase [EC:4.1.2.-]"
+    }
+  }
+]

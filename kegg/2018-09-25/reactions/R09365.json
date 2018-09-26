@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09365",
+    "name": "5-methyltetrahydropteroyltri-L-glutamate:L-selenohomocysteine Se-methyltransferase",
+    "definition": "Selenohomocysteine + 5-Methyltetrahydropteroyltri-L-glutamate <=> L-Selenomethionine + Tetrahydropteroyltri-L-glutamate",
+    "equation": "C05698 + C04489 <=> C05335 + C04144",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.13",
+      "2.1.1.14"
+    ],
+    "pathways": {
+      "rn00450": "Selenocompound metabolism"
+    },
+    "orthologs": {
+      "K00548": "5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]",
+      "K00549": "5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]"
+    }
+  }
+]

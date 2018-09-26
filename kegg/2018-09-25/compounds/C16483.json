@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C16483",
+    "name": "4-Fluorocyclohexadiene-cis,cis-1,2-diol",
+    "names": [
+      "4-Fluorocyclohexadiene-cis,cis-1,2-diol"
+    ],
+    "formula": "C6H7FO2",
+    "exact_mass": 130.043,
+    "mol_weight": 130.117,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08103",
+      "R08105"
+    ],
+    "pathways": {
+      "map00364": "Fluorobenzoate degradation",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.3.1.-",
+      "1.14.12.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205779"
+      ],
+      "ChEBI": [
+        "80525"
+      ],
+      "NIKKAJI": [
+        "J2.502.676D"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C2x C    24.9327  -19.6079\n            2   C2x C    24.9327  -21.0082\n            3   C1y C    26.1483  -21.7083\n            4   C1y C    27.3568  -21.0082\n            5   C2x C    27.3568  -19.6079\n            6   C2y C    26.1483  -18.9077\n            7   X   F    26.2049  -17.5074\n            8   O1a O    28.5760  -21.7110\n            9   O1a O    26.1503  -23.0997\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 2\n            6     6   1 1\n            7     6   7 1\n            8     4   8 1 #Up\n            9     3   9 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

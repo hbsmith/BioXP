@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07856",
+    "name": "carotenoid beta-end group lyase (decyclizing)",
+    "definition": "beta-Zeacarotene <=> 7,8-Dihydro-beta-carotene",
+    "equation": "C05434 <=> C16291",
+    "comment": "lycopene beta cyclase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.19"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis"
+    },
+    "orthologs": {
+      "K06443": "lycopene beta-cyclase [EC:5.5.1.19]"
+    }
+  }
+]

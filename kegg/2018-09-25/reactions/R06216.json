@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06216",
+    "name": "",
+    "definition": "CMP-N-acetylneuraminate + nLc6Cer <=> CMP + VI6NeuAc-nLc6Cer",
+    "equation": "G10616 + G00067 <=> G10621 + G00087",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.99.-"
+    ],
+    "pathways": {
+      "rn00601": "Glycosphingolipid biosynthesis - lacto and neolacto series"
+    },
+    "orthologs": {
+    }
+  }
+]

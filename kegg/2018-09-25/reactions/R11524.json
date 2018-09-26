@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11524",
+    "name": "[CysO sulfur-carrier protein]-L-cysteine carboxypeptidase",
+    "definition": "[Sulfur-carrier protein]-Gly-Gly-L-Cys + H2O <=> L-Cysteine + Sulfur-carrier protein",
+    "equation": "C21437 + C00001 <=> C00097 + C15810",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.13.1.6"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K21140": "sulfur-carrier protein carboxypeptidase [EC:3.4.17.-]"
+    }
+  }
+]

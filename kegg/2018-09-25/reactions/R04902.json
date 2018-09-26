@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04902",
+    "name": "eriodictyol,NADPH:oxygen oxidoreductase",
+    "definition": "Eriodictyol + NADPH + H+ + Oxygen <=> Pentahydroxyflavanone + NADP+ + H2O",
+    "equation": "C05631 + C00005 + C00080 + C00007 <=> C05911 + C00006 + C00001",
+    "comment": "flavonoid 3',5'-hydroxylase flavonoid 3',5'-monooxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.88"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13083": "flavonoid 3',5'-hydroxylase [EC:1.14.13.88]"
+    }
+  }
+]

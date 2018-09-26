@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06804",
+    "name": "UDP-glucose:flavonol-3-O-glucoside 2''-O-beta-D-glucosyltransferase",
+    "definition": "Kaempferol 3-O-glucoside + UDP-glucose <=> Kaempferol 3-O-beta-D-glucosyl-(1->2)-beta-D-glucoside + UDP",
+    "equation": "C12249 + C00029 <=> C12634 + C00015",
+    "comment": "flavonol-3-O-glucoside glucosyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.239"
+    ],
+    "pathways": {
+      "rn00944": "Flavone and flavonol biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

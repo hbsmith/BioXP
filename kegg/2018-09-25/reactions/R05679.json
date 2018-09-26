@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05679",
+    "name": "sn-glycerol-1-phosphate:NAD 2-oxidoreductase",
+    "definition": "sn-Glycerol 1-phosphate + NAD+ <=> Glycerone phosphate + NADH + H+",
+    "equation": "C00623 + C00003 <=> C00111 + C00004 + C00080",
+    "comment": "see R05680 (NADPH)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.261"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism"
+    },
+    "orthologs": {
+      "K00096": "glycerol-1-phosphate dehydrogenase [NAD(P)+] [EC:1.1.1.261]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10520",
+    "name": "D-glucose-6-phosphate:NAD+ 1-oxidoreductase",
+    "definition": "D-Glucose 6-phosphate + NAD+ <=> D-Glucono-1,5-lactone 6-phosphate + NADH + H+",
+    "equation": "C00092 + C00003 <=> C01236 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.363",
+      "1.1.1.388"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K19243": "NAD+ dependent glucose-6-phosphate dehydrogenase [EC:1.1.1.388]"
+    }
+  }
+]

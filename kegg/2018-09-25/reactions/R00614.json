@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R00614",
+    "name": "formaldehyde:formaldehyde oxidoreductase",
+    "definition": "2 Formaldehyde + H2O <=> Formate + Methanol",
+    "equation": "2 C00067 + C00001 <=> C00058 + C00132",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.98.1"
+    ],
+    "pathways": {
+      "rn00625": "Chloroalkane and chloroalkene degradation",
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K17067": "formaldehyde dismutase / methanol dehydrogenase [EC:1.2.98.1 1.1.99.37]",
+      "K17068": "formaldehyde dismutase [EC:1.2.98.1]"
+    }
+  }
+]

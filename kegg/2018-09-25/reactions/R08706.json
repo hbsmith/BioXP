@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08706",
+    "name": "UDP-N-acetyl-D-glucosaminuronate 4-epimerase",
+    "definition": "UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate <=> UDP-N-acetyl-D-galactosaminuronic acid",
+    "equation": "C04573 <=> C13952",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.3.-"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

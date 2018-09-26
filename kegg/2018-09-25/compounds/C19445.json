@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19445",
+    "name": "Methyl carbamate",
+    "names": [
+      "Methyl carbamate"
+    ],
+    "formula": "C2H5NO2",
+    "exact_mass": 75.032,
+    "mol_weight": 75.0666,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "598-55-0"
+      ],
+      "PubChem": [
+        "124490117"
+      ],
+      "ChEBI": [
+        "76606"
+      ],
+      "ChEMBL": [
+        "CHEMBL1085707"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   N1a N    14.0000  -17.7800\n            2   C7a C    15.2124  -17.0800\n            3   O7a O    16.4249  -17.7800\n            4   C1a C    17.6373  -17.0800\n            5   O6a O    15.2124  -15.6802\nBOND        4\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     2   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

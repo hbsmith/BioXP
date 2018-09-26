@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C17664",
+    "name": "Allochenodeoxycholate",
+    "names": [
+      "Allochenodeoxycholate",
+      "Allochenodeoxycholic acid",
+      "3alpha,7alpha-Dihydroxy-5alpha-cholanoic acid"
+    ],
+    "formula": "C24H40O4",
+    "exact_mass": 392.2927,
+    "mol_weight": 392.572,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map00121": "Secondary bile acid biosynthesis"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96024007"
+      ],
+      "ChEBI": [
+        "81258"
+      ],
+      "NIKKAJI": [
+        "J14.876H"
+      ]
+    },
+    "kcf": "ATOM        28\n            1   C1x C    21.6373  -20.3789\n            2   C1y C    21.6373  -21.7834\n            3   C1x C    22.8311  -22.4856\n            4   C1y C    24.0250  -21.7834\n            5   C1z C    24.0250  -20.3789\n            6   C1x C    22.8311  -19.7468\n            7   C1x C    25.1485  -22.4856\n            8   C1y C    26.2722  -21.7834\n            9   C1y C    26.2722  -20.3789\n            10  C1y C    25.1485  -19.7468\n            11  C1y C    27.4659  -19.7468\n            12  C1z C    27.4659  -18.3424\n            13  C1x C    26.2722  -17.6402\n            14  C1x C    25.1485  -18.3424\n            15  C1x C    29.7834  -19.7468\n            16  C1x C    29.7834  -18.3424\n            17  C1y C    28.6598  -17.6402\n            18  C1c C    28.6598  -16.3760\n            19  C1b C    29.7834  -15.6738\n            20  C1b C    30.9772  -16.3760\n            21  C6a C    32.1710  -15.6738\n            22  O6a O    33.2946  -16.3760\n            23  C1a C    24.0250  -19.0446\n            24  C1a C    27.4659  -17.0081\n            25  O6a O    32.1710  -14.3395\n            26  O1a O    27.4659  -22.4856\n            27  O1a O    20.4436  -22.4856\n            28  C1a C    27.4144  -15.6854\nBOND        31\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    5  10 1\n            12    9  11 1\n            13   11  12 1\n            14   12  13 1\n            15   13  14 1\n            16   10  14 1\n            17   11  15 1\n            18   15  16 1\n            19   16  17 1\n            20   12  17 1\n            21   17  18 1\n            22   18  19 1\n            23   19  20 1\n            24   20  21 1\n            25   21  22 1\n            26    5  23 1 #Up\n            27   12  24 1 #Up\n            28   21  25 2\n            29    8  26 1 #Down\n            30    2  27 1 #Down\n            31   18  28 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

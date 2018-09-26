@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C12114",
+    "name": "4-Hydroxy-3-nitrosobenzamide",
+    "names": [
+      "4-Hydroxy-3-nitrosobenzamide"
+    ],
+    "formula": "C7H6N2O3",
+    "exact_mass": 166.0378,
+    "mol_weight": 166.1341,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "14261"
+      ],
+      "ChEBI": [
+        "29487"
+      ],
+      "NIKKAJI": [
+        "J792.352J"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    25.5798  -18.4550\n            2   C8x C    25.5798  -19.8552\n            3   C8y C    26.7953  -20.5553\n            4   C8x C    28.0037  -19.8552\n            5   C8y C    28.0037  -18.4550\n            6   C8y C    26.7953  -17.7549\n            7   O1a O    26.7972  -16.3548\n            8   N2b N    29.2169  -17.7560\n            9   C5a C    26.7972  -21.9555\n            10  O3a O    30.4290  -18.4569\n            11  N1a N    28.0107  -22.6540\n            12  O5a O    25.5854  -22.6571\nBOND        12\n            1     6   1 1\n            2     6   7 1\n            3     1   2 2\n            4     5   8 1\n            5     2   3 1\n            6     3   9 1\n            7     3   4 2\n            8     8  10 2\n            9     4   5 1\n            10    9  11 1\n            11    5   6 2\n            12    9  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

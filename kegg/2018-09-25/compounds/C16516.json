@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C16516",
+    "name": "Indolylmethylthiohydroximate",
+    "names": [
+      "Indolylmethylthiohydroximate"
+    ],
+    "formula": "C10H10N2OS",
+    "exact_mass": 206.0514,
+    "mol_weight": 206.2642,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08164",
+      "R08170"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism",
+      "map00966": "Glucosinolate biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "enzymes": [
+      "2.4.1.195",
+      "4.4.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "51090845"
+      ],
+      "ChEBI": [
+        "80544"
+      ],
+      "KNApSAcK": [
+        "C00007397"
+      ],
+      "NIKKAJI": [
+        "J2.599.576G"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    25.0812  -16.5406\n            2   C1b C    26.2120  -15.8760\n            3   C2c C    27.3508  -16.5362\n            4   S1a S    27.3387  -17.8506\n            5   N2b N    28.4834  -15.8700\n            6   O1b O    29.8234  -16.7236\n            7   C8y C    23.7306  -16.0810\n            8   C8y C    22.8762  -17.2235\n            9   N4x N    23.6987  -18.3891\n            10  C8x C    25.0615  -17.9671\n            11  C8x C    23.1789  -14.7943\n            12  C8x C    21.7888  -14.6287\n            13  C8x C    20.9343  -15.7712\n            14  C8x C    21.4860  -17.0579\nBOND        15\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 2\n            5     5   6 1\n            6     1   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10    1  10 2\n            11    7  11 2\n            12   11  12 1\n            13   12  13 2\n            14   13  14 1\n            15    8  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

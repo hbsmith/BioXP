@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00477",
+    "name": "3-oxalomalate glyoxylate-lyase (oxaloacetate-forming)",
+    "definition": "3-Oxalomalate <=> Oxaloacetate + Glyoxylate",
+    "equation": "C01990 <=> C00036 + C00048",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.3.13"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

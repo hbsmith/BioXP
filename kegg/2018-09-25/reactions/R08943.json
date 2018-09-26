@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08943",
+    "name": "pregnenolone,NADPH:oxygen oxidoreductase (7alpha-hydroxylating)",
+    "definition": "Pregnenolone + NADPH + H+ + Oxygen <=> 7alpha-Hydroxypregnenolone + NADP+ + H2O",
+    "equation": "C01953 + C00005 + C00080 + C00007 <=> C18038 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.29"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+      "K07430": "25/26-hydroxycholesterol 7alpha-hydroxylase [EC:1.14.14.29]"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R06989",
+    "name": "2,5-Dihydro-5-oxofuran-2-acetate lyase (decyclizing)",
+    "definition": "cis,cis-Muconate <=> (S)-5-Oxo-2,5-dihydrofuran-2-acetate",
+    "equation": "C02480 <=> C14610",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.1"
+    ],
+    "pathways": {
+      "rn00362": "Benzoate degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K01856": "muconate cycloisomerase [EC:5.5.1.1]"
+    }
+  }
+]

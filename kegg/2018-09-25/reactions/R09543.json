@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09543",
+    "name": "S-adenosyl-L-methionine:malonyl-[acyl-carrier protein] O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Malonyl-[acyl-carrier protein] <=> S-Adenosyl-L-homocysteine + Malonyl-[acp] methyl ester",
+    "equation": "C00019 + C01209 <=> C00021 + C19673",
+    "comment": "Malonyl-[acp] is a far better acceptor of methyl groups from S-adenosyl-L-methionine than was malonyl-CoA.",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.197"
+    ],
+    "pathways": {
+      "rn00780": "Biotin metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K02169": "malonyl-CoA O-methyltransferase [EC:2.1.1.197]"
+    }
+  }
+]

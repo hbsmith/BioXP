@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10231",
+    "name": "tRNA(Ala)-adenine37 aminohydrolase",
+    "definition": "tRNA(Ala) adenine + H2O <=> tRNA(Ala) hypoxanthine + Ammonia",
+    "equation": "C20459 + C00001 <=> C20458 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.4.34"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K15440": "tRNA-specific adenosine deaminase 1 [EC:3.5.4.34]"
+    }
+  }
+]

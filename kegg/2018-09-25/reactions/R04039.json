@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04039",
+    "name": "[xanthine-dehydrogenase]:glutathione-disulfide S-oxidoreductase",
+    "definition": "[Xanthine dehydrogenase] + Glutathione disulfide <=> [Xanthine oxidase] + 2 Glutathione",
+    "equation": "C03544 + C00127 <=> C02756 + 2 C00051",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.4.7"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

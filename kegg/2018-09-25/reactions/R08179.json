@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08179",
+    "name": "",
+    "definition": "(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoyl-CoA + H2O <=> CoA + (5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid",
+    "equation": "C16165 + C00001 <=> C00010 + C06428",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.2.2"
+    ],
+    "pathways": {
+      "rn01040": "Biosynthesis of unsaturated fatty acids"
+    },
+    "orthologs": {
+      "K01068": "acyl-coenzyme A thioesterase 1/2/4 [EC:3.1.2.2]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04084",
+    "name": "3,4-Dihydroxyphenylacetaldehyde hydro-lyase (adding dopamine)",
+    "definition": "3,4-Dihydroxyphenylacetaldehyde + Dopamine <=> (S)-Norlaudanosoline + H2O",
+    "equation": "C04043 + C03758 <=> C02916 + C00001",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.78"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13382": "(S)-norcoclaurine synthase [EC:4.2.1.78]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06675",
+    "name": "S-adenosyl-L-methionine:nogalonic-acid O-methyltransferase",
+    "definition": "Nogalonate + S-Adenosyl-L-methionine <=> Methyl nogalonate + S-Adenosyl-L-homocysteine",
+    "equation": "C12416 + C00019 <=> C12415 + C00021",
+    "comment": "methyltransferase, snoaC",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15942": "O-methyltransferase / aklanonic acid methyltransferase [EC:2.1.1.- 2.1.1.288]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05285",
+    "name": "2-chloroethanol:cytochrome c oxidoreductase",
+    "definition": "2-Chloroethanol + 2 Ferricytochrome c <=> Chloroacetaldehyde + 2 Ferrocytochrome c + 2 H+",
+    "equation": "C06753 + 2 C00125 <=> C06754 + 2 C00126 + 2 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.2.8"
+    ],
+    "pathways": {
+      "rn00625": "Chloroalkane and chloroalkene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00114": "alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C20643",
+    "name": "2-Heptyl-4(1H)-quinolone",
+    "names": [
+      "2-Heptyl-4(1H)-quinolone",
+      "2-Heptyl-4-quinolone",
+      "2-Heptyl-4-hydroxyquinoline"
+    ],
+    "formula": "C16H21NO",
+    "exact_mass": 243.1623,
+    "mol_weight": 243.344,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10467",
+      "R10589",
+      "R11590"
+    ],
+    "pathways": {
+      "map00405": "Phenazine biosynthesis",
+      "map01130": "Biosynthesis of antibiotics",
+      "map02024": "Quorum sensing",
+      "map02025": "Biofilm formation - Pseudomonas aeruginosa"
+    },
+    "enzymes": [
+      "1.14.13.182",
+      "2.3.1.230"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "172232367"
+      ],
+      "ChEMBL": [
+        "CHEMBL527817"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C8x C     5.6000  -16.2400\n            2   C8x C     5.6000  -17.6400\n            3   C8x C     6.8124  -18.3400\n            4   C8y C     8.0249  -17.6400\n            5   C8y C     8.0249  -16.2400\n            6   C8x C     6.8124  -15.5400\n            7   C8y C     9.2373  -18.3400\n            8   C8x C    10.4497  -17.6400\n            9   C8y C    10.4497  -16.2400\n            10  N4x N     9.2373  -15.5400\n            11  C1b C    11.6424  -15.5400\n            12  C1b C    12.8549  -16.2400\n            13  C1b C    14.0673  -15.5400\n            14  C1b C    15.2797  -16.2400\n            15  C1b C    16.4922  -15.5400\n            16  C1b C    17.7046  -16.2400\n            17  C1a C    18.9170  -15.5400\n            18  O5x O     9.2373  -19.7400\nBOND        19\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 2\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    5  10 1\n            12    9  11 1\n            13   11  12 1\n            14   12  13 1\n            15   13  14 1\n            16   14  15 1\n            17   15  16 1\n            18   16  17 1\n            19    7  18 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

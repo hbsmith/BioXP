@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02409",
+    "name": "Coenzyme A:oxidized-glutathione oxidoreductase",
+    "definition": "L-Cystine + Sulfate <=> S-Sulfo-L-cysteine + L-Cysteine",
+    "equation": "C00491 + C00059 <=> C05824 + C00097",
+    "comment": "incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.4.3"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

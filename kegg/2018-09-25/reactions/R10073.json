@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10073",
+    "name": "(-)-vetispiradiene,NADPH:oxygen 2alpha-oxidoreductase",
+    "definition": "Vetispiradiene + 2 NADPH + 2 H+ + 2 Oxygen <=> Solavetivone + 2 NADP+ + 3 H2O",
+    "equation": "C12142 + 2 C00005 + 2 C00080 + 2 C00007 <=> C09737 + 2 C00006 + 3 C00001",
+    "comment": "two-step reaction (see R09576+R09577)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.121"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K15472": "premnaspirodiene oxygenase [EC:1.14.13.121]"
+    }
+  }
+]

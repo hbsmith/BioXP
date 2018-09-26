@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09349",
+    "name": "",
+    "definition": "Landomycin D <=> Landomycin E",
+    "equation": "C18684 <=> C18685",
+    "comment": "L-rhodinosyltransferase, lndGT4 iteratively acting L-rhodinosyltransferase, lanGT4 (also R09362)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15935": "L-rhodinosyltransferase"
+    }
+  }
+]

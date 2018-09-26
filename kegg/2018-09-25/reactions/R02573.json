@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02573",
+    "name": "Trimethylsulfonium:tetrahydrofolate N-methyltransferase",
+    "definition": "Trimethylsulfonium + Tetrahydrofolate <=> Dimethyl sulfide + 5-Methyltetrahydrofolate",
+    "equation": "C01008 + C00101 <=> C00580 + C00440",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.19"
+    ],
+    "pathways": {
+      "rn00670": "One carbon pool by folate"
+    },
+    "orthologs": {
+    }
+  }
+]

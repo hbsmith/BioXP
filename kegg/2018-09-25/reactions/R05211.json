@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05211",
+    "name": "S-Adenosyl-L-methionine:(RS)-1-benzyl-1,2,3,4-tetrahydroisoquinolie N- methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + (S)-Norreticuline <=> S-Adenosyl-L-homocysteine + (S)-Reticuline",
+    "equation": "C00019 + C06520 <=> C00021 + C02105",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.115"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13384": "(RS)-1-benzyl-1,2,3,4-tetrahydroisoquinoline N-methyltransferase [EC:2.1.1.115 2.1.1.140]"
+    }
+  }
+]

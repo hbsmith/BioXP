@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C06324",
+    "name": "Isocarbostyril",
+    "names": [
+      "Isocarbostyril",
+      "1(2H)-Isoquinolinone",
+      "Isoquinolin-1(2H)-one"
+    ],
+    "formula": "C9H7NO",
+    "exact_mass": 145.0528,
+    "mol_weight": 145.158,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05151"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.3.99.16"
+    ],
+    "dblinks": {
+      "CAS": [
+        "491-30-5"
+      ],
+      "PubChem": [
+        "8560"
+      ],
+      "ChEBI": [
+        "18350"
+      ],
+      "ChEMBL": [
+        "CHEMBL339695"
+      ],
+      "PDB-CCD": [
+        "4YS"
+      ],
+      "3DMET": [
+        "B00932"
+      ],
+      "NIKKAJI": [
+        "J6.052F"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    28.1690  -20.3430\n            2   C8y C    28.1690  -18.9456\n            3   C8x C    29.3791  -21.0445\n            4   C8x C    26.9588  -21.0445\n            5   C8y C    29.3791  -18.2441\n            6   C8x C    26.9588  -18.2441\n            7   C8x C    30.5951  -20.3430\n            8   C8x C    25.7427  -20.3430\n            9   N4x N    30.5951  -18.9456\n            10  O5x O    29.3791  -16.8469\n            11  C8x C    25.7427  -18.9456\nBOND        12\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 2\n            7     4   8 2\n            8     5   9 1\n            9     5  10 2\n            10    6  11 2\n            11    7   9 1\n            12    8  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C04477",
+    "name": "1D-myo-Inositol 1,3,4,6-tetrakisphosphate",
+    "names": [
+      "1D-myo-Inositol 1,3,4,6-tetrakisphosphate",
+      "D-myo-Inositol 1,3,4,6-tetrakisphosphate",
+      "Inositol 1,3,4,6-tetrakisphosphate"
+    ],
+    "formula": "C6H16O18P4",
+    "exact_mass": 499.9287,
+    "mol_weight": 500.0755,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03429",
+      "R03478"
+    ],
+    "pathways": {
+      "map00562": "Inositol phosphate metabolism",
+      "map01100": "Metabolic pathways",
+      "map04070": "Phosphatidylinositol signaling system"
+    },
+    "enzymes": [
+      "2.7.1.140",
+      "2.7.1.159"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7097"
+      ],
+      "ChEBI": [
+        "16155"
+      ],
+      "PDB-CCD": [
+        "I4P"
+      ],
+      "3DMET": [
+        "B01746"
+      ],
+      "NIKKAJI": [
+        "J488.540F"
+      ]
+    },
+    "kcf": "ATOM        28\n            1   P1b P    22.2565  -20.5929\n            2   O2b O    23.6513  -20.5992\n            3   O1c O    20.8554  -20.5929\n            4   O1c O    22.2565  -19.1981\n            5   O1c O    22.2502  -21.9940\n            6   C1y C    25.0524  -20.5929\n            7   C1y C    25.7530  -19.2888\n            8   C1y C    25.7722  -21.8012\n            9   C1y C    27.1735  -19.3459\n            10  O2b O    25.0460  -18.1633\n            11  C1y C    27.1670  -21.7947\n            12  O1a O    25.0846  -23.0223\n            13  C1y C    27.8676  -20.5671\n            14  O1a O    27.8676  -18.1377\n            15  P1b P    25.0524  -16.7687\n            16  O2b O    27.8740  -22.9967\n            17  O2b O    29.2624  -20.5671\n            18  O1c O    23.6513  -16.7687\n            19  O1c O    25.0524  -15.3674\n            20  O1c O    26.4471  -16.7750\n            21  P1b P    27.8676  -24.3913\n            22  P1b P    30.6569  -20.5671\n            23  O1c O    29.2687  -24.3978\n            24  O1c O    26.4729  -24.3913\n            25  O1c O    27.8611  -25.7926\n            26  O1c O    32.0582  -20.5737\n            27  O1c O    30.6635  -19.1660\n            28  O1c O    30.6506  -21.9619\nBOND        28\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     6   2 1 #Up\n            6     6   7 1\n            7     6   8 1\n            8     7   9 1\n            9     7  10 1 #Down\n            10    8  11 1\n            11    8  12 1 #Up\n            12    9  13 1\n            13    9  14 1 #Up\n            14   10  15 1\n            15   11  16 1 #Up\n            16   13  17 1 #Down\n            17   15  18 1\n            18   15  19 1\n            19   15  20 2\n            20   16  21 1\n            21   17  22 1\n            22   21  23 1\n            23   21  24 1\n            24   21  25 2\n            25   22  26 1\n            26   22  27 1\n            27   22  28 2\n            28   11  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

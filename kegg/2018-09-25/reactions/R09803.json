@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09803",
+    "name": "UDP-L-rhamnose:quercetin 3-O-rhamnosyltransferase",
+    "definition": "Quercetin + UDP-L-rhamnose <=> Quercitrin + UDP",
+    "equation": "C00389 + C02199 <=> C01750 + C00015",
+    "comment": "flavonol-3-O-rhamnosyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn00944": "Flavone and flavonol biosynthesis"
+    },
+    "orthologs": {
+      "K15787": "flavonol-3-O-rhamnosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

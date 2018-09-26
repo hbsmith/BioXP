@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09277",
+    "name": "4-[2-(5-carboxy-2-hydroxy-3-methoxyphenyl)-2-oxoethylidene]-2-hydroxy-2-pentenedioate 5-carboxy-2-hydroxy-3-methoxybenzoylhydrolase",
+    "definition": "4-[2-(5-Carboxy-2-hydroxy-3-methoxyphenyl)-2-oxoethylidene]-2-hydroxy-2-pentenedioate + H2O <=> 5-Carboxyvanillic acid + 4-Methylene-2-oxoglutarate",
+    "equation": "C18349 + C00001 <=> C18338 + C06035",
+    "comment": "hydrolase, ligY",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K15062": "OH-DDVA meta-cleavage compound hydrolase"
+    }
+  }
+]

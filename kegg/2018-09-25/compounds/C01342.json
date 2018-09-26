@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C01342",
+    "name": "NH4+",
+    "names": [
+      "NH4+",
+      "Ammonia ion",
+      "Ammonium(1+)"
+    ],
+    "formula": "NH4",
+    "exact_mass": 18.0344,
+    "mol_weight": 18.0385,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map05120": "Epithelial cell signaling in Helicobacter pylori infection"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "14798-03-9"
+      ],
+      "PubChem": [
+        "4547"
+      ],
+      "ChEBI": [
+        "28938"
+      ],
+      "PDB-CCD": [
+        "NH4"
+      ],
+      "NIKKAJI": [
+        "J231.669B"
+      ]
+    },
+    "kcf": "ATOM        1\n            1   N0  N    25.1300  -17.2200 #+\nBOND        0\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

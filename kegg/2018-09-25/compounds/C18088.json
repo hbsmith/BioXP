@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C18088",
+    "name": "2'-Hydroxy-MDCA",
+    "names": [
+      "2'-Hydroxy-MDCA"
+    ],
+    "formula": "C9H7O3R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound R = CO2H or CO-SCoA",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96024305"
+      ],
+      "ChEBI": [
+        "81492"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    31.5834  -24.8754\n            2   C8y C    31.5834  -26.2729\n            3   C8x C    32.7713  -26.9717\n            4   C8y C    34.0290  -26.2729\n            5   C8y C    34.0290  -24.8754\n            6   C8x C    32.7713  -24.1767\n            7   O1a O    35.2169  -26.9717\n            8   C2b C    35.2169  -24.1767\n            9   C2b C    36.4047  -24.8754\n            10  R   R    37.5926  -24.1767\n            11  O2x O    30.2558  -24.3863\n            12  C1x C    29.4173  -25.5742\n            13  O2x O    30.2558  -26.6922\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     5   8 1\n            9     8   9 2\n            10    9  10 1\n            11    1  11 1\n            12   11  12 1\n            13   12  13 1\n            14    2  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

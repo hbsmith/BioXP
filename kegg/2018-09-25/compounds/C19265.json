@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19265",
+    "name": "Methylthiouracil",
+    "names": [
+      "Methylthiouracil"
+    ],
+    "formula": "C5H6N2OS",
+    "exact_mass": 142.0201,
+    "mol_weight": 142.1789,
+    "remark": "Same as: D07231",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "56-04-2"
+      ],
+      "PubChem": [
+        "124489937"
+      ],
+      "ChEBI": [
+        "82346"
+      ],
+      "ChEMBL": [
+        "CHEMBL1330588"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8y C    29.4700  -18.0600\n            2   N4x N    29.4700  -16.6600\n            3   C8y C    28.2800  -15.9600\n            4   C8x C    27.0900  -16.6600\n            5   C8y C    27.0900  -18.0600\n            6   N4x N    28.2800  -18.7600\n            7   S0  S    30.7300  -18.7600\n            8   O5x O    28.2800  -14.5600\n            9   C1a C    25.8300  -18.7600\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 1\n            7     1   7 2\n            8     3   8 2\n            9     5   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

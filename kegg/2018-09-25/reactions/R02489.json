@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02489",
+    "name": "Gentisate carboxy-lyase",
+    "definition": "2,5-Dihydroxybenzoate <=> Hydroquinone + CO2",
+    "equation": "C00628 <=> C00530 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.62"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

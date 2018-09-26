@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02799",
+    "name": "11-epi-Prostaglandin F2alpha:NADP+ 11-oxidoreductase",
+    "definition": "11-epi-Prostaglandin F2alpha + NADP+ <=> Prostaglandin D2 + H+ + NADPH",
+    "equation": "C05959 + C00006 <=> C00696 + C00080 + C00005",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.188"
+    ],
+    "pathways": {
+      "rn00590": "Arachidonic acid metabolism"
+    },
+    "orthologs": {
+      "K04119": "aldo-keto reductase family 1 member C3 [EC:1.1.1.51 1.1.1.188 1.1.1.213 1.1.1.357]"
+    }
+  }
+]

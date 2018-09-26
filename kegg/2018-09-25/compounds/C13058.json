@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C13058",
+    "name": "Calcium L-aspartate",
+    "names": [
+      "Calcium L-aspartate"
+    ],
+    "formula": "C4H5NO4. Ca",
+    "exact_mass": 170.9844,
+    "mol_weight": 171.1648,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "21059-46-1"
+      ],
+      "PubChem": [
+        "585122"
+      ],
+      "ChEBI": [
+        "31337"
+      ],
+      "ChEMBL": [
+        "CHEMBL2106115"
+      ],
+      "NIKKAJI": [
+        "J62.327J"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C6a C    12.7644  -13.9475\n            2   C1b C    13.9258  -14.6199\n            3   C1c C    15.0872  -13.9475\n            4   C6a C    16.2487  -14.6199\n            5   O6a O    17.4102  -13.9475 #-\n            6   O6a O    16.2487  -15.9647\n            7   O6a O    12.7644  -12.6026\n            8   N1a N    15.0872  -12.6026\n            9   O6a O    11.1954  -14.8237 #-\n            10  Z   Ca   21.5263  -14.4840 #2+\nBOND        8\n            1     4   5 1\n            2     4   6 2\n            3     2   3 1\n            4     1   7 2\n            5     3   8 1 #Down\n            6     3   4 1\n            7     1   9 1\n            8     1   2 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

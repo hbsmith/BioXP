@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C06597",
+    "name": "1,3,4,6-Tetrachloro-1,4-cyclohexadiene",
+    "names": [
+      "1,3,4,6-Tetrachloro-1,4-cyclohexadiene"
+    ],
+    "formula": "C6H4Cl4",
+    "exact_mass": 215.9067,
+    "mol_weight": 217.908,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05369",
+      "R05387",
+      "R05483"
+    ],
+    "pathways": {
+      "map00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "3.8.1.5",
+      "4.5.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8823"
+      ],
+      "ChEBI": [
+        "18904",
+        "513"
+      ],
+      "NIKKAJI": [
+        "J1.263.661J"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1y C    27.6465  -17.6736\n            2   C2y C    27.6816  -16.2704\n            3   C2x C    28.8749  -18.3430\n            4   X   Cl   26.2431  -18.4071\n            5   C2x C    28.7993  -15.5428\n            6   X   Cl   26.3832  -15.6010\n            7   C2y C    30.0041  -17.6096\n            8   C1y C    30.0335  -16.2064\n            9   X   Cl   31.3026  -18.2733\n            10  X   Cl   31.2269  -15.4788\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 2\n            5     2   6 1\n            6     3   7 2\n            7     5   8 1\n            8     7   9 1\n            9     8  10 1 #Up\n            10    7   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

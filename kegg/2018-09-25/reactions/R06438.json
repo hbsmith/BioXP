@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06438",
+    "name": "dTDP-6-deoxy-alpha-D-allose:NAD+ oxidoreductase",
+    "definition": "dTDP-6-deoxy-D-allose + NAD+ <=> dTDP-4-oxo-6-deoxy-D-allose + NADH + H+",
+    "equation": "C11912 + C00003 <=> C11926 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.364"
+    ],
+    "pathways": {
+      "rn00523": "Polyketide sugar unit biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13313": "dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase [EC:1.1.1.364]"
+    }
+  }
+]

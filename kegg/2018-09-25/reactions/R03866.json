@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03866",
+    "name": "(6Z,8E,10E,14Z)-(5S,12R)-5,12-Dihydroxyicosa-6,8,10,14-tetraenoate,NADPH:oxygen oxidoreductase (20-hydroxylating)",
+    "definition": "Leukotriene B4 + NADPH + H+ + Oxygen <=> 20-OH-Leukotriene B4 + NADP+ + H2O",
+    "equation": "C02165 + C00005 + C00080 + C00007 <=> C04853 + C00006 + C00001",
+    "comment": "CYP4F2/3",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.30"
+    ],
+    "pathways": {
+      "rn00590": "Arachidonic acid metabolism"
+    },
+    "orthologs": {
+      "K17726": "leukotriene-B4 20-monooxygenase / phylloquinone omega-hydroxylase [EC:1.14.13.30 1.14.13.194]"
+    }
+  }
+]

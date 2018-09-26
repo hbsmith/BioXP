@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02376",
+    "name": "propane-1,2-diol hydro-lyase",
+    "definition": "Propane-1,2-diol <=> Propanal + H2O",
+    "equation": "C00583 <=> C00479 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.28"
+    ],
+    "pathways": {
+      "rn00640": "Propanoate metabolism"
+    },
+    "orthologs": {
+      "K01699": "propanediol dehydratase large subunit [EC:4.2.1.28]",
+      "K13919": "propanediol dehydratase medium subunit [EC:4.2.1.28]",
+      "K13920": "propanediol dehydratase small subunit [EC:4.2.1.28]"
+    }
+  }
+]

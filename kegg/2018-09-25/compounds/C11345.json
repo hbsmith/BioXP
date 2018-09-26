@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C11345",
+    "name": "1,2,4-Triazole-3-alanine",
+    "names": [
+      "1,2,4-Triazole-3-alanine",
+      "Triazolealanine"
+    ],
+    "formula": "C5H8N4O2",
+    "exact_mass": 156.0647,
+    "mol_weight": 156.1426,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "10109-05-4"
+      ],
+      "PubChem": [
+        "13520"
+      ],
+      "ChEBI": [
+        "9675"
+      ],
+      "NIKKAJI": [
+        "J227.038B"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   N5x N    16.2278  -20.9212\n            2   C8x C    16.6488  -22.2565\n            3   N4x N    18.0487  -22.2687\n            4   C8y C    18.4930  -20.9411\n            5   N5x N    17.3676  -20.1083\n            6   C1b C    19.6924  -20.2300\n            7   C1c C    20.9049  -20.9300\n            8   C6a C    22.1173  -20.2300\n            9   O6a O    23.3297  -20.9300\n            10  N1a N    20.9049  -22.3298\n            11  O6a O    22.1173  -18.8300\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     1   5 1\n            6     4   6 1\n            7     6   7 1\n            8     7   8 1\n            9     8   9 1\n            10    7  10 1\n            11    8  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

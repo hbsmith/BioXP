@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R02449",
+    "name": "benzoyl-CoA,NADPH:oxygen oxidoreductase (3-hydroxylating)",
+    "definition": "Benzoyl-CoA + Oxygen + NADPH + H+ <=> 3-Hydroxybenzoyl-CoA + NADP+ + H2O",
+    "equation": "C00512 + C00007 + C00005 + C00080 <=> C05195 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.58"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

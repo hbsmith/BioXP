@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C13621",
+    "name": "Tribromobisphenol A",
+    "names": [
+      "Tribromobisphenol A",
+      "3,3',5-Tribromobisphenol A"
+    ],
+    "formula": "C15H13Br3O2",
+    "exact_mass": 461.8466,
+    "mol_weight": 464.9745,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06876",
+      "R06877"
+    ],
+    "pathways": {
+      "map00363": "Bisphenol degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.97.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "6386-73-8"
+      ],
+      "PubChem": [
+        "586239"
+      ],
+      "ChEBI": [
+        "33218"
+      ],
+      "ChEMBL": [
+        "CHEMBL184398"
+      ],
+      "NIKKAJI": [
+        "J207.000F"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C8y C    25.2400  -15.8727\n            2   C8y C    25.3018  -17.2727\n            3   C8y C    26.4431  -17.9796\n            4   C8x C    27.6554  -17.2866\n            5   C8y C    27.6634  -15.8866\n            6   C8x C    26.4592  -15.1796\n            7   O1a O    24.0158  -17.9664\n            8   C1d C    28.8805  -15.1945\n            9   C8y C    30.0884  -15.9024\n            10  C1a C    27.6593  -14.4893\n            11  C1a C    30.0845  -14.4823\n            12  C8x C    30.0752  -17.2957\n            13  C8y C    31.2831  -18.0036\n            14  C8y C    32.5000  -17.3115\n            15  C8x C    32.5090  -15.9115\n            16  C8x C    31.3012  -15.2037\n            17  O1a O    33.7079  -18.0193\n            18  X   Br   24.0319  -15.1652\n            19  X   Br   26.4368  -19.3796\n            20  X   Br   31.2739  -19.4036\nBOND        21\n            1     8  10 1\n            2     4   5 1\n            3     8  11 1\n            4     5   6 2\n            5     6   1 1\n            6     2   7 1\n            7     1   2 2\n            8     9  12 2\n            9    12  13 1\n            10   13  14 2\n            11   14  15 1\n            12   15  16 2\n            13   16   9 1\n            14    5   8 1\n            15   14  17 1\n            16    2   3 1\n            17    1  18 1\n            18    8   9 1\n            19    3  19 1\n            20    3   4 2\n            21   13  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

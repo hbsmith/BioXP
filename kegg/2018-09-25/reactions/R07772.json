@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R07772",
+    "name": "cobalt-precorrin 5A acylhydrolase",
+    "definition": "Cobalt-precorrin 5A + H2O <=> Cobalt-precorrin 5B + Acetaldehyde",
+    "equation": "C16242 + C00001 <=> C16243 + C00084",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.7.1.12"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K02189": "cobalt-precorrin 5A hydrolase [EC:3.7.1.12]",
+      "K13541": "cobalt-precorrin 5A hydrolase / precorrin-3B C17-methyltransferase [EC:3.7.1.12 2.1.1.131]"
+    }
+  }
+]

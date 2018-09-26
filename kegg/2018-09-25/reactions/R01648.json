@@ -1,0 +1,26 @@
+[
+  {
+    "entry_id": "R01648",
+    "name": "4-aminobutanoate:2-oxoglutarate aminotransferase",
+    "definition": "4-Aminobutanoate + 2-Oxoglutarate <=> Succinate semialdehyde + L-Glutamate",
+    "equation": "C00334 + C00026 <=> C00232 + C00025",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.19"
+    ],
+    "pathways": {
+      "rn00250": "Alanine, aspartate and glutamate metabolism",
+      "rn00650": "Butanoate metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00823": "4-aminobutyrate aminotransferase [EC:2.6.1.19]",
+      "K07250": "4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22]",
+      "K13524": "4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22]",
+      "K14268": "5-aminovalerate/4-aminobutyrate aminotransferase [EC:2.6.1.48 2.6.1.19]"
+    }
+  }
+]

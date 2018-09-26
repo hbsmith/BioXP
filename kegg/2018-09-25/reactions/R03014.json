@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03014",
+    "name": "ATP:L-rhamnulose 1-phosphotransferase",
+    "definition": "ATP + L-Rhamnulose <=> ADP + L-Rhamnulose 1-phosphate",
+    "equation": "C00002 + C00861 <=> C00008 + C01131",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.5"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00848": "rhamnulokinase [EC:2.7.1.5]"
+    }
+  }
+]

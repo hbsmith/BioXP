@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R09949",
+    "name": "(Z)-2-methylureidoacrylate-peracid amidohydrolase",
+    "definition": "(Z)-2-Methylureidoacrylate peracid + H2O <=> (Z)-2-Methylperoxyaminoacrylate + Carbamate",
+    "equation": "C20232 + C00001 <=> C20250 + C01563",
+    "comment": "first step of two-step reaction (see R09950, R09949+R07316)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.110"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

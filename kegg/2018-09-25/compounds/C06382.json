@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C06382",
+    "name": "N-(Carboxyaminomethyl)urea",
+    "names": [
+      "N-(Carboxyaminomethyl)urea"
+    ],
+    "formula": "C3H7N3O3",
+    "exact_mass": 133.0487,
+    "mol_weight": 133.106,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05170",
+      "R05171"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.5.3.21"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8618"
+      ],
+      "ChEBI": [
+        "15569"
+      ],
+      "3DMET": [
+        "B00956"
+      ],
+      "NIKKAJI": [
+        "J2.760.739J"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C5a C    26.4108  -17.2900\n            2   N1b N    27.6284  -17.9891\n            3   N1a N    25.1990  -17.9891\n            4   O5a O    26.4108  -15.8918\n            5   C1b C    28.8400  -17.2900\n            6   N1b N    30.0516  -17.9891\n            7   C6a C    31.2692  -17.2900\n            8   O6a O    32.4810  -17.9891\n            9   O6a O    31.2692  -15.8918\nBOND        8\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

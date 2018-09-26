@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R07170",
+    "name": "(R)-6-hydroxynicotine:oxygen oxidoreductase",
+    "definition": "(R)-6-Hydroxynicotine + H2O + Oxygen <=> 6-Hydroxypseudooxynicotine + Hydrogen peroxide",
+    "equation": "C03043 + C00001 + C00007 <=> C01297 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.3.6"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K19890": "(R)-6-hydroxynicotine oxidase [EC:1.5.3.6]"
+    }
+  }
+]

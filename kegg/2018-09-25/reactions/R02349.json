@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02349",
+    "name": "Estradiol-17alpha:NADP+ 16-oxidoreductase",
+    "definition": "Estradiol-17alpha + NADP+ <=> Estrone + NADPH + H+",
+    "equation": "C02537 + C00006 <=> C00468 + C00005 + C00080",
+    "comment": "NAD+ (see R02347)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.148"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

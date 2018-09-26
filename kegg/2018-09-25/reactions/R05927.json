@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05927",
+    "name": "",
+    "definition": "UDP-D-galactose + G00155 <=> UDP + G00156",
+    "equation": "G10609 + G00155 <=> G10619 + G00156",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.134"
+    ],
+    "pathways": {
+      "rn00532": "Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate",
+      "rn00534": "Glycosaminoglycan biosynthesis - heparan sulfate / heparin",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00734": "galactosylxylosylprotein 3-beta-galactosyltransferase [EC:2.4.1.134]"
+    }
+  }
+]

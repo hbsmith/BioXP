@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10976",
+    "name": "6-aminohexanoate-oligomer endoamidohydrolase",
+    "definition": "[N-(6-Aminohexanoyl)]n(n) + H2O <=> [N-(6-Aminohexanoyl)]n(n-x) + [N-(6-Aminohexanoyl)]n(x)",
+    "equation": "C20988(n) + C00001 <=> C20988(n-x) + C20988(x)",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.117"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

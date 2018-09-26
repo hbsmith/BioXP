@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01781",
+    "name": "1,2-Ethanediol:NAD+ oxidoreductase",
+    "definition": "Ethylene glycol + NAD+ <=> Glycolaldehyde + NADH + H+",
+    "equation": "C01380 + C00003 <=> C00266 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.77"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00048": "lactaldehyde reductase [EC:1.1.1.77]"
+    }
+  }
+]

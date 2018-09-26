@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07984",
+    "name": "6-oxo-1,4,5,6-tetrahydronicotinate amidohydrolase",
+    "definition": "6-Oxo-1,4,5,6-tetrahydronicotinate + 2 H2O <=> 2-Formylglutarate + Ammonia",
+    "equation": "C04226 + 2 C00001 <=> C16159 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.2.18"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K15358": "enamidase [EC:3.5.2.18]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07527",
+    "name": "S-adenosyl-L-methionine:demethylspheroidene O-methyltransferase",
+    "definition": "1-Hydroxy-1,2-dihydrolycopene + S-Adenosyl-L-methionine <=> 3,4-Dihydroanhydrorhodovibrin + S-Adenosyl-L-homocysteine",
+    "equation": "C19795 + C00019 <=> C15886 + C00021",
+    "comment": "hydroxyneurosporene methyltransferase(crtF)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.210"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K09846": "demethylspheroidene O-methyltransferase [EC:2.1.1.210]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10398",
+    "name": "versiconol acetate O-acetylhydrolase",
+    "definition": "Versiconol acetate + H2O <=> Versiconol + Acetate",
+    "equation": "C20506 + C00001 <=> C20508 + C00033",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.94"
+    ],
+    "pathways": {
+      "rn00254": "Aflatoxin biosynthesis"
+    },
+    "orthologs": {
+      "K17648": "versiconal hemiacetal acetate esterase [EC:3.1.1.94]"
+    }
+  }
+]

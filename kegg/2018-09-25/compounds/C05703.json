@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C05703",
+    "name": "Methaneselenol",
+    "names": [
+      "Methaneselenol",
+      "Methylselenol"
+    ],
+    "formula": "CH4Se",
+    "exact_mass": 95.9478,
+    "mol_weight": 95.0025,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04770",
+      "R09366",
+      "R09369",
+      "R09371",
+      "R09372"
+    ],
+    "pathways": {
+      "map00450": "Selenocompound metabolism"
+    },
+    "enzymes": [
+      "1.8.1.9",
+      "2.1.1.-",
+      "4.4.1.1",
+      "4.4.1.11",
+      "4.4.1.13"
+    ],
+    "dblinks": {
+      "CAS": [
+        "6486-05-1"
+      ],
+      "PubChem": [
+        "8010"
+      ],
+      "ChEBI": [
+        "64685"
+      ],
+      "3DMET": [
+        "B01888"
+      ],
+      "NIKKAJI": [
+        "J151.317F"
+      ]
+    },
+    "kcf": "ATOM        2\n            1   C1a C    24.6393  -17.8737\n            2   Z   Se   25.7607  -16.9163\nBOND        1\n            1     1   2 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

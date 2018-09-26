@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08365",
+    "name": "",
+    "definition": "D-Galactosamine 6-phosphate + H2O <=> D-Tagatose 6-phosphate + Ammonia",
+    "equation": "C06377 + C00001 <=> C01097 + C00014",
+    "comment": "D-galactosamine-6-phosphate deaminase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.1.-"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism"
+    },
+    "orthologs": {
+      "K02080": "galactosamine-6-phosphate isomerase [EC:5.3.1.-]"
+    }
+  }
+]

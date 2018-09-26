@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03587",
+    "name": "S-adenosyl-L-methionine:5,7,3',4'-tetrahydroxyflavone 3'-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Luteolin <=> S-Adenosyl-L-homocysteine + Chrysoeriol",
+    "equation": "C00019 + C01514 <=> C00021 + C04293",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.42"
+    ],
+    "pathways": {
+      "rn00944": "Flavone and flavonol biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

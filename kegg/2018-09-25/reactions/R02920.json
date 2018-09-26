@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02920",
+    "name": "S-Adenosyl-L-methionine:catechol O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + L-Adrenaline <=> S-Adenosyl-L-homocysteine + L-Metanephrine",
+    "equation": "C00019 + C00788 <=> C00021 + C05588",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.6"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00545": "catechol O-methyltransferase [EC:2.1.1.6]"
+    }
+  }
+]

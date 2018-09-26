@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00379",
+    "name": "Deoxynucleoside triphosphate:DNA deoxynucleotidyltransferase",
+    "definition": "Deoxynucleoside triphosphate + DNA(n) <=> Diphosphate + DNA(n+1)",
+    "equation": "C00677 + C00039(n) <=> C00013 + C00039(n+1)",
+    "comment": "DNA-directed (ec 2.7.7.7) RNA-directed (ec 2.7.7.49) non-template (ec 2.7.7.31)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.7",
+      "2.7.7.31",
+      "2.7.7.49"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

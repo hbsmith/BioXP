@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09444",
+    "name": "3'-phosphoadenylyl-sulfate:7-hydroxymethyl-12-methylbenz[a]anthracene sulfotransferase",
+    "definition": "7-Hydroxymethyl-12-methylbenz[a]anthracene + 3'-Phosphoadenylyl sulfate <=> 7-Hydroxymethyl-12-methylbenz[a]anthracene sulfate + Adenosine 3',5'-bisphosphate",
+    "equation": "C19561 + C00053 <=> C19562 + C00054",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.2.14"
+    ],
+    "pathways": {
+      "rn00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "orthologs": {
+      "K11822": "bile-salt sulfotransferase [EC:2.8.2.14]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R07244",
+    "name": "S-adenosyl-L-methionine:N,N-dimethylglycine N-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + N,N-Dimethylglycine <=> S-Adenosyl-L-homocysteine + Betaine",
+    "equation": "C00019 + C01026 <=> C00021 + C00719",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.157",
+      "2.1.1.161",
+      "2.1.1.162"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism"
+    },
+    "orthologs": {
+      "K13042": "dimethylglycine N-methyltransferase [EC:2.1.1.161]"
+    }
+  }
+]

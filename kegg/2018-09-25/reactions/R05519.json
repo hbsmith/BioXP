@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05519",
+    "name": "",
+    "definition": "Erythromycin + Oxygen <=> Erythromycin E + H2O",
+    "equation": "C01912 + C00007 <=> C06634 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00522": "Biosynthesis of 12-, 14- and 16-membered macrolides",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+    }
+  }
+]

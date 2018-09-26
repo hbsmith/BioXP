@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C11215",
+    "name": "Arsenate ion",
+    "names": [
+      "Arsenate ion",
+      "Arsenate"
+    ],
+    "formula": "AsO4",
+    "exact_mass": 138.9013,
+    "mol_weight": 138.9192,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05747",
+      "R05751",
+      "R05752",
+      "R09787",
+      "R10927"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.20.2.1",
+      "1.20.4.1",
+      "1.20.4.4",
+      "1.20.9.1",
+      "1.20.99.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "15584-04-0"
+      ],
+      "PubChem": [
+        "13395"
+      ],
+      "ChEBI": [
+        "29125"
+      ],
+      "PDB-CCD": [
+        "ART"
+      ],
+      "NIKKAJI": [
+        "J216.010B"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   O1a O    29.6310  -19.5211 #-\n            2   Z   As   28.0210  -19.5097\n            3   O0  O    26.6210  -19.4982\n            4   O1a O    28.0166  -20.9097 #-\n            5   O1a O    28.0254  -18.1098 #-\nBOND        4\n            1     2   4 1\n            2     2   5 1\n            3     1   2 1\n            4     2   3 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

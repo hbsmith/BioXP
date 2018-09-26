@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C11116",
+    "name": "1-Methylparabanic acid",
+    "names": [
+      "1-Methylparabanic acid",
+      "Imidazolidinetrione, methyl-"
+    ],
+    "formula": "C4H4N2O3",
+    "exact_mass": 128.0222,
+    "mol_weight": 128.0862,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "3659-97-0"
+      ],
+      "PubChem": [
+        "13298"
+      ],
+      "ChEBI": [
+        "6886"
+      ],
+      "NIKKAJI": [
+        "J284.219J"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C5x C    26.8274  -18.6665\n            2   N1x N    27.9692  -17.8516\n            3   N1y N    28.6419  -20.0232\n            4   C5x C    27.2419  -20.0034\n            5   O5x O    30.4382  -18.2846\n            6   C5x C    29.0081  -18.8090\n            7   O5x O    25.5756  -18.0233\n            8   O5x O    26.5372  -21.2025\n            9   C1a C    29.7025  -21.1454\nBOND        9\n            1     6   5 2\n            2     1   2 1\n            3     2   6 1\n            4     6   3 1\n            5     1   7 2\n            6     3   4 1\n            7     4   8 2\n            8     4   1 1\n            9     3   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

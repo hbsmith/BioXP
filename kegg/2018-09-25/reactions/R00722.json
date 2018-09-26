@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00722",
+    "name": "ATP:IDP phosphotransferase",
+    "definition": "ATP + IDP <=> ADP + ITP",
+    "equation": "C00002 + C00104 <=> C00008 + C00081",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.6"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K00940": "nucleoside-diphosphate kinase [EC:2.7.4.6]",
+      "K18533": "adenylate/nucleoside-diphosphate kinase [EC:2.7.4.3 2.7.4.6]"
+    }
+  }
+]

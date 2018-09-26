@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08634",
+    "name": "2-(3'-methylthio)pentylmalate hydroxymutase",
+    "definition": "2-(5'-Methylthio)pentylmalic acid <=> 3-(5'-Methylthio)pentylmalic acid",
+    "equation": "C17222 <=> C17223",
+    "comment": "two-step reaction (similar to R10170, R03968+R04001)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.170"
+    ],
+    "pathways": {
+      "rn00966": "Glucosinolate biosynthesis",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+      "K01703": "3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]",
+      "K21359": "3-isopropylmalate/methylthioalkylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.170]"
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C04277",
+    "name": "1,8-Diazacyclotetradecane-2,9-dione",
+    "names": [
+      "1,8-Diazacyclotetradecane-2,9-dione"
+    ],
+    "formula": "C12H22N2O2",
+    "exact_mass": 226.1681,
+    "mol_weight": 226.3153,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03448"
+    ],
+    "pathways": {
+      "map00930": "Caprolactam degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "3.5.2.12"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6940"
+      ],
+      "ChEBI": [
+        "16968"
+      ],
+      "3DMET": [
+        "B00697"
+      ],
+      "NIKKAJI": [
+        "J450.663D"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C5x C    19.2384  -16.2097\n            2   C1x C    20.6218  -16.0167\n            3   N1x N    18.6657  -14.9228\n            4   O5x O    18.5627  -17.4324\n            5   C1x C    21.3876  -17.2200\n            6   C1x C    17.2628  -14.9357\n            7   C1x C    20.6475  -18.3975\n            8   C1x C    16.7158  -16.2226\n            9   C1x C    19.2642  -18.2109\n            10  C1x C    15.3454  -16.0554\n            11  C1x C    18.7107  -19.5043\n            12  C1x C    14.6053  -17.2392\n            13  N1x N    17.3079  -19.5108\n            14  C1x C    15.3646  -18.4233\n            15  C5x C    16.7352  -18.2238\n            16  O5x O    17.4110  -17.0013\nBOND        16\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     3   6 1\n            6     5   7 1\n            7     6   8 1\n            8     7   9 1\n            9     8  10 1\n            10    9  11 1\n            11   10  12 1\n            12   11  13 1\n            13   12  14 1\n            14   13  15 1\n            15   15  16 2\n            16   14  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

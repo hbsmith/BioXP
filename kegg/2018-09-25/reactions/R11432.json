@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11432",
+    "name": "",
+    "definition": "NDP-2,6-dideoxy-D-glycero-hex-2-enos-4-ulose <=> NDP-2-amino-4-oxo-2,6-dideoxy-D-galactose",
+    "equation": "C21316 <=> C21317",
+    "comment": "proposed pathway unclear reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21213": "aminotransferase"
+    }
+  }
+]

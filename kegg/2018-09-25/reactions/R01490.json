@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R01490",
+    "name": "aromatic aldehyde:NADP+ oxidoreductase (ATP-forming)",
+    "definition": "Aromatic aldehyde + AMP + Diphosphate + NADP+ <=> Aromatic acid + NADPH + ATP + H+",
+    "equation": "C00193 + C00020 + C00013 + C00006 <=> C00539 + C00005 + C00002 + C00080",
+    "comment": "general reaction intermediate (aromatic acyl-adenylate)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.30"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

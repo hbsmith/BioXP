@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C04905",
+    "name": "1-(4-Amino-2-methylpyrimid-5-ylmethyl)-3-(beta-hydroxyethyl)-2-methylpyridinium bromide",
+    "names": [
+      "1-(4-Amino-2-methylpyrimid-5-ylmethyl)-3-(beta-hydroxyethyl)-2-methylpyridinium bromide",
+      "Pyrithiamine bromide",
+      "Pyrithiamine"
+    ],
+    "formula": "C14H19N4O. Br",
+    "exact_mass": 338.0742,
+    "mol_weight": 339.2309,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04641"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.5.4.20"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7455"
+      ],
+      "ChEBI": [
+        "15797"
+      ],
+      "NIKKAJI": [
+        "J2.760.276B"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   N5y N    22.2017  -15.5208 #+\n            2   C8y C    23.4219  -14.8084\n            3   C1b C    22.1783  -16.9106\n            4   C8x C    20.9930  -14.8084\n            5   C8y C    23.4219  -13.4070\n            6   C1a C    24.6190  -15.4974\n            7   C8y C    20.9579  -17.5821\n            8   C8x C    20.9930  -13.4070\n            9   C8x C    22.2017  -12.7063\n            10  C1b C    24.6190  -12.7063\n            11  C8y C    20.9346  -18.9776\n            12  C8x C    19.7550  -16.8521\n            13  C1b C    25.8219  -13.4012\n            14  N5x N    19.6965  -19.6491\n            15  N1a N    22.1257  -19.6900\n            16  N5x N    18.4995  -17.4653\n            17  C8y C    18.4995  -18.9192\n            18  C1a C    17.2793  -19.5791\n            19  O1a O    27.0320  -12.7031\n            20  X   Br   25.0103  -18.5280 #-\nBOND        20\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     5  10 1\n            10    7  11 2\n            11    7  12 1\n            12   10  13 1\n            13   11  14 1\n            14   11  15 1\n            15   12  16 2\n            16   14  17 2\n            17   17  18 1\n            18    8   9 2\n            19   16  17 1\n            20   13  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

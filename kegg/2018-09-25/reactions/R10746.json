@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10746",
+    "name": "acetyl-CoA:deacetyl-MM17880 N-acetyltransferase",
+    "definition": "Acetyl-CoA + Deacetylepithienamycin F <=> CoA + Epithienamycin F",
+    "equation": "C00024 + C20816 <=> C00010 + C17399",
+    "comment": "proposed pathway not yet characterized sufficiently",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.-"
+    ],
+    "pathways": {
+      "rn00332": "Carbapenem biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K18566": "N-acetyltransferase [EC:2.3.1.-]"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C11866",
+    "name": "2,3-Dehydro-gibberellin A9",
+    "names": [
+      "2,3-Dehydro-gibberellin A9",
+      "2,3-Didehydro-gibberellin A9"
+    ],
+    "formula": "C19H22O4",
+    "exact_mass": 314.1518,
+    "mol_weight": 314.3756,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06349",
+      "R06350"
+    ],
+    "pathways": {
+      "map00904": "Diterpenoid biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.11.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "2531-21-7"
+      ],
+      "PubChem": [
+        "14028"
+      ],
+      "ChEBI": [
+        "29467"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0104170023"
+      ],
+      "KNApSAcK": [
+        "C00000866"
+      ],
+      "3DMET": [
+        "B04345"
+      ],
+      "NIKKAJI": [
+        "J2.777.646I"
+      ]
+    },
+    "kcf": "ATOM        23\n            1   C1z C    29.3468  -16.5626\n            2   C1y C    29.3585  -17.9531\n            3   C1y C    28.2036  -15.8999\n            4   C1x C    30.5017  -15.9058\n            5   C1x C    30.4900  -17.2205\n            6   C1y C    27.0605  -17.8889\n            7   C6a C    30.5904  -18.6064\n            8   C1z C    27.0605  -16.5626\n            9   C1x C    28.2095  -14.5795\n            10  C1y C    30.5017  -14.5853\n            11  C2y C    31.6321  -15.2303\n            12  O6a O    30.5847  -20.0516\n            13  C2a C    32.9058  -14.8933\n            14  C1x C    29.3482  -13.9184\n            15  C1x C    25.9464  -15.9579\n            16  O7x O    27.0610  -15.3154\n            17  C1z C    25.9464  -18.5508\n            18  C2x C    24.8363  -16.5932\n            19  C2x C    24.8363  -17.8897\n            20  C1a C    25.9394  -19.8345\n            21  C7x C    25.5871  -17.0807\n            22  O6a O    26.5861  -17.0807\n            23  O6a O    31.8206  -17.8838\nBOND        27\n            1     9  14 1\n            2    11  13 2\n            3     6   8 1\n            4    10  11 1 #Up\n            5     1   2 1\n            6     1   3 1\n            7     1   4 1\n            8     1   5 1 #Up\n            9     2   6 1\n            10    2   7 1 #Up\n            11    3   8 1\n            12    3   9 1\n            13    4  10 1\n            14    5  11 1\n            15    8  15 1\n            16    8  16 1 #Down\n            17    6  17 1\n            18   15  18 1\n            19   17  19 1\n            20   18  19 2\n            21   17  20 1 #Up\n            22   17  21 1 #Down\n            23   21  16 1\n            24   21  22 2\n            25    7  12 2\n            26    7  23 1\n            27   10  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C07723",
+    "name": "4-Hydroxy-9-fluorenone",
+    "names": [
+      "4-Hydroxy-9-fluorenone"
+    ],
+    "formula": "C13H8O2",
+    "exact_mass": 196.0524,
+    "mol_weight": 196.2014,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05543"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1986-00-1"
+      ],
+      "PubChem": [
+        "9925"
+      ],
+      "ChEBI": [
+        "27665"
+      ],
+      "3DMET": [
+        "B01095"
+      ],
+      "NIKKAJI": [
+        "J49.651K"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8x C    13.5800  -19.3900\n            2   C8x C    13.5800  -20.7900\n            3   C8x C    14.7924  -21.4900\n            4   C8y C    16.0049  -20.7900\n            5   C8y C    16.0049  -19.3900\n            6   C8x C    14.7924  -18.6900\n            7   C5x C    17.2173  -21.4900\n            8   C8y C    18.4297  -20.7900\n            9   C8y C    18.4297  -19.3900\n            10  C8x C    19.6422  -21.4900\n            11  C8x C    20.8546  -20.7900\n            12  C8x C    20.8546  -19.3900\n            13  C8y C    19.6422  -18.6900\n            14  O5x O    17.2173  -22.8900\n            15  O1a O    19.6422  -17.2903\nBOND        17\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    5   9 1\n            11    8  10 2\n            12   10  11 1\n            13   11  12 2\n            14   12  13 1\n            15    9  13 2\n            16    7  14 2\n            17   13  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

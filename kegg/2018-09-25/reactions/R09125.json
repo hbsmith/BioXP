@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09125",
+    "name": "2,5-dihydroxypyridine:oxygen 5,6-oxidoreductase",
+    "definition": "2,5-Dihydroxypyridine + Oxygen <=> N-Formylmaleamic acid",
+    "equation": "C01059 + C00007 <=> C18232",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.9"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K18028": "2,5-dihydroxypyridine 5,6-dioxygenase [EC:1.13.11.9]"
+    }
+  }
+]

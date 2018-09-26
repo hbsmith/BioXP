@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C05834",
+    "name": "3-Methyldioxyindole",
+    "names": [
+      "3-Methyldioxyindole",
+      "3-Hydroxy-3-methyloxindole"
+    ],
+    "formula": "C9H9NO2",
+    "exact_mass": 163.0633,
+    "mol_weight": 163.1733,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03092"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8127"
+      ],
+      "ChEBI": [
+        "28254"
+      ],
+      "3DMET": [
+        "B05121"
+      ],
+      "NIKKAJI": [
+        "J562.257C"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    12.2500  -16.9400\n            2   C8x C    12.2500  -18.3400\n            3   C8x C    13.4624  -19.0400\n            4   C8y C    14.6749  -18.3400\n            5   C8y C    14.6749  -16.9400\n            6   C8x C    13.4624  -16.2400\n            7   N1x N    16.0064  -18.7726\n            8   C5x C    16.8293  -17.6400\n            9   C1z C    16.0064  -16.5074\n            10  O5x O    18.2293  -17.6400\n            11  C1a C    17.2188  -15.8074\n            12  O1a O    15.3064  -15.2949\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    5   9 1\n            11    8  10 2\n            12    9  11 1\n            13    9  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

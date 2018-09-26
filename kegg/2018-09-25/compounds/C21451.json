@@ -1,0 +1,36 @@
+[
+  {
+    "entry_id": "C21451",
+    "name": "Poly(ethylene terephthalate)",
+    "names": [
+      "Poly(ethylene terephthalate)",
+      "Polyethylene terephthalate",
+      "(Ethylene terephthalate)n"
+    ],
+    "formula": "(C10H8O4)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "Same as: D05391",
+    "comment": "",
+    "reactions": [
+      "R11540"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.1.101"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "329728074"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8x C    15.1200  -15.3300\n            2   C8y C    15.1200  -16.7300\n            3   C8x C    16.3324  -17.4300\n            4   C8x C    17.5449  -16.7300\n            5   C8y C    17.5449  -15.3300\n            6   C8x C    16.3324  -14.6300\n            7   C7a C    18.7760  -14.6190\n            8   O7a O    19.9812  -15.3147\n            9   O6a O    18.7757  -13.2301\n            10  C4a C    13.9076  -17.4300\n            11  Z   *    11.3121  -15.9696\n            12  O4a O    13.9075  -18.8298\n            13  C1b C    21.1635  -14.6319\n            14  C1b C    22.3575  -15.3212\n            15  O1a O    23.5454  -14.6352\n            16  Z   *    25.9265  -15.8129\nBOND        16\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     7   9 2\n            10    2  10 1\n            11   10  11 1\n            12   10  12 2\n            13    8  13 1\n            14   13  14 1\n            15   14  15 1\n            16   15  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

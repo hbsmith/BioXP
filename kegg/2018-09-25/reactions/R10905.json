@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10905",
+    "name": "",
+    "definition": "Hyaluronic acid + H2O <=> Hyaluronic acid + G00526",
+    "equation": "G10505 + C00001 <=> G10505 + G00526",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.35"
+    ],
+    "pathways": {
+      "rn00531": "Glycosaminoglycan degradation"
+    },
+    "orthologs": {
+      "K01197": "hyaluronoglucosaminidase [EC:3.2.1.35]"
+    }
+  }
+]

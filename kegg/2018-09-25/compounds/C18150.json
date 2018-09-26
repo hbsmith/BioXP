@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C18150",
+    "name": "n-Butylbenzene",
+    "names": [
+      "n-Butylbenzene"
+    ],
+    "formula": "C10H14",
+    "exact_mass": 134.1096,
+    "mol_weight": 134.2182,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "104-51-8"
+      ],
+      "PubChem": [
+        "96024367"
+      ],
+      "ChEBI": [
+        "44194"
+      ],
+      "ChEMBL": [
+        "CHEMBL195441"
+      ],
+      "PDB-CCD": [
+        "N4B"
+      ],
+      "NIKKAJI": [
+        "J5.032F"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    16.9400  -28.4900\n            2   C8x C    16.9400  -29.8900\n            3   C8x C    18.1524  -30.5900\n            4   C8x C    19.3649  -29.8900\n            5   C8y C    19.3649  -28.4900\n            6   C8x C    18.1524  -27.7900\n            7   C1b C    20.5960  -27.7790\n            8   C1b C    21.8012  -28.4747\n            9   C1b C    22.9835  -27.7919\n            10  C1a C    24.1775  -28.4812\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

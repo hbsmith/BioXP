@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C15238",
+    "name": "8-Hydroxy-3,4,6-trichlorodibenzofuran",
+    "names": [
+      "8-Hydroxy-3,4,6-trichlorodibenzofuran",
+      "4,6,7-Trichloro-2-dibenzofuranol"
+    ],
+    "formula": "C12H5Cl3O2",
+    "exact_mass": 285.9355,
+    "mol_weight": 287.5259,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17396235"
+      ],
+      "ChEBI": [
+        "79740"
+      ],
+      "NIKKAJI": [
+        "J2.791.371G"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C8y C    25.3768  -18.7054\n            2   C8y C    25.3768  -20.0474\n            3   O2x O    26.5389  -20.7184\n            4   C8y C    27.7012  -20.0474\n            5   C8y C    27.7012  -18.7054\n            6   C8y C    28.8633  -20.7184\n            7   C8y C    30.0254  -20.0474\n            8   C8x C    30.0254  -18.7054\n            9   C8x C    28.8633  -18.0345\n            10  C8x C    24.2147  -18.0345\n            11  C8y C    23.0524  -18.7054\n            12  C8x C    23.0524  -20.0474\n            13  C8y C    24.2147  -20.7184\n            14  O1a O    21.8724  -18.0239\n            15  X   Cl   31.2293  -20.7422\n            16  X   Cl   28.8633  -22.1198\n            17  X   Cl   24.2147  -22.1200\nBOND        19\n            1     1   2 2\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     4   6 2\n            7     6   7 1\n            8     7   8 2\n            9     8   9 1\n            10    5   9 2\n            11    1  10 1\n            12   10  11 2\n            13   11  12 1\n            14   12  13 2\n            15    2  13 1\n            16   11  14 1\n            17    7  15 1\n            18    6  16 1\n            19   13  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

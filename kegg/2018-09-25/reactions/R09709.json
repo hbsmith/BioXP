@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09709",
+    "name": "(S)-2,3-epoxysqualene mutase (cyclizing, thalianol-forming)",
+    "definition": "(S)-2,3-Epoxysqualene <=> Thalianol",
+    "equation": "C01054 <=> C19832",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.99.31"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15821": "thalianol synthase [EC:5.4.99.31]"
+    }
+  }
+]

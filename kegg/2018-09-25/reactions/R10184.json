@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10184",
+    "name": "UDP-N,N'-diacetylbacillosamine:tritrans,heptacis-undecaprenyl-phosphate N,N'-diacetylbacillosamine transferase",
+    "definition": "UDP-N,N'-Diacetylbacillosamine + tritrans,heptacis-Undecaprenyl phosphate <=> UMP + N,N'-Diacetyl-alpha-D-bacillosaminyldiphospho-tritrans,heptacis-undecaprenol",
+    "equation": "C20357 + C20420 <=> C00105 + C20421",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.8.36"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K15915": "undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase [EC:2.7.8.36]"
+    }
+  }
+]

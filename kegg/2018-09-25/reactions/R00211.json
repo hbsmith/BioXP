@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00211",
+    "name": "pyruvate:oxygen 2-oxidoreductase (CoA-acetylating)",
+    "definition": "Pyruvate + CoA + Oxygen <=> Hydrogen peroxide + Acetyl-CoA + CO2",
+    "equation": "C00022 + C00010 + C00007 <=> C00027 + C00024 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.3.6"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

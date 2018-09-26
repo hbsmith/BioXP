@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06464",
+    "name": "narbomycin,NADPH:oxygen oxidoreductase (pikromycin-forming)",
+    "definition": "Narbomycin + NADPH + H+ + Oxygen <=> Pikromycin + NADP+ + H2O",
+    "equation": "C11998 + C00005 + C00080 + C00007 <=> C11999 + C00006 + C00001",
+    "comment": "CYP107L1",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.185"
+    ],
+    "pathways": {
+      "rn00522": "Biosynthesis of 12-, 14- and 16-membered macrolides",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16006": "pikromycin synthase [EC:1.14.13.185]"
+    }
+  }
+]

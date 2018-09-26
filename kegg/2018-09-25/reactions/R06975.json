@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R06975",
+    "name": "formate:5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide ligase (ADP-forming); 5-formaminoimidazole-4-carboxamide-1-beta-D-ribofuranosyl 5'-monophosphate synthetase",
+    "definition": "Formate + ATP + 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide <=> ADP + Orthophosphate + 1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide",
+    "equation": "C00058 + C00002 + C04677 <=> C00008 + C00009 + C04734",
+    "comment": "purP",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.4.23"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K06863": "5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]"
+    }
+  }
+]

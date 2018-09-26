@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "C19780",
+    "name": "(R)-Piperazine-2-carboxylate",
+    "names": [
+      "(R)-Piperazine-2-carboxylate",
+      "(R)-Piperazine-2-carboxylic acid",
+      "(R)-2-Piperazinecarboxylate"
+    ],
+    "formula": "C5H10N2O2",
+    "exact_mass": 130.0742,
+    "mol_weight": 130.1451,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09647"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.5.1.100"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "135626247"
+      ],
+      "ChEMBL": [
+        "CHEMBL1229073"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1x C    18.4774  -16.3069\n            2   C1x C    18.4774  -17.7067\n            3   N1x N    19.6896  -18.4065\n            4   C1y C    20.9019  -17.7067\n            5   C1x C    20.9019  -16.3069\n            6   N1x N    19.6896  -15.6070\n            7   C6a C    22.1328  -18.4175\n            8   O6a O    23.3378  -17.7220\n            9   O6a O    22.1325  -19.8062\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     4   7 1 #Down\n            8     7   8 1\n            9     7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

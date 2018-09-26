@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09405",
+    "name": "",
+    "definition": "Aflatoxin B1 + Oxygen + NADPH + H+ <=> Aflatoxin M1 + H2O + NADP+",
+    "equation": "C06800 + C00007 + C00005 + C00080 <=> C16756 + C00001 + C00006",
+    "comment": "CYP1A2",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.1"
+    ],
+    "pathways": {
+      "rn00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "orthologs": {
+      "K07409": "cytochrome P450 family 1 subfamily A polypeptide 2 [EC:1.14.14.1]"
+    }
+  }
+]

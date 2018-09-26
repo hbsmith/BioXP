@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C03098",
+    "name": "Benzyl isothiocyanate",
+    "names": [
+      "Benzyl isothiocyanate"
+    ],
+    "formula": "C8H7NS",
+    "exact_mass": 149.0299,
+    "mol_weight": 149.2129,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04010"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "5.99.1.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "622-78-6"
+      ],
+      "PubChem": [
+        "5996"
+      ],
+      "ChEBI": [
+        "17484"
+      ],
+      "ChEMBL": [
+        "CHEMBL55285"
+      ],
+      "KNApSAcK": [
+        "C00007675",
+        "C00032761"
+      ],
+      "3DMET": [
+        "B00542"
+      ],
+      "NIKKAJI": [
+        "J6.842J"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    28.3564  -19.3734\n            2   C8x C    27.2328  -18.6712\n            3   C8x C    28.3564  -20.7077\n            4   C1b C    29.5502  -18.7414\n            5   C8x C    26.0390  -19.3734\n            6   C8x C    27.2328  -21.4099\n            7   N2b N    30.6738  -19.3734\n            8   C8x C    26.0390  -20.7077\n            9   C0  C    32.1486  -18.6712\n            10  S0  S    33.3610  -18.1112\nBOND        10\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     3   6 1\n            6     4   7 1\n            7     5   8 1\n            8     7   9 2\n            9     6   8 2\n            10    9  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

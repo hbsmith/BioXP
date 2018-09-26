@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04989",
+    "name": "",
+    "definition": "2-Octaprenyl-6-methoxyphenol + Oxygen + NADPH <=> 2-Octaprenyl-6-methoxy-1,4-benzoquinone + NADP+ + H2O",
+    "equation": "C05812 + C00007 + C00005 <=> C05813 + C00006 + C00001",
+    "comment": "UbiH",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K03185": "2-octaprenyl-6-methoxyphenol hydroxylase [EC:1.14.13.-]"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C14094",
+    "name": "2-Carboxy-2-hydroxy-8-carboxychromene",
+    "names": [
+      "2-Carboxy-2-hydroxy-8-carboxychromene"
+    ],
+    "formula": "C11H8O6",
+    "exact_mass": 236.0321,
+    "mol_weight": 236.1776,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06921",
+      "R06922"
+    ],
+    "pathways": {
+      "map00626": "Naphthalene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.13.-.-",
+      "5.3.99.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "854330"
+      ],
+      "ChEBI": [
+        "34265"
+      ],
+      "NIKKAJI": [
+        "J2.787.870I"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C8x C    21.8321  -17.5771\n            2   C8x C    21.8321  -18.9783\n            3   C8x C    23.0494  -19.6824\n            4   C8y C    23.0494  -16.8801\n            5   C8y C    24.2525  -17.5771\n            6   C8y C    24.2464  -18.9783\n            7   C2x C    25.4578  -19.6875\n            8   C2x C    26.6751  -18.9886\n            9   C1z C    26.6810  -17.5875\n            10  O2x O    25.4698  -16.8854\n            11  C6a C    23.0511  -15.4791\n            12  O6a O    24.2593  -14.7765\n            13  O6a O    21.8376  -14.7735\n            14  C6a C    27.8824  -16.8700\n            15  O6a O    29.0949  -17.5700\n            16  O6a O    27.8721  -15.4701\n            17  O1a O    27.8935  -18.4275\nBOND        18\n            1     6   7 1\n            2     7   8 2\n            3     8   9 1\n            4     9  10 1\n            5    10   5 1\n            6     4  11 1\n            7     1   2 2\n            8    11  12 2\n            9     2   3 1\n            10   11  13 1\n            11    3   6 2\n            12    5   4 2\n            13    4   1 1\n            14    5   6 1\n            15    9  14 1\n            16   14  15 1\n            17   14  16 2\n            18    9  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

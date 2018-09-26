@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10060",
+    "name": "S-adenosyl-L-methionine:glycine N-methyltransferase [N,N-dimethylglycine-forming]",
+    "definition": "2 S-Adenosyl-L-methionine + Glycine <=> 2 S-Adenosyl-L-homocysteine + N,N-Dimethylglycine",
+    "equation": "2 C00019 + C00037 <=> 2 C00021 + C01026",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.156"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism"
+    },
+    "orthologs": {
+      "K18896": "glycine/sarcosine N-methyltransferase [EC:2.1.1.156]"
+    }
+  }
+]

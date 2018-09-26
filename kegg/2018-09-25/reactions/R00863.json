@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00863",
+    "name": "3-Sulfino-L-alanine 4-carboxy-lyase",
+    "definition": "3-Sulfino-L-alanine <=> L-Alanine + Sulfur dioxide",
+    "equation": "C00606 <=> C00041 + C09306",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.12"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism"
+    },
+    "orthologs": {
+      "K09758": "aspartate 4-decarboxylase [EC:4.1.1.12]"
+    }
+  }
+]

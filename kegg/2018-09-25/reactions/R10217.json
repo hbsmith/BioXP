@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10217",
+    "name": "",
+    "definition": "Furfural + NADH + H+ <=> Furfuryl alcohol + NAD+",
+    "equation": "C14279 + C00004 + C00080 <=> C20441 + C00003",
+    "comment": "furfuryl alcohol dehydrogenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00365": "Furfural degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

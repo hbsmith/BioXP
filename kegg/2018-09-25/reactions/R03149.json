@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03149",
+    "name": "NTP:hexose-1-phosphate nucleotidyltransferase",
+    "definition": "Nucleoside triphosphate + alpha-D-Aldose 1-phosphate <=> Diphosphate + NDP-hexose",
+    "equation": "C00201 + C00991 <=> C00013 + C01600",
+    "comment": "general reaction (see R03318)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.28"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

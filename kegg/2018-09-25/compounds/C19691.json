@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19691",
+    "name": "Farnesylcysteine",
+    "names": [
+      "Farnesylcysteine",
+      "S-(2E,6E)-Farnesyl-L-cysteine",
+      "S-trans-trans-Farnesylcysteine"
+    ],
+    "formula": "C18H31NO2S",
+    "exact_mass": 325.2076,
+    "mol_weight": 325.5092,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09562",
+      "R09847"
+    ],
+    "pathways": {
+      "map00900": "Terpenoid backbone biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.8.3.5",
+      "1.8.3.6"
+    ],
+    "dblinks": {
+      "CAS": [
+        "68000-92-0"
+      ],
+      "PubChem": [
+        "135626159"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C2c C    19.6648  -18.0849\n            2   C2b C    20.8751  -18.7865\n            3   C1b C    18.4545  -18.7865\n            4   C1a C    19.6648  -16.6879\n            5   C1b C    22.0918  -18.0849\n            6   C1b C    17.2379  -18.0849\n            7   C1b C    23.3021  -18.7865\n            8   C2b C    16.0276  -18.7865\n            9   C2c C    24.5124  -18.0849\n            10  C2c C    14.8175  -18.0849\n            11  C2b C    25.7289  -18.7865\n            12  C1a C    24.5124  -16.6879\n            13  C1a C    13.6007  -18.7865\n            14  C1a C    14.8175  -16.6879\n            15  C1b C    26.9392  -18.0849\n            16  S2a S    28.1501  -18.7810\n            17  C1b C    29.3627  -18.0780\n            18  C1c C    30.5440  -18.7573\n            19  C6a C    31.7360  -18.0661\n            20  O6a O    32.9275  -18.7512\n            21  O6a O    31.7335  -16.6602\n            22  N1a N    30.5440  -20.1573\nBOND        21\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     5   7 1\n            7     6   8 1\n            8     7   9 1\n            9     8  10 2\n            10    9  11 2\n            11    9  12 1\n            12   10  13 1\n            13   10  14 1\n            14   11  15 1\n            15   15  16 1\n            16   16  17 1\n            17   17  18 1\n            18   18  19 1\n            19   19  20 1\n            20   19  21 2\n            21   18  22 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

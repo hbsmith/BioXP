@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08091",
+    "name": "7-methyl-3-oxo-6-octenoyl-CoA:acetyl-CoA C-acyltransferase",
+    "definition": "7-Methyl-3-oxo-6-octenoyl-CoA + CoA <=> 5-Methylhex-4-enoyl-CoA + Acetyl-CoA",
+    "equation": "C16466 + C00010 <=> C16470 + C00024",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.16"
+    ],
+    "pathways": {
+      "rn00281": "Geraniol degradation"
+    },
+    "orthologs": {
+      "K00632": "acetyl-CoA acyltransferase [EC:2.3.1.16]"
+    }
+  }
+]

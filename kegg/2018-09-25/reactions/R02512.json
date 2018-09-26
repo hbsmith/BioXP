@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02512",
+    "name": "Trimethylamine-N-oxide formaldehyde-lyase",
+    "definition": "Trimethylamine N-oxide <=> Dimethylamine + Formaldehyde",
+    "equation": "C01104 <=> C00543 + C00067",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.2.32"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "entry_id": "C00300",
+    "name": "Creatine",
+    "names": [
+      "Creatine",
+      "alpha-Methylguanidino acetic acid",
+      "Methylglycocyamine"
+    ],
+    "formula": "C4H9N3O2",
+    "exact_mass": 131.0695,
+    "mol_weight": 131.1332,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01566",
+      "R01881",
+      "R01882",
+      "R01883",
+      "R01884"
+    ],
+    "pathways": {
+      "map00260": "Glycine, serine and threonine metabolism",
+      "map00330": "Arginine and proline metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "2.1.1.2",
+      "2.7.3.2",
+      "3.5.2.10",
+      "3.5.3.3",
+      "3.9.1.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "57-00-1"
+      ],
+      "PubChem": [
+        "3594"
+      ],
+      "ChEBI": [
+        "16919"
+      ],
+      "ChEMBL": [
+        "CHEMBL283800"
+      ],
+      "PDB-CCD": [
+        "CRN"
+      ],
+      "3DMET": [
+        "B00084"
+      ],
+      "NIKKAJI": [
+        "J9.321A"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   N1a N    18.1524  -15.1200\n            2   C2c C    19.3649  -15.8200\n            3   N1c N    20.5773  -15.1200\n            4   C1b C    21.7897  -15.8200\n            5   C6a C    23.0022  -15.1200\n            6   O6a O    24.2146  -15.8200\n            7   O6a O    23.0022  -13.7203\n            8   N2a N    19.3649  -17.2198\n            9   C1a C    20.5773  -13.7200\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     5   7 2\n            7     2   8 2\n            8     3   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

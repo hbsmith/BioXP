@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10517",
+    "name": "NADH:oxygen oxidoreductase (H2O-forming)",
+    "definition": "2 NADH + 2 H+ + Oxygen <=> 2 NAD+ + 2 H2O",
+    "equation": "2 C00004 + 2 C00080 + C00007 <=> 2 C00003 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.6.3.2",
+      "1.6.3.4"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

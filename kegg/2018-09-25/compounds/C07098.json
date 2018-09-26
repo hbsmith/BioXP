@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C07098",
+    "name": "2,4,6-Trichlorophenol",
+    "names": [
+      "2,4,6-Trichlorophenol"
+    ],
+    "formula": "C6H3Cl3O",
+    "exact_mass": 195.9249,
+    "mol_weight": 197.4464,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05449",
+      "R05754"
+    ],
+    "pathways": {
+      "map00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.14.-",
+      "2.1.1.136"
+    ],
+    "dblinks": {
+      "CAS": [
+        "88-06-2"
+      ],
+      "PubChem": [
+        "9309"
+      ],
+      "ChEBI": [
+        "28755"
+      ],
+      "ChEMBL": [
+        "CHEMBL309917"
+      ],
+      "PDB-CCD": [
+        "T6C"
+      ],
+      "3DMET": [
+        "B01066"
+      ],
+      "NIKKAJI": [
+        "J3.543B"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    28.0000  -18.1321\n            2   C8y C    26.7884  -18.8286\n            3   C8y C    29.2116  -18.8286\n            4   O1a O    28.0058  -16.7274\n            5   C8x C    26.7884  -20.2275\n            6   X   Cl   25.5711  -18.1262\n            7   C8x C    29.2116  -20.2275\n            8   X   Cl   30.4231  -18.1321\n            9   C8y C    28.0000  -20.9299\n            10  X   Cl   28.0058  -22.3286\nBOND        10\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     3   8 1\n            8     5   9 1\n            9     9  10 1\n            10    7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

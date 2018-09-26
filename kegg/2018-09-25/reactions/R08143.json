@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08143",
+    "name": "",
+    "definition": "20-Hydroxyecdysone <=> 20,26-Dihydroxyecdysone",
+    "equation": "C02633 <=> C16500",
+    "comment": "26-hydroxylase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "pathways": {
+      "rn00981": "Insect hormone biosynthesis"
+    },
+    "orthologs": {
+      "K14985": "26-hydroxylase [EC:1.14.-.-]"
+    }
+  }
+]

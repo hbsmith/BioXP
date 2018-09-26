@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07808",
+    "name": "N-acetyl-D-glucosamine-6-sulfate 6-sulfohydrolase",
+    "definition": "G13073 + H2O <=> G13074 + Sulfate",
+    "equation": "G13073 + C00001 <=> G13074 + C00059",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.6.14"
+    ],
+    "pathways": {
+      "rn00531": "Glycosaminoglycan degradation",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01137": "N-acetylglucosamine-6-sulfatase [EC:3.1.6.14]"
+    }
+  }
+]

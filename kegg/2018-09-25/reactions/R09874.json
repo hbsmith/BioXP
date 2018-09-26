@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09874",
+    "name": "geranylgeranyl-diphosphate diphosphohydrolase [(13E)-labda-7,13-dien-15-ol-forming]",
+    "definition": "Geranylgeranyl diphosphate + H2O <=> (13E)-Labda-7,13-dien-15-ol + Diphosphate",
+    "equation": "C00353 + C00001 <=> C20158 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.7.10"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K16086": "(13E)-labda-7,13-dien-15-ol synthase [EC:3.1.7.10]"
+    }
+  }
+]

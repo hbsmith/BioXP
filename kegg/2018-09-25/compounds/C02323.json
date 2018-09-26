@@ -1,0 +1,57 @@
+[
+  {
+    "entry_id": "C02323",
+    "name": "Salicyl alcohol",
+    "names": [
+      "Salicyl alcohol",
+      "Saligenin",
+      "2-Hydroxybenzyl alcohol",
+      "2-(Hydroxymethyl)phenol"
+    ],
+    "formula": "C7H8O2",
+    "exact_mass": 124.0524,
+    "mol_weight": 124.1372,
+    "remark": "Same as: D05790",
+    "comment": "",
+    "reactions": [
+      "R03558",
+      "R05134"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.4.1.172",
+      "3.2.1.86"
+    ],
+    "dblinks": {
+      "CAS": [
+        "90-01-7"
+      ],
+      "PubChem": [
+        "5375"
+      ],
+      "ChEBI": [
+        "16464"
+      ],
+      "ChEMBL": [
+        "CHEMBL280802"
+      ],
+      "PDB-CCD": [
+        "SA9"
+      ],
+      "3DMET": [
+        "B00424"
+      ],
+      "NIKKAJI": [
+        "J4.312E"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8y C    17.7967  -14.4293\n            2   C8y C    19.0130  -15.1272\n            3   C8x C    16.5866  -15.1272\n            4   C1b C    17.7902  -13.0402\n            5   C8x C    19.0130  -16.5357\n            6   O1a O    20.2167  -14.4293\n            7   C8x C    16.5866  -16.5357\n            8   O1a O    18.9939  -12.3423\n            9   C8x C    17.7967  -17.2464\nBOND        9\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

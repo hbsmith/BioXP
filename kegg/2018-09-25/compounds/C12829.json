@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C12829",
+    "name": "Bromisovalum",
+    "names": [
+      "Bromisovalum",
+      "Bromovalerylurea"
+    ],
+    "formula": "C6H11BrN2O2",
+    "exact_mass": 222.0004,
+    "mol_weight": 223.0677,
+    "remark": "Same as: D01391",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "496-67-3"
+      ],
+      "PubChem": [
+        "583218"
+      ],
+      "ChEBI": [
+        "31304",
+        "77043"
+      ],
+      "ChEMBL": [
+        "CHEMBL1515611"
+      ],
+      "NIKKAJI": [
+        "J6.096H"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1a C    17.6022  -17.7619\n            2   C1c C    18.8137  -17.0605\n            3   C1c C    20.0252  -17.7548\n            4   C5a C    21.2367  -17.0534\n            5   N1b N    22.4482  -17.7478\n            6   C5a C    23.6597  -17.0464\n            7   N1a N    24.8713  -17.7407\n            8   C1a C    18.8106  -15.6577\n            9   X   Br   20.0283  -19.1576\n            10  O5a O    21.2337  -15.6506\n            11  O5a O    23.6567  -15.6436\nBOND        10\n            1     5   6 1\n            2     1   2 1\n            3     6   7 1\n            4     3   4 1\n            5     2   8 1\n            6     3   9 1\n            7     4   5 1\n            8     4  10 2\n            9     2   3 1\n            10    6  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

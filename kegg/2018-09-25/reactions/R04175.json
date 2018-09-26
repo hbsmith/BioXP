@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04175",
+    "name": "",
+    "definition": "6-Amino-2-oxohexanoate <=> Delta1-Piperideine-2-carboxylate + H2O",
+    "equation": "C03239 <=> C04092 + C00001",
+    "comment": "non-enzymatic",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation",
+      "rn00960": "Tropane, piperidine and pyridine alkaloid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

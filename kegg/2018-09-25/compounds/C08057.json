@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C08057",
+    "name": "Cycloserine",
+    "names": [
+      "Cycloserine",
+      "D-Cycloserine"
+    ],
+    "formula": "C3H6N2O2",
+    "exact_mass": 102.0429,
+    "mol_weight": 102.0919,
+    "remark": "Same as: D00877",
+    "comment": "",
+    "reactions": [
+      "R10470"
+    ],
+    "pathways": {
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "6.3.3.5"
+    ],
+    "dblinks": {
+      "CAS": [
+        "68-41-7"
+      ],
+      "PubChem": [
+        "10257"
+      ],
+      "ChEMBL": [
+        "CHEMBL771"
+      ],
+      "LIPIDMAPS": [
+        "LMPK14000007"
+      ],
+      "PDB-CCD": [
+        "4AX"
+      ],
+      "3DMET": [
+        "B02142"
+      ],
+      "NIKKAJI": [
+        "J8.592H"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1x C    24.5033  -16.8772\n            2   O2x O    25.9039  -16.8772\n            3   N1x N    26.3366  -15.5452\n            4   C5x C    25.2036  -14.7219\n            5   C1y C    24.0705  -15.5452\n            6   O5x O    25.2036  -13.3057\n            7   N1a N    22.7503  -15.1162\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     4   6 2\n            7     5   7 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

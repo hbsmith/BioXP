@@ -1,0 +1,80 @@
+[
+  {
+    "entry_id": "C14818",
+    "name": "Fe2+",
+    "names": [
+      "Fe2+",
+      "Fe(II)",
+      "Ferrous ion",
+      "Iron(2+)"
+    ],
+    "formula": "Fe",
+    "exact_mass": 55.9349,
+    "mol_weight": 55.845,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00078",
+      "R00092",
+      "R00310",
+      "R00311",
+      "R02864",
+      "R04124",
+      "R05318",
+      "R09541",
+      "R09739",
+      "R10468",
+      "R10510",
+      "R11329",
+      "R11579",
+      "R11700",
+      "R11741",
+      "R11742"
+    ],
+    "pathways": {
+      "map00860": "Porphyrin and chlorophyll metabolism",
+      "map02010": "ABC transporters",
+      "map04066": "HIF-1 signaling pathway",
+      "map04216": "Ferroptosis",
+      "map04978": "Mineral absorption",
+      "map05010": "Alzheimer's disease"
+    },
+    "enzymes": [
+      "1.9.98.1",
+      "1.14.14.18",
+      "1.14.15.20",
+      "1.14.99.48",
+      "1.14.99.57",
+      "1.14.99.58",
+      "1.16.1.7",
+      "1.16.1.9",
+      "1.16.3.1",
+      "1.16.5.1",
+      "2.1.1.342",
+      "4.99.1.1",
+      "4.99.1.4",
+      "4.99.1.9"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17395816"
+      ],
+      "ChEBI": [
+        "29033"
+      ],
+      "PDB-CCD": [
+        "FE2"
+      ],
+      "NIKKAJI": [
+        "J300.941F"
+      ]
+    },
+    "kcf": "ATOM        1\n            1   Z   Fe   24.6400  -20.3700 #2+\nBOND        0\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

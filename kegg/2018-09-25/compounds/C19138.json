@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19138",
+    "name": "Crimidine",
+    "names": [
+      "Crimidine"
+    ],
+    "formula": "C7H10ClN3",
+    "exact_mass": 171.0563,
+    "mol_weight": 171.6274,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "535-89-7"
+      ],
+      "PubChem": [
+        "124489810"
+      ],
+      "ChEBI": [
+        "82258"
+      ],
+      "ChEMBL": [
+        "CHEMBL1607733"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   N5x N    16.9400  -16.0300\n            2   C8y C    16.9400  -17.4300\n            3   N5x N    18.1524  -18.1300\n            4   C8y C    19.3649  -17.4300\n            5   C8x C    19.3649  -16.0300\n            6   C8y C    18.1524  -15.3300\n            7   N1c N    18.1524  -13.9302\n            8   C1a C    16.9232  -13.2203\n            9   C1a C    19.3480  -13.2398\n            10  X   Cl   15.7276  -18.1300\n            11  C1a C    20.5960  -18.1410\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     7   9 1\n            10    2  10 1\n            11    4  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

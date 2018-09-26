@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06788",
+    "name": "(2E)-3-(2,3-dihydroxyphenyl)prop-2-enoate:oxygen 1,2-oxidoreductase (decyclizing)",
+    "definition": "trans-2,3-Dihydroxycinnamate + Oxygen <=> 2-Hydroxy-6-ketononatrienedioate",
+    "equation": "C12623 + C00007 <=> C12624",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.16"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K05713": "2,3-dihydroxyphenylpropionate 1,2-dioxygenase [EC:1.13.11.16]"
+    }
+  }
+]

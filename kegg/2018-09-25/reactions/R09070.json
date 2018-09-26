@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09070",
+    "name": "7(1)-hydroxychlorophyll-a:NADP+ oxidoreductase",
+    "definition": "7(1)-Hydroxychlorophyll a + NADP+ <=> Chlorophyll b + NADPH + H+",
+    "equation": "C18151 + C00006 <=> C05307 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.294"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13606": "chlorophyll(ide) b reductase [EC:1.1.1.294]"
+    }
+  }
+]

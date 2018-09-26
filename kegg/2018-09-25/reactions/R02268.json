@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02268",
+    "name": "(5Z,13E)-(15S)-9alpha,11alpha-Epidioxy-15-hydroxyprosta-5,13-thromboxane-A2-isomerase",
+    "definition": "Prostaglandin H2 <=> Thromboxane A2",
+    "equation": "C00427 <=> C02198",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.99.5"
+    ],
+    "pathways": {
+      "rn00590": "Arachidonic acid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01832": "thromboxane-A synthase [EC:5.3.99.5]"
+    }
+  }
+]

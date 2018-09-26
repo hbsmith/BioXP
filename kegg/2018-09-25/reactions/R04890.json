@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04890",
+    "name": "3-Methoxytyramine:oxygen oxidoreductase (deaminating) (copper-containing)",
+    "definition": "3-Methoxytyramine + H2O + Oxygen <=> 3-Methoxy-4-hydroxyphenylacetaldehyde + Hydrogen peroxide + Ammonia",
+    "equation": "C05587 + C00001 + C00007 <=> C05581 + C00027 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.4"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00274": "monoamine oxidase [EC:1.4.3.4]"
+    }
+  }
+]

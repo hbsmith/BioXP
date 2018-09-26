@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00828",
+    "name": "2-nitrophenol,NADPH:oxygen 2-oxidoreductase (2-hydroxylating, nitrite-forming)",
+    "definition": "2-Nitrophenol + Oxygen + 2 NADPH + 2 H+ <=> Catechol + Nitrite + 2 NADP+ + H2O",
+    "equation": "C01988 + C00007 + 2 C00005 + 2 C00080 <=> C00090 + C00088 + 2 C00006 + C00001",
+    "comment": "possibly intermediate (see [CPD:C02351])",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.31"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

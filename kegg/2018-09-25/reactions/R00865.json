@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00865",
+    "name": "D-Mannitol:ferricytochrome-c 2-oxidoreductase",
+    "definition": "Mannitol + 2 Ferricytochrome c <=> D-Fructose + 2 Ferrocytochrome c + 2 H+",
+    "equation": "C00392 + 2 C00125 <=> C00095 + 2 C00126 + 2 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.2.2"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

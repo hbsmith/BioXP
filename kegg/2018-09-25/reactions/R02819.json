@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R02819",
+    "name": "Alditol:NAD+ 1-oxidoreductase",
+    "definition": "Alditol + NAD+ <=> Aldose + NADH + H+",
+    "equation": "C00717 + C00003 <=> C01370 + C00004 + C00080",
+    "comment": "general reaction (see R01036, R01093 and R01758) NADP+ (see R02820)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.21"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

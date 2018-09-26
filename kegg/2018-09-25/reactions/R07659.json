@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07659",
+    "name": "",
+    "definition": "UDP-L-Ara4O + L-Glutamate <=> UDP-L-Ara4N + 2-Oxoglutarate",
+    "equation": "C16155 + C00025 <=> C16153 + C00026",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.87"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K07806": "UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase [EC:2.6.1.87]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10783",
+    "name": "3-hexenol:NAD+ oxidoreductase",
+    "definition": "3-Hexenal + NADH + H+ <=> 3-Hexenol + NAD+",
+    "equation": "C16310 + C00004 + C00080 <=> C08492 + C00003",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.1"
+    ],
+    "pathways": {
+      "rn00592": "alpha-Linolenic acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K18857": "alcohol dehydrogenase class-P [EC:1.1.1.1]"
+    }
+  }
+]

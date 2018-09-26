@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08544",
+    "name": "D-galactose:NAD+ 1-oxidoreductase",
+    "definition": "D-Galactose + NAD+ <=> D-Galactono-1,5-lactone + NADH + H+",
+    "equation": "C00124 + C00003 <=> C02669 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.48",
+      "1.1.1.121",
+      "1.1.1.359"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism"
+    },
+    "orthologs": {
+      "K18125": "aldose 1-dehydrogenase [NAD(P)+] [EC:1.1.1.359]"
+    }
+  }
+]

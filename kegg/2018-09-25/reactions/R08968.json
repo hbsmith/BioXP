@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08968",
+    "name": "ATP:N-acetyl-D-glucosamine 1-phosphotransferase",
+    "definition": "N-Acetyl-D-glucosamine + ATP <=> N-Acetyl-alpha-D-glucosamine 1-phosphate + ADP",
+    "equation": "C00140 + C00002 <=> C04501 + C00008",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.162",
+      "2.7.1.-"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K07102": "anomeric MurNAc/GlcNAc kinase [EC:2.7.1.-]"
+    }
+  }
+]

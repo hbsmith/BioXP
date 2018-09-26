@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00044",
+    "name": "columbamine:oxygen oxidoreductase (cyclizing)",
+    "definition": "2 Columbamine + Oxygen <=> 2 Berberine + 2 H2O",
+    "equation": "2 C01795 + C00007 <=> 2 C00757 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.21.3.2"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

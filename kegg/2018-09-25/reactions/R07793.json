@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07793",
+    "name": "",
+    "definition": "4-Chloroaniline + Oxygen + 2 H+ <=> 4-Chlorocatechol + Ammonia",
+    "equation": "C14450 + C00007 + 2 C00080 <=> C02375 + C00014",
+    "comment": "aniline oxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "pathways": {
+      "rn00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

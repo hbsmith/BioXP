@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C21167",
+    "name": "4-Hydroxy-3-methylbenzoate",
+    "names": [
+      "4-Hydroxy-3-methylbenzoate",
+      "4-Hydroxy-m-toluate"
+    ],
+    "formula": "C8H8O3",
+    "exact_mass": 152.0473,
+    "mol_weight": 152.1473,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11195",
+      "R11196"
+    ],
+    "pathways": {
+      "map00623": "Toluene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.2.1.96"
+    ],
+    "dblinks": {
+      "CAS": [
+        "499-76-3"
+      ],
+      "PubChem": [
+        "313369427"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    16.8011  -17.2211\n            2   C8x C    16.8011  -15.8211\n            3   C8y C    17.9912  -15.1210\n            4   C8x C    19.1813  -15.8211\n            5   C8y C    19.1813  -17.2211\n            6   C8y C    17.9912  -17.9212\n            7   O1a O    17.9912  -19.3213\n            8   C1a C    20.4413  -17.9912\n            9   C6a C    17.9912  -13.7209\n            10  O6a O    19.2037  -13.0209\n            11  O6a O    16.7775  -13.0202\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     3   9 1\n            10    9  10 2\n            11    9  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

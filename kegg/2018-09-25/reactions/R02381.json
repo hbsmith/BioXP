@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02381",
+    "name": "Sinapoylcholine sinapohydrolase",
+    "definition": "Sinapine + H2O <=> Sinapate + Choline",
+    "equation": "C00933 + C00001 <=> C00482 + C00114",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.49"
+    ],
+    "pathways": {
+      "rn00940": "Phenylpropanoid biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

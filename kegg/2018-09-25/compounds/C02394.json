@@ -1,0 +1,61 @@
+[
+  {
+    "entry_id": "C02394",
+    "name": "Cinnamyl alcohol",
+    "names": [
+      "Cinnamyl alcohol",
+      "3-Phenyl-2-propen-1-ol",
+      "Styrylcarbinol"
+    ],
+    "formula": "C9H10O",
+    "exact_mass": 134.0732,
+    "mol_weight": 134.1751,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03054",
+      "R10474"
+    ],
+    "pathways": {
+      "map01060": "Biosynthesis of plant secondary metabolites",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.1.1.195",
+      "2.3.1.224"
+    ],
+    "dblinks": {
+      "CAS": [
+        "104-54-1"
+      ],
+      "PubChem": [
+        "5428"
+      ],
+      "ChEBI": [
+        "17177",
+        "33227"
+      ],
+      "ChEMBL": [
+        "CHEMBL324794"
+      ],
+      "KNApSAcK": [
+        "C00032375",
+        "C00042390"
+      ],
+      "3DMET": [
+        "B00439"
+      ],
+      "NIKKAJI": [
+        "J106.769I",
+        "J9.304A"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    11.0600  -16.8000\n            2   C8x C    11.0600  -18.2000\n            3   C8x C    12.2724  -18.9000\n            4   C8x C    13.4849  -18.2000\n            5   C8y C    13.4849  -16.8000\n            6   C8x C    12.2724  -16.1000\n            7   C2b C    14.7224  -16.1000\n            8   C2b C    15.9349  -16.8000\n            9   C1b C    17.1473  -16.1000\n            10  O1a O    18.3597  -16.8000\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

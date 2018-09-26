@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C11846",
+    "name": "Cyclo(deltaAla-L-Val)",
+    "names": [
+      "Cyclo(deltaAla-L-Val)"
+    ],
+    "formula": "C8H12N2O2",
+    "exact_mass": 168.0899,
+    "mol_weight": 168.1931,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "14008"
+      ],
+      "ChEBI": [
+        "29563"
+      ],
+      "NIKKAJI": [
+        "J1.213.649H"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   N1x N    29.8129  -18.8184\n            2   C5x C    28.5972  -18.1245\n            3   C1y C    27.3850  -18.8245\n            4   N1x N    27.3885  -20.2250\n            5   C5x C    28.6042  -20.9259\n            6   C2y C    29.8164  -20.2190\n            7   C2a C    31.0408  -20.9046\n            8   O5x O    28.6303  -22.3239\n            9   O5x O    28.6648  -16.7241\n            10  C1c C    26.1780  -18.1277\n            11  C1a C    26.1755  -16.7274\n            12  C1a C    24.9709  -18.8308\nBOND        12\n            1     6   7 2\n            2     1   2 1\n            3     5   8 2\n            4     2   3 1\n            5     2   9 2\n            6     3   4 1\n            7     3  10 1 #Up\n            8     4   5 1\n            9    10  11 1\n            10    5   6 1\n            11   10  12 1\n            12    6   1 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

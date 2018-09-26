@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C05590",
+    "name": "Hydroiodic acid",
+    "names": [
+      "Hydroiodic acid",
+      "Hydrogen iodide"
+    ],
+    "formula": "HI",
+    "exact_mass": 127.9123,
+    "mol_weight": 127.9124,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03539",
+      "R03973",
+      "R08520",
+      "R08521"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.11.1.8"
+    ],
+    "dblinks": {
+      "CAS": [
+        "10034-85-2"
+      ],
+      "PubChem": [
+        "7915"
+      ],
+      "ChEBI": [
+        "43451"
+      ],
+      "ChEMBL": [
+        "CHEMBL1233550"
+      ],
+      "NIKKAJI": [
+        "J95.185D"
+      ]
+    },
+    "kcf": "ATOM        1\n            1   X   I    23.7300  -19.3900\nBOND        0\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

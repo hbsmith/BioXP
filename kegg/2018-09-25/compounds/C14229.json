@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C14229",
+    "name": "Propanil",
+    "names": [
+      "Propanil",
+      "DCPA",
+      "N-(3,4-Dichlorophenyl)propanamide"
+    ],
+    "formula": "C9H9Cl2NO",
+    "exact_mass": 217.0061,
+    "mol_weight": 218.0799,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "709-98-8"
+      ],
+      "PubChem": [
+        "7847039"
+      ],
+      "ChEBI": [
+        "34936"
+      ],
+      "ChEMBL": [
+        "CHEMBL1222498"
+      ],
+      "NIKKAJI": [
+        "J4.405I"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    26.5888  -15.8835\n            2   C8x C    25.3758  -16.6100\n            3   C8x C    27.8208  -17.9676\n            4   C8y C    27.8114  -16.5623\n            5   C8y C    25.3852  -18.0153\n            6   C8y C    26.6078  -18.6941\n            7   N1b N    28.9936  -15.8985\n            8   X   Cl   26.6173  -20.0994\n            9   C5a C    30.1988  -16.6137\n            10  C1b C    31.4004  -15.9386\n            11  O5a O    30.1822  -18.0090\n            12  C1a C    32.6150  -16.6597\n            13  X   Cl   24.1675  -18.7379\nBOND        13\n            1     1   2 2\n            2     1   4 1\n            3     2   5 1\n            4     3   4 2\n            5     3   6 1\n            6     4   7 1\n            7     5   6 2\n            8     6   8 1\n            9     7   9 1\n            10    9  10 1\n            11    9  11 2\n            12   10  12 1\n            13    5  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

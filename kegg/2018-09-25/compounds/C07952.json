@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C07952",
+    "name": "Chlorpromazine hydrochloride",
+    "names": [
+      "Chlorpromazine hydrochloride",
+      "Chloropromazine monohydrochloride"
+    ],
+    "formula": "C17H19ClN2S. HCl",
+    "exact_mass": 354.0724,
+    "mol_weight": 355.3251,
+    "remark": "Same as: D00789",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "69-09-0"
+      ],
+      "PubChem": [
+        "10153"
+      ],
+      "ChEBI": [
+        "3649"
+      ],
+      "ChEMBL": [
+        "CHEMBL1713"
+      ],
+      "NIKKAJI": [
+        "J237.634B"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C8x C    21.4268  -17.0417\n            2   C8x C    21.4268  -18.4443\n            3   C8x C    22.6414  -19.1456\n            4   C8y C    23.8562  -18.4443\n            5   C8y C    23.8562  -17.0417\n            6   C8x C    22.6414  -16.3404\n            7   S2x S    25.0709  -19.1456\n            8   C8y C    26.2856  -18.4443\n            9   C8y C    26.2856  -17.0417\n            10  N4y N    25.0709  -16.3404\n            11  C8x C    27.5005  -19.1456\n            12  C8x C    28.7151  -18.4443\n            13  C8y C    28.7151  -17.0417\n            14  C8x C    27.5005  -16.3404\n            15  C1b C    25.0709  -14.9377\n            16  C1b C    26.2877  -14.2352\n            17  C1b C    27.4865  -14.9275\n            18  N1c N    28.6756  -14.2410\n            19  C1a C    29.8693  -14.9305\n            20  C1a C    28.6758  -12.8340\n            21  X   Cl   29.9339  -16.3381\n            22  X   Cl   32.8304  -17.7102\nBOND        23\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    5  10 1\n            12    8  11 2\n            13   11  12 1\n            14   12  13 2\n            15   13  14 1\n            16    9  14 2\n            17   10  15 1\n            18   15  16 1\n            19   16  17 1\n            20   17  18 1\n            21   18  19 1\n            22   18  20 1\n            23   13  21 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

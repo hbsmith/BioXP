@@ -1,0 +1,27 @@
+[
+  {
+    "entry_id": "R00158",
+    "name": "ATP:UMP phosphotransferase",
+    "definition": "ATP + UMP <=> ADP + UDP",
+    "equation": "C00002 + C00105 <=> C00008 + C00015",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.4",
+      "2.7.4.14",
+      "2.7.4.22"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00945": "CMP/dCMP kinase [EC:2.7.4.25]",
+      "K09903": "uridylate kinase [EC:2.7.4.22]",
+      "K13799": "pantoate ligase / CMP/dCMP kinase [EC:6.3.2.1 2.7.4.25]",
+      "K13800": "UMP-CMP kinase [EC:2.7.4.- 2.7.4.14]",
+      "K13809": "UMP-CMP kinase 2, mitochondrial [EC:2.7.4.14]"
+    }
+  }
+]

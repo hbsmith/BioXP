@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08230",
+    "name": "5-fluorodeoxyuridine:phosphate deoxy-alpha-D-ribosyltransferase",
+    "definition": "5-FU + 2-Deoxy-D-ribose 1-phosphate <=> 5-Fluorodeoxyuridine + Orthophosphate",
+    "equation": "C07649 + C00672 <=> C11736 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.2.4"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K00758": "thymidine phosphorylase [EC:2.4.2.4]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09206",
+    "name": "",
+    "definition": "4,5-Dihydroxybenzo[a]pyrene + Oxygen <=> 4,5-Chrysenedicarboxylate",
+    "equation": "C18279 + C00007 <=> C18277",
+    "comment": "4,5-dihydroxybenzo[a]pyrene dioxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.-"
+    ],
+    "pathways": {
+      "rn00624": "Polycyclic aromatic hydrocarbon degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

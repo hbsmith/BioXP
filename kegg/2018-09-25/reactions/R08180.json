@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08180",
+    "name": "",
+    "definition": "(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoyl-CoA + H2O <=> CoA + (4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid",
+    "equation": "C16169 + C00001 <=> C00010 + C06429",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.2.2"
+    ],
+    "pathways": {
+      "rn01040": "Biosynthesis of unsaturated fatty acids"
+    },
+    "orthologs": {
+      "K01068": "acyl-coenzyme A thioesterase 1/2/4 [EC:3.1.2.2]"
+    }
+  }
+]

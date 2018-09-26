@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00771",
+    "name": "D-glucose-6-phosphate aldose-ketose-isomerase",
+    "definition": "D-Glucose 6-phosphate <=> D-Fructose 6-phosphate",
+    "equation": "C00092 <=> C00085",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.1.9"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

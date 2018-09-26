@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06682",
+    "name": "aklavinone:NADP+ 7-oxidoreductase",
+    "definition": "Aklaviketone + NADPH + H+ <=> Aklavinone + NADP+",
+    "equation": "C12423 + C00005 + C00080 <=> C12424 + C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.362"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15944": "nogalaviketone/aklaviketone reductase [EC:1.1.1.- 1.1.1.362]"
+    }
+  }
+]

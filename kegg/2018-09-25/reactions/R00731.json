@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R00731",
+    "name": "L-Tyrosine:oxygen oxidoreductase",
+    "definition": "L-Tyrosine + Oxygen <=> 3,4-Dihydroxy-L-phenylalanine + H2O",
+    "equation": "C00082 + C00007 <=> C00355 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.18.1"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn00965": "Betalain biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00505": "tyrosinase [EC:1.14.18.1]"
+    }
+  }
+]

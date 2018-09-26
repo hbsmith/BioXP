@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10679",
+    "name": "N-acetyl-L-aspartate:L-glutamate ligase (ADP, N-acetyl-L-aspartyl-L-glutamyl-L-glutamate-forming)",
+    "definition": "2 ATP + N-Acetyl-L-aspartate + 2 L-Glutamate <=> 2 ADP + 2 Orthophosphate + N-Acetylaspartylglutamylglutamate",
+    "equation": "2 C00002 + C01042 + 2 C00025 <=> 2 C00008 + 2 C00009 + C20776",
+    "comment": "two-step reaction (see R10678+R10693)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.42"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K18311": "N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase [EC:6.3.2.41 6.3.2.42]"
+    }
+  }
+]

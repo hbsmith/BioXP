@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C17349",
+    "name": "Guanidine",
+    "names": [
+      "Guanidine",
+      "Carbamidine"
+    ],
+    "formula": "CH5N3",
+    "exact_mass": 59.0483,
+    "mol_weight": 59.0705,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09785",
+      "R10082"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.11.34"
+    ],
+    "dblinks": {
+      "CAS": [
+        "113-00-8"
+      ],
+      "PubChem": [
+        "135626098"
+      ],
+      "ChEMBL": [
+        "CHEMBL821"
+      ],
+      "PDB-CCD": [
+        "GAI"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   N1a N    19.6700  -18.3400\n            2   C2c C    20.8824  -19.0400\n            3   N1a N    22.0779  -18.3496\n            4   N2a N    20.8825  -20.4398\nBOND        3\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

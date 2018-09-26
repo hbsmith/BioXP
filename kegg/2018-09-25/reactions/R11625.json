@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11625",
+    "name": "cis-3-hydroxy-L-proline hydro-lyase (1-pyrroline-2-carboxylate-forming)",
+    "definition": "cis-3-Hydroxy-L-proline <=> 1-Pyrroline-2-carboxylate + H2O",
+    "equation": "C19706 <=> C03564 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.171"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism"
+    },
+    "orthologs": {
+      "K21624": "cis-L-3-hydroxyproline dehydratase [EC:4.2.1.171]"
+    }
+  }
+]

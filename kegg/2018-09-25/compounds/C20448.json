@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C20448",
+    "name": "5-Hydroxymethyl-2-furoate",
+    "names": [
+      "5-Hydroxymethyl-2-furoate",
+      "5-Hydroxymethyl-2-furoic acid"
+    ],
+    "formula": "C6H6O4",
+    "exact_mass": 142.0266,
+    "mol_weight": 142.1094,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10216"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "6338-41-6"
+      ],
+      "PubChem": [
+        "163312185"
+      ],
+      "ChEBI": [
+        "89118"
+      ],
+      "ChEMBL": [
+        "CHEMBL468037"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    19.3548  -17.2872\n            2   C8y C    19.7905  -15.9568\n            3   O2x O    18.6549  -15.1308\n            4   C8y C    17.5194  -15.9568\n            5   C8x C    17.9549  -17.2872\n            6   C1b C    16.3077  -15.2511\n            7   O1a O    15.0988  -15.9510\n            8   C6a C    20.9950  -15.2511\n            9   O6a O    22.2039  -15.9510\n            10  O6a O    20.9914  -13.8600\nBOND        10\n            1     4   5 2\n            2     5   1 1\n            3     4   6 1\n            4     1   2 2\n            5     6   7 1\n            6     2   3 1\n            7     2   8 1\n            8     3   4 1\n            9     8   9 1\n            10    8  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

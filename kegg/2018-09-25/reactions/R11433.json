@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11433",
+    "name": "",
+    "definition": "NDP-2-amino-4-oxo-2,6-dideoxy-D-galactose <=> NDP-2-amino-2,6-dideoxy-D-galactose",
+    "equation": "C21317 <=> C21318",
+    "comment": "proposed pathway unclear reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21214": "NDP-hexose 4-ketoreductase"
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C02718",
+    "name": "N-Formiminoglycine",
+    "names": [
+      "N-Formiminoglycine",
+      "Formiminoglycine",
+      "N-Formimidoylglycine"
+    ],
+    "formula": "C3H6N2O2",
+    "exact_mass": 102.0429,
+    "mol_weight": 102.0919,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02729",
+      "R04026"
+    ],
+    "pathways": {
+      "map00230": "Purine metabolism"
+    },
+    "enzymes": [
+      "2.1.2.4",
+      "3.5.2.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "2140-03-6"
+      ],
+      "PubChem": [
+        "5681"
+      ],
+      "ChEBI": [
+        "18415"
+      ],
+      "3DMET": [
+        "B00489"
+      ],
+      "NIKKAJI": [
+        "J2.359.626A"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1b C    27.1311  -19.5608\n            2   C6a C    28.3043  -20.2410\n            3   N1b N    25.7544  -20.2410\n            4   O6a O    28.3043  -21.7307\n            5   O6a O    29.4775  -19.5547\n            6   C2b C    24.6428  -19.5608\n            7   N2a N    23.4696  -20.2410\nBOND        6\n            1     1   2 1\n            2     1   3 1\n            3     2   4 2\n            4     2   5 1\n            5     3   6 1\n            6     6   7 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10868",
+    "name": "3'-phospho-5'-adenylyl sulfate:[dermatan]-4-O-sulfo-N-acetyl-D-galactosamine 6-O-sulfotransferase",
+    "definition": "3'-Phosphoadenylyl sulfate + Dermatan 4-sulfate <=> Adenosine 3',5'-bisphosphate + Dermatan 4,6-sulfate",
+    "equation": "C00053 + C20908 <=> C00054 + C20909",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.2.33"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K08106": "N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase [EC:2.8.2.33]"
+    }
+  }
+]

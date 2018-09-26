@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07317",
+    "name": "2,7,4'-trihydroxyisoflavanone hydro-lyase (daidzein-forming)",
+    "definition": "2,7,4'-Trihydroxyisoflavanone <=> Daidzein + H2O",
+    "equation": "C15567 <=> C10208 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.105"
+    ],
+    "pathways": {
+      "rn00943": "Isoflavonoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13258": "2-hydroxyisoflavanone dehydratase [EC:4.2.1.105]"
+    }
+  }
+]

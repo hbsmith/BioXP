@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C13415",
+    "name": "n-Butyl-2-cyanoacrylate",
+    "names": [
+      "n-Butyl-2-cyanoacrylate",
+      "Butyl 2-cyanoacrylate polymers",
+      "Histoacryl"
+    ],
+    "formula": "(C8H11NO2)mon",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "25154-80-7"
+      ],
+      "PubChem": [
+        "586157"
+      ],
+      "ChEBI": [
+        "53497"
+      ],
+      "ChEMBL": [
+        "CHEMBL2104251"
+      ],
+      "NIKKAJI": [
+        "J8.426C"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1b C     2.2875  -13.3458\n            2   C1b C     3.0042  -13.7583\n            3   C1b C     3.7167  -13.3500\n            4   O7a O     4.4334  -13.7625\n            5   C7a C     5.1500  -13.3541\n            6   C2c C     5.8667  -13.7666\n            7   C3b C     6.5834  -13.3583\n            8   C1a C     1.5684  -13.7574\n            9   O6a O     5.1518  -12.5250\n            10  C2a C     5.8649  -14.5958\n            11  N3a N     7.3000  -12.9417\nBOND        10\n            1     5   6 1\n            2     1   2 1\n            3     6   7 1\n            4     3   4 1\n            5     1   8 1\n            6     5   9 2\n            7     4   5 1\n            8     6  10 2\n            9     2   3 1\n            10    7  11 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

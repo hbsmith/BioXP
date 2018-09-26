@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01980",
+    "name": "ATP:D-galacturonate 1-phosphotransferase",
+    "definition": "ATP + D-Galacturonate <=> ADP + 1-Phospho-alpha-D-galacturonate",
+    "equation": "C00002 + C00333 <=> C00008 + C04037",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.44"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K18677": "galacturonokinase [EC:2.7.1.44]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01005",
+    "name": "UDPglucose:dolichyl-phosphate beta-D-glucosyltransferase",
+    "definition": "UDP-glucose + Dolichyl phosphate <=> UDP + Dolichyl beta-D-glucosyl phosphate",
+    "equation": "C00029 + C00110 <=> C00015 + C01246",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.117"
+    ],
+    "pathways": {
+      "rn00510": "N-Glycan biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00729": "dolichyl-phosphate beta-glucosyltransferase [EC:2.4.1.117]"
+    }
+  }
+]

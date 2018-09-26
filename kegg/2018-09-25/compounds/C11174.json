@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C11174",
+    "name": "1-Diphosinositol pentakisphosphate",
+    "names": [
+      "1-Diphosinositol pentakisphosphate",
+      "D-myo-Inositol, 2,3,4,5,6-pentakis(dihydrogen phosphate) 1-(trihydrogen diphosphate)",
+      "Diphospho-myo-inositol pentakisphosphate",
+      "1D-myo-Inositol 1-diphosphate 2,3,4,5,6-pentakisphosphate"
+    ],
+    "formula": "C6H19O27P7",
+    "exact_mass": 739.8277,
+    "mol_weight": 740.0152,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05799",
+      "R10548"
+    ],
+    "pathways": {
+      "map04070": "Phosphatidylinositol signaling system"
+    },
+    "enzymes": [
+      "2.7.4.21",
+      "2.7.4.24"
+    ],
+    "dblinks": {
+      "CAS": [
+        "148077-18-3"
+      ],
+      "PubChem": [
+        "13356"
+      ],
+      "ChEBI": [
+        "62919"
+      ],
+      "NIKKAJI": [
+        "J1.026.048E"
+      ]
+    },
+    "kcf": "ATOM        40\n            1   O2c O    29.0264  -19.9791\n            2   P1b P    30.3645  -20.0187\n            3   O1c O    31.7025  -19.9891\n            4   O1c O    30.3873  -21.3565\n            5   O1c O    30.3484  -18.6810\n            6   O2b O    26.3560  -19.9680\n            7   P1b P    27.6941  -19.9375\n            8   O1c O    27.7169  -21.2753\n            9   O1c O    27.7480  -18.5999\n            10  O1c O    22.7278  -22.6046\n            11  P1b P    24.0660  -22.6442\n            12  O1c O    25.4039  -22.6146\n            13  O1c O    24.0887  -23.9820\n            14  O2b O    24.0498  -21.3066\n            15  O1c O    19.0477  -19.9636\n            16  P1b P    20.3858  -19.9331\n            17  O2b O    21.7237  -19.9735\n            18  O1c O    20.3386  -21.2709\n            19  O1c O    20.3696  -18.5956\n            20  O1c O    19.7544  -17.4801\n            21  O1c O    18.4325  -16.0941\n            22  P1b P    19.7705  -16.1337\n            23  O2b O    21.1086  -16.1741\n            24  O1c O    19.7544  -14.7961\n            25  O2b O    27.0321  -16.0941\n            26  P1b P    28.3700  -16.1337\n            27  O1c O    29.7082  -16.1741\n            28  O1c O    28.3230  -17.4715\n            29  O1c O    28.3539  -14.7961\n            30  C1y C    22.8805  -17.9621\n            31  C1y C    22.8805  -19.3008\n            32  C1y C    24.0425  -19.9701\n            33  C1y C    25.1978  -19.3008\n            34  C1y C    25.1978  -17.9621\n            35  C1y C    24.0425  -17.2928\n            36  O2b O    24.0443  -15.9542\n            37  P1b P    24.0365  -14.6156\n            38  O1c O    24.0299  -13.2770\n            39  O1c O    25.3751  -14.6156\n            40  O1c O    22.6979  -14.6090\nBOND        40\n            1    11  12 1\n            2    22  23 1\n            3    22  20 2\n            4     6   7 1\n            5    22  24 1\n            6    11  13 2\n            7     7   1 1\n            8    25  26 1\n            9    11  14 1\n            10   26  27 1\n            11    2   4 1\n            12   26  28 2\n            13    7   8 1\n            14   26  29 1\n            15   15  16 1\n            16   16  17 1\n            17    7   9 2\n            18   16  18 1\n            19    2   5 2\n            20   30  31 1\n            21   31  32 1\n            22   32  33 1\n            23   33  34 1\n            24   34  35 1\n            25   35  30 1\n            26   34  25 1 #Up\n            27   30  23 1 #Up\n            28   16  19 2\n            29   35  36 1 #Down\n            30   32  14 1 #Down\n            31   33   6 1 #Down\n            32    2   3 1\n            33   36  37 1\n            34   10  11 1\n            35   37  38 2\n            36    1   2 1\n            37   37  39 1\n            38   21  22 1\n            39   37  40 1\n            40   31  17 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C18252",
+    "name": "Phenanthrene-4,5-dicarboxylate",
+    "names": [
+      "Phenanthrene-4,5-dicarboxylate"
+    ],
+    "formula": "C16H10O4",
+    "exact_mass": 266.0579,
+    "mol_weight": 266.2482,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09163",
+      "R09164",
+      "R09218"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.6.-.-",
+      "1.13.11.-",
+      "4.1.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "5462-82-8"
+      ],
+      "PubChem": [
+        "103061434"
+      ],
+      "ChEBI": [
+        "81603"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C8x C    23.6036  -18.6311\n            2   C8x C    23.6036  -20.0319\n            3   C8x C    24.8167  -20.7323\n            4   C8y C    26.0299  -20.0319\n            5   C8y C    26.0299  -18.6311\n            6   C8y C    24.8167  -17.9307\n            7   C8y C    27.2430  -17.9307\n            8   C8y C    27.2430  -16.5299\n            9   C8x C    26.0299  -15.8295\n            10  C8x C    24.8167  -16.5299\n            11  C8y C    28.4561  -18.6311\n            12  C8x C    29.6693  -17.9307\n            13  C8x C    29.6693  -16.5299\n            14  C8x C    28.4561  -15.8295\n            15  C6a C    28.4660  -19.8310\n            16  C6a C    26.0299  -21.4319\n            17  O6a O    24.8302  -22.1245\n            18  O6a O    27.2446  -22.1333\n            19  O6a O    29.6930  -20.5261\n            20  O6a O    27.4263  -20.5249\nBOND        22\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     5   7 2\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    6  10 2\n            12    7  11 1\n            13   11  12 2\n            14   12  13 1\n            15   13  14 2\n            16    8  14 1\n            17   11  15 1\n            18    4  16 1\n            19   16  17 2\n            20   16  18 1\n            21   15  19 2\n            22   15  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10099",
+    "name": "acetyl-CoA:UDP-4-amino-4,6-dideoxy-N-acetyl-alpha-D-glucosamine N-acetyltransferase; acetyl-CoA:UDP-2-acetamido-4-amino-2,4,6-trideoxyglucose 4-N-acetyltransferase",
+    "definition": "UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucose + Acetyl-CoA <=> UDP-N,N'-Diacetylbacillosamine + CoA",
+    "equation": "C04630 + C00024 <=> C20357 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.203"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K15913": "UDP-N-acetylbacillosamine N-acetyltransferase [EC:2.3.1.203]"
+    }
+  }
+]

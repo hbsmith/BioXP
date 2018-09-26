@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R06458",
+    "name": "(2S)-methylmalonyl-CoA:malonyl-CoA malonyltransferase (10-deoxymethynolide forming)",
+    "definition": "5 (S)-Methylmalonyl-CoA + Malonyl-CoA + 5 NADPH + 5 H+ <=> 10-Deoxymethynolide + 6 CoA + 6 CO2 + 5 NADP+ + 2 H2O",
+    "equation": "5 C00683 + C00083 + 5 C00005 + 5 C00080 <=> C11993 + 6 C00010 + 6 C00011 + 5 C00006 + 2 C00001",
+    "comment": "type I polyketide synthase,PikA1-3",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.239"
+    ],
+    "pathways": {
+      "rn00522": "Biosynthesis of 12-, 14- and 16-membered macrolides",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16000": "narbonolide/10-deoxymethynolide synthase [EC:2.3.1.240 2.3.1.239]",
+      "K16001": "narbonolide/10-deoxymethynolide synthase [EC:2.3.1.240 2.3.1.239]",
+      "K16002": "narbonolide/10-deoxymethynolide synthase [EC:2.3.1.240 2.3.1.239]"
+    }
+  }
+]

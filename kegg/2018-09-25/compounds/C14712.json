@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C14712",
+    "name": "2,5-Dichloroaniline",
+    "names": [
+      "2,5-Dichloroaniline",
+      "1-Amino-2,5-dichlorobenzene",
+      "2,5-DCA"
+    ],
+    "formula": "C6H5Cl2N",
+    "exact_mass": 160.9799,
+    "mol_weight": 162.0166,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "95-82-9"
+      ],
+      "PubChem": [
+        "17395711"
+      ],
+      "ChEBI": [
+        "34245"
+      ],
+      "ChEMBL": [
+        "CHEMBL1406206"
+      ],
+      "NIKKAJI": [
+        "J43.171K"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    19.3900  -15.3300\n            2   C8y C    19.3900  -16.7300\n            3   C8x C    20.6024  -17.4300\n            4   C8x C    21.8149  -16.7300\n            5   C8y C    21.8149  -15.3300\n            6   C8y C    20.6024  -14.6300\n            7   N1a N    20.6024  -13.2302\n            8   X   Cl   23.0460  -14.6190\n            9   X   Cl   18.1776  -17.4300\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     2   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

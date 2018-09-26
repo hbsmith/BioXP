@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07533",
+    "name": "demethylspheroidene O-methyltransferase",
+    "definition": "Chloroxanthin + S-Adenosyl-L-methionine <=> 3,4-Dihydrospheroidene + S-Adenosyl-L-homocysteine",
+    "equation": "C15892 + C00019 <=> C15895 + C00021",
+    "comment": "crtF",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.210"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K09846": "demethylspheroidene O-methyltransferase [EC:2.1.1.210]"
+    }
+  }
+]

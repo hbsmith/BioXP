@@ -1,0 +1,76 @@
+[
+  {
+    "entry_id": "C01477",
+    "name": "Apigenin",
+    "names": [
+      "Apigenin",
+      "4',5,7-Trihydroxyflavone",
+      "5,7,4'-Trihydroxyflavone"
+    ],
+    "formula": "C15H10O5",
+    "exact_mass": 270.0528,
+    "mol_weight": 270.2369,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02445",
+      "R03571",
+      "R03574",
+      "R06537",
+      "R06792",
+      "R06822",
+      "R06825"
+    ],
+    "pathways": {
+      "map00941": "Flavonoid biosynthesis",
+      "map00943": "Isoflavonoid biosynthesis",
+      "map00944": "Flavone and flavonol biosynthesis",
+      "map01061": "Biosynthesis of phenylpropanoids",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.11.22",
+      "1.14.13.21",
+      "1.14.13.88",
+      "2.1.1.75",
+      "2.4.1.81"
+    ],
+    "dblinks": {
+      "CAS": [
+        "520-36-5"
+      ],
+      "PubChem": [
+        "4649"
+      ],
+      "ChEBI": [
+        "18388"
+      ],
+      "ChEMBL": [
+        "CHEMBL28"
+      ],
+      "LIPIDMAPS": [
+        "LMPK12110005"
+      ],
+      "KNApSAcK": [
+        "C00003817"
+      ],
+      "PDB-CCD": [
+        "AGI"
+      ],
+      "3DMET": [
+        "B00300"
+      ],
+      "NIKKAJI": [
+        "J6.601J"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C8y C    23.7905  -16.7751\n            2   C8y C    23.7728  -15.3710\n            3   C8y C    24.9031  -17.5151\n            4   C8y C    22.4911  -17.4276\n            5   O2x O    25.0138  -14.7185\n            6   C8x C    22.5961  -14.6253\n            7   C8x C    26.2141  -16.8683\n            8   O5x O    24.9208  -18.9133\n            9   C8x C    21.3785  -16.6877\n            10  O1a O    22.4445  -18.8258\n            11  C8y C    26.2024  -15.4701\n            12  C8y C    21.3551  -15.2894\n            13  C8y C    27.5132  -14.8118\n            14  O1a O    20.1667  -14.5437\n            15  C8x C    27.4898  -13.4135\n            16  C8x C    28.6318  -15.5574\n            17  C8x C    28.7308  -12.7551\n            18  C8x C    29.8668  -14.8932\n            19  C8y C    29.9135  -13.4951\n            20  O1a O    31.1487  -12.8425\nBOND        22\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     3   8 2\n            8     4   9 1\n            9     4  10 1\n            10    5  11 1\n            11    6  12 1\n            12   11  13 1\n            13   12  14 1\n            14   13  15 2\n            15   13  16 1\n            16   15  17 1\n            17   16  18 2\n            18   17  19 2\n            19   19  20 1\n            20    7  11 2\n            21    9  12 2\n            22   18  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

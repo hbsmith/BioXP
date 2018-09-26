@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05586",
+    "name": "",
+    "definition": "3-Oxopimeloyl-CoA + CoA <=> Glutaryl-CoA + Acetyl-CoA",
+    "equation": "C06715 + C00010 <=> C00527 + C00024",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.16"
+    ],
+    "pathways": {
+      "rn00362": "Benzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00632": "acetyl-CoA acyltransferase [EC:2.3.1.16]"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03456",
+    "name": "S-Adenosyl-L-methionine:3',4',5-trihydroxy-3,7-dimethoxyflavone 4'-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 3,7-Di-O-methylquercetin <=> S-Adenosyl-L-homocysteine + 3,7,4'-Tri-O-methylquercetin",
+    "equation": "C00019 + C01265 <=> C00021 + C04444",
+    "comment": "3,7-dimethylquercitin 4'-O-methyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.83"
+    ],
+    "pathways": {
+      "rn00944": "Flavone and flavonol biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

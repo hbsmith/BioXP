@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C18315",
+    "name": "4-Methyl-5-nitrocatechol",
+    "names": [
+      "4-Methyl-5-nitrocatechol"
+    ],
+    "formula": "C7H7NO4",
+    "exact_mass": 169.0375,
+    "mol_weight": 169.1348,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09233",
+      "R09234",
+      "R11150"
+    ],
+    "pathways": {
+      "map00633": "Nitrotoluene degradation",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.14.12.24",
+      "1.14.13.210"
+    ],
+    "dblinks": {
+      "CAS": [
+        "68906-21-8"
+      ],
+      "PubChem": [
+        "103061497"
+      ],
+      "ChEBI": [
+        "81666"
+      ],
+      "ChEMBL": [
+        "CHEMBL288833"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    23.1000  -15.1900\n            2   C8y C    23.1000  -16.5900\n            3   C8y C    24.3124  -17.2900\n            4   C8x C    25.5249  -16.5900\n            5   C8y C    25.5249  -15.1900\n            6   C8y C    24.3124  -14.4900\n            7   C1a C    24.3124  -13.0902\n            8   N2b N    26.7560  -14.4790 #+\n            9   O1a O    21.8876  -17.2900\n            10  O1a O    24.3124  -18.6898\n            11  O3a O    27.9612  -15.1747\n            12  O3a O    26.7557  -13.0901 #-\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     2   9 1\n            10    3  10 1\n            11    8  11 2\n            12    8  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R04457",
+    "name": "5-amino-6-(D-ribitylamino)uracil butanedionetransferase",
+    "definition": "5-Amino-6-(1-D-ribitylamino)uracil + L-3,4-Dihydroxybutan-2-one 4-phosphate <=> 6,7-Dimethyl-8-(D-ribityl)lumazine + 2 H2O + Orthophosphate",
+    "equation": "C04732 + C15556 <=> C04332 + 2 C00001 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.78"
+    ],
+    "pathways": {
+      "rn00740": "Riboflavin metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00794": "6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]"
+    }
+  }
+]

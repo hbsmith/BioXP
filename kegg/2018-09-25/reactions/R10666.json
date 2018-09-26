@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10666",
+    "name": "chorismate hydro-lyase (3-[(1-carboxyvinyl)oxy]benzoate-forming)",
+    "definition": "Chorismate <=> 3-[(1-Carboxyvinyl)oxy]benzoate + H2O",
+    "equation": "C00251 <=> C20772 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.151"
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K11782": "chorismate dehydratase [EC:4.2.1.151]"
+    }
+  }
+]

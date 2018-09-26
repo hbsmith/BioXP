@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C19502",
+    "name": "Polychloroprene",
+    "names": [
+      "Polychloroprene"
+    ],
+    "formula": "(C4H5Cl)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "polymer of Chloroprene [CPD:C19208]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "9010-98-4"
+      ],
+      "PubChem": [
+        "124490174"
+      ],
+      "ChEBI": [
+        "53724"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   X   Cl   12.0400  -18.7600\n            2   C2c C    13.2524  -18.0600\n            3   C2b C    14.4649  -18.7600\n            4   C2a C    15.6773  -18.0600\n            5   C2a C    13.2524  -16.6602\nBOND        4\n            1     1   2 1\n            2     2   3 1\n            3     3   4 2\n            4     2   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02863",
+    "name": "Thiamin:beta 2-methyl-4-aminopyrimidine-5-methenyltransferase",
+    "definition": "Thiamine + Pyridine <=> Heteropyrithiamine + 5-(2-Hydroxyethyl)-4-methylthiazole",
+    "equation": "C00378 + C00747 <=> C02691 + C04294",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.2"
+    ],
+    "pathways": {
+      "rn00730": "Thiamine metabolism"
+    },
+    "orthologs": {
+      "K10811": "thiamine pyridinylase [EC:2.5.1.2]"
+    }
+  }
+]

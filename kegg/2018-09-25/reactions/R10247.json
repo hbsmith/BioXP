@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10247",
+    "name": "1-deoxy-D-xylulose 5-phosphate:thiol sulfurtransferase",
+    "definition": "1-Deoxy-D-xylulose 5-phosphate + Iminoglycine + Thiocarboxy-[sulfur-carrier protein] <=> 2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate + Sulfur-carrier protein + 2 H2O",
+    "equation": "C11437 + C15809 + C15814 <=> C20246 + C15810 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.1.10"
+    ],
+    "pathways": {
+      "rn00730": "Thiamine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03149": "thiazole synthase [EC:2.8.1.10]"
+    }
+  }
+]

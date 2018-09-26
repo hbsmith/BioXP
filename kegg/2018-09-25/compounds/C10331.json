@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C10331",
+    "name": "2,6-Dimethoxybenzoquinone",
+    "names": [
+      "2,6-Dimethoxybenzoquinone",
+      "2,6-Dimetoxy-p-benzoquinone"
+    ],
+    "formula": "C8H8O4",
+    "exact_mass": 168.0423,
+    "mol_weight": 168.1467,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "530-55-2"
+      ],
+      "PubChem": [
+        "12517"
+      ],
+      "ChEBI": [
+        "27651"
+      ],
+      "ChEMBL": [
+        "CHEMBL448515"
+      ],
+      "KNApSAcK": [
+        "C00000258"
+      ],
+      "PDB-CCD": [
+        "KIA"
+      ],
+      "3DMET": [
+        "B03748"
+      ],
+      "NIKKAJI": [
+        "J6.704K"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C2y C    35.7912  -25.9648\n            2   C5x C    34.5800  -25.2717\n            3   C2x C    35.7855  -27.3683\n            4   O2a O    37.0084  -25.2717\n            5   C2y C    33.3629  -25.9648\n            6   O5x O    34.5857  -23.8683\n            7   C5x C    34.5800  -28.0728\n            8   C1a C    38.2197  -25.9765\n            9   C2x C    33.3629  -27.3683\n            10  O2a O    32.1516  -25.2717\n            11  O5x O    34.5857  -29.4705\n            12  C1a C    30.9403  -25.9648\nBOND        12\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     4   8 1\n            8     5   9 2\n            9     5  10 1\n            10    7  11 2\n            11   10  12 1\n            12    7   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

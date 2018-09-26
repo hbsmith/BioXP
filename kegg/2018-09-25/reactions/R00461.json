@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00461",
+    "name": "L-Lysine 2,3-aminomutase",
+    "definition": "L-Lysine <=> (3S)-3,6-Diaminohexanoate",
+    "equation": "C00047 <=> C01142",
+    "comment": "radical intermediate",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.3.2"
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation"
+    },
+    "orthologs": {
+      "K01843": "lysine 2,3-aminomutase [EC:5.4.3.2]"
+    }
+  }
+]

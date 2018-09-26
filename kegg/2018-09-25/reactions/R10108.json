@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10108",
+    "name": "",
+    "definition": "2 N(omega)-Hydroxyarginine + NADH + H+ + 2 Oxygen <=> 2 L-Citrulline + 2 Nitric oxide + NAD+ + 2 H2O",
+    "equation": "2 C05933 + C00004 + C00080 + 2 C00007 <=> 2 C00327 + 2 C00533 + C00003 + 2 C00001",
+    "comment": "the latter part of multi-step reaction (see R10106, R10107+R10108) NADPH (see R00111)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C14584",
+    "name": "Chlorobenside",
+    "names": [
+      "Chlorobenside",
+      "4-Chlorobenzyl 4-chlorophenyl sulfide"
+    ],
+    "formula": "C13H10Cl2S",
+    "exact_mass": 267.988,
+    "mol_weight": 269.1895,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "103-17-3"
+      ],
+      "PubChem": [
+        "17395584"
+      ],
+      "ChEBI": [
+        "34625"
+      ],
+      "NIKKAJI": [
+        "J66.347F"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8x C     9.3100  -19.8100\n            2   C8y C     9.3100  -21.2100\n            3   C8x C    10.5224  -21.9100\n            4   C8x C    11.7349  -21.2100\n            5   C8y C    11.7349  -19.8100\n            6   C8x C    10.5224  -19.1100\n            7   X   Cl    8.0976  -21.9100\n            8   C1b C    12.9660  -19.0990\n            9   S2a S    14.1712  -19.7947\n            10  C8y C    15.3535  -19.1119\n            11  C8x C    16.5475  -19.8012\n            12  C8x C    17.7599  -19.1012\n            13  C8y C    17.7599  -17.7012\n            14  C8x C    16.5660  -17.0119\n            15  C8x C    15.3535  -17.7119\n            16  X   Cl   18.9834  -16.9946\nBOND        17\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     2   7 1\n            8     5   8 1\n            9     8   9 1\n            10    9  10 1\n            11   10  11 2\n            12   11  12 1\n            13   12  13 2\n            14   13  14 1\n            15   14  15 2\n            16   10  15 1\n            17   13  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

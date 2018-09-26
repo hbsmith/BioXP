@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07428",
+    "name": "3-beta-hydroxysteroid dehydrogenase",
+    "definition": "Campest-4-en-3beta-ol + NAD+ <=> Campest-4-en-3-one + NADH + H+",
+    "equation": "C15784 + C00003 <=> C15785 + C00004 + C00080",
+    "comment": "enzyme not yet characterized",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00905": "Brassinosteroid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

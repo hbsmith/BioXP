@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08037",
+    "name": "",
+    "definition": "2 4-Hydroxylamino-2,6-dinitrotoluene + 2 2-Hydroxylamino-4,6-dinitrotoluene + Oxygen <=> 2 2,4',6,6'-Tetranitro-2',4-azoxytoluene + 4 H2O",
+    "equation": "2 C16392 + 2 C16393 + C00007 <=> 2 C16412 + 4 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00633": "Nitrotoluene degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

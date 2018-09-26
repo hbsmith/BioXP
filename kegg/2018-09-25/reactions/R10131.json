@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10131",
+    "name": "3,3'-bipyridine-2,2',5,5',6,6'-hexol:NAD+ 11-oxidoreductase",
+    "definition": "3,3'-Bipyridine-2,2',5,5',6,6'-hexol + NAD+ <=> Blue pigment + NADH + H+",
+    "equation": "C20381 + C00003 <=> C16152 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.328"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K19190": "nicotine blue oxidoreductase [EC:1.1.1.328]"
+    }
+  }
+]

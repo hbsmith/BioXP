@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00224",
+    "name": "pyruvate carboxy-lyase (acetaldehyde-forming)",
+    "definition": "Pyruvate <=> Acetaldehyde + CO2",
+    "equation": "C00022 <=> C00084 + C00011",
+    "comment": "TPP-dependent enzymatic reaction (see R00014+R00755)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.1"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

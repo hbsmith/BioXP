@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06969",
+    "name": "melamine aminohydrolase",
+    "definition": "Ammeline + H2O <=> Ammelide + Ammonia",
+    "equation": "C08733 + C00001 <=> C08734 + C00014",
+    "comment": "ammeline aminohydrolase, TrzB",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.4.45"
+    ],
+    "pathways": {
+      "rn00791": "Atrazine degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K21593": "melamine deaminase [EC:3.5.4.45]"
+    }
+  }
+]

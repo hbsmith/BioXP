@@ -1,0 +1,34 @@
+[
+  {
+    "entry_id": "C02707",
+    "name": "Myosin heavy chain",
+    "names": [
+      "Myosin heavy chain"
+    ],
+    "formula": "C5H8N2O3R2",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R04023"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.7.11.7"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5670"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1c C    27.7650  -22.0086\n            2   C5a C    26.5486  -22.7129\n            3   N1b N    27.7650  -20.6118\n            4   C1c C    28.9699  -22.7129\n            5   N1b N    25.3380  -22.0086\n            6   O5a O    26.5486  -24.1157\n            7   C5a C    26.5486  -19.9133\n            8   O1a O    30.1807  -22.0086\n            9   R   R    24.1274  -22.7129\n            10  O5a O    26.5486  -18.5164\n            11  R   R    25.3380  -20.6118\n            12  C1a C    28.9699  -24.1130\nBOND        11\n            1     1   2 1\n            2     1   3 1 #Up\n            3     1   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     7  10 2\n            10    7  11 1\n            11    4  12 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

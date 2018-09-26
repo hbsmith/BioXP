@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C04282",
+    "name": "1-Pyrroline-4-hydroxy-2-carboxylate",
+    "names": [
+      "1-Pyrroline-4-hydroxy-2-carboxylate"
+    ],
+    "formula": "C5H7NO3",
+    "exact_mass": 129.0426,
+    "mol_weight": 129.114,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02280",
+      "R04221",
+      "R04446",
+      "R04447",
+      "R11428"
+    ],
+    "pathways": {
+      "map00330": "Arginine and proline metabolism"
+    },
+    "enzymes": [
+      "1.4.3.3",
+      "1.5.99.-",
+      "3.5.4.22"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6944"
+      ],
+      "ChEBI": [
+        "16352"
+      ],
+      "3DMET": [
+        "B04934"
+      ],
+      "NIKKAJI": [
+        "J2.361.836B"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1x C    18.4619  -25.3619\n            2   C1y C    18.9117  -26.6877\n            3   C1x C    20.3115  -26.6696\n            4   C2y C    20.7270  -25.3327\n            5   N2x N    19.5839  -24.5244\n            6   O1a O    18.1078  -27.8243\n            7   C6a C    21.9324  -24.6400\n            8   O6a O    23.1449  -25.3400\n            9   O6a O    21.9339  -23.2402\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     1   5 1\n            6     2   6 1\n            7     4   7 1\n            8     7   8 1\n            9     7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

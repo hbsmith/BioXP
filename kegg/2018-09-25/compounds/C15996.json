@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C15996",
+    "name": "7-Cyano-7-carbaguanine",
+    "names": [
+      "7-Cyano-7-carbaguanine",
+      "7-Cyano-7-deazaguanine"
+    ],
+    "formula": "C7H5N5O",
+    "exact_mass": 175.0494,
+    "mol_weight": 175.1475,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07605",
+      "R09978"
+    ],
+    "pathways": {
+      "map00790": "Folate biosynthesis",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.7.1.13",
+      "6.3.4.20"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205307"
+      ],
+      "ChEBI": [
+        "45075"
+      ],
+      "ChEMBL": [
+        "CHEMBL577120"
+      ],
+      "PDB-CCD": [
+        "PQ0"
+      ],
+      "NIKKAJI": [
+        "J2.722.757K"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    22.8301  -21.3752\n            2   C8y C    22.8243  -19.8669\n            3   N5x N    24.0229  -22.1002\n            4   N4x N    21.6258  -21.7904\n            5   C8y C    23.9935  -19.1828\n            6   C8y C    21.6316  -19.4402\n            7   C8y C    25.2623  -21.3986\n            8   C8x C    20.7898  -20.5802\n            9   N4x N    25.2740  -19.9254\n            10  O5x O    23.9935  -17.8498\n            11  N1a N    26.4725  -22.1061\n            12  C3b C    21.2291  -18.1186\n            13  N3a N    19.8498  -17.7985\nBOND        14\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 2\n            7     4   8 1\n            8     5   9 1\n            9     5  10 2\n            10    7  11 1\n            11    6   8 2\n            12    7   9 1\n            13    6  12 1\n            14   12  13 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

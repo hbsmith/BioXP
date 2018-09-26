@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08083",
+    "name": "",
+    "definition": "Nerol + NADP+ <=> cis-Citral + NADPH + H+",
+    "equation": "C09871 + C00006 <=> C09847 + C00005 + C00080",
+    "comment": "nerol dehydrogenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.183"
+    ],
+    "pathways": {
+      "rn00281": "Geraniol degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

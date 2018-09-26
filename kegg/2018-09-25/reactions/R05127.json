@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05127",
+    "name": "thebaine,2-oxoglutarate:oxygen oxidoreductase (3-O-demethylating)",
+    "definition": "Thebaine + 2-Oxoglutarate + Oxygen <=> Oripavine + Formaldehyde + Succinate + CO2",
+    "equation": "C06173 + C00026 + C00007 <=> C06175 + C00067 + C00042 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.32"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K14975": "codeine 3-O-demethylase [EC:1.14.11.32]"
+    }
+  }
+]

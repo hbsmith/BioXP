@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C21052",
+    "name": "N-Acetyl-L-idosamine",
+    "names": [
+      "N-Acetyl-L-idosamine",
+      "2-Acetamido-2-deoxy-L-idopyranose"
+    ],
+    "formula": "C8H15NO6",
+    "exact_mass": 221.0899,
+    "mol_weight": 221.2078,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254816277"
+      ],
+      "PDB-CCD": [
+        "HSQ"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C1y C    18.0076  -14.7524\n            2   C1y C    18.0076  -16.1589\n            3   O2x O    19.2272  -14.0522\n            4   C1b C    16.7998  -14.0522\n            5   C1y C    19.2272  -16.8591\n            6   O1a O    16.7998  -16.8591\n            7   C1y C    20.4408  -14.7524\n            8   O1a O    15.5918  -14.7467\n            9   C1y C    20.4408  -16.1589\n            10  O1a O    19.2329  -18.2536\n            11  O1a O    21.6486  -14.0522\n            12  N1b N    21.8586  -16.9991\n            13  C5a C    23.0536  -16.3120\n            14  C1a C    24.2461  -17.0035\n            15  O5a O    23.0536  -14.9120\nBOND        15\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     2   5 1\n            5     2   6 1 #Down\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     5  10 1 #Up\n            10    7  11 1 #Either\n            11    9  12 1 #Down\n            12    7   9 1\n            13   12  13 1\n            14   13  14 1\n            15   13  15 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

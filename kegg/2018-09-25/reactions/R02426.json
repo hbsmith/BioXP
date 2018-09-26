@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02426",
+    "name": "CDPglucose 4,6-hydro-lyase",
+    "definition": "CDP-glucose <=> CDP-4-dehydro-6-deoxy-D-glucose + H2O",
+    "equation": "C00501 <=> C01219 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.45"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K01709": "CDP-glucose 4,6-dehydratase [EC:4.2.1.45]"
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C21325",
+    "name": "Azatyrosine",
+    "names": [
+      "Azatyrosine",
+      "2-Aza-L-tyrosine"
+    ],
+    "formula": "C8H10N2O3",
+    "exact_mass": 182.0691,
+    "mol_weight": 182.1766,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11391"
+    ],
+    "pathways": {
+      "map01059": "Biosynthesis of enediyne antibiotics",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "5.4.3.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "58525-82-9"
+      ],
+      "PubChem": [
+        "319902572"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    15.6020  -16.1568\n            2   C8y C    15.6020  -17.5551\n            3   C8x C    16.8130  -18.2543\n            4   C8x C    18.0240  -17.5551\n            5   C8y C    18.0240  -16.1568\n            6   N5x N    16.8130  -15.4576\n            7   C1b C    19.2601  -15.4576\n            8   C1c C    20.4711  -16.1568\n            9   C6a C    21.6821  -15.4576\n            10  O6a O    22.8931  -16.1568\n            11  O6a O    21.6821  -14.0593\n            12  O1a O    14.3910  -18.2543\n            13  N1a N    20.4715  -17.5696\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    9  11 2\n            12    2  12 1\n            13    8  13 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

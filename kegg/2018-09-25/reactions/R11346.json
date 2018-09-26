@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11346",
+    "name": "5-methylphenazine-1-carboxylate,NADH:oxygen oxidoreductase (1-hydroxylating, decarboxylating)",
+    "definition": "5-Methylphenazine-1-carboxylate + NADH + Oxygen <=> Pyocyanine + NAD+ + CO2 + H2O",
+    "equation": "C21295 + C00004 + C00007 <=> C01748 + C00003 + C00011 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.218"
+    ],
+    "pathways": {
+      "rn00405": "Phenazine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+    }
+  }
+]

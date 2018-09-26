@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C18281",
+    "name": "10-Oxabenzo[def]chrysen-9-one",
+    "names": [
+      "10-Oxabenzo[def]chrysen-9-one",
+      "9H-Pyreno[1,2-b]pyran-9-one"
+    ],
+    "formula": "C19H10O2",
+    "exact_mass": 270.0681,
+    "mol_weight": 270.2815,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09185"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "4.1.3.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "103061463"
+      ],
+      "ChEBI": [
+        "81632"
+      ],
+      "ChEMBL": [
+        "CHEMBL1970575"
+      ]
+    },
+    "kcf": "ATOM        21\n            1   C8y C    27.2484  -19.3339\n            2   C8y C    28.4393  -18.6333\n            3   C8y C    26.0574  -18.6333\n            4   C8y C    27.2484  -20.7349\n            5   C8y C    28.4393  -17.2323\n            6   C8y C    29.7002  -19.3339\n            7   C8y C    24.8665  -19.3339\n            8   C8x C    26.0574  -17.2323\n            9   C8x C    26.0574  -21.4355\n            10  C8x C    28.4393  -21.4355\n            11  C8x C    27.2484  -16.5317\n            12  C8x C    29.7002  -16.5317\n            13  C8x C    29.7002  -20.7349\n            14  C8x C    30.8911  -18.6333\n            15  C8y C    24.8665  -20.7349\n            16  O7x O    23.6056  -18.6333\n            17  C8x C    30.8911  -17.2323\n            18  C8x C    23.6756  -21.4355\n            19  C8y C    22.4147  -19.3339\n            20  C8x C    22.4147  -20.7349\n            21  O6a O    21.1823  -18.6291\nBOND        25\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 2\n            7     3   8 1\n            8     4   9 1\n            9     4  10 2\n            10    5  11 1\n            11    5  12 2\n            12    6  13 2\n            13    6  14 1\n            14    7  15 1\n            15    7  16 1\n            16   12  17 1\n            17   15  18 1\n            18   16  19 1\n            19   18  20 2\n            20    8  11 2\n            21    9  15 2\n            22   10  13 1\n            23   14  17 2\n            24   19  20 1\n            25   19  21 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

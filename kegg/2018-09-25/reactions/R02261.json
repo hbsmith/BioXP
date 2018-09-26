@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02261",
+    "name": "2-dehydro-3-deoxy-L-rhamnonate (S)-lactaldehyde lyase (pyruvate-forming)",
+    "definition": "2-Dehydro-3-deoxy-L-rhamnonate <=> (S)-Lactaldehyde + Pyruvate",
+    "equation": "C03979 <=> C00424 + C00022",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.2.53"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K12660": "2-dehydro-3-deoxy-L-rhamnonate aldolase [EC:4.1.2.53]",
+      "K18339": "2-keto-3-deoxy-L-rhamnonate aldolase [EC:4.1.2.53]"
+    }
+  }
+]

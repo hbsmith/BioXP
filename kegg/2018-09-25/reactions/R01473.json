@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01473",
+    "name": "UDP-L-arabinose 4-epimerase",
+    "definition": "UDP-L-arabinose <=> UDP-D-xylose",
+    "equation": "C00935 <=> C00190",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.3.5"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K12448": "UDP-arabinose 4-epimerase [EC:5.1.3.5]"
+    }
+  }
+]

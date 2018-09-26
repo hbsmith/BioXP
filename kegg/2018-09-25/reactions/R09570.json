@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09570",
+    "name": "L-tryptophan:FADH2 oxidoreductase (7-halogenating)",
+    "definition": "L-Tryptophan + FADH2 + Cl- + Oxygen + H+ <=> 7-Chloro-L-tryptophan + FAD + 2 H2O",
+    "equation": "C00078 + C01352 + C00698 + C00007 + C00080 <=> C19687 + C00016 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.9"
+    ],
+    "pathways": {
+      "rn00404": "Staurosporine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K14266": "tryptophan halogenase [EC:1.14.19.9]"
+    }
+  }
+]

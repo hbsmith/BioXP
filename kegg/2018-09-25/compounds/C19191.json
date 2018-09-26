@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C19191",
+    "name": "ortho-Anisidine",
+    "names": [
+      "ortho-Anisidine",
+      "o-Anisidine"
+    ],
+    "formula": "C7H9NO",
+    "exact_mass": 123.0684,
+    "mol_weight": 123.1525,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "90-04-0"
+      ],
+      "PubChem": [
+        "124489863"
+      ],
+      "ChEBI": [
+        "82288"
+      ],
+      "ChEMBL": [
+        "CHEMBL1612004"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C     9.8000  -18.8300\n            2   C8x C     9.8000  -20.2300\n            3   C8x C    11.0124  -20.9300\n            4   C8x C    12.2249  -20.2300\n            5   C8y C    12.2249  -18.8300\n            6   C8y C    11.0124  -18.1300\n            7   N1a N    11.0124  -16.7302\n            8   O2a O    13.4560  -18.1190\n            9   C1a C    14.6612  -18.8147\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     8   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11642",
+    "name": "",
+    "definition": "Isobutyronitrile + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Acetone cyanohydrin + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C02420 + C03024 + C00007 <=> C02659 + C03161 + C00001",
+    "comment": "last step of three-step reaction (see R11598, R10034+R11641+R11642)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.41"
+    ],
+    "pathways": {
+      "rn00460": "Cyanoamino acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C14572",
+    "name": "2-Ethyltoluene",
+    "names": [
+      "2-Ethyltoluene",
+      "o-Methylethylbenzene",
+      "1-Ethyl-2-methylbenzene"
+    ],
+    "formula": "C9H12",
+    "exact_mass": 120.0939,
+    "mol_weight": 120.1916,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "611-14-3"
+      ],
+      "PubChem": [
+        "17395572"
+      ],
+      "ChEBI": [
+        "34276"
+      ],
+      "ChEMBL": [
+        "CHEMBL364233"
+      ],
+      "NIKKAJI": [
+        "J43.559G"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    20.1600  -19.2500\n            2   C8x C    20.1600  -20.6500\n            3   C8x C    21.3724  -21.3500\n            4   C8x C    22.5849  -20.6500\n            5   C8y C    22.5849  -19.2500\n            6   C8y C    21.3724  -18.5500\n            7   C1a C    21.3724  -17.1502\n            8   C1b C    23.8160  -18.5390\n            9   C1a C    25.0212  -19.2347\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     8   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

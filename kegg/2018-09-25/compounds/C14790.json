@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C14790",
+    "name": "1-Naphthylamine",
+    "names": [
+      "1-Naphthylamine"
+    ],
+    "formula": "C10H9N",
+    "exact_mass": 143.0735,
+    "mol_weight": 143.1852,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07030"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "134-32-7"
+      ],
+      "PubChem": [
+        "17395788"
+      ],
+      "ChEBI": [
+        "50450"
+      ],
+      "ChEMBL": [
+        "CHEMBL57394"
+      ],
+      "NIKKAJI": [
+        "J2.528C"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    12.6000  -16.8700\n            2   C8x C    12.6000  -18.2700\n            3   C8x C    13.8124  -18.9700\n            4   C8y C    15.0249  -18.2700\n            5   C8y C    15.0249  -16.8700\n            6   C8x C    13.8124  -16.1700\n            7   C8x C    16.2373  -18.9700\n            8   C8x C    17.4497  -18.2700\n            9   C8x C    17.4497  -16.8700\n            10  C8y C    16.2373  -16.1700\n            11  N1a N    16.2373  -14.7700\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12   10  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

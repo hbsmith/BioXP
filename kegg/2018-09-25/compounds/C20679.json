@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C20679",
+    "name": "Tungstate",
+    "names": [
+      "Tungstate",
+      "Tungstic acid"
+    ],
+    "formula": "WH2O4",
+    "exact_mass": 249.9462,
+    "mol_weight": 249.8535,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10531"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.6.3.55"
+    ],
+    "dblinks": {
+      "CAS": [
+        "7783-03-1"
+      ],
+      "PubChem": [
+        "172232399"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   Z   W    18.4800  -16.1700\n            2   O1a O    20.0900  -16.1700\n            3   O0  O    17.1500  -16.1700\n            4   O0  O    18.4800  -14.8400\n            5   O1a O    18.4800  -17.5000\nBOND        4\n            1     1   2 1\n            2     1   3 2\n            3     1   4 2\n            4     1   5 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

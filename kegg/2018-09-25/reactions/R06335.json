@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06335",
+    "name": "",
+    "definition": "Gibberellin A24 + 2-Oxoglutarate + Oxygen <=> Gibberellin A36 + Succinate + CO2",
+    "equation": "C11861 + C00026 + C00007 <=> C11862 + C00042 + C00011",
+    "comment": "GA 3-oxidase(2-oxoglutarate dependent dioxygenase),GA3ox",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

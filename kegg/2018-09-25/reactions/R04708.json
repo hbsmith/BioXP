@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04708",
+    "name": "Dihydrochelirubine,NADPH:oxygen oxidoreductase (12-hydroxylating)",
+    "definition": "Dihydrochelirubine + NADPH + H+ + Oxygen <=> 12-Hydroxydihydrochelirubine + NADP+ + H2O",
+    "equation": "C05194 + C00005 + C00080 + C00007 <=> C05193 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.57"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

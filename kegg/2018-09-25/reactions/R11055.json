@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11055",
+    "name": "myrcene,NADPH---hemoprotein reductase:O2 oxidoreductase (hydroxylating)",
+    "definition": "Myrcene + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> (R)-Ipsdienol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C06074 + C03024 + C00007 <=> C20943 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.31"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K21069": "ipsdienol synthase [EC:1.14.14.31]"
+    }
+  }
+]

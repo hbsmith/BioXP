@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09106",
+    "name": "feruloyl-CoA:16-hydroxypalmitate feruloyltransferase",
+    "definition": "Feruloyl-CoA + 16-Hydroxypalmitate <=> CoA + 16-Feruloyloxypalmitate",
+    "equation": "C00406 + C18218 <=> C00010 + C18217",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.188"
+    ],
+    "pathways": {
+      "rn00073": "Cutin, suberine and wax biosynthesis"
+    },
+    "orthologs": {
+      "K15400": "omega-hydroxypalmitate O-feruloyl transferase [EC:2.3.1.188]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04093",
+    "name": "3-Indoleacetaldoxime hydro-lyase",
+    "definition": "Indole-3-acetaldehyde oxime <=> 3-Indoleacetonitrile + H2O",
+    "equation": "C02937 <=> C02938 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.99.1.6"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+      "K11868": "indoleacetaldoxime dehydratase [EC:4.99.1.6]"
+    }
+  }
+]

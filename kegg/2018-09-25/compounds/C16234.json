@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C16234",
+    "name": "o-Nitrobenzoate",
+    "names": [
+      "o-Nitrobenzoate",
+      "2-Nitrobenzoic acid"
+    ],
+    "formula": "C7H5NO4",
+    "exact_mass": 167.0219,
+    "mol_weight": 167.1189,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07727"
+    ],
+    "pathways": {
+      "map00627": "Aminobenzoate degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.7.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "552-16-9"
+      ],
+      "PubChem": [
+        "47205542"
+      ],
+      "ChEBI": [
+        "25620"
+      ],
+      "ChEMBL": [
+        "CHEMBL114719"
+      ],
+      "NIKKAJI": [
+        "J1.613F"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    25.2700  -17.7100\n            2   C8x C    25.2700  -19.1100\n            3   C8x C    26.4824  -19.8100\n            4   C8x C    27.6949  -19.1100\n            5   C8y C    27.6949  -17.7100\n            6   C8y C    26.4824  -17.0100\n            7   C6a C    26.4824  -15.6102\n            8   O6a O    25.2532  -14.9003\n            9   O6a O    27.6780  -14.9198\n            10  N2b N    28.9260  -16.9990 #+\n            11  O3a O    30.1312  -17.6947 #-\n            12  O3a O    28.9257  -15.6101\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     7   9 2\n            10    5  10 1\n            11   10  11 1\n            12   10  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

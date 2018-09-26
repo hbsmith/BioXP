@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10945",
+    "name": "3-(methylthio)acryloyl-CoA hydratase; 3-hydroxy-3-(methylthio)propanoyl-CoA hydro-lyase",
+    "definition": "3-(Methylthio)acryloyl-CoA + H2O <=> 3-Hydroxy-3-(methylthio)propanoyl-CoA",
+    "equation": "C20955 + C00001 <=> C20968",
+    "comment": "the first step of four-step reaction (see R10936, R10945+R10946+R10947+R06973)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.155"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

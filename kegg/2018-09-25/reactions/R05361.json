@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R05361",
+    "name": "2-hydroxy-6-oxo-6-(2-hydroxyphenoxy)-hexa-2,4-dienoate benzoylhydrolase",
+    "definition": "2-Hydroxy-6-oxo-6-(2-hydroxyphenoxy)-hexa-2,4-dienoate + H2O <=> 2-Hydroxymuconate + Catechol",
+    "equation": "C07734 + C00001 <=> C02501 + C00090",
+    "comment": "DxnB",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.7.1.8"
+    ],
+    "pathways": {
+      "rn00621": "Dioxin degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K10222": "2,6-dioxo-6-phenylhexa-3-enoate hydrolase [EC:3.7.1.8]"
+    }
+  }
+]

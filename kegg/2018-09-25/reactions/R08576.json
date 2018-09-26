@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08576",
+    "name": "O-phospho-L-serine:tRNA(Cys) ligase (AMP-forming)",
+    "definition": "O-Phospho-L-serine + tRNA(Cys) + ATP <=> O-Phosphoseryl-tRNA(Cys) + Diphosphate + AMP",
+    "equation": "C01005 + C01639 + C00002 <=> C17022 + C00013 + C00020",
+    "comment": "O-phosphoseryl-tRNA synthetase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.1.1.27"
+    ],
+    "pathways": {
+      "rn00970": "Aminoacyl-tRNA biosynthesis"
+    },
+    "orthologs": {
+      "K07587": "O-phosphoseryl-tRNA synthetase [EC:6.1.1.27]"
+    }
+  }
+]

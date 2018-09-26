@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C02395",
+    "name": "Cyclohex-2-enone",
+    "names": [
+      "Cyclohex-2-enone",
+      "2-Cyclohexen-1-one"
+    ],
+    "formula": "C6H8O",
+    "exact_mass": 96.0575,
+    "mol_weight": 96.1271,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02234"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.3.99.14"
+    ],
+    "dblinks": {
+      "CAS": [
+        "930-68-7"
+      ],
+      "PubChem": [
+        "5429"
+      ],
+      "ChEBI": [
+        "15977"
+      ],
+      "ChEMBL": [
+        "CHEMBL1439332"
+      ],
+      "PDB-CCD": [
+        "A2Q"
+      ],
+      "3DMET": [
+        "B00440"
+      ],
+      "NIKKAJI": [
+        "J55.441C"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C5x C    18.4037  -14.0466\n            2   C1x C    17.2022  -14.7433\n            3   C2x C    19.6243  -14.7433\n            4   O5x O    18.4037  -12.6598\n            5   C1x C    17.2022  -16.1492\n            6   C2x C    19.6243  -16.1492\n            7   C1x C    18.4037  -16.8586\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     3   6 2\n            6     5   7 1\n            7     6   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

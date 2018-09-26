@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09983",
+    "name": "",
+    "definition": "Aminoacrylate + H2O <=> 3-Oxopropanoate + Ammonia",
+    "equation": "C20253 + C00001 <=> C00222 + C00014",
+    "comment": "aminoacrylate hydrolase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.-"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K09023": "aminoacrylate hydrolase [EC:3.5.1.-]"
+    }
+  }
+]

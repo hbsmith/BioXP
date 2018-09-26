@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R07430",
+    "name": "6-Oxocampestanol,NADPH:brassinosteroid C22alpha-hydroxylase",
+    "definition": "6-Oxocampestanol + Oxygen + NADPH <=> Cathasterone + NADP+ + H2O",
+    "equation": "C15789 + C00007 + C00005 <=> C15790 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00905": "Brassinosteroid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K09587": "steroid 22-alpha-hydroxylase [EC:1.14.13.-]"
+    }
+  }
+]

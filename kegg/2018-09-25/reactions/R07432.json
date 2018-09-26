@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R07432",
+    "name": "p-coumaroyl-CoA:quinate hydroxycinnamoyltransferase",
+    "definition": "p-Coumaroyl-CoA + Quinate <=> CoA + p-Coumaroyl quinic acid",
+    "equation": "C00223 + C00296 <=> C00010 + C12208",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.133"
+    ],
+    "pathways": {
+      "rn00940": "Phenylpropanoid biosynthesis",
+      "rn00941": "Flavonoid biosynthesis",
+      "rn00945": "Stilbenoid, diarylheptanoid and gingerol biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13065": "shikimate O-hydroxycinnamoyltransferase [EC:2.3.1.133]"
+    }
+  }
+]

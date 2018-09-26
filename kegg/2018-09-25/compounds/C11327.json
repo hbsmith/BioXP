@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C11327",
+    "name": "2-Pyridyl hydroxymethane sulfonic acid",
+    "names": [
+      "2-Pyridyl hydroxymethane sulfonic acid"
+    ],
+    "formula": "C6H7NO4S",
+    "exact_mass": 189.0096,
+    "mol_weight": 189.1891,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "13502"
+      ],
+      "ChEBI": [
+        "1274"
+      ],
+      "NIKKAJI": [
+        "J2.774.120G"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    25.4833  -20.2139\n            2   C8x C    25.4833  -21.6140\n            3   C8x C    26.6997  -22.3106\n            4   C8x C    27.9092  -21.6140\n            5   N5x N    27.9092  -20.2139\n            6   C8y C    26.6997  -19.5102\n            7   O2a O    26.6864  -18.1099\n            8   C1b C    27.8967  -17.4063\n            9   S4a S    29.1070  -18.1029\n            10  O1d O    30.5072  -18.1029\n            11  O1d O    29.1070  -16.7026\n            12  O1d O    29.1070  -19.5033\nBOND        12\n            1     6   1 1\n            2     6   7 1\n            3     1   2 2\n            4     7   8 1\n            5     2   3 1\n            6     8   9 1\n            7     3   4 2\n            8     9  10 1\n            9     4   5 1\n            10    9  11 2\n            11    5   6 2\n            12    9  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

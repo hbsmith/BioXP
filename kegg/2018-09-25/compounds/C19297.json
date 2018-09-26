@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C19297",
+    "name": "Propiolactone",
+    "names": [
+      "Propiolactone",
+      "beta-Propiolactone"
+    ],
+    "formula": "C3H4O2",
+    "exact_mass": 72.0211,
+    "mol_weight": 72.0627,
+    "remark": "Same as: D05630",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "57-57-8"
+      ],
+      "PubChem": [
+        "124489969"
+      ],
+      "ChEBI": [
+        "49073"
+      ],
+      "ChEMBL": [
+        "CHEMBL1200627"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   O7x O    27.0900  -16.4500\n            2   C1x C    27.0900  -17.8500\n            3   C1x C    28.4900  -17.8500\n            4   C7x C    28.4900  -16.4500\n            5   O6a O    29.4700  -15.4700\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     1   4 1\n            5     4   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

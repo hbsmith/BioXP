@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01365",
+    "name": "Butanoyl-CoA:acetoacetate CoA-transferase",
+    "definition": "Butanoyl-CoA + Acetoacetate <=> Butanoic acid + Acetoacetyl-CoA",
+    "equation": "C00136 + C00164 <=> C00246 + C00332",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.9"
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation"
+    },
+    "orthologs": {
+      "K01034": "acetate CoA/acetoacetate CoA-transferase alpha subunit [EC:2.8.3.8 2.8.3.9]",
+      "K01035": "acetate CoA/acetoacetate CoA-transferase beta subunit [EC:2.8.3.8 2.8.3.9]"
+    }
+  }
+]

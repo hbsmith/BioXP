@@ -1,0 +1,64 @@
+[
+  {
+    "entry_id": "C00792",
+    "name": "D-Arginine",
+    "names": [
+      "D-Arginine",
+      "D-2-Amino-5-guanidinovaleric acid"
+    ],
+    "formula": "C6H14N4O2",
+    "exact_mass": 174.1117,
+    "mol_weight": 174.201,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00567",
+      "R02458",
+      "R02923",
+      "R02924",
+      "R11016",
+      "R11018"
+    ],
+    "pathways": {
+      "map00472": "D-Arginine and D-ornithine metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.4.3.3",
+      "1.4.99.6",
+      "2.6.1.21",
+      "3.5.3.10",
+      "5.1.1.9"
+    ],
+    "dblinks": {
+      "CAS": [
+        "157-06-2"
+      ],
+      "PubChem": [
+        "4050"
+      ],
+      "ChEBI": [
+        "15816"
+      ],
+      "ChEMBL": [
+        "CHEMBL212301"
+      ],
+      "PDB-CCD": [
+        "DAR"
+      ],
+      "3DMET": [
+        "B01331"
+      ],
+      "NIKKAJI": [
+        "J9.186C"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1b C    24.1085  -18.0306\n            2   C1b C    25.3110  -18.7488\n            3   C1c C    22.8766  -18.7137\n            4   C1b C    26.5369  -18.0657\n            5   C6a C    21.7324  -17.9664\n            6   N1a N    22.9232  -20.1148\n            7   N1b N    27.7453  -18.7779\n            8   O6a O    20.5065  -18.6494\n            9   O6a O    21.6856  -16.5596\n            10  C2c C    28.9714  -18.1007\n            11  N1a N    30.1739  -18.8129\n            12  N2a N    28.9888  -16.6938\nBOND        11\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     3   6 1 #Up\n            6     4   7 1\n            7     5   8 1\n            8     5   9 2\n            9     7  10 1\n            10   10  11 1\n            11   10  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

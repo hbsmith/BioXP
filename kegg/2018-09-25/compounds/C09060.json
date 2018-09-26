@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C09060",
+    "name": "Angelicin",
+    "names": [
+      "Angelicin",
+      "Isopsoralen"
+    ],
+    "formula": "C11H6O3",
+    "exact_mass": 186.0317,
+    "mol_weight": 186.1635,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09002"
+    ],
+    "pathways": {
+      "map01061": "Biosynthesis of phenylpropanoids",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.13.115"
+    ],
+    "dblinks": {
+      "CAS": [
+        "523-50-2"
+      ],
+      "PubChem": [
+        "11252"
+      ],
+      "ChEBI": [
+        "28928"
+      ],
+      "ChEMBL": [
+        "CHEMBL53569"
+      ],
+      "KNApSAcK": [
+        "C00002450"
+      ],
+      "3DMET": [
+        "B02650"
+      ],
+      "NIKKAJI": [
+        "J1.579B"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    31.3600  -18.4100\n            2   C8x C    30.1000  -19.1100\n            3   C8y C    28.9100  -18.4100\n            4   C8y C    28.9100  -17.0100\n            5   O7x O    27.7200  -16.3100\n            6   C8y C    26.5300  -17.0100\n            7   C8x C    26.5300  -18.4100\n            8   C8x C    27.7200  -19.1100\n            9   C8y C    30.1000  -16.3100\n            10  C8y C    31.3600  -17.0100\n            11  O2x O    32.4100  -16.1000\n            12  C8x C    31.8500  -14.7700\n            13  C8x C    30.4500  -14.9800\n            14  O6a O    25.2700  -16.3100\nBOND        16\n            1     4   5 1\n            2     5   6 1\n            3     6   7 1\n            4     7   8 2\n            5     8   3 1\n            6     1  10 1\n            7     9   4 1\n            8     3   2 1\n            9     2   1 2\n            10    9  10 2\n            11   10  11 1\n            12   11  12 1\n            13   12  13 2\n            14   13   9 1\n            15    3   4 2\n            16    6  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

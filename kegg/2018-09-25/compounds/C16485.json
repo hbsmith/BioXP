@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C16485",
+    "name": "4-Fluorophenol",
+    "names": [
+      "4-Fluorophenol"
+    ],
+    "formula": "C6H5FO",
+    "exact_mass": 112.0324,
+    "mol_weight": 112.1017,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "371-41-5"
+      ],
+      "PubChem": [
+        "47205781"
+      ],
+      "ChEBI": [
+        "42533"
+      ],
+      "ChEMBL": [
+        "CHEMBL56226"
+      ],
+      "PDB-CCD": [
+        "FPN"
+      ],
+      "NIKKAJI": [
+        "J34.560A"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C8x C    24.0800  -15.4700\n            2   C8x C    24.0800  -16.8700\n            3   C8y C    25.2924  -17.5700\n            4   C8x C    26.5049  -16.8700\n            5   C8x C    26.5049  -15.4700\n            6   C8y C    25.2924  -14.7700\n            7   X   F    25.2924  -13.3702\n            8   O1a O    25.2924  -18.9698\nBOND        8\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     3   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

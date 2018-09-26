@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R04138",
+    "name": "3-Methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)",
+    "definition": "ATP + 3-Methylcrotonyl-CoA + HCO3- <=> ADP + Orthophosphate + 3-Methylglutaconyl-CoA",
+    "equation": "C00002 + C03069 + C00288 <=> C00008 + C00009 + C03231",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.4.1.4"
+    ],
+    "pathways": {
+      "rn00280": "Valine, leucine and isoleucine degradation",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01968": "3-methylcrotonyl-CoA carboxylase alpha subunit [EC:6.4.1.4]",
+      "K01969": "3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]"
+    }
+  }
+]

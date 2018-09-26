@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R04929",
+    "name": "ATP:selenate adenylyltransferase",
+    "definition": "ATP + Selenate <=> Diphosphate + Adenylylselenate",
+    "equation": "C00002 + C05697 <=> C00013 + C05686",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.4"
+    ],
+    "pathways": {
+      "rn00450": "Selenocompound metabolism"
+    },
+    "orthologs": {
+      "K00955": "bifunctional enzyme CysN/CysC [EC:2.7.7.4 2.7.1.25]",
+      "K00956": "sulfate adenylyltransferase subunit 1 [EC:2.7.7.4]",
+      "K00957": "sulfate adenylyltransferase subunit 2 [EC:2.7.7.4]",
+      "K00958": "sulfate adenylyltransferase [EC:2.7.7.4]",
+      "K13811": "3'-phosphoadenosine 5'-phosphosulfate synthase [EC:2.7.7.4 2.7.1.25]"
+    }
+  }
+]

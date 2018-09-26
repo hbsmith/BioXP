@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01782",
+    "name": "2-dehydro-3-deoxy-D-pentonate glycolaldehyde-lyase (pyruvate-forming)",
+    "definition": "2-Dehydro-3-deoxy-D-xylonate <=> Pyruvate + Glycolaldehyde",
+    "equation": "C03826 <=> C00022 + C00266",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.2.28"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions"
+    },
+    "orthologs": {
+    }
+  }
+]

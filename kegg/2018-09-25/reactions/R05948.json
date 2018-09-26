@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05948",
+    "name": "",
+    "definition": "UDP-D-galactose + GD2 <=> UDP + GD1b",
+    "equation": "G10609 + G00114 <=> G10619 + G00115",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.62"
+    ],
+    "pathways": {
+      "rn00604": "Glycosphingolipid biosynthesis - ganglio series",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00715": "ganglioside galactosyltransferase [EC:2.4.1.62]"
+    }
+  }
+]

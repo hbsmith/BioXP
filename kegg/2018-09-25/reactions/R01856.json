@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01856",
+    "name": "dGTP triphosphohydrolase",
+    "definition": "dGTP + H2O <=> Deoxyguanosine + Triphosphate",
+    "equation": "C00286 + C00001 <=> C00330 + C00536",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.5.1"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K01129": "dGTPase [EC:3.1.5.1]"
+    }
+  }
+]

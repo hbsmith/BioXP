@@ -1,0 +1,59 @@
+[
+  {
+    "entry_id": "C02693",
+    "name": "(Indol-3-yl)acetamide",
+    "names": [
+      "(Indol-3-yl)acetamide",
+      "Indole-3-acetamide"
+    ],
+    "formula": "C10H10N2O",
+    "exact_mass": 174.0793,
+    "mol_weight": 174.1992,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00679",
+      "R03096",
+      "R04020"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism"
+    },
+    "enzymes": [
+      "1.13.12.3",
+      "3.5.1.4",
+      "3.5.1.-",
+      "4.2.1.84"
+    ],
+    "dblinks": {
+      "CAS": [
+        "879-37-8"
+      ],
+      "PubChem": [
+        "5661"
+      ],
+      "ChEBI": [
+        "16031"
+      ],
+      "KNApSAcK": [
+        "C00000108"
+      ],
+      "PDB-CCD": [
+        "TSR"
+      ],
+      "3DMET": [
+        "B00485"
+      ],
+      "NIKKAJI": [
+        "J128.124K"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    22.8200  -18.9000\n            2   C8x C    22.8200  -20.3000\n            3   C8x C    24.0324  -21.0000\n            4   C8y C    25.2449  -20.3000\n            5   C8y C    25.2449  -18.9000\n            6   C8x C    24.0324  -18.2000\n            7   N4x N    26.5764  -20.7326\n            8   C8x C    27.3993  -19.6000\n            9   C8y C    26.5764  -18.4674\n            10  C1b C    27.0075  -17.1406\n            11  C5a C    28.3869  -16.8474\n            12  O5a O    29.3495  -17.9169\n            13  N1a N    28.8163  -15.5273\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    9  10 1\n            12   10  11 1\n            13   11  12 2\n            14   11  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

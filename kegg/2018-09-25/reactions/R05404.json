@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R05404",
+    "name": "",
+    "definition": "3-Vinylcatechol + Oxygen <=> 2-Hydroxy-6-oxoocta-2,4,7-trienoate",
+    "equation": "C07085 + C00007 <=> C07087",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.2"
+    ],
+    "pathways": {
+      "rn00643": "Styrene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K00446": "catechol 2,3-dioxygenase [EC:1.13.11.2]",
+      "K07104": "catechol 2,3-dioxygenase [EC:1.13.11.2]"
+    }
+  }
+]

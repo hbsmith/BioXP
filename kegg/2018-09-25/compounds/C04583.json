@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C04583",
+    "name": "6-Hydroxyl-1,6-dihydropurine ribonucleoside",
+    "names": [
+      "6-Hydroxyl-1,6-dihydropurine ribonucleoside",
+      "(6R)-1,6-Dihydroinosine"
+    ],
+    "formula": "C10H14N4O5",
+    "exact_mass": 270.0964,
+    "mol_weight": 270.242,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "136315-04-3"
+      ],
+      "PubChem": [
+        "7184"
+      ],
+      "ChEBI": [
+        "2196"
+      ],
+      "NIKKAJI": [
+        "J2.752.090A"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   C1y C    28.3485  -17.2792\n            2   O2x O    27.2733  -16.4344\n            3   C1y C    27.9645  -18.5848\n            4   C1y C    26.1213  -17.2792\n            5   C1y C    26.5053  -18.5848\n            6   O1a O    28.7326  -19.7369\n            7   C1b C    24.8157  -16.8184\n            8   O1a O    25.7373  -19.7369\n            9   O1a O    23.7405  -17.7400\n            10  C8y C    31.0366  -16.3576\n            11  C8y C    31.0366  -14.9752\n            12  N2x N    32.2654  -17.0488\n            13  C1y C    32.2654  -14.2839\n            14  C2x C    33.4942  -16.3576\n            15  N1x N    33.4942  -14.9752\n            16  O1a O    32.2654  -12.8247\n            17  N5x N    29.7219  -14.5479\n            18  C8x C    28.9092  -15.6664\n            19  N4y N    29.7219  -16.7848\nBOND        21\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     3   6 1 #Down\n            6     4   7 1 #Up\n            7     5   8 1 #Down\n            8     7   9 1\n            9     4   5 1\n            10   10  11 2\n            11   10  12 1\n            12   11  13 1\n            13   12  14 2\n            14   13  15 1\n            15   13  16 1 #Up\n            16   14  15 1\n            17   11  17 1\n            18   17  18 2\n            19   18  19 1\n            20   10  19 1\n            21    1  19 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

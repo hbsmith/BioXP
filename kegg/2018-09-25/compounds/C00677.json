@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C00677",
+    "name": "Deoxynucleoside triphosphate",
+    "names": [
+      "Deoxynucleoside triphosphate",
+      "2'-Deoxyribonucleoside 5'-triphosphate",
+      "2'-Deoxyribonucleoside triphosphate"
+    ],
+    "formula": "C5H12O12P3R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R00379",
+      "R04315",
+      "R11592"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.98.6",
+      "1.17.4.2",
+      "2.7.7.7",
+      "2.7.7.31",
+      "2.7.7.49"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3946"
+      ],
+      "ChEBI": [
+        "16381"
+      ]
+    },
+    "kcf": "ATOM        21\n            1   C1y C    30.7565  -18.9435\n            2   O2x O    31.8797  -18.1305\n            3   C1y C    31.1777  -20.2889\n            4   C1b C    29.4286  -18.5106\n            5   C1y C    33.0203  -18.9435\n            6   C1x C    32.5874  -20.2889\n            7   O1a O    30.3470  -21.4119\n            8   O2b O    29.1361  -17.1418\n            9   R   R    34.3480  -18.5047\n            10  P1b P    27.7382  -17.1361\n            11  O2c O    26.3342  -17.1361\n            12  O1c O    27.7382  -15.7379\n            13  O1c O    27.7322  -18.5340\n            14  P1b P    24.9363  -17.1361\n            15  O2c O    23.5324  -17.1361\n            16  O1c O    24.9363  -15.7379\n            17  O1c O    24.9363  -18.5340\n            18  P1b P    22.1402  -17.1361\n            19  O1c O    20.7362  -17.1361\n            20  O1c O    22.1402  -15.7379\n            21  O1c O    22.1402  -18.5340\nBOND        21\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     3   6 1\n            6     3   7 1 #Down\n            7     4   8 1\n            8     5   9 1 #Up\n            9     8  10 1\n            10   10  11 1\n            11   10  12 1\n            12   10  13 2\n            13   11  14 1\n            14   14  15 1\n            15   14  16 1\n            16   14  17 2\n            17   15  18 1\n            18   18  19 1\n            19   18  20 1\n            20   18  21 2\n            21    5   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

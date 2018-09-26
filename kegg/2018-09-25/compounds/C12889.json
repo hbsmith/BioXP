@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C12889",
+    "name": "n-Decanohydroxamic acid",
+    "names": [
+      "n-Decanohydroxamic acid",
+      "Decanohydroxamic acid"
+    ],
+    "formula": "C10H21NO2",
+    "exact_mass": 187.1572,
+    "mol_weight": 187.2792,
+    "remark": "Same as: D01443",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "2259-85-0"
+      ],
+      "PubChem": [
+        "583278"
+      ],
+      "ChEBI": [
+        "32350"
+      ],
+      "ChEMBL": [
+        "CHEMBL1888403"
+      ],
+      "LIPIDMAPS": [
+        "LMFA00000007"
+      ],
+      "NIKKAJI": [
+        "J605.898A"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   N1b N    18.3605  -17.6788\n            2   C5a C    19.5730  -16.9768\n            3   C1b C    20.7855  -17.6716\n            4   C1b C    21.9979  -16.9697\n            5   C1b C    23.2104  -17.6646\n            6   C1b C    24.4229  -16.9627\n            7   C1b C    25.6353  -17.6575\n            8   C1b C    26.8478  -16.9555\n            9   C1b C    28.0602  -17.6503\n            10  C1b C    29.2727  -16.9484\n            11  C1a C    30.4852  -17.6434\n            12  O5a O    19.5699  -15.5729\n            13  O1b O    17.0740  -16.9783\nBOND        12\n            1     6   7 1\n            2     3   4 1\n            3     7   8 1\n            4     8   9 1\n            5     4   5 1\n            6     9  10 1\n            7     2   3 1\n            8    10  11 1\n            9     5   6 1\n            10    2  12 2\n            11    1   2 1\n            12    1  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

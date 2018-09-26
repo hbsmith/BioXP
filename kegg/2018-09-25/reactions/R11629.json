@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11629",
+    "name": "15,17(3)-seco-F430-17(3)-acid cyclo-ligase (ADP-forming)",
+    "definition": "15,17(3)-Seco-F430-17(3)-acid + ATP <=> Coenzyme F430 + ADP + Orthophosphate",
+    "equation": "C21512 + C00002 <=> C05777 + C00008 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.4.1.9"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K21612": "coenzyme F430 synthetase [EC:6.4.1.9]"
+    }
+  }
+]

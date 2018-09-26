@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06399",
+    "name": "(1S,2S,4R)-menth-8-ene-1,2-diol:NAD+ 2-oxidoreductase",
+    "definition": "Limonene-1,2-diol + NAD+ <=> (1S,4R)-1-Hydroxy-2-oxolimonene + NADH + H+",
+    "equation": "C07276 + C00003 <=> C11937 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.297"
+    ],
+    "pathways": {
+      "rn00903": "Limonene and pinene degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

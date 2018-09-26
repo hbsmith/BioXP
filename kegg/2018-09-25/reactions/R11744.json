@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11744",
+    "name": "N-phenylhydroxylamine:NADP+ oxidoreductase",
+    "definition": "Hydroxylaminobenzene + 2 NADP+ + H2O <=> Nitrobenzene + 2 NADPH + 2 H+",
+    "equation": "C02720 + 2 C00006 + C00001 <=> C06813 + 2 C00005 + 2 C00080",
+    "comment": "two-step reaction (see R05400+R05401)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.1.16"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

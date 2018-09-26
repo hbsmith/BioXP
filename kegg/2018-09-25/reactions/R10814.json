@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10814",
+    "name": "5'-triphospho-[mRNA] phosphohydrolase",
+    "definition": "5'-Triphospho-[mRNA] + H2O <=> (5')ppPur-mRNA + Orthophosphate",
+    "equation": "C20864 + C00001 <=> C02100 + C00009",
+    "comment": "mRNA 5'-triphosphatase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.-"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K01098": "polynucleotide 5'-triphosphatase [EC:3.6.1.-]",
+      "K13917": "mRNA-capping enzyme [EC:2.7.7.50 3.6.1.-]"
+    }
+  }
+]

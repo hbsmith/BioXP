@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R05735",
+    "name": "acetone:carbon-dioxide ligase (AMP-forming)",
+    "definition": "Acetone + CO2 + ATP + 2 H2O <=> Acetoacetate + AMP + 2 Orthophosphate",
+    "equation": "C00207 + C00011 + C00002 + 2 C00001 <=> C00164 + C00020 + 2 C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.4.1.6"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

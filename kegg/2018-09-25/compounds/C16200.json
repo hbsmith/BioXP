@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C16200",
+    "name": "Phenylboronic acid",
+    "names": [
+      "Phenylboronic acid",
+      "Benzeneboronic acid"
+    ],
+    "formula": "C6H7BO2",
+    "exact_mass": 122.0539,
+    "mol_weight": 121.9296,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07697"
+    ],
+    "pathways": {
+      "map00627": "Aminobenzoate degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "98-80-6"
+      ],
+      "PubChem": [
+        "47205508"
+      ],
+      "ChEBI": [
+        "44923"
+      ],
+      "ChEMBL": [
+        "CHEMBL21485"
+      ],
+      "PDB-CCD": [
+        "PBC"
+      ],
+      "NIKKAJI": [
+        "J119.652I"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    27.5100  -18.9700\n            2   C8x C    27.5100  -20.3700\n            3   C8x C    28.7224  -21.0700\n            4   C8x C    29.9349  -20.3700\n            5   C8x C    29.9349  -18.9700\n            6   C8y C    28.7224  -18.2700\n            7   Z   B    28.7224  -16.8702\n            8   O1a O    27.4932  -16.1603\n            9   O1a O    29.9180  -16.1798\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     7   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

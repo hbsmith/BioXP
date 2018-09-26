@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09263",
+    "name": "",
+    "definition": "7,9,12-Decaketide intermediate 1 + NADPH + H+ <=> 7,9,12-Decaketide intermediate 2 + NADP+",
+    "equation": "C18330 + C00005 + C00080 <=> C18331 + C00006",
+    "comment": "ketoreductase, SnoaD",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn01056": "Biosynthesis of type II polyketide backbone",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12420": "ketoreductase [EC:1.1.1.-]"
+    }
+  }
+]

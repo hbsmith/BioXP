@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08881",
+    "name": "",
+    "definition": "(R)-2-(Phosphonomethyl)malate <=> 2-Oxo-4-phosphonobutanoate",
+    "equation": "C21613 <=> C17941",
+    "comment": "multi-step reaction (similar to TCA cycle, R01325+R01900+R00709 or R01325+R01900+R01899+R00268)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

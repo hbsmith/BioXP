@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R01433",
+    "name": "D-xylose xylohydrolase",
+    "definition": "D-Xylose + 1,4-beta-D-Xylan <=> 1,4-beta-D-Xylan + H2O",
+    "equation": "C00181 + C02352 <=> C02352 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.37"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01198": "xylan 1,4-beta-xylosidase [EC:3.2.1.37]",
+      "K15920": "xylan 1,4-beta-xylosidase [EC:3.2.1.37]",
+      "K22268": "xylan 1,4-beta-xylosidase [EC:3.2.1.37]"
+    }
+  }
+]

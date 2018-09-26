@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C21320",
+    "name": "3,6,8-Trihydroxy-2-naphthoate",
+    "names": [
+      "3,6,8-Trihydroxy-2-naphthoate",
+      "3,6,8-Trihydroxy-2-naphthoic acid"
+    ],
+    "formula": "C11H8O5",
+    "exact_mass": 220.0372,
+    "mol_weight": 220.1782,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11387"
+    ],
+    "pathways": {
+      "map01059": "Biosynthesis of enediyne antibiotics",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "319902567"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8y C    14.1400  -11.2000\n            2   C8x C    14.1400  -12.6000\n            3   C8y C    15.3524  -13.3000\n            4   C8y C    16.5649  -12.6000\n            5   C8y C    16.5649  -11.2000\n            6   C8x C    15.3524  -10.5000\n            7   C8x C    17.7773  -13.3000\n            8   C8y C    18.9897  -12.6000\n            9   C8y C    18.9897  -11.2000\n            10  C8x C    17.7773  -10.5000\n            11  O1a O    20.1873  -10.5085\n            12  C6a C    20.1873  -13.2915\n            13  O6a O    21.3756  -12.6055\n            14  O6a O    20.1874  -14.6997\n            15  O1a O    12.9276  -10.5000\n            16  O1a O    15.3524  -14.6998\nBOND        17\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12    9  11 1\n            13    8  12 1\n            14   12  13 1\n            15   12  14 2\n            16    1  15 1\n            17    3  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

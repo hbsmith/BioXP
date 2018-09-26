@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R07606",
+    "name": "L-methionine:thioredoxin-disulfide S-oxidoreductase",
+    "definition": "L-Methionine + Thioredoxin disulfide + H2O <=> L-Methionine (S)-S-oxide + Thioredoxin",
+    "equation": "C00073 + C00343 + C00001 <=> C15999 + C00342",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.4.11",
+      "1.8.4.13"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01625",
+    "name": "CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase",
+    "definition": "CoA + Apo-[acyl-carrier-protein] <=> Adenosine 3',5'-bisphosphate + Acyl-carrier protein",
+    "equation": "C00010 + C03688 <=> C00054 + C00229",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.8.7",
+      "2.7.8.-"
+    ],
+    "pathways": {
+      "rn00770": "Pantothenate and CoA biosynthesis"
+    },
+    "orthologs": {
+      "K00997": "holo-[acyl-carrier protein] synthase [EC:2.7.8.7]",
+      "K06133": "4'-phosphopantetheinyl transferase [EC:2.7.8.-]"
+    }
+  }
+]

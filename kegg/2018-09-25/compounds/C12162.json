@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C12162",
+    "name": "Crinine",
+    "names": [
+      "Crinine"
+    ],
+    "formula": "C16H17NO3",
+    "exact_mass": 271.1208,
+    "mol_weight": 271.3111,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08439"
+    ],
+    "pathways": {
+      "map00950": "Isoquinoline alkaloid biosynthesis",
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "14309"
+      ],
+      "ChEBI": [
+        "31437"
+      ],
+      "ChEMBL": [
+        "CHEMBL1221864"
+      ],
+      "KNApSAcK": [
+        "C00024384"
+      ],
+      "NIKKAJI": [
+        "J964.437G"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C8x C    25.1872  -22.9636\n            2   C8x C    25.1872  -20.2393\n            3   C1x C    29.8983  -20.2636\n            4   C1y C    29.9096  -18.9051\n            5   C2x C    27.4865  -18.8858\n            6   C2x C    28.7330  -18.2202\n            7   C8y C    24.0095  -22.2731\n            8   C8y C    24.0088  -20.9176\n            9   O2x O    22.7193  -20.4993\n            10  C1x C    21.9234  -21.5965\n            11  O2x O    22.7207  -22.6926\n            12  C8y C    26.3499  -20.9266\n            13  C8y C    26.2870  -22.2954\n            14  C1x C    27.5459  -22.9735\n            15  N1y N    28.7277  -22.2830\n            16  C1y C    28.7206  -20.9143\n            17  C1z C    27.5317  -20.2360\n            18  C1x C    28.7033  -19.5444\n            19  C1x C    29.9003  -21.5945\n            20  O1a O    31.0836  -18.2167\nBOND        24\n            1     7   8 1\n            2     8   9 1\n            3     9  10 1\n            4    10  11 1\n            5    11   7 1\n            6     4   6 1\n            7     5  17 1\n            8     1  13 1\n            9    12   2 1\n            10    5   6 2\n            11    2   8 2\n            12   12  13 2\n            13   13  14 1\n            14   14  15 1\n            15   15  16 1\n            16   16  17 1\n            17   17  12 1\n            18   17  18 1 #Up\n            19    7   1 2\n            20   15  19 1 #Up\n            21   16   3 1\n            22    4  20 1 #Down\n            23    3   4 1\n            24   18  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

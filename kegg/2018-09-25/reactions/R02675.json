@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R02675",
+    "name": "4-cresol:acceptor oxidoreductase (methyl-hydroxylating)",
+    "definition": "4-Cresol + 2 Oxidized ferredoxin + H2O <=> 4-Hydroxybenzaldehyde + 2 Reduced ferredoxin",
+    "equation": "C01468 + 2 C00139 + C00001 <=> C00633 + 2 C00138",
+    "comment": "multi-step reaction possibly intermediates (quinone methide and 4-hydroxybenzyl alcohol)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.17.99.1"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K05797": "4-cresol dehydrogenase (hydroxylating) flavoprotein subunit [EC:1.17.99.1]",
+      "K20200": "4-cresol dehydrogenase [hydroxylating] cytochrome subunit"
+    }
+  }
+]

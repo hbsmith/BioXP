@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10715",
+    "name": "",
+    "definition": "(S)-Lactaldehyde + NAD+ <=> Methylglyoxal + NADH + H+",
+    "equation": "C00424 + C00003 <=> C00546 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.6"
+    ],
+    "pathways": {
+      "rn00640": "Propanoate metabolism"
+    },
+    "orthologs": {
+      "K00005": "glycerol dehydrogenase [EC:1.1.1.6]"
+    }
+  }
+]

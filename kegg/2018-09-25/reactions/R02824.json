@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02824",
+    "name": "glutathione:insulin oxidoreductase",
+    "definition": "Insulin + 2 Glutathione <=> Reduced insulin + Glutathione disulfide",
+    "equation": "C00723 + 2 C00051 <=> C02288 + C00127",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.4.2"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism"
+    },
+    "orthologs": {
+      "K05360": "protein-disulfide reductase (glutathione) [EC:1.8.4.2]"
+    }
+  }
+]

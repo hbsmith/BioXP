@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C10660",
+    "name": "Dictamnine",
+    "names": [
+      "Dictamnine"
+    ],
+    "formula": "C12H9NO2",
+    "exact_mass": 199.0633,
+    "mol_weight": 199.2054,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08475",
+      "R08476"
+    ],
+    "pathways": {
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "484-29-7"
+      ],
+      "PubChem": [
+        "12843"
+      ],
+      "ChEBI": [
+        "4512"
+      ],
+      "ChEMBL": [
+        "CHEMBL22533"
+      ],
+      "KNApSAcK": [
+        "C00002151"
+      ],
+      "3DMET": [
+        "B04037"
+      ],
+      "NIKKAJI": [
+        "J5.995A"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   N5x N    26.8269  -20.1808\n            2   C8y C    26.8269  -17.3811\n            3   C8y C    25.6188  -18.0810\n            4   C8y C    25.6247  -19.4809\n            5   C8x C    24.4154  -20.1861\n            6   C8x C    23.2002  -19.4912\n            7   C8x C    23.1941  -18.0914\n            8   C8x C    24.4034  -17.3864\n            9   C8y C    28.0421  -19.4809\n            10  C8y C    28.0379  -18.0783\n            11  C8x C    29.3707  -17.6407\n            12  C8x C    30.1984  -18.7732\n            13  O2x O    29.3773  -19.9105\n            14  O2a O    26.8401  -15.9813\n            15  C1a C    25.6311  -15.2744\nBOND        17\n            1     5   6 2\n            2     6   7 1\n            3     7   8 2\n            4     8   3 1\n            5     9   1 2\n            6     1   4 1\n            7     3   2 1\n            8     2  10 2\n            9     9  10 1\n            10   10  11 1\n            11   11  12 2\n            12   12  13 1\n            13   13   9 1\n            14    3   4 2\n            15    2  14 1\n            16    4   5 1\n            17   14  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

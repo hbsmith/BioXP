@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03867",
+    "name": "(5-Glutamyl)-peptide:amino-acid 5-glutamyltransferase",
+    "definition": "Leukotriene C4 + Amino acid <=> Leukotriene D4 + 5-L-Glutamyl amino acid",
+    "equation": "C02166 + C00045 <=> C05951 + C03363",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.2.2"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00681": "gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]"
+    }
+  }
+]

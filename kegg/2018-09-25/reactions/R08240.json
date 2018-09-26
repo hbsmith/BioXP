@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08240",
+    "name": "6-thioinosine 5'-monophosphate:NAD+ oxidoreductase",
+    "definition": "6-Thioinosine-5'-monophosphate + NAD+ + H2O <=> 6-Thioxanthine 5'-monophosphate + NADH + H+",
+    "equation": "C04646 + C00003 + C00001 <=> C16618 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.205"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K00088": "IMP dehydrogenase [EC:1.1.1.205]"
+    }
+  }
+]

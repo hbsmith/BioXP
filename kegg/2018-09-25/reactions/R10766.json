@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10766",
+    "name": "hydroperoxyicosatetraenoate hydroxymutase",
+    "definition": "Hydroperoxyicosatetraenoate <=> Hydroxyepoxyicosatrienoate",
+    "equation": "C20832 <=> C20837",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.4.7"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K18684": "hydroperoxy icosatetraenoate dehydratase/isomerase [EC:4.2.1.152 5.4.4.7]"
+    }
+  }
+]

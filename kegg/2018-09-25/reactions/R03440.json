@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03440",
+    "name": "kynurenate:oxygen oxidoreductase (hydroxylating)",
+    "definition": "4-Hydroxy-2-quinolinecarboxylic acid + Oxygen + NADPH + H+ <=> 7,8-Dihydro-7,8-dihydroxykynurenate + NADP+",
+    "equation": "C01717 + C00007 + C00005 + C00080 <=> C01249 + C00006",
+    "comment": "NADH (see R03439)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.2"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

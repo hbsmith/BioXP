@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R07921",
+    "name": "S-adenosyl-L-methionine:1,7-dimethylxanthine N3-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 1,7-Dimethylxanthine <=> S-Adenosyl-L-homocysteine + Caffeine",
+    "equation": "C00019 + C13747 <=> C00021 + C07481",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.160"
+    ],
+    "pathways": {
+      "rn00232": "Caffeine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

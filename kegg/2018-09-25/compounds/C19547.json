@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C19547",
+    "name": "Vinylidene fluoride",
+    "names": [
+      "Vinylidene fluoride",
+      "1,1-Difluoroethene"
+    ],
+    "formula": "C2H2F2",
+    "exact_mass": 64.0125,
+    "mol_weight": 64.0341,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "75-38-7"
+      ],
+      "PubChem": [
+        "124490219"
+      ],
+      "ChEBI": [
+        "82550"
+      ],
+      "ChEMBL": [
+        "CHEMBL116020"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   C2c C    17.1500  -16.3800\n            2   C2a C    18.5500  -16.3800\n            3   X   F    16.4500  -15.1676\n            4   X   F    16.4500  -17.5924\nBOND        3\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]
