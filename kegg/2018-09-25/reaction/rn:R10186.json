@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10186",
+    "name": "alpha-D-ribose-1-methylphosphonate-5-triphosphate diphosphohydrolase",
+    "definition": "alpha-D-Ribose 1-methylphosphonate 5-triphosphate + H2O <=> alpha-D-Ribose 1-methylphosphonate 5-phosphate + Diphosphate",
+    "equation": "C20422 + C00001 <=> C20423 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.63"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism"
+    },
+    "orthologs": {
+      "K06162": "alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [EC:3.6.1.63]"
+    }
+  }
+]

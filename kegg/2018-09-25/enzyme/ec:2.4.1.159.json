@@ -1,0 +1,322 @@
+[
+  {
+    "entry_id": "2.4.1.159",
+    "name": "flavonol-3-O-glucoside L-rhamnosyltransferase",
+    "names": [
+      "flavonol-3-O-glucoside L-rhamnosyltransferase",
+      "uridine diphosphorhamnose-flavonol 3-O-glucoside rhamnosyltransferase",
+      "UDP-rhamnose:flavonol 3-O-glucoside rhamnosyltransferase",
+      "UDP-L-rhamnose:flavonol-3-O-D-glucoside 6''-O-L-rhamnosyltransferase"
+    ],
+    "classes": [
+      "Transferases;",
+      "Glycosyltransferases;",
+      "Hexosyltransferases"
+    ],
+    "sysname": "UDP-beta-L-rhamnose:flavonol-3-O-beta-D-glucoside 6''-O-L-rhamnosyltransferase (configuration-inverting)",
+    "reaction": "UDP-beta-L-rhamnose + a flavonol 3-O-beta-D-glucoside = UDP + a flavonol 3-O-[alpha-L-rhamnosyl-(1->6)-beta-D-glucoside] [RN:R03880]",
+    "all_reac": "R03880 > R04900 R12046",
+    "iubmb_reactions": [
+      "R03880 > R04900 R12046"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "UDP-beta-L-rhamnose [CPD:C02199]",
+      "flavonol 3-O-beta-D-glucoside [CPD:C03946]"
+    ],
+    "products": [
+      "UDP [CPD:C00015]",
+      "flavonol 3-O-[alpha-L-rhamnosyl-(1->6)-beta-D-glucoside] [CPD:C04194]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A configuration-inverting rhamnosyltransferase that converts flavonol 3-O-glucosides to 3-O-rutinosides. Also acts, more slowly, on rutin, quercetin 3-O-galactoside and flavonol 3-O-rhamnosides.",
+    "pathways": {
+      "ec00944": "Flavone and flavonol biosynthesis",
+      "ec01100": "Metabolic pathways",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22772": "flavonol-3-O-glucoside L-rhamnosyltransferase"
+    },
+    "genes": {
+      "cpap": [
+        "110821584"
+      ],
+      "cit": [
+        "102578019"
+      ],
+      "cic": [
+        "CICLE_v10004868mg"
+      ],
+      "gra": [
+        "105803319"
+      ],
+      "ghi": [
+        "107912543"
+      ],
+      "dzi": [
+        "111313488"
+      ],
+      "gmx": [
+        "100818062",
+        "100819964",
+        "102663988"
+      ],
+      "pvu": [
+        "PHAVU_007G135800g"
+      ],
+      "vra": [
+        "106769849"
+      ],
+      "var": [
+        "108340918"
+      ],
+      "ccaj": [
+        "109804959"
+      ],
+      "mtr": [
+        "MTR_1g090270",
+        "MTR_1g090280",
+        "MTR_4g059370"
+      ],
+      "cam": [
+        "101512184"
+      ],
+      "adu": [
+        "107466489"
+      ],
+      "aip": [
+        "107619647"
+      ],
+      "lang": [
+        "109336024"
+      ],
+      "zju": [
+        "107426658",
+        "107426669"
+      ],
+      "rcu": [
+        "8271431"
+      ],
+      "hbr": [
+        "110646224"
+      ],
+      "pop": [
+        "7465981"
+      ],
+      "sly": [
+        "101244316"
+      ],
+      "spen": [
+        "107031550"
+      ],
+      "sot": [
+        "102581417"
+      ],
+      "cann": [
+        "107861697"
+      ],
+      "nta": [
+        "107767212",
+        "107781522",
+        "107819220",
+        "107831042"
+      ],
+      "nsy": [
+        "104213556"
+      ],
+      "nto": [
+        "104084893",
+        "104096374"
+      ],
+      "ini": [
+        "109173663",
+        "109173664",
+        "109173666",
+        "109173669"
+      ],
+      "sind": [
+        "105170545"
+      ],
+      "oeu": [
+        "111379724",
+        "111382547",
+        "111405814"
+      ],
+      "han": [
+        "110883900",
+        "110929816"
+      ],
+      "lsv": [
+        "111885539"
+      ],
+      "bvg": [
+        "104908786",
+        "104908787"
+      ],
+      "soe": [
+        "110803262",
+        "110803271",
+        "110803278"
+      ],
+      "osa": [
+        "4350462",
+        "9267603"
+      ],
+      "dosa": [
+        "Os11t0457300-01",
+        "Os11t0461200-01"
+      ],
+      "obr": [
+        "102707242"
+      ],
+      "bdi": [
+        "100838243",
+        "100838538"
+      ],
+      "ats": [
+        "109761553"
+      ],
+      "sbi": [
+        "8066960",
+        "8069309",
+        "8069310"
+      ],
+      "zma": [
+        "100192114"
+      ],
+      "sita": [
+        "101754290",
+        "101757804",
+        "101763746",
+        "101765378"
+      ],
+      "pda": [
+        "103698348"
+      ],
+      "egu": [
+        "105035325",
+        "105035416"
+      ],
+      "mus": [
+        "103973174",
+        "103997158"
+      ],
+      "dct": [
+        "110100597"
+      ],
+      "aof": [
+        "109839485"
+      ],
+      "atr": [
+        "18427191",
+        "18435939",
+        "18438253"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.4.1.159"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.4.1.159"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.4.1.159"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.4.1.159"
+      ],
+      "CAS": [
+        "83380-89-6"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Kleinehollenhorst",
+          "G.",
+          "Behrens",
+          "H.",
+          "Pegels",
+          "G.",
+          "Srunk",
+          "N. and Wiermann",
+          "R."
+        ],
+        "title": "Formation of flavonol 3-O-diglycosides and flavonol 3-O-triglycosides by enzyme extracts from anthers of Tulipa cv apeldoorn - characterization and activity of 3 different O-glycosyltransferases during anther development.",
+        "journal": "Z Natursforsch C: Biosci",
+        "volume": "37",
+        "issue": "",
+        "pages": "587-599",
+        "year": "1982",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jones P",
+          "Messner B",
+          "Nakajima J",
+          "Schaffner AR",
+          "Saito K."
+        ],
+        "title": "UGT73C6 and UGT78D1, glycosyltransferases involved in flavonol glycoside biosynthesis in Arabidopsis thaliana.",
+        "journal": "J Biol Chem 278:43910-8 (2003) DOI:10.1074/jbc.M303523200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:12900416]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

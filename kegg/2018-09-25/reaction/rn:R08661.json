@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08661",
+    "name": "UDP-glucose:p-hydroxyphenylacetothiohydroximate S-beta-D-glucosyltransferase",
+    "definition": "p-Hydroxyphenylacetothiohydroximate + UDP-glucose <=> p-Hydroxybenzyldesulphoglucosinolate + UDP",
+    "equation": "C17239 + C00029 <=> C17240 + C00015",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.195"
+    ],
+    "pathways": {
+      "rn00966": "Glucosinolate biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02214",
+    "name": "Progesterone,hydrogen-donor:oxygen oxidoreductase (11alpha-hydroxylating)",
+    "definition": "Progesterone + Reduced acceptor + Oxygen <=> 11alpha-Hydroxyprogesterone + Acceptor + H2O",
+    "equation": "C00410 + C00030 + C00007 <=> C03747 + C00028 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.14"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

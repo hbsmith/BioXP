@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R02204",
+    "name": "L-Pipecolate:oxygen 1,6-oxidoreductase",
+    "definition": "L-Pipecolate + Oxygen <=> (S)-2,3,4,5-Tetrahydropyridine-2-carboxylate + Hydrogen peroxide",
+    "equation": "C00408 + C00007 <=> C00450 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.3.7"
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00306": "sarcosine oxidase / L-pipecolate oxidase [EC:1.5.3.1 1.5.3.7]"
+    }
+  }
+][
+  {
+    "entry_id": "R02204",
+    "name": "L-Pipecolate:oxygen 1,6-oxidoreductase",
+    "definition": "L-Pipecolate + Oxygen <=> (S)-2,3,4,5-Tetrahydropyridine-2-carboxylate + Hydrogen peroxide",
+    "equation": "C00408 + C00007 <=> C00450 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.3.7"
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00306": "sarcosine oxidase / L-pipecolate oxidase [EC:1.5.3.1 1.5.3.7]"
+    }
+  }
+]

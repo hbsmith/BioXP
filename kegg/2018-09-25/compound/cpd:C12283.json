@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C12283",
+    "name": "Saccharin",
+    "names": [
+      "Saccharin"
+    ],
+    "formula": "C7H5NO3S",
+    "exact_mass": 182.999,
+    "mol_weight": 183.1845,
+    "remark": "Same as: D01085",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map04742": "Taste transduction"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "81-07-2"
+      ],
+      "PubChem": [
+        "14427"
+      ],
+      "ChEMBL": [
+        "CHEMBL310671"
+      ],
+      "PDB-CCD": [
+        "LSA"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    25.6986  -16.8988\n            2   C8y C    25.6924  -18.2957\n            3   S2x S    27.0193  -18.7311\n            4   N1x N    27.8410  -17.6033\n            5   C5x C    27.0293  -16.4683\n            6   C8x C    23.2725  -18.3002\n            7   C8x C    24.4857  -18.9985\n            8   C8x C    24.4891  -16.1970\n            9   C8x C    23.2742  -16.8995\n            10  O5x O    27.3846  -15.1051\n            11  O3c O    26.1249  -19.8165\n            12  O3c O    28.3467  -19.1863\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 1\n            4     6   7 2\n            5     7   2 1\n            6     1   8 1\n            7     8   9 2\n            8     9   6 1\n            9     4   5 1\n            10    5  10 2\n            11    5   1 1\n            12    3  11 2\n            13    3  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

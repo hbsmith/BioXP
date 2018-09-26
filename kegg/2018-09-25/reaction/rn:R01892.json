@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01892",
+    "name": "Ribitol:ferricytochrome-c 2-oxidoreductase",
+    "definition": "Ribitol + 2 Ferricytochrome c <=> D-Ribulose + 2 Ferrocytochrome c + 2 H+",
+    "equation": "C00474 + 2 C00125 <=> C00309 + 2 C00126 + 2 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.2.2"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions"
+    },
+    "orthologs": {
+    }
+  }
+]

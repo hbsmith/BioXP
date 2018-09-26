@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11957",
+    "name": "acetyl-CoA:ethanol O-acetyltransferase",
+    "definition": "Acetyl-CoA + Ethanol <=> CoA + Ethyl acetate",
+    "equation": "C00024 + C00469 <=> C00010 + C00849",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.268"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K22586": "ethanol O-acetyltransferase [EC:2.3.1.268]"
+    }
+  }
+]

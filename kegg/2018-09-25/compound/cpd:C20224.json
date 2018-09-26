@@ -1,0 +1,34 @@
+[
+  {
+    "entry_id": "C20224",
+    "name": "Coniferyl ester",
+    "names": [
+      "Coniferyl ester"
+    ],
+    "formula": "C11H11O4R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R09930"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.318"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "163311967"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8y C    16.8714  -15.5480\n            2   C8x C    18.0730  -14.8220\n            3   C8y C    16.8948  -16.9498\n            4   O2a O    15.6433  -14.8675\n            5   C8y C    19.2932  -15.5007\n            6   C8x C    18.1328  -17.6244\n            7   O1a O    15.6981  -17.6729\n            8   C1a C    14.4417  -15.5936\n            9   C8x C    19.3263  -16.8964\n            10  C2b C    20.4820  -14.7756\n            11  C2b C    21.7091  -15.4433\n            12  C1b C    22.9058  -14.7202\n            13  O7a O    24.1113  -15.3843\n            14  C7a C    25.2796  -14.6782\n            15  R   R    26.5076  -15.3546\n            16  O6a O    25.2517  -13.3001\nBOND        16\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 2\n            6     3   7 1\n            7     4   8 1\n            8     5   9 2\n            9     5  10 1\n            10   10  11 2\n            11   11  12 1\n            12    6   9 1\n            13   12  13 1\n            14   13  14 1\n            15   14  15 1\n            16   14  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

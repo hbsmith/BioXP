@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11454",
+    "name": "ethylenediaminetetraacetate,FMNH2:O2 oxidoreductase (glyoxylate-forming)",
+    "definition": "EDTA + Reduced FMN + Oxygen <=> Ethylenediaminetriacetic acid + Glyoxylate + FMN + H2O",
+    "equation": "C00284 + C01847 + C00007 <=> C21396 + C00048 + C00061 + C00001",
+    "comment": "first step of two-step reaction (see R11456, R11454+R11455)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.33"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

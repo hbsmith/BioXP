@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19611",
+    "name": "Manganese(3+)",
+    "names": [
+      "Manganese(3+)",
+      "Mn3+",
+      "Mn(III)"
+    ],
+    "formula": "Mn",
+    "exact_mass": 54.9381,
+    "mol_weight": 54.938,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00011",
+      "R11881",
+      "R11882"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.11.1.13",
+      "1.11.1.16",
+      "1.16.3.3"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "124490280"
+      ],
+      "PDB-CCD": [
+        "MN3"
+      ]
+    },
+    "kcf": "ATOM        1\n            1   Z   Mn   15.7500  -14.0700 #3+\nBOND        0\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

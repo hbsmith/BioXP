@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06450",
+    "name": "dTDP-alpha-D-mycaminose:tylactone 5-O-beta-D-mycaminosyltransferase",
+    "definition": "Tylactone + dTDP-D-mycaminose <=> 5-O-beta-D-Mycaminosyltylactone + dTDP",
+    "equation": "C12000 + C11933 <=> C12001 + C00363",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.316"
+    ],
+    "pathways": {
+      "rn00522": "Biosynthesis of 12-, 14- and 16-membered macrolides",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15989": "tylactone mycaminosyltransferase [EC:2.4.1.316]",
+      "K15990": "tylactone mycaminosyltransferase auxiliary protein"
+    }
+  }
+]

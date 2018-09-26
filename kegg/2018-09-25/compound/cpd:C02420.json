@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C02420",
+    "name": "Isobutyronitrile",
+    "names": [
+      "Isobutyronitrile",
+      "2-Methylpropanenitrile"
+    ],
+    "formula": "C4H7N",
+    "exact_mass": 69.0578,
+    "mol_weight": 69.1051,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11641",
+      "R11642"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.14.41"
+    ],
+    "dblinks": {
+      "CAS": [
+        "78-82-0"
+      ],
+      "PubChem": [
+        "5451"
+      ],
+      "ChEBI": [
+        "28638"
+      ],
+      "ChEMBL": [
+        "CHEMBL1492874"
+      ],
+      "NIKKAJI": [
+        "J1.959C"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C1c C    17.7811  -14.7666\n            2   C3b C    18.9969  -14.0720\n            3   C1a C    16.5721  -14.0655\n            4   C1a C    17.7811  -16.1687\n            5   N3a N    20.2124  -13.3772\nBOND        4\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08961",
+    "name": "dehydroepiandrosterone,NADPH-hemoprotein reductase:oxygen oxidoreductase (7alpha-hydroxylating)",
+    "definition": "Dehydroepiandrosterone + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> 7alpha-Hydroxydehydroepiandrosterone + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C01227 + C00007 + C03024 <=> C18045 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.23"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+      "K00489": "cholesterol 7alpha-monooxygenase [EC:1.14.14.23]"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "R02078",
+    "name": "L-Tyrosine,L-dopa:oxygen oxidoreductase",
+    "definition": "3,4-Dihydroxy-L-phenylalanine + L-Tyrosine + Oxygen <=> Dopaquinone + 3,4-Dihydroxy-L-phenylalanine + H2O",
+    "equation": "C00355 + C00082 + C00007 <=> C00822 + C00355 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.10.3.1",
+      "1.14.18.1"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn00965": "Betalain biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00422": "polyphenol oxidase [EC:1.10.3.1]",
+      "K00505": "tyrosinase [EC:1.14.18.1]"
+    }
+  }
+][
+  {
+    "entry_id": "R02078",
+    "name": "L-Tyrosine,L-dopa:oxygen oxidoreductase",
+    "definition": "3,4-Dihydroxy-L-phenylalanine + L-Tyrosine + Oxygen <=> Dopaquinone + 3,4-Dihydroxy-L-phenylalanine + H2O",
+    "equation": "C00355 + C00082 + C00007 <=> C00822 + C00355 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.10.3.1",
+      "1.14.18.1"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn00965": "Betalain biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00422": "polyphenol oxidase [EC:1.10.3.1]",
+      "K00505": "tyrosinase [EC:1.14.18.1]"
+    }
+  }
+]

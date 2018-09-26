@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R11906",
+    "name": "isoniazid:hydrogen-peroxide oxidoreductase",
+    "definition": "Isoniazid + Hydrogen peroxide <=> Isonicotinoyl radical + Diimine + 2 H2O",
+    "equation": "C07054 + C00027 <=> C21754 + C05360 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.11.1.21",
+      "1.11.2.2"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K03782": "catalase-peroxidase [EC:1.11.1.21]",
+      "K10789": "myeloperoxidase [EC:1.11.2.2]"
+    }
+  }
+]

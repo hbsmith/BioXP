@@ -1,0 +1,83 @@
+[
+  {
+    "entry_id": "C17500",
+    "name": "6-Iminocyclohexa-2,4-dienone",
+    "names": [
+      "6-Iminocyclohexa-2,4-dienone",
+      "1,2-Benzoquinone monoimine"
+    ],
+    "formula": "C6H5NO",
+    "exact_mass": 107.0371,
+    "mol_weight": 107.11,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08762",
+      "R08763"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.10.3.4"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023846"
+      ],
+      "ChEBI": [
+        "55409"
+      ],
+      "NIKKAJI": [
+        "J795.041A"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C2x C    21.9100  -17.0100\n            2   C2x C    21.9100  -18.4100\n            3   C2x C    23.1224  -19.1100\n            4   C5x C    24.3349  -18.4100\n            5   C2y C    24.3349  -17.0100\n            6   C2x C    23.1224  -16.3100\n            7   N2a N    25.5473  -16.3100\n            8   O5x O    25.5473  -19.1100\nBOND        8\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 2\n            7     5   7 2\n            8     4   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C17500",
+    "name": "6-Iminocyclohexa-2,4-dienone",
+    "names": [
+      "6-Iminocyclohexa-2,4-dienone",
+      "1,2-Benzoquinone monoimine"
+    ],
+    "formula": "C6H5NO",
+    "exact_mass": 107.0371,
+    "mol_weight": 107.11,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08762",
+      "R08763"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.10.3.4"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023846"
+      ],
+      "ChEBI": [
+        "55409"
+      ],
+      "NIKKAJI": [
+        "J795.041A"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C2x C    21.9100  -17.0100\n            2   C2x C    21.9100  -18.4100\n            3   C2x C    23.1224  -19.1100\n            4   C5x C    24.3349  -18.4100\n            5   C2y C    24.3349  -17.0100\n            6   C2x C    23.1224  -16.3100\n            7   N2a N    25.5473  -16.3100\n            8   O5x O    25.5473  -19.1100\nBOND        8\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 2\n            7     5   7 2\n            8     4   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

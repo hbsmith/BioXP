@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06561",
+    "name": "biochanin A,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (2'-hydroxylating)",
+    "definition": "Biochanin A + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 2'-Hydroxybiochanin A + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C00814 + C03024 + C00007 <=> C12135 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.90"
+    ],
+    "pathways": {
+      "rn00943": "Isoflavonoid biosynthesis"
+    },
+    "orthologs": {
+      "K13260": "isoflavone/4'-methoxyisoflavone 2'-hydroxylase [EC:1.14.14.90 1.14.14.89]"
+    }
+  }
+]

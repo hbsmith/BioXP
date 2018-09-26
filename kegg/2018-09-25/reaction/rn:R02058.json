@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R02058",
+    "name": "acetyl-CoA:D-glucosamine-6-phosphate N-acetyltransferase",
+    "definition": "Acetyl-CoA + D-Glucosamine 6-phosphate <=> CoA + N-Acetyl-D-glucosamine 6-phosphate",
+    "equation": "C00024 + C00352 <=> C00010 + C00357",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.4"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K00621": "glucosamine-phosphate N-acetyltransferase [EC:2.3.1.4]"
+    }
+  }
+][
+  {
+    "entry_id": "R02058",
+    "name": "acetyl-CoA:D-glucosamine-6-phosphate N-acetyltransferase",
+    "definition": "Acetyl-CoA + D-Glucosamine 6-phosphate <=> CoA + N-Acetyl-D-glucosamine 6-phosphate",
+    "equation": "C00024 + C00352 <=> C00010 + C00357",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.4"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K00621": "glucosamine-phosphate N-acetyltransferase [EC:2.3.1.4]"
+    }
+  }
+]

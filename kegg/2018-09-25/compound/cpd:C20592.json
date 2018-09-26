@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C20592",
+    "name": "Moniliformin",
+    "names": [
+      "Moniliformin"
+    ],
+    "formula": "C4H2O3",
+    "exact_mass": 98.0004,
+    "mol_weight": 98.0569,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "31876-38-7"
+      ],
+      "PubChem": [
+        "172232329"
+      ],
+      "ChEMBL": [
+        "CHEMBL1977616"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C5x C    13.6500  -14.4900\n            2   C5x C    13.6500  -15.8900\n            3   C2y C    15.0500  -15.8900\n            4   C2x C    15.0500  -14.4900\n            5   O5x O    12.6601  -13.5001\n            6   O5x O    12.6601  -16.8799\n            7   O1a O    16.0399  -16.8799\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 2\n            4     1   4 1\n            5     1   5 2\n            6     2   6 2\n            7     3   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10003",
+    "name": "[(1R)-2,2,3-trimethyl-5-oxocyclopent-3-enyl]acetate:CoA ligase (AMP-forming)",
+    "definition": "[(1R)-2,2,3-Trimethyl-5-oxocyclopent-3-enyl]acetate + ATP + CoA <=> AMP + Diphosphate + [(1R)-2,2,3-Trimethyl-5-oxocyclopent-3-enyl]acetyl-CoA",
+    "equation": "C20271 + C00002 + C00010 <=> C00020 + C00013 + C07160",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.38"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

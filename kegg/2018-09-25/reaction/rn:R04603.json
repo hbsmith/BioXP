@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04603",
+    "name": "UDP-N-acetyl-D-galactosamine:D-glucuronyl-N-acetyl-1,3-beta-D-galactosaminylproteoglycan beta-1,4-N-acetylgalactosaminyltransferase",
+    "definition": "UDP-N-acetyl-D-galactosamine + D-Glucuronyl-N-acetyl-1,3-beta-D-galactosaminylproteoglycan <=> UDP + N-Acetyl-beta-D-galactosaminyl-1,4-beta-D-glucuronyl-N-acetyl-1,3-beta-D-galactosaminylproteoglycan",
+    "equation": "C00203 + C04800 <=> C00015 + C04913",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.175"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00747": "chondroitin polymerizing factor [EC:2.4.1.175 2.4.1.226]",
+      "K13499": "chondroitin sulfate synthase [EC:2.4.1.175 2.4.1.226]",
+      "K13500": "chondroitin synthase [EC:2.4.1.175 2.4.1.226]"
+    }
+  }
+]

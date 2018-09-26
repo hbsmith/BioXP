@@ -1,0 +1,143 @@
+[
+  {
+    "entry_id": "1.14.14.134",
+    "name": "beta-amyrin 24-hydroxylase",
+    "names": [
+      "beta-amyrin 24-hydroxylase",
+      "sophoradiol 24-hydroxylase",
+      "CYP93E1"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "beta-amyrin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (24-hydroxylating)",
+    "reaction": "(1) beta-amyrin + [reduced NADPH---hemoprotein reductase] + O2 = 24-hydroxy-beta-amyrin + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R09604]; (2) sophoradiol + [reduced NADPH---hemoprotein reductase] + O2 = 24-hydroxysophoradiol + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R09605]",
+    "all_reac": "R09604 R09605",
+    "iubmb_reactions": [
+      "R09604 R09605"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "beta-amyrin [CPD:C08616]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]",
+      "sophoradiol [CPD:C19733]"
+    ],
+    "products": [
+      "24-hydroxy-beta-amyrin [CPD:C19732]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]",
+      "24-hydroxysophoradiol [CPD:C08980]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein. Found in plants and participates in the biosynthesis of soybean saponins.",
+    "pathways": {
+      "ec00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15814": "beta-amyrin 24-hydroxylase"
+    },
+    "genes": {
+      "gmx": [
+        "100037459"
+      ],
+      "pvu": [
+        "PHAVU_008G128700g"
+      ],
+      "vra": [
+        "106758614"
+      ],
+      "var": [
+        "108327766"
+      ],
+      "mtr": [
+        "MTR_7g056103"
+      ],
+      "cam": [
+        "101495076"
+      ],
+      "lja": [
+        "Lj1g3v3555800.1"
+      ],
+      "adu": [
+        "107484048"
+      ],
+      "aip": [
+        "107639472"
+      ],
+      "lang": [
+        "109352528"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.134"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.134"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.134"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.134"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Shibuya M",
+          "Hoshino M",
+          "Katsube Y",
+          "Hayashi H",
+          "Kushiro T",
+          "Ebizuka Y"
+        ],
+        "title": "Identification of beta-amyrin and sophoradiol 24-hydroxylase by expressed sequence tag mining and functional expression assay.",
+        "journal": "FEBS J 273:948-59 (2006) DOI:10.1111/j.1742-4658.2006.05120.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:16478469]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10511",
+    "name": "testosterone monooxygenase (17beta-estradiol-forming)",
+    "definition": "Testosterone + 3 Oxygen + 3 [Reduced NADPH---hemoprotein reductase] <=> Estradiol-17beta + Formate + 4 H2O + 3 [Oxidized NADPH---hemoprotein reductase]",
+    "equation": "C00535 + 3 C00007 + 3 C03024 <=> C00951 + C00058 + 4 C00001 + 3 C03161",
+    "comment": "three-step reaction (see R02501+R04761+R03087)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.14"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

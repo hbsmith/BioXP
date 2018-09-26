@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R00150",
+    "name": "ATP:carbamate phosphotransferase",
+    "definition": "ATP + Ammonia + CO2 <=> ADP + Carbamoyl phosphate",
+    "equation": "C00002 + C00014 + C00011 <=> C00008 + C00169",
+    "comment": "two-step reaction (see R07316+R01395)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.2.2"
+    ],
+    "pathways": {
+      "rn00220": "Arginine biosynthesis",
+      "rn00230": "Purine metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K00926": "carbamate kinase [EC:2.7.2.2]"
+    }
+  }
+]

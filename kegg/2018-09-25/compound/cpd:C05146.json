@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C05146",
+    "name": "Hydantoin",
+    "names": [
+      "Hydantoin",
+      "Glycolylurea"
+    ],
+    "formula": "C3H4N2O2",
+    "exact_mass": 100.0273,
+    "mol_weight": 100.0761,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "461-72-3"
+      ],
+      "PubChem": [
+        "7564"
+      ],
+      "ChEBI": [
+        "27612"
+      ],
+      "ChEMBL": [
+        "CHEMBL122334"
+      ],
+      "PDB-CCD": [
+        "HYN"
+      ],
+      "NIKKAJI": [
+        "J2.588G"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   N1x N    16.2384  -17.5700\n            2   C5x C    15.1203  -18.4125\n            3   C1x C    15.5761  -19.7363\n            4   N1x N    16.9759  -19.7119\n            5   C5x C    17.3852  -18.3731\n            6   O5x O    18.6972  -17.9214\n            7   O5x O    13.7815  -18.0031\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     5   6 2\n            7     2   7 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

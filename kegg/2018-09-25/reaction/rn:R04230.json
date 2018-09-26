@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04230",
+    "name": "(R)-4'-phosphopantothenate:L-cysteine ligase (ATP-utilizing)",
+    "definition": "ATP + D-4'-Phosphopantothenate + L-Cysteine <=> AMP + Diphosphate + (R)-4'-Phosphopantothenoyl-L-cysteine",
+    "equation": "C00002 + C03492 + C00097 <=> C00020 + C00013 + C04352",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.51"
+    ],
+    "pathways": {
+      "rn00770": "Pantothenate and CoA biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01922": "phosphopantothenate---cysteine ligase (ATP) [EC:6.3.2.51]"
+    }
+  }
+]

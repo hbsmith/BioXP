@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R08816",
+    "name": "UDP-glucose:2,3-dihydro-5,6-dihydroxyindole-2-carboxylate 5-O-beta-D-glucosyltransferase",
+    "definition": "2-Carboxy-2,3-dihydro-5,6-dihydroxyindole + UDP-glucose <=> cyclo-Dopa 5-O-glucoside + UDP",
+    "equation": "C05604 + C00029 <=> C17751 + C00015",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn00965": "Betalain biosynthesis"
+    },
+    "orthologs": {
+      "K15776": "cyclo-DOPA 5-O-glucosyltransferase [EC:2.4.1.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R08816",
+    "name": "UDP-glucose:2,3-dihydro-5,6-dihydroxyindole-2-carboxylate 5-O-beta-D-glucosyltransferase",
+    "definition": "2-Carboxy-2,3-dihydro-5,6-dihydroxyindole + UDP-glucose <=> cyclo-Dopa 5-O-glucoside + UDP",
+    "equation": "C05604 + C00029 <=> C17751 + C00015",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn00965": "Betalain biosynthesis"
+    },
+    "orthologs": {
+      "K15776": "cyclo-DOPA 5-O-glucosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

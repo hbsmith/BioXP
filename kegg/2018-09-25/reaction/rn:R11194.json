@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R11194",
+    "name": "2,4-dimethylphenol:oxidized azurin oxidoreductase (methyl-hydroxylating)",
+    "definition": "2,4-Dimethylphenol + 4 Oxidized azurin + H2O <=> 4-Hydroxy-3-methylbenzaldehyde + 4 Reduced azurin + 4 H+",
+    "equation": "C14582 + 4 C05357 + C00001 <=> C21166 + 4 C05358 + 4 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.17.9.1"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K05797": "4-cresol dehydrogenase (hydroxylating) flavoprotein subunit [EC:1.17.9.1]",
+      "K20200": "4-cresol dehydrogenase (hydroxylating) cytochrome subunit"
+    }
+  }
+]

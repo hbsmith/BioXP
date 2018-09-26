@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R01586",
+    "name": "L-glutamate:methylamine 1,3-dicarboxypropyltransferase (N-methyl-L-glutamate-forming)",
+    "definition": "Methylamine + L-Glutamate <=> Ammonia + N-Methyl-L-glutamate",
+    "equation": "C00218 + C00025 <=> C00014 + C01046",
+    "comment": "methylamine-glutamate N-methyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.21"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K22081": "methylamine---glutamate N-methyltransferase subunit A [EC:2.1.1.21]",
+      "K22082": "methylamine---glutamate N-methyltransferase subunit B [EC:2.1.1.21]",
+      "K22083": "methylamine---glutamate N-methyltransferase subunit C [EC:2.1.1.21]"
+    }
+  }
+]

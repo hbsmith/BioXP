@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01634",
+    "name": "3,4-dihydroxyphthalate carboxy-lyase (3,4-dihydroxybenzoate-forming)",
+    "definition": "3,4-Dihydroxyphthalate <=> 3,4-Dihydroxybenzoate + CO2",
+    "equation": "C03223 <=> C00230 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.69"
+    ],
+    "pathways": {
+      "rn00624": "Polycyclic aromatic hydrocarbon degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K18256": "3,4-dihydroxyphthalate decarboxylase [EC:4.1.1.69]"
+    }
+  }
+]

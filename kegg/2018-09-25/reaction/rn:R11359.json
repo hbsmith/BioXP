@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11359",
+    "name": "",
+    "definition": "(25R)-26-Hydroxycholest-4-en-3-one + 2 Reduced ferredoxin + Oxygen <=> (25R)-26-Oxocholest-4-en-3-one + 2 Oxidized ferredoxin + 2 H2O",
+    "equation": "C21303 + 2 C00138 + C00007 <=> C21305 + 2 C00139 + 2 C00001",
+    "comment": "the second step of three-step reaction (see R11361, R11358+R11359+R11360)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.28"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

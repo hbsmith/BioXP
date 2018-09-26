@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09229",
+    "name": "muconate cycloisomerase",
+    "definition": "3-Methyl-cis,cis-hexadienedioate <=> 3-Methylmuconolactone",
+    "equation": "C04112 <=> C04558",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.1"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K01856": "muconate cycloisomerase [EC:5.5.1.1]"
+    }
+  }
+]

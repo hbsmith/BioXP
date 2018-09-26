@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C14528",
+    "name": "Tetrachlorobisphenol A",
+    "names": [
+      "Tetrachlorobisphenol A",
+      "3,3',5,5'-Tetrachlorobisphenol A",
+      "Tetrachlorodian",
+      "2,2-Bis(4-hydroxy-3,5-dichlorophenyl)propane"
+    ],
+    "formula": "C15H12Cl4O2",
+    "exact_mass": 363.9591,
+    "mol_weight": 366.0666,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "79-95-8"
+      ],
+      "PubChem": [
+        "17395528"
+      ],
+      "ChEBI": [
+        "35004"
+      ],
+      "ChEMBL": [
+        "CHEMBL1738928"
+      ],
+      "PDB-CCD": [
+        "XDH"
+      ],
+      "NIKKAJI": [
+        "J53.760H"
+      ]
+    },
+    "kcf": "ATOM        21\n            1   C8y C    19.8347  -16.6907\n            2   C8y C    19.8347  -18.0665\n            3   C8y C    21.0041  -18.7544\n            4   C8x C    22.1736  -18.0665\n            5   C8y C    22.1736  -16.6907\n            6   C8x C    21.0041  -16.0028\n            7   O1a O    18.5964  -18.6857\n            8   C1d C    23.4118  -16.0028\n            9   C8y C    24.5812  -16.6907\n            10  C1a C    22.1736  -15.3149\n            11  C1a C    24.5812  -15.3149\n            12  C8x C    24.5812  -18.0665\n            13  C8y C    25.7507  -18.7544\n            14  C8y C    26.9889  -18.0665\n            15  C8y C    26.9889  -16.6907\n            16  C8x C    25.7507  -16.0028\n            17  O1a O    28.1583  -18.7544\n            18  X   Cl   18.5874  -15.9778\n            19  X   Cl   21.0041  -20.1600\n            20  X   Cl   25.7333  -20.1597\n            21  X   Cl   28.2322  -15.9596\nBOND        22\n            1     2   3 1\n            2     8   9 1\n            3     3   4 2\n            4     8  10 1\n            5     4   5 1\n            6     8  11 1\n            7     5   6 2\n            8     6   1 1\n            9     2   7 1\n            10    1   2 2\n            11    9  12 2\n            12   12  13 1\n            13   13  14 2\n            14   14  15 1\n            15   15  16 2\n            16   16   9 1\n            17    5   8 1\n            18   14  17 1\n            19    1  18 1\n            20    3  19 1\n            21   13  20 1\n            22   15  21 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

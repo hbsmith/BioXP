@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03866",
+    "name": "(6Z,8E,10E,14Z)-(5S,12R)-5,12-dihydroxyicosa-6,8,10,14-tetraenoate,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (20-hydroxylating)",
+    "definition": "Leukotriene B4 + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 20-OH-Leukotriene B4 + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C02165 + C03024 + C00007 <=> C04853 + C03161 + C00001",
+    "comment": "CYP4F2/3",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.94"
+    ],
+    "pathways": {
+      "rn00590": "Arachidonic acid metabolism"
+    },
+    "orthologs": {
+      "K17726": "phylloquinone omega-hydroxylase / docosahexaenoic acid omega-hydroxylase / leukotriene-B4 20-monooxygenase [EC:1.14.14.78 1.14.14.79 1.14.14.94]"
+    }
+  }
+]

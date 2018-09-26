@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09054",
+    "name": "3-hydroxyethylbacteriochlorophyllide-a hydro-lyase (3-vinylbacteriochlorophyllide-a-forming)",
+    "definition": "3-Vinylbacteriochlorophyllide a + H2O <=> 3-Hydroxyethylbacteriochlorophyllide a",
+    "equation": "C18152 + C00001 <=> C18153",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.165"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K11336": "3-vinyl bacteriochlorophyllide hydratase [EC:4.2.1.165]"
+    }
+  }
+]

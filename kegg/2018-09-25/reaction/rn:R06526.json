@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06526",
+    "name": "dihydroceramide,ferrocytochrome b5:oxygen oxidoreductase (C4-hydroxylating)",
+    "definition": "Dihydroceramide + 2 Ferrocytochrome b5 + Oxygen + 2 H+ <=> Phytoceramide + 2 Ferricytochrome b5 + H2O",
+    "equation": "C12126 + 2 C00999 + C00007 + 2 C00080 <=> C12145 + 2 C00996 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.18.5"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K04713": "sphinganine C4-monooxygenase [EC:1.14.18.5]"
+    }
+  }
+]

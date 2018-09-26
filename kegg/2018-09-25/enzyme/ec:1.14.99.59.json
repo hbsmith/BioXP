@@ -1,0 +1,107 @@
+[
+  {
+    "entry_id": "1.14.99.59",
+    "name": "tryptamine 4-monooxygenase",
+    "names": [
+      "tryptamine 4-monooxygenase",
+      "PsiH"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "Miscellaneous"
+    ],
+    "sysname": "tryptamine,hydrogen-donor:oxygen oxidoreductase (4-hydroxylating)",
+    "reaction": "tryptamine + reduced acceptor + O2 = 4-hydroxytryptamine + acceptor + H2O [RN:R11912]",
+    "all_reac": "R11912",
+    "iubmb_reactions": [
+      "R11912"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "tryptamine [CPD:C00398]",
+      "reduced acceptor [CPD:C00030]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "4-hydroxytryptamine [CPD:C21762]",
+      "acceptor [CPD:C00028]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein isolated from the fungus Psilocybe cubensis. Involved in the biosynthesis of the psychoactive compound psilocybin.",
+    "pathways": {
+      "ec00901": "Indole alkaloid biosynthesis",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22434": "tryptamine 4-monooxygenase"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.99.59"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.99.59"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.99.59"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.99.59"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Fricke J",
+          "Blei F",
+          "Hoffmeister D"
+        ],
+        "title": "Enzymatic Synthesis of Psilocybin.",
+        "journal": "Angew Chem Int Ed Engl 56:12352-12355 (2017) DOI:10.1002/anie.201705489",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:28763571]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

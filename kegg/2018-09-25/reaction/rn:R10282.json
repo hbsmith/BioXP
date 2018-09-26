@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10282",
+    "name": "beta-carotene 9-cis-all-trans isomerase",
+    "definition": "beta-Carotene <=> 9-cis-beta-Carotene",
+    "equation": "C02094 <=> C20484",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.2.1.14"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K17911": "beta-carotene isomerase [EC:5.2.1.14]"
+    }
+  }
+]

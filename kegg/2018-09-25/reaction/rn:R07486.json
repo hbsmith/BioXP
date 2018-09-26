@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07486",
+    "name": "delta7-avenasterol,ferrocytochrome b5:oxygen oxidoreductase 5,6-dehydrogenating",
+    "definition": "Delta7-Avenasterol + 2 Ferrocytochrome b5 + Oxygen + 2 H+ <=> 5-Dehydroavenasterol + 2 Ferricytochrome b5 + 2 H2O",
+    "equation": "C15782 + 2 C00999 + C00007 + 2 C00080 <=> C15783 + 2 C00996 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.20"
+    ],
+    "pathways": {
+      "rn00100": "Steroid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00227": "Delta7-sterol 5-desaturase [EC:1.14.19.20]"
+    }
+  }
+]

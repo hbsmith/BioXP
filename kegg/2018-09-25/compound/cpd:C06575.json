@@ -1,0 +1,61 @@
+[
+  {
+    "entry_id": "C06575",
+    "name": "p-Cymene",
+    "names": [
+      "p-Cymene"
+    ],
+    "formula": "C10H14",
+    "exact_mass": 134.1096,
+    "mol_weight": 134.2182,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05266"
+    ],
+    "pathways": {
+      "map00622": "Xylene degradation",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.14.15.25"
+    ],
+    "dblinks": {
+      "CAS": [
+        "99-87-6"
+      ],
+      "PubChem": [
+        "8804"
+      ],
+      "ChEBI": [
+        "28768"
+      ],
+      "ChEMBL": [
+        "CHEMBL442915"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0102090014"
+      ],
+      "KNApSAcK": [
+        "C00003040"
+      ],
+      "PDB-CCD": [
+        "MML"
+      ],
+      "3DMET": [
+        "B00975"
+      ],
+      "NIKKAJI": [
+        "J11.621A"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    28.8400  -17.9940\n            2   C1c C    28.8400  -19.3906\n            3   C8x C    27.6238  -17.2900\n            4   C8x C    30.0503  -17.2900\n            5   C1a C    27.6297  -20.0889\n            6   C1a C    30.0562  -20.0832\n            7   C8x C    27.6238  -15.8877\n            8   C8x C    30.0503  -15.8877\n            9   C8y C    28.8400  -15.1951\n            10  C1a C    28.8400  -13.7927\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     2   6 1\n            6     3   7 2\n            7     4   8 1\n            8     7   9 1\n            9     9  10 1\n            10    8   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

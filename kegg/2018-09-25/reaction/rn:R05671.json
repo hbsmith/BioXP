@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05671",
+    "name": "",
+    "definition": "3'-Amino-3'-deoxy-AMP + L-Tyrosine <=> N6,N6,O-Tridemethylpuromycin-5'-phosphate",
+    "equation": "C07026 + C00082 <=> C07027",
+    "comment": "incomplete reaction Pur6",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00231": "Puromycin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12631": "puromycin biosynthesis protein Pur6"
+    }
+  }
+]

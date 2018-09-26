@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02476",
+    "name": "Androsterone:NAD+ oxidoreductase",
+    "definition": "Androsterone + NAD+ <=> 5alpha-Androstane-3,17-dione + NADH + H+",
+    "equation": "C00523 + C00003 <=> C00674 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.50",
+      "1.1.1.209",
+      "1.1.1.213"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+      "K00037": "3alpha-hydroxysteroid 3-dehydrogenase / chlordecone reductase [EC:1.1.1.50 1.1.1.357 1.1.1.225]"
+    }
+  }
+]

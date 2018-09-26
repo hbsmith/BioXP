@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10232",
+    "name": "tRNA(cytosine8) aminohydrolase",
+    "definition": "tRNA cytosine + H2O <=> tRNA uridine + Ammonia",
+    "equation": "C17325 + C00001 <=> C00868 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.4.35"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K16930": "tRNA(cytosine8) deaminase [EC:3.5.4.35]"
+    }
+  }
+]

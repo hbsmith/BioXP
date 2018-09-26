@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R02768",
+    "name": "Acyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)",
+    "definition": "Acyl-[acyl-carrier protein] + Malonyl-[acyl-carrier protein] <=> 3-Oxoacyl-[acyl-carrier protein] + CO2 + Acyl-carrier protein",
+    "equation": "C00173 + C01209 <=> C00685 + C00011 + C00229",
+    "comment": "general reaction (see R04355, R04726, R04952, R04957, R04960, R04963, R04968 and R07762)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.41"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

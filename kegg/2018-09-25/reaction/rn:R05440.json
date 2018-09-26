@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "R05440",
+    "name": "",
+    "definition": "Ethylbenzene + Oxygen + NADH + H+ <=> cis-1,2-Dihydro-3-ethylcatechol + NAD+",
+    "equation": "C07111 + C00007 + C00004 + C00080 <=> C06727 + C00003",
+    "comment": "ethylbenzene dioxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.12.-"
+    ],
+    "pathways": {
+      "rn00642": "Ethylbenzene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K14748": "ethylbenzene dioxygenase subunit alpha [EC:1.14.12.-]",
+      "K14749": "ethylbenzene dioxygenase subunit beta [EC:1.14.12.-]",
+      "K14750": "ethylbenzene dioxygenase ferredoxin component"
+    }
+  }
+][
+  {
+    "entry_id": "R05440",
+    "name": "",
+    "definition": "Ethylbenzene + Oxygen + NADH + H+ <=> cis-1,2-Dihydro-3-ethylcatechol + NAD+",
+    "equation": "C07111 + C00007 + C00004 + C00080 <=> C06727 + C00003",
+    "comment": "ethylbenzene dioxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.12.-"
+    ],
+    "pathways": {
+      "rn00642": "Ethylbenzene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K14748": "ethylbenzene dioxygenase subunit alpha [EC:1.14.12.-]",
+      "K14749": "ethylbenzene dioxygenase subunit beta [EC:1.14.12.-]",
+      "K14750": "ethylbenzene dioxygenase ferredoxin component"
+    }
+  }
+]

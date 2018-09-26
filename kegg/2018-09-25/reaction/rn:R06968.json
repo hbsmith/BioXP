@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "R06968",
+    "name": "",
+    "definition": "Melamine + H2O <=> Ammeline + Ammonia",
+    "equation": "C08737 + C00001 <=> C08733 + C00014",
+    "comment": "melamine aminohydrolase, TriA",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.4.45",
+      "3.8.1.8"
+    ],
+    "pathways": {
+      "rn00791": "Atrazine degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K05394": "atrazine chlorohydrolase [EC:3.8.1.8]",
+      "K21593": "melamine deaminase [EC:3.5.4.45]"
+    }
+  }
+][
+  {
+    "entry_id": "R06968",
+    "name": "",
+    "definition": "Melamine + H2O <=> Ammeline + Ammonia",
+    "equation": "C08737 + C00001 <=> C08733 + C00014",
+    "comment": "melamine aminohydrolase, TriA",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.4.45",
+      "3.8.1.8"
+    ],
+    "pathways": {
+      "rn00791": "Atrazine degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K05394": "atrazine chlorohydrolase [EC:3.8.1.8]",
+      "K21593": "melamine deaminase [EC:3.5.4.45]"
+    }
+  }
+]

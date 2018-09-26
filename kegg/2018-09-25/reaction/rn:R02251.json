@@ -1,0 +1,27 @@
+[
+  {
+    "entry_id": "R02251",
+    "name": "acyl-CoA:1,2-diacyl-sn-glycerol O-acyltransferase",
+    "definition": "Triacylglycerol + CoA <=> 1,2-Diacyl-sn-glycerol + Acyl-CoA",
+    "equation": "C00422 + C00010 <=> C00641 + C00040",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.20"
+    ],
+    "pathways": {
+      "rn00561": "Glycerolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00635": "diacylglycerol O-acyltransferase / wax synthase [EC:2.3.1.20 2.3.1.75]",
+      "K11155": "diacylglycerol O-acyltransferase 1 [EC:2.3.1.20 2.3.1.75 2.3.1.76]",
+      "K11160": "diacylglycerol O-acyltransferase 2 [EC:2.3.1.20 2.3.1.75]",
+      "K14456": "2-acylglycerol O-acyltransferase 3 [EC:2.3.1.20 2.3.1.22]",
+      "K18851": "diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase [EC:2.3.1.20 2.3.1.122]",
+      "K22848": "diacylglycerol O-acyltransferase 2, plant [EC:2.3.1.20]",
+      "K22849": "diacylglycerol O-acyltransferase 3, plant [EC:2.3.1.20]"
+    }
+  }
+]

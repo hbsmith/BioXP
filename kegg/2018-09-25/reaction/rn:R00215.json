@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R00215",
+    "name": "(R)-Malate:NAD+ oxidoreductase (decarboxylating)",
+    "definition": "(R)-Malate + NAD+ <=> Pyruvate + CO2 + NADH + H+",
+    "equation": "C00497 + C00003 <=> C00022 + C00011 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.83"
+    ],
+    "pathways": {
+      "rn00650": "Butanoate metabolism"
+    },
+    "orthologs": {
+      "K07246": "tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase [EC:1.1.1.93 4.1.1.73 1.1.1.83]"
+    }
+  }
+][
+  {
+    "entry_id": "R00215",
+    "name": "(R)-Malate:NAD+ oxidoreductase (decarboxylating)",
+    "definition": "(R)-Malate + NAD+ <=> Pyruvate + CO2 + NADH + H+",
+    "equation": "C00497 + C00003 <=> C00022 + C00011 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.83"
+    ],
+    "pathways": {
+      "rn00650": "Butanoate metabolism"
+    },
+    "orthologs": {
+      "K07246": "tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase [EC:1.1.1.93 4.1.1.73 1.1.1.83]"
+    }
+  }
+]

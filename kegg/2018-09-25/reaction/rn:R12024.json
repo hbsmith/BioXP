@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R12024",
+    "name": "N-(4-oxoglutaryl)-L-cysteinylglycine amidohydrolase",
+    "definition": "N-(4-Oxoglutaryl)-L-cysteinylglycine + H2O <=> 2-Oxoglutarate + Cys-Gly",
+    "equation": "C21858 + C00001 <=> C00026 + C01419",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.128"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K11206": "deaminated glutathione amidase [EC:3.5.1.128]"
+    }
+  }
+]

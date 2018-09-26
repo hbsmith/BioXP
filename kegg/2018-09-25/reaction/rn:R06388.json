@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06388",
+    "name": "NADPH:oxygen oxidoreductase",
+    "definition": "(1S,4R)-Iso-dihydrocarvone + NADPH + Oxygen + H+ <=> (3S,6R)-6-Isopropenyl-3-methyl-2-oxo-oxepanone + NADP+ + H2O",
+    "equation": "C11401 + C00005 + C00007 + C00080 <=> C11403 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.105"
+    ],
+    "pathways": {
+      "rn00903": "Limonene and pinene degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

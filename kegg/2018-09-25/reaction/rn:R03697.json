@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03697",
+    "name": "",
+    "definition": "Morphine + [Oxidized NADPH---hemoprotein reductase] + Formaldehyde + H2O <=> Codeine + [Reduced NADPH---hemoprotein reductase] + Oxygen",
+    "equation": "C01516 + C03161 + C00067 + C00001 <=> C06174 + C03024 + C00007",
+    "comment": "CYP2D6:O-demethylation",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.1"
+    ],
+    "pathways": {
+      "rn00982": "Drug metabolism - cytochrome P450"
+    },
+    "orthologs": {
+      "K17712": "cytochrome P450 family 2 subfamily D polypeptide 6 [EC:1.14.14.1]"
+    }
+  }
+]

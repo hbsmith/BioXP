@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00619",
+    "name": "ATP:thiamine diphosphotransferase",
+    "definition": "ATP + Thiamine <=> AMP + Thiamin diphosphate",
+    "equation": "C00002 + C00378 <=> C00020 + C00068",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.6.2"
+    ],
+    "pathways": {
+      "rn00730": "Thiamine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00949": "thiamine pyrophosphokinase [EC:2.7.6.2]"
+    }
+  }
+]

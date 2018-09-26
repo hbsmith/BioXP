@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02846",
+    "name": "Cysteine hydrogen-sulfide-lyase (adding HCN)",
+    "definition": "Cysteine + Cyanide ion <=> Hydrogen sulfide + 3-Cyano-L-alanine",
+    "equation": "C00736 + C00177 <=> C00283 + C02512",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.9"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K13034": "L-3-cyanoalanine synthase/ cysteine synthase [EC:2.5.1.47 4.4.1.9]"
+    }
+  }
+]

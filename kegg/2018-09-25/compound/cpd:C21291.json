@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C21291",
+    "name": "2-Hydroxy-2-methylpropanal",
+    "names": [
+      "2-Hydroxy-2-methylpropanal",
+      "2-Hydroxyisobutyraldehyde"
+    ],
+    "formula": "C4H8O2",
+    "exact_mass": 88.0524,
+    "mol_weight": 88.1051,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11338",
+      "R11350"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.400",
+      "1.2.1.98"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "318172271"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C4a C    18.0324  -15.8775\n            2   C1d C    19.2482  -16.5212\n            3   C1a C    20.4640  -15.8775\n            4   C1a C    19.2482  -17.9516\n            5   O1a O    19.2482  -15.0909\n            6   O4a O    18.0324  -14.4652\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     2   4 1\n            4     2   5 1\n            5     1   6 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

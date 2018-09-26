@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09417",
+    "name": "microsomal epoxide hydrolase",
+    "definition": "1a,11b-Dihydro-4,9-dimethylbenz[a]anthra[3,4-b]oxirene + H2O <=> trans-3,4-Dihydro-3,4-dihydroxy-7,12-dimethylbenz[a]anthracene",
+    "equation": "C19489 + C00001 <=> C19490",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.3.2.9"
+    ],
+    "pathways": {
+      "rn00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "orthologs": {
+      "K01253": "microsomal epoxide hydrolase [EC:3.3.2.9]"
+    }
+  }
+]

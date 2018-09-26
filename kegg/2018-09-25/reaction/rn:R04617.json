@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R04617",
+    "name": "UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminoheptanedioate:D-alanyl-D-alanine ligase(ADP-forming)",
+    "definition": "ATP + UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate + D-Alanyl-D-alanine <=> ADP + Orthophosphate + UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl-D-alanine",
+    "equation": "C00002 + C04877 + C00993 <=> C00008 + C00009 + C04882",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.10"
+    ],
+    "pathways": {
+      "rn00300": "Lysine biosynthesis",
+      "rn00550": "Peptidoglycan biosynthesis"
+    },
+    "orthologs": {
+      "K01929": "UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]",
+      "K15792": "murE/murF fusion protein [EC:6.3.2.13 6.3.2.10]"
+    }
+  }
+]

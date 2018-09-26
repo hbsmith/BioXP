@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "R05727",
+    "name": "quinine,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase",
+    "definition": "Quinine + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 3-Hydroxyquinine + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C06526 + C03024 + C00007 <=> C07344 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.55"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K17689": "cytochrome P450 family 3 subfamily A polypeptide 4 [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.13.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R05727",
+    "name": "quinine,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase",
+    "definition": "Quinine + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 3-Hydroxyquinine + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C06526 + C03024 + C00007 <=> C07344 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.55"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K17689": "cytochrome P450 family 3 subfamily A polypeptide 4 [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.13.-]"
+    }
+  }
+]

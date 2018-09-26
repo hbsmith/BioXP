@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06753",
+    "name": "",
+    "definition": "beta-Hydroxy-L-tyrosyl-[pcp] <=> beta-Keto-L-tyrosyl-[pcp]",
+    "equation": "C12462 <=> C12463",
+    "comment": "3-ketoacyl reductase, NovJ CloJ CouJ reductase, NovK CloK CouK",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00401": "Novobiocin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12703": "novobiocin biosynthesis protein NovJ",
+      "K12704": "novobiocin biosynthesis protein NovK"
+    }
+  }
+]

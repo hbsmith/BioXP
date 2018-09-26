@@ -1,0 +1,35 @@
+[
+  {
+    "entry_id": "R10025",
+    "name": "artemisinic-aldehyde,[reduced NADPH---hemoprotein reductase]:oxygen 12-oxidoreductase",
+    "definition": "Artemisinic aldehyde + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> Artemisinate + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C20308 + C00007 + C03024 <=> C20309 + C03161 + C00001",
+    "comment": "the last step of three-step reaction (see R10026, R10023+R10024+R10025)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.114"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+][
+  {
+    "entry_id": "R10025",
+    "name": "artemisinic-aldehyde,[reduced NADPH---hemoprotein reductase]:oxygen 12-oxidoreductase",
+    "definition": "Artemisinic aldehyde + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> Artemisinate + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C20308 + C00007 + C03024 <=> C20309 + C03161 + C00001",
+    "comment": "the last step of three-step reaction (see R10026, R10023+R10024+R10025)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.114"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

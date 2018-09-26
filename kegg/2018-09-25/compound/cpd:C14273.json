@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C14273",
+    "name": "1,2-Octanediol",
+    "names": [
+      "1,2-Octanediol",
+      "1,2-Dihydroxyoctane"
+    ],
+    "formula": "C8H18O2",
+    "exact_mass": 146.1307,
+    "mol_weight": 146.2273,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1117-86-8"
+      ],
+      "PubChem": [
+        "17395273"
+      ],
+      "ChEBI": [
+        "34056"
+      ],
+      "ChEMBL": [
+        "CHEMBL3186864"
+      ],
+      "LIPIDMAPS": [
+        "LMFA05000089"
+      ],
+      "NIKKAJI": [
+        "J103.154F"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1c C    30.4463  -19.1573\n            2   C1b C    29.1829  -18.4554\n            3   C1b C    31.6395  -18.4554\n            4   O1a O    30.4463  -20.5610\n            5   C1b C    27.9898  -19.1573\n            6   O1a O    32.8327  -19.1573\n            7   C1b C    26.7966  -18.4554\n            8   C1b C    25.5332  -19.1573\n            9   C1b C    24.3401  -18.4554\n            10  C1a C    23.1469  -19.1573\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     5   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

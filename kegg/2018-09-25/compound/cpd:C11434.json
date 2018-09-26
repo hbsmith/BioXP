@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C11434",
+    "name": "2-C-Methyl-D-erythritol 4-phosphate",
+    "names": [
+      "2-C-Methyl-D-erythritol 4-phosphate"
+    ],
+    "formula": "C5H13O7P",
+    "exact_mass": 216.0399,
+    "mol_weight": 216.1263,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05633",
+      "R05688"
+    ],
+    "pathways": {
+      "map00900": "Terpenoid backbone biosynthesis",
+      "map01060": "Biosynthesis of plant secondary metabolites",
+      "map01062": "Biosynthesis of terpenoids and steroids",
+      "map01070": "Biosynthesis of plant hormones",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.1.1.267",
+      "2.7.7.60"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "13606"
+      ],
+      "ChEBI": [
+        "17764"
+      ],
+      "KNApSAcK": [
+        "C00007297"
+      ],
+      "3DMET": [
+        "B04262"
+      ],
+      "NIKKAJI": [
+        "J865.583I"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1b C    24.2102  -19.6570\n            2   C1d C    25.4191  -18.9572\n            3   C1c C    26.6279  -19.6570\n            4   C1b C    27.8368  -18.9572\n            5   O2b O    29.0456  -19.6570\n            6   O1a O    26.6279  -21.0568\n            7   O1a O    26.4087  -17.9604\n            8   C1a C    24.4223  -17.9604\n            9   P1b P    30.4454  -19.6570\n            10  O1c O    30.4382  -18.2573\n            11  O1c O    31.8451  -19.6570\n            12  O1c O    30.4382  -21.0568\n            13  O1a O    23.0099  -18.9660\nBOND        12\n            1     2   7 1 #Down\n            2     3   4 1\n            3     2   8 1 #Up\n            4     4   5 1\n            5     5   9 1\n            6     2   3 1\n            7     9  10 2\n            8     3   6 1 #Up\n            9     9  11 1\n            10    1   2 1\n            11    9  12 1\n            12    1  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

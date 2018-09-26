@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R03057",
+    "name": "(7E,9E,11Z,14Z)-(5S,6S)-5,6-Epoxyicosa-7,9,11,14-tetraenoate hydrolase",
+    "definition": "Leukotriene A4 + H2O <=> Leukotriene B4",
+    "equation": "C00909 + C00001 <=> C02165",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.3.2.6"
+    ],
+    "pathways": {
+      "rn00590": "Arachidonic acid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01254": "leukotriene-A4 hydrolase [EC:3.3.2.6]"
+    }
+  }
+][
+  {
+    "entry_id": "R03057",
+    "name": "(7E,9E,11Z,14Z)-(5S,6S)-5,6-Epoxyicosa-7,9,11,14-tetraenoate hydrolase",
+    "definition": "Leukotriene A4 + H2O <=> Leukotriene B4",
+    "equation": "C00909 + C00001 <=> C02165",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.3.2.6"
+    ],
+    "pathways": {
+      "rn00590": "Arachidonic acid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01254": "leukotriene-A4 hydrolase [EC:3.3.2.6]"
+    }
+  }
+]

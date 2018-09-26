@@ -1,0 +1,29 @@
+[
+  {
+    "entry_id": "R00200",
+    "name": "ATP:pyruvate 2-O-phosphotransferase",
+    "definition": "ATP + Pyruvate <=> ADP + Phosphoenolpyruvate",
+    "equation": "C00002 + C00022 <=> C00008 + C00074",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.40"
+    ],
+    "pathways": {
+      "rn00010": "Glycolysis / Gluconeogenesis",
+      "rn00230": "Purine metabolism",
+      "rn00620": "Pyruvate metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01130": "Biosynthesis of antibiotics",
+      "rn01200": "Carbon metabolism",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K00873": "pyruvate kinase [EC:2.7.1.40]",
+      "K12406": "pyruvate kinase isozymes R/L [EC:2.7.1.40]"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R01288",
+    "name": "O4-succinyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase; O-succinyl-L-homoserine succinate-lyase (adding hydrogen sulfide)",
+    "definition": "O-Succinyl-L-homoserine + Hydrogen sulfide <=> L-Homocysteine + Succinate",
+    "equation": "C01118 + C00283 <=> C00155 + C00042",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.48",
+      "2.5.1.-"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn00920": "Sulfur metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01739": "cystathionine gamma-synthase [EC:2.5.1.48]",
+      "K10764": "O-succinylhomoserine sulfhydrylase [EC:2.5.1.-]"
+    }
+  }
+]

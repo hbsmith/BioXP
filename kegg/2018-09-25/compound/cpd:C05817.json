@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C05817",
+    "name": "(1R,6R)-6-Hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate",
+    "names": [
+      "(1R,6R)-6-Hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate",
+      "(1R,6R)-2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate",
+      "SHCHC"
+    ],
+    "formula": "C11H12O6",
+    "exact_mass": 240.0634,
+    "mol_weight": 240.2094,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04031",
+      "R08166"
+    ],
+    "pathways": {
+      "map00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "4.2.1.113",
+      "4.2.99.20"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8112"
+      ],
+      "ChEBI": [
+        "39564"
+      ],
+      "PDB-CCD": [
+        "164"
+      ],
+      "3DMET": [
+        "B05119"
+      ],
+      "NIKKAJI": [
+        "J2.759.808K"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C1y C    10.6400  -29.4000\n            2   C2x C    10.6400  -30.8000\n            3   C2x C    11.8524  -31.5000\n            4   C2x C    13.0649  -30.8000\n            5   C2y C    13.0649  -29.4000\n            6   C1y C    11.8524  -28.7000\n            7   C6a C    11.8524  -27.3002\n            8   O1a O     9.4276  -28.7000\n            9   C5a C    14.3024  -28.7000\n            10  C1b C    15.5149  -29.4000\n            11  C1b C    16.7273  -28.7000\n            12  C6a C    17.9397  -29.4000\n            13  O6a O    19.1522  -28.7000\n            14  O5a O    14.3086  -27.3003\n            15  O6a O    17.9397  -30.7999\n            16  O6a O    13.0480  -26.6097\n            17  O6a O    10.6232  -26.5904\nBOND        17\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 1\n            7     6   7 1 #Down\n            8     1   8 1 #Up\n            9     5   9 1\n            10    9  10 1\n            11   10  11 1\n            12   11  12 1\n            13   12  13 1\n            14    9  14 2\n            15   12  15 2\n            16    7  16 2\n            17    7  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

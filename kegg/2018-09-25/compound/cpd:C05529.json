@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C05529",
+    "name": "Thiosulfuric acid",
+    "names": [
+      "Thiosulfuric acid"
+    ],
+    "formula": "H2S2O3",
+    "exact_mass": 113.9445,
+    "mol_weight": 114.1441,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7872"
+      ],
+      "ChEBI": [
+        "5587"
+      ],
+      "ChEMBL": [
+        "CHEMBL1208642"
+      ],
+      "PDB-CCD": [
+        "THJ"
+      ],
+      "3DMET": [
+        "B00787"
+      ],
+      "NIKKAJI": [
+        "J221.613B"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   S4a S    28.1403  -18.9702\n            2   O1d O    28.1345  -17.5717\n            3   O1d O    26.7418  -18.9644\n            4   O1d O    28.1345  -20.3687\n            5   S1a S    29.5447  -18.9702\nBOND        4\n            1     1   2 2\n            2     1   3 1\n            3     1   4 2\n            4     1   5 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

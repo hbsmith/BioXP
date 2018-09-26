@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00205",
+    "name": "2-Oxopropanal:NADP+ oxidoreductase",
+    "definition": "Methylglyoxal + NADP+ + H2O <=> Pyruvate + NADPH + H+",
+    "equation": "C00546 + C00006 + C00001 <=> C00022 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.49"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

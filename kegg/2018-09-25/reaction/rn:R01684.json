@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01684",
+    "name": "taurine:2-oxoglutarate aminotransferase",
+    "definition": "Taurine + 2-Oxoglutarate <=> Sulfoacetaldehyde + L-Glutamate",
+    "equation": "C00245 + C00026 <=> C00593 + C00025",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.55"
+    ],
+    "pathways": {
+      "rn00430": "Taurine and hypotaurine metabolism"
+    },
+    "orthologs": {
+      "K15372": "taurine---2-oxoglutarate transaminase [EC:2.6.1.55]"
+    }
+  }
+]

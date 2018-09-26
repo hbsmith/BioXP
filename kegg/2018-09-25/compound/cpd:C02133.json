@@ -1,0 +1,85 @@
+[
+  {
+    "entry_id": "C02133",
+    "name": "Acyl phosphate",
+    "names": [
+      "Acyl phosphate"
+    ],
+    "formula": "CH2O5PR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R00539",
+      "R03841",
+      "R08404",
+      "R08405",
+      "R08406",
+      "R08407"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.7.1.61",
+      "3.6.1.7"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5212"
+      ],
+      "ChEBI": [
+        "16826"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   P1b P    19.6194  -15.1047\n            2   O7a O    18.2160  -15.1047\n            3   O1c O    21.0164  -15.1047\n            4   O1c O    19.6194  -13.7077\n            5   O1c O    19.6194  -16.5081\n            6   C7a C    16.9928  -14.4353\n            7   O6a O    17.0307  -13.0319\n            8   R   R    15.7955  -15.1626\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     2   6 1\n            6     6   7 2\n            7     6   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C02133",
+    "name": "Acyl phosphate",
+    "names": [
+      "Acyl phosphate"
+    ],
+    "formula": "CH2O5PR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R00539",
+      "R03841",
+      "R08404",
+      "R08405",
+      "R08406",
+      "R08407"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.7.1.61",
+      "3.6.1.7"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5212"
+      ],
+      "ChEBI": [
+        "16826"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   P1b P    19.6194  -15.1047\n            2   O7a O    18.2160  -15.1047\n            3   O1c O    21.0164  -15.1047\n            4   O1c O    19.6194  -13.7077\n            5   O1c O    19.6194  -16.5081\n            6   C7a C    16.9928  -14.4353\n            7   O6a O    17.0307  -13.0319\n            8   R   R    15.7955  -15.1626\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     2   6 1\n            6     6   7 2\n            7     6   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

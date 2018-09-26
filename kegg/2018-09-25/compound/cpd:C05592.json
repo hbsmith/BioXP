@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C05592",
+    "name": "3-Carboxymethylmuconate",
+    "names": [
+      "3-Carboxymethylmuconate"
+    ],
+    "formula": "C8H8O6",
+    "exact_mass": 200.0321,
+    "mol_weight": 200.1455,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7916"
+      ],
+      "ChEBI": [
+        "28251"
+      ],
+      "NIKKAJI": [
+        "J2.756.587E"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   O6a O    16.7300  -18.2000\n            2   C6a C    17.9424  -17.5000\n            3   C2b C    19.1549  -18.2000\n            4   C2b C    20.3673  -17.5000\n            5   C2c C    21.5797  -18.2000\n            6   C2b C    22.7922  -17.5000\n            7   C6a C    24.0046  -18.2000\n            8   O6a O    25.2170  -17.5000\n            9   O6a O    17.9424  -16.1002\n            10  O6a O    24.0046  -19.6000\n            11  C1b C    21.5797  -19.5999\n            12  C6a C    20.3525  -20.3085\n            13  O6a O    19.1496  -19.6140\n            14  O6a O    20.3527  -21.6999\nBOND        13\n            1     1   2 1\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     6   7 1\n            7     7   8 1\n            8     2   9 2\n            9     7  10 2\n            10    5  11 1\n            11   11  12 1\n            12   12  13 1\n            13   12  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

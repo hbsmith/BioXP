@@ -1,0 +1,61 @@
+[
+  {
+    "entry_id": "C00666",
+    "name": "LL-2,6-Diaminoheptanedioate",
+    "names": [
+      "LL-2,6-Diaminoheptanedioate",
+      "LL-2,6-Diaminopimelate",
+      "LL-2,6-Diaminopimelic acid"
+    ],
+    "formula": "C7H14N2O4",
+    "exact_mass": 190.0954,
+    "mol_weight": 190.1971,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02733",
+      "R02734",
+      "R02735",
+      "R07613"
+    ],
+    "pathways": {
+      "map00300": "Lysine biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01130": "Biosynthesis of antibiotics",
+      "map01230": "Biosynthesis of amino acids"
+    },
+    "enzymes": [
+      "2.6.1.83",
+      "3.5.1.18",
+      "3.5.1.47",
+      "5.1.1.7"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3935"
+      ],
+      "ChEBI": [
+        "16026",
+        "47031"
+      ],
+      "KNApSAcK": [
+        "C00007596"
+      ],
+      "3DMET": [
+        "B01303"
+      ],
+      "NIKKAJI": [
+        "J81.742B"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1c C    29.9357  -18.8708\n            2   C6a C    31.1545  -18.1768\n            3   C1b C    28.7228  -18.1768\n            4   N1a N    29.9357  -20.2760\n            5   O6a O    32.3615  -18.8708\n            6   O6a O    31.1545  -16.7716\n            7   C1b C    27.5100  -18.8708\n            8   C1b C    26.2913  -18.1768\n            9   C1c C    25.0843  -18.8708\n            10  C6a C    23.8655  -18.1768\n            11  N1a N    25.0843  -20.2760\n            12  O6a O    22.6585  -18.8708\n            13  O6a O    23.8655  -16.7716\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10    9  11 1 #Down\n            11   10  12 1\n            12   10  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

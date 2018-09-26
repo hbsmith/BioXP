@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11363",
+    "name": "",
+    "definition": "3,4-Dihydro-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate <=> 3,4-Dihydro-7-hydroxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate",
+    "equation": "C21306 <=> C21307",
+    "comment": "P450 hydroxylase incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21177": "cytochrome P450 hydroxylase [EC:1.14.-.-]"
+    }
+  }
+]

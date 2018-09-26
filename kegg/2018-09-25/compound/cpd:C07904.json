@@ -1,0 +1,91 @@
+[
+  {
+    "entry_id": "C07904",
+    "name": "Phendimetrazine",
+    "names": [
+      "Phendimetrazine"
+    ],
+    "formula": "C12H17NO",
+    "exact_mass": 191.131,
+    "mol_weight": 191.2695,
+    "remark": "Same as: D08347",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "634-03-7"
+      ],
+      "PubChem": [
+        "10106"
+      ],
+      "ChEBI": [
+        "8059"
+      ],
+      "ChEMBL": [
+        "CHEMBL1615439"
+      ],
+      "NIKKAJI": [
+        "J6.905A"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    17.3600  -17.0800\n            2   C8x C    17.3600  -18.4800\n            3   C8x C    18.5500  -19.1800\n            4   C8x C    19.7400  -18.4800\n            5   C8y C    19.7400  -17.0800\n            6   C8x C    18.5500  -16.3800\n            7   C1y C    21.0000  -16.3800\n            8   C1y C    22.1900  -17.0800\n            9   N1y N    23.3800  -16.3800\n            10  C1x C    23.3800  -14.9800\n            11  C1x C    22.1900  -14.2800\n            12  O2x O    21.0000  -14.9800\n            13  C1a C    24.6400  -17.0800\n            14  C1a C    22.1900  -18.4800\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     7   5 1 #Down\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11   10  11 1\n            12   11  12 1\n            13    7  12 1\n            14    9  13 1\n            15    8  14 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C07904",
+    "name": "Phendimetrazine",
+    "names": [
+      "Phendimetrazine"
+    ],
+    "formula": "C12H17NO",
+    "exact_mass": 191.131,
+    "mol_weight": 191.2695,
+    "remark": "Same as: D08347",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "634-03-7"
+      ],
+      "PubChem": [
+        "10106"
+      ],
+      "ChEBI": [
+        "8059"
+      ],
+      "ChEMBL": [
+        "CHEMBL1615439"
+      ],
+      "NIKKAJI": [
+        "J6.905A"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    17.3600  -17.0800\n            2   C8x C    17.3600  -18.4800\n            3   C8x C    18.5500  -19.1800\n            4   C8x C    19.7400  -18.4800\n            5   C8y C    19.7400  -17.0800\n            6   C8x C    18.5500  -16.3800\n            7   C1y C    21.0000  -16.3800\n            8   C1y C    22.1900  -17.0800\n            9   N1y N    23.3800  -16.3800\n            10  C1x C    23.3800  -14.9800\n            11  C1x C    22.1900  -14.2800\n            12  O2x O    21.0000  -14.9800\n            13  C1a C    24.6400  -17.0800\n            14  C1a C    22.1900  -18.4800\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     7   5 1 #Down\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11   10  11 1\n            12   11  12 1\n            13    7  12 1\n            14    9  13 1\n            15    8  14 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

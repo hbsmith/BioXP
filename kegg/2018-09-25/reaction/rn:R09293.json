@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09293",
+    "name": "(2S)-methylsuccinyl-CoA:electron-transfer flavoprotein oxidoreductase",
+    "definition": "(2S)-Methylsuccinyl-CoA + Electron-transferring flavoprotein <=> 2-Methylfumaryl-CoA + Reduced electron-transferring flavoprotein",
+    "equation": "C18324 + C04253 <=> C06028 + C04570",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.8.12"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K14448": "(2S)-methylsuccinyl-CoA dehydrogenase [EC:1.3.8.12]"
+    }
+  }
+]

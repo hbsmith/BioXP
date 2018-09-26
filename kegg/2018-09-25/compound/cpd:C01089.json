@@ -1,0 +1,68 @@
+[
+  {
+    "entry_id": "C01089",
+    "name": "(R)-3-Hydroxybutanoate",
+    "names": [
+      "(R)-3-Hydroxybutanoate",
+      "(R)-3-Hydroxybutanoic acid",
+      "(R)-3-Hydroxybutyric acid",
+      "D-beta-Hydroxybutyric acid"
+    ],
+    "formula": "C4H8O3",
+    "exact_mass": 104.0473,
+    "mol_weight": 104.1045,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00048",
+      "R01361"
+    ],
+    "pathways": {
+      "map00072": "Synthesis and degradation of ketone bodies",
+      "map00650": "Butanoate metabolism",
+      "map01100": "Metabolic pathways",
+      "map04024": "cAMP signaling pathway"
+    },
+    "enzymes": [
+      "1.1.1.30",
+      "3.1.1.22"
+    ],
+    "dblinks": {
+      "CAS": [
+        "625-72-9"
+      ],
+      "PubChem": [
+        "4324"
+      ],
+      "ChEBI": [
+        "10983",
+        "17066"
+      ],
+      "ChEMBL": [
+        "CHEMBL1162484"
+      ],
+      "LIPIDMAPS": [
+        "LMFA01050005"
+      ],
+      "LipidBank": [
+        "DFA0271"
+      ],
+      "PDB-CCD": [
+        "3HR"
+      ],
+      "3DMET": [
+        "B00239"
+      ],
+      "NIKKAJI": [
+        "J5.217E"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1a C    14.0000  -18.9000\n            2   C1c C    15.2124  -18.2000\n            3   C1b C    16.4249  -18.9000\n            4   C6a C    17.6373  -18.2000\n            5   O6a O    18.8497  -18.9000\n            6   O6a O    17.6373  -16.8000\n            7   O1a O    15.2124  -16.8002\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     4   6 2\n            6     2   7 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

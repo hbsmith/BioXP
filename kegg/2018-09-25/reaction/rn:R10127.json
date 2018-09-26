@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10127",
+    "name": "biotin:NADP+ S-oxidoreductase (biotin S-oxide-forming)",
+    "definition": "Biotin sulfoxide + NADPH + H+ <=> Biotin + NADP+ + H2O",
+    "equation": "C20386 + C00005 + C00080 <=> C00120 + C00006 + C00001",
+    "comment": "biotin d-sulfoxide reductase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.-.-.-"
+    ],
+    "pathways": {
+      "rn00780": "Biotin metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K08351": "biotin/methionine sulfoxide reductase [EC:1.-.-.-]"
+    }
+  }
+]

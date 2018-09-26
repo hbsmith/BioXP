@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09441",
+    "name": "",
+    "definition": "7,12-Dimethylbenz[a]anthracene + Oxygen + NADPH + H+ <=> 7-Hydroxymethyl-12-methylbenz[a]anthracene + H2O + NADP+",
+    "equation": "C19488 + C00007 + C00005 + C00080 <=> C19561 + C00001 + C00006",
+    "comment": "CYP2B",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "orthologs": {
+      "K17709": "cytochrome P450 family 2 subfamily B polypeptide 6 [EC:1.14.13.-]"
+    }
+  }
+]

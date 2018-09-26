@@ -1,0 +1,81 @@
+[
+  {
+    "entry_id": "C15853",
+    "name": "Dehydrospermidine",
+    "names": [
+      "Dehydrospermidine"
+    ],
+    "formula": "C7H17N3",
+    "exact_mass": 143.1422,
+    "mol_weight": 143.23,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07477",
+      "R07479"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.5.1.46"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205173"
+      ],
+      "ChEBI": [
+        "48007"
+      ],
+      "NIKKAJI": [
+        "J2.796.582B"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C2b C    25.0600  -26.6700\n            2   C1b C    23.8700  -25.9700\n            3   C1b C    22.6800  -26.6700\n            4   C1b C    21.4200  -25.9700\n            5   N1a N    20.2300  -26.6700\n            6   N2b N    26.4600  -26.6700\n            7   C1b C    27.6500  -27.3700\n            8   C1b C    28.8400  -26.6700\n            9   C1b C    30.1000  -27.3700\n            10  N1a N    31.2900  -26.6700\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     6   7 1\n            6     7   8 1\n            7     8   9 1\n            8     9  10 1\n            9     1   6 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C15853",
+    "name": "Dehydrospermidine",
+    "names": [
+      "Dehydrospermidine"
+    ],
+    "formula": "C7H17N3",
+    "exact_mass": 143.1422,
+    "mol_weight": 143.23,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07477",
+      "R07479"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.5.1.46"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205173"
+      ],
+      "ChEBI": [
+        "48007"
+      ],
+      "NIKKAJI": [
+        "J2.796.582B"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C2b C    25.0600  -26.6700\n            2   C1b C    23.8700  -25.9700\n            3   C1b C    22.6800  -26.6700\n            4   C1b C    21.4200  -25.9700\n            5   N1a N    20.2300  -26.6700\n            6   N2b N    26.4600  -26.6700\n            7   C1b C    27.6500  -27.3700\n            8   C1b C    28.8400  -26.6700\n            9   C1b C    30.1000  -27.3700\n            10  N1a N    31.2900  -26.6700\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     6   7 1\n            6     7   8 1\n            7     8   9 1\n            8     9  10 1\n            9     1   6 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

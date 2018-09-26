@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C17965",
+    "name": "trans-Lachnophyllol",
+    "names": [
+      "trans-Lachnophyllol"
+    ],
+    "formula": "C10H12O",
+    "exact_mass": 148.0888,
+    "mol_weight": 148.2017,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "23180-62-3"
+      ],
+      "PubChem": [
+        "96024185"
+      ],
+      "ChEBI": [
+        "81417"
+      ],
+      "NIKKAJI": [
+        "J82.054G"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1b C    19.2093  -24.0779\n            2   C2b C    20.4076  -24.7828\n            3   O1a O    18.0109  -24.7828\n            4   C2b C    21.6059  -24.0779\n            5   C3b C    23.0157  -24.0779\n            6   C3b C    24.4254  -24.0779\n            7   C3b C    25.8352  -24.0779\n            8   C3b C    27.2450  -24.0779\n            9   C1b C    28.6548  -24.0779\n            10  C1b C    29.8531  -24.7828\n            11  C1a C    31.0797  -24.0878\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     2   4 2\n            4     4   5 1\n            5     5   6 3\n            6     6   7 1\n            7     7   8 3\n            8     8   9 1\n            9     9  10 1\n            10   10  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

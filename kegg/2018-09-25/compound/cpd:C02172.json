@@ -1,0 +1,101 @@
+[
+  {
+    "entry_id": "C02172",
+    "name": "N-Acetylisatin",
+    "names": [
+      "N-Acetylisatin",
+      "1-Acetylisatin"
+    ],
+    "formula": "C10H7NO3",
+    "exact_mass": 189.0426,
+    "mol_weight": 189.1675,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03873"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism"
+    },
+    "enzymes": [
+      "1.7.3.2"
+    ],
+    "dblinks": {
+      "CAS": [
+        "574-17-4"
+      ],
+      "PubChem": [
+        "5247"
+      ],
+      "ChEBI": [
+        "16050"
+      ],
+      "ChEMBL": [
+        "CHEMBL223001"
+      ],
+      "3DMET": [
+        "B00396"
+      ],
+      "NIKKAJI": [
+        "J6.554D"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    13.3000  -17.3600\n            2   C8x C    13.3000  -18.7600\n            3   C8x C    14.5124  -19.4600\n            4   C8y C    15.7249  -18.7600\n            5   C8y C    15.7249  -17.3600\n            6   C8x C    14.5124  -16.6600\n            7   C5x C    17.0564  -19.1926\n            8   C5x C    17.8793  -18.0600\n            9   N1y N    17.0564  -16.9274\n            10  C5a C    17.4875  -15.6006\n            11  C1a C    18.8669  -15.3074\n            12  O5a O    16.5611  -14.5715\n            13  O5x O    19.2500  -18.0600\n            14  O5x O    17.4875  -20.5194\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    5   9 1\n            11    9  10 1\n            12   10  11 1\n            13   10  12 2\n            14    8  13 2\n            15    7  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C02172",
+    "name": "N-Acetylisatin",
+    "names": [
+      "N-Acetylisatin",
+      "1-Acetylisatin"
+    ],
+    "formula": "C10H7NO3",
+    "exact_mass": 189.0426,
+    "mol_weight": 189.1675,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03873"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism"
+    },
+    "enzymes": [
+      "1.7.3.2"
+    ],
+    "dblinks": {
+      "CAS": [
+        "574-17-4"
+      ],
+      "PubChem": [
+        "5247"
+      ],
+      "ChEBI": [
+        "16050"
+      ],
+      "ChEMBL": [
+        "CHEMBL223001"
+      ],
+      "3DMET": [
+        "B00396"
+      ],
+      "NIKKAJI": [
+        "J6.554D"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    13.3000  -17.3600\n            2   C8x C    13.3000  -18.7600\n            3   C8x C    14.5124  -19.4600\n            4   C8y C    15.7249  -18.7600\n            5   C8y C    15.7249  -17.3600\n            6   C8x C    14.5124  -16.6600\n            7   C5x C    17.0564  -19.1926\n            8   C5x C    17.8793  -18.0600\n            9   N1y N    17.0564  -16.9274\n            10  C5a C    17.4875  -15.6006\n            11  C1a C    18.8669  -15.3074\n            12  O5a O    16.5611  -14.5715\n            13  O5x O    19.2500  -18.0600\n            14  O5x O    17.4875  -20.5194\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    5   9 1\n            11    9  10 1\n            12   10  11 1\n            13   10  12 2\n            14    8  13 2\n            15    7  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

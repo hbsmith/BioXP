@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C11146",
+    "name": "Methylmercury chloride",
+    "names": [
+      "Methylmercury chloride"
+    ],
+    "formula": "CH3ClHg",
+    "exact_mass": 251.963,
+    "mol_weight": 251.0775,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "115-09-3"
+      ],
+      "PubChem": [
+        "13328"
+      ],
+      "ChEBI": [
+        "28216"
+      ],
+      "NIKKAJI": [
+        "J36.824E"
+      ]
+    },
+    "kcf": "ATOM        3\n            1   Z   Hg   27.9300  -19.1800\n            2   X   Cl   29.7500  -20.0900\n            3   C1a C    26.8100  -19.8100\nBOND        2\n            1     1   2 1\n            2     1   3 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

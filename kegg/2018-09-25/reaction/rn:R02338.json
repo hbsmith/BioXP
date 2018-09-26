@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02338",
+    "name": "Indole:oxygen 2,3-oxidoreductase (decyclizing)",
+    "definition": "Indole + Oxygen <=> 2-Formylaminobenzaldehyde",
+    "equation": "C00463 + C00007 <=> C03574",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.17"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

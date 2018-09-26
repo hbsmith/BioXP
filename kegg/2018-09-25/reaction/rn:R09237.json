@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09237",
+    "name": "",
+    "definition": "2,4,5-Trihydroxytoluene + Oxygen <=> cis,cis-2,4-Dihydroxy-5-methyl-6-oxo-2,4-hexadienoate",
+    "equation": "C18317 + C00007 <=> C18318",
+    "comment": "trihydroxytoluene oxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.-"
+    ],
+    "pathways": {
+      "rn00633": "Nitrotoluene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

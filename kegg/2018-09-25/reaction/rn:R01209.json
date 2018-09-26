@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01209",
+    "name": "2,3-Dihydroxy-3-methylbutanoate hydro-lyase",
+    "definition": "2,3-Dihydroxy-3-methylbutanoate <=> 3-Methyl-2-oxobutanoic acid + H2O",
+    "equation": "C04039 <=> C00141 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.9"
+    ],
+    "pathways": {
+      "rn00770": "Pantothenate and CoA biosynthesis"
+    },
+    "orthologs": {
+      "K01687": "dihydroxy-acid dehydratase [EC:4.2.1.9]"
+    }
+  }
+]

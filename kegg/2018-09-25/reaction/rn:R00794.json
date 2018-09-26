@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00794",
+    "name": "nitrite:NAD+ oxidoreductase; NADH:nitrate oxidoreductase",
+    "definition": "Nitrite + NAD+ + H2O <=> Nitrate + NADH + H+",
+    "equation": "C00088 + C00003 + C00001 <=> C00244 + C00004 + C00080",
+    "comment": "NADP+ (ec 1.7.1.2, see R00796)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.1.1",
+      "1.7.1.2"
+    ],
+    "pathways": {
+      "rn00910": "Nitrogen metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K10534": "nitrate reductase (NAD(P)H) [EC:1.7.1.1 1.7.1.2 1.7.1.3]"
+    }
+  }
+]

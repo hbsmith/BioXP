@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07814",
+    "name": "",
+    "definition": "G13036 + H2O <=> G13037 + Sulfate",
+    "equation": "G13036 + C00001 <=> G13037 + C00059",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.10.1.1"
+    ],
+    "pathways": {
+      "rn00531": "Glycosaminoglycan degradation",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01565": "N-sulfoglucosamine sulfohydrolase [EC:3.10.1.1]"
+    }
+  }
+]

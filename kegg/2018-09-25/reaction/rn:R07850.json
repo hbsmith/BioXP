@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07850",
+    "name": "alpha-carotene,hydrogen-donor:oxygen oxidoreductase (3'-hydroxylating)",
+    "definition": "alpha-Carotene + Oxygen + Reduced acceptor <=> alpha-Cryptoxanthin + Acceptor + H2O",
+    "equation": "C05433 + C00007 + C00030 <=> C15981 + C00028 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.45"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis"
+    },
+    "orthologs": {
+      "K09837": "carotene epsilon-monooxygenase [EC:1.14.99.45]"
+    }
+  }
+]

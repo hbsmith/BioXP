@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C13628",
+    "name": "4,5-Bisphenol-o-quinone",
+    "names": [
+      "4,5-Bisphenol-o-quinone",
+      "BPAquinone"
+    ],
+    "formula": "C15H14O3",
+    "exact_mass": 242.0943,
+    "mol_weight": 242.2699,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06882"
+    ],
+    "pathways": {
+      "map00363": "Bisphenol degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "163405-36-5"
+      ],
+      "PubChem": [
+        "586245"
+      ],
+      "ChEBI": [
+        "31124"
+      ],
+      "NIKKAJI": [
+        "J667.193D"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C2x C    25.2678  -15.8877\n            2   C5x C    25.2596  -17.2877\n            3   C5x C    26.4709  -17.9947\n            4   C2x C    27.7533  -17.3016\n            5   C2y C    27.6912  -15.9016\n            6   C2x C    26.4871  -15.1947\n            7   O5x O    24.0436  -17.9815\n            8   C1d C    28.9083  -15.2096\n            9   C8y C    30.1162  -15.9174\n            10  C1a C    27.6872  -14.5043\n            11  C1a C    30.1123  -14.4974\n            12  C8x C    30.1030  -17.3108\n            13  C8x C    31.3109  -18.0186\n            14  C8y C    32.5278  -17.3266\n            15  C8x C    32.5368  -15.9266\n            16  C8x C    31.3291  -15.2188\n            17  O1a O    33.7357  -18.0344\n            18  O5x O    26.4647  -19.3947\nBOND        19\n            1     8   9 1\n            2     3   4 1\n            3     8  10 1\n            4     4   5 2\n            5     8  11 1\n            6     5   6 1\n            7     6   1 2\n            8     2   7 2\n            9     1   2 1\n            10    9  12 2\n            11   12  13 1\n            12   13  14 2\n            13   14  15 1\n            14   15  16 2\n            15   16   9 1\n            16    5   8 1\n            17   14  17 1\n            18    2   3 1\n            19    3  18 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

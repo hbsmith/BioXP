@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R09234",
+    "name": "4-methyl-5-nitrocatechol,NADPH:oxygen 5-oxidoreductase (5-hydroxylating, nitrite-forming)",
+    "definition": "4-Methyl-5-nitrocatechol + NADPH + Oxygen + H+ <=> 2-Hydroxy-5-methylquinone + NADP+ + Nitrite + H2O",
+    "equation": "C18315 + C00005 + C00007 + C00080 <=> C18316 + C00006 + C00088 + C00001",
+    "comment": "NADH (see R11150)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.210"
+    ],
+    "pathways": {
+      "rn00633": "Nitrotoluene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K21683": "4-methyl-5-nitrocatechol 5-monooxygenase [EC:1.14.13.210]"
+    }
+  }
+][
+  {
+    "entry_id": "R09234",
+    "name": "4-methyl-5-nitrocatechol,NADPH:oxygen 5-oxidoreductase (5-hydroxylating, nitrite-forming)",
+    "definition": "4-Methyl-5-nitrocatechol + NADPH + Oxygen + H+ <=> 2-Hydroxy-5-methylquinone + NADP+ + Nitrite + H2O",
+    "equation": "C18315 + C00005 + C00007 + C00080 <=> C18316 + C00006 + C00088 + C00001",
+    "comment": "NADH (see R11150)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.210"
+    ],
+    "pathways": {
+      "rn00633": "Nitrotoluene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K21683": "4-methyl-5-nitrocatechol 5-monooxygenase [EC:1.14.13.210]"
+    }
+  }
+]

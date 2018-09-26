@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01928",
+    "name": "UDP-alpha-D-galactose:sphingosine 1-beta-galactosyltransferase",
+    "definition": "UDP-alpha-D-galactose + Sphingosine <=> UDP + Psychosine",
+    "equation": "C00052 + C00319 <=> C00015 + C01747",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.23"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

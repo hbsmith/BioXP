@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C04078",
+    "name": "Methylmethionine sulfonium salt",
+    "names": [
+      "Methylmethionine sulfonium salt",
+      "Methylmethionine sulfonium chloride",
+      "Vitamin U"
+    ],
+    "formula": "C6H14NO2S. Cl",
+    "exact_mass": 199.0434,
+    "mol_weight": 199.6989,
+    "remark": "Same as: D00177",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1115-84-0"
+      ],
+      "PubChem": [
+        "6772"
+      ],
+      "ChEBI": [
+        "6884"
+      ],
+      "ChEMBL": [
+        "CHEMBL1797128"
+      ],
+      "NIKKAJI": [
+        "J246.885I"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1c C    33.4422  -17.5350\n            2   C1b C    32.3226  -16.8936\n            3   C6a C    34.5558  -16.8936\n            4   N1a N    33.4422  -18.8237\n            5   C1b C    31.2147  -17.5350\n            6   O6a O    35.6753  -17.5350\n            7   O6a O    34.5558  -15.6050\n            8   S0  S    29.7629  -16.7945 #+\n            9   C1a C    28.4743  -17.5117\n            10  C1a C    29.7629  -15.0219\n            11  X   Cl   30.2178  -19.2726 #-\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     3   6 1\n            6     3   7 2\n            7     5   8 1\n            8     8   9 1\n            9     8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

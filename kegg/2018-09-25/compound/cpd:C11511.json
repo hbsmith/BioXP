@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C11511",
+    "name": "threo-3-Hydroxy-L-aspartate",
+    "names": [
+      "threo-3-Hydroxy-L-aspartate",
+      "L-threo-3-Hydroxyaspartate"
+    ],
+    "formula": "C4H7NO5",
+    "exact_mass": 149.0324,
+    "mol_weight": 149.1021,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05758"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.3.1.16"
+    ],
+    "dblinks": {
+      "CAS": [
+        "7298-99-9"
+      ],
+      "PubChem": [
+        "13681"
+      ],
+      "ChEBI": [
+        "10696"
+      ],
+      "ChEMBL": [
+        "CHEMBL1231330",
+        "CHEMBL1356625"
+      ],
+      "KNApSAcK": [
+        "C00018064"
+      ],
+      "PDB-CCD": [
+        "BHD"
+      ],
+      "NIKKAJI": [
+        "J215.816G"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1c C    24.5678  -16.8931\n            2   C1c C    25.8086  -17.5281\n            3   C6a C    23.4160  -17.6533\n            4   O1a O    24.5737  -15.4675\n            5   C6a C    27.0493  -16.9106\n            6   N1a N    25.7897  -19.0354\n            7   O6a O    23.4743  -18.9523\n            8   O6a O    22.1273  -17.0299\n            9   O6a O    28.2362  -17.6402\n            10  O6a O    27.0493  -15.5273\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Up\n            6     3   7 2\n            7     3   8 1\n            8     5   9 1\n            9     5  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

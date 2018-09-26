@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R09555",
+    "name": "benzoyl-CoA,NADPH:oxygen oxidoreductase (2,3-epoxydizing)",
+    "definition": "Benzoyl-CoA + NADPH + H+ + Oxygen <=> 2,3-Epoxy-2,3-dihydrobenzoyl-CoA + NADP+ + H2O",
+    "equation": "C00512 + C00005 + C00080 + C00007 <=> C19684 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.208"
+    ],
+    "pathways": {
+      "rn00362": "Benzoate degradation"
+    },
+    "orthologs": {
+      "K15511": "benzoyl-CoA 2,3-epoxidase subunit A [EC:1.14.13.208]",
+      "K15512": "benzoyl-CoA 2,3-epoxidase subunit B [EC:1.14.13.208]"
+    }
+  }
+][
+  {
+    "entry_id": "R09555",
+    "name": "benzoyl-CoA,NADPH:oxygen oxidoreductase (2,3-epoxydizing)",
+    "definition": "Benzoyl-CoA + NADPH + H+ + Oxygen <=> 2,3-Epoxy-2,3-dihydrobenzoyl-CoA + NADP+ + H2O",
+    "equation": "C00512 + C00005 + C00080 + C00007 <=> C19684 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.208"
+    ],
+    "pathways": {
+      "rn00362": "Benzoate degradation"
+    },
+    "orthologs": {
+      "K15511": "benzoyl-CoA 2,3-epoxidase subunit A [EC:1.14.13.208]",
+      "K15512": "benzoyl-CoA 2,3-epoxidase subunit B [EC:1.14.13.208]"
+    }
+  }
+]

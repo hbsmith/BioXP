@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C04469",
+    "name": "(+/-)-2-(4'-Isobutylphenyl)propionitrile",
+    "names": [
+      "(+/-)-2-(4'-Isobutylphenyl)propionitrile"
+    ],
+    "formula": "C13H17N",
+    "exact_mass": 187.1361,
+    "mol_weight": 187.2808,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "99148-34-2"
+      ],
+      "PubChem": [
+        "7092"
+      ],
+      "ChEBI": [
+        "27415"
+      ],
+      "NIKKAJI": [
+        "J2.751.160K"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    30.0822  -15.5624\n            2   C8x C    30.1295  -16.9668\n            3   C8x C    28.8565  -14.8931\n            4   C1b C    31.2809  -14.8311\n            5   C8x C    28.9284  -17.6894\n            6   C8x C    27.6636  -15.6276\n            7   C1c C    32.5098  -15.4945\n            8   C8y C    27.6268  -17.0169\n            9   C1a C    33.7028  -14.7602\n            10  C1a C    32.4756  -16.8927\n            11  C1c C    26.5013  -17.7428\n            12  C3b C    25.2756  -17.0735\n            13  C1a C    26.5340  -19.1466\n            14  N3a N    24.0442  -16.4011\nBOND        14\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     3   6 1\n            6     4   7 1\n            7     5   8 1\n            8     7   9 1\n            9     7  10 1\n            10    8  11 1\n            11   11  12 1\n            12   11  13 1\n            13   12  14 3\n            14    6   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R07271",
+    "name": "dimethylallyl-diphosphate:(6aS,11aS)-3,6a,9-trihydroxypterocarpan dimethylallyltransferase",
+    "definition": "Dimethylallyl diphosphate + 3,6,9-Trihydroxypterocarpan <=> Diphosphate + Glyceocarpin",
+    "equation": "C00235 + C01263 <=> C00013 + C15509",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.36"
+    ],
+    "pathways": {
+      "rn00943": "Isoflavonoid biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "entry_id": "C14106",
+    "name": "2-Hydroxy-7-hydroxymethylchromene-2-carboxylate",
+    "names": [
+      "2-Hydroxy-7-hydroxymethylchromene-2-carboxylate"
+    ],
+    "formula": "C11H10O5",
+    "exact_mass": 222.0528,
+    "mol_weight": 222.1941,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06932",
+      "R06933"
+    ],
+    "pathways": {
+      "map00626": "Naphthalene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.13.-.-",
+      "5.3.99.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "156605-24-2"
+      ],
+      "PubChem": [
+        "854342"
+      ],
+      "NIKKAJI": [
+        "J2.787.878D"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8y C    22.8620  -17.4243\n            2   C8x C    22.8620  -18.8242\n            3   C8x C    24.0773  -19.5242\n            4   C8x C    24.0773  -16.7243\n            5   C8y C    25.2855  -17.4243\n            6   C8y C    25.2796  -18.8242\n            7   C2x C    26.4889  -19.5293\n            8   C2x C    27.7042  -18.8346\n            9   C1z C    27.7103  -17.4347\n            10  O2x O    26.5009  -16.7294\n            11  C1b C    21.6501  -16.7237\n            12  O1a O    20.4374  -17.4229\n            13  O1a O    28.9750  -18.2649\n            14  C6a C    28.9324  -16.7300\n            15  O6a O    30.1449  -17.4300\n            16  O6a O    28.9328  -15.3302\nBOND        17\n            1     5   6 1\n            2     6   7 1\n            3     7   8 2\n            4     8   9 1\n            5     9  10 1\n            6    10   5 1\n            7     1  11 1\n            8     1   2 2\n            9    11  12 1\n            10    2   3 1\n            11    9  13 1\n            12    3   6 2\n            13    5   4 2\n            14    4   1 1\n            15    9  14 1\n            16   14  15 1\n            17   14  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C14106",
+    "name": "2-Hydroxy-7-hydroxymethylchromene-2-carboxylate",
+    "names": [
+      "2-Hydroxy-7-hydroxymethylchromene-2-carboxylate"
+    ],
+    "formula": "C11H10O5",
+    "exact_mass": 222.0528,
+    "mol_weight": 222.1941,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06932",
+      "R06933"
+    ],
+    "pathways": {
+      "map00626": "Naphthalene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.13.-.-",
+      "5.3.99.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "156605-24-2"
+      ],
+      "PubChem": [
+        "854342"
+      ],
+      "NIKKAJI": [
+        "J2.787.878D"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8y C    22.8620  -17.4243\n            2   C8x C    22.8620  -18.8242\n            3   C8x C    24.0773  -19.5242\n            4   C8x C    24.0773  -16.7243\n            5   C8y C    25.2855  -17.4243\n            6   C8y C    25.2796  -18.8242\n            7   C2x C    26.4889  -19.5293\n            8   C2x C    27.7042  -18.8346\n            9   C1z C    27.7103  -17.4347\n            10  O2x O    26.5009  -16.7294\n            11  C1b C    21.6501  -16.7237\n            12  O1a O    20.4374  -17.4229\n            13  O1a O    28.9750  -18.2649\n            14  C6a C    28.9324  -16.7300\n            15  O6a O    30.1449  -17.4300\n            16  O6a O    28.9328  -15.3302\nBOND        17\n            1     5   6 1\n            2     6   7 1\n            3     7   8 2\n            4     8   9 1\n            5     9  10 1\n            6    10   5 1\n            7     1  11 1\n            8     1   2 2\n            9    11  12 1\n            10    2   3 1\n            11    9  13 1\n            12    3   6 2\n            13    5   4 2\n            14    4   1 1\n            15    9  14 1\n            16   14  15 1\n            17   14  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

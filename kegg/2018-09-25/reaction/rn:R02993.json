@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02993",
+    "name": "",
+    "definition": "4-Pyridoxate + Acceptor <=> 2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate + Reduced acceptor",
+    "equation": "C00847 + C00028 <=> C06050 + C00030",
+    "comment": "4-pyridoxate dehydrogenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.99.42"
+    ],
+    "pathways": {
+      "rn00750": "Vitamin B6 metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K18611": "4-pyridoxate dehydrogenase [EC:1.1.99.42]"
+    }
+  }
+]

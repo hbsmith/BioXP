@@ -1,0 +1,35 @@
+[
+  {
+    "entry_id": "R08684",
+    "name": "amino-acid,NADPH:oxygen oxidoreductase (N-hydroxylating, decarboxylating)",
+    "definition": "Amino acid + 2 Oxygen + 2 NADPH + 2 H+ <=> Aldoxime + 2 NADP+ + 3 H2O + CO2",
+    "equation": "C00045 + 2 C00007 + 2 C00005 + 2 C00080 <=> C02658 + 2 C00006 + 3 C00001 + C00011",
+    "comment": "multi-step reaction (similar to R10671, R00730+R04460+R07190) general reaction (see R08160, R08652, R08665, R08670, R08672, R08673, R08674 and R08675)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+][
+  {
+    "entry_id": "R08684",
+    "name": "amino-acid,NADPH:oxygen oxidoreductase (N-hydroxylating, decarboxylating)",
+    "definition": "Amino acid + 2 Oxygen + 2 NADPH + 2 H+ <=> Aldoxime + 2 NADP+ + 3 H2O + CO2",
+    "equation": "C00045 + 2 C00007 + 2 C00005 + 2 C00080 <=> C02658 + 2 C00006 + 3 C00001 + C00011",
+    "comment": "multi-step reaction (similar to R10671, R00730+R04460+R07190) general reaction (see R08160, R08652, R08665, R08670, R08672, R08673, R08674 and R08675)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

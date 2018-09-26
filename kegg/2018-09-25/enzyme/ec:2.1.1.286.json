@@ -1,0 +1,1035 @@
+[
+  {
+    "entry_id": "2.1.1.286",
+    "name": "25S rRNA (adenine2142-N1)-methyltransferase",
+    "names": [
+      "25S rRNA (adenine2142-N1)-methyltransferase",
+      "BMT2 (gene name)",
+      "25S rRNA m1A2142 methyltransferase"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring one-carbon groups;",
+      "Methyltransferases"
+    ],
+    "sysname": "S-adenosyl-L-methionine:25S rRNA (adenine2142-N1)-methyltransferase",
+    "reaction": "S-adenosyl-L-methionine + adenine2142 in 25S rRNA = S-adenosyl-L-homocysteine + N1-methyladenine2142 in 25S rRNA [RN:R10497]",
+    "all_reac": "R10497",
+    "iubmb_reactions": [
+      "R10497"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "S-adenosyl-L-methionine [CPD:C00019]",
+      "adenine2142 in 25S rRNA"
+    ],
+    "products": [
+      "S-adenosyl-L-homocysteine [CPD:C00021]",
+      "N1-methyladenine2142 in 25S rRNA"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "In the yeast Saccharomyces cerevisiae this methylation is important for resistance towards hydrogen peroxide and the antibiotic anisomycin.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K18849": "25S rRNA (adenine2142-N1)-methyltransferase"
+    },
+    "genes": {
+      "hsa": [
+        "154743"
+      ],
+      "ptr": [
+        "735339"
+      ],
+      "pps": [
+        "100975067"
+      ],
+      "ggo": [
+        "101147012"
+      ],
+      "pon": [
+        "100172852"
+      ],
+      "nle": [
+        "100589355"
+      ],
+      "mcc": [
+        "704714"
+      ],
+      "mcf": [
+        "102145897"
+      ],
+      "csab": [
+        "103226755"
+      ],
+      "rro": [
+        "104671186"
+      ],
+      "rbb": [
+        "108537052"
+      ],
+      "cjc": [
+        "100408784"
+      ],
+      "sbq": [
+        "101043157"
+      ],
+      "mmu": [
+        "101148"
+      ],
+      "rno": [
+        "500034"
+      ],
+      "cge": [
+        "100765096"
+      ],
+      "ngi": [
+        "103751162"
+      ],
+      "hgl": [
+        "101702632"
+      ],
+      "ccan": [
+        "109687528"
+      ],
+      "ocu": [
+        "100357732"
+      ],
+      "tup": [
+        "102484590"
+      ],
+      "cfa": [
+        "475290"
+      ],
+      "aml": [
+        "100464475"
+      ],
+      "umr": [
+        "103659075"
+      ],
+      "oro": [
+        "101370081"
+      ],
+      "fca": [
+        "101084094"
+      ],
+      "ptg": [
+        "102967712"
+      ],
+      "aju": [
+        "106970628"
+      ],
+      "bta": [
+        "538658"
+      ],
+      "bom": [
+        "102272702"
+      ],
+      "biu": [
+        "109557895"
+      ],
+      "phd": [
+        "102344952"
+      ],
+      "chx": [
+        "102177403"
+      ],
+      "oas": [
+        "101111794"
+      ],
+      "ssc": [
+        "100621338"
+      ],
+      "cfr": [
+        "102509756"
+      ],
+      "cdk": [
+        "105085412"
+      ],
+      "bacu": [
+        "102998050"
+      ],
+      "lve": [
+        "103079373"
+      ],
+      "oor": [
+        "101284399"
+      ],
+      "ecb": [
+        "100070896"
+      ],
+      "epz": [
+        "103566124"
+      ],
+      "eai": [
+        "106836798"
+      ],
+      "myb": [
+        "102246204"
+      ],
+      "myd": [
+        "102751318",
+        "102756455"
+      ],
+      "hai": [
+        "109377631"
+      ],
+      "rss": [
+        "109436033"
+      ],
+      "pale": [
+        "102892508"
+      ],
+      "lav": [
+        "100653542"
+      ],
+      "tmu": [
+        "101347522"
+      ],
+      "mdo": [
+        "100011270"
+      ],
+      "shr": [
+        "100913878"
+      ],
+      "oaa": [
+        "100080228"
+      ],
+      "gga": [
+        "417776"
+      ],
+      "mgp": [
+        "100547198"
+      ],
+      "cjo": [
+        "107309285"
+      ],
+      "apla": [
+        "101803947"
+      ],
+      "acyg": [
+        "106042065"
+      ],
+      "tgu": [
+        "100231884"
+      ],
+      "gfr": [
+        "102039196"
+      ],
+      "fab": [
+        "101813144"
+      ],
+      "phi": [
+        "102102668"
+      ],
+      "pmaj": [
+        "107204703"
+      ],
+      "ccw": [
+        "104698301"
+      ],
+      "fpg": [
+        "101910774"
+      ],
+      "fch": [
+        "102059753"
+      ],
+      "clv": [
+        "102092099"
+      ],
+      "egz": [
+        "104123126"
+      ],
+      "aam": [
+        "106488914"
+      ],
+      "asn": [
+        "102387890"
+      ],
+      "amj": [
+        "102563226"
+      ],
+      "pss": [
+        "102446594"
+      ],
+      "cmy": [
+        "102932920"
+      ],
+      "cpic": [
+        "101938967",
+        "101944892"
+      ],
+      "acs": [
+        "100558407"
+      ],
+      "pvt": [
+        "110088244"
+      ],
+      "pbi": [
+        "103060377"
+      ],
+      "gja": [
+        "107114026"
+      ],
+      "xla": [
+        "447453"
+      ],
+      "xtr": [
+        "496879"
+      ],
+      "npr": [
+        "108791018"
+      ],
+      "dre": [
+        "558558"
+      ],
+      "srx": [
+        "107716726",
+        "107753593"
+      ],
+      "sanh": [
+        "107661456",
+        "107696259"
+      ],
+      "sgh": [
+        "107554939",
+        "107575911"
+      ],
+      "ccar": [
+        "109050691"
+      ],
+      "ipu": [
+        "108268699"
+      ],
+      "amex": [
+        "103041481"
+      ],
+      "tru": [
+        "101070129"
+      ],
+      "tng": [
+        "GSTEN00016111G001"
+      ],
+      "lco": [
+        "104921021"
+      ],
+      "ncc": [
+        "104945160"
+      ],
+      "mze": [
+        "101474164"
+      ],
+      "ola": [
+        "101173386"
+      ],
+      "xma": [
+        "102221147"
+      ],
+      "pret": [
+        "103465928"
+      ],
+      "nfu": [
+        "107388404"
+      ],
+      "csem": [
+        "103379960"
+      ],
+      "lcf": [
+        "108883056"
+      ],
+      "hcq": [
+        "109529838"
+      ],
+      "bpec": [
+        "110164303"
+      ],
+      "sasa": [
+        "106561513",
+        "106573247"
+      ],
+      "els": [
+        "105018084"
+      ],
+      "sfm": [
+        "108920926"
+      ],
+      "lcm": [
+        "102351832"
+      ],
+      "cmk": [
+        "103179342"
+      ],
+      "bfo": [
+        "BRAFLDRAFT_281917",
+        "BRAFLDRAFT_74520"
+      ],
+      "cin": [
+        "778832"
+      ],
+      "spu": [
+        "580476",
+        "752098"
+      ],
+      "aplc": [
+        "110974145",
+        "110978879"
+      ],
+      "sko": [
+        "100370354",
+        "100374645"
+      ],
+      "dme": [
+        "Dmel_CG3570"
+      ],
+      "dpo": [
+        "Dpse_GA17528"
+      ],
+      "dan": [
+        "Dana_GF12992"
+      ],
+      "der": [
+        "Dere_GG22990"
+      ],
+      "dpe": [
+        "Dper_GL10229"
+      ],
+      "dse": [
+        "Dsec_GM11884"
+      ],
+      "dsi": [
+        "Dsimw501_GD11882"
+      ],
+      "dwi": [
+        "Dwil_GK21419"
+      ],
+      "dya": [
+        "Dyak_GE14427"
+      ],
+      "dgr": [
+        "Dgri_GH21587"
+      ],
+      "dmo": [
+        "Dmoj_GI19558"
+      ],
+      "dvi": [
+        "Dvir_GJ21133"
+      ],
+      "mde": [
+        "101893866"
+      ],
+      "aga": [
+        "AgaP_AGAP008978"
+      ],
+      "aag": [
+        "5574041"
+      ],
+      "cqu": [
+        "CpipJ_CPIJ010094"
+      ],
+      "ame": [
+        "727303"
+      ],
+      "bim": [
+        "100749676"
+      ],
+      "bter": [
+        "100644156"
+      ],
+      "soc": [
+        "105204235"
+      ],
+      "aec": [
+        "105144745"
+      ],
+      "acep": [
+        "105621461"
+      ],
+      "pbar": [
+        "105426083"
+      ],
+      "hst": [
+        "105183694"
+      ],
+      "cfo": [
+        "105254588"
+      ],
+      "lhu": [
+        "105674462"
+      ],
+      "pgc": [
+        "109859106"
+      ],
+      "nvi": [
+        "100117446"
+      ],
+      "tca": [
+        "661538"
+      ],
+      "dpa": [
+        "109544236"
+      ],
+      "nvl": [
+        "108559559"
+      ],
+      "bmor": [
+        "101743089"
+      ],
+      "dpl": [
+        "KGM_204994"
+      ],
+      "pmac": [
+        "106715415"
+      ],
+      "prap": [
+        "110992418"
+      ],
+      "pxy": [
+        "105390581"
+      ],
+      "api": [
+        "100163068"
+      ],
+      "dnx": [
+        "107163149"
+      ],
+      "phu": [
+        "Phum_PHUM501040"
+      ],
+      "zne": [
+        "110829733"
+      ],
+      "fcd": [
+        "110851736"
+      ],
+      "dpx": [
+        "DAPPUDRAFT_189314"
+      ],
+      "isc": [
+        "IscW_ISCW023505"
+      ],
+      "lgi": [
+        "LOTGIDRAFT_65191"
+      ],
+      "crg": [
+        "105322368"
+      ],
+      "myi": [
+        "110456728"
+      ],
+      "obi": [
+        "106879784"
+      ],
+      "lak": [
+        "106162450"
+      ],
+      "nve": [
+        "NEMVE_v1g116530",
+        "NEMVE_v1g95431"
+      ],
+      "epa": [
+        "110233028",
+        "110237493"
+      ],
+      "adf": [
+        "107333457",
+        "107356050"
+      ],
+      "hmg": [
+        "105847070"
+      ],
+      "tad": [
+        "TRIADDRAFT_55439",
+        "TRIADDRAFT_56862"
+      ],
+      "aqu": [
+        "100632104"
+      ],
+      "olu": [
+        "OSTLU_26628",
+        "OSTLU_30300"
+      ],
+      "ota": [
+        "OT_ostta02g02990",
+        "OT_ostta11g03000"
+      ],
+      "bpg": [
+        "Bathy06g01000",
+        "Bathy13g00120"
+      ],
+      "mis": [
+        "MICPUN_55112",
+        "MICPUN_63892"
+      ],
+      "mpp": [
+        "MICPUCDRAFT_48625",
+        "MICPUCDRAFT_55760"
+      ],
+      "ccp": [
+        "CHC_T00004741001"
+      ],
+      "sce": [
+        "YBR141C"
+      ],
+      "ago": [
+        "AGOS_AER026C"
+      ],
+      "erc": [
+        "Ecym_5325"
+      ],
+      "kla": [
+        "KLLA0_C11275g"
+      ],
+      "kmx": [
+        "KLMA_30392"
+      ],
+      "lth": [
+        "KLTH0G15862g"
+      ],
+      "vpo": [
+        "Kpol_1036p16"
+      ],
+      "zro": [
+        "ZYRO0B05830g"
+      ],
+      "cgr": [
+        "CAGL0A03674g"
+      ],
+      "ncs": [
+        "NCAS_0I02310"
+      ],
+      "ndi": [
+        "NDAI_0A06890"
+      ],
+      "tpf": [
+        "TPHA_0M00760"
+      ],
+      "tbl": [
+        "TBLA_0E03410"
+      ],
+      "tdl": [
+        "TDEL_0D05000"
+      ],
+      "kaf": [
+        "KAFR_0G01450"
+      ],
+      "ppa": [
+        "PAS_chr4_0729"
+      ],
+      "dha": [
+        "DEHA2C05192g"
+      ],
+      "pic": [
+        "PICST_52942"
+      ],
+      "pgu": [
+        "PGUG_05292"
+      ],
+      "spaa": [
+        "SPAPADRAFT_136185"
+      ],
+      "lel": [
+        "LELG_00949",
+        "LELG_00950"
+      ],
+      "cal": [
+        "CAALFM_C205080CA"
+      ],
+      "ctp": [
+        "CTRG_01649"
+      ],
+      "cot": [
+        "CORT_0A09440"
+      ],
+      "cdu": [
+        "CD36_19590"
+      ],
+      "cten": [
+        "CANTEDRAFT_130354"
+      ],
+      "yli": [
+        "YALI0F30085g"
+      ],
+      "clu": [
+        "CLUG_00418"
+      ],
+      "clus": [
+        "A9F13_08g02222"
+      ],
+      "caur": [
+        "QG37_06120"
+      ],
+      "slb": [
+        "AWJ20_3775"
+      ],
+      "ncr": [
+        "NCU06227"
+      ],
+      "nte": [
+        "NEUTE1DRAFT81366"
+      ],
+      "smp": [
+        "SMAC_07090"
+      ],
+      "pan": [
+        "PODANSg5284"
+      ],
+      "ttt": [
+        "THITE_2146331"
+      ],
+      "mtm": [
+        "MYCTH_2304056"
+      ],
+      "cthr": [
+        "CTHT_0023660"
+      ],
+      "mgr": [
+        "MGG_10184"
+      ],
+      "tmn": [
+        "UCRPA7_1634"
+      ],
+      "ssck": [
+        "SPSK_02656"
+      ],
+      "fgr": [
+        "FGSG_02492"
+      ],
+      "fpu": [
+        "FPSE_08611"
+      ],
+      "fvr": [
+        "FVEG_09172"
+      ],
+      "fox": [
+        "FOXG_10523"
+      ],
+      "nhe": [
+        "NECHADRAFT_104828"
+      ],
+      "tre": [
+        "TRIREDRAFT_61503"
+      ],
+      "cmt": [
+        "CCM_05840"
+      ],
+      "plj": [
+        "VFPFJ_04854"
+      ],
+      "vda": [
+        "VDAG_06307"
+      ],
+      "cfj": [
+        "CFIO01_11884"
+      ],
+      "pfy": [
+        "PFICI_11912"
+      ],
+      "ssl": [
+        "SS1G_00022"
+      ],
+      "bfu": [
+        "BCIN_03g07450"
+      ],
+      "mbe": [
+        "MBM_07039"
+      ],
+      "psco": [
+        "LY89DRAFT_654544"
+      ],
+      "glz": [
+        "GLAREA_01071"
+      ],
+      "ani": [
+        "AN8855.2"
+      ],
+      "afm": [
+        "AFUA_5G05660"
+      ],
+      "aor": [
+        "AO090009000697"
+      ],
+      "ang": [
+        "ANI_1_320154"
+      ],
+      "afv": [
+        "AFLA_048150"
+      ],
+      "act": [
+        "ACLA_008930"
+      ],
+      "pcs": [
+        "Pc20g00690"
+      ],
+      "pdp": [
+        "PDIP_22310"
+      ],
+      "cim": [
+        "CIMG_06371"
+      ],
+      "cpw": [
+        "CPC735_028770"
+      ],
+      "pbl": [
+        "PAAG_07384"
+      ],
+      "pbn": [
+        "PADG_05882"
+      ],
+      "ure": [
+        "UREG_04030"
+      ],
+      "abe": [
+        "ARB_00878"
+      ],
+      "tve": [
+        "TRV_07919"
+      ],
+      "aje": [
+        "HCAG_03054"
+      ],
+      "pno": [
+        "SNOG_09011"
+      ],
+      "pte": [
+        "PTT_16424"
+      ],
+      "bze": [
+        "COCCADRAFT_32810"
+      ],
+      "bsc": [
+        "COCSADRAFT_291961"
+      ],
+      "bor": [
+        "COCMIDRAFT_90655"
+      ],
+      "aalt": [
+        "CC77DRAFT_137686"
+      ],
+      "ztr": [
+        "MYCGRDRAFT_74552"
+      ],
+      "pfj": [
+        "MYCFIDRAFT_40460"
+      ],
+      "bcom": [
+        "BAUCODRAFT_23378"
+      ],
+      "tml": [
+        "GSTUM_00006100001"
+      ],
+      "spo": [
+        "SPAC630.10"
+      ],
+      "cne": [
+        "CNF03010"
+      ],
+      "cnb": [
+        "CNBF1700"
+      ],
+      "cgi": [
+        "CGB_F2330W"
+      ],
+      "tms": [
+        "TREMEDRAFT_34446"
+      ],
+      "tvs": [
+        "TRAVEDRAFT_146149"
+      ],
+      "dsq": [
+        "DICSQDRAFT_57768"
+      ],
+      "pco": [
+        "PHACADRAFT_121556"
+      ],
+      "shs": [
+        "STEHIDRAFT_161028"
+      ],
+      "hir": [
+        "HETIRDRAFT_414665"
+      ],
+      "psq": [
+        "PUNSTDRAFT_144230"
+      ],
+      "adl": [
+        "AURDEDRAFT_142246"
+      ],
+      "fme": [
+        "FOMMEDRAFT_109308"
+      ],
+      "gtr": [
+        "GLOTRDRAFT_114713"
+      ],
+      "lbc": [
+        "LACBIDRAFT_189592"
+      ],
+      "mrr": [
+        "Moror_2024"
+      ],
+      "cci": [
+        "CC1G_05149"
+      ],
+      "scm": [
+        "SCHCODRAFT_50863"
+      ],
+      "abp": [
+        "AGABI1DRAFT118273"
+      ],
+      "abv": [
+        "AGABI2DRAFT199801"
+      ],
+      "cput": [
+        "CONPUDRAFT_118159"
+      ],
+      "sla": [
+        "SERLADRAFT_474456"
+      ],
+      "wse": [
+        "WALSEDRAFT_36179"
+      ],
+      "wic": [
+        "J056_004290"
+      ],
+      "uma": [
+        "UMAG_01211"
+      ],
+      "pfp": [
+        "PFL1_02973"
+      ],
+      "pgr": [
+        "PGTG_15090"
+      ],
+      "mlr": [
+        "MELLADRAFT_26808"
+      ],
+      "mbr": [
+        "MONBRDRAFT_12452",
+        "MONBRDRAFT_22269"
+      ],
+      "sre": [
+        "PTSG_06306"
+      ],
+      "acan": [
+        "ACA1_307860"
+      ],
+      "smin": [
+        "v1.2.001061.t1",
+        "v1.2.020840.t1",
+        "v1.2.027271.t1"
+      ],
+      "pti": [
+        "PHATRDRAFT_44702"
+      ],
+      "fcy": [
+        "FRACYDRAFT_227422",
+        "FRACYDRAFT_239900"
+      ],
+      "ngd": [
+        "NGA_0720900"
+      ],
+      "pif": [
+        "PITG_06609"
+      ],
+      "psoj": [
+        "PHYSODRAFT_256360"
+      ],
+      "spar": [
+        "SPRG_03893"
+      ],
+      "ehx": [
+        "EMIHUDRAFT_210689",
+        "EMIHUDRAFT_227478",
+        "EMIHUDRAFT_242230",
+        "EMIHUDRAFT_243252"
+      ],
+      "gtt": [
+        "GUITHDRAFT_103629"
+      ],
+      "tbr": [
+        "Tb927.8.2960"
+      ],
+      "tcr": [
+        "510513.30"
+      ],
+      "lma": [
+        "LMJF_23_1090"
+      ],
+      "lif": [
+        "LINJ_23_1300"
+      ],
+      "ldo": [
+        "LDBPK_231300"
+      ],
+      "lmi": [
+        "LMXM_23_1090"
+      ],
+      "lbz": [
+        "LBRM_23_1180"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.1.1.286"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.1.1.286"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.1.1.286"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.1.1.286"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Sharma S",
+          "Watzinger P",
+          "Kotter P",
+          "Entian KD"
+        ],
+        "title": "Identification of a novel methyltransferase, Bmt2, responsible for the N-1-methyl-adenosine base modification of 25S rRNA in Saccharomyces cerevisiae.",
+        "journal": "Nucleic Acids Res 41:5428-43 (2013) DOI:10.1093/nar/gkt195",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:23558746]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

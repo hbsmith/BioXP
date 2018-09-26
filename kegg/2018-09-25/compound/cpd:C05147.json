@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C05147",
+    "name": "trans-3-Hydroxy-L-proline",
+    "names": [
+      "trans-3-Hydroxy-L-proline",
+      "trans-L-3-Hydroxyproline"
+    ],
+    "formula": "C5H9NO3",
+    "exact_mass": 131.0582,
+    "mol_weight": 131.1299,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04374"
+    ],
+    "pathways": {
+      "map00330": "Arginine and proline metabolism"
+    },
+    "enzymes": [
+      "4.2.1.77"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7565"
+      ],
+      "ChEBI": [
+        "16889"
+      ],
+      "ChEMBL": [
+        "CHEMBL1233466"
+      ],
+      "PDB-CCD": [
+        "HY3"
+      ],
+      "NIKKAJI": [
+        "J191.774I"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1x C    20.7029  -21.3667\n            2   C1x C    21.1478  -22.6941\n            3   C1y C    22.5477  -22.6812\n            4   C1y C    22.9680  -21.3458\n            5   N1x N    21.8278  -20.5334\n            6   O1a O    23.3778  -23.8017\n            7   C6a C    24.1724  -20.6500\n            8   O6a O    25.3849  -21.3500\n            9   O6a O    24.1723  -19.2502\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     3   6 1 #Up\n            7     4   7 1 #Down\n            8     7   8 1\n            9     7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

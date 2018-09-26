@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R08203",
+    "name": "chlorophyllide-a,NADPH:oxygen 7(1)-oxidoreductase (hydroxylating)",
+    "definition": "Chlorophyllide + Oxygen + NADPH + H+ <=> 7(1)-Hydroxychlorophyllide a + H2O + NADP+",
+    "equation": "C02139 + C00007 + C00005 + C00080 <=> C16540 + C00001 + C00006",
+    "comment": "first step of two-step reaction (see R10080, R08203+R08204)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.122"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13600": "chlorophyllide a oxygenase [EC:1.14.13.122]"
+    }
+  }
+][
+  {
+    "entry_id": "R08203",
+    "name": "chlorophyllide-a,NADPH:oxygen 7(1)-oxidoreductase (hydroxylating)",
+    "definition": "Chlorophyllide + Oxygen + NADPH + H+ <=> 7(1)-Hydroxychlorophyllide a + H2O + NADP+",
+    "equation": "C02139 + C00007 + C00005 + C00080 <=> C16540 + C00001 + C00006",
+    "comment": "first step of two-step reaction (see R10080, R08203+R08204)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.122"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13600": "chlorophyllide a oxygenase [EC:1.14.13.122]"
+    }
+  }
+]

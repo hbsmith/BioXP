@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C06630",
+    "name": "3-O-alpha-Mycarosylerythronolide B",
+    "names": [
+      "3-O-alpha-Mycarosylerythronolide B",
+      "3-alpha-L-Mycarosylerythronolide B",
+      "4-(4,5-Dihydroxy-4,6-dimethyl-tetrahydro-pyran-2-yloxy)-14-ethyl-6,7,12-trihydroxy-3,5,7,9,11,13-hexamethyl-oxacyclotetradecane-2,10-dione"
+    ],
+    "formula": "C28H50O10",
+    "exact_mass": 546.3404,
+    "mol_weight": 546.6906,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05530",
+      "R05531"
+    ],
+    "pathways": {
+      "map00522": "Biosynthesis of 12-, 14- and 16-membered macrolides",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "2.4.1.278",
+      "2.4.1.328"
+    ],
+    "dblinks": {
+      "CAS": [
+        "34698-88-9"
+      ],
+      "PubChem": [
+        "8856"
+      ],
+      "ChEBI": [
+        "28343"
+      ],
+      "3DMET": [
+        "B02078"
+      ],
+      "NIKKAJI": [
+        "J941.080E"
+      ]
+    },
+    "kcf": "ATOM        38\n            1   C1y C    30.5685  -21.8883\n            2   O2a O    29.3025  -20.9268\n            3   C1x C    30.6205  -23.3681\n            4   O2x O    31.8517  -21.1542\n            5   C1y C    27.9942  -19.8104\n            6   C1z C    31.8227  -24.1138\n            7   C1y C    33.1234  -21.9114\n            8   C1y C    27.9942  -18.4578\n            9   C1y C    26.8208  -20.4926\n            10  C1y C    33.1112  -23.3854\n            11  C1a C    32.6495  -25.2929\n            12  O1a O    31.3026  -25.2928\n            13  C1a C    34.4066  -21.1484\n            14  C1y C    29.1620  -17.7872\n            15  C1a C    27.0290  -17.4983\n            16  C7x C    25.6532  -19.8104\n            17  C1a C    26.8208  -21.8395\n            18  O1a O    34.3894  -24.1254\n            19  C1z C    29.1620  -16.4346\n            20  O1a O    30.3179  -18.4578\n            21  O7x O    25.6532  -18.4578\n            22  O6a O    24.4855  -20.4926\n            23  C1x C    27.9942  -15.7584\n            24  C1a C    30.4451  -16.7814\n            25  O1a O    30.3179  -15.7584\n            26  C1y C    24.4855  -17.7872\n            27  C1y C    27.9942  -14.4115\n            28  C1y C    24.4855  -16.4346\n            29  C1b C    23.3064  -18.4462\n            30  C5x C    26.8208  -13.7294\n            31  C1a C    29.1620  -13.7294\n            32  C1y C    25.6532  -15.7584\n            33  C1a C    23.2485  -15.7237\n            34  C1y C    25.6532  -14.4115\n            35  O5x O    26.8208  -12.3767\n            36  O1a O    26.8151  -16.4290\n            37  C1a C    24.4855  -13.7294\n            38  C1a C    22.1162  -17.7367\nBOND        39\n            1     1   2 1 #Down\n            2     1   3 1\n            3     1   4 1\n            4     5   2 1 #Down\n            5     3   6 1\n            6     4   7 1\n            7     5   8 1\n            8     5   9 1\n            9     6  10 1\n            10    6  11 1 #Up\n            11    6  12 1 #Down\n            12    7  13 1 #Up\n            13    8  14 1\n            14    8  15 1 #Down\n            15    9  16 1\n            16    9  17 1 #Up\n            17   10  18 1 #Down\n            18   14  19 1\n            19   14  20 1 #Down\n            20   16  21 1\n            21   16  22 2\n            22   19  23 1\n            23   19  24 1 #Down\n            24   19  25 1 #Up\n            25   21  26 1\n            26   23  27 1\n            27   26  28 1\n            28   26  29 1 #Down\n            29   27  30 1\n            30   27  31 1 #Down\n            31   28  32 1\n            32   28  33 1 #Down\n            33   30  34 1\n            34   30  35 2\n            35   32  36 1 #Up\n            36   34  37 1 #Up\n            37    7  10 1\n            38   32  34 1\n            39   29  38 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

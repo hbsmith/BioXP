@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C14904",
+    "name": "alpha-(p-Methoxyphenyl)-3-pyridineacrylonitrile",
+    "names": [
+      "alpha-(p-Methoxyphenyl)-3-pyridineacrylonitrile"
+    ],
+    "formula": "C15H12N2O",
+    "exact_mass": 236.095,
+    "mol_weight": 236.2686,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17395902"
+      ],
+      "ChEBI": [
+        "79430"
+      ],
+      "ChEMBL": [
+        "CHEMBL3199572"
+      ],
+      "NIKKAJI": [
+        "J2.790.419J"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   N5x N    21.0061  -19.3350\n            2   C8x C    21.0061  -20.7361\n            3   C8x C    22.2194  -21.4366\n            4   C8x C    23.4327  -20.7361\n            5   C8y C    23.4327  -19.3350\n            6   C8x C    22.2194  -18.6346\n            7   C2b C    24.6646  -18.6236\n            8   C2c C    25.8707  -19.3198\n            9   C8y C    27.0537  -18.6365\n            10  C8x C    28.2487  -19.3263\n            11  C8x C    29.4618  -18.6258\n            12  C8y C    29.4618  -17.2249\n            13  C8x C    28.2671  -16.5351\n            14  C8x C    27.0537  -17.2356\n            15  O2a O    30.6862  -16.5179\n            16  C3b C    25.8711  -20.7357\n            17  N3a N    25.9094  -22.1370\n            18  C1a C    31.9144  -17.2270\nBOND        19\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11   10  11 1\n            12   11  12 2\n            13   12  13 1\n            14   13  14 2\n            15    9  14 1\n            16   12  15 1\n            17    8  16 1\n            18   16  17 3\n            19   15  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

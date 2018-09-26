@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07697",
+    "name": "",
+    "definition": "Phenylboronic acid + Oxygen <=> Phenol + Boric acid",
+    "equation": "C16200 + C00007 <=> C00146 + C12486",
+    "comment": "phenylboronic acid monooxygenase incomplete reaction (unidentified donor)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

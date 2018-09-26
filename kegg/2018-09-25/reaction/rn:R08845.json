@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08845",
+    "name": "UTP:monosaccharide-1-phosphate uridylyltransferase",
+    "definition": "UTP + alpha-D-Aldose 1-phosphate <=> Diphosphate + UDP-sugar",
+    "equation": "C00075 + C00991 <=> C00013 + C05227",
+    "comment": "UDP-sugar pyrophosphorylase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.64"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K12447": "UDP-sugar pyrophosphorylase [EC:2.7.7.64]"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R02772",
+    "name": "dTDP-4-acetamido-4,6-dideoxy-D-glucose:2-oxoglutarate aminotransferase",
+    "definition": "dTDP-4-acetamido-4,6-dideoxy-D-glucose + 2-Oxoglutarate + CoA <=> dTDP-4-oxo-6-deoxy-D-glucose + L-Glutamate + Acetyl-CoA",
+    "equation": "C06018 + C00026 + C00010 <=> C11907 + C00025 + C00024",
+    "comment": "multi-step reaction (R02773 and an unknown N-acetyltransferase)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.33"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

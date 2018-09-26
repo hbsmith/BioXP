@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05053",
+    "name": "D-aspartate:2-oxoglutarate aminotransferase",
+    "definition": "D-Aspartate + (4R)-4-Hydroxy-2-oxoglutarate <=> Oxaloacetate + L-erythro-4-Hydroxyglutamate",
+    "equation": "C00402 + C05946 <=> C00036 + C05947",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.21"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00824": "D-alanine transaminase [EC:2.6.1.21]"
+    }
+  }
+]

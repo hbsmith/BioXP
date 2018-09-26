@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08082",
+    "name": "dihydroflavonol,2-oxoglutarate:oxygen oxidoreductase",
+    "definition": "Pinobanksin + 2-Oxoglutarate + Oxygen <=> Galangin + Succinate + CO2 + H2O",
+    "equation": "C09826 + C00026 + C00007 <=> C10044 + C00042 + C00011 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.20.6"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis"
+    },
+    "orthologs": {
+      "K05278": "flavonol synthase [EC:1.14.20.6]"
+    }
+  }
+]

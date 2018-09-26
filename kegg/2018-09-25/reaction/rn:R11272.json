@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11272",
+    "name": "UDP-alpha-D-glucose:neamine alpha-D-glucosyltransferase",
+    "definition": "UDP-glucose + Neamine <=> UDP + 3''-Deamino-3''-hydroxykanamycin B",
+    "equation": "C00029 + C01441 <=> C00015 + C21254",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.301"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20573": "2'-deamino-2'-hydroxyneamine 1-alpha-D-kanosaminyltransferase [EC:2.4.1.301]"
+    }
+  }
+][
+  {
+    "entry_id": "R11272",
+    "name": "UDP-alpha-D-glucose:neamine alpha-D-glucosyltransferase",
+    "definition": "UDP-glucose + Neamine <=> UDP + 3''-Deamino-3''-hydroxykanamycin B",
+    "equation": "C00029 + C01441 <=> C00015 + C21254",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.301"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20573": "2'-deamino-2'-hydroxyneamine 1-alpha-D-kanosaminyltransferase [EC:2.4.1.301]"
+    }
+  }
+]

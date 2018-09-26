@@ -1,0 +1,27 @@
+[
+  {
+    "entry_id": "R00299",
+    "name": "ATP:D-glucose 6-phosphotransferase",
+    "definition": "ATP + D-Glucose <=> ADP + D-Glucose 6-phosphate",
+    "equation": "C00002 + C00031 <=> C00008 + C00092",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.1",
+      "2.7.1.2"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn00521": "Streptomycin biosynthesis",
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00844": "hexokinase [EC:2.7.1.1]",
+      "K00845": "glucokinase [EC:2.7.1.2]",
+      "K12407": "glucokinase [EC:2.7.1.2]"
+    }
+  }
+]

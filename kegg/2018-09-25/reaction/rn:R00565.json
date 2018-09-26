@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00565",
+    "name": "L-Arginine:glycine amidinotransferase",
+    "definition": "L-Arginine + Glycine <=> L-Ornithine + Guanidinoacetate",
+    "equation": "C00062 + C00037 <=> C00077 + C00581",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.4.1"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism",
+      "rn00330": "Arginine and proline metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00613": "glycine amidinotransferase [EC:2.1.4.1]"
+    }
+  }
+]

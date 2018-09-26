@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11919",
+    "name": "5-amino-1-(5-phospho-beta-D-ribosyl)imidazole formate-lyase (5-hydroxybenzimidazole-forming)",
+    "definition": "Aminoimidazole ribotide + S-Adenosyl-L-methionine + Reduced acceptor <=> 5-Hydroxybenzimidazole + 5'-Deoxyadenosine + L-Methionine + Formate + Ammonia + Orthophosphate + Acceptor",
+    "equation": "C03373 + C00019 + C00030 <=> C21764 + C05198 + C00073 + C00058 + C00014 + C00009 + C00028",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.99.23"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K22465": "5-hydroxybenzimidazole synthase [EC:4.1.99.23]",
+      "K22466": "5-hydroxybenzimidazole synthase [EC:4.1.99.23]"
+    }
+  }
+]

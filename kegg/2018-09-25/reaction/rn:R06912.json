@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06912",
+    "name": "",
+    "definition": "2-Hydroxy-8-methylchromene-2-carboxylate <=> 2-Hydroxy-3-methylbenzalpyruvate",
+    "equation": "C14085 <=> C14086",
+    "comment": "2-hydroxy-8-methylchromene-2-carboxylate isomerase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.99.-"
+    ],
+    "pathways": {
+      "rn00626": "Naphthalene degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C11081",
+    "name": "EPTC",
+    "names": [
+      "EPTC",
+      "S-Ethyl dipropylthiocarbamate"
+    ],
+    "formula": "C9H19NOS",
+    "exact_mass": 189.1187,
+    "mol_weight": 189.3183,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "759-94-4"
+      ],
+      "PubChem": [
+        "13263"
+      ],
+      "ChEBI": [
+        "4738"
+      ],
+      "ChEMBL": [
+        "CHEMBL1371350"
+      ],
+      "NIKKAJI": [
+        "J6.966C"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1a C    24.1546  -16.5633\n            2   C1b C    25.3682  -17.2620\n            3   C1b C    26.5821  -16.5633\n            4   N1c N    27.7959  -17.2620\n            5   C5a C    29.0026  -16.5633\n            6   S2a S    30.2162  -17.2620\n            7   C1b C    31.4300  -16.5633\n            8   C1a C    32.6439  -17.2620\n            9   O5a O    29.0026  -15.1592\n            10  C1b C    27.7959  -18.6663\n            11  C1b C    26.5860  -19.3649\n            12  C1a C    26.5860  -20.7622\nBOND        11\n            1     6   7 1\n            2     3   4 1\n            3     7   8 1\n            4     5   9 2\n            5     4   5 1\n            6     4  10 1\n            7     2   3 1\n            8     5   6 1\n            9    10  11 1\n            10    1   2 1\n            11   11  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

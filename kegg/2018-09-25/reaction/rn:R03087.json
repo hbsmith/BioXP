@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03087",
+    "name": "19-oxotestosterone,NADPH---hemoprotein reductase:oxygen oxidoreductase (aromatizing, formate-forming)",
+    "definition": "19-Oxotestosterone + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> Estradiol-17beta + Formate + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C05295 + C00007 + C03024 <=> C00951 + C00058 + C03161 + C00001",
+    "comment": "aromatase, ARO following after R04761",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.14"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K07434": "aromatase [EC:1.14.14.14]"
+    }
+  }
+]

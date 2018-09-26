@@ -1,0 +1,75 @@
+[
+  {
+    "entry_id": "C03658",
+    "name": "1-Hydroxyalkyl-sn-glycerol",
+    "names": [
+      "1-Hydroxyalkyl-sn-glycerol"
+    ],
+    "formula": "C4H9O4R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R04044",
+      "R08372"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.16.5"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6436"
+      ],
+      "ChEBI": [
+        "73418"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   O1a O    16.3800  -16.5200\n            2   C1b C    17.5924  -17.2200\n            3   C1c C    18.8049  -16.5200\n            4   C1b C    20.0173  -17.2200\n            5   O2a O    21.2297  -16.5200\n            6   C1c C    22.4422  -17.2200\n            7   O1a O    18.8049  -15.1202\n            8   O1a O    23.6753  -16.5078\n            9   R   R    22.4423  -18.6197\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     3   7 1 #Down\n            7     6   8 1\n            8     6   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C03658",
+    "name": "1-Hydroxyalkyl-sn-glycerol",
+    "names": [
+      "1-Hydroxyalkyl-sn-glycerol"
+    ],
+    "formula": "C4H9O4R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R04044",
+      "R08372"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.16.5"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6436"
+      ],
+      "ChEBI": [
+        "73418"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   O1a O    16.3800  -16.5200\n            2   C1b C    17.5924  -17.2200\n            3   C1c C    18.8049  -16.5200\n            4   C1b C    20.0173  -17.2200\n            5   O2a O    21.2297  -16.5200\n            6   C1c C    22.4422  -17.2200\n            7   O1a O    18.8049  -15.1202\n            8   O1a O    23.6753  -16.5078\n            9   R   R    22.4423  -18.6197\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     3   7 1 #Down\n            7     6   8 1\n            8     6   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

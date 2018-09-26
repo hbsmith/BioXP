@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05394",
+    "name": "4-Sulfolactone lyase",
+    "definition": "3-Sulfomuconate <=> 4-Sulfolactone",
+    "equation": "C06675 <=> C06676",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.-"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

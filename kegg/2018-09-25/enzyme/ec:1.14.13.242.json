@@ -1,0 +1,309 @@
+[
+  {
+    "entry_id": "1.14.13.242",
+    "name": "3-hydroxy-2-methylpyridine-5-carboxylate monooxygenase",
+    "names": [
+      "3-hydroxy-2-methylpyridine-5-carboxylate monooxygenase",
+      "MHPCO",
+      "3-hydroxy-2-methylpyridine-5-carboxylate,NAD(P)H:oxygen oxidoreductase (decyclizing)",
+      "methylhydroxypyridinecarboxylate oxidase (misleading)",
+      "2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase (incorrect)",
+      "methylhydroxypyridine carboxylate dioxygenase (incorrect)",
+      "3-hydroxy-3-methylpyridinecarboxylate dioxygenase [incorrect]",
+      "3-hydroxy-2-methylpyridinecarboxylate dioxygenase (incorrect)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With NADH or NADPH as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "3-hydroxy-2-methylpyridine-5-carboxylate,NAD(P)H:oxygen oxidoreductase (ring-opening)",
+    "reaction": "3-hydroxy-2-methylpyridine-5-carboxylate + NAD(P)H + H+ + O2 = 2-(acetamidomethylidene)succinate + NAD(P)+ [RN:R03385 R03386]",
+    "all_reac": "R03385 R03386",
+    "iubmb_reactions": [
+      "R03385 R03386"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "3-hydroxy-2-methylpyridine-5-carboxylate [CPD:C01270]",
+      "NADH [CPD:C00004]",
+      "NADPH [CPD:C00005]",
+      "H+ [CPD:C00080]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "2-(acetamidomethylidene)succinate [CPD:C01215]",
+      "NAD+ [CPD:C00003]",
+      "NADP+ [CPD:C00006]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "Contains FAD. The enzyme, characterized from the bacteria Pseudomonas sp. MA-1 and Mesorhizobium loti, participates in the degradation of pyridoxine (vitamin B6). Although the enzyme was initially thought to be a dioxygenase, oxygen-tracer experiments have shown that it is a monooxygenase, incorporating only one oxygen atom from molecular oxygen. The second oxygen atom that is incorporated into the product originates from a water molecule, which is regenerated during the reaction and thus does not show up in the reaction equation.",
+    "pathways": {
+      "ec00750": "Vitamin B6 metabolism",
+      "ec01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K18071": "2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase"
+    },
+    "genes": {
+      "mlo": [
+        "mlr6788"
+      ],
+      "mln": [
+        "A9174_14020"
+      ],
+      "mam": [
+        "Mesau_02080"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.13.242"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.13.242"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.13.242"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.13.242"
+      ],
+      "CAS": [
+        "37256-69-2"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Sparrow LG",
+          "Ho PP",
+          "Sundaram TK",
+          "Zach D",
+          "Nyns EJ",
+          "Snell EE."
+        ],
+        "title": "The bacterial oxidation of vitamin B6. VII. Purification, properties, and mechanism of action of an oxygenase which cleaves the 3-hydroxypyridine ring.",
+        "journal": "J Biol Chem",
+        "volume": "244",
+        "issue": "",
+        "pages": "2590-600",
+        "year": "1969",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:4306031]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chaiyen P",
+          "Ballou DP",
+          "Massey V"
+        ],
+        "title": "Gene cloning, sequence analysis, and expression of 2-methyl-3-hydroxypyridine-5-carboxylic acid oxygenase.",
+        "journal": "Proc Natl Acad Sci U S A 94:7233-8 (1997) DOI:10.1073/pnas.94.14.7233",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:9207074]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Oonanant W",
+          "Sucharitakul J",
+          "Yuvaniyama J",
+          "Chaiyen P"
+        ],
+        "title": "Crystallization and preliminary X-ray crystallographic analysis of 2-methyl-3-hydroxypyridine-5-carboxylic acid (MHPC) oxygenase from Pseudomonas sp. MA-1.",
+        "journal": "Acta Crystallogr Sect F Struct Biol Cryst Commun 61:312-4 (2005) DOI:10.1107/S1744309105004367",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:16511028]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yuan B",
+          "Yokochi N",
+          "Yoshikane Y",
+          "Ohnishi K",
+          "Yagi T"
+        ],
+        "title": "Molecular cloning, identification and characterization of 2-methyl-3-hydroxypyridine-5-carboxylic-acid-dioxygenase-coding gene from the nitrogen-fixing symbiotic bacterium Mesorhizobium loti.",
+        "journal": "J Biosci Bioeng 102:504-10 (2006) DOI:10.1263/jbb.102.504",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:17270714]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "McCulloch KM",
+          "Mukherjee T",
+          "Begley TP",
+          "Ealick SE"
+        ],
+        "title": "Structure of the PLP degradative enzyme 2-methyl-3-hydroxypyridine-5-carboxylic acid oxygenase from Mesorhizobium loti MAFF303099 and its mechanistic implications.",
+        "journal": "Biochemistry 48:4139-49 (2009) DOI:10.1021/bi900149f",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "5  [PMID:19317437]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tian B",
+          "Tu Y",
+          "Strid A",
+          "Eriksson LA"
+        ],
+        "title": "Hydroxylation and ring-opening mechanism of an unusual flavoprotein monooxygenase, 2-methyl-3-hydroxypyridine-5-carboxylic acid oxygenase: a theoretical study.",
+        "journal": "Chemistry 16:2557-66 (2010) DOI:10.1002/chem.200902253",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "6  [PMID:20066695]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tian B",
+          "Strid A",
+          "Eriksson LA"
+        ],
+        "title": "Catalytic roles of active-site residues in 2-methyl-3-hydroxypyridine-5-carboxylic acid oxygenase: an ONIOM/DFT study.",
+        "journal": "J Phys Chem B 115:1918-26 (2011) DOI:10.1021/jp111525p",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "7  [PMID:21291225]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

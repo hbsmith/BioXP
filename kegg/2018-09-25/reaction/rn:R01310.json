@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "R01310",
+    "name": "phosphatidylcholine phosphatidohydrolase",
+    "definition": "Phosphatidylcholine + H2O <=> Phosphatidate + Choline",
+    "equation": "C00157 + C00001 <=> C00416 + C00114",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.4.4"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K01115": "phospholipase D1/2 [EC:3.1.4.4]",
+      "K16860": "phospholipase D3/4 [EC:3.1.4.4]",
+      "K17717": "phospholipase D [EC:3.1.4.4]"
+    }
+  }
+][
+  {
+    "entry_id": "R01310",
+    "name": "phosphatidylcholine phosphatidohydrolase",
+    "definition": "Phosphatidylcholine + H2O <=> Phosphatidate + Choline",
+    "equation": "C00157 + C00001 <=> C00416 + C00114",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.4.4"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K01115": "phospholipase D1/2 [EC:3.1.4.4]",
+      "K16860": "phospholipase D3/4 [EC:3.1.4.4]",
+      "K17717": "phospholipase D [EC:3.1.4.4]"
+    }
+  }
+]

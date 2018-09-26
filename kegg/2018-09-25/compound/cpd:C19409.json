@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C19409",
+    "name": "Dinitrosopentamethylenetetramine",
+    "names": [
+      "Dinitrosopentamethylenetetramine"
+    ],
+    "formula": "C5H10N6O2",
+    "exact_mass": 186.0865,
+    "mol_weight": 186.1719,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "101-25-7"
+      ],
+      "PubChem": [
+        "124490081"
+      ],
+      "ChEBI": [
+        "82457"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1x C    27.5507  -15.1568\n            2   N1y N    28.8622  -15.1568\n            3   C1x C    29.7915  -16.0793\n            4   N1y N    29.7915  -17.3908\n            5   C1x C    28.8622  -18.3201\n            6   N1y N    27.5507  -18.3201\n            7   C1x C    26.6280  -17.3908\n            8   N1y N    26.6280  -16.0793\n            9   C1x C    28.8622  -17.0570\n            10  N2b N    25.5152  -15.4048\n            11  N2b N    30.9304  -18.0259\n            12  O3a O    32.1428  -18.7259\n            13  O3a O    24.3728  -14.6348\nBOND        14\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   1 1\n            9     2   9 1\n            10    6   9 1\n            11    8  10 1\n            12    4  11 1\n            13   11  12 2\n            14   10  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

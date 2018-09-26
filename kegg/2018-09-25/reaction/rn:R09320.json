@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09320",
+    "name": "",
+    "definition": "UDP-D-galactose + G10770 <=> UDP + G13057",
+    "equation": "G10609 + G10770 <=> G10619 + G13057",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn00513": "Various types of N-glycan biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K14434": "alpha 1,6-fucoside beta 1,4-galactosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

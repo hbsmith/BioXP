@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00514",
+    "name": "CDP phosphohydrolase",
+    "definition": "CDP + H2O <=> CMP + Orthophosphate",
+    "equation": "C00112 + C00001 <=> C00055 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.5"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+      "K01510": "apyrase [EC:3.6.1.5]",
+      "K14641": "apyrase [EC:3.6.1.5]",
+      "K14642": "golgi apyrase [EC:3.6.1.5]"
+    }
+  }
+]

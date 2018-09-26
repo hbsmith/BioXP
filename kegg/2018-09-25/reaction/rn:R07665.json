@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07665",
+    "name": "",
+    "definition": "3-Cresol + Oxygen + NADH + H+ <=> 3-Hydroxybenzyl alcohol + NAD+ + H2O",
+    "equation": "C01467 + C00007 + C00004 + C00080 <=> C03351 + C00003 + C00001",
+    "comment": "xylenol methylhydroxylase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+    }
+  }
+]

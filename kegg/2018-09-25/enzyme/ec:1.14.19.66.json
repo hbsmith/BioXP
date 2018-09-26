@@ -1,0 +1,109 @@
+[
+  {
+    "entry_id": "1.14.19.66",
+    "name": "berbamunine synthase",
+    "names": [
+      "berbamunine synthase",
+      "(S)-N-methylcoclaurine oxidase (C-O phenol-coupling)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With oxidation of a pair of donors resulting in the reduction of O2 to two molecules of water"
+    ],
+    "sysname": "(S)-N-methylcoclaurine,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (C-O phenol-coupling)",
+    "reaction": "(S)-N-methylcoclaurine + (R)-N-methylcoclaurine + [reduced NADPH---hemoprotein reductase] + O2 = berbamunine + [oxidized NADPH---hemoprotein reductase] + 2 H2O [RN:R04694]",
+    "all_reac": "R04694; (other) R05210 R05215",
+    "iubmb_reactions": [
+      "R04694"
+    ],
+    "kegg_reactions": [
+      "R05210 R05215"
+    ],
+    "substrates": [
+      "(S)-N-methylcoclaurine [CPD:C05176]",
+      "(R)-N-methylcoclaurine [CPD:C05243]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "berbamunine [CPD:C05177]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein found in plants. Forms the bisbenzylisoquinoline alkaloid berbamunine by phenol oxidation of N-methylcoclaurine without the incorporation of oxygen into the product. Reaction of two molecules of (R)-N-methylcoclaurine gives the dimer guattagaumerine.",
+    "pathways": {
+      "ec00950": "Isoquinoline alkaloid biosynthesis"
+    },
+    "orthologs": {
+      "K13387": "berbamunine synthase"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.19.66"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.19.66"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.19.66"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.19.66"
+      ],
+      "CAS": [
+        "144941-42-4"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Stadler R",
+          "Zenk MH."
+        ],
+        "title": "The purification and characterization of a unique cytochrome P-450 enzyme from Berberis stolonifera plant cell cultures.",
+        "journal": "J Biol Chem",
+        "volume": "268",
+        "issue": "",
+        "pages": "823-31",
+        "year": "1993",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:8380416]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

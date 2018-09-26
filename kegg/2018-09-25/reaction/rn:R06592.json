@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06592",
+    "name": "",
+    "definition": "AminoDAHP <=> AminoDHQ + Orthophosphate",
+    "equation": "C12106 <=> C12109 + C00009",
+    "comment": "aminoDHQ synthase, RifG Asm47",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01051": "Biosynthesis of ansamycins",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16020": "5-deoxy-5-amino-3-dehydroquinate synthase"
+    }
+  }
+]

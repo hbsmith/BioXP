@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R01407",
+    "name": "long-chain-fatty-acid:protein ligase (AMP-forming)",
+    "definition": "ATP + Long-chain fatty acid + [Protein]-L-cysteine <=> AMP + Diphosphate + [Protein]-S-(long-chain-acyl)-L-cysteine",
+    "equation": "C00002 + C00638 + C02743 <=> C00020 + C00013 + C03371",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.19"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

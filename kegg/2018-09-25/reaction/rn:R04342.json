@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R04342",
+    "name": "trans-5-O-(4-coumaroyl)-D-quinate,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (3'-hydroxylating)",
+    "definition": "p-Coumaroyl quinic acid + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Chlorogenate + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C12208 + C03024 + C00007 <=> C00852 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.96"
+    ],
+    "pathways": {
+      "rn00940": "Phenylpropanoid biosynthesis",
+      "rn00941": "Flavonoid biosynthesis",
+      "rn00945": "Stilbenoid, diarylheptanoid and gingerol biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K09754": "coumaroylquinate(coumaroylshikimate) 3'-monooxygenase [EC:1.14.13.36]"
+    }
+  }
+]

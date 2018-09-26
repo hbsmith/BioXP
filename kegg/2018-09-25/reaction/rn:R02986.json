@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02986",
+    "name": "2-furoate:CoA ligase (AMP-forming)",
+    "definition": "ATP + 2-Furoate + CoA <=> AMP + Diphosphate + 2-Furoyl-CoA",
+    "equation": "C00002 + C01546 + C00010 <=> C00020 + C00013 + C00845",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.31"
+    ],
+    "pathways": {
+      "rn00365": "Furfural degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K16876": "2-furoate---CoA ligase [EC:6.2.1.31]"
+    }
+  }
+]

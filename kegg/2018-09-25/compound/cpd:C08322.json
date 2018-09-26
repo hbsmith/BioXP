@@ -1,0 +1,64 @@
+[
+  {
+    "entry_id": "C08322",
+    "name": "Myristoleic acid",
+    "names": [
+      "Myristoleic acid",
+      "(9Z)-Tetradecenoic acid",
+      "9-Tetradecenoic acid",
+      "(Z)-Tetradec-9-enoic acid"
+    ],
+    "formula": "C14H26O2",
+    "exact_mass": 226.1933,
+    "mol_weight": 226.355,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "544-64-9"
+      ],
+      "PubChem": [
+        "10520"
+      ],
+      "ChEBI": [
+        "27781"
+      ],
+      "ChEMBL": [
+        "CHEMBL456732"
+      ],
+      "LIPIDMAPS": [
+        "LMFA01030051"
+      ],
+      "LipidBank": [
+        "DFA0090"
+      ],
+      "KNApSAcK": [
+        "C00001229"
+      ],
+      "PDB-CCD": [
+        "MYZ"
+      ],
+      "3DMET": [
+        "B02166"
+      ],
+      "NIKKAJI": [
+        "J11.362J"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C1b C    25.3615  -18.7552\n            2   C1b C    26.5716  -18.0537\n            3   C1b C    24.1455  -18.0537\n            4   C1b C    27.7818  -18.7552\n            5   C1b C    22.9353  -18.7552\n            6   C2b C    28.9920  -18.0537\n            7   C1b C    21.7251  -18.0537\n            8   C2b C    30.4068  -18.0479\n            9   C1b C    20.5149  -18.7552\n            10  C1b C    31.6228  -18.7435\n            11  C6a C    19.3048  -18.0537\n            12  C1b C    32.8330  -18.0479\n            13  O6a O    18.0888  -18.7552\n            14  O6a O    19.3048  -16.6565\n            15  C1b C    34.0432  -18.7435\n            16  C1a C    35.2533  -18.0479\nBOND        15\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     4   6 1\n            6     5   7 1\n            7     6   8 2\n            8     7   9 1\n            9     8  10 1\n            10    9  11 1\n            11   10  12 1\n            12   11  13 1\n            13   11  14 2\n            14   12  15 1\n            15   15  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

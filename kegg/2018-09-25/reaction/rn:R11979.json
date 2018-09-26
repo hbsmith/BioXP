@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11979",
+    "name": "11-hydroxysugiol,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (11,20-dihydroxysugiol forming)",
+    "definition": "11-Hydroxysugiol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 11,20-Dihydroxysugiol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C21823 + C03024 + C00007 <=> C21824 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.67"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22637": "11-hydroxysugiol 20-monooxygenase [EC:1.14.14.67]"
+    }
+  }
+]

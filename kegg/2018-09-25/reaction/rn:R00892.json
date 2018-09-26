@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00892",
+    "name": "L-cysteine:NAD+ oxidoreductase; NADH:L-cystine oxidoreductase",
+    "definition": "2 L-Cysteine + NAD+ <=> L-Cystine + H+ + NADH",
+    "equation": "2 C00097 + C00003 <=> C00491 + C00080 + C00004",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.1.6"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

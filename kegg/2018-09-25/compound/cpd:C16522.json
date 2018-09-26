@@ -1,0 +1,59 @@
+[
+  {
+    "entry_id": "C16522",
+    "name": "Icosatrienoic acid",
+    "names": [
+      "Icosatrienoic acid",
+      "Eicosatrienoic acid",
+      "ETA",
+      "11,14,17-Icosatrienoic acid",
+      "(11Z,14Z,17Z)-Icosa-11,14,17-trienoic acid",
+      "11,14,17-Eicosatrienoic acid",
+      "(11Z,14Z,17Z)-Eicosa-11,14,17-trienoic acid"
+    ],
+    "formula": "C20H34O2",
+    "exact_mass": 306.2559,
+    "mol_weight": 306.4828,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08192"
+    ],
+    "pathways": {
+      "map01040": "Biosynthesis of unsaturated fatty acids"
+    },
+    "enzymes": [
+      "3.1.2.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "17046-59-2"
+      ],
+      "PubChem": [
+        "51090851"
+      ],
+      "ChEBI": [
+        "53460"
+      ],
+      "ChEMBL": [
+        "CHEMBL453991"
+      ],
+      "LIPIDMAPS": [
+        "LMFA01030378"
+      ],
+      "LipidBank": [
+        "DFA0198"
+      ],
+      "NIKKAJI": [
+        "J323.446K"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C1b C    15.3300  -21.9100\n            2   C1b C    14.2100  -21.2100\n            3   C1b C    12.9500  -21.9100\n            4   C6a C    11.7600  -21.2100\n            5   O6a O    10.5700  -21.9100\n            6   O6a O    11.7600  -19.8100\n            7   C1b C    16.5900  -21.2100\n            8   C1b C    17.7800  -21.9100\n            9   C1b C    18.9700  -21.2100\n            10  C1b C    20.2300  -21.9100\n            11  C1b C    21.4200  -21.2100\n            12  C1b C    22.6100  -21.9100\n            13  C2b C    23.8700  -21.2100\n            14  C2b C    25.2700  -21.2100\n            15  C1b C    26.4600  -21.9100\n            16  C2b C    27.6500  -21.2100\n            17  C2b C    29.0500  -21.2100\n            18  C1b C    30.3100  -21.9100\n            19  C2b C    31.5700  -21.2100\n            20  C2b C    32.9700  -21.2100\n            21  C1b C    34.2300  -21.9100\n            22  C1a C    35.4900  -21.2100\nBOND        21\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     4   6 2\n            6     1   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10   10  11 1\n            11   11  12 1\n            12   12  13 1\n            13   13  14 2\n            14   14  15 1\n            15   15  16 1\n            16   16  17 2\n            17   17  18 1\n            18   18  19 1\n            19   19  20 2\n            20   20  21 1\n            21   21  22 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

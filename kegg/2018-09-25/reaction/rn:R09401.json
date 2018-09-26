@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R09401",
+    "name": "L-glutamate:coenzyme gamma-F420-2 (ADP-forming)",
+    "definition": "ATP + Coenzyme F420 + L-Glutamate <=> ADP + Coenzyme F420-3 + Orthophosphate",
+    "equation": "C00002 + C00876 + C00025 <=> C00008 + C19151 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.32"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K14940": "gamma-F420-2:alpha-L-glutamate ligase [EC:6.3.2.32]"
+    }
+  }
+][
+  {
+    "entry_id": "R09401",
+    "name": "L-glutamate:coenzyme gamma-F420-2 (ADP-forming)",
+    "definition": "ATP + Coenzyme F420 + L-Glutamate <=> ADP + Coenzyme F420-3 + Orthophosphate",
+    "equation": "C00002 + C00876 + C00025 <=> C00008 + C19151 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.32"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K14940": "gamma-F420-2:alpha-L-glutamate ligase [EC:6.3.2.32]"
+    }
+  }
+]

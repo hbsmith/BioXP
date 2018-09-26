@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10999",
+    "name": "oleoyl-CoA,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (omega-hydroxylating)",
+    "definition": "Oleoyl-CoA + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 18-Hydroxyoleoyl-CoA + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C00510 + C03024 + C00007 <=> C21005 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.129"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

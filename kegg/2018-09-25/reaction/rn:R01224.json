@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01224",
+    "name": "5-methyltetrahydrofolate:NADP+ oxidoreductase",
+    "definition": "5-Methyltetrahydrofolate + NADP+ <=> 5,10-Methylenetetrahydrofolate + NADPH + H+",
+    "equation": "C00440 + C00006 <=> C00143 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.1.20"
+    ],
+    "pathways": {
+      "rn00670": "One carbon pool by folate",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00297": "methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]"
+    }
+  }
+]

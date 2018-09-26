@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C19082",
+    "name": "(1R,2R,4S)-Limonene-1,2-diol",
+    "names": [
+      "(1R,2R,4S)-Limonene-1,2-diol",
+      "(1R,2R,4S)-Menth-8-ene-1,2-diol"
+    ],
+    "formula": "C10H18O2",
+    "exact_mass": 170.1307,
+    "mol_weight": 170.2487,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09387",
+      "R09388"
+    ],
+    "pathways": {
+      "map00903": "Limonene and pinene degradation"
+    },
+    "enzymes": [
+      "1.1.1.297",
+      "3.3.2.8"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "124489754"
+      ],
+      "ChEBI": [
+        "50244"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1x C    16.5900  -15.6800\n            2   C1x C    16.5900  -17.0800\n            3   C1y C    17.8024  -17.7800\n            4   C1x C    19.0149  -17.0800\n            5   C1y C    19.0149  -15.6800\n            6   C1z C    17.8024  -14.9800\n            7   O1a O    18.5024  -13.7676\n            8   C1a C    16.8125  -13.9901\n            9   O1a O    20.0048  -14.6901\n            10  C2c C    17.8024  -19.1800\n            11  C1a C    16.5900  -19.8800\n            12  C2a C    19.0149  -19.8800\nBOND        12\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     6   7 1 #Up\n            8     6   8 1 #Down\n            9     5   9 1 #Down\n            10    3  10 1 #Up\n            11   10  11 1\n            12   10  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

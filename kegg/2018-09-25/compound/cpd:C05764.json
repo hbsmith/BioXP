@@ -1,0 +1,66 @@
+[
+  {
+    "entry_id": "C05764",
+    "name": "Hexadecanoyl-[acp]",
+    "names": [
+      "Hexadecanoyl-[acp]",
+      "Hexadecanoyl-[acyl-carrier protein]",
+      "Palmitoyl-[acyl-carrier protein]"
+    ],
+    "formula": "C16H31OSR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R01706",
+      "R04969",
+      "R04970",
+      "R07762",
+      "R08161",
+      "R10700",
+      "R11108",
+      "R11109"
+    ],
+    "pathways": {
+      "map00061": "Fatty acid biosynthesis",
+      "map01040": "Biosynthesis of unsaturated fatty acids",
+      "map01100": "Metabolic pathways",
+      "map01212": "Fatty acid metabolism"
+    },
+    "enzymes": [
+      "1.3.1.9",
+      "1.3.1.10",
+      "1.3.1.39",
+      "1.3.1.104",
+      "1.14.19.2",
+      "1.14.19.11",
+      "1.14.19.26",
+      "2.3.1.41",
+      "2.3.1.85",
+      "2.3.1.86",
+      "2.3.1.179",
+      "2.3.1.199",
+      "2.3.1.-",
+      "3.1.2.14"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8059"
+      ],
+      "ChEBI": [
+        "5697"
+      ],
+      "LIPIDMAPS": [
+        "LMFA07060040"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   C1b C    27.4626  -23.5078\n            2   C1b C    26.2585  -24.2092\n            3   C1b C    28.6725  -24.2092\n            4   C1b C    25.0370  -23.5195\n            5   C1b C    29.8764  -23.5078\n            6   C1b C    23.8330  -24.2209\n            7   C1b C    31.0979  -24.2032\n            8   C1b C    22.6174  -23.5195\n            9   C5a C    32.3020  -23.5019\n            10  C1b C    21.4016  -24.2092\n            11  S2a S    33.5176  -24.1975\n            12  O5a O    32.2903  -22.0991\n            13  C1b C    20.1860  -23.5078\n            14  R   R    34.9145  -24.1975\n            15  C1b C    18.9702  -24.2032\n            16  C1b C    17.7546  -23.5019\n            17  C1b C    16.5330  -24.1975\n            18  C1b C    15.3232  -23.4902\n            19  C1a C    14.1076  -24.1915\nBOND        18\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     4   6 1\n            6     5   7 1\n            7     6   8 1\n            8     7   9 1\n            9     8  10 1\n            10    9  11 1\n            11    9  12 2\n            12   10  13 1\n            13   11  14 1\n            14   13  15 1\n            15   15  16 1\n            16   16  17 1\n            17   17  18 1\n            18   18  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

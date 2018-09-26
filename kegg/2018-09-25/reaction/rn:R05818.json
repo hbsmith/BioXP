@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05818",
+    "name": "15,16-dihydrobiliverdin:ferredoxin oxidoreductase",
+    "definition": "Biliverdin + Reduced ferredoxin <=> 15,16-Dihydrobiliverdin + Oxidized ferredoxin",
+    "equation": "C00500 + C00138 <=> C11630 + C00139",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.7.2"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K05369": "15,16-dihydrobiliverdin:ferredoxin oxidoreductase [EC:1.3.7.2]"
+    }
+  }
+]

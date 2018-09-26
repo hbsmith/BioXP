@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11905",
+    "name": "",
+    "definition": "Hepatotoxins + Glutathione <=> R-S-Glutathione",
+    "equation": "C21758 + C00051 <=> C02320",
+    "comment": "detoxification unclear reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.18"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K00799": "glutathione S-transferase [EC:2.5.1.18]"
+    }
+  }
+]

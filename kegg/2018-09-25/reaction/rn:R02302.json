@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R02302",
+    "name": "5-Formiminotetrahydrofolate ammonia-lyase (cyclizing)",
+    "definition": "5-Formiminotetrahydrofolate + H+ <=> 5,10-Methenyltetrahydrofolate + Ammonia",
+    "equation": "C00664 + C00080 <=> C00445 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.3.1.4"
+    ],
+    "pathways": {
+      "rn00670": "One carbon pool by folate",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01746": "formiminotetrahydrofolate cyclodeaminase [EC:4.3.1.4]",
+      "K13990": "glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase [EC:2.1.2.5 4.3.1.4]"
+    }
+  }
+][
+  {
+    "entry_id": "R02302",
+    "name": "5-Formiminotetrahydrofolate ammonia-lyase (cyclizing)",
+    "definition": "5-Formiminotetrahydrofolate + H+ <=> 5,10-Methenyltetrahydrofolate + Ammonia",
+    "equation": "C00664 + C00080 <=> C00445 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.3.1.4"
+    ],
+    "pathways": {
+      "rn00670": "One carbon pool by folate",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01746": "formiminotetrahydrofolate cyclodeaminase [EC:4.3.1.4]",
+      "K13990": "glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase [EC:2.1.2.5 4.3.1.4]"
+    }
+  }
+]

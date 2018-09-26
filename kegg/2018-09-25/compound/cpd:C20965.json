@@ -1,0 +1,36 @@
+[
+  {
+    "entry_id": "C20965",
+    "name": "N(beta)-Epoxysuccinamoyl-DAP-Val",
+    "names": [
+      "N(beta)-Epoxysuccinamoyl-DAP-Val",
+      "N(beta)-Epoxysuccinamoyl-diaminopropionyl-valine",
+      "3-({[(2R,3R)-3-Carbamoyloxiran-2-yl]carbonyl}amino)-L-alanyl-L-valine"
+    ],
+    "formula": "C12H20N4O6",
+    "exact_mass": 316.1383,
+    "mol_weight": 316.3104,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10941"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "6.3.2.47"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "318172257"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   N1a N    10.7824  -10.5608\n            2   C5a C    11.9994   -9.8583\n            3   C1y C    13.2164  -10.5608\n            4   C1y C    14.4332   -9.8583\n            5   C5a C    15.6503  -10.5608\n            6   N1b N    16.8674   -9.8583\n            7   O5a O    11.9994   -8.4532\n            8   O5a O    15.6503  -11.9658\n            9   O2x O    14.4330  -11.2634\n            10  C1b C    18.0684  -10.5517\n            11  C1c C    19.2726   -9.8564\n            12  C5a C    20.4606  -10.5422\n            13  N1a N    19.2728   -8.4400\n            14  N1b N    21.6566   -9.8515\n            15  O5a O    20.4607  -11.9493\n            16  C1c C    22.8567  -10.5446\n            17  C6a C    24.0825   -9.8366\n            18  C1c C    22.8562  -11.9696\n            19  C1a C    21.6689  -12.6548\n            20  C1a C    24.0937  -12.6849\n            21  O6a O    25.3075  -10.5432\n            22  O6a O    24.0821   -8.4700\nBOND        22\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     2   7 2\n            7     5   8 2\n            8     3   9 1\n            9     4   9 1\n            10    6  10 1\n            11   10  11 1\n            12   11  12 1\n            13   11  13 1 #Down\n            14   12  14 1\n            15   12  15 2\n            16   14  16 1\n            17   16  17 1\n            18   16  18 1 #Down\n            19   18  19 1\n            20   18  20 1\n            21   17  21 1\n            22   17  22 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C16038",
+    "name": "2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine",
+    "names": [
+      "2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine",
+      "PhIP"
+    ],
+    "formula": "C13H12N4",
+    "exact_mass": 224.1062,
+    "mol_weight": 224.2612,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map05200": "Pathways in cancer",
+      "map05204": "Chemical carcinogenesis",
+      "map05215": "Prostate cancer"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "105650-23-5"
+      ],
+      "PubChem": [
+        "47205348"
+      ],
+      "ChEBI": [
+        "76290"
+      ],
+      "ChEMBL": [
+        "CHEMBL1213271"
+      ],
+      "PDB-CCD": [
+        "PIQ"
+      ],
+      "NIKKAJI": [
+        "J258.694K"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C8y C    17.0800  -17.2900\n            2   C8x C    17.0800  -18.6900\n            3   N5x N    18.2924  -19.3900\n            4   C8y C    19.5049  -18.6900\n            5   C8y C    19.5049  -17.2900\n            6   C8x C    18.2924  -16.5900\n            7   N5x N    20.8364  -19.1226\n            8   C8y C    21.6593  -17.9900\n            9   N4y N    20.8364  -16.8574\n            10  C8y C    15.8676  -16.5900\n            11  C8x C    15.8676  -15.1902\n            12  C8x C    14.6551  -14.4902\n            13  C8x C    13.4427  -15.1902\n            14  C8x C    13.4427  -16.5900\n            15  C8x C    14.6551  -17.2900\n            16  N1a N    23.0300  -17.9900\n            17  C1a C    21.2675  -15.5306\nBOND        19\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    5   9 1\n            11    1  10 1\n            12   10  11 2\n            13   11  12 1\n            14   12  13 2\n            15   13  14 1\n            16   14  15 2\n            17   10  15 1\n            18    8  16 1\n            19    9  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

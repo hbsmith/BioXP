@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06310",
+    "name": "Benzoyl-CoA:taxan-2alpha-ol O-benzoyltransferase",
+    "definition": "10-Deacetyl-2-debenzoylbaccatin III + Benzoyl-CoA <=> 10-Deacetylbaccatin III + CoA",
+    "equation": "C11899 + C00512 <=> C11700 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.166"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K12925": "2alpha-hydroxytaxane 2-O-benzoyltransferase [EC:2.3.1.166]"
+    }
+  }
+]

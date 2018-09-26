@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11694",
+    "name": "",
+    "definition": "4'-O-Desmethyl-3-O-acetylpapaveroxine <=> 4'-O-Desmethylpapaveroxine",
+    "equation": "C21590 <=> C21599",
+    "comment": "4'-O-desmethyl-3-O-acetylpapaveroxine carboxylesterase incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22097": "3-O-acetylpapaveroxine carboxylesterase"
+    }
+  }
+]

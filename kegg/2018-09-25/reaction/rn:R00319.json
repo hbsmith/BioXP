@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00319",
+    "name": "(S)-lactate:oxygen 2-oxidoreductase (decarboxylating)",
+    "definition": "(S)-Lactate + Oxygen <=> Acetate + CO2 + H2O",
+    "equation": "C00186 + C00007 <=> C00033 + C00011 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.12.4"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism"
+    },
+    "orthologs": {
+      "K00467": "lactate 2-monooxygenase [EC:1.13.12.4]"
+    }
+  }
+]

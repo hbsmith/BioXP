@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R07400",
+    "name": "cephalosporin C:oxygen oxidoreductase (deaminating)",
+    "definition": "Cephalosporin C + H2O + Oxygen <=> (7R)-7-(5-Carboxy-5-oxopentanoyl)aminocephalosporinate + Ammonia + Hydrogen peroxide",
+    "equation": "C00916 + C00001 + C00007 <=> C04712 + C00014 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.3"
+    ],
+    "pathways": {
+      "rn00311": "Penicillin and cephalosporin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00273": "D-amino-acid oxidase [EC:1.4.3.3]"
+    }
+  }
+][
+  {
+    "entry_id": "R07400",
+    "name": "cephalosporin C:oxygen oxidoreductase (deaminating)",
+    "definition": "Cephalosporin C + H2O + Oxygen <=> (7R)-7-(5-Carboxy-5-oxopentanoyl)aminocephalosporinate + Ammonia + Hydrogen peroxide",
+    "equation": "C00916 + C00001 + C00007 <=> C04712 + C00014 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.3"
+    ],
+    "pathways": {
+      "rn00311": "Penicillin and cephalosporin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00273": "D-amino-acid oxidase [EC:1.4.3.3]"
+    }
+  }
+]

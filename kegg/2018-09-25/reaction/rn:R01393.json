@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01393",
+    "name": "hydroxypyruvate carboxy-lyase (glycolaldehyde-forming)",
+    "definition": "Hydroxypyruvate <=> Glycolaldehyde + CO2",
+    "equation": "C00168 <=> C00266 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.40"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

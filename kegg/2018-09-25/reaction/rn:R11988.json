@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11988",
+    "name": "sugiol,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (11-hydroxysugiol forming)",
+    "definition": "Sugiol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 11-Hydroxysugiol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C21822 + C03024 + C00007 <=> C21823 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.60"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22635": "ferruginol monooxygenase / sugiol synthase [EC:1.14.14.60 1.14.14.65]"
+    }
+  }
+][
+  {
+    "entry_id": "R11988",
+    "name": "sugiol,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (11-hydroxysugiol forming)",
+    "definition": "Sugiol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 11-Hydroxysugiol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C21822 + C03024 + C00007 <=> C21823 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.60"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22635": "ferruginol monooxygenase / sugiol synthase [EC:1.14.14.60 1.14.14.65]"
+    }
+  }
+]

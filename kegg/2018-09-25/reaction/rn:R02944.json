@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02944",
+    "name": "(+)-borneol:NAD+ oxidoreductase",
+    "definition": "(+)-Borneol + NAD+ <=> (+)-Camphor + NADH + H+",
+    "equation": "C01765 + C00003 <=> C00808 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.198"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "entry_id": "C14092",
+    "name": "cis-1,2-Dihydroxy-1,2-dihydro-8-carboxynaphthalene",
+    "names": [
+      "cis-1,2-Dihydroxy-1,2-dihydro-8-carboxynaphthalene"
+    ],
+    "formula": "C11H10O4",
+    "exact_mass": 206.0579,
+    "mol_weight": 206.1947,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06919",
+      "R06920"
+    ],
+    "pathways": {
+      "map00626": "Naphthalene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.-.-",
+      "1.14.12.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "162794-84-5"
+      ],
+      "PubChem": [
+        "854328"
+      ],
+      "NIKKAJI": [
+        "J2.787.857A"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8x C    25.8309  -17.2879\n            2   C8x C    25.8309  -18.6885\n            3   C8x C    27.0476  -19.3923\n            4   C8y C    27.0476  -16.5911\n            5   C8y C    28.2573  -17.2879\n            6   C8y C    28.2514  -18.6885\n            7   C2x C    29.4552  -19.3974\n            8   C2x C    30.6720  -18.6988\n            9   C1y C    30.6779  -17.2982\n            10  C1y C    29.4670  -16.5964\n            11  C6a C    27.0494  -15.1907\n            12  O6a O    28.2640  -14.4884\n            13  O6a O    25.8363  -14.4853\n            14  O1a O    29.4731  -15.1958\n            15  O1a O    31.8947  -16.6067\nBOND        16\n            1     4   1 1\n            2     5   6 1\n            3     6   7 1\n            4     7   8 2\n            5     8   9 1\n            6     9  10 1\n            7    10   5 1\n            8     4  11 1\n            9     1   2 2\n            10   11  12 2\n            11    2   3 1\n            12   11  13 1\n            13    3   6 2\n            14   10  14 1 #Up\n            15    5   4 2\n            16    9  15 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C14092",
+    "name": "cis-1,2-Dihydroxy-1,2-dihydro-8-carboxynaphthalene",
+    "names": [
+      "cis-1,2-Dihydroxy-1,2-dihydro-8-carboxynaphthalene"
+    ],
+    "formula": "C11H10O4",
+    "exact_mass": 206.0579,
+    "mol_weight": 206.1947,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06919",
+      "R06920"
+    ],
+    "pathways": {
+      "map00626": "Naphthalene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.-.-",
+      "1.14.12.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "162794-84-5"
+      ],
+      "PubChem": [
+        "854328"
+      ],
+      "NIKKAJI": [
+        "J2.787.857A"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8x C    25.8309  -17.2879\n            2   C8x C    25.8309  -18.6885\n            3   C8x C    27.0476  -19.3923\n            4   C8y C    27.0476  -16.5911\n            5   C8y C    28.2573  -17.2879\n            6   C8y C    28.2514  -18.6885\n            7   C2x C    29.4552  -19.3974\n            8   C2x C    30.6720  -18.6988\n            9   C1y C    30.6779  -17.2982\n            10  C1y C    29.4670  -16.5964\n            11  C6a C    27.0494  -15.1907\n            12  O6a O    28.2640  -14.4884\n            13  O6a O    25.8363  -14.4853\n            14  O1a O    29.4731  -15.1958\n            15  O1a O    31.8947  -16.6067\nBOND        16\n            1     4   1 1\n            2     5   6 1\n            3     6   7 1\n            4     7   8 2\n            5     8   9 1\n            6     9  10 1\n            7    10   5 1\n            8     4  11 1\n            9     1   2 2\n            10   11  12 2\n            11    2   3 1\n            12   11  13 1\n            13    3   6 2\n            14   10  14 1 #Up\n            15    5   4 2\n            16    9  15 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

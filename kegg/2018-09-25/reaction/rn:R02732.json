@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02732",
+    "name": "ATP:D-fructose-6-phosphate 2-phosphotransferase",
+    "definition": "ATP + beta-D-Fructose 6-phosphate <=> ADP + beta-D-Fructose 2,6-bisphosphate",
+    "equation": "C00002 + C05345 <=> C00008 + C00665",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.105"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism"
+    },
+    "orthologs": {
+      "K00900": "6-phosphofructo-2-kinase [EC:2.7.1.105]"
+    }
+  }
+]

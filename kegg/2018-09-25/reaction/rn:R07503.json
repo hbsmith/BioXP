@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R07503",
+    "name": "delta-tocopherol lyase (decyclizing)",
+    "definition": "2-Methyl-6-phytylquinol <=> delta-Tocopherol",
+    "equation": "C15882 <=> C14151",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.24"
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K09834": "tocopherol cyclase [EC:5.5.1.24]"
+    }
+  }
+]

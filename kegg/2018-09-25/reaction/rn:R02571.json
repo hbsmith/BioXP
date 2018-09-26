@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02571",
+    "name": "Glutaryl-CoA:dihydrolipoamide S-succinyltransferase",
+    "definition": "Glutaryl-CoA + Enzyme N6-(dihydrolipoyl)lysine <=> CoA + [Dihydrolipoyllysine-residue succinyltransferase] S-glutaryldihydrolipoyllysine",
+    "equation": "C00527 + C15973 <=> C00010 + C06157",
+    "comment": "2-oxoglutarate dehydrogenase complex:dihydrolipoyllysine-residue succinyltransferase a part of multi-step reaction (see R01933, R01940+R02571+R07618) following after R01940",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.61"
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00658": "2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05372",
+    "name": "cis-3-chloroacrylic acid chlorohydrolase",
+    "definition": "cis-3-Chloroacrylic acid + H2O <=> Hydrochloric acid + 3-Oxopropanoate",
+    "equation": "C06615 + C00001 <=> C01327 + C00222",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.8.1.-"
+    ],
+    "pathways": {
+      "rn00625": "Chloroalkane and chloroalkene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K14421": "cis-3-chloroacrylic acid dehalogenase [EC:3.8.1.-]"
+    }
+  }
+]

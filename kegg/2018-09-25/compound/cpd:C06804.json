@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C06804",
+    "name": "Acetaminophen",
+    "names": [
+      "Acetaminophen",
+      "Paracetamol"
+    ],
+    "formula": "C8H9NO2",
+    "exact_mass": 151.0633,
+    "mol_weight": 151.1626,
+    "remark": "Same as: D00217",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map04976": "Bile secretion"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "103-90-2"
+      ],
+      "PubChem": [
+        "9023"
+      ],
+      "ChEBI": [
+        "46195"
+      ],
+      "ChEMBL": [
+        "CHEMBL112"
+      ],
+      "KNApSAcK": [
+        "C00044491"
+      ],
+      "PDB-CCD": [
+        "TYL"
+      ],
+      "NIKKAJI": [
+        "J4.025H"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    21.1806  -16.6437\n            2   C8x C    21.1806  -18.0466\n            3   C8x C    19.9699  -15.9511\n            4   N1b N    22.3914  -15.9511\n            5   C8x C    19.9699  -18.7509\n            6   C8x C    18.7534  -16.6437\n            7   C5a C    23.6080  -16.6496\n            8   C8y C    18.7534  -18.0466\n            9   C1a C    24.8186  -15.9511\n            10  O5a O    23.6020  -18.0466\n            11  O1a O    17.5425  -18.7509\nBOND        11\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     3   6 1\n            6     4   7 1\n            7     5   8 1\n            8     7   9 1\n            9     7  10 2\n            10    8  11 1\n            11    6   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

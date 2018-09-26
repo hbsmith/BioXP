@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00210",
+    "name": "pyruvate:NADP+ 2-oxidoreductase (CoA-acetylating)",
+    "definition": "Pyruvate + CoA + NADP+ <=> Acetyl-CoA + CO2 + NADPH + H+",
+    "equation": "C00022 + C00010 + C00006 <=> C00024 + C00011 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.51"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

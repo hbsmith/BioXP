@@ -1,0 +1,658 @@
+[
+  {
+    "entry_id": "1.14.14.48",
+    "name": "jasmonoyl-L-amino acid 12-hydroxylase",
+    "names": [
+      "jasmonoyl-L-amino acid 12-hydroxylase",
+      "CYP94B1 (gene name)",
+      "CYP94B3 (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "jasmonoyl-L-amino acid,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (12-hydroxylating)",
+    "reaction": "a jasmonoyl-L-amino acid + [reduced NADPH---hemoprotein reductase] + O2 = a 12-hydroxyjasmonoyl-L-amino acid + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R11806]",
+    "all_reac": "R11806",
+    "iubmb_reactions": [
+      "R11806"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "jasmonoyl-L-amino acid [CPD:C21509]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "12-hydroxyjasmonoyl-L-amino acid [CPD:C21696]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P450 (heme thiolate) enzyme found in plants. The enzyme acts on jasmonoyl-L-amino acid conjugates, catalysing the hydroxylation of the C-12 position of jasmonic acid. While the best studied substrate is (+)-7-epi-jasmonoyl-L-isoleucine, the enzyme was shown to be active with jasmonoyl-L-valine and jasmonoyl-L-phenylalanine, and is likely to be active with other jasmonoyl-amino acid conjugates.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K20665": "jasmonoyl-L-amino acid 12-hydroxylase"
+    },
+    "genes": {
+      "ath": [
+        "AT3G01900",
+        "AT3G48520",
+        "AT5G63450"
+      ],
+      "aly": [
+        "ARALYDRAFT_485210",
+        "ARALYDRAFT_496532",
+        "ARALYDRAFT_896053"
+      ],
+      "crb": [
+        "17874658",
+        "17885442",
+        "17892234"
+      ],
+      "csat": [
+        "104711346",
+        "104720538",
+        "104726960",
+        "104741179",
+        "104762484",
+        "104763703",
+        "104773500",
+        "104780667",
+        "104791069"
+      ],
+      "eus": [
+        "EUTSA_v10005707mg",
+        "EUTSA_v10011125mg"
+      ],
+      "brp": [
+        "103837470",
+        "103848967",
+        "103855044",
+        "103873137",
+        "103873527"
+      ],
+      "bna": [
+        "106351873",
+        "106364122",
+        "106382901",
+        "106405321",
+        "106409295",
+        "106428634",
+        "106430785",
+        "106431245",
+        "106443168",
+        "111208658",
+        "111213368"
+      ],
+      "boe": [
+        "106294052",
+        "106308148",
+        "106316769",
+        "106325388",
+        "106333823"
+      ],
+      "thj": [
+        "104818188",
+        "104821513",
+        "104822524"
+      ],
+      "cpap": [
+        "110807430",
+        "110820488"
+      ],
+      "cit": [
+        "102610480",
+        "102629732"
+      ],
+      "cic": [
+        "CICLE_v10017920mg",
+        "CICLE_v10019793mg"
+      ],
+      "tcc": [
+        "108661791",
+        "18605092"
+      ],
+      "gra": [
+        "105781059",
+        "105788686",
+        "105798446",
+        "105802102"
+      ],
+      "ghi": [
+        "107888050",
+        "107892164",
+        "107899717",
+        "107912087",
+        "107923036",
+        "107950185",
+        "107956989",
+        "107960454"
+      ],
+      "dzi": [
+        "111290941",
+        "111292713",
+        "111303810",
+        "111315893"
+      ],
+      "egr": [
+        "104416900",
+        "104416919",
+        "104419143",
+        "104422706",
+        "104434222",
+        "104434223",
+        "104434224",
+        "104434225"
+      ],
+      "gmx": [
+        "100786130",
+        "100797785",
+        "100800427",
+        "100810294",
+        "100815295"
+      ],
+      "pvu": [
+        "PHAVU_001G094200g",
+        "PHAVU_010G074400g"
+      ],
+      "vra": [
+        "106753837",
+        "106773363"
+      ],
+      "var": [
+        "108328352",
+        "108346692"
+      ],
+      "ccaj": [
+        "109809705",
+        "109814574",
+        "109814578"
+      ],
+      "mtr": [
+        "MTR_3g080580",
+        "MTR_3g080610",
+        "MTR_7g029275"
+      ],
+      "cam": [
+        "101507161",
+        "101511677"
+      ],
+      "lja": [
+        "Lj0g3v0055949.1",
+        "Lj0g3v0174429.1",
+        "Lj0g3v0201059.1"
+      ],
+      "adu": [
+        "107494813"
+      ],
+      "aip": [
+        "107605023"
+      ],
+      "lang": [
+        "109344366"
+      ],
+      "fve": [
+        "101291070",
+        "105351203"
+      ],
+      "pper": [
+        "18776547",
+        "18783641"
+      ],
+      "pmum": [
+        "103330340",
+        "103338054"
+      ],
+      "pavi": [
+        "110763155",
+        "110764345"
+      ],
+      "mdm": [
+        "103404195",
+        "103404523",
+        "103409660",
+        "103409661",
+        "103432056"
+      ],
+      "pxb": [
+        "103950019",
+        "103958049",
+        "103960885",
+        "103964059"
+      ],
+      "zju": [
+        "107418019",
+        "107422044",
+        "107427926"
+      ],
+      "csv": [
+        "101202989",
+        "101207598"
+      ],
+      "cmo": [
+        "103491786",
+        "103502328"
+      ],
+      "mcha": [
+        "111007253"
+      ],
+      "cmax": [
+        "111466028",
+        "111481487",
+        "111485059",
+        "111486589",
+        "111486590"
+      ],
+      "cmos": [
+        "111429724",
+        "111435168",
+        "111440917",
+        "111441980"
+      ],
+      "cpep": [
+        "111780340",
+        "111790737",
+        "111792218",
+        "111793378"
+      ],
+      "rcu": [
+        "8269245",
+        "8271459"
+      ],
+      "jcu": [
+        "105634463",
+        "105640206"
+      ],
+      "hbr": [
+        "110665259",
+        "110672803"
+      ],
+      "pop": [
+        "7484471",
+        "7495780"
+      ],
+      "jre": [
+        "108994307",
+        "108994389",
+        "109013637",
+        "109021892"
+      ],
+      "vvi": [
+        "100245827",
+        "100251407"
+      ],
+      "sly": [
+        "101262587",
+        "101263302",
+        "101263399",
+        "101263598"
+      ],
+      "spen": [
+        "107008968",
+        "107013853",
+        "107013910",
+        "107013946"
+      ],
+      "sot": [
+        "102585085",
+        "102585163",
+        "102585498",
+        "102586169"
+      ],
+      "cann": [
+        "107860765",
+        "107862677",
+        "107862678",
+        "107866012"
+      ],
+      "nta": [
+        "107766030",
+        "107781029",
+        "107791570",
+        "107796932",
+        "107801204",
+        "107814708",
+        "107827898"
+      ],
+      "nsy": [
+        "104214653",
+        "104214672",
+        "104217827",
+        "104232917",
+        "104241490"
+      ],
+      "nto": [
+        "104096380",
+        "104099650",
+        "104101764",
+        "104112197"
+      ],
+      "ini": [
+        "109171722"
+      ],
+      "sind": [
+        "105166192",
+        "105166954"
+      ],
+      "oeu": [
+        "111385797",
+        "111390746"
+      ],
+      "han": [
+        "110868163",
+        "110911674",
+        "110925776"
+      ],
+      "lsv": [
+        "111877549",
+        "111920155"
+      ],
+      "dcr": [
+        "108194102",
+        "108207998"
+      ],
+      "bvg": [
+        "104893484"
+      ],
+      "soe": [
+        "110787294"
+      ],
+      "nnu": [
+        "104592904",
+        "104592906"
+      ],
+      "osa": [
+        "4350521",
+        "4352145"
+      ],
+      "dosa": [
+        "Os11t0483000-00",
+        "Os12t0443000-00"
+      ],
+      "obr": [
+        "102715166"
+      ],
+      "bdi": [
+        "100823617"
+      ],
+      "ats": [
+        "109782849"
+      ],
+      "sbi": [
+        "110435249"
+      ],
+      "zma": [
+        "100381980",
+        "103652921"
+      ],
+      "sita": [
+        "101768903",
+        "101774825"
+      ],
+      "pda": [
+        "103706541"
+      ],
+      "egu": [
+        "105051167"
+      ],
+      "mus": [
+        "103979622",
+        "103989822",
+        "103996040"
+      ],
+      "dct": [
+        "110093521",
+        "110093522"
+      ],
+      "atr": [
+        "18438139"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.48"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.48"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.48"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.48"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Koo AJ",
+          "Cooke TF",
+          "Howe GA"
+        ],
+        "title": "Cytochrome P450 CYP94B3 mediates catabolism and inactivation of the plant hormone jasmonoyl-L-isoleucine.",
+        "journal": "Proc Natl Acad Sci U S A 108:9298-303 (2011) DOI:10.1073/pnas.1103542108",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:21576464]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kitaoka N",
+          "Matsubara T",
+          "Sato M",
+          "Takahashi K",
+          "Wakuta S",
+          "Kawaide H",
+          "Matsui H",
+          "Nabeta K",
+          "Matsuura H"
+        ],
+        "title": "Arabidopsis CYP94B3 encodes jasmonyl-L-isoleucine 12-hydroxylase, a key enzyme in the oxidative catabolism of jasmonate.",
+        "journal": "Plant Cell Physiol 52:1757-65 (2011) DOI:10.1093/pcp/pcr110",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:21849397]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Heitz T",
+          "Widemann E",
+          "Lugan R",
+          "Miesch L",
+          "Ullmann P",
+          "Desaubry L",
+          "Holder E",
+          "Grausem B",
+          "Kandel S",
+          "Miesch M",
+          "Werck-Reichhart D",
+          "Pinot F"
+        ],
+        "title": "Cytochromes P450 CYP94C1 and CYP94B3 catalyze two successive oxidation steps of plant hormone Jasmonoyl-isoleucine for catabolic turnover.",
+        "journal": "J Biol Chem 287:6296-306 (2012) DOI:10.1074/jbc.M111.316364",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:22215670]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kitaoka N",
+          "Kawaide H",
+          "Amano N",
+          "Matsubara T",
+          "Nabeta K",
+          "Takahashi K",
+          "Matsuura H"
+        ],
+        "title": "CYP94B3 activity against jasmonic acid amino acid conjugates and the elucidation of 12-O-beta-glucopyranosyl-jasmonoyl-L-isoleucine as an additional metabolite.",
+        "journal": "Phytochemistry 99:6-13 (2014) DOI:10.1016/j.phytochem.2013.12.019",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:24467969]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Koo AJ",
+          "Thireault C",
+          "Zemelis S",
+          "Poudel AN",
+          "Zhang T",
+          "Kitaoka N",
+          "Brandizzi F",
+          "Matsuura H",
+          "Howe GA"
+        ],
+        "title": "Endoplasmic reticulum-associated inactivation of the hormone jasmonoyl-L-isoleucine by multiple members of the cytochrome P450 94 family in Arabidopsis.",
+        "journal": "J Biol Chem 289:29728-38 (2014) DOI:10.1074/jbc.M114.603084",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "5  [PMID:25210037]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Widemann E",
+          "Grausem B",
+          "Renault H",
+          "Pineau E",
+          "Heinrich C",
+          "Lugan R",
+          "Ullmann P",
+          "Miesch L",
+          "Aubert Y",
+          "Miesch M",
+          "Heitz T",
+          "Pinot F"
+        ],
+        "title": "Sequential oxidation of Jasmonoyl-Phenylalanine and Jasmonoyl-Isoleucine by multiple cytochrome P450 of the CYP94 family through newly identified aldehyde intermediates.",
+        "journal": "Phytochemistry 117:388-99 (2015) DOI:10.1016/j.phytochem.2015.06.027",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "6  [PMID:26164240]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

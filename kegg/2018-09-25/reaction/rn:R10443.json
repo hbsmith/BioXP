@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10443",
+    "name": "nucleoside triphosphate phosphohydrolase (nucleoside monophosphoate-forming)",
+    "definition": "Nucleoside triphosphate + 2 H2O <=> Nucleoside 5'-phosphate + 2 Orthophosphate",
+    "equation": "C00201 + 2 C00001 <=> C01117 + 2 C00009",
+    "comment": "two-step reaction (see R02319+R10442)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.5"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

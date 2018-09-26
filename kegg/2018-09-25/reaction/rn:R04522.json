@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04522",
+    "name": "1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane chloride-lyase",
+    "definition": "DDT <=> 1,1-Dichloro-2,2-bis(4-chlorophenyl)ethylene + Hydrochloric acid",
+    "equation": "C04623 <=> C04596 + C01327",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.5.1.1"
+    ],
+    "pathways": {
+      "rn00621": "Dioxin degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K22678": "DDT-dehydrochlorinase [EC:4.5.1.1]"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "entry_id": "C01620",
+    "name": "Threonate",
+    "names": [
+      "Threonate",
+      "L-Threonate",
+      "(2R,3S)-2,3,4-Trihydroxybutanoic acid"
+    ],
+    "formula": "C4H8O5",
+    "exact_mass": 136.0372,
+    "mol_weight": 136.1033,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00646",
+      "R03733"
+    ],
+    "pathways": {
+      "map00053": "Ascorbate and aldarate metabolism"
+    },
+    "enzymes": [
+      "1.1.1.129",
+      "1.1.1.411"
+    ],
+    "dblinks": {
+      "CAS": [
+        "7306-96-9"
+      ],
+      "PubChem": [
+        "4772"
+      ],
+      "ChEBI": [
+        "15908",
+        "49060"
+      ],
+      "ChEMBL": [
+        "CHEMBL2152047"
+      ],
+      "LipidBank": [
+        "DFA0363"
+      ],
+      "PDB-CCD": [
+        "LTH"
+      ],
+      "3DMET": [
+        "B04806"
+      ],
+      "NIKKAJI": [
+        "J660.315G"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   O1a O    19.0400  -18.7600\n            2   C1b C    17.8500  -19.4600\n            3   C1c C    16.5900  -18.7600\n            4   C1c C    15.4000  -19.4600\n            5   C6a C    14.2100  -18.7600\n            6   O1a O    16.5900  -17.3600\n            7   O1a O    15.4000  -20.8600\n            8   O6a O    13.0200  -19.4600\n            9   O6a O    14.2100  -17.3600\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     3   6 1 #Up\n            6     4   7 1 #Up\n            7     5   8 1\n            8     5   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

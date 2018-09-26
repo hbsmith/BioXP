@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03405",
+    "name": "3'-phosphoadenylylsulfate:alcohol sulfotransferase",
+    "definition": "3'-Phosphoadenylyl sulfate + Dehydroepiandrosterone <=> Adenosine 3',5'-bisphosphate + Dehydroepiandrosterone sulfate",
+    "equation": "C00053 + C01227 <=> C00054 + C04555",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.2.2"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+      "K01015": "alcohol sulfotransferase [EC:2.8.2.2]"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R01169",
+    "name": "S-adenosyl-L-methionine:L-histidine Nalpha-methyltransferase",
+    "definition": "L-Histidine + 3 S-Adenosyl-L-methionine + H+ <=> Hercynine + 3 S-Adenosyl-L-homocysteine",
+    "equation": "C00135 + 3 C00019 + C00080 <=> C05575 + 3 C00021",
+    "comment": "three-step reaction (see R10523+R10524+R04436)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.44"
+    ],
+    "pathways": {
+      "rn00340": "Histidine metabolism"
+    },
+    "orthologs": {
+      "K18911": "L-histidine Nalpha-methyltransferase [EC:2.1.1.44]",
+      "K20246": "L-histidine Nalpha-methyltransferase / hercynylcysteine S-oxide synthase [EC:2.1.1.44 1.14.99.51]"
+    }
+  }
+][
+  {
+    "entry_id": "R01169",
+    "name": "S-adenosyl-L-methionine:L-histidine Nalpha-methyltransferase",
+    "definition": "L-Histidine + 3 S-Adenosyl-L-methionine + H+ <=> Hercynine + 3 S-Adenosyl-L-homocysteine",
+    "equation": "C00135 + 3 C00019 + C00080 <=> C05575 + 3 C00021",
+    "comment": "three-step reaction (see R10523+R10524+R04436)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.44"
+    ],
+    "pathways": {
+      "rn00340": "Histidine metabolism"
+    },
+    "orthologs": {
+      "K18911": "L-histidine Nalpha-methyltransferase [EC:2.1.1.44]",
+      "K20246": "L-histidine Nalpha-methyltransferase / hercynylcysteine S-oxide synthase [EC:2.1.1.44 1.14.99.51]"
+    }
+  }
+]

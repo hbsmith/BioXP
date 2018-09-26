@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01701",
+    "name": "3-methyl-2-oxobutanoate:[dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] lipoyllysine 2-oxidoreductase (decarboxylating, acceptor-2-methylpropanoylating)",
+    "definition": "3-Methyl-2-oxobutanoic acid + Enzyme N6-(lipoyl)lysine <=> [Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine + CO2",
+    "equation": "C00141 + C15972 <=> C15977 + C00011",
+    "comment": "3-methyl-2-oxobutanoate dehydrogenase complexes:3-methyl-2-oxobutanoate dehydrogenase a part of multi-step reaction (see R01701+R02662+R07618, possibly identical to R01210) subsequently R02662 TPP-dependent enzyme (see R07599+R07600)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.4.4"
+    ],
+    "pathways": {
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00166": "2-oxoisovalerate dehydrogenase E1 component alpha subunit [EC:1.2.4.4]",
+      "K00167": "2-oxoisovalerate dehydrogenase E1 component beta subunit [EC:1.2.4.4]",
+      "K11381": "2-oxoisovalerate dehydrogenase E1 component [EC:1.2.4.4]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10156",
+    "name": "1-deoxy-11beta-hydroxypentalenate:NAD+ oxidoreductase",
+    "definition": "1-Deoxy-11beta-hydroxypentalenate + NAD+ <=> 1-Deoxy-11-oxopentalenate + NADH + H+",
+    "equation": "C20403 + C00003 <=> C20400 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.340"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K17747": "1-deoxy-11beta-hydroxypentalenate dehydrogenase [EC:1.1.1.340]"
+    }
+  }
+]

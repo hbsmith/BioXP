@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R09250",
+    "name": "geranyl-diphosphate:isopentenyl-diphosphate transtransferase (adding 7 isopentenyl units)",
+    "definition": "Geranyl diphosphate + 7 Isopentenyl diphosphate <=> all-trans-Nonaprenyl diphosphate + 7 Diphosphate",
+    "equation": "C00341 + 7 C00129 <=> C04145 + 7 C00013",
+    "comment": "7-step reaction see R02003+R02061+R07475+R05613+R05612+R05611+R07267",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.84"
+    ],
+    "pathways": {
+      "rn00900": "Terpenoid backbone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K05356": "all-trans-nonaprenyl-diphosphate synthase [EC:2.5.1.84 2.5.1.85]"
+    }
+  }
+][
+  {
+    "entry_id": "R09250",
+    "name": "geranyl-diphosphate:isopentenyl-diphosphate transtransferase (adding 7 isopentenyl units)",
+    "definition": "Geranyl diphosphate + 7 Isopentenyl diphosphate <=> all-trans-Nonaprenyl diphosphate + 7 Diphosphate",
+    "equation": "C00341 + 7 C00129 <=> C04145 + 7 C00013",
+    "comment": "7-step reaction see R02003+R02061+R07475+R05613+R05612+R05611+R07267",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.84"
+    ],
+    "pathways": {
+      "rn00900": "Terpenoid backbone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K05356": "all-trans-nonaprenyl-diphosphate synthase [EC:2.5.1.84 2.5.1.85]"
+    }
+  }
+]

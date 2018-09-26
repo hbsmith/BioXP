@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C04322",
+    "name": "Delta1-Pyrroline-5-carboxylate",
+    "names": [
+      "Delta1-Pyrroline-5-carboxylate",
+      "3,4-Dihydro-2H-Pyrrole-2-carboxylate"
+    ],
+    "formula": "C5H7NO2",
+    "exact_mass": 113.0477,
+    "mol_weight": 113.1146,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00668"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.6.1.13"
+    ],
+    "dblinks": {
+      "CAS": [
+        "2906-39-0"
+      ],
+      "PubChem": [
+        "6977"
+      ],
+      "ChEBI": [
+        "1372",
+        "15893"
+      ],
+      "ChEMBL": [
+        "CHEMBL1161508"
+      ],
+      "KNApSAcK": [
+        "C00007606"
+      ],
+      "NIKKAJI": [
+        "J426.575K"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C2x C    15.1805  -18.5984\n            2   C1x C    15.5893  -19.9374\n            3   C1x C    16.9891  -19.9624\n            4   C1y C    17.4454  -18.6389\n            5   N2x N    16.3277  -17.7959\n            6   C6a C    18.6424  -17.9200\n            7   O6a O    19.8549  -18.6200\n            8   O6a O    18.6304  -16.5200\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 2\n            6     4   6 1\n            7     6   7 1\n            8     6   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

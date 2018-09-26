@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R01547",
+    "name": "ATP:dAMP phosphotransferase",
+    "definition": "ATP + dAMP <=> ADP + dADP",
+    "equation": "C00002 + C00360 <=> C00008 + C00206",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.3",
+      "2.7.4.11"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00939": "adenylate kinase [EC:2.7.4.3]",
+      "K18532": "adenylate kinase [EC:2.7.4.3]",
+      "K18533": "adenylate/nucleoside-diphosphate kinase [EC:2.7.4.3 2.7.4.6]"
+    }
+  }
+]

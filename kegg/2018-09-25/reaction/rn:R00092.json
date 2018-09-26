@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00092",
+    "name": "Fe2+:NAD+ oxidoreductase; NADH:Fe3+ oxidoreductase",
+    "definition": "NAD+ + 2 Fe2+ <=> NADH + H+ + 2 Fe3+",
+    "equation": "C00003 + 2 C14818 <=> C00004 + C00080 + 2 C14819",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.16.1.7"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

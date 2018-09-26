@@ -1,0 +1,1136 @@
+[
+  {
+    "entry_id": "1.14.13.238",
+    "name": "dimethylamine monooxygenase",
+    "names": [
+      "dimethylamine monooxygenase",
+      "dmmABC (gene names)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With NADH or NADPH as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "dimethylamine,NADPH:oxygen oxidoreductase (formaldehyde-forming)",
+    "reaction": "dimethylamine + NADPH + H+ + O2 = methylamine + formaldehyde + NADP+ + H2O [RN:R11805]",
+    "all_reac": "R11805",
+    "iubmb_reactions": [
+      "R11805"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "dimethylamine [CPD:C00543]",
+      "NADPH [CPD:C00005]",
+      "H+ [CPD:C00080]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "methylamine [CPD:C00218]",
+      "formaldehyde [CPD:C00067]",
+      "NADP+ [CPD:C00006]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, characterized from several bacterial species, is involved in a pathway for the degradation of methylated amines. It is composed of three subunits, one of which is a ferredoxin, and contains heme iron and an FMN cofactor.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22342": "dimethylamine monooxygenase subunit A",
+      "K22343": "dimethylamine monooxygenase subunit B",
+      "K22344": "dimethylamine monooxygenase subunit C"
+    },
+    "genes": {
+      "ebt": [
+        "EBL_c15110",
+        "EBL_c15120",
+        "EBL_c15130"
+      ],
+      "pmy": [
+        "Pmen_3453",
+        "Pmen_3454",
+        "Pmen_3455"
+      ],
+      "pre": [
+        "PCA10_14430",
+        "PCA10_14440",
+        "PCA10_14450",
+        "PCA10_19610",
+        "PCA10_19620",
+        "PCA10_19630"
+      ],
+      "pcq": [
+        "PcP3B5_03590",
+        "PcP3B5_03600",
+        "PcP3B5_03610",
+        "PcP3B5_34290",
+        "PcP3B5_34300",
+        "PcP3B5_34310"
+      ],
+      "ppi": [
+        "YSA_00714",
+        "YSA_00715",
+        "YSA_00717"
+      ],
+      "pfs": [
+        "PFLU_2334",
+        "PFLU_2335",
+        "PFLU_2336"
+      ],
+      "pfe": [
+        "PSF113_3543",
+        "PSF113_3544",
+        "PSF113_3545"
+      ],
+      "pvr": [
+        "PverR02_12530",
+        "PverR02_12535",
+        "PverR02_12540"
+      ],
+      "pba": [
+        "PSEBR_a2223",
+        "PSEBR_a2224",
+        "PSEBR_a2225"
+      ],
+      "psv": [
+        "PVLB_12400",
+        "PVLB_12405",
+        "PVLB_12410"
+      ],
+      "psk": [
+        "U771_12140",
+        "U771_12145",
+        "U771_12150"
+      ],
+      "pkc": [
+        "PKB_0260",
+        "PKB_0261",
+        "PKB_0262"
+      ],
+      "pset": [
+        "THL1_1505",
+        "THL1_1506",
+        "THL1_1507",
+        "THL1_1959",
+        "THL1_1960",
+        "THL1_1961"
+      ],
+      "psil": [
+        "PMA3_11140",
+        "PMA3_11145",
+        "PMA3_11150"
+      ],
+      "haf": [
+        "C8233_03660",
+        "C8233_03665",
+        "C8233_03670"
+      ],
+      "cmai": [
+        "BFX80_10290",
+        "BFX80_10295",
+        "BFX80_10300"
+      ],
+      "buz": [
+        "AYM40_12335",
+        "AYM40_12340",
+        "AYM40_12345"
+      ],
+      "bph": [
+        "Bphy_5962",
+        "Bphy_5963",
+        "Bphy_5965"
+      ],
+      "bcai": [
+        "K788_0001535",
+        "K788_0001537",
+        "K788_0001538"
+      ],
+      "phs": [
+        "C2L64_21895",
+        "C2L64_21900",
+        "C2L64_21910"
+      ],
+      "pter": [
+        "C2L65_26060",
+        "C2L65_26070",
+        "C2L65_26075"
+      ],
+      "lch": [
+        "Lcho_0170",
+        "Lcho_0171",
+        "Lcho_0172"
+      ],
+      "rge": [
+        "RGE_16190"
+      ],
+      "aon": [
+        "DEH84_17395",
+        "DEH84_17405"
+      ],
+      "metr": [
+        "BSY238_2319",
+        "BSY238_2320",
+        "BSY238_2321"
+      ],
+      "mfa": [
+        "Mfla_0440",
+        "Mfla_0441",
+        "Mfla_0442"
+      ],
+      "meh": [
+        "M301_1392",
+        "M301_1393",
+        "M301_1394"
+      ],
+      "mei": [
+        "Msip34_2468",
+        "Msip34_2469",
+        "Msip34_2470"
+      ],
+      "mep": [
+        "MPQ_2411",
+        "MPQ_2412",
+        "MPQ_2413"
+      ],
+      "meu": [
+        "ACJ67_08500",
+        "ACJ67_08505",
+        "ACJ67_08510"
+      ],
+      "acom": [
+        "CEW83_16690",
+        "CEW83_16695",
+        "CEW83_16700"
+      ],
+      "mxa": [
+        "MXAN_7111"
+      ],
+      "mfu": [
+        "LILAB_10835"
+      ],
+      "mym": [
+        "A176_007424"
+      ],
+      "mmas": [
+        "MYMAC_006812"
+      ],
+      "age": [
+        "AA314_00292"
+      ],
+      "mbd": [
+        "MEBOL_003198"
+      ],
+      "cfus": [
+        "CYFUS_009781"
+      ],
+      "samy": [
+        "DB32_008090"
+      ],
+      "bsto": [
+        "C0V70_09070"
+      ],
+      "mlo": [
+        "mlr7321",
+        "mlr7322",
+        "mlr7324"
+      ],
+      "mln": [
+        "A9174_29055",
+        "A9174_29060",
+        "A9174_29065"
+      ],
+      "mci": [
+        "Mesci_5143",
+        "Mesci_5144",
+        "Mesci_5145"
+      ],
+      "mop": [
+        "Mesop_5726",
+        "Mesop_5727",
+        "Mesop_5728"
+      ],
+      "mam": [
+        "Mesau_05220",
+        "Mesau_05221",
+        "Mesau_05222"
+      ],
+      "mamo": [
+        "A6B35_11125",
+        "A6B35_11130",
+        "A6B35_11135"
+      ],
+      "mesw": [
+        "A9K65_028200",
+        "A9K65_028205",
+        "A9K65_028210"
+      ],
+      "aak": [
+        "AA2016_5262",
+        "AA2016_5263",
+        "AA2016_5264"
+      ],
+      "amih": [
+        "CO731_04997",
+        "CO731_04998",
+        "CO731_04999"
+      ],
+      "pht": [
+        "BLM14_24640",
+        "BLM14_24645",
+        "BLM14_24650"
+      ],
+      "sme": [
+        "SMc04150",
+        "SMc04151",
+        "SMc04152"
+      ],
+      "smk": [
+        "Sinme_3431",
+        "Sinme_3432",
+        "Sinme_3433"
+      ],
+      "smq": [
+        "SinmeB_3206",
+        "SinmeB_3207",
+        "SinmeB_3208"
+      ],
+      "smx": [
+        "SM11_chr3571",
+        "SM11_chr3572",
+        "SM11_chr3573"
+      ],
+      "smi": [
+        "BN406_03234",
+        "BN406_03235",
+        "BN406_03236"
+      ],
+      "smeg": [
+        "C770_GR4Chr0107",
+        "C770_GR4Chr0108",
+        "C770_GR4Chr0109"
+      ],
+      "smel": [
+        "SM2011_c04150",
+        "SM2011_c04151",
+        "SM2011_c04152"
+      ],
+      "smer": [
+        "DU99_00540",
+        "DU99_00545",
+        "DU99_00550"
+      ],
+      "smd": [
+        "Smed_3312",
+        "Smed_3313",
+        "Smed_3314"
+      ],
+      "six": [
+        "BSY16_5791",
+        "BSY16_5792",
+        "BSY16_5793"
+      ],
+      "ara": [
+        "Arad_8373",
+        "Arad_8374",
+        "Arad_8376"
+      ],
+      "ret": [
+        "RHE_PE00412",
+        "RHE_PE00413",
+        "RHE_PE00414"
+      ],
+      "rel": [
+        "REMIM1_PD00434",
+        "REMIM1_PD00435",
+        "REMIM1_PD00436"
+      ],
+      "rle": [
+        "pRL110549",
+        "pRL110550",
+        "pRL110551"
+      ],
+      "rlt": [
+        "Rleg2_5645",
+        "Rleg2_5646",
+        "Rleg2_5647"
+      ],
+      "rlg": [
+        "Rleg_6581",
+        "Rleg_6582",
+        "Rleg_6583"
+      ],
+      "rlb": [
+        "RLEG3_05375",
+        "RLEG3_05380",
+        "RLEG3_05385"
+      ],
+      "rlu": [
+        "RLEG12_01980",
+        "RLEG12_01985",
+        "RLEG12_01990"
+      ],
+      "rtr": [
+        "RTCIAT899_PC09265",
+        "RTCIAT899_PC09270",
+        "RTCIAT899_PC09275"
+      ],
+      "rhl": [
+        "LPU83_pLPU83c0698",
+        "LPU83_pLPU83c0699",
+        "LPU83_pLPU83c0700"
+      ],
+      "xau": [
+        "Xaut_3180",
+        "Xaut_3181",
+        "Xaut_3182"
+      ],
+      "azc": [
+        "AZC_1371",
+        "AZC_1372",
+        "AZC_1373"
+      ],
+      "metd": [
+        "C0214_27055",
+        "C0214_27060",
+        "C0214_27065",
+        "C0214_27340",
+        "C0214_27345",
+        "C0214_27350"
+      ],
+      "metx": [
+        "A3862_04310",
+        "A3862_04315"
+      ],
+      "msl": [
+        "Msil_3607",
+        "Msil_3608",
+        "Msil_3609"
+      ],
+      "hdn": [
+        "Hden_0082",
+        "Hden_0083",
+        "Hden_0084"
+      ],
+      "hdt": [
+        "HYPDE_22963",
+        "HYPDE_22968",
+        "HYPDE_22973",
+        "HYPDE_25248",
+        "HYPDE_25253",
+        "HYPDE_25258"
+      ],
+      "hmc": [
+        "HYPMC_2731",
+        "HYPMC_2732",
+        "HYPMC_2733"
+      ],
+      "sil": [
+        "SPO1580",
+        "SPO1581",
+        "SPO1582"
+      ],
+      "rhp": [
+        "LPB142_05585",
+        "LPB142_05590",
+        "LPB142_05595"
+      ],
+      "rde": [
+        "RD1_0004",
+        "RD1_0005",
+        "RD1_0006"
+      ],
+      "rli": [
+        "RLO149_c005890",
+        "RLO149_c005900",
+        "RLO149_c005910"
+      ],
+      "pami": [
+        "JCM7686_pAMI6p071",
+        "JCM7686_pAMI6p072",
+        "JCM7686_pAMI6p073"
+      ],
+      "pye": [
+        "A6J80_01595",
+        "A6J80_01600",
+        "A6J80_01605"
+      ],
+      "pzh": [
+        "CX676_01725",
+        "CX676_01730",
+        "CX676_01735"
+      ],
+      "pamn": [
+        "pAMV1p0116",
+        "pAMV1p0117",
+        "pAMV1p0118"
+      ],
+      "oar": [
+        "OA238_c26740",
+        "OA238_c26750",
+        "OA238_c26760"
+      ],
+      "lmd": [
+        "METH_18465",
+        "METH_18470"
+      ],
+      "red": [
+        "roselon_03549",
+        "roselon_03550",
+        "roselon_03551"
+      ],
+      "cid": [
+        "P73_0120",
+        "P73_0121",
+        "P73_0122"
+      ],
+      "ceh": [
+        "CEW89_17320",
+        "CEW89_17325",
+        "CEW89_17330"
+      ],
+      "daa": [
+        "AKL17_0583",
+        "AKL17_0584",
+        "AKL17_0585"
+      ],
+      "sulz": [
+        "C1J03_14610",
+        "C1J03_14615",
+        "C1J03_14620"
+      ],
+      "rmm": [
+        "ROSMUCSMR3_00037",
+        "ROSMUCSMR3_00038",
+        "ROSMUCSMR3_00039"
+      ],
+      "rok": [
+        "RAK1035_2888",
+        "RAK1035_2889",
+        "RAK1035_2890"
+      ],
+      "rbg": [
+        "BG454_03410",
+        "BG454_03415",
+        "BG454_03420"
+      ],
+      "geh": [
+        "HYN69_06790",
+        "HYN69_06795",
+        "HYN69_06800"
+      ],
+      "npp": [
+        "PP1Y_AT29703"
+      ],
+      "npn": [
+        "JI59_01710"
+      ],
+      "ssan": [
+        "NX02_15670",
+        "NX02_15675",
+        "NX02_15680"
+      ],
+      "cij": [
+        "WG74_11480"
+      ],
+      "elq": [
+        "Ga0102493_112757"
+      ],
+      "ery": [
+        "CP97_06335"
+      ],
+      "egn": [
+        "BMF35_a1308"
+      ],
+      "erk": [
+        "CD351_08775"
+      ],
+      "aay": [
+        "WYH_03198"
+      ],
+      "anh": [
+        "A6F65_01050"
+      ],
+      "cna": [
+        "AB433_11250"
+      ],
+      "cman": [
+        "A9D14_02400"
+      ],
+      "gbe": [
+        "GbCGDNIH1_1827",
+        "GbCGDNIH1_1828",
+        "GbCGDNIH1_1829"
+      ],
+      "gbh": [
+        "GbCGDNIH2_1827",
+        "GbCGDNIH2_1828",
+        "GbCGDNIH2_1829"
+      ],
+      "gbc": [
+        "GbCGDNIH3_1827",
+        "GbCGDNIH3_1828",
+        "GbCGDNIH3_1829"
+      ],
+      "gbs": [
+        "GbCGDNIH4_1827",
+        "GbCGDNIH4_1828",
+        "GbCGDNIH4_1829"
+      ],
+      "amv": [
+        "ACMV_26990"
+      ],
+      "gxl": [
+        "H845_62",
+        "H845_63"
+      ],
+      "keu": [
+        "S101446_00775",
+        "S101446_00776",
+        "S101446_00786"
+      ],
+      "aace": [
+        "A0U92_02475",
+        "A0U92_02480",
+        "A0U92_02485"
+      ],
+      "nao": [
+        "Y958_21825"
+      ],
+      "apb": [
+        "SAR116_0236",
+        "SAR116_0237",
+        "SAR116_0238"
+      ],
+      "baci": [
+        "B1NLA3E_07675",
+        "B1NLA3E_07705",
+        "B1NLA3E_07710"
+      ],
+      "baco": [
+        "OXB_0420"
+      ],
+      "bsj": [
+        "UP17_14805",
+        "UP17_14810",
+        "UP17_14815"
+      ],
+      "bhk": [
+        "B4U37_20960",
+        "B4U37_20965",
+        "B4U37_20970"
+      ],
+      "bmur": [
+        "ABE28_004425",
+        "ABE28_004430",
+        "ABE28_004435"
+      ],
+      "far": [
+        "ABE41_001890",
+        "ABE41_001895",
+        "ABE41_001900"
+      ],
+      "apak": [
+        "AP3564_11175"
+      ],
+      "pbj": [
+        "VN24_01145",
+        "VN24_01150",
+        "VN24_01155"
+      ],
+      "pnp": [
+        "IJ22_08080",
+        "IJ22_08090",
+        "IJ22_08100"
+      ],
+      "mye": [
+        "AB431_11625",
+        "AB431_11630",
+        "AB431_11635"
+      ],
+      "myn": [
+        "MyAD_18845",
+        "MyAD_18850",
+        "MyAD_18855"
+      ],
+      "mdx": [
+        "BTO20_03305",
+        "BTO20_03310",
+        "BTO20_03315"
+      ],
+      "msm": [
+        "MSMEG_1990",
+        "MSMEG_4637",
+        "MSMEG_4638",
+        "MSMEG_4639"
+      ],
+      "msg": [
+        "MSMEI_1944",
+        "MSMEI_1945",
+        "MSMEI_1946",
+        "MSMEI_4520",
+        "MSMEI_4521",
+        "MSMEI_4522"
+      ],
+      "msb": [
+        "LJ00_09920",
+        "LJ00_09925",
+        "LJ00_09930",
+        "LJ00_22940",
+        "LJ00_22945",
+        "LJ00_22950"
+      ],
+      "msn": [
+        "LI99_09920",
+        "LI99_09925",
+        "LI99_09930",
+        "LI99_22945",
+        "LI99_22950",
+        "LI99_22955"
+      ],
+      "msh": [
+        "LI98_09920",
+        "LI98_09925",
+        "LI98_09930",
+        "LI98_22950",
+        "LI98_22955",
+        "LI98_22960"
+      ],
+      "mva": [
+        "Mvan_3957",
+        "Mvan_3958",
+        "Mvan_3959"
+      ],
+      "mgi": [
+        "Mflv_2622",
+        "Mflv_2623",
+        "Mflv_2624"
+      ],
+      "msp": [
+        "Mspyr1_20570",
+        "Mspyr1_20580",
+        "Mspyr1_20590"
+      ],
+      "mne": [
+        "D174_19215",
+        "D174_19220",
+        "D174_19225"
+      ],
+      "mgo": [
+        "AFA91_17355",
+        "AFA91_17360",
+        "AFA91_27000",
+        "AFA91_27005",
+        "AFA91_27010"
+      ],
+      "mphl": [
+        "MPHLCCUG_03436",
+        "MPHLCCUG_03437",
+        "MPHLCCUG_03438"
+      ],
+      "mvq": [
+        "MYVA_3786",
+        "MYVA_3787",
+        "MYVA_3788"
+      ],
+      "mll": [
+        "B1R94_17530",
+        "B1R94_17535",
+        "B1R94_17540"
+      ],
+      "cva": [
+        "CVAR_1017",
+        "CVAR_1018",
+        "CVAR_1019",
+        "CVAR_1021",
+        "CVAR_1022",
+        "CVAR_1023"
+      ],
+      "cter": [
+        "A606_03950",
+        "A606_03955",
+        "A606_03960",
+        "A606_03975",
+        "A606_03980",
+        "A606_03985"
+      ],
+      "nfa": [
+        "NFA_21070",
+        "NFA_21080",
+        "NFA_21090"
+      ],
+      "nfr": [
+        "ERS450000_01994",
+        "ERS450000_01995",
+        "ERS450000_01996"
+      ],
+      "nsl": [
+        "BOX37_13585",
+        "BOX37_13590",
+        "BOX37_13595"
+      ],
+      "rha": [
+        "RHA1_ro00467",
+        "RHA1_ro00470",
+        "RHA1_ro02823",
+        "RHA1_ro02824",
+        "RHA1_ro02825"
+      ],
+      "rop": [
+        "ROP_25460",
+        "ROP_25470",
+        "ROP_25480"
+      ],
+      "roa": [
+        "Pd630_LPD03616",
+        "Pd630_LPD03617",
+        "Pd630_LPD03618",
+        "Pd630_LPD06983",
+        "Pd630_LPD06984",
+        "Pd630_LPD06985",
+        "Pd630_LPD06986"
+      ],
+      "rpy": [
+        "Y013_00720",
+        "Y013_00725",
+        "Y013_00730",
+        "Y013_00735",
+        "Y013_00740"
+      ],
+      "rav": [
+        "AAT18_11030",
+        "AAT18_11035",
+        "AAT18_11045",
+        "AAT18_11050"
+      ],
+      "rrz": [
+        "CS378_00780",
+        "CS378_00785",
+        "CS378_00790",
+        "CS378_00795",
+        "CS378_00800"
+      ],
+      "rhq": [
+        "IM25_14675",
+        "IM25_14680",
+        "IM25_14685",
+        "IM25_14690",
+        "IM25_14695"
+      ],
+      "rrt": [
+        "4535765_01850",
+        "4535765_01851",
+        "4535765_01852"
+      ],
+      "gbr": [
+        "Gbro_4809",
+        "Gbro_4811",
+        "Gbro_4812",
+        "Gbro_4813"
+      ],
+      "gpo": [
+        "GPOL_c00400",
+        "GPOL_c00410",
+        "GPOL_c00420",
+        "GPOL_c00430",
+        "GPOL_c00440"
+      ],
+      "gor": [
+        "KTR9_4677",
+        "KTR9_4678",
+        "KTR9_4679",
+        "KTR9_4680",
+        "KTR9_4681"
+      ],
+      "gta": [
+        "BCM27_24825",
+        "BCM27_24830",
+        "BCM27_24835",
+        "BCM27_24840",
+        "BCM27_24845"
+      ],
+      "are": [
+        "AL755_14045",
+        "AL755_14050",
+        "AL755_14055"
+      ],
+      "aru": [
+        "ASPU41_05965",
+        "ASPU41_05970",
+        "ASPU41_05975"
+      ],
+      "arq": [
+        "BWQ92_09805",
+        "BWQ92_09810",
+        "BWQ92_09815"
+      ],
+      "psul": [
+        "AU252_12825",
+        "AU252_12830"
+      ],
+      "brx": [
+        "BH708_18675"
+      ],
+      "brv": [
+        "CFK39_12905"
+      ],
+      "aer": [
+        "AERYTH_00705",
+        "AERYTH_00710",
+        "AERYTH_00715"
+      ],
+      "fri": [
+        "FraEuI1c_6661",
+        "FraEuI1c_6662",
+        "FraEuI1c_6663"
+      ],
+      "psea": [
+        "WY02_00870",
+        "WY02_00880"
+      ],
+      "psee": [
+        "FRP1_12700",
+        "FRP1_12705"
+      ],
+      "pseh": [
+        "XF36_13300",
+        "XF36_13310"
+      ],
+      "pseq": [
+        "AD006_18280",
+        "AD006_18285"
+      ],
+      "pecq": [
+        "AD017_26110",
+        "AD017_26115"
+      ],
+      "pmad": [
+        "BAY61_15245",
+        "BAY61_15250"
+      ],
+      "glp": [
+        "Glo7428_3070"
+      ],
+      "nop": [
+        "Nos7524_1966"
+      ],
+      "non": [
+        "NOS3756_48700"
+      ],
+      "nfl": [
+        "COO91_03968"
+      ],
+      "noe": [
+        "CLI64_09650"
+      ],
+      "riv": [
+        "Riv7116_2241"
+      ],
+      "nsp": [
+        "BMF81_02671"
+      ],
+      "ncn": [
+        "BZZ01_10450"
+      ],
+      "cau": [
+        "Caur_3088"
+      ],
+      "chl": [
+        "Chy400_3336"
+      ],
+      "cag": [
+        "Cagg_0865"
+      ],
+      "dsw": [
+        "QR90_10010"
+      ],
+      "dch": [
+        "SY84_02410"
+      ],
+      "dab": [
+        "AUC44_09520"
+      ],
+      "dpu": [
+        "SU48_04525"
+      ],
+      "dez": [
+        "DKM44_08935"
+      ],
+      "fgi": [
+        "OP10G_3046"
+      ],
+      "obg": [
+        "Verru16b_01644"
+      ],
+      "pls": [
+        "VT03_08230"
+      ],
+      "sli": [
+        "Slin_1933"
+      ],
+      "srd": [
+        "SD10_11390"
+      ],
+      "smon": [
+        "AWR27_17355"
+      ],
+      "spir": [
+        "CWM47_33900"
+      ],
+      "fae": [
+        "FAES_2569"
+      ],
+      "fib": [
+        "A6C57_14275"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.13.238"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.13.238"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.13.238"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.13.238"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Eady RR",
+          "Large PJ"
+        ],
+        "title": "Bacterial oxidation of dimethylamine, a new mono-oxygenase reaction.",
+        "journal": "Biochem J 111:37P-38P",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1969",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:4389011]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Eady RR",
+          "Jarman TR",
+          "Large PJ"
+        ],
+        "title": "Microbial oxidation of amines. Partial purification of a mixed-function secondary-amine oxidase system from Pseudomonas aminovorans that contains an enzymically active cytochrome-P-420-type haemoprotein.",
+        "journal": "Biochem J",
+        "volume": "125",
+        "issue": "",
+        "pages": "449-59",
+        "year": "1971",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:4401380]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Alberta JA",
+          "Dawson JH"
+        ],
+        "title": "Purification to homogeneity and initial physical characterization of secondary amine monooxygenase.",
+        "journal": "J Biol Chem",
+        "volume": "262",
+        "issue": "",
+        "pages": "11857-63",
+        "year": "1987",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:3624236]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lidbury I",
+          "Mausz MA",
+          "Scanlan DJ",
+          "Chen Y"
+        ],
+        "title": "Identification of dimethylamine monooxygenase in marine bacteria reveals a metabolic bottleneck in the methylated amine degradation pathway.",
+        "journal": "ISME J 11:1592-1601 (2017) DOI:10.1038/ismej.2017.31",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:28304370]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

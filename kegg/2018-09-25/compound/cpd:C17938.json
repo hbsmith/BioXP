@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C17938",
+    "name": "5,6-Indolequinone-2-carboxylic acid",
+    "names": [
+      "5,6-Indolequinone-2-carboxylic acid"
+    ],
+    "formula": "C9H5NO4",
+    "exact_mass": 191.0219,
+    "mol_weight": 191.1403,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06612",
+      "R08965"
+    ],
+    "pathways": {
+      "map00350": "Tyrosine metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.14.18.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96024159"
+      ],
+      "ChEBI": [
+        "81394"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C5x C    19.3200  -10.5000\n            2   C5x C    19.3200  -11.9000\n            3   C2x C    20.5324  -12.6000\n            4   C2y C    21.7449  -11.9000\n            5   C2y C    21.7449  -10.5000\n            6   C2x C    20.5324   -9.8000\n            7   O5x O    18.1076   -9.8000\n            8   O5x O    18.1076  -12.6000\n            9   N1x N    23.0764  -12.3326\n            10  C2y C    23.8993  -11.2000\n            11  C2x C    23.0764  -10.0674\n            12  C6a C    25.2700  -11.2000\n            13  O6a O    25.9700  -12.4124\n            14  O6a O    25.9700   -9.9876\nBOND        15\n            1     1   2 1\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 2\n            8     2   8 2\n            9     4   9 1\n            10    9  10 1\n            11   10  11 2\n            12    5  11 1\n            13   10  12 1\n            14   12  13 2\n            15   12  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

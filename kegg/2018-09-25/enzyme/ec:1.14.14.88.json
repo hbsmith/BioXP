@@ -1,0 +1,140 @@
+[
+  {
+    "entry_id": "1.14.14.88",
+    "name": "isoflavone 3'-hydroxylase",
+    "names": [
+      "isoflavone 3'-hydroxylase",
+      "isoflavone 3'-monooxygenase",
+      "CYP81E9"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "formononetin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (3'-hydroxylating)",
+    "reaction": "formononetin + [reduced NADPH---hemoprotein reductase] + O2 = calycosin + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R03006]",
+    "all_reac": "R03006; (other) R07776",
+    "iubmb_reactions": [
+      "R03006"
+    ],
+    "kegg_reactions": [
+      "R07776"
+    ],
+    "substrates": [
+      "formononetin [CPD:C00858]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "calycosin [CPD:C01562]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein. Also acts on biochanin A and other isoflavones with a 4'-methoxy group. Involved in the biosynthesis of the pterocarpin phytoalexins medicarpin and maackiain.",
+    "pathways": {
+      "ec00943": "Isoflavonoid biosynthesis",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22932": "isoflavone 3'-hydroxylase"
+    },
+    "genes": {
+      "gmx": [
+        "100784120"
+      ],
+      "pvu": [
+        "PHAVU_002G187800g"
+      ],
+      "vra": [
+        "106766214"
+      ],
+      "var": [
+        "108319111"
+      ],
+      "ccaj": [
+        "109806741"
+      ],
+      "mtr": [
+        "MTR_2g437880"
+      ],
+      "cam": [
+        "101503563"
+      ],
+      "adu": [
+        "107483700"
+      ],
+      "aip": [
+        "107639094"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.88"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.88"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.88"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.88"
+      ],
+      "CAS": [
+        "110183-50-1"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Hinderer",
+          "W.",
+          "Flentje",
+          "U. and Barz",
+          "W."
+        ],
+        "title": "Microsomal isoflavone 2'-hydroxylases and 3'-hydroxylases from chickpea (Cicer arietinum L) cell-suspensions induced for pterocarpan phytoalexin formation.",
+        "journal": "FEBS Lett",
+        "volume": "214",
+        "issue": "",
+        "pages": "101-106",
+        "year": "1987",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

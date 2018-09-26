@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R05963",
+    "name": "",
+    "definition": "H2O + Globoside <=> N-Acetyl-D-galactosamine + Globotriaosylceramide",
+    "equation": "C00001 + G00094 <=> C01132 + G00093",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.52"
+    ],
+    "pathways": {
+      "rn00603": "Glycosphingolipid biosynthesis - globo and isoglobo series",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01207": "beta-N-acetylhexosaminidase [EC:3.2.1.52]"
+    }
+  }
+][
+  {
+    "entry_id": "R05963",
+    "name": "",
+    "definition": "H2O + Globoside <=> N-Acetyl-D-galactosamine + Globotriaosylceramide",
+    "equation": "C00001 + G00094 <=> C01132 + G00093",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.52"
+    ],
+    "pathways": {
+      "rn00603": "Glycosphingolipid biosynthesis - globo and isoglobo series",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01207": "beta-N-acetylhexosaminidase [EC:3.2.1.52]"
+    }
+  }
+]

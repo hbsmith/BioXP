@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03384",
+    "name": "ATP:1-amino-1-deoxy-scyllo-inositol 4-phosphotransferase",
+    "definition": "ATP + 1-Amino-1-deoxy-scyllo-inositol <=> ADP + 1-Amino-1-deoxy-scyllo-inositol 4-phosphate",
+    "equation": "C00002 + C01214 <=> C00008 + C01283",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.65"
+    ],
+    "pathways": {
+      "rn00521": "Streptomycin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K04339": "scyllo-inosamine 4-kinase [EC:2.7.1.65]"
+    }
+  }
+]

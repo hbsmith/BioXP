@@ -1,0 +1,32 @@
+[
+  {
+    "entry_id": "C21855",
+    "name": "5-Chloro-1H-pyrrole-2-carbonyl-[peptidyl-carrier protein]",
+    "names": [
+      "5-Chloro-1H-pyrrole-2-carbonyl-[peptidyl-carrier protein]"
+    ],
+    "formula": "C5H3ClNOSR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R12021",
+      "R12022"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.19.56"
+    ],
+    "dblinks": {
+    },
+    "kcf": "ATOM        10\n            1   C8y C    18.7429  -16.2951\n            2   C8x C    18.7429  -17.6939\n            3   C8x C    20.0717  -18.1135\n            4   C8y C    20.9109  -16.9945\n            5   N4x N    20.0717  -15.8755\n            6   C5a C    17.5540  -15.5958\n            7   S2a S    16.2951  -16.2951\n            8   R   R    16.2951  -17.6939\n            9   O5a O    17.5540  -14.1971\n            10  X   Cl   22.3109  -16.9945\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     1   5 1\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     6   9 2\n            10    4  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C18250",
+    "name": "4,5-Dihydroxypyrene",
+    "names": [
+      "4,5-Dihydroxypyrene"
+    ],
+    "formula": "C16H10O2",
+    "exact_mass": 234.0681,
+    "mol_weight": 234.2494,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09162",
+      "R09163",
+      "R09219",
+      "R09239"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.3.1.29",
+      "1.6.5.-",
+      "1.13.11.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "103061432"
+      ],
+      "ChEBI": [
+        "81601"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C8x C    23.6037  -18.6312\n            2   C8x C    23.6037  -20.0320\n            3   C8x C    24.8168  -20.7324\n            4   C8y C    26.0300  -20.0320\n            5   C8y C    26.0300  -18.6312\n            6   C8y C    24.8168  -17.9308\n            7   C8y C    27.2431  -17.9308\n            8   C8y C    27.2431  -16.5300\n            9   C8x C    26.0300  -15.8296\n            10  C8x C    24.8168  -16.5300\n            11  C8y C    27.2431  -20.7324\n            12  C8y C    28.4562  -20.0320\n            13  C8y C    28.4562  -18.6312\n            14  C8x C    29.6694  -17.9308\n            15  C8x C    29.6694  -16.5300\n            16  C8x C    28.4562  -15.8296\n            17  O1a O    27.2431  -22.1333\n            18  O1a O    29.6545  -20.7239\nBOND        21\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     5   7 2\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    6  10 2\n            12    4  11 1\n            13   11  12 2\n            14   12  13 1\n            15    7  13 1\n            16   13  14 2\n            17   14  15 1\n            18   15  16 2\n            19    8  16 1\n            20   11  17 1\n            21   12  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

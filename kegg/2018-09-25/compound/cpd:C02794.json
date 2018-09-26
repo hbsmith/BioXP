@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C02794",
+    "name": "3-Hydroxykynurenine",
+    "names": [
+      "3-Hydroxykynurenine",
+      "3-Hydroxy-DL-kynurenine"
+    ],
+    "formula": "C10H12N2O4",
+    "exact_mass": 224.0797,
+    "mol_weight": 224.2133,
+    "remark": "",
+    "comment": "3-Hydroxy-L-kynurenine [CPD:C03227]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "2147-61-7"
+      ],
+      "PubChem": [
+        "5745"
+      ],
+      "ChEBI": [
+        "1547"
+      ],
+      "ChEMBL": [
+        "CHEMBL442576"
+      ],
+      "NIKKAJI": [
+        "J257.323G"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8y C    24.7100  -15.3300\n            2   C8y C    24.7100  -16.7300\n            3   C5a C    25.9000  -14.6300\n            4   C8x C    23.4500  -14.6300\n            5   C8y C    23.4500  -17.4300\n            6   N1a N    25.9000  -17.4300\n            7   C1b C    27.0900  -15.3300\n            8   O5a O    25.9000  -13.2300\n            9   C8x C    22.2600  -15.3300\n            10  C8x C    22.2600  -16.7300\n            11  O1a O    23.4500  -18.8300\n            12  C1c C    28.3500  -14.6300\n            13  C6a C    29.5400  -15.3300\n            14  N1a N    28.3500  -13.2300\n            15  O6a O    30.7300  -14.6300\n            16  O6a O    29.5400  -16.7300\nBOND        16\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     3   8 2\n            8     4   9 2\n            9     5  10 2\n            10    5  11 1\n            11    7  12 1\n            12   12  13 1\n            13   12  14 1\n            14   13  15 1\n            15   13  16 2\n            16    9  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

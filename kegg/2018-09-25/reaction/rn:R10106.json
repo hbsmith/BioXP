@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10106",
+    "name": "L-arginine,NADH:oxygen oxidoreductase (nitric-oxide-forming)",
+    "definition": "2 L-Arginine + 3 NADH + 3 H+ + 4 Oxygen <=> 2 L-Citrulline + 2 Nitric oxide + 3 NAD+ + 4 H2O",
+    "equation": "2 C00062 + 3 C00004 + 3 C00080 + 4 C00007 <=> 2 C00327 + 2 C00533 + 3 C00003 + 4 C00001",
+    "comment": "multi-step reaction (see R10107+R10108) NADPH (see R00557)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

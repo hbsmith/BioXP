@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11813",
+    "name": "2-(cystein-S-yl)-2-(1H-indol-3-yl)-acetonitrile, [reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (camalexin-forming)",
+    "definition": "2-(L-Cystein-S-yl)-2-(1H-indol-3-yl)acetonitrile + 2 [Reduced NADPH---hemoprotein reductase] + 2 Oxygen <=> Camalexin + Hydrogen cyanide + CO2 + 2 [Oxidized NADPH---hemoprotein reductase] + 4 H2O",
+    "equation": "C21719 + 2 C03024 + 2 C00007 <=> C21721 + C01326 + C00011 + 2 C03161 + 4 C00001",
+    "comment": "two-step reaction (see R11814+R11815)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.52"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

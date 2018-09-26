@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00681",
+    "name": "L-Tryptophan:oxygen 2'-oxidoreductase (side-chain-cleaving)",
+    "definition": "L-Tryptophan + Oxygen <=> (Indol-3-yl)glycolaldehyde + Ammonia + CO2",
+    "equation": "C00078 + C00007 <=> C03230 + C00014 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.99.3"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

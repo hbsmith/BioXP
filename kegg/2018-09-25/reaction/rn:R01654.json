@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01654",
+    "name": "10-Formyltetrahydrofolate:L-glutamate ligase (ADP-forming)",
+    "definition": "ATP + 10-Formyltetrahydrofolate + L-Glutamate <=> ADP + Orthophosphate + (6R)-10-Formyltetrahydropteroyldiglutamate",
+    "equation": "C00002 + C00234 + C00025 <=> C00008 + C00009 + C05928",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.12",
+      "6.3.2.17"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

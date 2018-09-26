@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03315",
+    "name": "ATP:pseudouridine 5'-phosphotransferase",
+    "definition": "ATP + Pseudouridine <=> ADP + Pseudouridine 5'-phosphate",
+    "equation": "C00002 + C02067 <=> C00008 + C01168",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.83"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+      "K16328": "pseudouridine kinase [EC:2.7.1.83]",
+      "K16330": "pseudouridylate synthase / pseudouridine kinase [EC:4.2.1.70 2.7.1.83]"
+    }
+  }
+]

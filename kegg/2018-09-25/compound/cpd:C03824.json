@@ -1,0 +1,111 @@
+[
+  {
+    "entry_id": "C03824",
+    "name": "2-Aminomuconate semialdehyde",
+    "names": [
+      "2-Aminomuconate semialdehyde",
+      "2-Aminomuconate 6-semialdehyde"
+    ],
+    "formula": "C6H7NO3",
+    "exact_mass": 141.0426,
+    "mol_weight": 141.1247,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03889",
+      "R04323",
+      "R05405",
+      "R11022"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism",
+      "map00627": "Aminobenzoate degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.2.1.32",
+      "1.13.11.74",
+      "4.1.1.45"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6567"
+      ],
+      "ChEBI": [
+        "15745"
+      ],
+      "KNApSAcK": [
+        "C00007492"
+      ],
+      "3DMET": [
+        "B00642"
+      ],
+      "NIKKAJI": [
+        "J1.127.187A"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C2b C    18.6506  -16.1457\n            2   C2c C    19.8610  -15.4439\n            3   C2b C    18.6506  -17.5426\n            4   C6a C    21.0778  -16.1457\n            5   N1a N    19.8610  -14.0469\n            6   C2b C    17.4402  -18.2444\n            7   O6a O    21.0713  -17.5426\n            8   O6a O    22.2882  -15.4376\n            9   C4a C    16.2235  -17.5426\n            10  O4a O    15.0131  -18.2510\nBOND        9\n            1     1   2 2\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1\n            5     3   6 2\n            6     4   7 1\n            7     4   8 2\n            8     6   9 1\n            9     9  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C03824",
+    "name": "2-Aminomuconate semialdehyde",
+    "names": [
+      "2-Aminomuconate semialdehyde",
+      "2-Aminomuconate 6-semialdehyde"
+    ],
+    "formula": "C6H7NO3",
+    "exact_mass": 141.0426,
+    "mol_weight": 141.1247,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03889",
+      "R04323",
+      "R05405",
+      "R11022"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism",
+      "map00627": "Aminobenzoate degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.2.1.32",
+      "1.13.11.74",
+      "4.1.1.45"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6567"
+      ],
+      "ChEBI": [
+        "15745"
+      ],
+      "KNApSAcK": [
+        "C00007492"
+      ],
+      "3DMET": [
+        "B00642"
+      ],
+      "NIKKAJI": [
+        "J1.127.187A"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C2b C    18.6506  -16.1457\n            2   C2c C    19.8610  -15.4439\n            3   C2b C    18.6506  -17.5426\n            4   C6a C    21.0778  -16.1457\n            5   N1a N    19.8610  -14.0469\n            6   C2b C    17.4402  -18.2444\n            7   O6a O    21.0713  -17.5426\n            8   O6a O    22.2882  -15.4376\n            9   C4a C    16.2235  -17.5426\n            10  O4a O    15.0131  -18.2510\nBOND        9\n            1     1   2 2\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1\n            5     3   6 2\n            6     4   7 1\n            7     4   8 2\n            8     6   9 1\n            9     9  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

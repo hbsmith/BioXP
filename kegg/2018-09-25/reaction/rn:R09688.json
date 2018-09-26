@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09688",
+    "name": "(S)-2,3-epoxysqualene mutase (cyclizing, cucurbitadienol-forming)",
+    "definition": "(S)-2,3-Epoxysqualene <=> Cucurbitadienol",
+    "equation": "C01054 <=> C19819",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.99.33"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15812": "cucurbitadienol synthase [EC:5.4.99.33]"
+    }
+  }
+]

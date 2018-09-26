@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R09475",
+    "name": "acetate:[acyl-carrier-protein] ligase (AMP-forming)",
+    "definition": "ATP + Acetate + Acyl-carrier protein <=> AMP + Diphosphate + Acetyl-[acyl-carrier protein]",
+    "equation": "C00002 + C00033 + C00229 <=> C00020 + C00013 + C03939",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.35"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

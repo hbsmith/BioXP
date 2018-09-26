@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08807",
+    "name": "p-coumaroyl-CoA:p-coumaroyl-diketide-CoA C-coumaroyltransferase (thioester-hydrolysing and decarboxylating)",
+    "definition": "p-Coumaroyl-diketide-CoA + p-Coumaroyl-CoA + H2O <=> Bisdemethoxycurcumin + 2 CoA + CO2",
+    "equation": "C17740 + C00223 + C00001 <=> C17743 + 2 C00010 + C00011",
+    "comment": "curcuminoid synthase (CURS)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.219"
+    ],
+    "pathways": {
+      "rn00945": "Stilbenoid, diarylheptanoid and gingerol biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K17211": "curcumin/demethoxycurcumin synthase [EC:2.3.1.217 2.3.1.219]"
+    }
+  }
+]

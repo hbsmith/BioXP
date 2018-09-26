@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01226",
+    "name": "5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate hydroxymethyltransferase",
+    "definition": "5,10-Methylenetetrahydrofolate + 3-Methyl-2-oxobutanoic acid + H2O <=> Tetrahydrofolate + 2-Dehydropantoate",
+    "equation": "C00143 + C00141 + C00001 <=> C00101 + C00966",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.2.11"
+    ],
+    "pathways": {
+      "rn00770": "Pantothenate and CoA biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00606": "3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]"
+    }
+  }
+]

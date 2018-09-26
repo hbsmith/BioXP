@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "R03592",
+    "name": "morphine:NAD(P)+ 6-oxidoreductase",
+    "definition": "Morphine + NADP+ <=> Morphinone + NADPH + H+",
+    "equation": "C01516 + C00006 <=> C01735 + C00005 + C00080",
+    "comment": "NAD+ (see R03591)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.218",
+      "1.1.1.247"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K03378": "morphine 6-dehydrogenase [EC:1.1.1.218]",
+      "K13394": "codeinone reductase [EC:1.1.1.247]"
+    }
+  }
+][
+  {
+    "entry_id": "R03592",
+    "name": "morphine:NAD(P)+ 6-oxidoreductase",
+    "definition": "Morphine + NADP+ <=> Morphinone + NADPH + H+",
+    "equation": "C01516 + C00006 <=> C01735 + C00005 + C00080",
+    "comment": "NAD+ (see R03591)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.218",
+      "1.1.1.247"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K03378": "morphine 6-dehydrogenase [EC:1.1.1.218]",
+      "K13394": "codeinone reductase [EC:1.1.1.247]"
+    }
+  }
+]

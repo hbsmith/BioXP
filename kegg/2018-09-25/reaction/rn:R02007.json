@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02007",
+    "name": "(+)-Bornyl-diphosphate lyase (decyclizing)",
+    "definition": "(+)-Bornyl diphosphate <=> Geranyl diphosphate",
+    "equation": "C03190 <=> C00341",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.8"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15098": "bornyl diphosphate synthase [EC:5.5.1.8]"
+    }
+  }
+]

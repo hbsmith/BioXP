@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C11196",
+    "name": "Methomyl",
+    "names": [
+      "Methomyl"
+    ],
+    "formula": "C5H10N2O2S",
+    "exact_mass": 162.0463,
+    "mol_weight": 162.2101,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "16752-77-5"
+      ],
+      "PubChem": [
+        "13377"
+      ],
+      "ChEBI": [
+        "6835"
+      ],
+      "ChEMBL": [
+        "CHEMBL552761"
+      ],
+      "NIKKAJI": [
+        "J3.448G"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   N1b N    25.8558  -17.2795\n            2   C7a C    27.0652  -16.5724\n            3   O6a O    27.0581  -15.1720\n            4   O7a O    28.2746  -17.2726\n            5   N2b N    29.4840  -16.5653\n            6   C2c C    30.6934  -17.2655\n            7   C1a C    30.6863  -18.6658\n            8   S2a S    31.9028  -16.5581\n            9   C1a C    33.1123  -17.2583\n            10  C1a C    24.6392  -16.5794\nBOND        9\n            1     2   3 2\n            2     5   6 2\n            3     1   2 1\n            4     6   7 1\n            5     2   4 1\n            6     6   8 1\n            7     8   9 1\n            8     4   5 1\n            9     1  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

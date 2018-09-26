@@ -1,0 +1,73 @@
+[
+  {
+    "entry_id": "C21731",
+    "name": "2-(Hydroxysulfanyl)hercynine",
+    "names": [
+      "2-(Hydroxysulfanyl)hercynine",
+      "Nalpha,Nalpha,Nalpha-Trimethyl-2-(hydroxysulfanyl)-L-histidine",
+      "2-Sulfenohercynine"
+    ],
+    "formula": "C9H16N3O3S",
+    "exact_mass": 246.0912,
+    "mol_weight": 246.3066,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11864",
+      "R11865"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.4.1.36"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "350078308"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8y C    18.0499  -16.4990\n            2   C1b C    19.2611  -17.1983\n            3   C1c C    20.4723  -16.4990\n            4   C6a C    21.6834  -17.1983\n            5   O6a O    22.8946  -16.4990\n            6   O6a O    21.6834  -18.5969\n            7   N1d N    20.4723  -15.1007 #+\n            8   C1a C    21.7022  -14.3904\n            9   C1a C    19.2799  -14.4122\n            10  C1a C    20.4723  -13.7021\n            11  C8x C    17.9038  -15.1082\n            12  N4x N    16.5357  -14.8174\n            13  C8y C    15.8364  -16.0285\n            14  N5x N    16.7722  -17.0678\n            15  S4a S    14.4238  -16.1774\n            16  O1d O    13.8568  -17.4517\nBOND        16\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     4   6 2\n            6     3   7 1 #Down\n            7     7   8 1\n            8     7   9 1\n            9     7  10 1\n            10    1  11 2\n            11   11  12 1\n            12   12  13 1\n            13   13  14 2\n            14    1  14 1\n            15   13  15 1\n            16   15  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C21731",
+    "name": "2-(Hydroxysulfanyl)hercynine",
+    "names": [
+      "2-(Hydroxysulfanyl)hercynine",
+      "Nalpha,Nalpha,Nalpha-Trimethyl-2-(hydroxysulfanyl)-L-histidine",
+      "2-Sulfenohercynine"
+    ],
+    "formula": "C9H16N3O3S",
+    "exact_mass": 246.0912,
+    "mol_weight": 246.3066,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11864",
+      "R11865"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.4.1.36"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "350078308"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8y C    18.0499  -16.4990\n            2   C1b C    19.2611  -17.1983\n            3   C1c C    20.4723  -16.4990\n            4   C6a C    21.6834  -17.1983\n            5   O6a O    22.8946  -16.4990\n            6   O6a O    21.6834  -18.5969\n            7   N1d N    20.4723  -15.1007 #+\n            8   C1a C    21.7022  -14.3904\n            9   C1a C    19.2799  -14.4122\n            10  C1a C    20.4723  -13.7021\n            11  C8x C    17.9038  -15.1082\n            12  N4x N    16.5357  -14.8174\n            13  C8y C    15.8364  -16.0285\n            14  N5x N    16.7722  -17.0678\n            15  S4a S    14.4238  -16.1774\n            16  O1d O    13.8568  -17.4517\nBOND        16\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     4   6 2\n            6     3   7 1 #Down\n            7     7   8 1\n            8     7   9 1\n            9     7  10 1\n            10    1  11 2\n            11   11  12 1\n            12   12  13 1\n            13   13  14 2\n            14    1  14 1\n            15   13  15 1\n            16   15  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

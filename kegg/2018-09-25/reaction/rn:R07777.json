@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07777",
+    "name": "liquiritigenin, [reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (hydroxylating, aryl migration)",
+    "definition": "Liquiritigenin + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> 2,7,4'-Trihydroxyisoflavanone + H2O + [Oxidized NADPH---hemoprotein reductase]",
+    "equation": "C09762 + C00007 + C03024 <=> C15567 + C00001 + C03161",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.87"
+    ],
+    "pathways": {
+      "rn00943": "Isoflavonoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13257": "2-hydroxyisoflavanone synthase [EC:1.14.14.87]"
+    }
+  }
+]

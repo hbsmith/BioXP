@@ -1,0 +1,153 @@
+[
+  {
+    "entry_id": "1.14.19.58",
+    "name": "tryptophan 5-halogenase",
+    "names": [
+      "tryptophan 5-halogenase",
+      "pyrH (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With oxidation of a pair of donors resulting in the reduction of O2 to two molecules of water"
+    ],
+    "sysname": "L-tryptophan:FADH2 oxidoreductase (5-halogenating)",
+    "reaction": "L-tryptophan + FADH2 + chloride + O2 + H+ = 5-chloro-L-tryptophan + FAD + 2 H2O [RN:R12031]",
+    "all_reac": "R12031",
+    "iubmb_reactions": [
+      "R12031"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "L-tryptophan [CPD:C00078]",
+      "FADH2 [CPD:C01352]",
+      "chloride [CPD:C00698]",
+      "O2 [CPD:C00007]",
+      "H+ [CPD:C00080]"
+    ],
+    "products": [
+      "5-chloro-L-tryptophan [CPD:C21865]",
+      "FAD [CPD:C00016]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A flavin-dependent halogenase. The enzyme from the bacterium Streptomyces rugosporus catalyses halogenation of the C-5 position of tryptophan during the biosynthesis of the antibiotic compound pyrroindomycin B. It utilizes molecular oxygen to oxidize the FADH2 cofactor, giving C4a-hydroperoxyflavin, which then reacts with chloride to produce a hypochlorite ion. The latter reacts with an active site lysine to generate a chloramine, which chlorinates the substrate. cf. EC 1.14.19.59, tryptophan 6-halogenase and EC 1.14.19.9, tryptophan 7-halogenase.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22693": "tryptophan 5-halogenase"
+    },
+    "genes": {
+      "sgv": [
+        "B1H19_08825"
+      ],
+      "pseq": [
+        "AD006_32380"
+      ],
+      "kal": [
+        "KALB_6284"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.19.58"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.19.58"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.19.58"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.19.58"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Zehner S",
+          "Kotzsch A",
+          "Bister B",
+          "Sussmuth RD",
+          "Mendez C",
+          "Salas JA",
+          "van Pee KH"
+        ],
+        "title": "A regioselective tryptophan 5-halogenase is involved in pyrroindomycin biosynthesis in Streptomyces rugosporus LL-42D005.",
+        "journal": "Chem Biol 12:445-52 (2005) DOI:10.1016/j.chembiol.2005.02.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:15850981]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhu X",
+          "De Laurentis W",
+          "Leang K",
+          "Herrmann J",
+          "Ihlefeld K",
+          "van Pee KH",
+          "Naismith JH"
+        ],
+        "title": "Structural insights into regioselectivity in the enzymatic chlorination of tryptophan.",
+        "journal": "J Mol Biol 391:74-85 (2009) DOI:10.1016/j.jmb.2009.06.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:19501593]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

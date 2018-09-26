@@ -1,0 +1,145 @@
+[
+  {
+    "entry_id": "C01516",
+    "name": "Morphine",
+    "names": [
+      "Morphine"
+    ],
+    "formula": "C17H19NO3",
+    "exact_mass": 285.1365,
+    "mol_weight": 285.3377,
+    "remark": "Same as: D08233",
+    "comment": "",
+    "reactions": [
+      "R03591",
+      "R03592",
+      "R03697",
+      "R08262",
+      "R08263",
+      "R08265",
+      "R09402"
+    ],
+    "pathways": {
+      "map00950": "Isoquinoline alkaloid biosynthesis",
+      "map00982": "Drug metabolism - cytochrome P450",
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map04080": "Neuroactive ligand-receptor interaction"
+    },
+    "enzymes": [
+      "1.1.1.218",
+      "1.1.1.247",
+      "1.14.11.32",
+      "1.14.14.1",
+      "2.4.1.17"
+    ],
+    "dblinks": {
+      "CAS": [
+        "57-27-2"
+      ],
+      "PubChem": [
+        "4681"
+      ],
+      "ChEBI": [
+        "17303"
+      ],
+      "ChEMBL": [
+        "CHEMBL3914733",
+        "CHEMBL3978843",
+        "CHEMBL70"
+      ],
+      "KNApSAcK": [
+        "C00001889"
+      ],
+      "PDB-CCD": [
+        "MOI"
+      ],
+      "3DMET": [
+        "B04801"
+      ],
+      "NIKKAJI": [
+        "J2.323J"
+      ]
+    },
+    "kcf": "ATOM        21\n            1   C1z C    21.5384  -23.5506\n            2   C8y C    21.5384  -22.2288\n            3   C1y C    22.7210  -24.2462\n            4   C1y C    20.4253  -24.1767\n            5   C1x C    22.7210  -22.9245\n            6   C8y C    20.4253  -21.6027\n            7   C8y C    22.7210  -21.6027\n            8   C1y C    23.8341  -23.5506\n            9   C2x C    22.7210  -25.4984\n            10  O2x O    19.1036  -22.8548\n            11  C1y C    20.4253  -25.4984\n            12  C1x C    24.9471  -22.9245\n            13  C8y C    20.4253  -20.2809\n            14  C1x C    23.8341  -22.2983\n            15  C8x C    22.7210  -20.2809\n            16  N1y N    24.9471  -24.2462\n            17  C2x C    21.5384  -26.1941\n            18  O1a O    19.3123  -26.1941\n            19  C8x C    21.6080  -19.6549\n            20  O1a O    19.3123  -19.6549\n            21  C1a C    26.3437  -24.2462\nBOND        25\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1 #Up\n            5     2   6 2\n            6     2   7 1\n            7     3   8 1\n            8     3   9 1\n            9     4  10 1 #Down\n            10    4  11 1\n            11    5  12 1\n            12    6  13 1\n            13    7  14 1\n            14    7  15 2\n            15    8  16 1 #Up\n            16    9  17 2\n            17   11  18 1 #Down\n            18   13  19 2\n            19   13  20 1\n            20    6  10 1\n            21    8  14 1\n            22   11  17 1\n            23   12  16 1\n            24   15  19 1\n            25   16  21 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C01516",
+    "name": "Morphine",
+    "names": [
+      "Morphine"
+    ],
+    "formula": "C17H19NO3",
+    "exact_mass": 285.1365,
+    "mol_weight": 285.3377,
+    "remark": "Same as: D08233",
+    "comment": "",
+    "reactions": [
+      "R03591",
+      "R03592",
+      "R03697",
+      "R08262",
+      "R08263",
+      "R08265",
+      "R09402"
+    ],
+    "pathways": {
+      "map00950": "Isoquinoline alkaloid biosynthesis",
+      "map00982": "Drug metabolism - cytochrome P450",
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map04080": "Neuroactive ligand-receptor interaction"
+    },
+    "enzymes": [
+      "1.1.1.218",
+      "1.1.1.247",
+      "1.14.11.32",
+      "1.14.14.1",
+      "2.4.1.17"
+    ],
+    "dblinks": {
+      "CAS": [
+        "57-27-2"
+      ],
+      "PubChem": [
+        "4681"
+      ],
+      "ChEBI": [
+        "17303"
+      ],
+      "ChEMBL": [
+        "CHEMBL3914733",
+        "CHEMBL3978843",
+        "CHEMBL70"
+      ],
+      "KNApSAcK": [
+        "C00001889"
+      ],
+      "PDB-CCD": [
+        "MOI"
+      ],
+      "3DMET": [
+        "B04801"
+      ],
+      "NIKKAJI": [
+        "J2.323J"
+      ]
+    },
+    "kcf": "ATOM        21\n            1   C1z C    21.5384  -23.5506\n            2   C8y C    21.5384  -22.2288\n            3   C1y C    22.7210  -24.2462\n            4   C1y C    20.4253  -24.1767\n            5   C1x C    22.7210  -22.9245\n            6   C8y C    20.4253  -21.6027\n            7   C8y C    22.7210  -21.6027\n            8   C1y C    23.8341  -23.5506\n            9   C2x C    22.7210  -25.4984\n            10  O2x O    19.1036  -22.8548\n            11  C1y C    20.4253  -25.4984\n            12  C1x C    24.9471  -22.9245\n            13  C8y C    20.4253  -20.2809\n            14  C1x C    23.8341  -22.2983\n            15  C8x C    22.7210  -20.2809\n            16  N1y N    24.9471  -24.2462\n            17  C2x C    21.5384  -26.1941\n            18  O1a O    19.3123  -26.1941\n            19  C8x C    21.6080  -19.6549\n            20  O1a O    19.3123  -19.6549\n            21  C1a C    26.3437  -24.2462\nBOND        25\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1 #Up\n            5     2   6 2\n            6     2   7 1\n            7     3   8 1\n            8     3   9 1\n            9     4  10 1 #Down\n            10    4  11 1\n            11    5  12 1\n            12    6  13 1\n            13    7  14 1\n            14    7  15 2\n            15    8  16 1 #Up\n            16    9  17 2\n            17   11  18 1 #Down\n            18   13  19 2\n            19   13  20 1\n            20    6  10 1\n            21    8  14 1\n            22   11  17 1\n            23   12  16 1\n            24   15  19 1\n            25   16  21 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

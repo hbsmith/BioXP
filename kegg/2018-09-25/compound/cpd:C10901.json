@@ -1,0 +1,97 @@
+[
+  {
+    "entry_id": "C10901",
+    "name": "2-Aminobenzimidazole",
+    "names": [
+      "2-Aminobenzimidazole"
+    ],
+    "formula": "C7H7N3",
+    "exact_mass": 133.064,
+    "mol_weight": 133.1506,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "934-32-7"
+      ],
+      "PubChem": [
+        "13084"
+      ],
+      "ChEBI": [
+        "27822"
+      ],
+      "ChEMBL": [
+        "CHEMBL305513"
+      ],
+      "PDB-CCD": [
+        "AX7"
+      ],
+      "NIKKAJI": [
+        "J3.655B"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    20.9300  -16.2286\n            2   C8x C    20.9300  -17.6279\n            3   C8x C    22.1447  -18.3275\n            4   C8x C    22.1447  -15.5290\n            5   C8y C    23.3523  -16.2286\n            6   C8y C    23.3466  -17.6313\n            7   N5x N    24.6788  -18.0704\n            8   C8y C    25.5077  -16.9390\n            9   N4x N    24.6882  -15.8007\n            10  N1a N    26.9070  -16.9447\nBOND        11\n            1     1   2 1\n            2     2   3 2\n            3     3   6 1\n            4     5   4 1\n            5     5   6 2\n            6     6   7 1\n            7     7   8 2\n            8     8   9 1\n            9     9   5 1\n            10    4   1 2\n            11    8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C10901",
+    "name": "2-Aminobenzimidazole",
+    "names": [
+      "2-Aminobenzimidazole"
+    ],
+    "formula": "C7H7N3",
+    "exact_mass": 133.064,
+    "mol_weight": 133.1506,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "934-32-7"
+      ],
+      "PubChem": [
+        "13084"
+      ],
+      "ChEBI": [
+        "27822"
+      ],
+      "ChEMBL": [
+        "CHEMBL305513"
+      ],
+      "PDB-CCD": [
+        "AX7"
+      ],
+      "NIKKAJI": [
+        "J3.655B"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    20.9300  -16.2286\n            2   C8x C    20.9300  -17.6279\n            3   C8x C    22.1447  -18.3275\n            4   C8x C    22.1447  -15.5290\n            5   C8y C    23.3523  -16.2286\n            6   C8y C    23.3466  -17.6313\n            7   N5x N    24.6788  -18.0704\n            8   C8y C    25.5077  -16.9390\n            9   N4x N    24.6882  -15.8007\n            10  N1a N    26.9070  -16.9447\nBOND        11\n            1     1   2 1\n            2     2   3 2\n            3     3   6 1\n            4     5   4 1\n            5     5   6 2\n            6     6   7 1\n            7     7   8 2\n            8     8   9 1\n            9     9   5 1\n            10    4   1 2\n            11    8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

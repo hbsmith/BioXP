@@ -1,0 +1,91 @@
+[
+  {
+    "entry_id": "C14386",
+    "name": "3-Ethylphenol",
+    "names": [
+      "3-Ethylphenol"
+    ],
+    "formula": "C8H10O",
+    "exact_mass": 122.0732,
+    "mol_weight": 122.1644,
+    "remark": "",
+    "comment": "2-Ethylphenol [CPD:C14385] 4-Ethylphenol [CPD:C13637]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "620-17-7"
+      ],
+      "PubChem": [
+        "17395386"
+      ],
+      "ChEBI": [
+        "34332"
+      ],
+      "ChEMBL": [
+        "CHEMBL58052"
+      ],
+      "NIKKAJI": [
+        "J2.086I"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    28.0167  -19.5562\n            2   C8y C    28.0167  -20.9528\n            3   C8x C    26.8295  -21.6511\n            4   C8x C    25.5725  -20.9528\n            5   C8x C    25.5725  -19.5562\n            6   C8y C    26.8295  -18.8579\n            7   O1a O    26.8295  -17.4612\n            8   C1b C    29.2401  -21.6525\n            9   C1a C    30.4238  -20.9625\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     2   8 1\n            9     8   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C14386",
+    "name": "3-Ethylphenol",
+    "names": [
+      "3-Ethylphenol"
+    ],
+    "formula": "C8H10O",
+    "exact_mass": 122.0732,
+    "mol_weight": 122.1644,
+    "remark": "",
+    "comment": "2-Ethylphenol [CPD:C14385] 4-Ethylphenol [CPD:C13637]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "620-17-7"
+      ],
+      "PubChem": [
+        "17395386"
+      ],
+      "ChEBI": [
+        "34332"
+      ],
+      "ChEMBL": [
+        "CHEMBL58052"
+      ],
+      "NIKKAJI": [
+        "J2.086I"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    28.0167  -19.5562\n            2   C8y C    28.0167  -20.9528\n            3   C8x C    26.8295  -21.6511\n            4   C8x C    25.5725  -20.9528\n            5   C8x C    25.5725  -19.5562\n            6   C8y C    26.8295  -18.8579\n            7   O1a O    26.8295  -17.4612\n            8   C1b C    29.2401  -21.6525\n            9   C1a C    30.4238  -20.9625\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     2   8 1\n            9     8   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

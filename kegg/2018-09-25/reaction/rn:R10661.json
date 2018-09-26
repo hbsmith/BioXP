@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10661",
+    "name": "",
+    "definition": "L-Tryptophan + L-Proline + 2 ATP <=> Brevianamide F + 2 AMP + 2 Diphosphate",
+    "equation": "C00078 + C00148 + 2 C00002 <=> C20563 + 2 C00020 + 2 C00013",
+    "comment": "cyclo(L-Trp-L-Pro) synthase",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00404": "Staurosporine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K18281": "brevianamide F synthase"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00603",
+    "name": "dichloromethane chloride-lyase (adding H2O; chloride-hydrolysing; formaldehyde-forming)",
+    "definition": "Dichloromethane + H2O <=> Formaldehyde + 2 Hydrochloric acid",
+    "equation": "C02271 + C00001 <=> C00067 + 2 C01327",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.5.1.3"
+    ],
+    "pathways": {
+      "rn00625": "Chloroalkane and chloroalkene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K17070": "dichloromethane dehalogenase [EC:4.5.1.3]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01394",
+    "name": "hydroxypyruvate aldose-ketose-isomerase",
+    "definition": "Hydroxypyruvate <=> 2-Hydroxy-3-oxopropanoate",
+    "equation": "C00168 <=> C01146",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.1.22"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01816": "hydroxypyruvate isomerase [EC:5.3.1.22]"
+    }
+  }
+]

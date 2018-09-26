@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "R10066",
+    "name": "ent-kaur-16-ene,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (hydroxylating)",
+    "definition": "ent-Kaurene + 3 [Reduced NADPH---hemoprotein reductase] + 3 Oxygen <=> Kaur-16-en-18-oic acid + 3 [Oxidized NADPH---hemoprotein reductase] + 4 H2O",
+    "equation": "C06090 + 3 C03024 + 3 C00007 <=> C11874 + 3 C03161 + 4 C00001",
+    "comment": "three-step reaction (see R06291+R06292+R06293)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.86"
+    ],
+    "pathways": {
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+][
+  {
+    "entry_id": "R10066",
+    "name": "ent-kaur-16-ene,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (hydroxylating)",
+    "definition": "ent-Kaurene + 3 [Reduced NADPH---hemoprotein reductase] + 3 Oxygen <=> Kaur-16-en-18-oic acid + 3 [Oxidized NADPH---hemoprotein reductase] + 4 H2O",
+    "equation": "C06090 + 3 C03024 + 3 C00007 <=> C11874 + 3 C03161 + 4 C00001",
+    "comment": "three-step reaction (see R06291+R06292+R06293)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.86"
+    ],
+    "pathways": {
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

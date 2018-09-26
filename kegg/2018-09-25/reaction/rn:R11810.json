@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11810",
+    "name": "16-methoxytabersonine,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (3-hydroxylating)",
+    "definition": "16-Methoxytabersonine + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> (3R)-3-Hydroxy-16-methoxy-1,2-didehydro-2,3-dihydrotabersonine + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C11675 + C03024 + C00007 <=> C21678 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.50"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22365": "tabersonine 3-oxygenase [EC:1.14.14.50]"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C02446",
+    "name": "O-Alkylglycerone",
+    "names": [
+      "O-Alkylglycerone"
+    ],
+    "formula": "C3H5O3R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R03944"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.7.1.84"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5468"
+      ],
+      "ChEBI": [
+        "17567"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   O2a O    15.6100  -15.4700\n            2   C1b C    16.8224  -16.1700\n            3   C5a C    18.0349  -15.4700\n            4   C1b C    19.2473  -16.1700\n            5   O5a O    18.0349  -14.0702\n            6   O1a O    20.4618  -15.4688\n            7   R   R    14.3976  -16.1700\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 2\n            5     4   6 1\n            6     1   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

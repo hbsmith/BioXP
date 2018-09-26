@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03380",
+    "name": "UDP-alpha-D-galactose:procollagen-5-hydroxy-L-lysine D-galactosyltransferase",
+    "definition": "UDP-alpha-D-galactose + Procollagen 5-hydroxy-L-lysine <=> UDP + 5-(D-Galactosyloxy)-L-lysine-procollagen",
+    "equation": "C00052 + C01211 <=> C00015 + C04487",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.50"
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation",
+      "rn00514": "Other types of O-glycan biosynthesis"
+    },
+    "orthologs": {
+      "K11703": "collagen beta-1,O-galactosyltransferase [EC:2.4.1.50]",
+      "K13646": "lysyl hydroxylase/galactosyltransferase/glucosyltransferase [EC:1.14.11.4 2.4.1.50 2.4.1.66]"
+    }
+  }
+]

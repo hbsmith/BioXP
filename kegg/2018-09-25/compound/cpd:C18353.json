@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C18353",
+    "name": "Octaketide bicyclic intermediate",
+    "names": [
+      "Octaketide bicyclic intermediate"
+    ],
+    "formula": "C16H13O5R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = S-ACP or OH",
+    "reactions": [
+      "R09305",
+      "R09306",
+      "R09309"
+    ],
+    "pathways": {
+      "map01057": "Biosynthesis of type II polyketide products",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.1.1.-",
+      "4.-.-.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "124489027"
+      ],
+      "ChEBI": [
+        "81699"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C8x C    19.8100  -17.4300\n            2   C8x C    19.8100  -16.0300\n            3   C8x C    21.0000  -15.3300\n            4   C8y C    22.1900  -16.0300\n            5   C8y C    22.1900  -17.4300\n            6   C8y C    21.0000  -18.1300\n            7   C1x C    23.3100  -15.3300\n            8   C2y C    24.5000  -16.0300\n            9   C2y C    24.5000  -17.4300\n            10  C5x C    23.3100  -18.1300\n            11  C1b C    25.8300  -14.9800\n            12  C5a C    26.9500  -15.6800\n            13  C5a C    25.8300  -18.4100\n            14  C1b C    28.2100  -14.9800\n            15  C5a C    29.4000  -15.6800\n            16  R   R    30.5900  -14.9800\n            17  O1a O    21.0000  -19.5300\n            18  O5x O    23.3100  -19.5300\n            19  O5a O    25.8300  -19.8100\n            20  O5a O    26.9500  -16.8000\n            21  O5a O    29.4000  -16.8000\n            22  C1a C    27.2300  -17.8500\nBOND        23\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     5   6 1\n            5     1   6 2\n            6     4   7 1\n            7     7   8 1\n            8     9  10 1\n            9     5  10 1\n            10    8  11 1\n            11   11  12 1\n            12    9  13 1\n            13   12  14 1\n            14   14  15 1\n            15   15  16 1\n            16    6  17 1\n            17   10  18 2\n            18   13  19 2\n            19   12  20 2\n            20   15  21 2\n            21   13  22 1\n            22    5   4 2\n            23    9   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

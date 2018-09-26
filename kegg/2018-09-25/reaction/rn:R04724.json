@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "R04724",
+    "name": "dodecanoyl-[acp]:NAD+ trans-2-oxidoreductase",
+    "definition": "Dodecanoyl-[acyl-carrier protein] + NAD+ <=> trans-Dodec-2-enoyl-[acp] + NADH + H+",
+    "equation": "C05223 + C00003 <=> C05758 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.1.9",
+      "2.3.1.-"
+    ],
+    "pathways": {
+      "rn00061": "Fatty acid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01212": "Fatty acid metabolism"
+    },
+    "orthologs": {
+      "K00208": "enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]",
+      "K00209": "enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44]",
+      "K02371": "enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]",
+      "K11533": "fatty acid synthase, bacteria type [EC:2.3.1.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R04724",
+    "name": "dodecanoyl-[acp]:NAD+ trans-2-oxidoreductase",
+    "definition": "Dodecanoyl-[acyl-carrier protein] + NAD+ <=> trans-Dodec-2-enoyl-[acp] + NADH + H+",
+    "equation": "C05223 + C00003 <=> C05758 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.1.9",
+      "2.3.1.-"
+    ],
+    "pathways": {
+      "rn00061": "Fatty acid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01212": "Fatty acid metabolism"
+    },
+    "orthologs": {
+      "K00208": "enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]",
+      "K00209": "enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44]",
+      "K02371": "enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]",
+      "K11533": "fatty acid synthase, bacteria type [EC:2.3.1.-]"
+    }
+  }
+]

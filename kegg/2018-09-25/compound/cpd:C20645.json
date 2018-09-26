@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C20645",
+    "name": "Methyl benzoate",
+    "names": [
+      "Methyl benzoate"
+    ],
+    "formula": "C8H8O2",
+    "exact_mass": 136.0524,
+    "mol_weight": 136.1479,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10447"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.1.1.273"
+    ],
+    "dblinks": {
+      "CAS": [
+        "93-58-3"
+      ],
+      "PubChem": [
+        "172232369"
+      ],
+      "ChEMBL": [
+        "CHEMBL16435"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    15.1200  -17.2200\n            2   C8x C    16.3100  -17.9200\n            3   C8x C    17.5000  -17.2200\n            4   C8x C    17.5000  -15.8200\n            5   C8y C    16.3100  -15.1200\n            6   C8x C    15.1200  -15.8200\n            7   C7a C    16.3100  -13.7200\n            8   O7a O    17.5700  -13.0200\n            9   O6a O    15.1200  -13.0200\n            10  C1a C    18.7600  -13.7200\nBOND        10\n            1     5   6 2\n            2     6   1 1\n            3     5   7 1\n            4     1   2 2\n            5     7   8 1\n            6     2   3 1\n            7     7   9 2\n            8     3   4 2\n            9     4   5 1\n            10    8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

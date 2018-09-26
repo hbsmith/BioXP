@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R07451",
+    "name": "6alpha-hydroxy-castasterone,NADPH---hemoprotein reductase:oxygen 6-oxidoreductase",
+    "definition": "6alpha-Hydroxy-castasterone + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> Castasterone + 2 H2O + [Oxidized NADPH---hemoprotein reductase]",
+    "equation": "C15803 + C00007 + C03024 <=> C15794 + 2 C00001 + C03161",
+    "comment": "following after R07450",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "pathways": {
+      "rn00905": "Brassinosteroid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K09590": "brassinosteroid-6-oxidase 1 [EC:1.14.-.-]",
+      "K12640": "brassinosteroid-6-oxidase 2 [EC:1.14.-.-]"
+    }
+  }
+]

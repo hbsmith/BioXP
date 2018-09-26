@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05568",
+    "name": "",
+    "definition": "2 Deethylatrazine + Oxygen <=> 2 Deisopropyldeethylatrazine + 2 Acetone",
+    "equation": "2 C06559 + C00007 <=> 2 C06560 + 2 C00207",
+    "comment": "Deethylatrazine monooxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.-"
+    ],
+    "pathways": {
+      "rn00791": "Atrazine degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

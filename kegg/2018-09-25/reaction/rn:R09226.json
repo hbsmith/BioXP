@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09226",
+    "name": "",
+    "definition": "4-Methyl-3-oxoadipate-enol-lactone + H2O <=> 4-Methyl-3-oxoadipate",
+    "equation": "C18311 + C00001 <=> C18312",
+    "comment": "4-methyl-3-oxoadipate-enol-lactone hydrolase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.-"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+    }
+  }
+]

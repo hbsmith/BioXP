@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C21634",
+    "name": "Norcraugsodine",
+    "names": [
+      "Norcraugsodine"
+    ],
+    "formula": "C15H15NO3",
+    "exact_mass": 257.1052,
+    "mol_weight": 257.2845,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08436",
+      "R11751"
+    ],
+    "pathways": {
+      "map00950": "Isoquinoline alkaloid biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.4.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "340650297"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   C8y C    13.2185  -14.4702\n            2   C8y C    13.2185  -15.8615\n            3   C8x C    14.4707  -16.5572\n            4   C8y C    15.6533  -15.8615\n            5   C8x C    15.6533  -14.4702\n            6   C8x C    14.4707  -13.7050\n            7   C2b C    16.9055  -16.5572\n            8   N2b N    18.0881  -15.8615\n            9   C1b C    19.2707  -16.5572\n            10  C1b C    20.4534  -15.8615\n            11  C8y C    21.6360  -16.5572\n            12  C8x C    21.6360  -17.9485\n            13  C8x C    22.8186  -18.6442\n            14  C8y C    24.0708  -17.9485\n            15  C8x C    24.0708  -16.5572\n            16  C8x C    22.8186  -15.7920\n            17  O1a O    25.2534  -18.6442\n            18  O1a O    12.0358  -16.5572\n            19  O1a O    12.0358  -13.7050\nBOND        20\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 1\n            11   10  11 1\n            12   11  12 2\n            13   12  13 1\n            14   13  14 2\n            15   14  15 1\n            16   15  16 2\n            17   11  16 1\n            18   14  17 1\n            19    2  18 1\n            20    1  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

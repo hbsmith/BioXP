@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C03969",
+    "name": "1-Aminocyclopentanecarboxylate",
+    "names": [
+      "1-Aminocyclopentanecarboxylate",
+      "1-Aminocyclopentanecarboxylic acid",
+      "Cycloleucine"
+    ],
+    "formula": "C6H11NO2",
+    "exact_mass": 129.079,
+    "mol_weight": 129.157,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "52-52-8"
+      ],
+      "PubChem": [
+        "6689"
+      ],
+      "ChEBI": [
+        "40547"
+      ],
+      "ChEMBL": [
+        "CHEMBL295830"
+      ],
+      "PDB-CCD": [
+        "AC5"
+      ],
+      "NIKKAJI": [
+        "J4.131I"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1z C    17.7818  -14.7927\n            2   C6a C    18.9979  -14.0977\n            3   C1x C    18.9272  -15.6035\n            4   C1x C    16.6622  -15.6035\n            5   N1a N    16.6556  -13.9561\n            6   O6a O    20.2012  -14.8119\n            7   O6a O    18.9979  -12.7013\n            8   C1x C    18.4896  -16.9418\n            9   C1x C    17.0867  -16.9418\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1\n            5     2   6 1\n            6     2   7 2\n            7     3   8 1\n            8     4   9 1\n            9     8   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

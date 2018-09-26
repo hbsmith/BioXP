@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C16348",
+    "name": "cis-3-Chloroallyl aldehyde",
+    "names": [
+      "cis-3-Chloroallyl aldehyde",
+      "cis-3-Chloro-2-propenal"
+    ],
+    "formula": "C3H3ClO",
+    "exact_mass": 89.9872,
+    "mol_weight": 90.5083,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05234",
+      "R05238"
+    ],
+    "pathways": {
+      "map00625": "Chloroalkane and chloroalkene degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.1.1",
+      "1.2.1.3"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205656"
+      ],
+      "ChEBI": [
+        "80465"
+      ],
+      "NIKKAJI": [
+        "J2.802.291C"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C2b C    18.1300  -31.2200\n            2   C2b C    19.5300  -31.2200\n            3   C4a C    20.7424  -31.9200\n            4   O4a O    21.9379  -31.2296\n            5   X   Cl   16.9176  -31.9200\nBOND        4\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     1   5 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

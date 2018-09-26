@@ -1,0 +1,60 @@
+[
+  {
+    "entry_id": "C05607",
+    "name": "Phenyllactate",
+    "names": [
+      "Phenyllactate",
+      "(R)-Phenyllactate"
+    ],
+    "formula": "C9H10O3",
+    "exact_mass": 166.063,
+    "mol_weight": 166.1739,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01370",
+      "R01371",
+      "R07796"
+    ],
+    "pathways": {
+      "map00360": "Phenylalanine metabolism",
+      "map00960": "Tropane, piperidine and pyridine alkaloid biosynthesis",
+      "map01064": "Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid"
+    },
+    "enzymes": [
+      "1.1.1.222",
+      "1.1.1.237",
+      "2.8.3.17"
+    ],
+    "dblinks": {
+      "CAS": [
+        "7326-19-4"
+      ],
+      "PubChem": [
+        "7930"
+      ],
+      "ChEBI": [
+        "32978"
+      ],
+      "KNApSAcK": [
+        "C00000150"
+      ],
+      "PDB-CCD": [
+        "HF2"
+      ],
+      "3DMET": [
+        "B05083"
+      ],
+      "NIKKAJI": [
+        "J70.490C"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    14.3500  -19.0400\n            2   C8x C    14.3500  -20.4400\n            3   C8x C    15.5624  -21.1400\n            4   C8x C    16.7749  -20.4400\n            5   C8y C    16.7749  -19.0400\n            6   C8x C    15.5624  -18.3400\n            7   C1b C    18.0124  -18.3400\n            8   C1c C    19.2249  -19.0400\n            9   C6a C    20.4373  -18.3400\n            10  O6a O    21.6497  -19.0400\n            11  O1a O    19.2249  -20.4398\n            12  O6a O    20.4373  -16.9400\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    8  11 1 #Down\n            12    9  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

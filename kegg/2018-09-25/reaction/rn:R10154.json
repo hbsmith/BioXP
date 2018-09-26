@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10154",
+    "name": "1-deoxy-11-oxopentalenate,NADH:oxygen oxidoreductase (pentalenolactone-D forming)",
+    "definition": "1-Deoxy-11-oxopentalenate + NADPH + H+ + Oxygen <=> Pentalenolactone D + NADP+ + H2O",
+    "equation": "C20400 + C00005 + C00080 + C00007 <=> C20399 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.170"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K18091": "pentalenolactone D synthase [EC:1.14.13.170 1.14.13.171]"
+    }
+  }
+]

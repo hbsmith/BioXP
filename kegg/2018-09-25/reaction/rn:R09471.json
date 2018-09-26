@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09471",
+    "name": "",
+    "definition": "6-Hydroxypseudooxynicotine + 2 H2O <=> 6-Hydroxy-3-succinoylpyridine + Methylamine",
+    "equation": "C01297 + 2 C00001 <=> C19631 + C00218",
+    "comment": "multi-step reaction (oxidative deamination, aldehyde oxidation) incomplete reaction (unidentified acceptors)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

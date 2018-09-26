@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C05596",
+    "name": "p-Hydroxyphenylacetylglycine",
+    "names": [
+      "p-Hydroxyphenylacetylglycine",
+      "4-Hydroxyphenylacetylglycine"
+    ],
+    "formula": "C10H11NO4",
+    "exact_mass": 209.0688,
+    "mol_weight": 209.1986,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04777"
+    ],
+    "pathways": {
+      "map00350": "Tyrosine metabolism"
+    },
+    "enzymes": [
+      "2.3.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7920"
+      ],
+      "ChEBI": [
+        "28595"
+      ],
+      "3DMET": [
+        "B00802"
+      ],
+      "NIKKAJI": [
+        "J628.638K"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8y C    14.2100  -26.8100\n            2   C8x C    14.2100  -28.2100\n            3   C8x C    15.4224  -28.9100\n            4   C8y C    16.6349  -28.2100\n            5   C8x C    16.6349  -26.8100\n            6   C8x C    15.4224  -26.1100\n            7   O1a O    12.9976  -26.1100\n            8   C1b C    17.8660  -28.9210\n            9   C5a C    19.0712  -28.2253\n            10  N1b N    20.2535  -28.9081\n            11  C1b C    21.4475  -28.2188\n            12  C6a C    22.6354  -28.9048\n            13  O6a O    23.8265  -28.2171\n            14  O5a O    19.0716  -26.8104\n            15  O6a O    22.6355  -30.3098\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 1\n            8     4   8 1\n            9     8   9 1\n            10    9  10 1\n            11   10  11 1\n            12   11  12 1\n            13   12  13 1\n            14    9  14 2\n            15   12  15 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

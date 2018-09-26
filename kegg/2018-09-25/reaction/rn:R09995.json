@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09995",
+    "name": "",
+    "definition": "Starch <=> alpha,alpha-Trehalose",
+    "equation": "C00369 <=> C01083",
+    "comment": "multi-step reaction (see R11261+R01824+R11256)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K01214": "isoamylase [EC:3.2.1.68]",
+      "K01236": "maltooligosyltrehalose trehalohydrolase [EC:3.2.1.141]",
+      "K06044": "(1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase [EC:5.4.99.15]"
+    }
+  }
+]

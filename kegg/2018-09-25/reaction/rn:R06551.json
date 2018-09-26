@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06551",
+    "name": "flavanone,2-oxoglutarate:oxygen oxidoreductase (dehydrating)",
+    "definition": "Pentahydroxyflavanone + 2-Oxoglutarate + Oxygen <=> Tricetin + Succinate + CO2 + H2O",
+    "equation": "C05911 + C00026 + C00007 <=> C10192 + C00042 + C00011 + C00001",
+    "comment": "flavone synthase I",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.20.5"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis"
+    },
+    "orthologs": {
+      "K13077": "flavone synthase I [EC:1.14.20.5]"
+    }
+  }
+]

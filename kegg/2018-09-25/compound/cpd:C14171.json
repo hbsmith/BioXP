@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C14171",
+    "name": "Orthoform",
+    "names": [
+      "Orthoform",
+      "Orthocaine"
+    ],
+    "formula": "C8H9NO3",
+    "exact_mass": 167.0582,
+    "mol_weight": 167.162,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map07015": "Local analgesics"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "536-25-4"
+      ],
+      "PubChem": [
+        "7846983"
+      ],
+      "ChEBI": [
+        "34904"
+      ],
+      "NIKKAJI": [
+        "J54.519H"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    20.2741  -22.1877\n            2   C8x C    20.2741  -23.5874\n            3   C8x C    21.4863  -24.2873\n            4   C8y C    22.6985  -23.5874\n            5   C8x C    22.6985  -22.1877\n            6   C8y C    21.4863  -21.4878\n            7   C7a C    23.9120  -24.2881\n            8   O7a O    25.1256  -23.5874\n            9   O6a O    23.9120  -25.6871\n            10  C1a C    26.3385  -24.2877\n            11  O1a O    19.0618  -21.4878\n            12  N1a N    21.4863  -20.0881\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     7   9 2\n            10    8  10 1\n            11    1  11 1\n            12    6  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

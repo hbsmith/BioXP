@@ -1,0 +1,481 @@
+[
+  {
+    "entry_id": "1.18.6.2",
+    "name": "vanadium-dependent nitrogenase",
+    "names": [
+      "vanadium-dependent nitrogenase",
+      "vnfD (gene name)",
+      "vnfG (gene name)",
+      "vnfK (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on iron-sulfur proteins as donors;",
+      "With dinitrogen as acceptor"
+    ],
+    "sysname": "ferredoxin:dinitrogen oxidoreductase (ATP-hydrolysing, vanadium-dependent)",
+    "reaction": "12 reduced ferredoxin + 12 H+ + N2 + 40 ATP + 40 H2O = 12 oxidized ferredoxin + 3 H2 + 2 NH3 + 40 ADP + 40 phosphate [RN:R12084]",
+    "all_reac": "R12084",
+    "iubmb_reactions": [
+      "R12084"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "reduced ferredoxin [CPD:C00138]",
+      "H+ [CPD:C00080]",
+      "N2 [CPD:C00697]",
+      "ATP [CPD:C00002]",
+      "H2O [CPD:C00001]"
+    ],
+    "products": [
+      "oxidized ferredoxin [CPD:C00139]",
+      "H2 [CPD:C00282]",
+      "NH3 [CPD:C00014]",
+      "ADP [CPD:C00008]",
+      "phosphate [CPD:C00009]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "Requires Mg2+. This enzyme, originally isolated from the bacterium Azotobacter vinelandii, is a complex of two components (namely dinitrogen reductase and dinitrogenase). Dinitrogen reductase is a [4Fe-4S] protein, which, in the presence of ATP, transfers an electron from ferredoxin to the dinitrogenase component. Dinitrogenase is a vanadium-iron protein that reduces dinitrogen to two molecules of ammonia in three successive two-electron reductions via diazine and hydrazine. Compared with molybdenum-depedent nitrogenase (EC 1.18.6.1), this enzyme produces more dihydrogen and consumes more ATP per dinitrogen molecule being reduced. Unlike EC 1.18.6.1, this enzyme can also use CO as substrate, producing ethene, ethane and propane [7,9].",
+    "pathways": {
+      "ec00910": "Nitrogen metabolism",
+      "ec01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K22896": "vanadium-dependent nitrogenase alpha chain",
+      "K22897": "vanadium-dependent nitrogenase beta chain",
+      "K22898": "vanadium nitrogenase delta subunit"
+    },
+    "genes": {
+      "avn": [
+        "Avin_02590",
+        "Avin_02600",
+        "Avin_02610"
+      ],
+      "avl": [
+        "AvCA_02590",
+        "AvCA_02600",
+        "AvCA_02610"
+      ],
+      "avd": [
+        "AvCA6_02590",
+        "AvCA6_02600",
+        "AvCA6_02610"
+      ],
+      "acx": [
+        "Achr_2510",
+        "Achr_2520",
+        "Achr_2530"
+      ],
+      "rpa": [
+        "RPA1378",
+        "RPA1379",
+        "RPA1380"
+      ],
+      "rva": [
+        "Rvan_0514",
+        "Rvan_0515",
+        "Rvan_0516"
+      ],
+      "mbry": [
+        "B1812_06630",
+        "B1812_06635",
+        "B1812_06640"
+      ],
+      "abs": [
+        "AZOBR_p350020",
+        "AZOBR_p350021",
+        "AZOBR_p350022"
+      ],
+      "pdu": [
+        "PDUR_11790",
+        "PDUR_11795",
+        "PDUR_11800"
+      ],
+      "ckl": [
+        "CKL_1745",
+        "CKL_1746",
+        "CKL_1747"
+      ],
+      "ckr": [
+        "CKR_1618",
+        "CKR_1619",
+        "CKR_1620"
+      ],
+      "cpas": [
+        "Clopa_3471",
+        "Clopa_3472",
+        "Clopa_3473"
+      ],
+      "cpat": [
+        "CLPA_c14260",
+        "CLPA_c14270",
+        "CLPA_c14280"
+      ],
+      "cpae": [
+        "CPAST_c14260",
+        "CPAST_c14270",
+        "CPAST_c14280"
+      ],
+      "eha": [
+        "Ethha_2312",
+        "Ethha_2313",
+        "Ethha_2314"
+      ],
+      "ava": [
+        "Ava_4026",
+        "Ava_4027"
+      ],
+      "mac": [
+        "MA_1216",
+        "MA_1217",
+        "MA_1218"
+      ],
+      "mba": [
+        "Mbar_A2276",
+        "Mbar_A2277",
+        "Mbar_A2278"
+      ],
+      "mby": [
+        "MSBRM_1347",
+        "MSBRM_1348",
+        "MSBRM_1349"
+      ],
+      "mbw": [
+        "MSBRW_2468",
+        "MSBRW_2469",
+        "MSBRW_2470"
+      ],
+      "mbar": [
+        "MSBR2_1060",
+        "MSBR2_1061",
+        "MSBR2_1062"
+      ],
+      "mbak": [
+        "MSBR3_1011",
+        "MSBR3_1012",
+        "MSBR3_1013"
+      ],
+      "mvc": [
+        "MSVAZ_2227",
+        "MSVAZ_2228",
+        "MSVAZ_2229"
+      ],
+      "mek": [
+        "MSKOL_2226",
+        "MSKOL_2227",
+        "MSKOL_2228"
+      ],
+      "msj": [
+        "MSSAC_3362",
+        "MSSAC_3363",
+        "MSSAC_3364"
+      ],
+      "msz": [
+        "MSSIH_2887",
+        "MSSIH_2888",
+        "MSSIH_2889"
+      ],
+      "msw": [
+        "MSSIT_2931",
+        "MSSIT_2932",
+        "MSSIT_2933"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.18.6.2"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.18.6.2"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.18.6.2"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.18.6.2"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Eady RR",
+          "Richardson TH",
+          "Miller RW",
+          "Hawkins M",
+          "Lowe DJ"
+        ],
+        "title": "The vanadium nitrogenase of Azotobacter chroococcum. Purification and properties of the Fe protein.",
+        "journal": "Biochem J",
+        "volume": "256",
+        "issue": "",
+        "pages": "189-96",
+        "year": "1988",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:2851977]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Miller RW",
+          "Eady RR"
+        ],
+        "title": "Molybdenum and vanadium nitrogenases of Azotobacter chroococcum. Low temperature favours N2 reduction by vanadium nitrogenase.",
+        "journal": "Biochem J",
+        "volume": "256",
+        "issue": "",
+        "pages": "429-32",
+        "year": "1988",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:3223922]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Thorneley RN",
+          "Bergstrom NH",
+          "Eady RR",
+          "Lowe DJ"
+        ],
+        "title": "Vanadium nitrogenase of Azotobacter chroococcum. MgATP-dependent electron transfer within the protein complex.",
+        "journal": "Biochem J",
+        "volume": "257",
+        "issue": "",
+        "pages": "789-94",
+        "year": "1989",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:2784670]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dilworth MJ",
+          "Eldridge ME",
+          "Eady RR"
+        ],
+        "title": "Correction for creatine interference with the direct indophenol measurement of NH3 in steady-state nitrogenase assays.",
+        "journal": "Anal Biochem 207:6-10 (1992) DOI:10.1016/0003-2697(92)90491-O",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:1336937]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dilworth MJ",
+          "Eldridge ME",
+          "Eady RR"
+        ],
+        "title": "The molybdenum and vanadium nitrogenases of Azotobacter chroococcum: effect of elevated temperature on N2 reduction.",
+        "journal": "Biochem J 289",
+        "volume": "( Pt 2)",
+        "issue": "",
+        "pages": "395-400",
+        "year": "1993",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "5  [PMID:8424785]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Eady",
+          "R.R."
+        ],
+        "title": "Current status of structure function relationships of vanadium nitrogenase.",
+        "journal": "Coordinat Chem Rev",
+        "volume": "237",
+        "issue": "",
+        "pages": "23-30",
+        "year": "2003",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "6"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lee CC",
+          "Hu Y",
+          "Ribbe MW"
+        ],
+        "title": "Vanadium nitrogenase reduces CO.",
+        "journal": "Science 329:642 (2010) DOI:10.1126/science.1191455",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "7  [PMID:20689010]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lee CC",
+          "Hu Y",
+          "Ribbe MW"
+        ],
+        "title": "Tracing the hydrogen source of hydrocarbons formed by vanadium nitrogenase.",
+        "journal": "Angew Chem Int Ed Engl 50:5545-7 (2011) DOI:10.1002/anie.201100869",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "8  [PMID:21538750]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sippel D",
+          "Einsle O"
+        ],
+        "title": "The structure of vanadium nitrogenase reveals an unusual bridging ligand.",
+        "journal": "Nat Chem Biol 13:956-960 (2017) DOI:10.1038/nchembio.2428",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "9  [PMID:28692069]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

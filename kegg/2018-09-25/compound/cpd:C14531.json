@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C14531",
+    "name": "Azomycin",
+    "names": [
+      "Azomycin",
+      "2-Nitroimidazole"
+    ],
+    "formula": "C3H3N3O2",
+    "exact_mass": 113.0225,
+    "mol_weight": 113.0748,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10133"
+    ],
+    "pathways": {
+      "map07026": "Antifungal agents"
+    },
+    "enzymes": [
+      "3.5.99.9"
+    ],
+    "dblinks": {
+      "CAS": [
+        "527-73-1"
+      ],
+      "PubChem": [
+        "17395531"
+      ],
+      "ChEBI": [
+        "67135"
+      ],
+      "ChEMBL": [
+        "CHEMBL433637"
+      ],
+      "NIKKAJI": [
+        "J3.641B"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   N4x N    29.6683  -15.5228\n            2   C8x C    29.2545  -16.7879\n            3   C8y C    28.5840  -14.7301\n            4   C8x C    27.9253  -16.7879\n            5   N5x N    27.5055  -15.5228\n            6   N2b N    28.5840  -13.4009 #+\n            7   O3a O    29.7913  -12.7037\n            8   O3a O    27.3400  -12.6833 #-\nBOND        8\n            1     1   2 1\n            2     1   3 1\n            3     2   4 2\n            4     3   5 2\n            5     3   6 1\n            6     4   5 1\n            7     6   7 2\n            8     6   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

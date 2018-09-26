@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "R08167",
+    "name": "3'-phosphoadenylyl-sulfate:indolylmethyl-desulfoglucosinolate sulfotransferase",
+    "definition": "Indolylmethyl-desulfoglucosinolate + 3'-Phosphoadenylyl sulfate <=> Glucobrassicin + Adenosine 3',5'-bisphosphate",
+    "equation": "C16517 + C00053 <=> C05837 + C00054",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.2.24"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism",
+      "rn00966": "Glucosinolate biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+      "K11821": "aromatic desulfoglucosinolate sulfotransferase [EC:2.8.2.24]"
+    }
+  }
+][
+  {
+    "entry_id": "R08167",
+    "name": "3'-phosphoadenylyl-sulfate:indolylmethyl-desulfoglucosinolate sulfotransferase",
+    "definition": "Indolylmethyl-desulfoglucosinolate + 3'-Phosphoadenylyl sulfate <=> Glucobrassicin + Adenosine 3',5'-bisphosphate",
+    "equation": "C16517 + C00053 <=> C05837 + C00054",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.2.24"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism",
+      "rn00966": "Glucosinolate biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+      "K11821": "aromatic desulfoglucosinolate sulfotransferase [EC:2.8.2.24]"
+    }
+  }
+]

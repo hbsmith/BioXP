@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R09845",
+    "name": "CAAX protease",
+    "definition": "S-Farnesyl protein + H2O <=> Protein C-terminal S-farnesyl-L-cysteine + Peptide",
+    "equation": "C20120 + C00001 <=> C04506 + C00012",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.4.22.-",
+      "3.4.24.84"
+    ],
+    "pathways": {
+      "rn00900": "Terpenoid backbone biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K06013": "STE24 endopeptidase [EC:3.4.24.84]",
+      "K08658": "prenyl protein peptidase [EC:3.4.22.-]"
+    }
+  }
+]

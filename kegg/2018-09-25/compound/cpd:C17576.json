@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C17576",
+    "name": "3-Keto-scyllo-inosamine",
+    "names": [
+      "3-Keto-scyllo-inosamine"
+    ],
+    "formula": "C6H11NO5",
+    "exact_mass": 177.0637,
+    "mol_weight": 177.1552,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023921"
+      ],
+      "ChEBI": [
+        "81196"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1y C    12.3900  -12.3900\n            2   C1y C    12.3900  -13.7900\n            3   C5x C    13.6024  -14.4900\n            4   C1y C    14.8149  -13.7900\n            5   C1y C    14.8149  -12.3900\n            6   C1y C    13.6024  -11.6900\n            7   O1a O    13.6024  -10.2902\n            8   O1a O    11.1776  -14.4900\n            9   O1a O    16.0460  -14.5010\n            10  N1a N    11.1776  -11.6900\n            11  O1a O    16.0460  -11.6790\n            12  O5x O    13.6024  -15.8898\nBOND        12\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     6   7 1 #Down\n            8     2   8 1 #Down\n            9     4   9 1 #Down\n            10    1  10 1 #Up\n            11    5  11 1 #Up\n            12    3  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

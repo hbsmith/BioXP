@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09219",
+    "name": "",
+    "definition": "Pyrene-4,5-dione + NADH + H+ <=> 4,5-Dihydroxypyrene + NAD+",
+    "equation": "C18251 + C00004 + C00080 <=> C18250 + C00003",
+    "comment": "quinone reductase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.6.5.-"
+    ],
+    "pathways": {
+      "rn00624": "Polycyclic aromatic hydrocarbon degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

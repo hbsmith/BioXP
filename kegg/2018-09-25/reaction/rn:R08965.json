@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08965",
+    "name": "5,6-Dihydroxyindole-2-carboxylate:oxygen oxidoreductase",
+    "definition": "2 5,6-Dihydroxyindole-2-carboxylate + Oxygen <=> 2 5,6-Indolequinone-2-carboxylic acid + 2 H2O",
+    "equation": "2 C04185 + C00007 <=> 2 C17938 + 2 C00001",
+    "comment": "5,6-dihydroxyindole-2-carboxylate oxidase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.18.-"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00506": "tyrosinase-related protein 1 [EC:1.14.18.-]"
+    }
+  }
+]

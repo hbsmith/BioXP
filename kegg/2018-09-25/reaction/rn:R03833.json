@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03833",
+    "name": "(S)-reticuline,[reduced NADPH---hemoprotein reductase]:oxygen 1,2-oxidoreductase",
+    "definition": "(S)-Reticuline + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 1,2-Dehydroreticuline + [Oxidized NADPH---hemoprotein reductase] + 2 H2O",
+    "equation": "C02105 + C03024 + C00007 <=> C06167 + C03161 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.54"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22093": "1,2-dehydroreticuline synthase/reductase [EC:1.14.19.54 1.5.1.27]"
+    }
+  }
+]

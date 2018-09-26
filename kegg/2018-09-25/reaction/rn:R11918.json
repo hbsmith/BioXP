@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11918",
+    "name": "L-phenylalanine carboxy-lyase (oxidative-deaminating)",
+    "definition": "L-Phenylalanine + Oxygen + H2O <=> Phenylacetaldehyde + CO2 + Ammonia + Hydrogen peroxide",
+    "equation": "C00079 + C00007 + C00001 <=> C00601 + C00011 + C00014 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.109"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism"
+    },
+    "orthologs": {
+      "K22328": "phenylacetaldehyde synthase [EC:4.1.1.109]"
+    }
+  }
+]

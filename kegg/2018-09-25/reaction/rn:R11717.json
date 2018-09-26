@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11717",
+    "name": "3-dehydro-4-phospho-D-erythronate carboxy-lyase",
+    "definition": "3-Dehydro-4-phospho-D-erythronate <=> Glycerone phosphate + CO2",
+    "equation": "C21610 <=> C00111 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.104"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K22130": "3-dehydro-4-phosphotetronate decarboxylase [EC:4.1.1.104]"
+    }
+  }
+]

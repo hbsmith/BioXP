@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06463",
+    "name": "10-deoxymethymycin,reduced ferredoxin:oxygen oxidoreductase (methymycin-forming)",
+    "definition": "10-Deoxymethymycin + 2 Reduced ferredoxin + Oxygen + 2 H+ <=> Methymycin + 2 Oxidized ferredoxin + H2O",
+    "equation": "C11994 + 2 C00138 + C00007 + 2 C00080 <=> C11996 + 2 C00139 + C00001",
+    "comment": "CYP107L1",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.33"
+    ],
+    "pathways": {
+      "rn00522": "Biosynthesis of 12-, 14- and 16-membered macrolides",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16006": "pikromycin synthase [EC:1.14.15.33]"
+    }
+  }
+]

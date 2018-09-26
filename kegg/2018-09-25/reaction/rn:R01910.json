@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01910",
+    "name": "Primary alcohol:(acceptor) oxidoreductase",
+    "definition": "Pyridoxine + Oxygen <=> Isopyridoxal + Hydrogen peroxide",
+    "equation": "C00314 + C00007 <=> C06051 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.99.9"
+    ],
+    "pathways": {
+      "rn00750": "Vitamin B6 metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

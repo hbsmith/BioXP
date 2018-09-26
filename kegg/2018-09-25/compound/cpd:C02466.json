@@ -1,0 +1,101 @@
+[
+  {
+    "entry_id": "C02466",
+    "name": "Trimetaphosphoric acid",
+    "names": [
+      "Trimetaphosphoric acid",
+      "Trimetaphosphate",
+      "cyclo-Triphosphoric acid"
+    ],
+    "formula": "H3P3O9",
+    "exact_mass": 239.899,
+    "mol_weight": 239.9397,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02504"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.6.1.2"
+    ],
+    "dblinks": {
+      "CAS": [
+        "13566-25-1"
+      ],
+      "PubChem": [
+        "5482"
+      ],
+      "ChEBI": [
+        "16517"
+      ],
+      "ChEMBL": [
+        "CHEMBL1620743"
+      ],
+      "3DMET": [
+        "B00445"
+      ],
+      "NIKKAJI": [
+        "J952.309J"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   P1b P    17.4089  -15.4713\n            2   O2x O    18.6255  -14.7726\n            3   O2x O    17.4089  -16.8684\n            4   O1c O    16.1921  -16.1642\n            5   O1c O    17.4030  -14.0682\n            6   P1b P    19.8366  -15.4713\n            7   P1b P    18.6255  -17.5728\n            8   O2x O    19.8366  -16.8684\n            9   O1c O    19.8249  -14.0682\n            10  O1c O    21.0417  -16.1756\n            11  O1c O    19.8307  -18.2715\n            12  O1c O    17.4030  -18.2598\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     2   6 1\n            6     3   7 1\n            7     6   8 1\n            8     6   9 2\n            9     6  10 1\n            10    7  11 1\n            11    7  12 2\n            12    7   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C02466",
+    "name": "Trimetaphosphoric acid",
+    "names": [
+      "Trimetaphosphoric acid",
+      "Trimetaphosphate",
+      "cyclo-Triphosphoric acid"
+    ],
+    "formula": "H3P3O9",
+    "exact_mass": 239.899,
+    "mol_weight": 239.9397,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02504"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.6.1.2"
+    ],
+    "dblinks": {
+      "CAS": [
+        "13566-25-1"
+      ],
+      "PubChem": [
+        "5482"
+      ],
+      "ChEBI": [
+        "16517"
+      ],
+      "ChEMBL": [
+        "CHEMBL1620743"
+      ],
+      "3DMET": [
+        "B00445"
+      ],
+      "NIKKAJI": [
+        "J952.309J"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   P1b P    17.4089  -15.4713\n            2   O2x O    18.6255  -14.7726\n            3   O2x O    17.4089  -16.8684\n            4   O1c O    16.1921  -16.1642\n            5   O1c O    17.4030  -14.0682\n            6   P1b P    19.8366  -15.4713\n            7   P1b P    18.6255  -17.5728\n            8   O2x O    19.8366  -16.8684\n            9   O1c O    19.8249  -14.0682\n            10  O1c O    21.0417  -16.1756\n            11  O1c O    19.8307  -18.2715\n            12  O1c O    17.4030  -18.2598\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     2   6 1\n            6     3   7 1\n            7     6   8 1\n            8     6   9 2\n            9     6  10 1\n            10    7  11 1\n            11    7  12 2\n            12    7   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

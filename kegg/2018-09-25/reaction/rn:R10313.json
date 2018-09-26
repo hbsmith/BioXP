@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10313",
+    "name": "11-oxo-beta-amyrin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (30-hydroxylating)",
+    "definition": "11-Oxo-beta-amyrin + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> 30-Hydroxy-11-oxo-beta-amyrin + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C19943 + C00007 + C03024 <=> C20510 + C03161 + C00001",
+    "comment": "the first step of three-step reaction (see R10316, R10313+R10314+R10315)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.115"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

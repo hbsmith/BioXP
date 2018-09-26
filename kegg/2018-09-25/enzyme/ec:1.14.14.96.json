@@ -1,0 +1,216 @@
+[
+  {
+    "entry_id": "1.14.14.96",
+    "name": "5-O-(4-coumaroyl)-D-quinate 3'-monooxygenase",
+    "names": [
+      "5-O-(4-coumaroyl)-D-quinate 3'-monooxygenase",
+      "5-O-(4-coumaroyl)-D-quinate/shikimate 3'-hydroxylase",
+      "coumaroylquinate(coumaroylshikimate) 3'-monooxygenase",
+      "CYP98A3 (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "trans-5-O-(4-coumaroyl)-D-quinate,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (3'-hydroxylating)",
+    "reaction": "trans-5-O-(4-coumaroyl)-D-quinate + [reduced NADPH---hemoprotein reductase] + O2 = trans-5-O-caffeoyl-D-quinate + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R04342]",
+    "all_reac": "R04342; (other) R06582",
+    "iubmb_reactions": [
+      "R04342"
+    ],
+    "kegg_reactions": [
+      "R06582"
+    ],
+    "substrates": [
+      "trans-5-O-(4-coumaroyl)-D-quinate [CPD:C12208]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "trans-5-O-caffeoyl-D-quinate [CPD:C00852]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein, found in plants. It also acts on trans-5-O-(4-coumaroyl)shikimate.",
+    "pathways": {
+    },
+    "orthologs": {
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.96"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.96"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.96"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.96"
+      ],
+      "CAS": [
+        "112131-08-5"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Kuhnl T",
+          "Koch U",
+          "Heller W",
+          "Wellmann E."
+        ],
+        "title": "Chlorogenic acid biosynthesis: characterization of a light-induced microsomal 5-O-(4-coumaroyl)-D-quinate/shikimate 3'-hydroxylase from carrot (Daucus carota L.) cell suspension cultures.",
+        "journal": "Arch Biochem Biophys 258:226-32 (1987) DOI:10.1016/0003-9861(87)90339-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:2821918]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schoch G",
+          "Goepfert S",
+          "Morant M",
+          "Hehn A",
+          "Meyer D",
+          "Ullmann P",
+          "Werck-Reichhart D"
+        ],
+        "title": "CYP98A3 from Arabidopsis thaliana is a 3'-hydroxylase of phenolic esters, a missing link in the phenylpropanoid pathway.",
+        "journal": "J Biol Chem 276:36566-74 (2001) DOI:10.1074/jbc.M104047200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:11429408]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Franke R",
+          "Humphreys JM",
+          "Hemm MR",
+          "Denault JW",
+          "Ruegger MO",
+          "Cusumano JC",
+          "Chapple C"
+        ],
+        "title": "The Arabidopsis REF8 gene encodes the 3-hydroxylase of phenylpropanoid metabolism.",
+        "journal": "Plant J",
+        "volume": "30",
+        "issue": "",
+        "pages": "33-45",
+        "year": "2002",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:11967091]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Matsuno M",
+          "Compagnon V",
+          "Schoch GA",
+          "Schmitt M",
+          "Debayle D",
+          "Bassard JE",
+          "Pollet B",
+          "Hehn A",
+          "Heintz D",
+          "Ullmann P",
+          "Lapierre C",
+          "Bernier F",
+          "Ehlting J",
+          "Werck-Reichhart D."
+        ],
+        "title": "Evolution of a novel phenolic pathway for pollen development.",
+        "journal": "Science 325:1688-92 (2009) DOI:10.1126/science.1174095",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:19779199]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

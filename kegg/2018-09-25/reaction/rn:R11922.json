@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11922",
+    "name": "17-(4-hydroxyphenyl)heptadecanoate:[acyl-carrier protein] ligase (AMP-forming)",
+    "definition": "ATP + 17-(4-Hydroxyphenyl)heptadecanoate + Acyl-carrier protein <=> AMP + Diphosphate + 17-(4-Hydroxyphenyl)heptadecanoyl-[acp]",
+    "equation": "C00002 + C21446 + C00229 <=> C00020 + C00013 + C21506",
+    "comment": "two-step reaction (see R11537+R11923)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.51"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K21059": "4-hydroxyphenylalkanoate adenylyltransferase [EC:6.2.1.51]"
+    }
+  }
+]

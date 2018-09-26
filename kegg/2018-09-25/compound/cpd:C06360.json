@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C06360",
+    "name": "Propyl cinnamate",
+    "names": [
+      "Propyl cinnamate",
+      "3-Phenylpropenoic acid propyl ester"
+    ],
+    "formula": "C12H14O2",
+    "exact_mass": 190.0994,
+    "mol_weight": 190.2384,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05061"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.3.1.152"
+    ],
+    "dblinks": {
+      "CAS": [
+        "7778-83-8"
+      ],
+      "PubChem": [
+        "8596"
+      ],
+      "ChEBI": [
+        "8501"
+      ],
+      "ChEMBL": [
+        "CHEMBL1911048"
+      ],
+      "3DMET": [
+        "B00953"
+      ],
+      "NIKKAJI": [
+        "J184.149A"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    14.4200  -21.4200\n            2   C8x C    14.4200  -22.8200\n            3   C8x C    15.6324  -23.5200\n            4   C8x C    16.8449  -22.8200\n            5   C8y C    16.8449  -21.4200\n            6   C8x C    15.6324  -20.7200\n            7   C2b C    18.0824  -20.7200\n            8   C2b C    19.2949  -21.4200\n            9   C7a C    20.5073  -20.7200\n            10  O7a O    21.7197  -21.4200\n            11  O6a O    20.5073  -19.3200\n            12  C1b C    22.9173  -20.7285\n            13  C1b C    24.1056  -21.4145\n            14  C1a C    25.2964  -20.7269\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 1\n            11    9  11 2\n            12   10  12 1\n            13   12  13 1\n            14   13  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

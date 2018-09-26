@@ -1,0 +1,101 @@
+[
+  {
+    "entry_id": "C05658",
+    "name": "Indoxyl",
+    "names": [
+      "Indoxyl",
+      "1H-Indol-3-ol"
+    ],
+    "formula": "C8H7NO",
+    "exact_mass": 133.0528,
+    "mol_weight": 133.1473,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02339",
+      "R03911",
+      "R06048"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism"
+    },
+    "enzymes": [
+      "1.14.16.-",
+      "2.4.1.220"
+    ],
+    "dblinks": {
+      "CAS": [
+        "480-93-3"
+      ],
+      "PubChem": [
+        "7969"
+      ],
+      "ChEBI": [
+        "17840"
+      ],
+      "3DMET": [
+        "B00828"
+      ],
+      "NIKKAJI": [
+        "J6.171I"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    13.5100  -19.6700\n            2   C8x C    13.5100  -21.0700\n            3   C8x C    14.7224  -21.7700\n            4   C8y C    15.9349  -21.0700\n            5   C8y C    15.9349  -19.6700\n            6   C8x C    14.7224  -18.9700\n            7   N4x N    17.2664  -21.5026\n            8   C8x C    18.0893  -20.3700\n            9   C8y C    17.2664  -19.2374\n            10  O1a O    17.6975  -17.9106\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    9  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C05658",
+    "name": "Indoxyl",
+    "names": [
+      "Indoxyl",
+      "1H-Indol-3-ol"
+    ],
+    "formula": "C8H7NO",
+    "exact_mass": 133.0528,
+    "mol_weight": 133.1473,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02339",
+      "R03911",
+      "R06048"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism"
+    },
+    "enzymes": [
+      "1.14.16.-",
+      "2.4.1.220"
+    ],
+    "dblinks": {
+      "CAS": [
+        "480-93-3"
+      ],
+      "PubChem": [
+        "7969"
+      ],
+      "ChEBI": [
+        "17840"
+      ],
+      "3DMET": [
+        "B00828"
+      ],
+      "NIKKAJI": [
+        "J6.171I"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    13.5100  -19.6700\n            2   C8x C    13.5100  -21.0700\n            3   C8x C    14.7224  -21.7700\n            4   C8y C    15.9349  -21.0700\n            5   C8y C    15.9349  -19.6700\n            6   C8x C    14.7224  -18.9700\n            7   N4x N    17.2664  -21.5026\n            8   C8x C    18.0893  -20.3700\n            9   C8y C    17.2664  -19.2374\n            10  O1a O    17.6975  -17.9106\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    9  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

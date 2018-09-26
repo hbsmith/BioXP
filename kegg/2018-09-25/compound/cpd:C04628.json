@@ -1,0 +1,74 @@
+[
+  {
+    "entry_id": "C04628",
+    "name": "Coenzyme B",
+    "names": [
+      "Coenzyme B",
+      "N-(7-Mercaptoheptanoyl)threonine 3-O-phosphate",
+      "N-(7-Mercaptoheptanoyl)threonine O3-phosphate",
+      "HTP",
+      "CoB"
+    ],
+    "formula": "C11H22NO7PS",
+    "exact_mass": 343.0855,
+    "mol_weight": 343.3336,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04540",
+      "R04541",
+      "R08217",
+      "R10660",
+      "R11928",
+      "R11931",
+      "R11943",
+      "R11944"
+    ],
+    "pathways": {
+      "map00680": "Methane metabolism",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01200": "Carbon metabolism"
+    },
+    "enzymes": [
+      "1.3.4.1",
+      "1.8.7.3",
+      "1.8.98.1",
+      "1.8.98.4",
+      "1.8.98.5",
+      "1.8.98.6",
+      "2.7.1.-",
+      "2.8.4.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "104302-77-4"
+      ],
+      "PubChem": [
+        "7217"
+      ],
+      "ChEBI": [
+        "28890"
+      ],
+      "KNApSAcK": [
+        "C00000760"
+      ],
+      "PDB-CCD": [
+        "TP7"
+      ],
+      "3DMET": [
+        "B01766"
+      ],
+      "NIKKAJI": [
+        "J372.864A"
+      ]
+    },
+    "kcf": "ATOM        21\n            1   C1a C    12.0604  -16.8971\n            2   C1c C    13.2518  -16.1963\n            3   C1c C    14.4432  -16.8971\n            4   N1b N    15.7047  -16.1963\n            5   C5a C    16.8960  -16.8971\n            6   C1b C    18.0874  -16.1963\n            7   C1b C    19.3489  -16.8971\n            8   C1b C    20.5403  -16.1963\n            9   C1b C    21.7317  -16.8971\n            10  C1b C    22.9231  -16.1963\n            11  C1b C    24.1846  -16.8971\n            12  S1a S    25.3760  -16.1963\n            13  O5a O    16.8960  -18.2987\n            14  C6a C    14.4260  -18.2986\n            15  O6a O    13.2166  -18.9771\n            16  O6a O    15.6438  -19.0220\n            17  O2b O    13.2522  -14.7702\n            18  P1b P    13.2518  -13.3947\n            19  O1c O    14.6534  -13.3947\n            20  O1c O    11.8501  -13.3947\n            21  O1c O    13.2518  -11.9930\nBOND        20\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10   10  11 1\n            11   11  12 1\n            12    5  13 2\n            13    3  14 1 #Down\n            14   14  15 1\n            15   14  16 2\n            16    2  17 1 #Up\n            17   18  19 1\n            18   18  20 1\n            19   18  21 2\n            20   17  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

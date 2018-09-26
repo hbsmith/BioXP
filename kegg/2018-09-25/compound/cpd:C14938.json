@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C14938",
+    "name": "N-[(4-Chlorophenyl)methyl]-N-ethyl-2-pyridinamine",
+    "names": [
+      "N-[(4-Chlorophenyl)methyl]-N-ethyl-2-pyridinamine"
+    ],
+    "formula": "C14H15ClN2",
+    "exact_mass": 246.0924,
+    "mol_weight": 246.7353,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17395936"
+      ],
+      "ChEBI": [
+        "79463"
+      ],
+      "NIKKAJI": [
+        "J2.790.741E"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C8x C    14.9100  -21.3500\n            2   C8x C    14.9100  -22.7500\n            3   C8x C    16.1224  -23.4500\n            4   C8x C    17.3349  -22.7500\n            5   C8y C    17.3349  -21.3500\n            6   N5x N    16.1224  -20.6500\n            7   N1c N    18.5660  -20.6390\n            8   C1b C    19.7712  -21.3347\n            9   C8y C    20.9535  -20.6519\n            10  C8x C    22.1475  -21.3412\n            11  C8x C    23.3599  -20.6412\n            12  C8y C    23.3599  -19.2412\n            13  C8x C    22.1660  -18.5519\n            14  C8x C    20.9535  -19.2519\n            15  X   Cl   24.5834  -18.5346\n            16  C1b C    18.5657  -19.2501\n            17  C1a C    17.3414  -18.5434\nBOND        18\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 2\n            11   10  11 1\n            12   11  12 2\n            13   12  13 1\n            14   13  14 2\n            15    9  14 1\n            16   12  15 1\n            17    7  16 1\n            18   16  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "entry_id": "C00470",
+    "name": "Pectate",
+    "names": [
+      "Pectate",
+      "Pectic acid",
+      "alpha-D-Polygalacturonic acid",
+      "Poly(1,4-alpha-D-galacturonate)",
+      "Poly(1,4-alpha-D-galacturonate)(n)",
+      "(1,4-alpha-D-Galacturonide)n",
+      "[(1->4)-alpha-D-Galacturonosyl]n",
+      "De-esterified pectin",
+      "(1,4-alpha-D-Galacturonosyl)n"
+    ],
+    "formula": "C12H18O13(C6H8O6)n-2",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "Same as: G10506",
+    "comment": "",
+    "reactions": [
+      "R01982",
+      "R02360",
+      "R02361",
+      "R02362",
+      "R04320",
+      "R04343",
+      "R08694"
+    ],
+    "pathways": {
+      "map00040": "Pentose and glucuronate interconversions",
+      "map01100": "Metabolic pathways",
+      "map02010": "ABC transporters"
+    },
+    "enzymes": [
+      "2.4.1.43",
+      "3.1.1.11",
+      "3.2.1.15",
+      "3.2.1.67",
+      "4.2.2.2",
+      "4.2.2.9"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3753"
+      ],
+      "ChEBI": [
+        "15446",
+        "68837"
+      ]
+    },
+    "kcf": "ATOM        37\n            1   C1y C    33.0400  -17.5000\n            2   C1y C    33.0400  -18.9000\n            3   C1y C    34.2524  -19.6000\n            4   C1y C    35.4649  -18.9000\n            5   C1y C    35.4649  -17.5000\n            6   O2x O    34.2524  -16.8000\n            7   O1a O    36.6773  -16.8000\n            8   O1a O    36.6773  -19.6000\n            9   C6a C    31.8276  -16.8000\n            10  O2a O    31.8276  -19.6000\n            11  O1a O    34.2524  -21.0000\n            12  C1y C    29.2151  -20.5100\n            13  O2x O    27.9840  -19.7990\n            14  C1y C    26.7715  -20.4988\n            15  C1y C    26.7713  -21.8988\n            16  C1y C    28.0024  -22.6098\n            17  C1y C    29.2149  -21.9100\n            18  C6a C    25.5590  -19.7988\n            19  O2a O    25.5588  -22.5988\n            20  O1a O    28.0024  -24.0098\n            21  O1a O    30.2874  -22.8900\n            22  C1y C    22.5264  -23.8588\n            23  O2x O    21.3290  -23.1675\n            24  C1y C    20.1166  -23.8676\n            25  C1y C    20.1166  -25.2676\n            26  C1y C    21.3140  -25.9588\n            27  C1y C    22.5264  -25.2588\n            28  O1a O    23.7389  -25.9588\n            29  C6a C    18.9041  -23.1676\n            30  O1a O    18.9042  -25.9676\n            31  O1a O    21.3140  -27.3588\n            32  O6a O    31.8276  -15.4000\n            33  O6a O    30.6151  -17.5000\n            34  O6a O    25.5590  -18.3988\n            35  O6a O    24.3466  -20.4988\n            36  O6a O    18.9041  -21.7676\n            37  O6a O    17.6917  -23.8676\nBOND        39\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     5   7 1 #Either\n            8     4   8 1 #Down\n            9     1   9 1 #Up\n            10    2  10 1 #Up\n            11    3  11 1 #Up\n            12   12  10 1 #Down\n            13   12  13 1\n            14   13  14 1\n            15   14  15 1\n            16   15  16 1\n            17   16  17 1\n            18   12  17 1\n            19   14  18 1 #Up\n            20   15  19 1 #Up\n            21   16  20 1 #Up\n            22   17  21 1 #Down\n            23   22  19 1 #Down\n            24   22  23 1\n            25   23  24 1\n            26   24  25 1\n            27   25  26 1\n            28   26  27 1\n            29   22  27 1\n            30   27  28 1 #Down\n            31   24  29 1 #Up\n            32   25  30 1 #Up\n            33   26  31 1 #Up\n            34    9  32 1\n            35    9  33 2\n            36   18  34 1\n            37   18  35 2\n            38   29  36 1\n            39   29  37 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C00470",
+    "name": "Pectate",
+    "names": [
+      "Pectate",
+      "Pectic acid",
+      "alpha-D-Polygalacturonic acid",
+      "Poly(1,4-alpha-D-galacturonate)",
+      "Poly(1,4-alpha-D-galacturonate)(n)",
+      "(1,4-alpha-D-Galacturonide)n",
+      "[(1->4)-alpha-D-Galacturonosyl]n",
+      "De-esterified pectin",
+      "(1,4-alpha-D-Galacturonosyl)n"
+    ],
+    "formula": "C12H18O13(C6H8O6)n-2",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "Same as: G10506",
+    "comment": "",
+    "reactions": [
+      "R01982",
+      "R02360",
+      "R02361",
+      "R02362",
+      "R04320",
+      "R04343",
+      "R08694"
+    ],
+    "pathways": {
+      "map00040": "Pentose and glucuronate interconversions",
+      "map01100": "Metabolic pathways",
+      "map02010": "ABC transporters"
+    },
+    "enzymes": [
+      "2.4.1.43",
+      "3.1.1.11",
+      "3.2.1.15",
+      "3.2.1.67",
+      "4.2.2.2",
+      "4.2.2.9"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3753"
+      ],
+      "ChEBI": [
+        "15446",
+        "68837"
+      ]
+    },
+    "kcf": "ATOM        37\n            1   C1y C    33.0400  -17.5000\n            2   C1y C    33.0400  -18.9000\n            3   C1y C    34.2524  -19.6000\n            4   C1y C    35.4649  -18.9000\n            5   C1y C    35.4649  -17.5000\n            6   O2x O    34.2524  -16.8000\n            7   O1a O    36.6773  -16.8000\n            8   O1a O    36.6773  -19.6000\n            9   C6a C    31.8276  -16.8000\n            10  O2a O    31.8276  -19.6000\n            11  O1a O    34.2524  -21.0000\n            12  C1y C    29.2151  -20.5100\n            13  O2x O    27.9840  -19.7990\n            14  C1y C    26.7715  -20.4988\n            15  C1y C    26.7713  -21.8988\n            16  C1y C    28.0024  -22.6098\n            17  C1y C    29.2149  -21.9100\n            18  C6a C    25.5590  -19.7988\n            19  O2a O    25.5588  -22.5988\n            20  O1a O    28.0024  -24.0098\n            21  O1a O    30.2874  -22.8900\n            22  C1y C    22.5264  -23.8588\n            23  O2x O    21.3290  -23.1675\n            24  C1y C    20.1166  -23.8676\n            25  C1y C    20.1166  -25.2676\n            26  C1y C    21.3140  -25.9588\n            27  C1y C    22.5264  -25.2588\n            28  O1a O    23.7389  -25.9588\n            29  C6a C    18.9041  -23.1676\n            30  O1a O    18.9042  -25.9676\n            31  O1a O    21.3140  -27.3588\n            32  O6a O    31.8276  -15.4000\n            33  O6a O    30.6151  -17.5000\n            34  O6a O    25.5590  -18.3988\n            35  O6a O    24.3466  -20.4988\n            36  O6a O    18.9041  -21.7676\n            37  O6a O    17.6917  -23.8676\nBOND        39\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     5   7 1 #Either\n            8     4   8 1 #Down\n            9     1   9 1 #Up\n            10    2  10 1 #Up\n            11    3  11 1 #Up\n            12   12  10 1 #Down\n            13   12  13 1\n            14   13  14 1\n            15   14  15 1\n            16   15  16 1\n            17   16  17 1\n            18   12  17 1\n            19   14  18 1 #Up\n            20   15  19 1 #Up\n            21   16  20 1 #Up\n            22   17  21 1 #Down\n            23   22  19 1 #Down\n            24   22  23 1\n            25   23  24 1\n            26   24  25 1\n            27   25  26 1\n            28   26  27 1\n            29   22  27 1\n            30   27  28 1 #Down\n            31   24  29 1 #Up\n            32   25  30 1 #Up\n            33   26  31 1 #Up\n            34    9  32 1\n            35    9  33 2\n            36   18  34 1\n            37   18  35 2\n            38   29  36 1\n            39   29  37 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R02978",
+    "name": "Sphinganine:NADP+ 3-oxidoreductase",
+    "definition": "Sphinganine + NADP+ <=> 3-Dehydrosphinganine + NADPH + H+",
+    "equation": "C00836 + C00006 <=> C02934 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.102"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K04708": "3-dehydrosphinganine reductase [EC:1.1.1.102]"
+    }
+  }
+][
+  {
+    "entry_id": "R02978",
+    "name": "Sphinganine:NADP+ 3-oxidoreductase",
+    "definition": "Sphinganine + NADP+ <=> 3-Dehydrosphinganine + NADPH + H+",
+    "equation": "C00836 + C00006 <=> C02934 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.102"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K04708": "3-dehydrosphinganine reductase [EC:1.1.1.102]"
+    }
+  }
+]

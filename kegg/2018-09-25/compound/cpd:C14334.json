@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C14334",
+    "name": "Propoxur",
+    "names": [
+      "Propoxur",
+      "Aprocarb",
+      "2-Isopropoxyphenyl N-methylcarbamate"
+    ],
+    "formula": "C11H15NO3",
+    "exact_mass": 209.1052,
+    "mol_weight": 209.2417,
+    "remark": "Same as: D08442",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "114-26-1"
+      ],
+      "PubChem": [
+        "17395334"
+      ],
+      "ChEBI": [
+        "34938"
+      ],
+      "ChEMBL": [
+        "CHEMBL446060"
+      ],
+      "NIKKAJI": [
+        "J2.893B"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8y C    17.4369  -16.5351\n            2   C8x C    17.4528  -19.3392\n            3   C8x C    16.2407  -18.6486\n            4   C8x C    16.2327  -17.2464\n            5   O7a O    17.4298  -15.1325\n            6   C7a C    16.2248  -14.4349\n            7   N1b N    15.0128  -15.1325\n            8   O6a O    16.2248  -13.0325\n            9   C8x C    18.5941  -18.6349\n            10  C8y C    18.6496  -17.2372\n            11  O2a O    19.8618  -16.5698\n            12  C1c C    21.0857  -17.3096\n            13  C1a C    22.3099  -16.6354\n            14  C1a C    21.0577  -18.7625\n            15  C1a C    13.7714  -14.4134\nBOND        15\n            1     6   7 1\n            2     2   3 2\n            3     3   4 1\n            4     4   1 2\n            5     5   1 1\n            6     1  10 1\n            7     5   6 1\n            8     9  10 2\n            9     9   2 1\n            10    6   8 2\n            11   10  11 1\n            12   11  12 1\n            13   12  13 1\n            14   12  14 1\n            15    7  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

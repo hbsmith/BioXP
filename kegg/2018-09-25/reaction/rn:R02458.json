@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02458",
+    "name": "D-Arginine amidinohydrolase",
+    "definition": "D-Arginine + H2O <=> D-Ornithine + Urea",
+    "equation": "C00792 + C00001 <=> C00515 + C00086",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.3.10"
+    ],
+    "pathways": {
+      "rn00472": "D-Arginine and D-ornithine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

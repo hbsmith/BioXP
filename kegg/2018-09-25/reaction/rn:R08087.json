@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08087",
+    "name": "",
+    "definition": "(R)-(+)-Citronellal + NAD+ + H2O <=> Citronellate + NADH + H+",
+    "equation": "C09848 + C00003 + C00001 <=> C16462 + C00004 + C00080",
+    "comment": "citronellal dehydrogenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.-"
+    ],
+    "pathways": {
+      "rn00281": "Geraniol degradation"
+    },
+    "orthologs": {
+      "K13774": "citronellol/citronellal dehydrogenase",
+      "K13775": "citronellol/citronellal dehydrogenase"
+    }
+  }
+]

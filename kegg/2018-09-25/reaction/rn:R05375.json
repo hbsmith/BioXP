@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05375",
+    "name": "4-Hydroxyphthalate carboxy-lyase",
+    "definition": "4-Hydroxyphthalate <=> 3-Hydroxybenzoate + CO2",
+    "equation": "C06680 <=> C00587 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.55"
+    ],
+    "pathways": {
+      "rn00624": "Polycyclic aromatic hydrocarbon degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K04102": "4,5-dihydroxyphthalate decarboxylase [EC:4.1.1.55]"
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "entry_id": "2.1.5.1",
+    "name": "sesamin methylene transferase",
+    "names": [
+      "sesamin methylene transferase",
+      "sesA (gene name)"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring one-carbon groups;",
+      "Methylenetransferases"
+    ],
+    "sysname": "(+)-sesamin:tetrahydrofolate N-methylenetransferase",
+    "reaction": "(1) (+)-sesamin + tetrahydrofolate = (+)-demethylpiperitol + 5,10-methylenetetrahydrofolate [RN:R11955]; (2) (+)-demethylpiperitol + tetrahydrofolate = (+)-didemethylpinoresinol + 5,10-methylenetetrahydrofolate [RN:R11956]",
+    "all_reac": "R11955 R11956",
+    "iubmb_reactions": [
+      "R11955 R11956"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "(+)-sesamin [CPD:C10882]",
+      "tetrahydrofolate [CPD:C00101]",
+      "(+)-demethylpiperitol [CPD:C21801]"
+    ],
+    "products": [
+      "(+)-demethylpiperitol [CPD:C21801]",
+      "5,10-methylenetetrahydrofolate [CPD:C00143]",
+      "(+)-didemethylpinoresinol [CPD:C21802]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "This enzyme was characterized from the bacterium Sinomonas sp. No.22. It catalyses a cleavage of a methylene bridge, followed by the transfer of the methylene group to tetrahydrofolate. The enzyme is also active with (+)-episesamin, (-)-asarinin, (+)-sesaminol, (+)-sesamolin, and piperine.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22578": "sesamin methylene transferase"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.1.5.1"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.1.5.1"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.1.5.1"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.1.5.1"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Kumano T",
+          "Fujiki E",
+          "Hashimoto Y",
+          "Kobayashi M"
+        ],
+        "title": "Discovery of a sesamin-metabolizing microorganism and a new enzyme.",
+        "journal": "Proc Natl Acad Sci U S A 113:9087-92 (2016) DOI:10.1073/pnas.1605050113",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:27444012]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "entry_id": "C21611",
+    "name": "3-Dehydro-4-phospho-L-erythronate",
+    "names": [
+      "3-Dehydro-4-phospho-L-erythronate"
+    ],
+    "formula": "C4H7O8P",
+    "exact_mass": 213.9879,
+    "mol_weight": 214.0673,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11706",
+      "R11716"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.7.1.217",
+      "4.1.1.104"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "340125669"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1c C    16.6258  -16.5556\n            2   C5a C    17.8885  -15.8541\n            3   C6a C    15.4332  -15.8541\n            4   O1a O    16.6258  -17.9586\n            5   C1b C    19.0811  -16.5556\n            6   O5a O    17.8885  -14.4511\n            7   O6a O    14.2406  -16.5556\n            8   O6a O    15.4332  -14.4511\n            9   O2b O    20.2736  -15.8541\n            10  P1b P    21.6766  -15.8541\n            11  O1c O    21.6766  -14.4511\n            12  O1c O    23.0797  -15.8541\n            13  O1c O    21.6766  -17.2571\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     3   8 2\n            8     5   9 1\n            9     9  10 1\n            10   10  11 2\n            11   10  12 1\n            12   10  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

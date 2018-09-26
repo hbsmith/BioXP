@@ -1,0 +1,28 @@
+[
+  {
+    "entry_id": "R00782",
+    "name": "L-cysteine hydrogen-sulfide-lyase (deaminating; pyruvate-forming)",
+    "definition": "L-Cysteine + H2O <=> Hydrogen sulfide + Pyruvate + Ammonia",
+    "equation": "C00097 + C00001 <=> C00283 + C00022 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.1",
+      "4.4.1.8",
+      "4.4.1.28"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01758": "cystathionine gamma-lyase [EC:4.4.1.1]",
+      "K01760": "cystathionine beta-lyase [EC:4.4.1.8]",
+      "K14155": "cystathione beta-lyase [EC:4.4.1.8]",
+      "K17217": "cystathionine gamma-lyase / homocysteine desulfhydrase [EC:4.4.1.1 4.4.1.2]",
+      "K20021": "L-cysteine desulfidase [EC:4.4.1.28]",
+      "K22207": "L-cysteine desulfhydrase [EC:4.4.1.28]"
+    }
+  }
+]

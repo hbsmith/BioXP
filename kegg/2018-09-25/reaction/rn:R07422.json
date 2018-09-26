@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R07422",
+    "name": "3-hydroxyindolin-2-one,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (2-hydroxy-2H-1,4-benzoxazin-3(4H)-one-forming)",
+    "definition": "3-Hydroxyindolin-2-one + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> HBOA + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C11130 + C03024 + C00007 <=> C15769 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.109"
+    ],
+    "pathways": {
+      "rn00402": "Benzoxazinoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13225": "3-hydroxyindolin-2-one monooxygenase [EC:1.14.14.109]"
+    }
+  }
+][
+  {
+    "entry_id": "R07422",
+    "name": "3-hydroxyindolin-2-one,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (2-hydroxy-2H-1,4-benzoxazin-3(4H)-one-forming)",
+    "definition": "3-Hydroxyindolin-2-one + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> HBOA + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C11130 + C03024 + C00007 <=> C15769 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.109"
+    ],
+    "pathways": {
+      "rn00402": "Benzoxazinoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13225": "3-hydroxyindolin-2-one monooxygenase [EC:1.14.14.109]"
+    }
+  }
+]

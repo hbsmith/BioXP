@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10508",
+    "name": "lycopene cyclase",
+    "definition": "3,4-Dehydrolycopene <=> Torulene",
+    "equation": "C15867 <=> C08613",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.19"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K17841": "15-cis-phytoene synthase / lycopene beta-cyclase [EC:2.5.1.32 5.5.1.19]"
+    }
+  }
+]

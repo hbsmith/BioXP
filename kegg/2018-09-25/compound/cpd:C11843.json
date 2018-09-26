@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C11843",
+    "name": "2 -(Butylamido)-4-hydroxybutanoic acid",
+    "names": [
+      "2 -(Butylamido)-4-hydroxybutanoic acid"
+    ],
+    "formula": "C8H15NO4",
+    "exact_mass": 189.1001,
+    "mol_weight": 189.209,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "14005"
+      ],
+      "ChEBI": [
+        "29466"
+      ],
+      "NIKKAJI": [
+        "J2.777.595K"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1a C    23.7744  -20.2424\n            2   C1b C    24.9870  -19.5424\n            3   C1b C    26.1993  -20.2424\n            4   C5a C    27.4119  -19.5424\n            5   N1b N    28.6245  -20.2424\n            6   C1c C    29.8370  -19.5424\n            7   C6a C    31.0494  -20.2424\n            8   C1b C    29.8370  -18.1423\n            9   C1b C    31.0435  -17.4282\n            10  O1a O    32.2526  -18.1282\n            11  O5a O    27.4719  -18.1353\n            12  O6a O    31.1065  -21.6355\n            13  O6a O    32.2652  -19.5481\nBOND        12\n            1     6   7 1\n            2     3   4 1\n            3     6   8 1\n            4     8   9 1\n            5     4   5 1\n            6     9  10 1\n            7     2   3 1\n            8     4  11 2\n            9     5   6 1\n            10    7  12 2\n            11    1   2 1\n            12    7  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

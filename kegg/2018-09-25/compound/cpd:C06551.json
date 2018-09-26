@@ -1,0 +1,58 @@
+[
+  {
+    "entry_id": "C06551",
+    "name": "Atrazine",
+    "names": [
+      "Atrazine"
+    ],
+    "formula": "C8H14ClN5",
+    "exact_mass": 215.0938,
+    "mol_weight": 215.6833,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05558",
+      "R05564",
+      "R05565"
+    ],
+    "pathways": {
+      "map00791": "Atrazine degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.15.-",
+      "3.8.1.8"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1912-24-9"
+      ],
+      "PubChem": [
+        "8780"
+      ],
+      "ChEBI": [
+        "15930"
+      ],
+      "ChEMBL": [
+        "CHEMBL15063"
+      ],
+      "LIPIDMAPS": [
+        "LMFA08020193"
+      ],
+      "PDB-CCD": [
+        "ATZ"
+      ],
+      "NIKKAJI": [
+        "J3.685D"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    30.0737  -18.3705\n            2   N5x N    28.8626  -19.0726\n            3   N5x N    30.0737  -16.9722\n            4   N1b N    31.2849  -19.0668\n            5   C8y C    27.6455  -18.3705\n            6   C8y C    28.8626  -16.2701\n            7   C1c C    32.4960  -18.3705\n            8   N5x N    27.6455  -16.9722\n            9   N1b N    26.4344  -19.0726\n            10  X   Cl   28.8626  -14.8716\n            11  C1a C    33.7070  -19.0668\n            12  C1a C    32.4960  -16.9663\n            13  C1b C    25.2232  -18.3705\n            14  C1a C    24.0123  -19.0726\nBOND        14\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 2\n            6     4   7 1\n            7     5   8 2\n            8     5   9 1\n            9     6  10 1\n            10    7  11 1\n            11    7  12 1\n            12    9  13 1\n            13   13  14 1\n            14    6   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

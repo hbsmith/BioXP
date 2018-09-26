@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R04265",
+    "name": "CDP-alpha-D-paratose:NADP+ 4-oxidoreductase",
+    "definition": "CDP-3,6-dideoxy-D-glucose + NADP+ <=> CDP-4-dehydro-3,6-dideoxy-D-glucose + NADPH + H+",
+    "equation": "C03598 + C00006 <=> C04297 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.342"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K12453": "CDP-paratose synthetase [EC:1.1.1.342]"
+    }
+  }
+][
+  {
+    "entry_id": "R04265",
+    "name": "CDP-alpha-D-paratose:NADP+ 4-oxidoreductase",
+    "definition": "CDP-3,6-dideoxy-D-glucose + NADP+ <=> CDP-4-dehydro-3,6-dideoxy-D-glucose + NADPH + H+",
+    "equation": "C03598 + C00006 <=> C04297 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.342"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K12453": "CDP-paratose synthetase [EC:1.1.1.342]"
+    }
+  }
+]

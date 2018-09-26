@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02016",
+    "name": "NADPH:oxidized-thioredoxin oxidoreductase",
+    "definition": "Thioredoxin + NADP+ <=> Thioredoxin disulfide + NADPH + H+",
+    "equation": "C00342 + C00006 <=> C00343 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.1.9"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00384": "thioredoxin reductase (NADPH) [EC:1.8.1.9]"
+    }
+  }
+]

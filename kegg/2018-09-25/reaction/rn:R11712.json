@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11712",
+    "name": "",
+    "definition": "2 L-Arginine + 2 Reduced flavodoxin + 2 Oxygen <=> 2 N(omega)-Hydroxyarginine + 2 Oxidized flavodoxin + 2 H2O",
+    "equation": "2 C00062 + 2 C02745 + 2 C00007 <=> 2 C05933 + 2 C02869 + 2 C00001",
+    "comment": "the first step of two-step reaction (see R11711, R11712+R11713)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.47"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism"
+    },
+    "orthologs": {
+      "K00491": "nitric-oxide synthase, bacterial [EC:1.14.14.47]"
+    }
+  }
+]

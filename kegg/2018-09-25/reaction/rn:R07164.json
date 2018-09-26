@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R07164",
+    "name": "L-aspartate:NAD+ oxidoreductase (deaminating)",
+    "definition": "L-Aspartate + H2O + NAD+ <=> Oxaloacetate + Ammonia + NADH + H+",
+    "equation": "C00049 + C00001 + C00003 <=> C00036 + C00014 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.1.21"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

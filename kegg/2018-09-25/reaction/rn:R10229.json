@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R10229",
+    "name": "agroclavine:NADP+ oxidoreductase",
+    "definition": "Agroclavine + NADP+ <=> 6,8-Dimethyl-6,7,8,9-tetradehydroergoline + NADPH + H+",
+    "equation": "C09023 + C00006 <=> C20457 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.1.46"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21819": "agroclavine dehydrogenase [EC:1.5.1.46]"
+    }
+  }
+][
+  {
+    "entry_id": "R10229",
+    "name": "agroclavine:NADP+ oxidoreductase",
+    "definition": "Agroclavine + NADP+ <=> 6,8-Dimethyl-6,7,8,9-tetradehydroergoline + NADPH + H+",
+    "equation": "C09023 + C00006 <=> C20457 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.1.46"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21819": "agroclavine dehydrogenase [EC:1.5.1.46]"
+    }
+  }
+]

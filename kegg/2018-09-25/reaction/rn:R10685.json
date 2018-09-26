@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10685",
+    "name": "NAD+:glycine ADP-D-ribosyltransferase (dehydroalanine-producing)",
+    "definition": "NAD+ + Glycine + [Protein]-L-cysteine <=> ADP-5-ethyl-4-methylthiazole-2-carboxylate + Nicotinamide + [Protein]-dehydroalanine + 3 H2O",
+    "equation": "C00003 + C00037 + C02743 <=> C20784 + C00153 + C21861 + 3 C00001",
+    "comment": "thiamine thiazole synthase multi-step reaction Sulfur donor is enzyme itself (one cystein residue looses H2S to form dehydroalanie residue)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.2.60"
+    ],
+    "pathways": {
+      "rn00730": "Thiamine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03146": "cysteine-dependent adenosine diphosphate thiazole synthase [EC:2.4.2.60]"
+    }
+  }
+]

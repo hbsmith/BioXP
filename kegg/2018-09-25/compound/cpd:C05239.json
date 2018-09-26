@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C05239",
+    "name": "5-Aminoimidazole",
+    "names": [
+      "5-Aminoimidazole",
+      "Aminoimidazole",
+      "4-Aminoimidazole"
+    ],
+    "formula": "C3H5N3",
+    "exact_mass": 83.0483,
+    "mol_weight": 83.0919,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04731",
+      "R04732"
+    ],
+    "pathways": {
+      "map00230": "Purine metabolism"
+    },
+    "enzymes": [
+      "3.5.4.8",
+      "4.1.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "4919-03-3"
+      ],
+      "PubChem": [
+        "7633"
+      ],
+      "ChEBI": [
+        "16607"
+      ],
+      "3DMET": [
+        "B00762"
+      ],
+      "NIKKAJI": [
+        "J507.002C"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C8x C    19.6000  -19.8100\n            2   C8y C    19.6000  -21.2100\n            3   N4x N    20.9315  -21.6426\n            4   C8x C    21.7544  -20.5100\n            5   N5x N    20.9315  -19.3774\n            6   N1a N    18.4674  -22.0329\nBOND        6\n            1     1   2 2\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     1   5 1\n            6     2   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08888",
+    "name": "",
+    "definition": "3-Phosphinomethylmalate <=> Deamino-alpha-keto-demethylphosphinothricin",
+    "equation": "C21372 <=> C17948",
+    "comment": "multi-step reaction (similar to R01899+R00268) enzyme not yet characterized incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+    }
+  }
+]

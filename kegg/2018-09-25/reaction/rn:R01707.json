@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01707",
+    "name": "pyridoxal:NAD+ 4-oxidoreductase",
+    "definition": "Pyridoxal + NAD+ <=> 4-Pyridoxolactone + NADH + H+",
+    "equation": "C00250 + C00003 <=> C00971 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.107"
+    ],
+    "pathways": {
+      "rn00750": "Vitamin B6 metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K18609": "pyridoxal 4-dehydrogenase [EC:1.1.1.107]"
+    }
+  }
+]

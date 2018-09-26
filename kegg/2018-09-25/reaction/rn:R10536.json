@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10536",
+    "name": "dTDP-alpha-D-fucopyranose furanomutase",
+    "definition": "dTDP-D-fucose <=> dTDP-alpha-D-fucofuranose",
+    "equation": "C07277 <=> C20682",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.99.59"
+    ],
+    "pathways": {
+      "rn00523": "Polyketide sugar unit biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20678": "dTDP-fucopyranose mutase [EC:5.4.99.59]"
+    }
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "entry_id": "C15987",
+    "name": "4-Methylaminobutyrate",
+    "names": [
+      "4-Methylaminobutyrate",
+      "gamma-N-Methylaminobutyrate"
+    ],
+    "formula": "C5H11NO2",
+    "exact_mass": 117.079,
+    "mol_weight": 117.1463,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07515",
+      "R10101",
+      "R10102"
+    ],
+    "pathways": {
+      "map00760": "Nicotinate and nicotinamide metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.5.3.19",
+      "1.5.3.21",
+      "3.7.1.19"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1119-48-8"
+      ],
+      "PubChem": [
+        "47205300"
+      ],
+      "ChEBI": [
+        "37755"
+      ],
+      "ChEMBL": [
+        "CHEMBL2074955"
+      ],
+      "NIKKAJI": [
+        "J231.911J"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   O6a O    39.2273  -22.1678\n            2   C6a C    38.0377  -21.4783\n            3   C1b C    36.8420  -22.1678\n            4   O6a O    38.0377  -20.3205\n            5   C1b C    35.6525  -21.4783\n            6   C1b C    34.4629  -22.2395\n            7   N1b N    32.8412  -21.4150\n            8   C1a C    31.6455  -22.1047\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n            4     3   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C15987",
+    "name": "4-Methylaminobutyrate",
+    "names": [
+      "4-Methylaminobutyrate",
+      "gamma-N-Methylaminobutyrate"
+    ],
+    "formula": "C5H11NO2",
+    "exact_mass": 117.079,
+    "mol_weight": 117.1463,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07515",
+      "R10101",
+      "R10102"
+    ],
+    "pathways": {
+      "map00760": "Nicotinate and nicotinamide metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.5.3.19",
+      "1.5.3.21",
+      "3.7.1.19"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1119-48-8"
+      ],
+      "PubChem": [
+        "47205300"
+      ],
+      "ChEBI": [
+        "37755"
+      ],
+      "ChEMBL": [
+        "CHEMBL2074955"
+      ],
+      "NIKKAJI": [
+        "J231.911J"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   O6a O    39.2273  -22.1678\n            2   C6a C    38.0377  -21.4783\n            3   C1b C    36.8420  -22.1678\n            4   O6a O    38.0377  -20.3205\n            5   C1b C    35.6525  -21.4783\n            6   C1b C    34.4629  -22.2395\n            7   N1b N    32.8412  -21.4150\n            8   C1a C    31.6455  -22.1047\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n            4     3   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

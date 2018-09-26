@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R01558",
+    "name": "oxalate:CoA ligase (AMP-forming)",
+    "definition": "ATP + Oxalate + CoA <=> AMP + Diphosphate + Oxalyl-CoA",
+    "equation": "C00002 + C00209 + C00010 <=> C00020 + C00013 + C00313",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.8"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K22133": "oxalate---CoA ligase [EC:6.2.1.8]"
+    }
+  }
+][
+  {
+    "entry_id": "R01558",
+    "name": "oxalate:CoA ligase (AMP-forming)",
+    "definition": "ATP + Oxalate + CoA <=> AMP + Diphosphate + Oxalyl-CoA",
+    "equation": "C00002 + C00209 + C00010 <=> C00020 + C00013 + C00313",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.8"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K22133": "oxalate---CoA ligase [EC:6.2.1.8]"
+    }
+  }
+]

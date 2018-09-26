@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R03504",
+    "name": "7,8-dihydroneopterin glycolaldehyde-lyase [6-(hydroxymethyl)-7,8-dihydropterin-forming]",
+    "definition": "7,8-Dihydroneopterin <=> Glycolaldehyde + 6-(Hydroxymethyl)-7,8-dihydropterin",
+    "equation": "C04874 <=> C00266 + C01300",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.2.25"
+    ],
+    "pathways": {
+      "rn00790": "Folate biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01633": "7,8-dihydroneopterin aldolase/epimerase/oxygenase [EC:4.1.2.25 5.1.99.8 1.13.11.81]",
+      "K09739": "dihydroneopterin aldolase [EC:4.1.2.25]",
+      "K13939": "dihydroneopterin aldolase / 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase / dihydropteroate synthase [EC:4.1.2.25 2.7.6.3 2.5.1.15]",
+      "K13940": "dihydroneopterin aldolase / 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:4.1.2.25 2.7.6.3]"
+    }
+  }
+]

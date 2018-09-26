@@ -1,0 +1,201 @@
+[
+  {
+    "entry_id": "3.1.1.78",
+    "name": "polyneuridine-aldehyde esterase",
+    "names": [
+      "polyneuridine-aldehyde esterase",
+      "polyneuridine aldehyde esterase",
+      "PNAE"
+    ],
+    "classes": [
+      "Hydrolases;",
+      "Acting on ester bonds;",
+      "Carboxylic-ester hydrolases"
+    ],
+    "sysname": "polyneuridine aldehyde hydrolase (decarboxylating)",
+    "reaction": "polyneuridine aldehyde + H2O = 16-epivellosimine + CO2 + methanol [RN:R05825]",
+    "all_reac": "R05825",
+    "iubmb_reactions": [
+      "R05825"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "polyneuridine aldehyde [CPD:C11632]",
+      "H2O [CPD:C00001]"
+    ],
+    "products": [
+      "16-epivellosimine [CPD:C11633]",
+      "CO2 [CPD:C00011]",
+      "methanol [CPD:C00132]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "Following hydrolysis of this indole alkaloid ester the carboxylic acid decarboxylates spontaneously giving the sarpagan skeleton. The enzyme also acts on akuammidine aldehyde (the 16-epimer of polyneuridine aldehyde).",
+    "pathways": {
+      "ec00901": "Indole alkaloid biosynthesis",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K08233": "polyneuridine-aldehyde esterase"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "3.1.1.78"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "3.1.1.78"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "3.1.1.78"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "3.1.1.78"
+      ],
+      "CAS": [
+        "87041-55-2"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Pfitzner A",
+          "Stockigt J"
+        ],
+        "title": "Characterization of polyneuridine aldehyde esterase, a key enzyme in the biosynthesis of sarpagine/ajmaline type alkaloids.",
+        "journal": "Planta Med 48:221-7 (1983) DOI:10.1055/s-2007-969924",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:17404987]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pfitzner",
+          "A. and Stockigt",
+          "J."
+        ],
+        "title": "Polyneuridine aldehyde esterase: an unusual specific enzyme involved in the biosynthesis of sarpagine type alkaloids.",
+        "journal": "J Chem Soc Chem Commun:459-460",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1983",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dogru E",
+          "Warzecha H",
+          "Seibel F",
+          "Haebel S",
+          "Lottspeich F",
+          "Stockigt J."
+        ],
+        "title": "The gene encoding polyneuridine aldehyde esterase of monoterpenoid indole alkaloid biosynthesis in plants is an ortholog of the alpha/betahydrolase super family.",
+        "journal": "Eur J Biochem 267:1397-406 (2000) DOI:10.1046/j.1432-1327.2000.01136.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:10691977]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mattern-Dogru E",
+          "Ma X",
+          "Hartmann J",
+          "Decker H",
+          "Stockigt J."
+        ],
+        "title": "Potential active-site residues in polyneuridine aldehyde esterase, a central enzyme of indole alkaloid biosynthesis, by modelling and site-directed mutagenesis.",
+        "journal": "Eur J Biochem 269:2889-96 (2002) DOI:10.1046/j.1432-1033.2002.02956.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:12071952]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

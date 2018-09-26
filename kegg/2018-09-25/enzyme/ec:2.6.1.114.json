@@ -1,0 +1,182 @@
+[
+  {
+    "entry_id": "2.6.1.114",
+    "name": "8-demethyl-8-aminoriboflavin-5'-phosphate synthase",
+    "names": [
+      "8-demethyl-8-aminoriboflavin-5'-phosphate synthase",
+      "rosB (gene name)"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring nitrogenous groups;",
+      "Transaminases"
+    ],
+    "sysname": "L-glutamate:FMN aminotransferase (oxidizing, decarboxylating)",
+    "reaction": "L-glutamate + FMN + O2 + H2O + 3 acceptor = 2-oxoglutarate + 8-amino-8-demethylriboflavin 5'-phosphate + CO2 + 3 reduced acceptor (overall reaction) [RN:R11960]; (1a) FMN + O2 = 8-demethyl-8-formylriboflavin 5'-phosphate + H2O [RN:R11961]; (1b) 8-demethyl-8-formylriboflavin 5'-phosphate + H2O + acceptor = 8-carboxy-8-demethylriboflavin 5'-phosphate + reduced acceptor [RN:R11962]; (1c) L-glutamate + 8-carboxy-8-demethylriboflavin 5'-phosphate + H2O + 2 acceptor = 2-oxoglutarate + 8-amino-8-demethylriboflavin 5'-phosphate + CO2 + 2 reduced acceptor [RN:R11963]",
+    "all_reac": "R11960 R11961 R11962 R11963",
+    "iubmb_reactions": [
+      "R11960 R11961 R11962 R11963"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "L-glutamate [CPD:C00025]",
+      "FMN [CPD:C00061]",
+      "O2 [CPD:C00007]",
+      "H2O [CPD:C00001]",
+      "acceptor [CPD:C00028]",
+      "8-demethyl-8-formylriboflavin 5'-phosphate [CPD:C21803]",
+      "8-carboxy-8-demethylriboflavin 5'-phosphate [CPD:C21804]"
+    ],
+    "products": [
+      "2-oxoglutarate [CPD:C00026]",
+      "8-amino-8-demethylriboflavin 5'-phosphate [CPD:C21805]",
+      "CO2 [CPD:C00011]",
+      "reduced acceptor [CPD:C00030]",
+      "8-demethyl-8-formylriboflavin 5'-phosphate [CPD:C21803]",
+      "H2O [CPD:C00001]",
+      "8-carboxy-8-demethylriboflavin 5'-phosphate [CPD:C21804]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, characterized from the bacterium Streptomyces davawensis, has the activities of an oxidoreductase, a decarboxylase, and an aminotransferase. Its combined actions result in the replacement of a methyl substituent of one of the aromatic rings of FMN by an amino group, a step in the biosynthetic pathway of roseoflavin. The reaction requires thiamine for completion.",
+    "pathways": {
+      "ec00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "orthologs": {
+      "K22598": "8-demethyl-8-aminoriboflavin-5'-phosphate synthase"
+    },
+    "genes": {
+      "sdv": [
+        "BN159_7989"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.6.1.114"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.6.1.114"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.6.1.114"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.6.1.114"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Schwarz J",
+          "Konjik V",
+          "Jankowitsch F",
+          "Sandhoff R",
+          "Mack M"
+        ],
+        "title": "Identification of the Key Enzyme of Roseoflavin Biosynthesis.",
+        "journal": "Angew Chem Int Ed Engl 55:6103-6 (2016) DOI:10.1002/anie.201600581",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:27062037]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jhulki I",
+          "Chanani PK",
+          "Abdelwahed SH",
+          "Begley TP"
+        ],
+        "title": "A Remarkable Oxidative Cascade That Replaces the Riboflavin C8 Methyl with an Amino Group during Roseoflavin Biosynthesis.",
+        "journal": "J Am Chem Soc 138:8324-7 (2016) DOI:10.1021/jacs.6b02469",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:27331868]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Konjik V",
+          "Brunle S",
+          "Demmer U",
+          "Vanselow A",
+          "Sandhoff R",
+          "Ermler U",
+          "Mack M"
+        ],
+        "title": "The Crystal Structure of RosB: Insights into the Reaction Mechanism of the First Member of a Family of Flavodoxin-like Enzymes.",
+        "journal": "Angew Chem Int Ed Engl 56:1146-1151 (2017) DOI:10.1002/anie.201610292",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:27981706]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

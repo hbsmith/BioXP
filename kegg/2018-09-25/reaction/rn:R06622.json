@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06622",
+    "name": "",
+    "definition": "NADPH + 2-Hydroxycyclohexan-1-one + H+ + Oxygen <=> NADP+ + 1-Oxa-2-oxo-3-hydroxycycloheptane + H2O",
+    "equation": "C00005 + C01147 + C00080 + C00007 <=> C00006 + C12314 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.22"
+    ],
+    "pathways": {
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K03379": "cyclohexanone monooxygenase [EC:1.14.13.22]"
+    }
+  }
+]

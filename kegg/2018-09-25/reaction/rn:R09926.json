@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R09926",
+    "name": "(6E)-8-hydroxygeraniol:NADP+ oxidoreductase",
+    "definition": "(6E)-8-Hydroxygeraniol + NADP+ <=> (6E)-8-Hydroxygeranial + NADPH + H+",
+    "equation": "C17621 + C00006 <=> C20222 + C00005 + C00080",
+    "comment": "first step of two-step reaction (see R08499, R09926+R09927)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.324"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

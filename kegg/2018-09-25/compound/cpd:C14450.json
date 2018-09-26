@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C14450",
+    "name": "4-Chloroaniline",
+    "names": [
+      "4-Chloroaniline",
+      "1-Amino-4-chlorobenzene"
+    ],
+    "formula": "C6H6ClN",
+    "exact_mass": 127.0189,
+    "mol_weight": 127.5715,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07793",
+      "R07794"
+    ],
+    "pathways": {
+      "map00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.-.-",
+      "1.97.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "106-47-8"
+      ],
+      "PubChem": [
+        "17395450"
+      ],
+      "ChEBI": [
+        "20331"
+      ],
+      "ChEMBL": [
+        "CHEMBL15888"
+      ],
+      "NIKKAJI": [
+        "J4.034G"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C8x C    27.6504  -16.2406\n            2   C8x C    27.6504  -17.6406\n            3   C8y C    28.8629  -18.3406\n            4   C8x C    30.0754  -17.6406\n            5   C8x C    30.0754  -16.2406\n            6   C8y C    28.8629  -15.5405\n            7   N1a N    28.8629  -14.1407\n            8   X   Cl   28.8629  -19.7405\nBOND        8\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     3   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

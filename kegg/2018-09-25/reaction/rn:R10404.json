@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R10404",
+    "name": "",
+    "definition": "S-Adenosyl-L-methionine <=> S-Adenosyl-L-homocysteine",
+    "equation": "C00019 <=> C00021",
+    "comment": "incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K17462": "putative AdoMet-dependent methyltransferase [EC:2.1.1.-]"
+    }
+  }
+]

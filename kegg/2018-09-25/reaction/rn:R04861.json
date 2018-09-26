@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04861",
+    "name": "",
+    "definition": "3-Sulfinylpyruvate + H2O <=> Sulfite + Pyruvate",
+    "equation": "C05527 + C00001 <=> C00094 + C00022",
+    "comment": "non-enzymatic",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

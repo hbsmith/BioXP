@@ -1,0 +1,57 @@
+[
+  {
+    "entry_id": "C10173",
+    "name": "Swainsonine",
+    "names": [
+      "Swainsonine"
+    ],
+    "formula": "C8H15NO3",
+    "exact_mass": 173.1052,
+    "mol_weight": 173.2096,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08416"
+    ],
+    "pathways": {
+      "map00960": "Tropane, piperidine and pyridine alkaloid biosynthesis",
+      "map01064": "Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "72741-87-8"
+      ],
+      "PubChem": [
+        "12359"
+      ],
+      "ChEBI": [
+        "9367"
+      ],
+      "ChEMBL": [
+        "CHEMBL371197"
+      ],
+      "KNApSAcK": [
+        "C00002075"
+      ],
+      "PDB-CCD": [
+        "SWA"
+      ],
+      "3DMET": [
+        "B03606"
+      ],
+      "NIKKAJI": [
+        "J12.698E"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1x C    24.9522  -19.7228\n            2   C1y C    24.9522  -17.0596\n            3   C1x C    23.8043  -19.0618\n            4   C1x C    23.8043  -17.7267\n            5   O1a O    24.9476  -15.7317\n            6   C1y C    26.1071  -17.7267\n            7   N1y N    26.0998  -19.0601\n            8   C1x C    27.3658  -19.4792\n            9   C1y C    28.1555  -18.4046\n            10  C1y C    27.3776  -17.3215\n            11  O1a O    27.8265  -15.9665\n            12  O1a O    29.5400  -18.4123\nBOND        13\n            1     7   1 1\n            2     6   2 1\n            3     1   3 1\n            4     2   4 1\n            5     6   7 1\n            6     2   5 1 #Up\n            7     3   4 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    6  10 1\n            12   10  11 1 #Down\n            13    9  12 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

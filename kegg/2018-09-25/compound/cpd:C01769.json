@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C01769",
+    "name": "(S)-Acetoin",
+    "names": [
+      "(S)-Acetoin",
+      "(S)-2-Acetoin"
+    ],
+    "formula": "C4H8O2",
+    "exact_mass": 88.0524,
+    "mol_weight": 88.1051,
+    "remark": "",
+    "comment": "Acetoin [CPD:C00466] (R)-Acetoin [CPD:C00810]",
+    "reactions": [
+      "R02949",
+      "R03707",
+      "R09078",
+      "R10504"
+    ],
+    "pathways": {
+      "map00650": "Butanoate metabolism"
+    },
+    "enzymes": [
+      "1.1.1.76",
+      "1.1.1.304",
+      "1.1.1.-",
+      "5.1.2.4"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4902"
+      ],
+      "ChEBI": [
+        "15687",
+        "15688"
+      ],
+      "PDB-CCD": [
+        "HBS"
+      ],
+      "3DMET": [
+        "B04813"
+      ],
+      "NIKKAJI": [
+        "J51.758E"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C1a C    16.8009  -16.5212\n            2   C5a C    18.0133  -15.8212\n            3   C1c C    19.2259  -16.5212\n            4   C1a C    20.4384  -15.8212\n            5   O1a O    19.2259  -17.9211\n            6   O5a O    18.0133  -14.4213\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 1 #Down\n            5     2   6 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

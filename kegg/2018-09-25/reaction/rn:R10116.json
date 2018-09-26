@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10116",
+    "name": "3-hydroxyglutaryl-[acp]-methyl-ester:NADP+ oxidoreductase",
+    "definition": "3-Ketoglutaryl-[acp] methyl ester + NADPH + H+ <=> 3-Hydroxyglutaryl-[acp] methyl ester + NADP+",
+    "equation": "C20372 + C00005 + C00080 <=> C20373 + C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.100"
+    ],
+    "pathways": {
+      "rn00780": "Biotin metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00059": "3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]"
+    }
+  }
+]

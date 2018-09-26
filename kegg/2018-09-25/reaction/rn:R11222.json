@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11222",
+    "name": "(-)-matairesinol,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (methylenedioxy-bridge-forming)",
+    "definition": "Matairesinol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Pluviatolide + [Oxidized NADPH---hemoprotein reductase] + 2 H2O",
+    "equation": "C10682 + C03024 + C00007 <=> C21191 + C03161 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.72"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K21207": "(-)-pluviatolide synthase [EC:1.14.19.72]"
+    }
+  }
+]

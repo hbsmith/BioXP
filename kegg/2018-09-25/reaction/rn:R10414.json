@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10414",
+    "name": "fumitremorgin C,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (12alpha,13alpha-dihydroxyfumitremorgin C-forming)",
+    "definition": "Fumitremorgin C + 2 [Reduced NADPH---hemoprotein reductase] + 2 Oxygen <=> 12alpha,13alpha-Dihydroxyfumitremorgin C + 2 [Oxidized NADPH---hemoprotein reductase] + 2 H2O",
+    "equation": "C20604 + 2 C03024 + 2 C00007 <=> C20605 + 2 C03161 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.119"
+    ],
+    "pathways": {
+      "rn00404": "Staurosporine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K17826": "fumitremorgin C monooxygenase [EC:1.14.14.119]"
+    }
+  }
+]

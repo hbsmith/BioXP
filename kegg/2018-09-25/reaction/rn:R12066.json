@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R12066",
+    "name": "[LarE]-S-[1-(5-O-phosphono-beta-D-ribofuranosyl)-5-(sulfanylcarbonyl)pyridin-1-ium-3-carbonyl]-L-cysteine pyridin-1-ium-3,5-dicarbothioate-mononucleotide-lyase (ATP-consuming)",
+    "definition": "[Protein]-L-cysteine + Pyridinium-3-carboxy-5-thiocarboxylic acid mononucleotide + ATP <=> [Protein]-dehydroalanine + Pyridinium-3,5-biscarboxylic acid mononucleotide + AMP + Diphosphate",
+    "equation": "C02743 + C21878 + C00002 <=> C21861 + C21851 + C00020 + C00013",
+    "comment": "three-step reaction (R12053+R12064+R12065)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.37"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

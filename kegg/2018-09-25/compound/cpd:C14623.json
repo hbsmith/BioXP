@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C14623",
+    "name": "6-(Ethylthio)purine",
+    "names": [
+      "6-(Ethylthio)purine",
+      "6-Ethylmercaptopurine"
+    ],
+    "formula": "C7H8N4S",
+    "exact_mass": 180.047,
+    "mol_weight": 180.2302,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "5417-84-5"
+      ],
+      "PubChem": [
+        "17395623"
+      ],
+      "ChEBI": [
+        "34469"
+      ],
+      "ChEMBL": [
+        "CHEMBL326496"
+      ],
+      "NIKKAJI": [
+        "J381.490D"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    24.9900  -17.2900\n            2   C8y C    23.7300  -17.9900\n            3   S2a S    24.9900  -15.8900\n            4   N5x N    26.1800  -17.9900\n            5   C8y C    23.7300  -19.3900\n            6   N4x N    22.4000  -17.5700\n            7   C8x C    26.1800  -19.3900\n            8   N5x N    22.3300  -19.8100\n            9   N5x N    24.9900  -20.0900\n            10  C8x C    21.5600  -18.6900\n            11  C1b C    26.2024  -15.1900\n            12  C1a C    27.3979  -15.8804\nBOND        13\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 2\n            5     2   6 1\n            6     4   7 1\n            7     5   8 1\n            8     5   9 1\n            9     6  10 1\n            10    7   9 2\n            11    8  10 2\n            12    3  11 1\n            13   11  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

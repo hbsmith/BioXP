@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R07075",
+    "name": "4-bromophenol, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)",
+    "definition": "4-Bromophenol + NADPH + Oxygen + H+ <=> 4-Bromophenol-2,3-epoxide + NADP+ + H2O",
+    "equation": "C14453 + C00005 + C00007 + C00080 <=> C14845 + C00006 + C00001",
+    "comment": "CYP2E1",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "orthologs": {
+      "K07415": "cytochrome P450 family 2 subfamily E polypeptide 1 [EC:1.14.13.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R07075",
+    "name": "4-bromophenol, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)",
+    "definition": "4-Bromophenol + NADPH + Oxygen + H+ <=> 4-Bromophenol-2,3-epoxide + NADP+ + H2O",
+    "equation": "C14453 + C00005 + C00007 + C00080 <=> C14845 + C00006 + C00001",
+    "comment": "CYP2E1",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "orthologs": {
+      "K07415": "cytochrome P450 family 2 subfamily E polypeptide 1 [EC:1.14.13.-]"
+    }
+  }
+]

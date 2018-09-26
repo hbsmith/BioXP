@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "C01343",
+    "name": "Alkylmercury",
+    "names": [
+      "Alkylmercury",
+      "RHg+",
+      "Alkylmercury ion"
+    ],
+    "formula": "HgR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = CH3 [CPD:C18672]",
+    "reactions": [
+      "R03529"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.99.1.2"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4548"
+      ],
+      "ChEBI": [
+        "33255"
+      ]
+    },
+    "kcf": "ATOM        2\n            1   R   R    26.4599  -17.2317\n            2   Z   Hg   24.4301  -17.2083 #+\nBOND        1\n            1     1   2 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

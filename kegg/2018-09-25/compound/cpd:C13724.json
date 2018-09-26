@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C13724",
+    "name": "Polyvinyl sulfate",
+    "names": [
+      "Polyvinyl sulfate"
+    ],
+    "formula": "(C2H4O4S)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "25191-25-7"
+      ],
+      "PubChem": [
+        "586313"
+      ],
+      "ChEBI": [
+        "34928"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   Z   *    25.6209  -18.2457\n            2   C1a C    27.4067  -17.5918\n            3   C1b C    28.5361  -18.2457\n            4   Z   *    30.6112  -17.5918\n            5   O2a O    28.5295  -19.5534\n            6   S4a S    28.5930  -20.8611\n            7   O1d O    29.9007  -20.8611\n            8   O1d O    27.2852  -20.8611\n            9   O1d O    28.5863  -22.1688\nBOND        8\n            1     3   5 1\n            2     2   3 1\n            3     5   6 1\n            4     1   2 1\n            5     6   7 2\n            6     6   8 2\n            7     6   9 1\n            8     3   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

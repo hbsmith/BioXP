@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08362",
+    "name": "trypanothione:hydroperoxide oxidoreductase",
+    "definition": "Trypanothione + ROOH <=> Trypanothione disulfide + H2O + ROH",
+    "equation": "C02090 + C15498 <=> C03170 + C00001 + C01335",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.11.1.15"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K11185": "cytosolic tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin [EC:1.11.1.15]",
+      "K11186": "mitochondrial tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin [EC:1.11.1.15]"
+    }
+  }
+]

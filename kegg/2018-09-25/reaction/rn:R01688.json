@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01688",
+    "name": "ATP:butanoate 1-phosphotransferase",
+    "definition": "ATP + Butanoic acid <=> ADP + Butanoylphosphate",
+    "equation": "C00002 + C00246 <=> C00008 + C02527",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.2.7"
+    ],
+    "pathways": {
+      "rn00650": "Butanoate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00929": "butyrate kinase [EC:2.7.2.7]"
+    }
+  }
+]

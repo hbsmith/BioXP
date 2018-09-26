@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00803",
+    "name": "sucrose:phosphate alpha-D-glucosyltransferase",
+    "definition": "Sucrose + Orthophosphate <=> D-Fructose + D-Glucose 1-phosphate",
+    "equation": "C00089 + C00009 <=> C00095 + C00103",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.7"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism"
+    },
+    "orthologs": {
+      "K00690": "sucrose phosphorylase [EC:2.4.1.7]"
+    }
+  }
+]

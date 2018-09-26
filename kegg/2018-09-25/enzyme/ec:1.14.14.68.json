@@ -1,0 +1,117 @@
+[
+  {
+    "entry_id": "1.14.14.68",
+    "name": "syn-pimaradiene 3-monooxygenase",
+    "names": [
+      "syn-pimaradiene 3-monooxygenase",
+      "CYP701A8"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "9beta-pimara7,15-diene,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (9beta-pimara-7,15-diene-3beta-ol forming)",
+    "reaction": "9beta-pimara-7,15-diene + [reduced NADPH---hemoprotein reductase] + O2 = 9beta-pimara-7,15-diene-3beta-ol + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R11980]",
+    "all_reac": "R11980",
+    "iubmb_reactions": [
+      "R11980"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "9beta-pimara-7,15-diene [CPD:C18225]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "9beta-pimara-7,15-diene-3beta-ol [CPD:C21825]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein isolated from rice, Oryza sativa.",
+    "pathways": {
+      "ec00904": "Diterpenoid biosynthesis",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K21719": "ent-sandaracopimaradiene 3-hydroxylase / syn-pimaradiene 3-monooxygenase"
+    },
+    "genes": {
+      "osa": [
+        "4341343"
+      ],
+      "dosa": [
+        "Os06t0569500-01"
+      ],
+      "obr": [
+        "102701085"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.68"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.68"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.68"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.68"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Kitaoka N",
+          "Wu Y",
+          "Xu M",
+          "Peters RJ"
+        ],
+        "title": "Optimization of recombinant expression enables discovery of novel cytochrome P450 activity in rice diterpenoid biosynthesis.",
+        "journal": "Appl Microbiol Biotechnol 99:7549-58 (2015) DOI:10.1007/s00253-015-6496-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:25758958]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

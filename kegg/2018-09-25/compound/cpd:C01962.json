@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C01962",
+    "name": "Thiocysteine",
+    "names": [
+      "Thiocysteine",
+      "S-Mercapto-L-cysteine",
+      "L-Thiocysteine"
+    ],
+    "formula": "C3H7NO2S2",
+    "exact_mass": 152.9918,
+    "mol_weight": 153.2232,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02408"
+    ],
+    "pathways": {
+      "map00270": "Cysteine and methionine metabolism"
+    },
+    "enzymes": [
+      "4.4.1.1",
+      "4.4.1.8",
+      "4.4.1.35"
+    ],
+    "dblinks": {
+      "CAS": [
+        "5652-32-4"
+      ],
+      "PubChem": [
+        "5063"
+      ],
+      "ChEBI": [
+        "28839"
+      ],
+      "PDB-CCD": [
+        "CSS"
+      ],
+      "3DMET": [
+        "B00374"
+      ],
+      "NIKKAJI": [
+        "J2.365.199H"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   S1a S    12.5062  -12.3202\n            2   S3a S    11.2995  -13.0198\n            3   C1b C    10.0812  -12.3202\n            4   C1c C     8.8687  -13.0198\n            5   C6a C     7.6562  -12.3202\n            6   N1a N     8.8687  -14.4189\n            7   O6a O     6.4379  -13.0198\n            8   O6a O     7.6562  -10.9211\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     4   6 1 #Down\n            6     5   7 1\n            7     5   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

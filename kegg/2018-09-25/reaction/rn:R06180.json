@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06180",
+    "name": "",
+    "definition": "(R,R)-Tartaric acid + NAD+ <=> 2-Hydroxy-3-oxosuccinate + NADH + H+",
+    "equation": "C00898 + C00003 <=> C03459 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.93"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism"
+    },
+    "orthologs": {
+      "K07246": "tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase [EC:1.1.1.93 4.1.1.73 1.1.1.83]"
+    }
+  }
+]

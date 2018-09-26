@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C01664",
+    "name": "Alkylamine",
+    "names": [
+      "Alkylamine"
+    ],
+    "formula": "NH2R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R03983"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.3.2.13"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4812"
+      ],
+      "ChEBI": [
+        "13759"
+      ]
+    },
+    "kcf": "ATOM        2\n            1   N1a N    22.7427  -16.4897\n            2   R   R    21.4973  -15.8503\nBOND        1\n            1     1   2 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

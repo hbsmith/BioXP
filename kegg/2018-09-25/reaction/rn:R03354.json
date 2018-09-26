@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R03354",
+    "name": "UDP-alpha-D-galactose:beta-D-glucosyl-(1<->1)-ceramide 4-beta-D-galactosyltransferase",
+    "definition": "beta-D-Glucosyl-(1<->1)-ceramide + UDP-alpha-D-galactose <=> beta-D-Galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide + UDP",
+    "equation": "C01190 + C00052 <=> C01290 + C00015",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.274"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K07553": "beta-1,4-galactosyltransferase 6 [EC:2.4.1.274]"
+    }
+  }
+][
+  {
+    "entry_id": "R03354",
+    "name": "UDP-alpha-D-galactose:beta-D-glucosyl-(1<->1)-ceramide 4-beta-D-galactosyltransferase",
+    "definition": "beta-D-Glucosyl-(1<->1)-ceramide + UDP-alpha-D-galactose <=> beta-D-Galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide + UDP",
+    "equation": "C01190 + C00052 <=> C01290 + C00015",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.274"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K07553": "beta-1,4-galactosyltransferase 6 [EC:2.4.1.274]"
+    }
+  }
+]

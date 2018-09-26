@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19396",
+    "name": "Dibromoacetonitrile",
+    "names": [
+      "Dibromoacetonitrile"
+    ],
+    "formula": "C2HBr2N",
+    "exact_mass": 196.8476,
+    "mol_weight": 198.844,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "3252-43-5"
+      ],
+      "PubChem": [
+        "124490068"
+      ],
+      "ChEBI": [
+        "82445"
+      ],
+      "ChEMBL": [
+        "CHEMBL1462419"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   X   Br   26.4600  -17.3600\n            2   C1c C    27.6500  -16.6600\n            3   C3b C    28.9100  -17.3600\n            4   X   Br   27.6500  -15.2600\n            5   N3a N    30.1000  -18.0600\nBOND        4\n            1     1   2 1\n            2     2   3 1\n            3     2   4 1\n            4     3   5 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

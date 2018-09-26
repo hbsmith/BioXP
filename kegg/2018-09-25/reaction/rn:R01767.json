@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01767",
+    "name": "mandelonitrile benzaldehyde-lyase (cyanide-forming)",
+    "definition": "Mandelonitrile <=> Hydrogen cyanide + Benzaldehyde",
+    "equation": "C00561 <=> C01326 + C00261",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.2.10"
+    ],
+    "pathways": {
+      "rn00460": "Cyanoamino acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K08248": "(R)-mandelonitrile lyase [EC:4.1.2.10]",
+      "K20802": "(R)-mandelonitrile lyase [EC:4.1.2.10]"
+    }
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "entry_id": "1.14.19.61",
+    "name": "dihydrorhizobitoxine desaturase",
+    "names": [
+      "dihydrorhizobitoxine desaturase",
+      "rtxC (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With oxidation of a pair of donors resulting in the reduction of O2 to two molecules of water"
+    ],
+    "sysname": "dihydrorhizobitoxine,ferredoxin:oxygen oxidoreductase (3,4 trans-dehydrogenating)",
+    "reaction": "dihydrorhizobitoxine + 2 reduced ferredoxin [iron-sulfur] cluster + O2 + 2 H+ = rhizobitoxine + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O [RN:R12074]",
+    "all_reac": "R12074",
+    "iubmb_reactions": [
+      "R12074"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "dihydrorhizobitoxine [CPD:C21888]",
+      "reduced ferredoxin [iron-sulfur] cluster [CPD:C00138]",
+      "O2 [CPD:C00007]",
+      "H+ [CPD:C00080]"
+    ],
+    "products": [
+      "rhizobitoxine [CPD:C21887]",
+      "oxidized ferredoxin [iron-sulfur] cluster [CPD:C00139]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, characterized from the bacterium Bradyrhizobium elkanii, catalyses the final step in the biosynthesis of the nodulation enhancer compound rhizobitoxine.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22875": "dihydrorhizobitoxine desaturase"
+    },
+    "genes": {
+      "bja": [
+        "blr2080"
+      ],
+      "bju": [
+        "BJ6T_77760"
+      ],
+      "bjp": [
+        "RN69_37750"
+      ],
+      "brc": [
+        "BCCGELA001_28815"
+      ],
+      "bot": [
+        "CIT37_02595"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.19.61"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.19.61"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.19.61"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.19.61"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Yasuta T",
+          "Okazaki S",
+          "Mitsui H",
+          "Yuhashi K",
+          "Ezura H",
+          "Minamisawa K"
+        ],
+        "title": "DNA sequence and mutational analysis of rhizobitoxine biosynthesis genes in Bradyrhizobium elkanii.",
+        "journal": "Appl Environ Microbiol 67:4999-5009 (2001) DOI:10.1128/AEM.67.11.4999-5009.2001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:11679318]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Okazaki S",
+          "Sugawara M",
+          "Minamisawa K"
+        ],
+        "title": "Bradyrhizobium elkanii rtxC gene is required for expression of symbiotic phenotypes in the final step of rhizobitoxine biosynthesis.",
+        "journal": "Appl Environ Microbiol 70:535-41 (2004) DOI:10.1128/AEM.70.1.535-541.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:14711685]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

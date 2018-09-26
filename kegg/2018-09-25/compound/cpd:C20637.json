@@ -1,0 +1,73 @@
+[
+  {
+    "entry_id": "C20637",
+    "name": "5-[[(4,7-Dihydroxy-2-oxo-2H-1-benzopyran-3-yl)amino]carbonyl]-4-methyl-1H-pyrrole-3-carboxylate",
+    "names": [
+      "5-[[(4,7-Dihydroxy-2-oxo-2H-1-benzopyran-3-yl)amino]carbonyl]-4-methyl-1H-pyrrole-3-carboxylate"
+    ],
+    "formula": "C16H12N2O7",
+    "exact_mass": 344.0645,
+    "mol_weight": 344.2757,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06777",
+      "R06778"
+    ],
+    "pathways": {
+      "map00401": "Novobiocin biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "172232361"
+      ]
+    },
+    "kcf": "ATOM        25\n            1   C8y C    22.2030  -15.4948\n            2   C8y C    22.2030  -16.8918\n            3   C8x C    23.4128  -17.5903\n            4   C8y C    24.6228  -16.8918\n            5   C8x C    24.6228  -15.4948\n            6   C8x C    23.4128  -14.7963\n            7   C8y C    20.9932  -14.7963\n            8   C8y C    19.7833  -15.4948\n            9   C8y C    19.7833  -16.8918\n            10  O7x O    20.9932  -17.5903\n            11  N1b N    18.5484  -14.7963\n            12  C5a C    17.3385  -15.4948\n            13  C8y C    16.1287  -14.7963\n            14  O6a O    18.5548  -17.6013\n            15  O5a O    17.3385  -16.8916\n            16  O1a O    20.9932  -13.3994\n            17  O1a O    25.8513  -17.6013\n            18  N4x N    15.7081  -13.4632\n            19  C8x C    14.3107  -13.4514\n            20  C8y C    13.8678  -14.7767\n            21  C8y C    14.9913  -15.6075\n            22  C1a C    14.9787  -17.0312\n            23  C6a C    12.6809  -15.4948\n            24  O6a O    11.4710  -14.7963\n            25  O6a O    12.6952  -16.8918\nBOND        27\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 1\n            11    2  10 1\n            12    8  11 1\n            13   11  12 1\n            14   12  13 1\n            15    9  14 2\n            16   12  15 2\n            17    7  16 1\n            18    4  17 1\n            19   13  18 1\n            20   18  19 1\n            21   19  20 2\n            22   20  21 1\n            23   13  21 2\n            24   21  22 1\n            25   20  23 1\n            26   23  24 1\n            27   23  25 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C20637",
+    "name": "5-[[(4,7-Dihydroxy-2-oxo-2H-1-benzopyran-3-yl)amino]carbonyl]-4-methyl-1H-pyrrole-3-carboxylate",
+    "names": [
+      "5-[[(4,7-Dihydroxy-2-oxo-2H-1-benzopyran-3-yl)amino]carbonyl]-4-methyl-1H-pyrrole-3-carboxylate"
+    ],
+    "formula": "C16H12N2O7",
+    "exact_mass": 344.0645,
+    "mol_weight": 344.2757,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06777",
+      "R06778"
+    ],
+    "pathways": {
+      "map00401": "Novobiocin biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "172232361"
+      ]
+    },
+    "kcf": "ATOM        25\n            1   C8y C    22.2030  -15.4948\n            2   C8y C    22.2030  -16.8918\n            3   C8x C    23.4128  -17.5903\n            4   C8y C    24.6228  -16.8918\n            5   C8x C    24.6228  -15.4948\n            6   C8x C    23.4128  -14.7963\n            7   C8y C    20.9932  -14.7963\n            8   C8y C    19.7833  -15.4948\n            9   C8y C    19.7833  -16.8918\n            10  O7x O    20.9932  -17.5903\n            11  N1b N    18.5484  -14.7963\n            12  C5a C    17.3385  -15.4948\n            13  C8y C    16.1287  -14.7963\n            14  O6a O    18.5548  -17.6013\n            15  O5a O    17.3385  -16.8916\n            16  O1a O    20.9932  -13.3994\n            17  O1a O    25.8513  -17.6013\n            18  N4x N    15.7081  -13.4632\n            19  C8x C    14.3107  -13.4514\n            20  C8y C    13.8678  -14.7767\n            21  C8y C    14.9913  -15.6075\n            22  C1a C    14.9787  -17.0312\n            23  C6a C    12.6809  -15.4948\n            24  O6a O    11.4710  -14.7963\n            25  O6a O    12.6952  -16.8918\nBOND        27\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 1\n            11    2  10 1\n            12    8  11 1\n            13   11  12 1\n            14   12  13 1\n            15    9  14 2\n            16   12  15 2\n            17    7  16 1\n            18    4  17 1\n            19   13  18 1\n            20   18  19 1\n            21   19  20 2\n            22   20  21 1\n            23   13  21 2\n            24   21  22 1\n            25   20  23 1\n            26   23  24 1\n            27   23  25 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

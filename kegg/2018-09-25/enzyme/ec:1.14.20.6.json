@@ -1,0 +1,617 @@
+[
+  {
+    "entry_id": "1.14.20.6",
+    "name": "flavonol synthase",
+    "names": [
+      "flavonol synthase",
+      "FLS (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With 2-oxoglutarate as one donor, and the other dehydrogenated"
+    ],
+    "sysname": "dihydroflavonol,2-oxoglutarate:oxygen oxidoreductase",
+    "reaction": "a dihydroflavonol + 2-oxoglutarate + O2 = a flavonol + succinate + CO2 + H2O [RN:R07368]",
+    "all_reac": "R07368 > R02160 R03126 R06539 R08082",
+    "iubmb_reactions": [
+      "R07368 > R02160 R03126 R06539 R08082"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "dihydroflavonol [CPD:C15570]",
+      "2-oxoglutarate [CPD:C00026]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "flavonol [CPD:C01495]",
+      "succinate [CPD:C00042]",
+      "CO2 [CPD:C00011]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "In addition to the desaturation of (2R,3R)-dihydroflavonols to flavonols, the enzyme from Citrus unshiu (satsuma mandarin) also has a non-specific activity that trans-hydroxylates the flavanones (2S)-naringenin and the unnatural (2R)-naringenin at C-3 to kaempferol and (2R,3R)-dihydrokaempferol, respectively [2]. Requires Fe2+.",
+    "pathways": {
+      "ec00941": "Flavonoid biosynthesis",
+      "ec01100": "Metabolic pathways",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K05278": "flavonol synthase"
+    },
+    "genes": {
+      "rss": [
+        "109442146",
+        "109442183",
+        "109442644",
+        "109442938"
+      ],
+      "ath": [
+        "AT5G08640",
+        "AT5G43935",
+        "AT5G63590",
+        "AT5G63595",
+        "AT5G63600"
+      ],
+      "aly": [
+        "ARALYDRAFT_321431",
+        "ARALYDRAFT_332580",
+        "ARALYDRAFT_487705",
+        "ARALYDRAFT_494607",
+        "ARALYDRAFT_496548",
+        "ARALYDRAFT_496549",
+        "ARALYDRAFT_667796",
+        "ARALYDRAFT_686072"
+      ],
+      "crb": [
+        "17874951",
+        "17874978",
+        "17875062",
+        "17875365",
+        "17875649",
+        "17876064",
+        "17876240",
+        "17876394",
+        "17876899",
+        "17884061",
+        "17887601"
+      ],
+      "csat": [
+        "104708215",
+        "104725029",
+        "104726949",
+        "104726979",
+        "104726980",
+        "104726983",
+        "104726984",
+        "104726985",
+        "104726986",
+        "104727463",
+        "104729053",
+        "104734897",
+        "104741256",
+        "104741513",
+        "104741522",
+        "104741531",
+        "104741542",
+        "104741553",
+        "104741561",
+        "104741572",
+        "104741592",
+        "104741603",
+        "104762497",
+        "104762498",
+        "104762499",
+        "104762501",
+        "104762503",
+        "104769085",
+        "104778112",
+        "104784343",
+        "109124872"
+      ],
+      "eus": [
+        "EUTSA_v10004662mg",
+        "EUTSA_v10004668mg",
+        "EUTSA_v10005710mg",
+        "EUTSA_v10014054mg",
+        "EUTSA_v10015952mg",
+        "EUTSA_v10028827mg",
+        "EUTSA_v10029534mg"
+      ],
+      "brp": [
+        "103837496",
+        "103847177",
+        "103855056",
+        "103855057",
+        "103873165",
+        "103873769",
+        "103873770"
+      ],
+      "bna": [
+        "106348278",
+        "106348289",
+        "106348297",
+        "106351881",
+        "106351882",
+        "106364152",
+        "106382906",
+        "106397936",
+        "106405224",
+        "106409586",
+        "106419433",
+        "106444537",
+        "111201386"
+      ],
+      "boe": [
+        "106313418",
+        "106316306",
+        "106320382",
+        "106328324",
+        "106332816",
+        "106341567"
+      ],
+      "thj": [
+        "104819356"
+      ],
+      "cpap": [
+        "110816514"
+      ],
+      "cit": [
+        "102618406",
+        "102626432",
+        "102629970"
+      ],
+      "cic": [
+        "CICLE_v10003741mg",
+        "CICLE_v10015856mg",
+        "CICLE_v10026028mg"
+      ],
+      "tcc": [
+        "18592290",
+        "18592292",
+        "18599277"
+      ],
+      "gra": [
+        "105770783",
+        "105780413",
+        "105780414"
+      ],
+      "ghi": [
+        "107904987",
+        "107923058",
+        "107940452",
+        "107940456",
+        "107959505",
+        "107959507"
+      ],
+      "dzi": [
+        "111275455",
+        "111314969"
+      ],
+      "egr": [
+        "104428803",
+        "104444489",
+        "104450481",
+        "104450482"
+      ],
+      "gmx": [
+        "100810937",
+        "100816829",
+        "778157"
+      ],
+      "pvu": [
+        "PHAVU_004G052400g",
+        "PHAVU_008G1660000",
+        "PHAVU_008G1660001"
+      ],
+      "vra": [
+        "106763888",
+        "106769199"
+      ],
+      "var": [
+        "108337532",
+        "108345477"
+      ],
+      "ccaj": [
+        "109804443",
+        "109808020",
+        "109816831"
+      ],
+      "mtr": [
+        "MTR_3g072810",
+        "MTR_3g072820",
+        "MTR_5g059130",
+        "MTR_5g059140"
+      ],
+      "cam": [
+        "101504604",
+        "101509377"
+      ],
+      "lja": [
+        "Lj1g3v0705350.1",
+        "Lj1g3v0775780.1",
+        "Lj1g3v1380920.1",
+        "Lj5g3v1865700.1"
+      ],
+      "adu": [
+        "107458261",
+        "107465302"
+      ],
+      "aip": [
+        "107609791",
+        "107617070"
+      ],
+      "lang": [
+        "109326685",
+        "109356468",
+        "109357523",
+        "109360027"
+      ],
+      "fve": [
+        "101295969",
+        "101296827"
+      ],
+      "pper": [
+        "18788166",
+        "18788410",
+        "18789071",
+        "18792331"
+      ],
+      "pmum": [
+        "103326444",
+        "103332906",
+        "103332909",
+        "103332910"
+      ],
+      "pavi": [
+        "110753589",
+        "110753698",
+        "110754141"
+      ],
+      "mdm": [
+        "103410752",
+        "103413102"
+      ],
+      "pxb": [
+        "103933697",
+        "103956721"
+      ],
+      "zju": [
+        "107415994",
+        "107421006"
+      ],
+      "csv": [
+        "101219245"
+      ],
+      "cmo": [
+        "103488630"
+      ],
+      "mcha": [
+        "111011799"
+      ],
+      "cmax": [
+        "111486888",
+        "111489355"
+      ],
+      "cmos": [
+        "111444648",
+        "111464499"
+      ],
+      "cpep": [
+        "111780272",
+        "111809053"
+      ],
+      "rcu": [
+        "8274085",
+        "8274087",
+        "8275129"
+      ],
+      "jcu": [
+        "105638900",
+        "105639310"
+      ],
+      "hbr": [
+        "110654972",
+        "110655043",
+        "110665573"
+      ],
+      "pop": [
+        "18097775",
+        "18097776",
+        "18109811",
+        "7458869",
+        "7495105"
+      ],
+      "jre": [
+        "108981974",
+        "108982002",
+        "108988364",
+        "108991214",
+        "109007110",
+        "109012769"
+      ],
+      "vvi": [
+        "100232938",
+        "100232939",
+        "100243852",
+        "100249002",
+        "100267819"
+      ],
+      "sly": [
+        "101249699"
+      ],
+      "spen": [
+        "107004995"
+      ],
+      "sot": [
+        "102577717"
+      ],
+      "cann": [
+        "107843086",
+        "107869735"
+      ],
+      "nta": [
+        "107794305",
+        "107814657"
+      ],
+      "nsy": [
+        "104236078"
+      ],
+      "nto": [
+        "104101386"
+      ],
+      "ini": [
+        "109175998"
+      ],
+      "sind": [
+        "105155397",
+        "105176681"
+      ],
+      "oeu": [
+        "111397470",
+        "111409089"
+      ],
+      "han": [
+        "110878613",
+        "110878615"
+      ],
+      "lsv": [
+        "111900153"
+      ],
+      "dcr": [
+        "108203535",
+        "108221899"
+      ],
+      "bvg": [
+        "104883093",
+        "104901038"
+      ],
+      "soe": [
+        "110778214",
+        "110795044"
+      ],
+      "nnu": [
+        "104596714",
+        "104608517",
+        "104609672",
+        "104609673"
+      ],
+      "osa": [
+        "4330843"
+      ],
+      "dosa": [
+        "Os02t0767300-01"
+      ],
+      "obr": [
+        "102712047"
+      ],
+      "bdi": [
+        "100831956"
+      ],
+      "ats": [
+        "109764595",
+        "109768154",
+        "109784747"
+      ],
+      "sbi": [
+        "8078926"
+      ],
+      "zma": [
+        "100272992",
+        "103627785"
+      ],
+      "sita": [
+        "101780580"
+      ],
+      "pda": [
+        "103712517"
+      ],
+      "egu": [
+        "105058232"
+      ],
+      "mus": [
+        "103969181",
+        "103969182",
+        "103977541",
+        "103995223"
+      ],
+      "dct": [
+        "110097028",
+        "110109041"
+      ],
+      "aof": [
+        "109820207"
+      ],
+      "atr": [
+        "18425268",
+        "18425281",
+        "18426066"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.20.6"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.20.6"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.20.6"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.20.6"
+      ],
+      "CAS": [
+        "146359-76-4"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Wellmann F",
+          "Lukacin R",
+          "Moriguchi T",
+          "Britsch L",
+          "Schiltz E",
+          "Matern U."
+        ],
+        "title": "Functional expression and mutational analysis of flavonol synthase from Citrus unshiu.",
+        "journal": "Eur J Biochem 269:4134-42 (2002) DOI:10.1046/j.1432-1033.2002.03108.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:12180990]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lukacin R",
+          "Wellmann F",
+          "Britsch L",
+          "Martens S",
+          "Matern U."
+        ],
+        "title": "Flavonol synthase from Citrus unshiu is a bifunctional dioxygenase.",
+        "journal": "Phytochemistry 62:287-92 (2003) DOI:10.1016/S0031-9422(02)00567-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:12620339]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Martens S",
+          "Forkmann G",
+          "Britsch L",
+          "Wellmann F",
+          "Matern U",
+          "Lukacin R."
+        ],
+        "title": "Divergent evolution of flavonoid 2-oxoglutarate-dependent dioxygenases in parsley.",
+        "journal": "FEBS Lett 544:93-8 (2003) DOI:10.1016/S0014-5793(03)00479-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:12782296]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Turnbull JJ",
+          "Nakajima J",
+          "Welford RW",
+          "Yamazaki M",
+          "Saito K",
+          "Schofield CJ."
+        ],
+        "title": "Mechanistic studies on three 2-oxoglutarate-dependent oxygenases of flavonoid biosynthesis: anthocyanidin synthase, flavonol synthase, and flavanone 3beta-hydroxylase.",
+        "journal": "J Biol Chem 279:1206-16 (2004) DOI:10.1074/jbc.M309228200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:14570878]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

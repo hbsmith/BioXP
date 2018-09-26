@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R03458",
+    "name": "5-amino-6-(5-phosphoribitylamino)uracil:NADP+ 1'-oxidoreductase",
+    "definition": "5-Amino-6-(5'-phospho-D-ribitylamino)uracil + NADP+ <=> 5-Amino-6-(5'-phosphoribosylamino)uracil + NADPH + H+",
+    "equation": "C04454 + C00006 <=> C01268 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.193"
+    ],
+    "pathways": {
+      "rn00740": "Riboflavin metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00082": "5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:1.1.1.193]",
+      "K11752": "diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]"
+    }
+  }
+]

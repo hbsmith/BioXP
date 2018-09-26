@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C18294",
+    "name": "Nonaketamide tricyclic intermediate",
+    "names": [
+      "Nonaketamide tricyclic intermediate"
+    ],
+    "formula": "C19H14NO6SR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R09188",
+      "R09196"
+    ],
+    "pathways": {
+      "map00253": "Tetracycline biosynthesis",
+      "map01057": "Biosynthesis of type II polyketide products",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "103061476"
+      ],
+      "ChEBI": [
+        "81645"
+      ]
+    },
+    "kcf": "ATOM        28\n            1   C8x C    25.2864  -16.4745\n            2   C8x C    25.2864  -14.6052\n            3   C8x C    26.5326  -13.8436\n            4   C8y C    27.7788  -14.6052\n            5   C8y C    27.7788  -16.4745\n            6   C8y C    26.5326  -17.1668\n            7   C8x C    28.9557  -13.8436\n            8   C8y C    30.2019  -14.6052\n            9   C8y C    30.2019  -16.4745\n            10  C8y C    28.9557  -17.1668\n            11  C8x C    31.5173  -13.8436\n            12  C8y C    32.6250  -14.6052\n            13  C8y C    31.5173  -17.1668\n            14  C1b C    33.8712  -13.8436\n            15  C5a C    35.1174  -14.6052\n            16  S2a S    36.3636  -13.8436\n            17  O1a O    26.5326  -18.5514\n            18  O1a O    28.9557  -18.5514\n            19  O1a O    31.5173  -18.5514\n            20  O5a O    35.1174  -15.5744\n            21  C8y C    32.6250  -16.4745\n            22  C5a C    33.8712  -17.1668\n            23  C1b C    35.0481  -16.4745\n            24  C5a C    36.2943  -17.1668\n            25  N1a N    37.4713  -16.4745\n            26  O5a O    33.8712  -18.5514\n            27  O5a O    36.2943  -18.5514\n            28  R   R    37.7482  -13.8436\nBOND        30\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     5   6 1\n            5     1   6 2\n            6     4   7 1\n            7     7   8 2\n            8     9  10 2\n            9     5  10 1\n            10    8  11 1\n            11   11  12 2\n            12    9  13 1\n            13   12  14 1\n            14   14  15 1\n            15   15  16 1\n            16    6  17 1\n            17   10  18 1\n            18   13  19 1\n            19   15  20 2\n            20   13  21 2\n            21   21  22 1\n            22   22  23 1\n            23   23  24 1\n            24   24  25 1\n            25   22  26 2\n            26   24  27 2\n            27    4   5 2\n            28   16  28 1\n            29    8   9 1\n            30   12  21 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

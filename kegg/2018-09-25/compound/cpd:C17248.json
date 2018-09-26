@@ -1,0 +1,83 @@
+[
+  {
+    "entry_id": "C17248",
+    "name": "4-Methylthiobutyl-desulfoglucosinolate",
+    "names": [
+      "4-Methylthiobutyl-desulfoglucosinolate"
+    ],
+    "formula": "C12H23NO6S2",
+    "exact_mass": 341.0967,
+    "mol_weight": 341.4441,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08671"
+    ],
+    "pathways": {
+      "map00966": "Glucosinolate biosynthesis",
+      "map01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "enzymes": [
+      "2.8.2.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023655"
+      ],
+      "ChEBI": [
+        "80986"
+      ],
+      "NIKKAJI": [
+        "J542.092J"
+      ]
+    },
+    "kcf": "ATOM        21\n            1   C1y C    27.9930  -18.4017\n            2   C1y C    29.1940  -19.0891\n            3   O2x O    26.8039  -19.0829\n            4   S2a S    27.9752  -16.9019\n            5   C1y C    29.1881  -20.4753\n            6   O1a O    30.3831  -18.4137\n            7   C1y C    26.8039  -20.4692\n            8   C2c C    27.9870  -15.5214\n            9   C1y C    27.9870  -21.1685\n            10  O1a O    30.3773  -21.1804\n            11  C1b C    25.6027  -21.1863\n            12  C1b C    26.6784  -14.7746\n            13  N2b N    29.1821  -14.8283\n            14  O1a O    27.9752  -22.5369\n            15  O1a O    24.3897  -20.4992\n            16  O1b O    30.3893  -15.5156\n            17  C1b C    25.4425  -15.4964\n            18  C1b C    24.2209  -14.7992\n            19  C1b C    23.0096  -15.5068\n            20  S2a S    21.7791  -14.8044\n            21  C1a C    20.5827  -15.5028\nBOND        21\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Down\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     5  10 1 #Up\n            10    7  11 1 #Up\n            11    8  12 1\n            12    8  13 2\n            13    9  14 1 #Down\n            14   11  15 1\n            15   13  16 1\n            16    7   9 1\n            17   12  17 1\n            18   17  18 1\n            19   18  19 1\n            20   19  20 1\n            21   20  21 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C17248",
+    "name": "4-Methylthiobutyl-desulfoglucosinolate",
+    "names": [
+      "4-Methylthiobutyl-desulfoglucosinolate"
+    ],
+    "formula": "C12H23NO6S2",
+    "exact_mass": 341.0967,
+    "mol_weight": 341.4441,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08671"
+    ],
+    "pathways": {
+      "map00966": "Glucosinolate biosynthesis",
+      "map01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "enzymes": [
+      "2.8.2.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023655"
+      ],
+      "ChEBI": [
+        "80986"
+      ],
+      "NIKKAJI": [
+        "J542.092J"
+      ]
+    },
+    "kcf": "ATOM        21\n            1   C1y C    27.9930  -18.4017\n            2   C1y C    29.1940  -19.0891\n            3   O2x O    26.8039  -19.0829\n            4   S2a S    27.9752  -16.9019\n            5   C1y C    29.1881  -20.4753\n            6   O1a O    30.3831  -18.4137\n            7   C1y C    26.8039  -20.4692\n            8   C2c C    27.9870  -15.5214\n            9   C1y C    27.9870  -21.1685\n            10  O1a O    30.3773  -21.1804\n            11  C1b C    25.6027  -21.1863\n            12  C1b C    26.6784  -14.7746\n            13  N2b N    29.1821  -14.8283\n            14  O1a O    27.9752  -22.5369\n            15  O1a O    24.3897  -20.4992\n            16  O1b O    30.3893  -15.5156\n            17  C1b C    25.4425  -15.4964\n            18  C1b C    24.2209  -14.7992\n            19  C1b C    23.0096  -15.5068\n            20  S2a S    21.7791  -14.8044\n            21  C1a C    20.5827  -15.5028\nBOND        21\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Down\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     5  10 1 #Up\n            10    7  11 1 #Up\n            11    8  12 1\n            12    8  13 2\n            13    9  14 1 #Down\n            14   11  15 1\n            15   13  16 1\n            16    7   9 1\n            17   12  17 1\n            18   17  18 1\n            19   18  19 1\n            20   19  20 1\n            21   20  21 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

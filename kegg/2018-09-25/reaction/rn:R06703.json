@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06703",
+    "name": "S-adenosyl-L-methionine:tetracenomycin-E O-methyltransferase",
+    "definition": "Tetracenomycin E + S-Adenosyl-L-methionine <=> Tetracenomycin A2 + S-Adenosyl-L-homocysteine",
+    "equation": "C12370 + C00019 <=> C12371 + C00021",
+    "comment": "O-methyltransferase, tcmP",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15971": "O-methyltransferase [EC:2.1.1.-]"
+    }
+  }
+]

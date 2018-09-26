@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05802",
+    "name": "ATP:1-phosphatidyl-1D-myo-inositol-3-phosphate 5-phosphotransferase",
+    "definition": "ATP + 1-Phosphatidyl-1D-myo-inositol 3-phosphate <=> ADP + 1-Phosphatidyl-1D-myo-inositol 3,5-bisphosphate",
+    "equation": "C00002 + C04549 <=> C00008 + C11556",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.150"
+    ],
+    "pathways": {
+      "rn00562": "Inositol phosphate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00921": "1-phosphatidylinositol-3-phosphate 5-kinase [EC:2.7.1.150]"
+    }
+  }
+]

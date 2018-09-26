@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R03749",
+    "name": "(5-L-glutamyl)-L-amino-acid gamma-glutamyl cyclotransferase (5-oxoproline-forming)",
+    "definition": "(5-L-Glutamyl)-L-amino acid <=> 5-Oxoproline + L-Amino acid",
+    "equation": "C03740 <=> C01879 + C00151",
+    "comment": "general reaction (see R02743)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.3.2.9"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00682": "gamma-glutamylcyclotransferase [EC:4.3.2.9]",
+      "K22596": "gamma-glutamylcyclotransferase, plant [EC:4.3.2.9]"
+    }
+  }
+][
+  {
+    "entry_id": "R03749",
+    "name": "(5-L-glutamyl)-L-amino-acid gamma-glutamyl cyclotransferase (5-oxoproline-forming)",
+    "definition": "(5-L-Glutamyl)-L-amino acid <=> 5-Oxoproline + L-Amino acid",
+    "equation": "C03740 <=> C01879 + C00151",
+    "comment": "general reaction (see R02743)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.3.2.9"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00682": "gamma-glutamylcyclotransferase [EC:4.3.2.9]",
+      "K22596": "gamma-glutamylcyclotransferase, plant [EC:4.3.2.9]"
+    }
+  }
+]

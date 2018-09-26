@@ -1,0 +1,95 @@
+[
+  {
+    "entry_id": "C04075",
+    "name": "2-Amino-4-chloro-4-pentenoic acid",
+    "names": [
+      "2-Amino-4-chloro-4-pentenoic acid",
+      "(S)-2-Amino-4-chloro-4-pentenoic acid",
+      "L-2-Amino-4-chloropent-4-enoate"
+    ],
+    "formula": "C5H8ClNO2",
+    "exact_mass": 149.0244,
+    "mol_weight": 149.5755,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02605"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.5.1.4"
+    ],
+    "dblinks": {
+      "CAS": [
+        "55528-30-8"
+      ],
+      "PubChem": [
+        "6770"
+      ],
+      "ChEBI": [
+        "15885"
+      ],
+      "3DMET": [
+        "B00674"
+      ],
+      "NIKKAJI": [
+        "J90.275F"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   X   Cl   23.4504  -16.3805\n            2   C2c C    24.6628  -15.6804\n            3   C1b C    25.8753  -16.3805\n            4   C1c C    27.0878  -15.6804\n            5   C6a C    28.3002  -16.3805\n            6   O6a O    29.5127  -15.6804\n            7   C2a C    24.6628  -14.2806\n            8   N1a N    27.0878  -14.2804\n            9   O6a O    28.3002  -17.7804\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     2   7 2\n            7     4   8 1 #Down\n            8     5   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C04075",
+    "name": "2-Amino-4-chloro-4-pentenoic acid",
+    "names": [
+      "2-Amino-4-chloro-4-pentenoic acid",
+      "(S)-2-Amino-4-chloro-4-pentenoic acid",
+      "L-2-Amino-4-chloropent-4-enoate"
+    ],
+    "formula": "C5H8ClNO2",
+    "exact_mass": 149.0244,
+    "mol_weight": 149.5755,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02605"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.5.1.4"
+    ],
+    "dblinks": {
+      "CAS": [
+        "55528-30-8"
+      ],
+      "PubChem": [
+        "6770"
+      ],
+      "ChEBI": [
+        "15885"
+      ],
+      "3DMET": [
+        "B00674"
+      ],
+      "NIKKAJI": [
+        "J90.275F"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   X   Cl   23.4504  -16.3805\n            2   C2c C    24.6628  -15.6804\n            3   C1b C    25.8753  -16.3805\n            4   C1c C    27.0878  -15.6804\n            5   C6a C    28.3002  -16.3805\n            6   O6a O    29.5127  -15.6804\n            7   C2a C    24.6628  -14.2806\n            8   N1a N    27.0878  -14.2804\n            9   O6a O    28.3002  -17.7804\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     2   7 2\n            7     4   8 1 #Down\n            8     5   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

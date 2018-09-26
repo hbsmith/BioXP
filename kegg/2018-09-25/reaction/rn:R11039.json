@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11039",
+    "name": "[5-(aminomethyl)furan-3-yl]methyl phosphate kinase",
+    "definition": "[5-(Aminomethyl)furan-3-yl]methyl phosphate + ATP <=> [5-(Aminomethyl)furan-3-yl]methyl diphosphate + ADP",
+    "equation": "C21068 + C00002 <=> C21069 + C00008",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.31"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism"
+    },
+    "orthologs": {
+      "K07144": "5-(aminomethyl)-3-furanmethanol phosphate kinase [EC:2.7.4.31]"
+    }
+  }
+]

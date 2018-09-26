@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10926",
+    "name": "icosanoyl-CoA,ferrocytochrome b5:oxygen oxidoreductase (5,6 cis-dehydrogenating)",
+    "definition": "Eicosanoyl-CoA + Ferrocytochrome b5 + Oxygen + 2 H+ <=> (Z)-Icos-5-enoyl-CoA + Ferricytochrome b5 + 2 H2O",
+    "equation": "C02041 + C00999 + C00007 + 2 C00080 <=> C20947 + C00996 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.10"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

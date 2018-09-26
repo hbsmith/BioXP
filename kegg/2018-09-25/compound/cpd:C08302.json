@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C08302",
+    "name": "N,N-Dimethyltryptamine",
+    "names": [
+      "N,N-Dimethyltryptamine",
+      "DMT"
+    ],
+    "formula": "C12H16N2",
+    "exact_mass": 188.1313,
+    "mol_weight": 188.2688,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "61-50-7"
+      ],
+      "PubChem": [
+        "10500"
+      ],
+      "ChEBI": [
+        "28969"
+      ],
+      "ChEMBL": [
+        "CHEMBL12420"
+      ],
+      "KNApSAcK": [
+        "C00001407"
+      ],
+      "NIKKAJI": [
+        "J10.685B"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    25.5675  -17.6691\n            2   C8y C    26.8975  -18.1066\n            3   C8y C    25.5791  -16.2690\n            4   C8x C    24.3715  -18.3692\n            5   C8x C    27.7317  -16.9807\n            6   N4x N    26.9151  -15.8489\n            7   C8x C    24.3715  -15.5632\n            8   C8x C    23.1523  -17.6691\n            9   C8x C    23.1523  -16.2690\n            10  C1b C    26.8975  -19.5066\n            11  C1b C    28.1066  -20.2049\n            12  N1c N    29.3326  -19.4967\n            13  C1a C    30.5575  -20.2033\n            14  C1a C    29.3322  -18.1300\nBOND        15\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     3   6 1\n            6     3   7 1\n            7     4   8 2\n            8     7   9 2\n            9     5   6 1\n            10    8   9 1\n            11    2  10 1\n            12   10  11 1\n            13   11  12 1\n            14   12  13 1\n            15   12  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

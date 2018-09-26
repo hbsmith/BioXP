@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02634",
+    "name": "UTP:1-Phospho-alpha-D-galacturonate uridylyltransferase; UDP-D-galacturonate pyrophospholylase",
+    "definition": "UDP-D-galacturonate + Diphosphate <=> 1-Phospho-alpha-D-galacturonate + UTP",
+    "equation": "C00617 + C00013 <=> C04037 + C00075",
+    "comment": "enzyme not yet characterized",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.-"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

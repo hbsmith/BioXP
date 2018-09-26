@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C18215",
+    "name": "Bis(4-hydroxyphenyl)methanol",
+    "names": [
+      "Bis(4-hydroxyphenyl)methanol"
+    ],
+    "formula": "C13H12O3",
+    "exact_mass": 216.0786,
+    "mol_weight": 216.2326,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09102",
+      "R09103"
+    ],
+    "pathways": {
+      "map00363": "Bisphenol degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.-.-",
+      "1.14.-.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "103061397"
+      ],
+      "ChEBI": [
+        "81592"
+      ],
+      "ChEMBL": [
+        "CHEMBL2269051"
+      ],
+      "NIKKAJI": [
+        "J1.270.853J"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8x C    31.7435  -25.6369\n            2   C8y C    31.7356  -27.0374\n            3   C8x C    32.9475  -27.7447\n            4   C8x C    34.1602  -27.0513\n            5   C8y C    34.1681  -25.6508\n            6   C8x C    32.9635  -24.9436\n            7   O1a O    30.5190  -27.7314\n            8   C1c C    35.3855  -24.9585\n            9   C8y C    36.5940  -25.6666\n            10  C8x C    36.5810  -27.0605\n            11  C8x C    37.7891  -27.7687\n            12  C8y C    39.0068  -27.0763\n            13  C8x C    39.0158  -25.6758\n            14  C8x C    37.8073  -24.9677\n            15  O1a O    40.2149  -27.7845\n            16  O1a O    35.3951  -23.5902\nBOND        17\n            1     2   3 1\n            2     8   9 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     6   1 1\n            7     2   7 1\n            8     1   2 2\n            9     9  10 2\n            10   10  11 1\n            11   11  12 2\n            12   12  13 1\n            13   13  14 2\n            14   14   9 1\n            15    5   8 1\n            16   12  15 1\n            17    8  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

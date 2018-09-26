@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05877",
+    "name": "vinorine,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (21alpha-hydroxylating)",
+    "definition": "Vinorine + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Vomilenine + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C11807 + C03024 + C00007 <=> C01761 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.104"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22326": "vinorine hydroxylase [EC:1.14.14.104]"
+    }
+  }
+]

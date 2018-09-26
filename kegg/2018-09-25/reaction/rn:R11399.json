@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11399",
+    "name": "dolichyl-beta-D-mannosyl-phosphate:protein-threonine O-D-mannosyltransferase",
+    "definition": "Dolichyl phosphate D-mannose + [Protein]-L-threonine <=> Dolichyl phosphate + 3-O-(alpha-D-Mannosyl)-L-threonyl-[protein]",
+    "equation": "C03862 + C19803 <=> C00110 + C20722",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.109"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00728": "dolichyl-phosphate-mannose-protein mannosyltransferase [EC:2.4.1.109]"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C07155",
+    "name": "Tranylcypromine",
+    "names": [
+      "Tranylcypromine"
+    ],
+    "formula": "C9H11N",
+    "exact_mass": 133.0891,
+    "mol_weight": 133.1903,
+    "remark": "Same as: D08625",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "155-09-9"
+      ],
+      "PubChem": [
+        "9364"
+      ],
+      "ChEBI": [
+        "9652"
+      ],
+      "ChEMBL": [
+        "CHEMBL467794"
+      ],
+      "NIKKAJI": [
+        "J252.803G"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1y C    25.4752  -17.1317\n            2   C8y C    24.2782  -17.8382\n            3   C1y C    26.8765  -17.1317\n            4   C1x C    26.1759  -15.9171\n            5   C8x C    23.0635  -17.1317\n            6   C8x C    24.2782  -19.2280\n            7   N1a N    28.0969  -17.8382\n            8   C8x C    21.8490  -17.8382\n            9   C8x C    23.0635  -19.9287\n            10  C8x C    21.8490  -19.2280\nBOND        11\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1 #Up\n            7     5   8 1\n            8     6   9 2\n            9     8  10 2\n            10    3   4 1\n            11    9  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

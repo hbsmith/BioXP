@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C11764",
+    "name": "Sarin",
+    "names": [
+      "Sarin"
+    ],
+    "formula": "C4H10FO2P",
+    "exact_mass": 140.0402,
+    "mol_weight": 140.0932,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "107-44-8"
+      ],
+      "PubChem": [
+        "13928"
+      ],
+      "ChEBI": [
+        "75701"
+      ],
+      "ChEMBL": [
+        "CHEMBL509554"
+      ],
+      "NIKKAJI": [
+        "J5.059H"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1a C    26.2220  -17.7803\n            2   C1c C    25.1048  -17.1438\n            3   O2b O    23.9118  -17.8619\n            4   C1a C    25.1048  -15.8404\n            5   P1a P    22.5967  -17.0100\n            6   C1a C    21.4793  -16.3676\n            7   O3b O    23.3846  -15.7019\n            8   X   F    21.8728  -18.2496\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     2   4 1\n            4     3   5 1\n            5     5   6 1\n            6     5   7 2\n            7     5   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

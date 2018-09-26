@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00579",
+    "name": "glutamine racemase",
+    "definition": "L-Glutamine <=> D-Glutamine",
+    "equation": "C00064 <=> C00819",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.1.10"
+    ],
+    "pathways": {
+      "rn00471": "D-Glutamine and D-glutamate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

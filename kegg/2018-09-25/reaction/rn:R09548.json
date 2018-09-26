@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09548",
+    "name": "germacra-1(10),4,11(13)-trien-12-ol:NADP+ oxidoreductase",
+    "definition": "Germacra-1(10),4,11(13)-trien-12-ol + 2 NADP+ + H2O <=> Germacrene A acid + 2 NADPH + 2 H+",
+    "equation": "C19676 + 2 C00006 + C00001 <=> C19678 + 2 C00005 + 2 C00080",
+    "comment": "two-step reaction (see R09546+R09547)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.314"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15800": "germacrene A oxidase [EC:1.1.1.314 1.14.14.95]"
+    }
+  }
+]

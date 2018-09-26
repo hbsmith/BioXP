@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03935",
+    "name": "beta-Alanyl-L-arginine hydrolase",
+    "definition": "beta-Alanyl-L-arginine + H2O <=> beta-Alanine + Amino acid(Arg-)",
+    "equation": "C05340 + C00001 <=> C00099 + C02385",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.4.13.4"
+    ],
+    "pathways": {
+      "rn00410": "beta-Alanine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

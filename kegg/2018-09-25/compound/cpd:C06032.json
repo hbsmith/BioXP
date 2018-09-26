@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C06032",
+    "name": "D-erythro-3-Methylmalate",
+    "names": [
+      "D-erythro-3-Methylmalate",
+      "(2R,3S)-3-Methylmalate"
+    ],
+    "formula": "C5H8O5",
+    "exact_mass": 148.0372,
+    "mol_weight": 148.114,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00994",
+      "R03898"
+    ],
+    "pathways": {
+      "map00290": "Valine, leucine and isoleucine biosynthesis",
+      "map00660": "C5-Branched dibasic acid metabolism",
+      "map01100": "Metabolic pathways",
+      "map01210": "2-Oxocarboxylic acid metabolism",
+      "map01230": "Biosynthesis of amino acids"
+    },
+    "enzymes": [
+      "1.1.1.85",
+      "4.2.1.35"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8304"
+      ],
+      "ChEBI": [
+        "27394"
+      ],
+      "ChEMBL": [
+        "CHEMBL226414"
+      ],
+      "3DMET": [
+        "B01955"
+      ],
+      "NIKKAJI": [
+        "J883.007J"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1c C    27.0638  -20.9269\n            2   C1c C    25.8626  -20.2331\n            3   C6a C    28.2780  -20.2266\n            4   C1a C    27.0574  -22.3272\n            5   C6a C    24.6485  -20.9334\n            6   O1a O    25.8562  -18.8262\n            7   O6a O    29.4856  -20.9269\n            8   O6a O    28.2652  -18.8199\n            9   O6a O    23.4407  -20.2395\n            10  O6a O    24.6420  -22.3401\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Down\n            6     3   7 1\n            7     3   8 2\n            8     5   9 1\n            9     5  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

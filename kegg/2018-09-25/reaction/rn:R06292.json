@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06292",
+    "name": "ent-Kaur-16-ene,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (hydroxylating)",
+    "definition": "Kaur-16-en-18-ol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Kaur-16-en-18-al + [Oxidized NADPH---hemoprotein reductase] + 2 H2O",
+    "equation": "C11872 + C03024 + C00007 <=> C11873 + C03161 + 2 C00001",
+    "comment": "the second step of three-step reaction (see R10066, R06291+R06292+R06293)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.86"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K04122": "ent-kaurene oxidase [EC:1.14.14.86]",
+      "K21292": "ent-kaurene oxidase [EC:1.14.14.86]"
+    }
+  }
+]

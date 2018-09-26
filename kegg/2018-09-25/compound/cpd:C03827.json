@@ -1,0 +1,87 @@
+[
+  {
+    "entry_id": "C03827",
+    "name": "2-Dehydro-3-deoxy-L-fuconate",
+    "names": [
+      "2-Dehydro-3-deoxy-L-fuconate"
+    ],
+    "formula": "C6H10O5",
+    "exact_mass": 162.0528,
+    "mol_weight": 162.1406,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03688",
+      "R10690"
+    ],
+    "pathways": {
+      "map00051": "Fructose and mannose metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.1.-",
+      "4.2.1.68"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6570"
+      ],
+      "ChEBI": [
+        "16950"
+      ],
+      "NIKKAJI": [
+        "J2.751.180E"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1b C    26.4494  -15.6725\n            2   C1c C    27.6389  -16.3723\n            3   C5a C    25.2598  -16.3723\n            4   C1c C    28.8985  -15.6725\n            5   O1a O    27.6389  -17.7718\n            6   C6a C    24.0003  -15.6725\n            7   O5a O    25.2598  -17.7718\n            8   C1a C    30.0880  -16.3723\n            9   O1a O    28.8985  -14.2731\n            10  O6a O    22.8107  -16.3723\n            11  O6a O    24.0003  -14.2731\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1 #Up\n            5     3   6 1\n            6     3   7 2\n            7     4   8 1\n            8     4   9 1 #Up\n            9     6  10 1\n            10    6  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C03827",
+    "name": "2-Dehydro-3-deoxy-L-fuconate",
+    "names": [
+      "2-Dehydro-3-deoxy-L-fuconate"
+    ],
+    "formula": "C6H10O5",
+    "exact_mass": 162.0528,
+    "mol_weight": 162.1406,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03688",
+      "R10690"
+    ],
+    "pathways": {
+      "map00051": "Fructose and mannose metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.1.-",
+      "4.2.1.68"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6570"
+      ],
+      "ChEBI": [
+        "16950"
+      ],
+      "NIKKAJI": [
+        "J2.751.180E"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1b C    26.4494  -15.6725\n            2   C1c C    27.6389  -16.3723\n            3   C5a C    25.2598  -16.3723\n            4   C1c C    28.8985  -15.6725\n            5   O1a O    27.6389  -17.7718\n            6   C6a C    24.0003  -15.6725\n            7   O5a O    25.2598  -17.7718\n            8   C1a C    30.0880  -16.3723\n            9   O1a O    28.8985  -14.2731\n            10  O6a O    22.8107  -16.3723\n            11  O6a O    24.0003  -14.2731\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1 #Up\n            5     3   6 1\n            6     3   7 2\n            7     4   8 1\n            8     4   9 1 #Up\n            9     6  10 1\n            10    6  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

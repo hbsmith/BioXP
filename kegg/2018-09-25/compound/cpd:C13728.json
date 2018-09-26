@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C13728",
+    "name": "4-Aminopyridine",
+    "names": [
+      "4-Aminopyridine",
+      "4-AP"
+    ],
+    "formula": "C5H6N2",
+    "exact_mass": 94.0531,
+    "mol_weight": 94.1145,
+    "remark": "Same as: D04127",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "504-24-5"
+      ],
+      "PubChem": [
+        "586317"
+      ],
+      "ChEBI": [
+        "34385"
+      ],
+      "ChEMBL": [
+        "CHEMBL284348"
+      ],
+      "PDB-CCD": [
+        "4AP"
+      ],
+      "NIKKAJI": [
+        "J1.568G"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C8x C    21.6066  -17.8080\n            2   C8x C    21.6066  -19.2084\n            3   N5x N    22.8222  -19.9086\n            4   C8x C    24.0307  -19.2084\n            5   C8x C    24.0307  -17.8080\n            6   C8y C    22.8222  -17.1079\n            7   N1a N    22.8241  -15.7076\nBOND        7\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     6   1 1\n            7     6   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

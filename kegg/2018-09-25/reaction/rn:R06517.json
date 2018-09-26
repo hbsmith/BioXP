@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06517",
+    "name": "acyl-CoA:sphingosine N-acyltransferase",
+    "definition": "Acyl-CoA + Sphinganine <=> CoA + Dihydroceramide",
+    "equation": "C00040 + C00836 <=> C00010 + C12126",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.24"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K04709": "Acyl-CoA-dependent ceramide synthase [EC:2.3.1.24]",
+      "K04710": "ceramide synthetase [EC:2.3.1.24]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05126",
+    "name": "thebaine,2-oxoglutarate:oxygen oxidoreductase (6-O-demethylating)",
+    "definition": "Thebaine + 2-Oxoglutarate + Oxygen <=> Neopinone + Formaldehyde + Succinate + CO2",
+    "equation": "C06173 + C00026 + C00007 <=> C06172 + C00067 + C00042 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.31"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K14976": "thebaine 6-O-demethylase [EC:1.14.11.31]"
+    }
+  }
+]

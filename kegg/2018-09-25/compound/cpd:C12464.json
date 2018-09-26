@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C12464",
+    "name": "3-Methyl-beta-keto-L-tyrosyl-[pcp]",
+    "names": [
+      "3-Methyl-beta-keto-L-tyrosyl-[pcp]"
+    ],
+    "formula": "C10H10NO3SR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = PCP (peptidyl carrier protein)",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "582854"
+      ],
+      "ChEBI": [
+        "31118"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   S2a S    21.6295  -16.5739\n            2   C5a C    22.8419  -15.8691\n            3   C1c C    24.0544  -16.5669\n            4   C5a C    25.2669  -15.8620\n            5   C8y C    26.4793  -16.5598\n            6   C8x C    26.4838  -17.9562\n            7   C8y C    27.6962  -18.6470\n            8   C8y C    28.9043  -17.9485\n            9   C8x C    28.8997  -16.5522\n            10  C8x C    27.6874  -15.8543\n            11  O1a O    30.1222  -18.6424\n            12  O5a O    25.2639  -14.4591\n            13  O5a O    22.8388  -14.4662\n            14  N1a N    24.0574  -17.9696\n            15  R   R    20.2267  -16.5669\n            16  C1a C    27.7007  -20.0498\nBOND        16\n            1     6   7 1\n            2     7   8 2\n            3     8   9 1\n            4     9  10 2\n            5    10   5 1\n            6     2   3 1\n            7     8  11 1\n            8     1   2 1\n            9     4  12 2\n            10    3   4 1\n            11    2  13 2\n            12    3  14 1 #Down\n            13    4   5 1\n            14    1  15 1\n            15    5   6 2\n            16    7  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

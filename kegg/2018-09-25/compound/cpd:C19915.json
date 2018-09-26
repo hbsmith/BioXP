@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C19915",
+    "name": "Pyrazinoic acid",
+    "names": [
+      "Pyrazinoic acid",
+      "2-Pyrazinecarboxylic acid"
+    ],
+    "formula": "C5H4N2O2",
+    "exact_mass": 124.0273,
+    "mol_weight": 124.0975,
+    "remark": "",
+    "comment": "Pyrazinamide [CPD:C01956] metabolite",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "98-97-5"
+      ],
+      "PubChem": [
+        "135626381"
+      ],
+      "ChEBI": [
+        "71311"
+      ],
+      "ChEMBL": [
+        "CHEMBL613"
+      ],
+      "PDB-CCD": [
+        "VGL"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    16.3100  -15.8900\n            2   C8x C    16.3100  -17.2900\n            3   N5x N    17.5224  -17.9900\n            4   C8x C    18.7349  -17.2900\n            5   C8y C    18.7349  -15.8900\n            6   N5x N    17.5224  -15.1900\n            7   C6a C    19.9724  -15.1900\n            8   O6a O    21.1849  -15.8900\n            9   O6a O    19.9786  -13.7903\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

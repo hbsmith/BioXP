@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08764",
+    "name": "6-hydroxynicotinate,NADH:oxygen oxidoreductase (3-hydroxylating, decarboxylating)",
+    "definition": "6-Hydroxynicotinate + NADH + Oxygen + H+ <=> 2,5-Dihydroxypyridine + NAD+ + CO2 + H2O",
+    "equation": "C01020 + C00004 + C00007 + C00080 <=> C01059 + C00003 + C00011 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.114"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K14974": "6-hydroxynicotinate 3-monooxygenase [EC:1.14.13.114]"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C15249",
+    "name": "2-(3,5-Dichlorophenylcarbamoyl)-1,2-dimethylcyclopropane-1-carboxylic acid",
+    "names": [
+      "2-(3,5-Dichlorophenylcarbamoyl)-1,2-dimethylcyclopropane-1-carboxylic acid"
+    ],
+    "formula": "C13H13Cl2NO3",
+    "exact_mass": 301.0272,
+    "mol_weight": 302.1532,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "71937-45-6"
+      ],
+      "PubChem": [
+        "17396246"
+      ],
+      "ChEBI": [
+        "79751"
+      ],
+      "NIKKAJI": [
+        "J31.001H"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   C8y C    23.4614  -18.6420\n            2   C8x C    23.4614  -20.0445\n            3   C8y C    24.6797  -20.7494\n            4   C8x C    25.8911  -20.0445\n            5   C8y C    25.8911  -18.6420\n            6   C8x C    24.6797  -17.9443\n            7   N1b N    27.0979  -17.9443\n            8   C5a C    28.3100  -18.6351\n            9   C1z C    29.5223  -17.9374\n            10  O5a O    28.3031  -20.0374\n            11  X   Cl   24.7365  -22.1517\n            12  X   Cl   22.2320  -17.9297\n            13  C1z C    30.9223  -17.9374\n            14  C1x C    30.2223  -16.7250\n            15  C1a C    28.5324  -16.9475\n            16  C1a C    32.1402  -18.6407\n            17  C6a C    31.9298  -16.9299\n            18  O6a O    33.2754  -17.2906\n            19  O6a O    31.5694  -15.5846\nBOND        20\n            1     1   2 2\n            2     7   8 1\n            3     2   3 1\n            4     8   9 1\n            5     3   4 2\n            6     4   5 1\n            7     8  10 2\n            8     5   6 2\n            9     6   1 1\n            10    3  11 1\n            11    5   7 1\n            12    1  12 1\n            13    9  13 1\n            14    9  14 1\n            15   13  14 1\n            16    9  15 1\n            17   13  16 1\n            18   13  17 1\n            19   17  18 1\n            20   17  19 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

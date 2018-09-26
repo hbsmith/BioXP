@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C07103",
+    "name": "2-Hydroxy-1,4-benzoquinone",
+    "names": [
+      "2-Hydroxy-1,4-benzoquinone",
+      "Hydroxybenzoquinone"
+    ],
+    "formula": "C6H4O3",
+    "exact_mass": 124.016,
+    "mol_weight": 124.0942,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05388",
+      "R05399",
+      "R06853",
+      "R06854"
+    ],
+    "pathways": {
+      "map00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "map00627": "Aminobenzoate degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.-.-",
+      "1.6.5.7",
+      "4.5.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "2474-72-8"
+      ],
+      "PubChem": [
+        "9314"
+      ],
+      "ChEBI": [
+        "18400"
+      ],
+      "3DMET": [
+        "B01070"
+      ],
+      "NIKKAJI": [
+        "J546.100F"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C2y C    29.4326  -16.2556\n            2   C5x C    28.2207  -15.5530\n            3   C2x C    29.4326  -17.6546\n            4   O1a O    30.6444  -15.5530\n            5   C2x C    27.0089  -16.2556\n            6   O5x O    28.2265  -14.1540\n            7   C5x C    28.2207  -18.3571\n            8   C2x C    27.0089  -17.6546\n            9   O5x O    28.2265  -19.7564\nBOND        9\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     5   8 2\n            8     7   9 2\n            9     7   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R10843",
+    "name": "zeaxanthin:oxygen oxidoreductase (7,8-cleaving)",
+    "definition": "Zeaxanthin + Oxygen <=> beta-Citraurin + (3S)-3-Hydroxycyclocitral",
+    "equation": "C06098 + C00007 <=> C20894 + C19731",
+    "comment": "the first step of two-step reaction (see R09603, R10843+R10844)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.84"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22458": "crocetin dialdehyde synthase [EC:1.13.11.84]"
+    }
+  }
+][
+  {
+    "entry_id": "R10843",
+    "name": "zeaxanthin:oxygen oxidoreductase (7,8-cleaving)",
+    "definition": "Zeaxanthin + Oxygen <=> beta-Citraurin + (3S)-3-Hydroxycyclocitral",
+    "equation": "C06098 + C00007 <=> C20894 + C19731",
+    "comment": "the first step of two-step reaction (see R09603, R10843+R10844)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.84"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22458": "crocetin dialdehyde synthase [EC:1.13.11.84]"
+    }
+  }
+]

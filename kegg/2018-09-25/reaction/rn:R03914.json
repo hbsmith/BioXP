@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03914",
+    "name": "protein-dithiol:NADP+ oxidoreductase; NADPH:protein-disulfide oxidoreductase",
+    "definition": "Protein dithiol + NADP+ <=> Protein disulfide + NADPH + H+",
+    "equation": "C02315 + C00006 <=> C02582 + C00005 + C00080",
+    "comment": "see R03913 (NADH)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.1.8"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

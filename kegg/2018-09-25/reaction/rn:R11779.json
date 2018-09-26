@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R11779",
+    "name": "S-adenosyl-L-methionine:8-amino-8-demethylriboflavin N-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 8-Amino-8-demethylriboflavin <=> S-Adenosyl-L-homocysteine + 8-Demethyl-8-(methylamino)riboflavin",
+    "equation": "C00019 + C21646 <=> C00021 + C21648",
+    "comment": "first step of two-step reaction (see R11778, R11779+R11780) subsequently R11780",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.343"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "orthologs": {
+      "K22269": "8-amino-8-demethylriboflavin N,N-dimethyltransferase [EC:2.1.1.343]"
+    }
+  }
+][
+  {
+    "entry_id": "R11779",
+    "name": "S-adenosyl-L-methionine:8-amino-8-demethylriboflavin N-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 8-Amino-8-demethylriboflavin <=> S-Adenosyl-L-homocysteine + 8-Demethyl-8-(methylamino)riboflavin",
+    "equation": "C00019 + C21646 <=> C00021 + C21648",
+    "comment": "first step of two-step reaction (see R11778, R11779+R11780) subsequently R11780",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.343"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "orthologs": {
+      "K22269": "8-amino-8-demethylriboflavin N,N-dimethyltransferase [EC:2.1.1.343]"
+    }
+  }
+]

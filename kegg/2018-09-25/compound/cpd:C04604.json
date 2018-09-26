@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C04604",
+    "name": "3-Hydroxy-2-methylpyridine-4,5-dicarboxylate",
+    "names": [
+      "3-Hydroxy-2-methylpyridine-4,5-dicarboxylate"
+    ],
+    "formula": "C8H7NO5",
+    "exact_mass": 197.0324,
+    "mol_weight": 197.1449,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03461",
+      "R04524"
+    ],
+    "pathways": {
+      "map00750": "Vitamin B6 metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.2.1.100",
+      "4.1.1.51"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7197"
+      ],
+      "ChEBI": [
+        "17978"
+      ],
+      "3DMET": [
+        "B00738"
+      ],
+      "NIKKAJI": [
+        "J102.235K"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    17.3770  -16.8672\n            2   C8y C    18.6020  -17.5663\n            3   C8y C    16.1712  -17.5663\n            4   C6a C    17.3770  -15.4690\n            5   C8x C    18.6020  -18.9773\n            6   C6a C    19.8078  -16.8608\n            7   C8y C    16.1712  -18.9773\n            8   O1a O    14.9590  -16.8672\n            9   O6a O    18.5828  -14.7764\n            10  O6a O    16.1649  -14.7829\n            11  N5x N    17.3770  -19.6893\n            12  O6a O    21.0136  -17.5600\n            13  O6a O    19.8015  -15.6090\n            14  C1a C    14.9590  -19.6636\nBOND        14\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     3   8 1\n            8     4   9 1\n            9     4  10 2\n            10    5  11 1\n            11    6  12 1\n            12    6  13 2\n            13    7  14 1\n            14    7  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

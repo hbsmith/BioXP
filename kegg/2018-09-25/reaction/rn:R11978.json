@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11978",
+    "name": "ent-isokaurene,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase",
+    "definition": "ent-2alpha-Hydroxyisokaurene + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> ent-2alpha,3alpha-Dihydroxyisokaurene + H2O + [Oxidized NADPH---hemoprotein reductase]",
+    "equation": "C20146 + C00007 + C03024 <=> C21831 + C00001 + C03161",
+    "comment": "the second step of two-step reaction (see R12058, R09861+R11978)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.76"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K16083": "ent-isokaurene hydroxylase [EC:1.14.14.76]"
+    }
+  }
+]

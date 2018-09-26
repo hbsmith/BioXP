@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R00910",
+    "name": "L-lysine:beta-alanine ligase (ADP-forming)",
+    "definition": "ATP + L-Lysine + beta-Alanine <=> ADP + Orthophosphate + beta-Alanyl-L-lysine",
+    "equation": "C00002 + C00047 + C00099 <=> C00008 + C00009 + C05341",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.11"
+    ],
+    "pathways": {
+      "rn00410": "beta-Alanine metabolism"
+    },
+    "orthologs": {
+      "K14755": "carnosine synthase [EC:6.3.2.11]"
+    }
+  }
+][
+  {
+    "entry_id": "R00910",
+    "name": "L-lysine:beta-alanine ligase (ADP-forming)",
+    "definition": "ATP + L-Lysine + beta-Alanine <=> ADP + Orthophosphate + beta-Alanyl-L-lysine",
+    "equation": "C00002 + C00047 + C00099 <=> C00008 + C00009 + C05341",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.11"
+    ],
+    "pathways": {
+      "rn00410": "beta-Alanine metabolism"
+    },
+    "orthologs": {
+      "K14755": "carnosine synthase [EC:6.3.2.11]"
+    }
+  }
+]

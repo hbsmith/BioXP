@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00122",
+    "name": "ADP phosphohydrolase",
+    "definition": "ADP + H2O <=> AMP + Orthophosphate",
+    "equation": "C00008 + C00001 <=> C00020 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.5"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K01510": "apyrase [EC:3.6.1.5]",
+      "K14641": "apyrase [EC:3.6.1.5]",
+      "K14642": "golgi apyrase [EC:3.6.1.5]"
+    }
+  }
+]

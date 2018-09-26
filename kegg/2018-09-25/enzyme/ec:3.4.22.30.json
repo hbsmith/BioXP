@@ -1,0 +1,255 @@
+[
+  {
+    "entry_id": "3.4.22.30",
+    "name": "caricain",
+    "names": [
+      "caricain",
+      "papaya peptidase A",
+      "papaya peptidase II",
+      "papaya proteinase",
+      "papaya proteinase III",
+      "papaya proteinase 3",
+      "proteinase omega",
+      "papaya proteinase A",
+      "chymopapain S",
+      "Pp"
+    ],
+    "classes": [
+      "Hydrolases;",
+      "Acting on peptide bonds (peptidases);",
+      "Cysteine endopeptidases"
+    ],
+    "sysname": "",
+    "reaction": "Hydrolysis of proteins with broad specificity for peptide bonds, similar to those of papain and chymopapain",
+    "all_reac": "",
+    "iubmb_reactions": [
+
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+
+    ],
+    "products": [
+
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "From papaya plant, Carica papaya. In peptidase family C1 (papain family)",
+    "pathways": {
+    },
+    "orthologs": {
+      "K20739": "caricain"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "3.4.22.30"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "3.4.22.30"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "3.4.22.30"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "3.4.22.30"
+      ],
+      "CAS": [
+        "39307-22-7"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Schack P."
+        ],
+        "title": "Fractionation of proteolytic enzymes of dried papaya latex. Isolation and preliminary characterization of a new proteolytic enzyme.",
+        "journal": "C R Trav Lab Carlsberg",
+        "volume": "36",
+        "issue": "",
+        "pages": "67-83",
+        "year": "1967",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:6043136]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Robinson GW."
+        ],
+        "title": "Isolation and characterization of papaya peptidase A from commercial chymopapain.",
+        "journal": "Biochemistry",
+        "volume": "14",
+        "issue": "",
+        "pages": "3695-700",
+        "year": "1975",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:240390]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Polgar L."
+        ],
+        "title": "Problems of classification of papaya latex proteinases.",
+        "journal": "Biochem J",
+        "volume": "221",
+        "issue": "",
+        "pages": "555-6",
+        "year": "1984",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:6383350]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Brocklehurst K",
+          "Salih E",
+          "McKee R",
+          "Smith H."
+        ],
+        "title": "Fresh non-fruit latex of Carica papaya contains papain, multiple forms of chymopapain A and papaya proteinase omega.",
+        "journal": "Biochem J",
+        "volume": "228",
+        "issue": "",
+        "pages": "525-7",
+        "year": "1985",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:4015629]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zucker S",
+          "Buttle DJ",
+          "Nicklin MJ",
+          "Barrett AJ."
+        ],
+        "title": "The proteolytic activities of chymopapain, papain, and papaya proteinase III.",
+        "journal": "Biochim Biophys Acta 828:196-204 (1985) DOI:10.1016/0167-4838(85)90057-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "5  [PMID:3919769]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dubois T",
+          "Kleinschmidt T",
+          "Schnek AG",
+          "Looze Y",
+          "Braunitzer G."
+        ],
+        "title": "The thiol proteinases from the latex of Carica papaya L. II. The primary structure of proteinase omega.",
+        "journal": "Biol Chem Hoppe Seyler",
+        "volume": "369",
+        "issue": "",
+        "pages": "741-54",
+        "year": "1988",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "6  [PMID:3063283]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07654",
+    "name": "4,4'-diaponeurosporene,AH2:oxygen 4-oxidoreductase",
+    "definition": "4,4'-Diaponeurosporene + 3 Reduced acceptor + 3 Oxygen <=> 4,4'-Diaponeurosporenic acid + 3 Acceptor + 4 H2O",
+    "equation": "C16145 + 3 C00030 + 3 C00007 <=> C16146 + 3 C00028 + 4 C00001",
+    "comment": "4,4'-diaponeurosporene oxidase(crtP) multi-step reaction (see R09727+R09728)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.44"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis"
+    },
+    "orthologs": {
+      "K10210": "diapolycopene oxygenase [EC:1.14.99.44]"
+    }
+  }
+]

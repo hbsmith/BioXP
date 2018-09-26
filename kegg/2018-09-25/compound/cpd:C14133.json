@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C14133",
+    "name": "2,2-(2-Chlorophenyl-4'-chlorophenyl)-1,1-dichloroethene",
+    "names": [
+      "2,2-(2-Chlorophenyl-4'-chlorophenyl)-1,1-dichloroethene",
+      "1,1-Dichloro-2-(o-chlorophenyl)-2-(p-chlorophenyl)ethylene",
+      "2,4'-DDE",
+      "o,p'-DDE"
+    ],
+    "formula": "C14H8Cl4",
+    "exact_mass": 315.938,
+    "mol_weight": 318.0253,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "3424-82-6"
+      ],
+      "PubChem": [
+        "7846947"
+      ],
+      "ChEBI": [
+        "34211"
+      ],
+      "ChEMBL": [
+        "CHEMBL1391"
+      ],
+      "NIKKAJI": [
+        "J80.730C"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C8x C    25.0333  -19.8529\n            2   C8y C    25.0333  -21.2498\n            3   C8x C    26.2430  -21.9483\n            4   C8x C    27.4527  -21.2498\n            5   C8y C    27.4527  -19.8529\n            6   C8x C    26.2430  -19.1545\n            7   C2c C    28.6811  -19.1435\n            8   C8y C    29.8836  -19.8377\n            9   C2c C    28.6808  -17.7577\n            10  X   Cl   27.4592  -17.0526\n            11  X   Cl   29.8786  -17.0658\n            12  C8y C    29.8840  -21.2494\n            13  C8x C    31.0939  -21.9476\n            14  C8x C    32.3035  -21.2487\n            15  C8x C    32.3030  -19.8369\n            16  C8x C    31.0931  -19.1388\n            17  X   Cl   23.8236  -21.9483\n            18  X   Cl   28.6510  -21.9622\nBOND        19\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     7   9 2\n            10    9  10 1\n            11    9  11 1\n            12    8  12 2\n            13   12  13 1\n            14   13  14 2\n            15   14  15 1\n            16   15  16 2\n            17    8  16 1\n            18    2  17 1\n            19   12  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R09862",
+    "name": "9beta-pimara-7,15-diene,[reduced NADPH---hemoprotein reductase]:oxygen 19-oxidoreductase",
+    "definition": "9beta-Pimara-7,15-diene + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> 9beta-Pimara-7,15-dien-19-ol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C18225 + C00007 + C03024 <=> C20147 + C03161 + C00001",
+    "comment": "the first step of three-step reaction (see R09865, R09862+R09863+R09864)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.111"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

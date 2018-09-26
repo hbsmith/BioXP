@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01004",
+    "name": "Dolichyl-diphosphate phosphohydrolase",
+    "definition": "Dolichyl diphosphate + H2O <=> Dolichyl phosphate + Orthophosphate",
+    "equation": "C00621 + C00001 <=> C00110 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.43"
+    ],
+    "pathways": {
+      "rn00510": "N-Glycan biosynthesis"
+    },
+    "orthologs": {
+      "K07252": "dolichyldiphosphatase [EC:3.6.1.43]"
+    }
+  }
+]

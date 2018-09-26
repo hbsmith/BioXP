@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R10562",
+    "name": "(6E,10E)-geranyllinalool,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase",
+    "definition": "(E,E)-Geranyllinalool + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> (E,E)-4,8,12-Trimethyltrideca-1,3,7,11-tetraene + But-3-en-2-one + [Oxidized NADPH---hemoprotein reductase] + 2 H2O",
+    "equation": "C20681 + C03024 + C00007 <=> C20700 + C20701 + C03161 + 2 C00001",
+    "comment": "CYP82G1",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.58"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis"
+    },
+    "orthologs": {
+      "K17961": "trimethyltridecatetraene/dimethylnonatriene synthase [EC:1.14.14.58 1.14.14.59]",
+      "K22639": "trimethyltridecatetraene/dimethylnonatriene synthase [EC:1.14.14.58 1.14.14.59]",
+      "K22640": "trimethyltridecatetraene synthase [EC:1.14.14.58]"
+    }
+  }
+]

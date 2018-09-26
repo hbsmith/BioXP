@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00371",
+    "name": "Acetyl-CoA:glycine C-acetyltransferase",
+    "definition": "Acetyl-CoA + Glycine <=> CoA + L-2-Amino-3-oxobutanoic acid",
+    "equation": "C00024 + C00037 <=> C00010 + C03508",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.29"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism"
+    },
+    "orthologs": {
+      "K00639": "glycine C-acetyltransferase [EC:2.3.1.29]"
+    }
+  }
+]

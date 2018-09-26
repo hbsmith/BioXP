@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C18257",
+    "name": "Pyrene-1,6-dione",
+    "names": [
+      "Pyrene-1,6-dione",
+      "1,6-Pyrenequinone"
+    ],
+    "formula": "C16H8O2",
+    "exact_mass": 232.0524,
+    "mol_weight": 232.2335,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09173"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1785-51-9"
+      ],
+      "PubChem": [
+        "103061439"
+      ],
+      "ChEBI": [
+        "81608"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C2x C    23.5902  -19.3202\n            2   C2x C    23.5902  -20.7202\n            3   C5x C    24.8027  -21.4202\n            4   C8y C    26.0152  -20.7202\n            5   C8y C    26.0152  -19.3202\n            6   C8y C    24.8027  -18.6202\n            7   C8y C    27.2276  -18.6202\n            8   C8y C    27.2276  -17.2202\n            9   C8x C    26.0152  -16.5202\n            10  C8x C    24.8027  -17.2202\n            11  C8x C    27.2276  -21.4202\n            12  C8x C    28.4400  -20.7202\n            13  C8y C    28.4400  -19.3202\n            14  C2x C    29.6525  -18.6202\n            15  C2x C    29.6525  -17.2202\n            16  C5x C    28.4400  -16.5202\n            17  O5x O    28.4399  -15.1202\n            18  O5x O    24.8026  -22.8200\nBOND        21\n            1     1   2 2\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     5   7 2\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    6  10 2\n            12    4  11 2\n            13   11  12 1\n            14   12  13 2\n            15    7  13 1\n            16   13  14 1\n            17   14  15 2\n            18   15  16 1\n            19    8  16 1\n            20   16  17 2\n            21    3  18 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

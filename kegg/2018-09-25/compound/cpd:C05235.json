@@ -1,0 +1,125 @@
+[
+  {
+    "entry_id": "C05235",
+    "name": "Hydroxyacetone",
+    "names": [
+      "Hydroxyacetone",
+      "Acetol",
+      "1-Hydroxy-2-propanone",
+      "2-Ketopropyl alcohol",
+      "Acetone alcohol",
+      "Pyruvinalcohol",
+      "Pyruvic alcohol",
+      "Methylketol"
+    ],
+    "formula": "C3H6O2",
+    "exact_mass": 74.0368,
+    "mol_weight": 74.0785,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02528",
+      "R10717",
+      "R10718"
+    ],
+    "pathways": {
+      "map00640": "Propanoate metabolism"
+    },
+    "enzymes": [
+      "1.1.1.6",
+      "1.1.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "116-09-6"
+      ],
+      "PubChem": [
+        "7630"
+      ],
+      "ChEBI": [
+        "27957"
+      ],
+      "KNApSAcK": [
+        "C00019558"
+      ],
+      "PDB-CCD": [
+        "4Y8"
+      ],
+      "3DMET": [
+        "B00761"
+      ],
+      "NIKKAJI": [
+        "J2.470H"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C5a C    25.8402  -20.2300\n            2   C1b C    27.0398  -19.5324\n            3   O5a O    25.8402  -21.6207\n            4   C1a C    24.6139  -19.5324\n            5   O1a O    28.2660  -20.2300\nBOND        4\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C05235",
+    "name": "Hydroxyacetone",
+    "names": [
+      "Hydroxyacetone",
+      "Acetol",
+      "1-Hydroxy-2-propanone",
+      "2-Ketopropyl alcohol",
+      "Acetone alcohol",
+      "Pyruvinalcohol",
+      "Pyruvic alcohol",
+      "Methylketol"
+    ],
+    "formula": "C3H6O2",
+    "exact_mass": 74.0368,
+    "mol_weight": 74.0785,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02528",
+      "R10717",
+      "R10718"
+    ],
+    "pathways": {
+      "map00640": "Propanoate metabolism"
+    },
+    "enzymes": [
+      "1.1.1.6",
+      "1.1.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "116-09-6"
+      ],
+      "PubChem": [
+        "7630"
+      ],
+      "ChEBI": [
+        "27957"
+      ],
+      "KNApSAcK": [
+        "C00019558"
+      ],
+      "PDB-CCD": [
+        "4Y8"
+      ],
+      "3DMET": [
+        "B00761"
+      ],
+      "NIKKAJI": [
+        "J2.470H"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C5a C    25.8402  -20.2300\n            2   C1b C    27.0398  -19.5324\n            3   O5a O    25.8402  -21.6207\n            4   C1a C    24.6139  -19.5324\n            5   O1a O    28.2660  -20.2300\nBOND        4\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05841",
+    "name": "phenylacetyl-CoA:glycine N-phenylacetyltransferase",
+    "definition": "Phenylacetyl-CoA + Glycine <=> Phenylacetylglycine + CoA",
+    "equation": "C00582 + C00037 <=> C05598 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.192"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism"
+    },
+    "orthologs": {
+      "K15517": "glycine N-phenylacetyltransferase [EC:2.3.1.192]"
+    }
+  }
+]

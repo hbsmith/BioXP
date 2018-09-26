@@ -1,0 +1,79 @@
+[
+  {
+    "entry_id": "C00346",
+    "name": "Ethanolamine phosphate",
+    "names": [
+      "Ethanolamine phosphate",
+      "O-Phosphorylethanolamine",
+      "Phosphoethanolamine",
+      "O-Phosphoethanolamine"
+    ],
+    "formula": "C2H8NO4P",
+    "exact_mass": 141.0191,
+    "mol_weight": 141.063,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00748",
+      "R01468",
+      "R02037",
+      "R02038",
+      "R02052",
+      "R02464",
+      "R02817",
+      "R06516",
+      "R06870",
+      "R07380",
+      "R07381"
+    ],
+    "pathways": {
+      "map00564": "Glycerophospholipid metabolism",
+      "map00600": "Sphingolipid metabolism",
+      "map01100": "Metabolic pathways",
+      "map01503": "Cationic antimicrobial peptide (CAMP) resistance",
+      "map04071": "Sphingolipid signaling pathway"
+    },
+    "enzymes": [
+      "2.1.1.103",
+      "2.7.1.82",
+      "2.7.7.14",
+      "3.1.3.75",
+      "3.1.4.3",
+      "3.1.4.13",
+      "3.1.4.-",
+      "4.1.2.27",
+      "4.1.2.-",
+      "4.2.3.2"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1071-23-4"
+      ],
+      "PubChem": [
+        "3639"
+      ],
+      "ChEBI": [
+        "17553"
+      ],
+      "ChEMBL": [
+        "CHEMBL146972"
+      ],
+      "PDB-CCD": [
+        "OPE"
+      ],
+      "3DMET": [
+        "B00092"
+      ],
+      "NIKKAJI": [
+        "J12.176B"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   O2b O    22.5787  -16.1361\n            2   P1b P    23.9761  -16.1996\n            3   C1b C    21.3616  -16.9081\n            4   O1c O    25.3734  -16.1996\n            5   O1c O    24.0396  -14.7323\n            6   O1c O    24.0396  -17.6736\n            7   C1b C    20.1509  -16.2061\n            8   N1a N    18.9402  -16.9081\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     7   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

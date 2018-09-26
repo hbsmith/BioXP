@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01890",
+    "name": "CTP:choline-phosphate cytidylyltransferase",
+    "definition": "CTP + Choline phosphate <=> Diphosphate + CDP-choline",
+    "equation": "C00063 + C00588 <=> C00013 + C00307",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.15"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00968": "choline-phosphate cytidylyltransferase [EC:2.7.7.15]"
+    }
+  }
+]

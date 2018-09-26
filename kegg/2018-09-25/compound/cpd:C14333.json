@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C14333",
+    "name": "Propyzamide",
+    "names": [
+      "Propyzamide",
+      "Pronamide",
+      "3,5-Dichloro-N-(1,1-dimethyl-2-propynyl)benzamide"
+    ],
+    "formula": "C12H11Cl2NO",
+    "exact_mass": 255.0218,
+    "mol_weight": 256.1278,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "23950-58-5"
+      ],
+      "PubChem": [
+        "17395333"
+      ],
+      "ChEBI": [
+        "34935"
+      ],
+      "ChEMBL": [
+        "CHEMBL283487"
+      ],
+      "NIKKAJI": [
+        "J1.873B"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C3a C    24.5638  -21.0712\n            2   C3b C    25.7661  -21.7957\n            3   C8x C    30.5052  -24.6936\n            4   C8x C    29.2504  -26.7761\n            5   C8x C    31.6813  -26.8215\n            6   C8y C    29.2767  -25.3725\n            7   C8y C    31.7075  -25.4180\n            8   C8y C    30.4527  -27.5005\n            9   C5a C    28.0744  -24.6481\n            10  C1a C    27.6928  -21.3179\n            11  C1a C    26.2439  -23.7224\n            12  C1d C    26.9684  -22.5202\n            13  N1b N    28.1005  -23.2447\n            14  O5a O    26.8458  -25.3271\n            15  X   Cl   32.9360  -24.7391\n            16  X   Cl   30.4264  -28.9040\nBOND        16\n            1     1   2 3\n            2     2  12 1\n            3     3   6 2\n            4     3   7 1\n            5     4   6 1\n            6     4   8 2\n            7     5   7 2\n            8     5   8 1\n            9     6   9 1\n            10    7  15 1\n            11    8  16 1\n            12    9  13 1\n            13    9  14 2\n            14   10  12 1\n            15   11  12 1\n            16   12  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

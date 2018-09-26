@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R00558",
+    "name": "L-arginine,NADPH:oxygen oxidoreductase (N-(omega)-hydroxyarginine-forming)",
+    "definition": "L-Arginine + Oxygen + NADPH + H+ <=> N(omega)-Hydroxyarginine + NADP+ + H2O",
+    "equation": "C00062 + C00007 + C00005 + C00080 <=> C05933 + C00006 + C00001",
+    "comment": "the former part of multi-step reaction (see R00557, R00558+R00111) subsequently R00111 NADH (see R10107)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.39"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism"
+    },
+    "orthologs": {
+      "K13240": "nitric-oxide synthase, brain [EC:1.14.13.39]",
+      "K13241": "nitric-oxide synthase, inducible [EC:1.14.13.39]",
+      "K13242": "nitric-oxide synthase, endothelial [EC:1.14.13.39]",
+      "K13427": "nitric-oxide synthase, plant [EC:1.14.13.39]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05795",
+    "name": "ATP:1-phosphatidyl-1D-myo-inositol-4-phosphate 3-phosphotransferase",
+    "definition": "ATP + 1-Phosphatidyl-1D-myo-inositol 4-phosphate <=> ADP + 1-Phosphatidyl-1D-myo-inositol 3,4-bisphosphate",
+    "equation": "C00002 + C01277 <=> C00008 + C11554",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.154"
+    ],
+    "pathways": {
+      "rn00562": "Inositol phosphate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00923": "phosphatidylinositol-4-phosphate 3-kinase [EC:2.7.1.154]",
+      "K02649": "phosphoinositide-3-kinase regulatory subunit alpha/beta/delta"
+    }
+  }
+]

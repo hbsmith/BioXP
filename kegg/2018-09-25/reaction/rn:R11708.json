@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11708",
+    "name": "acetyl-CoA:3-phosphonopyruvate C-acetyltransferase",
+    "definition": "Acetyl-CoA + H2O + 3-Phosphonopyruvate <=> (R)-2-(Phosphonomethyl)malate + CoA",
+    "equation": "C00024 + C00001 + C02798 <=> C21613 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.3.19"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism"
+    },
+    "orthologs": {
+      "K21934": "2-phosphonomethylmalate synthase [EC:2.3.3.19]"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04315",
+    "name": "2'-Deoxyribonucleoside triphosphate:oxydized-thioredoxin 2'-oxidoreductase",
+    "definition": "Deoxynucleoside triphosphate + Thioredoxin disulfide + H2O <=> Ribonucleoside triphosphate + Thioredoxin",
+    "equation": "C00677 + C00343 + C00001 <=> C03802 + C00342",
+    "comment": "general reaction (see R02014, R02020, R02022 and R02023)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.17.4.2"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00527": "ribonucleoside-triphosphate reductase (thioredoxin) [EC:1.17.4.2]"
+    }
+  }
+]

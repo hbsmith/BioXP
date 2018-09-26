@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R02470",
+    "name": "(S)-limonene,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (7-hydroxylating)",
+    "definition": "(-)-Limonene + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Perillyl alcohol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C00521 + C03024 + C00007 <=> C02452 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.52"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn00903": "Limonene and pinene degradation",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K07382": "(S)-limonene 7-monooxygenase [EC:1.14.14.52]",
+      "K14732": "limonene hydroxylase [EC:1.14.14.51 1.14.14.52 1.1.1.243 1.1.1.144]"
+    }
+  }
+]

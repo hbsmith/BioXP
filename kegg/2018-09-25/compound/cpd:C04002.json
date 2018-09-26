@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C04002",
+    "name": "(Z)-But-1-ene-1,2,4-tricarboxylate",
+    "names": [
+      "(Z)-But-1-ene-1,2,4-tricarboxylate",
+      "Homo-cis-aconitate",
+      "cis-Homoaconitate",
+      "(Z)-1,2,4-But-1-enetricarboxylic acid"
+    ],
+    "formula": "C7H8O6",
+    "exact_mass": 188.0321,
+    "mol_weight": 188.1348,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03444",
+      "R04371"
+    ],
+    "pathways": {
+      "map00300": "Lysine biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01130": "Biosynthesis of antibiotics",
+      "map01210": "2-Oxocarboxylic acid metabolism",
+      "map01230": "Biosynthesis of amino acids"
+    },
+    "enzymes": [
+      "4.2.1.36",
+      "4.2.1.114",
+      "4.2.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6715"
+      ],
+      "ChEBI": [
+        "17516"
+      ],
+      "3DMET": [
+        "B00663"
+      ],
+      "NIKKAJI": [
+        "J181.759K"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C2c C    25.8300  -20.5800\n            2   C1b C    27.0900  -19.8800\n            3   C2b C    24.6400  -19.8800\n            4   C6a C    25.8300  -21.9800\n            5   C1b C    28.2800  -20.5800\n            6   C6a C    23.4500  -20.5800\n            7   O6a O    27.0900  -22.6800\n            8   O6a O    24.6400  -22.6800\n            9   C6a C    29.4700  -19.8800\n            10  O6a O    23.4500  -21.9100\n            11  O6a O    22.1900  -19.8800\n            12  O6a O    29.4700  -18.4800\n            13  O6a O    30.7300  -20.5800\nBOND        12\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     4   7 1\n            7     4   8 2\n            8     5   9 1\n            9     6  10 2\n            10    6  11 1\n            11    9  12 2\n            12    9  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

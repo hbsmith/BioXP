@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03838",
+    "name": "Acyl-CoA:2-acylglycerol O-acyltransferase",
+    "definition": "2,3-Dehydroacyl-CoA + 2-Acylglycerol <=> CoA + 1,2-Diacyl-sn-glycerol",
+    "equation": "C00605 + C02112 <=> C00010 + C00641",
+    "comment": "see R03756 (1-acyl type reaction)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.22"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "entry_id": "C02497",
+    "name": "2-Butyne-1,4-diol",
+    "names": [
+      "2-Butyne-1,4-diol",
+      "1,4-Butynediol"
+    ],
+    "formula": "C4H6O2",
+    "exact_mass": 86.0368,
+    "mol_weight": 86.0892,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03963"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.165"
+    ],
+    "dblinks": {
+      "CAS": [
+        "110-65-6"
+      ],
+      "PubChem": [
+        "5509"
+      ],
+      "ChEBI": [
+        "16413"
+      ],
+      "ChEMBL": [
+        "CHEMBL3187551"
+      ],
+      "3DMET": [
+        "B00451"
+      ],
+      "NIKKAJI": [
+        "J5.098I"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C3b C    17.8041  -14.4219\n            2   C3b C    19.0159  -15.1181\n            3   C1b C    16.5854  -15.1181\n            4   C1b C    20.2346  -14.4219\n            5   O1a O    15.3735  -14.4219\n            6   O1a O    21.4465  -15.1181\nBOND        5\n            1     1   2 3\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     4   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C02497",
+    "name": "2-Butyne-1,4-diol",
+    "names": [
+      "2-Butyne-1,4-diol",
+      "1,4-Butynediol"
+    ],
+    "formula": "C4H6O2",
+    "exact_mass": 86.0368,
+    "mol_weight": 86.0892,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03963"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.165"
+    ],
+    "dblinks": {
+      "CAS": [
+        "110-65-6"
+      ],
+      "PubChem": [
+        "5509"
+      ],
+      "ChEBI": [
+        "16413"
+      ],
+      "ChEMBL": [
+        "CHEMBL3187551"
+      ],
+      "3DMET": [
+        "B00451"
+      ],
+      "NIKKAJI": [
+        "J5.098I"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C3b C    17.8041  -14.4219\n            2   C3b C    19.0159  -15.1181\n            3   C1b C    16.5854  -15.1181\n            4   C1b C    20.2346  -14.4219\n            5   O1a O    15.3735  -14.4219\n            6   O1a O    21.4465  -15.1181\nBOND        5\n            1     1   2 3\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     4   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

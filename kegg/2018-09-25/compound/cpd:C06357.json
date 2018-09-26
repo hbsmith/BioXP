@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C06357",
+    "name": "Alkyl cinnamate",
+    "names": [
+      "Alkyl cinnamate"
+    ],
+    "formula": "C9H7O2R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R04411"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.3.1.152"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8593"
+      ],
+      "ChEBI": [
+        "17958"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    16.3800  -28.9800\n            2   C8x C    16.3800  -30.3800\n            3   C8x C    17.5924  -31.0800\n            4   C8x C    18.8049  -30.3800\n            5   C8y C    18.8049  -28.9800\n            6   C8x C    17.5924  -28.2800\n            7   C2b C    20.0424  -28.2800\n            8   C2b C    21.2549  -28.9800\n            9   C7a C    22.4673  -28.2800\n            10  O7a O    23.6818  -28.9812\n            11  O6a O    22.4673  -26.8800\n            12  R   R    24.8783  -28.2902\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 1\n            11    9  11 2\n            12   10  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R03530",
+    "name": "ATP:dIDP phosphotransferase",
+    "definition": "ATP + dIDP <=> ADP + dITP",
+    "equation": "C00002 + C01344 <=> C00008 + C01345",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.6"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K00940": "nucleoside-diphosphate kinase [EC:2.7.4.6]",
+      "K18533": "adenylate/nucleoside-diphosphate kinase [EC:2.7.4.3 2.7.4.6]"
+    }
+  }
+][
+  {
+    "entry_id": "R03530",
+    "name": "ATP:dIDP phosphotransferase",
+    "definition": "ATP + dIDP <=> ADP + dITP",
+    "equation": "C00002 + C01344 <=> C00008 + C01345",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.6"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K00940": "nucleoside-diphosphate kinase [EC:2.7.4.6]",
+      "K18533": "adenylate/nucleoside-diphosphate kinase [EC:2.7.4.3 2.7.4.6]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11895",
+    "name": "ATP:5-fluorodeoxyuridine-diphosphate phosphotransferase",
+    "definition": "ATP + 5-Fluorodeoxyuridine diphosphate <=> ADP + 5-Fluorodeoxyuridine triphosphate",
+    "equation": "C00002 + C21750 <=> C00008 + C21751",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.6"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K00940": "nucleoside-diphosphate kinase [EC:2.7.4.6]"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R01896",
+    "name": "xylitol:NAD+ 2-oxidoreductase (D-xylulose-forming)",
+    "definition": "Xylitol + NAD+ <=> D-Xylulose + NADH + H+",
+    "equation": "C00379 + C00003 <=> C00310 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.9",
+      "1.1.1.14"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00008": "L-iditol 2-dehydrogenase [EC:1.1.1.14]",
+      "K05351": "D-xylulose reductase [EC:1.1.1.9]"
+    }
+  }
+]

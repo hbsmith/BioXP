@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05164",
+    "name": "UDP-glucose:1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol (1->2) glucosyltransferase",
+    "definition": "UDP-glucose + 1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol <=> UDP + alpha-Kojibiosyldiacylglycerol",
+    "equation": "C00029 + C06364 <=> C00015 + C06365",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.208"
+    ],
+    "pathways": {
+      "rn00561": "Glycerolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K13677": "1,2-diacylglycerol-3-alpha-glucose alpha-1,2-glucosyltransferase [EC:2.4.1.208]"
+    }
+  }
+]

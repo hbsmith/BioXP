@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C19366",
+    "name": "5-Chloro-ortho-toluidine",
+    "names": [
+      "5-Chloro-ortho-toluidine",
+      "5-Chloro-o-toluidine"
+    ],
+    "formula": "C7H8ClN",
+    "exact_mass": 141.0345,
+    "mol_weight": 141.5981,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "95-79-4"
+      ],
+      "PubChem": [
+        "124490038"
+      ],
+      "ChEBI": [
+        "82422"
+      ],
+      "ChEMBL": [
+        "CHEMBL553181"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    18.2700  -17.3600\n            2   C8y C    18.2700  -18.7600\n            3   C8x C    19.4824  -19.4600\n            4   C8x C    20.6949  -18.7600\n            5   C8y C    20.6949  -17.3600\n            6   C8y C    19.4824  -16.6600\n            7   N1a N    19.4824  -15.2602\n            8   C1a C    21.9260  -16.6490\n            9   X   Cl   17.0576  -19.4600\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     2   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06829",
+    "name": "UDP-L-rhamnose:luteolin-7-O-beta-D-glucoside 2''-O-alpha-L-rhamnosyltransferase",
+    "definition": "Luteolin 7-O-beta-D-glucoside + UDP-L-rhamnose <=> Scolymoside + UDP",
+    "equation": "C03951 + C02199 <=> C12630 + C00015",
+    "comment": "flavanone 7-O-glucoside 2''-O-beta-L-rhamnosyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.236"
+    ],
+    "pathways": {
+      "rn00944": "Flavone and flavonol biosynthesis"
+    },
+    "orthologs": {
+      "K13080": "flavanone 7-O-glucoside 2''-O-beta-L-rhamnosyltransferase [EC:2.4.1.236]"
+    }
+  }
+]

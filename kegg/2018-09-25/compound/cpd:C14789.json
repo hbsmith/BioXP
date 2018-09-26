@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C14789",
+    "name": "N-Hydroxy-1-aminonaphthalene",
+    "names": [
+      "N-Hydroxy-1-aminonaphthalene",
+      "1-Naphthylhydroxylamine"
+    ],
+    "formula": "C10H9NO",
+    "exact_mass": 159.0684,
+    "mol_weight": 159.1846,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07029",
+      "R07030"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "607-30-7"
+      ],
+      "PubChem": [
+        "17395787"
+      ],
+      "ChEBI": [
+        "34871"
+      ],
+      "ChEMBL": [
+        "CHEMBL261899"
+      ],
+      "NIKKAJI": [
+        "J2.985H"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    17.5700  -21.4900\n            2   C8x C    17.5700  -22.8900\n            3   C8x C    18.7824  -23.5900\n            4   C8y C    19.9949  -22.8900\n            5   C8y C    19.9949  -21.4900\n            6   C8x C    18.7824  -20.7900\n            7   C8x C    21.2073  -23.5900\n            8   C8x C    22.4197  -22.8900\n            9   C8x C    22.4197  -21.4900\n            10  C8y C    21.2073  -20.7900\n            11  N1b N    21.2073  -19.3900\n            12  O1b O    22.4218  -18.6888\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12   10  11 1\n            13   11  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

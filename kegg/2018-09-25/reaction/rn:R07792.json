@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07792",
+    "name": "3-epi-6-deoxocathasterone,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (C-23-hydroxylating)",
+    "definition": "3-epi-6-Deoxocathasterone + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 6-Deoxotyphasterol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C16251 + C03024 + C00007 <=> C15801 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.147"
+    ],
+    "pathways": {
+      "rn00905": "Brassinosteroid biosynthesis"
+    },
+    "orthologs": {
+      "K12637": "3-epi-6-deoxocathasterone 23-monooxygenase [EC:1.14.14.147]",
+      "K12638": "3-epi-6-deoxocathasterone 23-monooxygenase [EC:1.14.14.147]"
+    }
+  }
+]

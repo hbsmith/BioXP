@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10858",
+    "name": "5-(hydroxymethyl)furfural:oxygen oxidoreductase",
+    "definition": "5-Hydroxymethyl-2-furaldehyde + 3 Oxygen + 2 H2O <=> 2,5-Furandicarboxylate + 3 Hydrogen peroxide",
+    "equation": "C11101 + 3 C00007 + 2 C00001 <=> C20450 + 3 C00027",
+    "comment": "multi-step reaction (see R10853+R10854+R10855+R10856+R10857)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.3.47"
+    ],
+    "pathways": {
+      "rn00365": "Furfural degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K16873": "5-(hydroxymethyl)furfural/furfural oxidase [EC:1.1.3.47 1.1.3.-]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05081",
+    "name": "Phosphatidylglycerol:membrane-derived-oligosaccharide-D-glucose glycerophosphotransferase",
+    "definition": "Phosphatidylglycerol + Diglucosyldiacylglycerol <=> 1,2-Diacyl-sn-glycerol + Glycerophosphoglycoglycerolipid",
+    "equation": "C00344 + C06040 <=> C00641 + C06041",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.8.20"
+    ],
+    "pathways": {
+      "rn00561": "Glycerolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K19005": "lipoteichoic acid synthase [EC:2.7.8.20]"
+    }
+  }
+]

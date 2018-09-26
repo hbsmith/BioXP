@@ -1,0 +1,492 @@
+[
+  {
+    "entry_id": "4.2.1.171",
+    "name": "cis-L-3-hydroxyproline dehydratase",
+    "names": [
+      "cis-L-3-hydroxyproline dehydratase",
+      "cis-L-3-hydroxyproline hydro-lyase",
+      "c3LHypD"
+    ],
+    "classes": [
+      "Lyases;",
+      "Carbon-oxygen lyases;",
+      "Hydro-lyases"
+    ],
+    "sysname": "cis-3-hydroxy-L-proline hydro-lyase (1-pyrroline-2-carboxylate-forming)",
+    "reaction": "cis-3-hydroxy-L-proline = 1-pyrroline-2-carboxylate + H2O [RN:R11625]",
+    "all_reac": "R11625",
+    "iubmb_reactions": [
+      "R11625"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "cis-3-hydroxy-L-proline [CPD:C19706]"
+    ],
+    "products": [
+      "1-pyrroline-2-carboxylate [CPD:C03564]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "",
+    "pathways": {
+      "ec00330": "Arginine and proline metabolism"
+    },
+    "orthologs": {
+      "K09123": "cis-L-3-hydroxyproline dehydratase",
+      "K21624": "cis-L-3-hydroxyproline dehydratase"
+    },
+    "genes": {
+      "fgr": [
+        "FGSG_12672"
+      ],
+      "fpu": [
+        "FPSE_04942"
+      ],
+      "fvr": [
+        "FVEG_06026"
+      ],
+      "fox": [
+        "FOXG_08647"
+      ],
+      "nhe": [
+        "NECHADRAFT_47437",
+        "NECHADRAFT_75968"
+      ],
+      "tre": [
+        "TRIREDRAFT_59073"
+      ],
+      "plj": [
+        "VFPFJ_04120"
+      ],
+      "cfj": [
+        "CFIO01_08286"
+      ],
+      "pfy": [
+        "PFICI_14003"
+      ],
+      "ani": [
+        "AN8629.2"
+      ],
+      "afm": [
+        "AFUA_6G00490"
+      ],
+      "aor": [
+        "AO090005000232",
+        "AO090011000420"
+      ],
+      "ang": [
+        "ANI_1_578044"
+      ],
+      "afv": [
+        "AFLA_042490",
+        "AFLA_074660"
+      ],
+      "nfi": [
+        "NFIA_047620"
+      ],
+      "pcs": [
+        "Pc16g03150"
+      ],
+      "aalt": [
+        "CC77DRAFT_973712"
+      ],
+      "smin": [
+        "v1.2.027818.t1"
+      ],
+      "pti": [
+        "PHATRDRAFT_47407"
+      ],
+      "fcy": [
+        "FRACYDRAFT_147078"
+      ],
+      "tps": [
+        "THAPSDRAFT_263799"
+      ],
+      "aaf": [
+        "AURANDRAFT_25937"
+      ],
+      "ehx": [
+        "EMIHUDRAFT_464728"
+      ],
+      "tci": [
+        "A7K98_03655"
+      ],
+      "pae": [
+        "PA1259"
+      ],
+      "paev": [
+        "N297_1298"
+      ],
+      "paei": [
+        "N296_1298"
+      ],
+      "pau": [
+        "PA14_47930"
+      ],
+      "pap": [
+        "PSPA7_4133"
+      ],
+      "pag": [
+        "PLES_40531"
+      ],
+      "paf": [
+        "PAM18_3772"
+      ],
+      "pnc": [
+        "NCGM2_2141"
+      ],
+      "paeb": [
+        "NCGM1900_1317"
+      ],
+      "pdk": [
+        "PADK2_19355"
+      ],
+      "psg": [
+        "G655_18875"
+      ],
+      "prp": [
+        "M062_06850"
+      ],
+      "paep": [
+        "PA1S_19620"
+      ],
+      "paer": [
+        "PA1R_gp4865"
+      ],
+      "paem": [
+        "U769_19460"
+      ],
+      "pael": [
+        "T223_20710"
+      ],
+      "paes": [
+        "SCV20265_4155"
+      ],
+      "paeu": [
+        "BN889_01338"
+      ],
+      "paeg": [
+        "AI22_14345"
+      ],
+      "paec": [
+        "M802_1295"
+      ],
+      "paeo": [
+        "M801_1298"
+      ],
+      "palc": [
+        "A0T30_01495"
+      ],
+      "por": [
+        "APT59_02410"
+      ],
+      "pfe": [
+        "PSF113_3724"
+      ],
+      "pcg": [
+        "AXG94_01235"
+      ],
+      "pstt": [
+        "CH92_01045"
+      ],
+      "pba": [
+        "PSEBR_a3202"
+      ],
+      "pbc": [
+        "CD58_14035"
+      ],
+      "pdr": [
+        "H681_03730"
+      ],
+      "pfz": [
+        "AV641_10920"
+      ],
+      "palk": [
+        "PSAKL28_28670"
+      ],
+      "prh": [
+        "LT40_08305"
+      ],
+      "pfk": [
+        "PFAS1_24885"
+      ],
+      "ppsl": [
+        "BJP27_16675"
+      ],
+      "pset": [
+        "THL1_3354"
+      ],
+      "mbs": [
+        "MRBBS_3090",
+        "MRBBS_3771"
+      ],
+      "mpq": [
+        "ABA45_14590",
+        "ABA45_17665"
+      ],
+      "msq": [
+        "BKP64_15685"
+      ],
+      "spiu": [
+        "SPICUR_01015"
+      ],
+      "ham": [
+        "HALO1339"
+      ],
+      "hsi": [
+        "BOX17_15820"
+      ],
+      "byi": [
+        "BYI23_C003400"
+      ],
+      "bue": [
+        "BRPE67_CCDS08810"
+      ],
+      "plg": [
+        "NCTC10937_03090"
+      ],
+      "cdn": [
+        "BN940_10836"
+      ],
+      "mamo": [
+        "A6B35_07670"
+      ],
+      "aak": [
+        "AA2016_0007"
+      ],
+      "amih": [
+        "CO731_00007"
+      ],
+      "pht": [
+        "BLM14_15655"
+      ],
+      "sme": [
+        "SM_b20269"
+      ],
+      "smk": [
+        "Sinme_3904"
+      ],
+      "smq": [
+        "SinmeB_4401"
+      ],
+      "smx": [
+        "SM11_pD1342"
+      ],
+      "smi": [
+        "BN406_06397"
+      ],
+      "smeg": [
+        "C770_GR4pD1328"
+      ],
+      "smel": [
+        "SM2011_b20269"
+      ],
+      "smer": [
+        "DU99_32025"
+      ],
+      "smd": [
+        "Smed_3862"
+      ],
+      "six": [
+        "BSY16_2983"
+      ],
+      "ead": [
+        "OV14_a1338"
+      ],
+      "eah": [
+        "FA04_26875"
+      ],
+      "esj": [
+        "SJ05684_b60010"
+      ],
+      "atu": [
+        "Atu4683"
+      ],
+      "atf": [
+        "Ach5_44050"
+      ],
+      "ata": [
+        "AWN88_02300"
+      ],
+      "agr": [
+        "AGROH133_09591"
+      ],
+      "agc": [
+        "BSY240_1189"
+      ],
+      "aro": [
+        "B0909_14110"
+      ],
+      "rle": [
+        "pRL120183"
+      ],
+      "rlg": [
+        "Rleg_2143"
+      ],
+      "rir": [
+        "BN877_II1777"
+      ],
+      "rhl": [
+        "LPU83_0079"
+      ],
+      "rht": [
+        "NT26_0740"
+      ],
+      "rhv": [
+        "BA939_17435"
+      ],
+      "shz": [
+        "shn_20870"
+      ],
+      "sno": [
+        "Snov_0156"
+      ],
+      "moc": [
+        "BB934_22210"
+      ],
+      "deq": [
+        "XM25_06480"
+      ],
+      "aua": [
+        "M673_01845"
+      ],
+      "sil": [
+        "SPO0606"
+      ],
+      "rhp": [
+        "LPB142_00840"
+      ],
+      "pde": [
+        "Pden_4854"
+      ],
+      "pami": [
+        "JCM7686_pAMI5p194"
+      ],
+      "pcon": [
+        "B0A89_11820"
+      ],
+      "paru": [
+        "CYR75_12385"
+      ],
+      "cmag": [
+        "CBW24_05650"
+      ],
+      "hat": [
+        "RC74_17905"
+      ],
+      "lap": [
+        "ACP90_03845"
+      ],
+      "lagg": [
+        "B0E33_15405"
+      ],
+      "labr": [
+        "CHH27_16900"
+      ],
+      "ypac": [
+        "CEW88_21655"
+      ],
+      "rmm": [
+        "ROSMUCSMR3_03766"
+      ],
+      "rok": [
+        "RAK1035_2606"
+      ],
+      "geh": [
+        "HYN69_18950"
+      ],
+      "apb": [
+        "SAR116_0305"
+      ],
+      "mph": [
+        "MLP_31270"
+      ],
+      "psl": [
+        "Psta_4279"
+      ],
+      "pir": [
+        "VN12_04975"
+      ],
+      "plm": [
+        "Plim_2539"
+      ],
+      "fmr": [
+        "Fuma_04875"
+      ],
+      "ges": [
+        "VT84_28150"
+      ],
+      "gba": [
+        "J421_4704"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "4.2.1.171"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "4.2.1.171"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "4.2.1.171"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "4.2.1.171"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Zhang X",
+          "Kumar R",
+          "Vetting MW",
+          "Zhao S",
+          "Jacobson MP",
+          "Almo SC",
+          "Gerlt JA"
+        ],
+        "title": "A unique cis-3-hydroxy-l-proline dehydratase in the enolase superfamily.",
+        "journal": "J Am Chem Soc 137:1388-91 (2015) DOI:10.1021/ja5103986",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:25608448]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

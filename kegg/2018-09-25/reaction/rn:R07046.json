@@ -1,0 +1,29 @@
+[
+  {
+    "entry_id": "R07046",
+    "name": "",
+    "definition": "Arachidonate + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 19(S)-HETE + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C00219 + C03024 + C00007 <=> C14749 + C03161 + C00001",
+    "comment": "CYP2E1, CYP2J9, CYP2U1, CYP1A2, CYP2C19, CYP3A5, CYP4A11, CYP4F8",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-",
+      "1.14.14.1",
+      "1.14.14.80",
+      "1.14.14.-"
+    ],
+    "pathways": {
+      "rn00590": "Arachidonic acid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K07415": "cytochrome P450 family 2 subfamily E polypeptide 1 [EC:1.14.13.-]",
+      "K07418": "cytochrome P450 family 2 subfamily J [EC:1.14.14.1 1.14.14.73 1.14.14.74 1.14.14.75]",
+      "K07422": "cytochrome P450 family 2 subfamily U polypeptide 1",
+      "K07425": "long-chain fatty acid omega-monooxygenase [EC:1.14.14.80]",
+      "K17721": "cytochrome P450 family 2 subfamily C polypeptide 19 [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.75 1.14.14.-]",
+      "K17728": "cytochrome P450 family 4 subfamily F polypeptide 8 [EC:1.14.14.1]"
+    }
+  }
+]

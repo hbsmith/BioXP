@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "R08896",
+    "name": "paromamine:oxygen 6'-oxidoreductase",
+    "definition": "Paromamine + Oxygen <=> 6'-Dehydro-6'-oxoparomamine + Hydrogen peroxide",
+    "equation": "C01743 + C00007 <=> C17583 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.3.43"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13552": "paromamine 6'-oxidase [EC:1.1.3.43]",
+      "K20565": "paromamine 6'-oxidase / 6'''-hydroxyneomycin C oxidase [EC:1.1.3.43 1.1.3.44]",
+      "K20566": "paromamine 6'-oxidase / 2'-deamino-2'-hydroxyparomamine 6'-oxidase [EC:1.1.3.43 1.1.3.-]",
+      "K20577": "paromamine/lividamine 6'-oxidase [EC:1.1.3.43 1.1.3.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R08896",
+    "name": "paromamine:oxygen 6'-oxidoreductase",
+    "definition": "Paromamine + Oxygen <=> 6'-Dehydro-6'-oxoparomamine + Hydrogen peroxide",
+    "equation": "C01743 + C00007 <=> C17583 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.3.43"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13552": "paromamine 6'-oxidase [EC:1.1.3.43]",
+      "K20565": "paromamine 6'-oxidase / 6'''-hydroxyneomycin C oxidase [EC:1.1.3.43 1.1.3.44]",
+      "K20566": "paromamine 6'-oxidase / 2'-deamino-2'-hydroxyparomamine 6'-oxidase [EC:1.1.3.43 1.1.3.-]",
+      "K20577": "paromamine/lividamine 6'-oxidase [EC:1.1.3.43 1.1.3.-]"
+    }
+  }
+]

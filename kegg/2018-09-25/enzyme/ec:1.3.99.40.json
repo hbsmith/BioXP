@@ -1,0 +1,746 @@
+[
+  {
+    "entry_id": "1.3.99.40",
+    "name": "carotenoid chi-ring synthase",
+    "names": [
+      "carotenoid chi-ring synthase",
+      "crtU (gene name)",
+      "cruE (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on the CH-CH group of donors;",
+      "With unknown physiological acceptors"
+    ],
+    "sysname": "carotenoid beta-ring:acceptor oxidoreductase/methyltranferase (chi-ring forming)",
+    "reaction": "carotenoid beta-end group + 2 acceptor = carotenoid chi-end group + 2 reduced acceptor [RN:R12116]",
+    "all_reac": "R12116",
+    "iubmb_reactions": [
+      "R12116"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "carotenoid beta-end group [CPD:C21915]",
+      "acceptor [CPD:C00028]"
+    ],
+    "products": [
+      "carotenoid chi-end group [CPD:C21917]",
+      "reduced acceptor [CPD:C00030]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, found in purple sulfur bacteria (Chromatiaceae) and some cyanobacteria, is involved in the biosynthesis of carotenoids that contain chi-type end groups, such as okenone, renierapurpurin, and synechoxanthin.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K09879": "carotenoid phi-ring synthase / carotenoid chi-ring synthase"
+    },
+    "genes": {
+      "mpur": [
+        "MARPU_13345"
+      ],
+      "tsy": [
+        "THSYN_31050"
+      ],
+      "gbi": [
+        "PG2T_09200"
+      ],
+      "gpb": [
+        "HDN1F_18440"
+      ],
+      "age": [
+        "AA314_01168"
+      ],
+      "mbd": [
+        "MEBOL_006296"
+      ],
+      "cfus": [
+        "CYFUS_002285"
+      ],
+      "samy": [
+        "DB32_005179",
+        "DB32_008580"
+      ],
+      "hoh": [
+        "Hoch_2162"
+      ],
+      "mpa": [
+        "MAP_3075"
+      ],
+      "mao": [
+        "MAP4_0725"
+      ],
+      "mavi": [
+        "RC58_03535"
+      ],
+      "mavu": [
+        "RE97_03540"
+      ],
+      "mav": [
+        "MAV_3890"
+      ],
+      "mavd": [
+        "NF84_17755"
+      ],
+      "mavr": [
+        "LA63_17935"
+      ],
+      "mava": [
+        "LA64_17925"
+      ],
+      "mit": [
+        "OCO_37120"
+      ],
+      "mia": [
+        "OCU_37200"
+      ],
+      "mie": [
+        "LG41_17620"
+      ],
+      "mid": [
+        "MIP_05621"
+      ],
+      "myo": [
+        "OEM_37780"
+      ],
+      "mir": [
+        "OCQ_38330"
+      ],
+      "mchi": [
+        "AN480_19615"
+      ],
+      "mmal": [
+        "CKJ54_17625"
+      ],
+      "msa": [
+        "Mycsm_04908"
+      ],
+      "mmc": [
+        "Mmcs_5080"
+      ],
+      "mkm": [
+        "Mkms_5168"
+      ],
+      "mjl": [
+        "Mjls_5459"
+      ],
+      "mmm": [
+        "W7S_18580"
+      ],
+      "mye": [
+        "AB431_19405"
+      ],
+      "myn": [
+        "MyAD_22210"
+      ],
+      "msm": [
+        "MSMEG_2344"
+      ],
+      "msg": [
+        "MSMEI_2283"
+      ],
+      "msb": [
+        "LJ00_11650"
+      ],
+      "msn": [
+        "LI99_11650"
+      ],
+      "msh": [
+        "LI98_11655"
+      ],
+      "mva": [
+        "Mvan_1580"
+      ],
+      "mgi": [
+        "Mflv_1844"
+      ],
+      "msp": [
+        "Mspyr1_12450"
+      ],
+      "mcb": [
+        "Mycch_1184"
+      ],
+      "mne": [
+        "D174_22650"
+      ],
+      "mgo": [
+        "AFA91_27840"
+      ],
+      "mphl": [
+        "MPHLCCUG_02043"
+      ],
+      "mvq": [
+        "MYVA_1335"
+      ],
+      "mll": [
+        "B1R94_10450"
+      ],
+      "mrh": [
+        "MycrhN_3658"
+      ],
+      "mthn": [
+        "4412656_00241"
+      ],
+      "nbr": [
+        "O3I_023370"
+      ],
+      "rhb": [
+        "NY08_3769"
+      ],
+      "rav": [
+        "AAT18_03775"
+      ],
+      "rfa": [
+        "A3L23_01906"
+      ],
+      "rhs": [
+        "A3Q41_01459"
+      ],
+      "rrz": [
+        "CS378_19450"
+      ],
+      "sco": [
+        "SCO0189"
+      ],
+      "sma": [
+        "SAVERM_1019"
+      ],
+      "sgr": [
+        "SGR_56t",
+        "SGR_6826",
+        "SGR_7083t"
+      ],
+      "sgb": [
+        "WQO_01605",
+        "WQO_03645"
+      ],
+      "scb": [
+        "SCAB_5511"
+      ],
+      "ssx": [
+        "SACTE_5153"
+      ],
+      "sct": [
+        "SCAT_p0247"
+      ],
+      "scy": [
+        "SCATT_p14960"
+      ],
+      "sfa": [
+        "Sfla_0352"
+      ],
+      "shy": [
+        "SHJG_1675"
+      ],
+      "sho": [
+        "SHJGH_1439"
+      ],
+      "salb": [
+        "XNR_5691"
+      ],
+      "sals": [
+        "SLNWT_1103"
+      ],
+      "strp": [
+        "F750_6659"
+      ],
+      "sfi": [
+        "SFUL_35"
+      ],
+      "sci": [
+        "B446_02750"
+      ],
+      "src": [
+        "M271_50805"
+      ],
+      "slv": [
+        "SLIV_02360",
+        "SLIV_36950"
+      ],
+      "sgu": [
+        "SGLAU_01575"
+      ],
+      "slc": [
+        "SL103_19485"
+      ],
+      "strm": [
+        "M444_00670"
+      ],
+      "strc": [
+        "AA958_24630"
+      ],
+      "samb": [
+        "SAM23877_7079"
+      ],
+      "spri": [
+        "SPRI_1987"
+      ],
+      "scz": [
+        "ABE83_00565"
+      ],
+      "scx": [
+        "AS200_41705"
+      ],
+      "srw": [
+        "TUE45_00778"
+      ],
+      "strf": [
+        "ASR50_03815"
+      ],
+      "sle": [
+        "sle_65890"
+      ],
+      "srn": [
+        "A4G23_05081"
+      ],
+      "spav": [
+        "Spa2297_00770"
+      ],
+      "strt": [
+        "A8713_01055"
+      ],
+      "stsi": [
+        "A4E84_26100"
+      ],
+      "splu": [
+        "LK06_001920"
+      ],
+      "strd": [
+        "NI25_03600",
+        "NI25_35260"
+      ],
+      "snw": [
+        "BBN63_01755"
+      ],
+      "ssia": [
+        "A7J05_32655"
+      ],
+      "svu": [
+        "B1H20_04200"
+      ],
+      "slau": [
+        "SLA_5754"
+      ],
+      "stro": [
+        "STRMOE7_36135"
+      ],
+      "kab": [
+        "B7C62_00145"
+      ],
+      "kau": [
+        "B6264_24015"
+      ],
+      "stri": [
+        "C7M71_002895"
+      ],
+      "dni": [
+        "HX89_02440"
+      ],
+      "ido": [
+        "I598_1137"
+      ],
+      "ars": [
+        "ADJ73_03980"
+      ],
+      "serj": [
+        "SGUI_1794"
+      ],
+      "orn": [
+        "DV701_12485"
+      ],
+      "bly": [
+        "A2T55_14075"
+      ],
+      "blin": [
+        "BLSMQ_3111"
+      ],
+      "dco": [
+        "SAMEA4475696_0719"
+      ],
+      "mph": [
+        "MLP_17830"
+      ],
+      "tfl": [
+        "RPIT_13185"
+      ],
+      "tfa": [
+        "BW733_01515"
+      ],
+      "tes": [
+        "BW730_02775"
+      ],
+      "tez": [
+        "BKM78_12565"
+      ],
+      "kfl": [
+        "Kfla_3858"
+      ],
+      "aer": [
+        "AERYTH_16565"
+      ],
+      "mgg": [
+        "MPLG2_3620"
+      ],
+      "tfu": [
+        "Tfu_3090"
+      ],
+      "nda": [
+        "Ndas_3570"
+      ],
+      "nml": [
+        "Namu_2500"
+      ],
+      "sen": [
+        "SACE_3271"
+      ],
+      "svi": [
+        "Svir_26460"
+      ],
+      "amd": [
+        "AMED_4070"
+      ],
+      "amn": [
+        "RAM_20740"
+      ],
+      "amm": [
+        "AMES_4022"
+      ],
+      "amz": [
+        "B737_4022"
+      ],
+      "aoi": [
+        "AORI_1550"
+      ],
+      "amq": [
+        "AMETH_3322"
+      ],
+      "amyb": [
+        "BKN51_09525"
+      ],
+      "pdx": [
+        "Psed_3342"
+      ],
+      "psee": [
+        "FRP1_10365"
+      ],
+      "pseh": [
+        "XF36_09615"
+      ],
+      "pseq": [
+        "AD006_20590"
+      ],
+      "pecq": [
+        "AD017_00170"
+      ],
+      "phh": [
+        "AFB00_26940"
+      ],
+      "ami": [
+        "Amir_3813",
+        "Amir_4947"
+      ],
+      "apre": [
+        "CNX65_19075",
+        "CNX65_24395"
+      ],
+      "sesp": [
+        "BN6_50870"
+      ],
+      "led": [
+        "BBK82_42480"
+      ],
+      "acta": [
+        "C1701_24090"
+      ],
+      "stp": [
+        "Strop_0241"
+      ],
+      "saq": [
+        "Sare_0282"
+      ],
+      "mau": [
+        "Micau_5788"
+      ],
+      "mil": [
+        "ML5_2707"
+      ],
+      "vma": [
+        "VAB18032_02430"
+      ],
+      "ams": [
+        "AMIS_28910"
+      ],
+      "actn": [
+        "L083_3346"
+      ],
+      "plk": [
+        "CIK06_26705"
+      ],
+      "plab": [
+        "C6361_10695"
+      ],
+      "plat": [
+        "C6W10_07760"
+      ],
+      "aey": [
+        "CDG81_09525"
+      ],
+      "syn": [
+        "sll0254"
+      ],
+      "syz": [
+        "MYO_113700"
+      ],
+      "syy": [
+        "SYNGTS_1358"
+      ],
+      "syt": [
+        "SYNGTI_1358"
+      ],
+      "sys": [
+        "SYNPCCN_1357"
+      ],
+      "syq": [
+        "SYNPCCP_1357"
+      ],
+      "syj": [
+        "D082_08530"
+      ],
+      "syo": [
+        "C7I86_07040"
+      ],
+      "syp": [
+        "SYNPCC7002_A1248"
+      ],
+      "dsl": [
+        "Dacsa_1149"
+      ],
+      "lep": [
+        "Lepto7376_3648"
+      ],
+      "hhg": [
+        "XM38_018370",
+        "XM38_018380"
+      ],
+      "pseu": [
+        "Pse7367_3429"
+      ],
+      "can": [
+        "Cyan10605_0140"
+      ],
+      "csn": [
+        "Cyast_0247"
+      ],
+      "cyl": [
+        "AA637_02280"
+      ],
+      "hao": [
+        "PCC7418_2662"
+      ],
+      "cwa": [
+        "CwatDRAFT_3579"
+      ],
+      "gen": [
+        "GM3709_215"
+      ],
+      "gee": [
+        "GM3708_1159"
+      ],
+      "cyt": [
+        "cce_2233"
+      ],
+      "cyp": [
+        "PCC8801_0517"
+      ],
+      "cyc": [
+        "PCC7424_4868"
+      ],
+      "cyh": [
+        "Cyan8802_0534"
+      ],
+      "cyj": [
+        "Cyan7822_2325"
+      ],
+      "ter": [
+        "Tery_3577"
+      ],
+      "mic": [
+        "Mic7113_3928"
+      ],
+      "arp": [
+        "NIES39_D01920"
+      ],
+      "oni": [
+        "Osc7112_1537"
+      ],
+      "gvi": [
+        "gll1923"
+      ],
+      "glj": [
+        "GKIL_2757"
+      ],
+      "ana": [
+        "alr2785"
+      ],
+      "nos": [
+        "Nos7107_2383"
+      ],
+      "nop": [
+        "Nos7524_4632"
+      ],
+      "non": [
+        "NOS3756_02240"
+      ],
+      "noe": [
+        "CLI64_17100"
+      ],
+      "ava": [
+        "Ava_0036"
+      ],
+      "acy": [
+        "Anacy_0004"
+      ],
+      "calo": [
+        "Cal7507_2669"
+      ],
+      "cthe": [
+        "Chro_4091"
+      ],
+      "plp": [
+        "Ple7327_2440"
+      ],
+      "ceo": [
+        "ETSB_1389"
+      ],
+      "cte": [
+        "CT0323"
+      ],
+      "cpc": [
+        "Cpar_1713"
+      ],
+      "clz": [
+        "BIU88_01545"
+      ],
+      "cph": [
+        "Cpha266_0659"
+      ],
+      "cpb": [
+        "Cphamn1_1875"
+      ],
+      "cli": [
+        "Clim_1747"
+      ],
+      "pvi": [
+        "Cvib_0486"
+      ],
+      "plt": [
+        "Plut_0435"
+      ],
+      "pph": [
+        "Ppha_2256"
+      ],
+      "paa": [
+        "Paes_1698"
+      ],
+      "proc": [
+        "Ptc2401_01837"
+      ],
+      "prs": [
+        "B9H02_03175"
+      ],
+      "pros": [
+        "CHL67_02745"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.3.99.40"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.3.99.40"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.3.99.40"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.3.99.40"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Graham JE",
+          "Bryant DA"
+        ],
+        "title": "The Biosynthetic pathway for synechoxanthin, an aromatic carotenoid synthesized by the euryhaline, unicellular cyanobacterium Synechococcus sp. strain PCC 7002.",
+        "journal": "J Bacteriol 190:7966-74 (2008) DOI:10.1128/JB.00985-08",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:18849428]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vogl K",
+          "Bryant DA."
+        ],
+        "title": "Biosynthesis of the biomarker okenone: chi-ring formation.",
+        "journal": "Geobiology 10:205-15 (2012) DOI:10.1111/j.1472-4669.2011.00297.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:22070388]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

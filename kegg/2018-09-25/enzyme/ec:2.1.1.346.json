@@ -1,0 +1,711 @@
+[
+  {
+    "entry_id": "2.1.1.346",
+    "name": "U6 snRNA m6A methyltransferase",
+    "names": [
+      "U6 snRNA m6A methyltransferase",
+      "METTL16 (gene name)"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring one-carbon groups;",
+      "Methyltransferases"
+    ],
+    "sysname": "S-adenosyl-L-methionine:adenine in U6 snRNA methyltransferase",
+    "reaction": "S-adenosyl-L-methionine + adenine in U6 snRNA = S-adenosyl-L-homocysteine + N6-methyladenine in U6 snRNA [RN:R11953]",
+    "all_reac": "R11953",
+    "iubmb_reactions": [
+      "R11953"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "S-adenosyl-L-methionine [CPD:C00019]",
+      "adenine in U6 snRNA [CPD:C21798]"
+    ],
+    "products": [
+      "S-adenosyl-L-homocysteine [CPD:C00021]",
+      "N6-methyladenine in U6 snRNA [CPD:C21799]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "This enzyme, found in vertebrates, methylates a specific adenine in a hairpin structure of snRNA. The effects of the binding of the methyltransferase to its substrate is important for the regulation of the activity of an isoform of EC 2.5.1.6, methionine adenosyltransferase, that produces S-adenosyl-L-methionine [1,2]. The enzyme also binds (and maybe methylates) the lncRNAs XIST and MALAT1 as well as a number of pre-mRNAs at specific positions often found in the intronic regions [2].",
+    "pathways": {
+    },
+    "orthologs": {
+      "K11393": "U6 snRNA m6A methyltransferase"
+    },
+    "genes": {
+      "hsa": [
+        "79066"
+      ],
+      "ptr": [
+        "468142"
+      ],
+      "pps": [
+        "100985777"
+      ],
+      "ggo": [
+        "101136835"
+      ],
+      "pon": [
+        "100432341"
+      ],
+      "nle": [
+        "100588460"
+      ],
+      "mcc": [
+        "721312"
+      ],
+      "mcf": [
+        "102126585"
+      ],
+      "csab": [
+        "103242135"
+      ],
+      "rro": [
+        "104682018"
+      ],
+      "rbb": [
+        "108526344"
+      ],
+      "cjc": [
+        "100394235"
+      ],
+      "sbq": [
+        "101040153",
+        "104650769"
+      ],
+      "mmu": [
+        "67493"
+      ],
+      "cge": [
+        "100765063"
+      ],
+      "ngi": [
+        "103730532"
+      ],
+      "hgl": [
+        "101709207"
+      ],
+      "ccan": [
+        "109685289"
+      ],
+      "ocu": [
+        "100354377"
+      ],
+      "tup": [
+        "102500444"
+      ],
+      "cfa": [
+        "480655"
+      ],
+      "aml": [
+        "100479575"
+      ],
+      "umr": [
+        "103667151"
+      ],
+      "oro": [
+        "101368257"
+      ],
+      "fca": [
+        "101098176"
+      ],
+      "ptg": [
+        "102953476"
+      ],
+      "aju": [
+        "106983218"
+      ],
+      "bta": [
+        "509278"
+      ],
+      "bom": [
+        "102269245"
+      ],
+      "biu": [
+        "109553874",
+        "109573961"
+      ],
+      "phd": [
+        "102323742"
+      ],
+      "chx": [
+        "102181233"
+      ],
+      "oas": [
+        "101118885",
+        "105606825"
+      ],
+      "ssc": [
+        "100512985"
+      ],
+      "cfr": [
+        "102517540"
+      ],
+      "cdk": [
+        "105094394"
+      ],
+      "bacu": [
+        "103018670"
+      ],
+      "lve": [
+        "103079111"
+      ],
+      "oor": [
+        "101277494"
+      ],
+      "ecb": [
+        "100060313"
+      ],
+      "epz": [
+        "103554989"
+      ],
+      "eai": [
+        "106822016"
+      ],
+      "myb": [
+        "102245762"
+      ],
+      "myd": [
+        "102763524"
+      ],
+      "hai": [
+        "109386913"
+      ],
+      "rss": [
+        "109460272"
+      ],
+      "pale": [
+        "102893627"
+      ],
+      "lav": [
+        "100667422"
+      ],
+      "tmu": [
+        "101359623"
+      ],
+      "mdo": [
+        "100013253"
+      ],
+      "shr": [
+        "100929591"
+      ],
+      "oaa": [
+        "100078226"
+      ],
+      "gga": [
+        "431184"
+      ],
+      "mgp": [
+        "100544219"
+      ],
+      "cjo": [
+        "107319635"
+      ],
+      "apla": [
+        "101799964"
+      ],
+      "tgu": [
+        "100224599"
+      ],
+      "gfr": [
+        "102035966"
+      ],
+      "fab": [
+        "101821499"
+      ],
+      "phi": [
+        "102104214"
+      ],
+      "pmaj": [
+        "107213548"
+      ],
+      "ccw": [
+        "104687188"
+      ],
+      "fpg": [
+        "101917549"
+      ],
+      "fch": [
+        "102058069"
+      ],
+      "clv": [
+        "102083907"
+      ],
+      "egz": [
+        "104126569"
+      ],
+      "aam": [
+        "106497249"
+      ],
+      "asn": [
+        "102379059"
+      ],
+      "amj": [
+        "102560118"
+      ],
+      "pss": [
+        "102445105"
+      ],
+      "cmy": [
+        "102934705"
+      ],
+      "cpic": [
+        "101940016"
+      ],
+      "acs": [
+        "100561572"
+      ],
+      "pvt": [
+        "110088992"
+      ],
+      "pbi": [
+        "103050917",
+        "103059496"
+      ],
+      "gja": [
+        "107110728",
+        "107121598"
+      ],
+      "xla": [
+        "108709350",
+        "443759"
+      ],
+      "xtr": [
+        "100170444"
+      ],
+      "npr": [
+        "108785099"
+      ],
+      "dre": [
+        "445217"
+      ],
+      "srx": [
+        "107743666",
+        "107744784"
+      ],
+      "sanh": [
+        "107664944"
+      ],
+      "sgh": [
+        "107585611"
+      ],
+      "ccar": [
+        "109058035",
+        "109067099",
+        "109084010"
+      ],
+      "ipu": [
+        "108277677"
+      ],
+      "amex": [
+        "103028752"
+      ],
+      "tru": [
+        "101062099"
+      ],
+      "tng": [
+        "GSTEN00033357G001"
+      ],
+      "lco": [
+        "104935454",
+        "109142497"
+      ],
+      "ncc": [
+        "104967203"
+      ],
+      "mze": [
+        "101474733"
+      ],
+      "ola": [
+        "101169471"
+      ],
+      "xma": [
+        "102232539"
+      ],
+      "pret": [
+        "103474551"
+      ],
+      "nfu": [
+        "107380377"
+      ],
+      "csem": [
+        "103378477"
+      ],
+      "lcf": [
+        "108890382"
+      ],
+      "hcq": [
+        "109525371",
+        "109525373",
+        "109525404"
+      ],
+      "bpec": [
+        "110154120"
+      ],
+      "sasa": [
+        "100195164"
+      ],
+      "els": [
+        "105005717"
+      ],
+      "sfm": [
+        "108921289"
+      ],
+      "lcm": [
+        "102357476"
+      ],
+      "cmk": [
+        "103183305"
+      ],
+      "bfo": [
+        "BRAFLDRAFT_83106"
+      ],
+      "spu": [
+        "588854"
+      ],
+      "aplc": [
+        "110982293"
+      ],
+      "sko": [
+        "100375111"
+      ],
+      "dme": [
+        "Dmel_CG7544"
+      ],
+      "dpo": [
+        "Dpse_GA20428"
+      ],
+      "dan": [
+        "Dana_GF12312"
+      ],
+      "der": [
+        "Dere_GG20499"
+      ],
+      "dpe": [
+        "Dper_GL10611"
+      ],
+      "dse": [
+        "Dsec_GM21591"
+      ],
+      "dsi": [
+        "Dsimw501_GD11099"
+      ],
+      "dwi": [
+        "Dwil_GK19702"
+      ],
+      "dya": [
+        "Dyak_GE13632"
+      ],
+      "dgr": [
+        "Dgri_GH21111"
+      ],
+      "dmo": [
+        "Dmoj_GI18716"
+      ],
+      "dvi": [
+        "Dvir_GJ21733"
+      ],
+      "mde": [
+        "101892334"
+      ],
+      "aga": [
+        "AgaP_AGAP011889"
+      ],
+      "aag": [
+        "5571925"
+      ],
+      "cqu": [
+        "CpipJ_CPIJ012620",
+        "CpipJ_CPIJ015643"
+      ],
+      "ame": [
+        "552510"
+      ],
+      "bim": [
+        "100746437"
+      ],
+      "bter": [
+        "100644922"
+      ],
+      "soc": [
+        "105199230"
+      ],
+      "aec": [
+        "105144290"
+      ],
+      "acep": [
+        "105619207"
+      ],
+      "pbar": [
+        "105433112"
+      ],
+      "hst": [
+        "105183808"
+      ],
+      "cfo": [
+        "105251370"
+      ],
+      "lhu": [
+        "105670136"
+      ],
+      "pgc": [
+        "109854953"
+      ],
+      "nvi": [
+        "100123669"
+      ],
+      "tca": [
+        "661821"
+      ],
+      "dpa": [
+        "109540451"
+      ],
+      "nvl": [
+        "108562140"
+      ],
+      "bmor": [
+        "101744195"
+      ],
+      "dpl": [
+        "KGM_207769"
+      ],
+      "pmac": [
+        "106717726"
+      ],
+      "prap": [
+        "110995152"
+      ],
+      "pxy": [
+        "105387479"
+      ],
+      "api": [
+        "100168380"
+      ],
+      "dnx": [
+        "107171844"
+      ],
+      "phu": [
+        "Phum_PHUM438210"
+      ],
+      "zne": [
+        "110837239"
+      ],
+      "fcd": [
+        "110852948"
+      ],
+      "dpx": [
+        "DAPPUDRAFT_50570"
+      ],
+      "isc": [
+        "IscW_ISCW007419"
+      ],
+      "tut": [
+        "107371698"
+      ],
+      "cel": [
+        "CELE_ZK1128.2"
+      ],
+      "cbr": [
+        "CBG09879"
+      ],
+      "nai": [
+        "NECAME_02035"
+      ],
+      "bmy": [
+        "Bm1_44865"
+      ],
+      "loa": [
+        "LOAG_01952"
+      ],
+      "tsp": [
+        "Tsp_01507",
+        "Tsp_12275"
+      ],
+      "hro": [
+        "HELRODRAFT_194040"
+      ],
+      "lgi": [
+        "LOTGIDRAFT_121844"
+      ],
+      "crg": [
+        "105347004"
+      ],
+      "myi": [
+        "110455566"
+      ],
+      "obi": [
+        "106869560"
+      ],
+      "lak": [
+        "106154003"
+      ],
+      "smm": [
+        "Smp_129140.1"
+      ],
+      "shx": [
+        "MS3_05691"
+      ],
+      "ovi": [
+        "T265_01188"
+      ],
+      "egl": [
+        "EGR_05066"
+      ],
+      "nve": [
+        "NEMVE_v1g121407"
+      ],
+      "epa": [
+        "110233634"
+      ],
+      "adf": [
+        "107354373"
+      ],
+      "hmg": [
+        "100201906"
+      ],
+      "tad": [
+        "TRIADDRAFT_28751"
+      ],
+      "aqu": [
+        "100631625"
+      ],
+      "gsl": [
+        "Gasu_03720"
+      ],
+      "sla": [
+        "SERLADRAFT_452997"
+      ],
+      "wic": [
+        "J056_000752"
+      ],
+      "sre": [
+        "PTSG_06103"
+      ],
+      "ddi": [
+        "DDB_G0275203"
+      ],
+      "dpp": [
+        "DICPUDRAFT_25940",
+        "DICPUDRAFT_78256"
+      ],
+      "dfa": [
+        "DFA_04208"
+      ],
+      "acan": [
+        "ACA1_142640"
+      ],
+      "ptm": [
+        "GSPATT00035406001"
+      ],
+      "pif": [
+        "PITG_06794"
+      ],
+      "psoj": [
+        "PHYSODRAFT_486208"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.1.1.346"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.1.1.346"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.1.1.346"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.1.1.346"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Pendleton KE",
+          "Chen B",
+          "Liu K",
+          "Hunter OV",
+          "Xie Y",
+          "Tu BP",
+          "Conrad NK"
+        ],
+        "title": "The U6 snRNA m(6)A Methyltransferase METTL16 Regulates SAM Synthetase Intron Retention.",
+        "journal": "Cell 169:824-835.e14 (2017) DOI:10.1016/j.cell.2017.05.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:28525753]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Warda AS",
+          "Kretschmer J",
+          "Hackert P",
+          "Lenz C",
+          "Urlaub H",
+          "Hobartner C",
+          "Sloan KE",
+          "Bohnsack MT"
+        ],
+        "title": "Human METTL16 is a N(6)-methyladenosine (m(6)A) methyltransferase that targets pre-mRNAs and various non-coding RNAs.",
+        "journal": "EMBO Rep 18:2004-2014 (2017) DOI:10.15252/embr.201744940",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:29051200]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

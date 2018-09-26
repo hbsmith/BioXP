@@ -1,0 +1,32 @@
+[
+  {
+    "entry_id": "C21862",
+    "name": "5-Bromo-1H-pyrrole-2-carbonyl-[peptidyl-carrier protein]",
+    "names": [
+      "5-Bromo-1H-pyrrole-2-carbonyl-[peptidyl-carrier protein]"
+    ],
+    "formula": "C5H3BrNOSR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R12027",
+      "R12028"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.19.57"
+    ],
+    "dblinks": {
+    },
+    "kcf": "ATOM        10\n            1   C8y C    18.0428  -16.2950\n            2   C8x C    18.0428  -17.6938\n            3   C8x C    19.3716  -18.1134\n            4   C8y C    20.2108  -16.9944\n            5   N4x N    19.3716  -15.8754\n            6   C5a C    16.8539  -15.5957\n            7   S2a S    15.5950  -16.2950\n            8   R   R    15.5950  -17.6938\n            9   O5a O    16.8539  -14.1970\n            10  X   Br   21.6108  -16.9944\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     1   5 1\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     6   9 2\n            10    4  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

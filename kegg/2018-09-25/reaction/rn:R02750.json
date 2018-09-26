@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02750",
+    "name": "",
+    "definition": "2-Deoxy-D-ribose 5-phosphate + ADP <=> Deoxyribose + ATP",
+    "equation": "C00673 + C00008 <=> C01801 + C00002",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.15"
+    ],
+    "pathways": {
+      "rn00030": "Pentose phosphate pathway"
+    },
+    "orthologs": {
+      "K00852": "ribokinase [EC:2.7.1.15]"
+    }
+  }
+]

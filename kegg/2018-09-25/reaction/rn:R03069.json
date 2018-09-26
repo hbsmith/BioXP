@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03069",
+    "name": "(2R,3S)-2,3-dimethylmalate hydro-lyase (dimethylmaleate-forming)",
+    "definition": "2,3-Dimethylmaleate + H2O <=> (2R,3S)-2,3-Dimethylmalate",
+    "equation": "C00922 + C00001 <=> C03652",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.85"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K20452": "dimethylmaleate hydratase large subunit [EC:4.2.1.85]",
+      "K20453": "dimethylmaleate hydratase small subunit [EC:4.2.1.85]"
+    }
+  }
+]

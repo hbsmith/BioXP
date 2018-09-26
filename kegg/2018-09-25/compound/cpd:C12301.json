@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C12301",
+    "name": "beta-Terpinyl acetate",
+    "names": [
+      "beta-Terpinyl acetate",
+      "Cyclohexanol, 1-methyl-4-(1-methylethenyl)-, 1-acetate"
+    ],
+    "formula": "C12H20O2",
+    "exact_mass": 196.1463,
+    "mol_weight": 196.286,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "10198-23-9"
+      ],
+      "PubChem": [
+        "582692"
+      ],
+      "ChEBI": [
+        "32327"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0102090046"
+      ],
+      "3DMET": [
+        "B05626"
+      ],
+      "NIKKAJI": [
+        "J629G"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C1x C    23.7954  -15.5168\n            2   C1x C    23.7954  -16.9183\n            3   C1y C    25.0128  -17.6155\n            4   C1x C    26.2162  -16.9183\n            5   C1x C    26.2162  -15.5168\n            6   C1z C    25.0128  -14.8125\n            7   C1a C    23.7883  -14.1153\n            8   O7a O    26.2108  -14.1084\n            9   C7a C    26.2000  -12.7069\n            10  C1a C    27.4092  -11.9933\n            11  O6a O    24.9870  -12.0122\n            12  C2c C    24.9996  -19.0169\n            13  C1a C    23.7812  -19.7141\n            14  C2a C    26.2039  -19.7212\nBOND        14\n            1     6   7 1\n            2     1   2 1\n            3     6   8 1\n            4     2   3 1\n            5     8   9 1\n            6     3   4 1\n            7     9  10 1\n            8     4   5 1\n            9     9  11 2\n            10    5   6 1\n            11    3  12 1\n            12    6   1 1\n            13   12  13 1\n            14   12  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

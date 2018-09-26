@@ -1,0 +1,119 @@
+[
+  {
+    "entry_id": "C06007",
+    "name": "(R)-2,3-Dihydroxy-3-methylpentanoate",
+    "names": [
+      "(R)-2,3-Dihydroxy-3-methylpentanoate",
+      "(R)-2,3-Dihydroxy-3-methylvalerate",
+      "(2R,3R)-2,3-Dihydroxy-3-methylpentanoate"
+    ],
+    "formula": "C6H12O4",
+    "exact_mass": 148.0736,
+    "mol_weight": 148.1571,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05068",
+      "R05070"
+    ],
+    "pathways": {
+      "map00290": "Valine, leucine and isoleucine biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01130": "Biosynthesis of antibiotics",
+      "map01210": "2-Oxocarboxylic acid metabolism",
+      "map01230": "Biosynthesis of amino acids"
+    },
+    "enzymes": [
+      "1.1.1.86",
+      "4.2.1.9"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8280"
+      ],
+      "ChEBI": [
+        "27512",
+        "49258"
+      ],
+      "LIPIDMAPS": [
+        "LMFA01050452"
+      ],
+      "PDB-CCD": [
+        "DMV"
+      ],
+      "3DMET": [
+        "B05146"
+      ],
+      "NIKKAJI": [
+        "J2.760.883C"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1d C    25.8480  -20.1572\n            2   C1c C    27.0477  -20.8553\n            3   C1b C    24.6422  -20.8553\n            4   C1a C    26.3172  -18.6776\n            5   O1a O    25.2899  -18.6776\n            6   C6a C    28.2534  -20.1572\n            7   O1a O    27.0413  -22.3711\n            8   C1a C    23.4490  -20.1699\n            9   O6a O    29.4404  -20.8553\n            10  O6a O    28.2471  -18.7672\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     1   5 1 #Up\n            5     2   6 1\n            6     2   7 1 #Down\n            7     3   8 1\n            8     6   9 1\n            9     6  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C06007",
+    "name": "(R)-2,3-Dihydroxy-3-methylpentanoate",
+    "names": [
+      "(R)-2,3-Dihydroxy-3-methylpentanoate",
+      "(R)-2,3-Dihydroxy-3-methylvalerate",
+      "(2R,3R)-2,3-Dihydroxy-3-methylpentanoate"
+    ],
+    "formula": "C6H12O4",
+    "exact_mass": 148.0736,
+    "mol_weight": 148.1571,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05068",
+      "R05070"
+    ],
+    "pathways": {
+      "map00290": "Valine, leucine and isoleucine biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01130": "Biosynthesis of antibiotics",
+      "map01210": "2-Oxocarboxylic acid metabolism",
+      "map01230": "Biosynthesis of amino acids"
+    },
+    "enzymes": [
+      "1.1.1.86",
+      "4.2.1.9"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8280"
+      ],
+      "ChEBI": [
+        "27512",
+        "49258"
+      ],
+      "LIPIDMAPS": [
+        "LMFA01050452"
+      ],
+      "PDB-CCD": [
+        "DMV"
+      ],
+      "3DMET": [
+        "B05146"
+      ],
+      "NIKKAJI": [
+        "J2.760.883C"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1d C    25.8480  -20.1572\n            2   C1c C    27.0477  -20.8553\n            3   C1b C    24.6422  -20.8553\n            4   C1a C    26.3172  -18.6776\n            5   O1a O    25.2899  -18.6776\n            6   C6a C    28.2534  -20.1572\n            7   O1a O    27.0413  -22.3711\n            8   C1a C    23.4490  -20.1699\n            9   O6a O    29.4404  -20.8553\n            10  O6a O    28.2471  -18.7672\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     1   5 1 #Up\n            5     2   6 1\n            6     2   7 1 #Down\n            7     3   8 1\n            8     6   9 1\n            9     6  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

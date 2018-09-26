@@ -1,0 +1,79 @@
+[
+  {
+    "entry_id": "C00565",
+    "name": "Trimethylamine",
+    "names": [
+      "Trimethylamine",
+      "(CH3)3N",
+      "N,N-Dimethylmethanamine"
+    ],
+    "formula": "C3H9N",
+    "exact_mass": 59.0735,
+    "mol_weight": 59.1103,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02511",
+      "R02559",
+      "R02560",
+      "R04877",
+      "R05623",
+      "R07228",
+      "R09124",
+      "R10016",
+      "R10017",
+      "R10285",
+      "R11875",
+      "R11911"
+    ],
+    "pathways": {
+      "map00680": "Methane metabolism",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01200": "Carbon metabolism"
+    },
+    "enzymes": [
+      "1.5.8.2",
+      "1.6.6.9",
+      "1.14.13.148",
+      "1.14.13.239",
+      "1.21.4.4",
+      "2.1.1.247",
+      "2.1.1.250",
+      "2.1.1.252",
+      "4.3.99.4"
+    ],
+    "dblinks": {
+      "CAS": [
+        "75-50-3"
+      ],
+      "PubChem": [
+        "3844"
+      ],
+      "ChEBI": [
+        "18139"
+      ],
+      "ChEMBL": [
+        "CHEMBL439723"
+      ],
+      "KNApSAcK": [
+        "C00001433"
+      ],
+      "PDB-CCD": [
+        "KEN"
+      ],
+      "3DMET": [
+        "B00133"
+      ],
+      "NIKKAJI": [
+        "J1.457E"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   N1c N    22.1200  -15.8200\n            2   C1a C    23.3299  -15.1185\n            3   C1a C    20.9101  -15.1185\n            4   C1a C    22.1200  -17.2929\nBOND        3\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

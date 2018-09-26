@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C10763",
+    "name": "Cytisine",
+    "names": [
+      "Cytisine"
+    ],
+    "formula": "C11H14N2O",
+    "exact_mass": 190.1106,
+    "mol_weight": 190.2417,
+    "remark": "Same as: D07770",
+    "comment": "",
+    "reactions": [
+      "R08420"
+    ],
+    "pathways": {
+      "map00960": "Tropane, piperidine and pyridine alkaloid biosynthesis",
+      "map01064": "Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "485-35-8"
+      ],
+      "PubChem": [
+        "12946"
+      ],
+      "ChEBI": [
+        "4055"
+      ],
+      "ChEMBL": [
+        "CHEMBL47039"
+      ],
+      "KNApSAcK": [
+        "C00002218"
+      ],
+      "3DMET": [
+        "B05480"
+      ],
+      "NIKKAJI": [
+        "J9.571K"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    23.6831  -16.6458\n            2   C8x C    23.6831  -18.0454\n            3   C8y C    24.8982  -18.7452\n            4   C8x C    24.8982  -15.9460\n            5   C8y C    26.1060  -16.6458\n            6   N4y N    26.1001  -18.0454\n            7   C1x C    27.3092  -18.7503\n            8   C1y C    28.5242  -18.0557\n            9   C1x C    28.5303  -16.6561\n            10  C1y C    27.3212  -15.9513\n            11  C1x C    28.5252  -15.2391\n            12  N1x N    29.7411  -15.9248\n            13  C1x C    29.7268  -17.3456\n            14  O5x O    24.9549  -20.1448\nBOND        16\n            1     5   4 2\n            2     4   1 1\n            3     5   6 1\n            4     6   7 1\n            5     7   8 1\n            6     8   9 1 #Down\n            7    10   9 1 #Down\n            8    10   5 1\n            9    10  11 1\n            10    8  13 1\n            11   11  12 1\n            12    1   2 2\n            13    2   3 1\n            14   12  13 1\n            15    3   6 1\n            16    3  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11935",
+    "name": "S-adenosyl-L-methionine:norbaeocystin N-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Norbaeocystin <=> S-Adenosyl-L-homocysteine + Baeocystin",
+    "equation": "C00019 + C21778 <=> C00021 + C21779",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.345"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22436": "psilocybin synthase [EC:2.1.1.345]"
+    }
+  }
+]

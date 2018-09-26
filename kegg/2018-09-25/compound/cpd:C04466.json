@@ -1,0 +1,71 @@
+[
+  {
+    "entry_id": "C04466",
+    "name": "alpha-2,8-Linked polymer of sialic acid",
+    "names": [
+      "alpha-2,8-Linked polymer of sialic acid",
+      "Poly(sialoside)"
+    ],
+    "formula": "(C10H14NO8R)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = CH3 [CPD:C04799] or CH2OH Hydroxy groups may be also acylated.",
+    "reactions": [
+      "R04484",
+      "R07249"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.3.1.136"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7089"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C1y C    36.5051  -21.9059\n            2   C1y C    36.5051  -23.4100\n            3   C1c C    35.1701  -21.1631\n            4   O2x O    37.8401  -21.1631\n            5   C1y C    37.8401  -24.1651\n            6   N1b N    35.1701  -24.1651\n            7   C1b C    33.8350  -21.8934\n            8   O1a O    35.1573  -19.6526\n            9   C1z C    39.1624  -21.9059\n            10  C1x C    39.1624  -23.4100\n            11  O1a O    37.8401  -25.6630\n            12  C1b C    33.8223  -23.3913\n            13  Z   *    31.9445  -21.1444\n            14  C6a C    39.9161  -20.6014\n            15  O1a O    40.6954  -21.9059\n            16  O1a O    32.4874  -24.1403\n            17  O6a O    39.1433  -19.2970\n            18  O6a O    41.4491  -20.6014\n            19  Z   *    42.9183  -21.9059\n            20  C5a C    35.1701  -25.5651\n            21  R   R    33.9576  -26.2651\n            22  O5a O    36.3825  -26.2651\nBOND        22\n            1     1   2 1\n            2     1   3 1 #Down\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1 #Up\n            6     3   7 1\n            7     3   8 1\n            8     4   9 1\n            9     5  10 1\n            10    5  11 1 #Down\n            11    7  12 1\n            12    7  13 1 #Up\n            13    9  14 1 #Up\n            14    9  15 1\n            15   12  16 1\n            16   14  17 1\n            17   14  18 2\n            18   15  19 1\n            19    9  10 1\n            20    6  20 1\n            21   20  21 1\n            22   20  22 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C04466",
+    "name": "alpha-2,8-Linked polymer of sialic acid",
+    "names": [
+      "alpha-2,8-Linked polymer of sialic acid",
+      "Poly(sialoside)"
+    ],
+    "formula": "(C10H14NO8R)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = CH3 [CPD:C04799] or CH2OH Hydroxy groups may be also acylated.",
+    "reactions": [
+      "R04484",
+      "R07249"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.3.1.136"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7089"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C1y C    36.5051  -21.9059\n            2   C1y C    36.5051  -23.4100\n            3   C1c C    35.1701  -21.1631\n            4   O2x O    37.8401  -21.1631\n            5   C1y C    37.8401  -24.1651\n            6   N1b N    35.1701  -24.1651\n            7   C1b C    33.8350  -21.8934\n            8   O1a O    35.1573  -19.6526\n            9   C1z C    39.1624  -21.9059\n            10  C1x C    39.1624  -23.4100\n            11  O1a O    37.8401  -25.6630\n            12  C1b C    33.8223  -23.3913\n            13  Z   *    31.9445  -21.1444\n            14  C6a C    39.9161  -20.6014\n            15  O1a O    40.6954  -21.9059\n            16  O1a O    32.4874  -24.1403\n            17  O6a O    39.1433  -19.2970\n            18  O6a O    41.4491  -20.6014\n            19  Z   *    42.9183  -21.9059\n            20  C5a C    35.1701  -25.5651\n            21  R   R    33.9576  -26.2651\n            22  O5a O    36.3825  -26.2651\nBOND        22\n            1     1   2 1\n            2     1   3 1 #Down\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1 #Up\n            6     3   7 1\n            7     3   8 1\n            8     4   9 1\n            9     5  10 1\n            10    5  11 1 #Down\n            11    7  12 1\n            12    7  13 1 #Up\n            13    9  14 1 #Up\n            14    9  15 1\n            15   12  16 1\n            16   14  17 1\n            17   14  18 2\n            18   15  19 1\n            19    9  10 1\n            20    6  20 1\n            21   20  21 1\n            22   20  22 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

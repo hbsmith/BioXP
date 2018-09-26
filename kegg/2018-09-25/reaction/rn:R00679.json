@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00679",
+    "name": "L-tryptophan:oxygen 2-oxidoreductase (decarboxylating)",
+    "definition": "L-Tryptophan + Oxygen <=> (Indol-3-yl)acetamide + CO2 + H2O",
+    "equation": "C00078 + C00007 <=> C02693 + C00011 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.12.3"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+      "K00466": "tryptophan 2-monooxygenase [EC:1.13.12.3]"
+    }
+  }
+]

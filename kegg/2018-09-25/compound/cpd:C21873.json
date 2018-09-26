@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C21873",
+    "name": "2-Methylquinolin-4-ol",
+    "names": [
+      "2-Methylquinolin-4-ol",
+      "2-Methyl-4-hydroxyquinoline"
+    ],
+    "formula": "C10H9NO",
+    "exact_mass": 159.0684,
+    "mol_weight": 159.1846,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R12049",
+      "R12050"
+    ],
+    "pathways": {
+      "map00999": "Biosynthesis of secondary metabolites - unclassified",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "2.3.1.-",
+      "2.5.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "607-67-0"
+      ],
+      "ChEMBL": [
+        "CHEMBL1256109"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C     7.0000  -12.0400\n            2   C8x C     7.0000  -13.4400\n            3   C8x C     8.2124  -14.1400\n            4   C8y C     9.4249  -13.4400\n            5   C8y C     9.4249  -12.0400\n            6   C8x C     8.2124  -11.3400\n            7   N5x N    10.6373  -14.1400\n            8   C8y C    11.8497  -13.4400\n            9   C8x C    11.8497  -12.0400\n            10  C8y C    10.6373  -11.3400\n            11  O1a O    10.6373   -9.9400\n            12  C1a C    13.0473  -14.1315\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12   10  11 1\n            13    8  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

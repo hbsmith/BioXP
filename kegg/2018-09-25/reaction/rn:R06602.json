@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R06602",
+    "name": "isochorismate pyruvate-lyase (salicylate-forming)",
+    "definition": "Isochorismate <=> Salicylate + Pyruvate",
+    "equation": "C00885 <=> C00805 + C00022",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.99.21"
+    ],
+    "pathways": {
+      "rn01053": "Biosynthesis of siderophore group nonribosomal peptides",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K04781": "salicylate synthetase [EC:5.4.4.2 4.2.99.21]",
+      "K04782": "isochorismate pyruvate lyase [EC:4.2.99.21]"
+    }
+  }
+]

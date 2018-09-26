@@ -1,0 +1,124 @@
+[
+  {
+    "entry_id": "1.14.19.57",
+    "name": "1H-pyrrole-2-carbonyl-[peptidyl-carrier protein] brominase",
+    "names": [
+      "1H-pyrrole-2-carbonyl-[peptidyl-carrier protein] brominase",
+      "bmp2 (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With oxidation of a pair of donors resulting in the reduction of O2 to two molecules of water"
+    ],
+    "sysname": "1H-pyrrole-2-carbonyl-[peptidyl-carrier protein]:FADH2 oxidoreductase (brominating)",
+    "reaction": "1H-pyrrole-2-carbonyl-[Bmp1 peptidyl-carrier protein] + 3 FADH2 + 3 bromide + 3 O2 = 3,4,5-tribromo-1H-pyrrole-2-carbonyl-[Bmp1 peptidyl-carrier protein] + 3 FAD + 6 H2O (overall reaction) [RN:R12030]; (1a) 1H-pyrrole-2-carbonyl-[Bmp1 peptidyl-carrier protein] + FADH2 + bromide + O2 = 5-bromo-1H-pyrrole-2-carbonyl-[Bmp1 peptidyl-carrier protein] + FAD + 2 H2O [RN:R12027]; (1b) 5-bromo-1H-pyrrole-2-carbonyl-[Bmp1 peptidyl-carrier protein] + FADH2 + bromide + O2 = 4,5-dibromo-1H-pyrrole-2-carbonyl-[Bmp1 peptidyl-carrier protein] + FAD + 2 H2O [RN:R12028]; (1c) 4,5-dibromo-1H-pyrrole-2-carbonyl-[Bmp1 peptidyl-carrier protein] + FADH2 + bromide + O2 = 3,4,5-tribromo-1H-pyrrole-2-carbonyl-[Bmp1 peptidyl-carrier protein] + FAD + 2 H2O [RN:R12029]",
+    "all_reac": "R12027 R12028 R12029 R12030",
+    "iubmb_reactions": [
+      "R12027 R12028 R12029 R12030"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "1H-pyrrole-2-carbonyl-[Bmp1 peptidyl-carrier protein]",
+      "FADH2 [CPD:C01352]",
+      "bromide [CPD:C01324]",
+      "O2 [CPD:C00007]",
+      "5-bromo-1H-pyrrole-2-carbonyl-[Bmp1 peptidyl-carrier protein]",
+      "4,5-dibromo-1H-pyrrole-2-carbonyl-[Bmp1 peptidyl-carrier protein]"
+    ],
+    "products": [
+      "3,4,5-tribromo-1H-pyrrole-2-carbonyl-[Bmp1 peptidyl-carrier protein]",
+      "FAD [CPD:C00016]",
+      "H2O [CPD:C00001]",
+      "5-bromo-1H-pyrrole-2-carbonyl-[Bmp1 peptidyl-carrier protein]",
+      "4,5-dibromo-1H-pyrrole-2-carbonyl-[Bmp1 peptidyl-carrier protein]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, characterized from marine bacteria of the Pseudoalteromonas genus, belongs to a family of FAD-dependent halogenases that act on acyl-carrier protein-tethered substrates. It catalyses three successive rounds of bromination. While the order has not been verified, it is believed to resemble that of EC 1.14.19.56, S-(1H-pyrrole-2-carbonyl)-[peptidyl-carrier protein] chlorinase, due to significant sequence homology. Reduced FAD is provided in situ by a dedicated reductase and diffuses into the active site, where it reacts with the oxygen and bromide ion, resulting in formation of a bromoamine intermediate on a catalytic lysine side chain, and the eventual transfer of the bromide to the substrate. The enzyme from Pseudoalteromonas luteoviolacea 2ta16 is specific for bromide and does not accept chloride.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22692": "1H-pyrrole-2-carbonyl-[peptidyl-carrier protein] brominase"
+    },
+    "genes": {
+      "pphe": [
+        "PP2015_463"
+      ],
+      "plz": [
+        "S4054249_08570"
+      ],
+      "mme": [
+        "Marme_4089"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.19.57"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.19.57"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.19.57"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.19.57"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Agarwal V",
+          "El Gamal AA",
+          "Yamanaka K",
+          "Poth D",
+          "Kersten RD",
+          "Schorn M",
+          "Allen EE",
+          "Moore BS"
+        ],
+        "title": "Biosynthesis of polybrominated aromatic organic compounds by marine bacteria.",
+        "journal": "Nat Chem Biol 10:640-7 (2014) DOI:10.1038/nchembio.1564",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:24974229]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

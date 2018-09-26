@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07662",
+    "name": "4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol amidohydrolase",
+    "definition": "Undecaprenyl phosphate alpha-L-Ara4FN + H2O <=> Undecaprenyl phosphate alpha-L-Ara4N + Formate",
+    "equation": "C16156 + C00001 <=> C16157 + C00058",
+    "comment": "4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.-"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K13014": "undecaprenyl phosphate-alpha-L-ara4FN deformylase [EC:3.5.1.-]"
+    }
+  }
+]

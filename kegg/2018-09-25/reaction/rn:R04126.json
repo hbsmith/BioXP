@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04126",
+    "name": "ATP:1-O-alkyl-sn-glycerol 3-phosphotransferase",
+    "definition": "ATP + 1-Alkyl-sn-glycerol <=> ADP + 1-Alkyl-sn-glycero-3-phosphate",
+    "equation": "C00002 + C02773 <=> C00008 + C03968",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.93"
+    ],
+    "pathways": {
+      "rn00565": "Ether lipid metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

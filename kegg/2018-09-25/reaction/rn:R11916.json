@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R11916",
+    "name": "L-dopa carboxy-lyase (oxidative-deaminating)",
+    "definition": "3,4-Dihydroxy-L-phenylalanine + Oxygen + H2O <=> 3,4-Dihydroxyphenylacetaldehyde + CO2 + Ammonia + Hydrogen peroxide",
+    "equation": "C00355 + C00007 + C00001 <=> C04043 + C00011 + C00014 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.107"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism"
+    },
+    "orthologs": {
+      "K01618": "3,4-dihydroxyphenylacetaldehyde synthase [EC:4.1.1.107]"
+    }
+  }
+][
+  {
+    "entry_id": "R11916",
+    "name": "L-dopa carboxy-lyase (oxidative-deaminating)",
+    "definition": "3,4-Dihydroxy-L-phenylalanine + Oxygen + H2O <=> 3,4-Dihydroxyphenylacetaldehyde + CO2 + Ammonia + Hydrogen peroxide",
+    "equation": "C00355 + C00007 + C00001 <=> C04043 + C00011 + C00014 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.107"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism"
+    },
+    "orthologs": {
+      "K01618": "3,4-dihydroxyphenylacetaldehyde synthase [EC:4.1.1.107]"
+    }
+  }
+]

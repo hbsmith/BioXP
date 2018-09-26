@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R10149",
+    "name": "",
+    "definition": "Thiosulfate + Menaquinol <=> HSO3- + Hydrogen sulfide + Menaquinone",
+    "equation": "C00320 + C05819 <=> C11481 + C00283 + C00828",
+    "comment": "thiosulfate reductase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.5.5"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K08352": "thiosulfate reductase / polysulfide reductase chain A [EC:1.8.5.5]",
+      "K08353": "thiosulfate reductase electron transport protein",
+      "K08354": "thiosulfate reductase cytochrome b subunit"
+    }
+  }
+]

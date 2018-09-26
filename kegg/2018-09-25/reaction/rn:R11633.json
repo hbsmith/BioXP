@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11633",
+    "name": "GTP:formate 2'-oxidoreductase",
+    "definition": "GTP + Formate <=> dGTP + CO2 + H2O",
+    "equation": "C00044 + C00058 <=> C00286 + C00011 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.98.6"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K21636": "ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]"
+    }
+  }
+][
+  {
+    "entry_id": "R11633",
+    "name": "GTP:formate 2'-oxidoreductase",
+    "definition": "GTP + Formate <=> dGTP + CO2 + H2O",
+    "equation": "C00044 + C00058 <=> C00286 + C00011 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.98.6"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K21636": "ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]"
+    }
+  }
+]

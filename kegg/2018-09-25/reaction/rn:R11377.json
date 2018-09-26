@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11377",
+    "name": "",
+    "definition": "UDP-D-galactose + NORint <=> UDP + NOR2 antigen",
+    "equation": "G10609 + G13080 <=> G10619 + G13081",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.228"
+    ],
+    "pathways": {
+      "rn00603": "Glycosphingolipid biosynthesis - globo and isoglobo series",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01988": "lactosylceramide 4-alpha-galactosyltransferase [EC:2.4.1.228]"
+    }
+  }
+]

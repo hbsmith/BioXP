@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08068",
+    "name": "isopentenyladenine,NADPH---hemoprotein reductase:oxygen oxidoreductase (trans-zeatin-forming)",
+    "definition": "N6-(Delta2-Isopentenyl)-adenine + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Zeatin + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C04083 + C03024 + C00007 <=> C00371 + C03161 + C00001",
+    "comment": "P-450 monooxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00908": "Zeatin biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C12069",
+    "name": "3-Hydroxypropenoate",
+    "names": [
+      "3-Hydroxypropenoate"
+    ],
+    "formula": "C3H4O3",
+    "exact_mass": 88.016,
+    "mol_weight": 88.0621,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "14222"
+      ],
+      "ChEBI": [
+        "29480"
+      ],
+      "NIKKAJI": [
+        "J1.201.642E"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C2b C    28.0604  -20.5774\n            2   C6a C    29.2698  -19.8762\n            3   C2b C    26.8446  -19.8762\n            4   O6a O    30.4793  -20.5774\n            5   O6a O    29.2633  -18.4738\n            6   O1a O    25.6352  -20.5774\nBOND        5\n            1     1   2 1\n            2     1   3 2\n            3     2   4 1\n            4     2   5 2\n            5     3   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

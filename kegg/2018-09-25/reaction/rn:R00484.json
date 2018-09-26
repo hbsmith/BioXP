@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00484",
+    "name": "N-Carbamoyl-L-aspartate amidohydrolase",
+    "definition": "N-Carbamoyl-L-aspartate + H2O <=> L-Aspartate + CO2 + Ammonia",
+    "equation": "C00438 + C00001 <=> C00049 + C00011 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.7"
+    ],
+    "pathways": {
+      "rn00250": "Alanine, aspartate and glutamate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

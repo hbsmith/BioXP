@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C18587",
+    "name": "Methyl isothiocyanate",
+    "names": [
+      "Methyl isothiocyanate"
+    ],
+    "formula": "C2H3NS",
+    "exact_mass": 72.9986,
+    "mol_weight": 73.1169,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "556-61-6"
+      ],
+      "PubChem": [
+        "124489261"
+      ],
+      "ChEBI": [
+        "78337"
+      ],
+      "ChEMBL": [
+        "CHEMBL396000"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   C1a C    18.5500  -16.3800\n            2   N2b N    19.7400  -15.6800\n            3   C0  C    20.9300  -16.3800\n            4   S0  S    22.1900  -17.0800\nBOND        3\n            1     1   2 1\n            2     2   3 2\n            3     3   4 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

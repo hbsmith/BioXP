@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06914",
+    "name": "",
+    "definition": "3-Methylsalicylaldehyde + NAD+ + H2O <=> 3-Methylsalicylate + NADH + H+",
+    "equation": "C14087 + C00003 + C00001 <=> C14088 + C00004 + C00080",
+    "comment": "3-methylsalicylaldehyde dehydrogenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.-"
+    ],
+    "pathways": {
+      "rn00626": "Naphthalene degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+    }
+  }
+]

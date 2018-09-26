@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R12144",
+    "name": "L-galactono-1,4-lactone:ferricytochrome-c oxidoreductase",
+    "definition": "L-Galactono-1,4-lactone + 4 Ferricytochrome c <=> Dehydroascorbate + 4 Ferrocytochrome c + 4 H+",
+    "equation": "C01115 + 4 C00125 <=> C05422 + 4 C00126 + 4 C00080",
+    "comment": "two-step reaction (see R00640+R07679)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.2.3"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

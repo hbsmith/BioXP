@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C16401",
+    "name": "2,4,6-Trihydroxytoluene",
+    "names": [
+      "2,4,6-Trihydroxytoluene",
+      "2-Methylphloroglucinol"
+    ],
+    "formula": "C7H8O3",
+    "exact_mass": 140.0473,
+    "mol_weight": 140.1366,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08040",
+      "R08041"
+    ],
+    "pathways": {
+      "map00633": "Nitrotoluene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "88-03-9"
+      ],
+      "PubChem": [
+        "47205699"
+      ],
+      "ChEBI": [
+        "19336"
+      ],
+      "NIKKAJI": [
+        "J4.284F"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    28.0622  -24.0981\n            2   C8x C    28.0622  -25.4965\n            3   C8y C    29.2771  -26.1990\n            4   C8x C    30.4847  -25.4965\n            5   C8y C    30.4847  -24.0981\n            6   C8y C    29.2771  -23.4025\n            7   C1a C    29.2788  -22.0044\n            8   O1a O    31.6973  -23.4035\n            9   O1a O    29.2788  -27.5972\n            10  O1a O    26.8378  -23.3878\nBOND        10\n            1     6   7 1\n            2     1   2 2\n            3     5   8 1\n            4     2   3 1\n            5     3   9 1\n            6     3   4 2\n            7     4   5 1\n            8     5   6 2\n            9     6   1 1\n            10    1  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

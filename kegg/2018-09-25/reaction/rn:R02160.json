@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R02160",
+    "name": "dihydroflavonol,2-oxoglutarate:oxygen oxidoreductase",
+    "definition": "Taxifolin + 2-Oxoglutarate + Oxygen <=> Quercetin + Succinate + CO2 + H2O",
+    "equation": "C01617 + C00026 + C00007 <=> C00389 + C00042 + C00011 + C00001",
+    "comment": "flavonol synthase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.20.6"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K05278": "flavonol synthase [EC:1.14.20.6]"
+    }
+  }
+][
+  {
+    "entry_id": "R02160",
+    "name": "dihydroflavonol,2-oxoglutarate:oxygen oxidoreductase",
+    "definition": "Taxifolin + 2-Oxoglutarate + Oxygen <=> Quercetin + Succinate + CO2 + H2O",
+    "equation": "C01617 + C00026 + C00007 <=> C00389 + C00042 + C00011 + C00001",
+    "comment": "flavonol synthase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.20.6"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K05278": "flavonol synthase [EC:1.14.20.6]"
+    }
+  }
+]

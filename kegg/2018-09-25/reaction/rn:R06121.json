@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R06121",
+    "name": "CMP-N-acetylneuraminate:lactosylceramide alpha-2,6-N-acetylneuraminyltransferase",
+    "definition": "Lactosylceramide + CMP-N-acetylneuraminate <=> GM3 + CMP",
+    "equation": "G00092 + G10616 <=> G01185 + G10621",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.99.1"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

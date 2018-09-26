@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00469",
+    "name": "(S)-ureidoglycolate amidohydrolase (decarboxylating)",
+    "definition": "(S)-Ureidoglycolate + H2O <=> Glyoxylate + 2 Ammonia + CO2",
+    "equation": "C00603 + C00001 <=> C00048 + 2 C00014 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.116"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K18151": "ureidoglycolate amidohydrolase [EC:3.5.1.116]"
+    }
+  }
+]

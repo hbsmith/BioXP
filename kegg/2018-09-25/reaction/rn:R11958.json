@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11958",
+    "name": "acyl-CoA:acyl-CoA alkyltransferase [(2R)-2-alkyl-3-oxoalkanoate-forming]",
+    "definition": "2 Acyl-CoA + H2O <=> (R)-2-Alkyl-3-oxoalkanoate + 2 CoA",
+    "equation": "2 C00040 + C00001 <=> C21651 + 2 C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.3.20"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K22317": "acyl-CoA:acyl-CoA alkyltransferase [EC:2.3.3.20]"
+    }
+  }
+]

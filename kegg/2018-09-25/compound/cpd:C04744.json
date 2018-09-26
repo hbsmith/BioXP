@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C04744",
+    "name": "2,6-Diamino-4-hydroxy-5-(N-methyl)formamidopyrimidine",
+    "names": [
+      "2,6-Diamino-4-hydroxy-5-(N-methyl)formamidopyrimidine"
+    ],
+    "formula": "C6H9N5O2",
+    "exact_mass": 183.0756,
+    "mol_weight": 183.168,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7315"
+      ],
+      "ChEBI": [
+        "28643"
+      ],
+      "NIKKAJI": [
+        "J490.601B"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    17.9994  -16.9327\n            2   C8y C    17.9994  -15.5534\n            3   C8y C    19.1844  -17.6286\n            4   N1c N    16.8645  -18.0675\n            5   N5x N    19.1844  -14.8761\n            6   N1a N    16.8207  -14.8761\n            7   N5x N    20.3819  -16.9327\n            8   O1a O    19.1780  -18.9955\n            9   C4a C    15.6858  -17.3778\n            10  C1a C    16.8583  -19.5848\n            11  C8y C    20.3819  -15.5534\n            12  O4a O    14.5008  -18.0549\n            13  N1a N    21.5606  -14.8700\nBOND        13\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 2\n            7     3   8 1\n            8     4   9 1\n            9     4  10 1\n            10    5  11 2\n            11    9  12 2\n            12   11  13 1\n            13    7  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

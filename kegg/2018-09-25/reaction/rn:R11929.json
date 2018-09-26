@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11929",
+    "name": "sulfide:glutathione,quinone oxidoreductase",
+    "definition": "Hydrogen sulfide + Glutathione + Quinone <=> S-Sulfanylglutathione + Hydroquinone",
+    "equation": "C00283 + C00051 + C15602 <=> C17267 + C15603",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.5.8"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K22470": "eukaryotic sulfide quinone oxidoreductase [EC:1.8.5.8]"
+    }
+  }
+]

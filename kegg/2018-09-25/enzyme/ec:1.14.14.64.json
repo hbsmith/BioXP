@@ -1,0 +1,122 @@
+[
+  {
+    "entry_id": "1.14.14.64",
+    "name": "beta-amyrin 6beta-monooxygenase",
+    "names": [
+      "beta-amyrin 6beta-monooxygenase",
+      "CYP716E26"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "beta-amyrin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (daturadiol forming)",
+    "reaction": "beta-amyrin + [reduced NADPH---hemoprotein reductase] + O2 = daturadiol + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R11976]",
+    "all_reac": "R11976",
+    "iubmb_reactions": [
+      "R11976"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "beta-amyrin [CPD:C08616]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "daturadiol [CPD:C21821]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein isolated from the plant Solanum lycopersicum (tomato).",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22621": "beta-amyrin 6beta-monooxygenase"
+    },
+    "genes": {
+      "sly": [
+        "101250025"
+      ],
+      "spen": [
+        "107021849"
+      ],
+      "sot": [
+        "102595905"
+      ],
+      "cann": [
+        "107874834"
+      ],
+      "ini": [
+        "109179307"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.64"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.64"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.64"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.64"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Yasumoto S",
+          "Seki H",
+          "Shimizu Y",
+          "Fukushima EO",
+          "Muranaka T"
+        ],
+        "title": "Functional Characterization of CYP716 Family P450 Enzymes in Triterpenoid Biosynthesis in Tomato.",
+        "journal": "Front Plant Sci 8:21 (2017) DOI:10.3389/fpls.2017.00021",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:28194155]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

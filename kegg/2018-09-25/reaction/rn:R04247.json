@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R04247",
+    "name": "CTP:ethanolamine-phosphate cytidylyltransferase",
+    "definition": "CTP + 2-Aminoethylphosphonate <=> Diphosphate + CMP-2-aminoethylphosphonate",
+    "equation": "C00063 + C03557 <=> C00013 + C05673",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.14"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00967": "ethanolamine-phosphate cytidylyltransferase [EC:2.7.7.14]"
+    }
+  }
+][
+  {
+    "entry_id": "R04247",
+    "name": "CTP:ethanolamine-phosphate cytidylyltransferase",
+    "definition": "CTP + 2-Aminoethylphosphonate <=> Diphosphate + CMP-2-aminoethylphosphonate",
+    "equation": "C00063 + C03557 <=> C00013 + C05673",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.14"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00967": "ethanolamine-phosphate cytidylyltransferase [EC:2.7.7.14]"
+    }
+  }
+]

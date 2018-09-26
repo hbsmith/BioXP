@@ -1,0 +1,123 @@
+[
+  {
+    "entry_id": "C03033",
+    "name": "beta-D-Glucuronoside",
+    "names": [
+      "beta-D-Glucuronoside",
+      "O-beta-D-Glucuronoside",
+      "Glucuronide",
+      "beta-D-Glucuronide"
+    ],
+    "formula": "C6H9O7R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R01383",
+      "R01478"
+    ],
+    "pathways": {
+      "map00040": "Pentose and glucuronate interconversions",
+      "map01100": "Metabolic pathways",
+      "map04976": "Bile secretion"
+    },
+    "enzymes": [
+      "2.4.1.17",
+      "3.2.1.31"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5938"
+      ],
+      "ChEBI": [
+        "15341"
+      ],
+      "LIPIDMAPS": [
+        "LMST05010004",
+        "LMST05010020",
+        "LMST05010055",
+        "LMST05010057",
+        "LMST05010058",
+        "LMST05010059",
+        "LMST05010060",
+        "LMST05010061",
+        "LMST05010062",
+        "LMST05010063",
+        "LMST05010064",
+        "LMST05010065",
+        "LMST05010066",
+        "LMST05010067",
+        "LMST05050028"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C1y C    25.2331  -15.4263\n            2   O2x O    26.4423  -14.7252\n            3   C1y C    25.2331  -16.8155\n            4   C1y C    27.6643  -15.4198\n            5   C1y C    26.4423  -17.5229\n            6   O1a O    24.0304  -17.5229\n            7   C1y C    27.6643  -16.8155\n            8   O2a O    28.8799  -14.7252\n            9   O1a O    26.4423  -18.9187\n            10  O1a O    28.8799  -17.5229\n            11  R   R    30.0891  -15.4263\n            12  C6a C    23.9876  -14.7000\n            13  O6a O    22.7751  -15.4000\n            14  O6a O    23.9906  -13.3001\nBOND        14\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     3   6 1 #Down\n            6     4   7 1\n            7     4   8 1 #Up\n            8     5   9 1 #Up\n            9     7  10 1 #Down\n            10    8  11 1\n            11    5   7 1\n            12    1  12 1 #Up\n            13   12  13 1\n            14   12  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C03033",
+    "name": "beta-D-Glucuronoside",
+    "names": [
+      "beta-D-Glucuronoside",
+      "O-beta-D-Glucuronoside",
+      "Glucuronide",
+      "beta-D-Glucuronide"
+    ],
+    "formula": "C6H9O7R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R01383",
+      "R01478"
+    ],
+    "pathways": {
+      "map00040": "Pentose and glucuronate interconversions",
+      "map01100": "Metabolic pathways",
+      "map04976": "Bile secretion"
+    },
+    "enzymes": [
+      "2.4.1.17",
+      "3.2.1.31"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5938"
+      ],
+      "ChEBI": [
+        "15341"
+      ],
+      "LIPIDMAPS": [
+        "LMST05010004",
+        "LMST05010020",
+        "LMST05010055",
+        "LMST05010057",
+        "LMST05010058",
+        "LMST05010059",
+        "LMST05010060",
+        "LMST05010061",
+        "LMST05010062",
+        "LMST05010063",
+        "LMST05010064",
+        "LMST05010065",
+        "LMST05010066",
+        "LMST05010067",
+        "LMST05050028"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C1y C    25.2331  -15.4263\n            2   O2x O    26.4423  -14.7252\n            3   C1y C    25.2331  -16.8155\n            4   C1y C    27.6643  -15.4198\n            5   C1y C    26.4423  -17.5229\n            6   O1a O    24.0304  -17.5229\n            7   C1y C    27.6643  -16.8155\n            8   O2a O    28.8799  -14.7252\n            9   O1a O    26.4423  -18.9187\n            10  O1a O    28.8799  -17.5229\n            11  R   R    30.0891  -15.4263\n            12  C6a C    23.9876  -14.7000\n            13  O6a O    22.7751  -15.4000\n            14  O6a O    23.9906  -13.3001\nBOND        14\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     3   6 1 #Down\n            6     4   7 1\n            7     4   8 1 #Up\n            8     5   9 1 #Up\n            9     7  10 1 #Down\n            10    8  11 1\n            11    5   7 1\n            12    1  12 1 #Up\n            13   12  13 1\n            14   12  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

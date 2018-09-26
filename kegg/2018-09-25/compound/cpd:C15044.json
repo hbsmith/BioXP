@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C15044",
+    "name": "2,3-Dimethoxy-[2-(4-Pyridinyl)-1-butenyl]phenol",
+    "names": [
+      "2,3-Dimethoxy-[2-(4-Pyridinyl)-1-butenyl]phenol",
+      "4-[1-[(2,3-Dimethoxyphenyl)methylene]propyl]pyridine"
+    ],
+    "formula": "C17H19NO2",
+    "exact_mass": 269.1416,
+    "mol_weight": 269.3383,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17396041"
+      ],
+      "ChEBI": [
+        "79564"
+      ],
+      "NIKKAJI": [
+        "J2.791.767D"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C8x C    18.0795  -17.1156\n            2   N5x N    18.0795  -18.5186\n            3   C8x C    19.2945  -19.2200\n            4   C8x C    20.5095  -18.5186\n            5   C8y C    20.5095  -17.1156\n            6   C8x C    19.2945  -16.4141\n            7   C2c C    21.7432  -16.4031\n            8   C2b C    22.9510  -17.1003\n            9   C8y C    24.1358  -16.4160\n            10  C8y C    25.3323  -17.1068\n            11  C8y C    26.5472  -16.4053\n            12  C8x C    26.5472  -15.0024\n            13  C8x C    25.3508  -14.3116\n            14  C8x C    24.1358  -15.0131\n            15  O2a O    25.3324  -18.5183\n            16  C1b C    21.7429  -15.0113\n            17  C1a C    20.5160  -14.3031\n            18  O2a O    27.7359  -17.0913\n            19  C1a C    26.5643  -19.2290\n            20  C1a C    28.9410  -16.3950\nBOND        21\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11   10  11 1\n            12   11  12 2\n            13   12  13 1\n            14   13  14 2\n            15    9  14 1\n            16   10  15 1\n            17    7  16 1\n            18   16  17 1\n            19   11  18 1\n            20   15  19 1\n            21   18  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

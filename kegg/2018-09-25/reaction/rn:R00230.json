@@ -1,0 +1,29 @@
+[
+  {
+    "entry_id": "R00230",
+    "name": "acetyl-CoA:phosphate acetyltransferase",
+    "definition": "Acetyl-CoA + Orthophosphate <=> CoA + Acetyl phosphate",
+    "equation": "C00024 + C00009 <=> C00010 + C00227",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.8"
+    ],
+    "pathways": {
+      "rn00430": "Taurine and hypotaurine metabolism",
+      "rn00620": "Pyruvate metabolism",
+      "rn00680": "Methane metabolism",
+      "rn00720": "Carbon fixation pathways in prokaryotes",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K00625": "phosphate acetyltransferase [EC:2.3.1.8]",
+      "K04020": "phosphotransacetylase",
+      "K13788": "phosphate acetyltransferase [EC:2.3.1.8]",
+      "K15024": "putative phosphotransacetylase [EC:2.3.1.8]"
+    }
+  }
+]

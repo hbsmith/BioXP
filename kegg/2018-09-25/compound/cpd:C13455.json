@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C13455",
+    "name": "Abscisic aldehyde",
+    "names": [
+      "Abscisic aldehyde"
+    ],
+    "formula": "C15H20O3",
+    "exact_mass": 248.1412,
+    "mol_weight": 248.3175,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06954",
+      "R06957",
+      "R06958"
+    ],
+    "pathways": {
+      "map00906": "Carotenoid biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.1.1.288",
+      "1.2.3.14"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "586195"
+      ],
+      "ChEBI": [
+        "31157"
+      ],
+      "KNApSAcK": [
+        "C00007236"
+      ],
+      "NIKKAJI": [
+        "J489.427H",
+        "J751.663K"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C1z C    22.6380  -19.4525\n            2   C1z C    21.4274  -18.7540\n            3   C2y C    22.6380  -20.8496\n            4   C2b C    23.8489  -18.7540\n            5   O1a O    23.8489  -20.2907\n            6   C1x C    20.2165  -19.4525\n            7   C2x C    21.4274  -21.5481\n            8   C1a C    23.8489  -21.5481\n            9   C2b C    25.0597  -19.4525\n            10  C5x C    20.2165  -20.8496\n            11  C2c C    26.2705  -18.7540\n            12  O5x O    19.0058  -21.5015\n            13  C2b C    27.4812  -19.4525\n            14  C1a C    26.2705  -17.3569\n            15  C4a C    27.4812  -20.8496\n            16  O4a O    28.6832  -21.5434\n            17  C1a C    22.1274  -17.5415\n            18  C1a C    20.4374  -17.7640\nBOND        18\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     1   5 1 #Down\n            5     2   6 1\n            6     3   7 2\n            7     3   8 1\n            8     4   9 2\n            9     6  10 1\n            10    9  11 1\n            11   10  12 2\n            12   11  13 2\n            13   11  14 1\n            14   13  15 1\n            15    7  10 1\n            16   15  16 2\n            17    2  17 1\n            18    2  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

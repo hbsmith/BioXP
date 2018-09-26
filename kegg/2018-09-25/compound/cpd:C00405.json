@@ -1,0 +1,107 @@
+[
+  {
+    "entry_id": "C00405",
+    "name": "D-Amino acid",
+    "names": [
+      "D-Amino acid"
+    ],
+    "formula": "C2H4NO2R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R01265",
+      "R01340",
+      "R01344",
+      "R02190",
+      "R02191",
+      "R02192",
+      "R02459",
+      "R02851",
+      "R02924",
+      "R07166",
+      "R09493"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.4.3.3",
+      "1.4.5.1",
+      "1.4.99.6",
+      "2.3.1.36",
+      "2.6.1.21",
+      "3.5.1.77",
+      "3.5.1.81",
+      "5.1.1.10"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3695"
+      ],
+      "ChEBI": [
+        "16733"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   N1a N    17.8500  -17.3600\n            2   C1c C    19.0624  -16.6600\n            3   C6a C    20.2749  -17.3600\n            4   O6a O    21.4873  -16.6600\n            5   O6a O    20.2749  -18.7598\n            6   R   R    19.0624  -15.2602\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 2\n            5     2   6 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C00405",
+    "name": "D-Amino acid",
+    "names": [
+      "D-Amino acid"
+    ],
+    "formula": "C2H4NO2R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R01265",
+      "R01340",
+      "R01344",
+      "R02190",
+      "R02191",
+      "R02192",
+      "R02459",
+      "R02851",
+      "R02924",
+      "R07166",
+      "R09493"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.4.3.3",
+      "1.4.5.1",
+      "1.4.99.6",
+      "2.3.1.36",
+      "2.6.1.21",
+      "3.5.1.77",
+      "3.5.1.81",
+      "5.1.1.10"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3695"
+      ],
+      "ChEBI": [
+        "16733"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   N1a N    17.8500  -17.3600\n            2   C1c C    19.0624  -16.6600\n            3   C6a C    20.2749  -17.3600\n            4   O6a O    21.4873  -16.6600\n            5   O6a O    20.2749  -18.7598\n            6   R   R    19.0624  -15.2602\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 2\n            5     2   6 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

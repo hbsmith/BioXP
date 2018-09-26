@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08678",
+    "name": "S-sulfanylglutathione:oxygen oxidoreductase",
+    "definition": "S-Sulfanylglutathione + Oxygen + H2O <=> Glutathione + Sulfite",
+    "equation": "C17267 + C00007 + C00001 <=> C00051 + C00094",
+    "comment": "two-step reaction (see R11946+R11947)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.18"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K17725": "sulfur dioxygenase [EC:1.13.11.18]"
+    }
+  }
+]

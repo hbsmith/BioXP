@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C21412",
+    "name": "(10aS)-10,10a-Dihydrophenazine-1-carboxylate",
+    "names": [
+      "(10aS)-10,10a-Dihydrophenazine-1-carboxylate"
+    ],
+    "formula": "C13H10N2O2",
+    "exact_mass": 226.0742,
+    "mol_weight": 226.2307,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11491",
+      "R11576"
+    ],
+    "pathways": {
+      "map00405": "Phenazine biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.10.3.16"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "328082955"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C8x C    14.9730  -16.5123\n            2   C8x C    14.9730  -17.9116\n            3   C8x C    16.1624  -18.6113\n            4   C8y C    17.4218  -17.9116\n            5   C8y C    17.4218  -16.5123\n            6   C8x C    16.1624  -15.8126\n            7   N2x N    18.6113  -18.6113\n            8   C2y C    19.8007  -17.9116\n            9   C1y C    19.8007  -16.5123\n            10  N1x N    18.6113  -15.8126\n            11  C2x C    21.0601  -18.6113\n            12  C2x C    22.2496  -17.9116\n            13  C2x C    22.2496  -16.5123\n            14  C2y C    21.0601  -15.8126\n            15  C6a C    21.0601  -14.4133\n            16  O6a O    22.2496  -13.7136\n            17  O6a O    19.8707  -13.7136\nBOND        19\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 2\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 1\n            11    5  10 1\n            12    8  11 1\n            13   11  12 2\n            14   12  13 1\n            15   13  14 2\n            16    9  14 1\n            17   14  15 1\n            18   15  16 1\n            19   15  17 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

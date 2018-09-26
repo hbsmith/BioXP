@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10519",
+    "name": "D-glucose-6-phosphate:NAD+ oxidoreductase",
+    "definition": "D-Glucose 6-phosphate + NAD+ <=> 3-Dehydro-D-glucose 6-phosphate + NADH + H+",
+    "equation": "C00092 + C00003 <=> C20668 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.361"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "orthologs": {
+      "K18652": "glucose-6-phosphate 3-dehydrogenase [EC:1.1.1.361]"
+    }
+  }
+]

@@ -1,0 +1,1118 @@
+[
+  {
+    "entry_id": "4.2.1.77",
+    "name": "trans-L-3-hydroxyproline dehydratase",
+    "names": [
+      "trans-L-3-hydroxyproline dehydratase",
+      "trans-L-3-hydroxyproline hydro-lyase"
+    ],
+    "classes": [
+      "Lyases;",
+      "Carbon-oxygen lyases;",
+      "Hydro-lyases"
+    ],
+    "sysname": "trans-3-hydroxy-L-proline hydro-lyase (1-pyrroline-2-carboxylate-forming)",
+    "reaction": "trans-3-hydroxy-L-proline = 1-pyrroline 2-carboxylate + H2O [RN:R04374]",
+    "all_reac": "R04374",
+    "iubmb_reactions": [
+      "R04374"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "trans-3-hydroxy-L-proline [CPD:C05147]"
+    ],
+    "products": [
+      "1-pyrroline 2-carboxylate [CPD:C03564]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "Highly specific.",
+    "pathways": {
+      "ec00330": "Arginine and proline metabolism"
+    },
+    "orthologs": {
+      "K18384": "trans-L-3-hydroxyproline dehydratase",
+      "K22548": "trans-L-3-hydroxyproline dehydratase"
+    },
+    "genes": {
+      "hsa": [
+        "112849"
+      ],
+      "ptr": [
+        "112204140"
+      ],
+      "pps": [
+        "100973980"
+      ],
+      "ggo": [
+        "101151045"
+      ],
+      "pon": [
+        "100172276"
+      ],
+      "nle": [
+        "100585615"
+      ],
+      "mcc": [
+        "702076"
+      ],
+      "mcf": [
+        "102115940"
+      ],
+      "csab": [
+        "103229098"
+      ],
+      "rro": [
+        "104662157"
+      ],
+      "rbb": [
+        "108524789"
+      ],
+      "cjc": [
+        "100402030"
+      ],
+      "sbq": [
+        "101037339"
+      ],
+      "mmu": [
+        "67217"
+      ],
+      "rno": [
+        "314214"
+      ],
+      "cge": [
+        "100764709"
+      ],
+      "ngi": [
+        "103739192"
+      ],
+      "hgl": [
+        "101725460"
+      ],
+      "ccan": [
+        "109696080"
+      ],
+      "ocu": [
+        "100354746"
+      ],
+      "tup": [
+        "102490555"
+      ],
+      "cfa": [
+        "490715"
+      ],
+      "aml": [
+        "100471249"
+      ],
+      "umr": [
+        "103672703"
+      ],
+      "oro": [
+        "101365481"
+      ],
+      "fca": [
+        "101098960"
+      ],
+      "ptg": [
+        "102955955"
+      ],
+      "aju": [
+        "106974568"
+      ],
+      "bta": [
+        "510525"
+      ],
+      "bom": [
+        "102267712"
+      ],
+      "biu": [
+        "109565207"
+      ],
+      "phd": [
+        "102331969",
+        "102341898"
+      ],
+      "chx": [
+        "102170980"
+      ],
+      "oas": [
+        "101102239"
+      ],
+      "ssc": [
+        "110262303"
+      ],
+      "cfr": [
+        "102510698"
+      ],
+      "cdk": [
+        "105086230"
+      ],
+      "bacu": [
+        "103001798"
+      ],
+      "lve": [
+        "103089729"
+      ],
+      "oor": [
+        "101288505"
+      ],
+      "ecb": [
+        "100059502"
+      ],
+      "epz": [
+        "103560585"
+      ],
+      "eai": [
+        "106846079"
+      ],
+      "myb": [
+        "102251331"
+      ],
+      "myd": [
+        "102751344"
+      ],
+      "hai": [
+        "109383857"
+      ],
+      "rss": [
+        "109444418"
+      ],
+      "pale": [
+        "102892379"
+      ],
+      "lav": [
+        "100671364"
+      ],
+      "tmu": [
+        "101343227"
+      ],
+      "mdo": [
+        "100026616"
+      ],
+      "shr": [
+        "100916958"
+      ],
+      "oaa": [
+        "100086994"
+      ],
+      "gga": [
+        "423531"
+      ],
+      "mgp": [
+        "104911286"
+      ],
+      "cjo": [
+        "107315418"
+      ],
+      "apla": [
+        "101790625"
+      ],
+      "acyg": [
+        "106037183"
+      ],
+      "tgu": [
+        "100232596"
+      ],
+      "gfr": [
+        "102042007"
+      ],
+      "fab": [
+        "101810740"
+      ],
+      "phi": [
+        "102107944"
+      ],
+      "pmaj": [
+        "107206387"
+      ],
+      "ccw": [
+        "104684550"
+      ],
+      "fpg": [
+        "101918943"
+      ],
+      "fch": [
+        "102059456"
+      ],
+      "clv": [
+        "102096316"
+      ],
+      "egz": [
+        "104135281"
+      ],
+      "aam": [
+        "106495231"
+      ],
+      "asn": [
+        "102369998"
+      ],
+      "amj": [
+        "102565530"
+      ],
+      "pss": [
+        "102462476"
+      ],
+      "cmy": [
+        "102947990"
+      ],
+      "cpic": [
+        "101931630"
+      ],
+      "acs": [
+        "100559609"
+      ],
+      "pvt": [
+        "110083781"
+      ],
+      "pbi": [
+        "103049310"
+      ],
+      "gja": [
+        "107120397"
+      ],
+      "xla": [
+        "108698829"
+      ],
+      "xtr": [
+        "493490"
+      ],
+      "npr": [
+        "108791712"
+      ],
+      "dre": [
+        "565785"
+      ],
+      "srx": [
+        "107755210"
+      ],
+      "sanh": [
+        "107684001"
+      ],
+      "sgh": [
+        "107601901"
+      ],
+      "ccar": [
+        "109058095"
+      ],
+      "ipu": [
+        "108257951"
+      ],
+      "amex": [
+        "103042342"
+      ],
+      "tru": [
+        "101066682"
+      ],
+      "tng": [
+        "GSTEN00023082G001"
+      ],
+      "lco": [
+        "104930547"
+      ],
+      "ncc": [
+        "104951072"
+      ],
+      "mze": [
+        "101483912"
+      ],
+      "ola": [
+        "101166521"
+      ],
+      "xma": [
+        "102217165"
+      ],
+      "pret": [
+        "103457582"
+      ],
+      "nfu": [
+        "107377581"
+      ],
+      "lcf": [
+        "108895649"
+      ],
+      "hcq": [
+        "109524865"
+      ],
+      "bpec": [
+        "110155871"
+      ],
+      "sasa": [
+        "106571502"
+      ],
+      "els": [
+        "105017645"
+      ],
+      "sfm": [
+        "108930829"
+      ],
+      "lcm": [
+        "102352794"
+      ],
+      "cmk": [
+        "103178517"
+      ],
+      "bfo": [
+        "BRAFLDRAFT_57657",
+        "BRAFLDRAFT_70659",
+        "BRAFLDRAFT_70660",
+        "BRAFLDRAFT_70661",
+        "BRAFLDRAFT_70662",
+        "BRAFLDRAFT_92246"
+      ],
+      "cin": [
+        "100178125"
+      ],
+      "spu": [
+        "585737"
+      ],
+      "aplc": [
+        "110978363"
+      ],
+      "sko": [
+        "100374014",
+        "100375070",
+        "100375215",
+        "100376940"
+      ],
+      "hro": [
+        "HELRODRAFT_110204"
+      ],
+      "lgi": [
+        "LOTGIDRAFT_118524",
+        "LOTGIDRAFT_118892"
+      ],
+      "crg": [
+        "105344406",
+        "105346271",
+        "105346272"
+      ],
+      "myi": [
+        "110457033",
+        "110457034",
+        "110457035",
+        "110457044"
+      ],
+      "obi": [
+        "106881453"
+      ],
+      "lak": [
+        "106170700",
+        "106170725"
+      ],
+      "nve": [
+        "NEMVE_v1g230391",
+        "NEMVE_v1g231235",
+        "NEMVE_v1g67963"
+      ],
+      "epa": [
+        "110254897"
+      ],
+      "adf": [
+        "107329603",
+        "107343685",
+        "107343686"
+      ],
+      "hmg": [
+        "100198440"
+      ],
+      "aqu": [
+        "100638966"
+      ],
+      "mtm": [
+        "MYCTH_2307630"
+      ],
+      "fgr": [
+        "FGSG_07885"
+      ],
+      "fpu": [
+        "FPSE_11038"
+      ],
+      "fvr": [
+        "FVEG_12059"
+      ],
+      "fox": [
+        "FOXG_03798"
+      ],
+      "nhe": [
+        "NECHADRAFT_29955",
+        "NECHADRAFT_48195",
+        "NECHADRAFT_83096",
+        "NECHADRAFT_85483",
+        "NECHADRAFT_86269",
+        "NECHADRAFT_97182"
+      ],
+      "maw": [
+        "MAC_07874"
+      ],
+      "maj": [
+        "MAA_06218"
+      ],
+      "plj": [
+        "VFPFJ_01628"
+      ],
+      "cfj": [
+        "CFIO01_04717",
+        "CFIO01_08980"
+      ],
+      "pfy": [
+        "PFICI_09227",
+        "PFICI_13991"
+      ],
+      "psco": [
+        "LY89DRAFT_595446",
+        "LY89DRAFT_688136"
+      ],
+      "ani": [
+        "AN2121.2"
+      ],
+      "afm": [
+        "AFUA_5G02000"
+      ],
+      "ang": [
+        "ANI_1_1948074"
+      ],
+      "afv": [
+        "AFLA_025160"
+      ],
+      "nfi": [
+        "NFIA_040120"
+      ],
+      "pdp": [
+        "PDIP_88540"
+      ],
+      "pno": [
+        "SNOG_02266"
+      ],
+      "pfj": [
+        "MYCFIDRAFT_214964"
+      ],
+      "npa": [
+        "UCRNP2_5499"
+      ],
+      "tvs": [
+        "TRAVEDRAFT_84985"
+      ],
+      "dsq": [
+        "DICSQDRAFT_166099"
+      ],
+      "psq": [
+        "PUNSTDRAFT_62142"
+      ],
+      "mrr": [
+        "Moror_4294",
+        "Moror_5541"
+      ],
+      "tci": [
+        "A7K98_03625"
+      ],
+      "pae": [
+        "PA1255"
+      ],
+      "paev": [
+        "N297_1294"
+      ],
+      "paei": [
+        "N296_1294"
+      ],
+      "pau": [
+        "PA14_47970"
+      ],
+      "pap": [
+        "PSPA7_4137"
+      ],
+      "pag": [
+        "PLES_40571"
+      ],
+      "paf": [
+        "PAM18_3776"
+      ],
+      "pnc": [
+        "NCGM2_2137"
+      ],
+      "paeb": [
+        "NCGM1900_1321"
+      ],
+      "pdk": [
+        "PADK2_19375"
+      ],
+      "psg": [
+        "G655_18895"
+      ],
+      "prp": [
+        "M062_06830"
+      ],
+      "paep": [
+        "PA1S_19640"
+      ],
+      "paer": [
+        "PA1R_gp4861"
+      ],
+      "paem": [
+        "U769_19480"
+      ],
+      "pael": [
+        "T223_20730"
+      ],
+      "paes": [
+        "SCV20265_4159"
+      ],
+      "paeu": [
+        "BN889_01334"
+      ],
+      "paeg": [
+        "AI22_14325"
+      ],
+      "paec": [
+        "M802_1291"
+      ],
+      "paeo": [
+        "M801_1294"
+      ],
+      "palc": [
+        "A0T30_01515"
+      ],
+      "pfe": [
+        "PSF113_3720"
+      ],
+      "pcg": [
+        "AXG94_01215"
+      ],
+      "pstt": [
+        "CH92_01025"
+      ],
+      "pba": [
+        "PSEBR_a3206"
+      ],
+      "pbc": [
+        "CD58_14015"
+      ],
+      "pdr": [
+        "H681_03710"
+      ],
+      "pfz": [
+        "AV641_10900"
+      ],
+      "palk": [
+        "PSAKL28_28710"
+      ],
+      "pfk": [
+        "PFAS1_24865"
+      ],
+      "maq": [
+        "Maqu_2141"
+      ],
+      "mhc": [
+        "MARHY1085"
+      ],
+      "mad": [
+        "HP15_922"
+      ],
+      "mbs": [
+        "MRBBS_3066"
+      ],
+      "msx": [
+        "AU14_10275"
+      ],
+      "mpq": [
+        "ABA45_14450"
+      ],
+      "mari": [
+        "ACP86_15690"
+      ],
+      "mlq": [
+        "ASQ50_17215"
+      ],
+      "msq": [
+        "BKP64_09560"
+      ],
+      "pin": [
+        "Ping_2117"
+      ],
+      "ssal": [
+        "SPISAL_05430"
+      ],
+      "gai": [
+        "IMCC3135_13045"
+      ],
+      "csa": [
+        "Csal_2339"
+      ],
+      "hel": [
+        "HELO_2887"
+      ],
+      "hcs": [
+        "FF32_00800"
+      ],
+      "hak": [
+        "KO116_01421"
+      ],
+      "ham": [
+        "HALO1503"
+      ],
+      "hhu": [
+        "AR456_08180"
+      ],
+      "hco": [
+        "LOKO_00314"
+      ],
+      "hsi": [
+        "BOX17_00455"
+      ],
+      "halo": [
+        "BWR19_15585"
+      ],
+      "hhh": [
+        "CLM76_00690"
+      ],
+      "hag": [
+        "BB497_15940"
+      ],
+      "haa": [
+        "A5892_04205"
+      ],
+      "saln": [
+        "SALB1_0283"
+      ],
+      "tsn": [
+        "W908_03180"
+      ],
+      "plg": [
+        "NCTC10937_03094"
+      ],
+      "mlo": [
+        "mlr6810"
+      ],
+      "mln": [
+        "A9174_14110"
+      ],
+      "mop": [
+        "Mesop_2071"
+      ],
+      "mamo": [
+        "A6B35_24560",
+        "A6B35_24580"
+      ],
+      "aak": [
+        "AA2016_5690"
+      ],
+      "sme": [
+        "SM_b20270"
+      ],
+      "smk": [
+        "Sinme_3903"
+      ],
+      "smq": [
+        "SinmeB_4400"
+      ],
+      "smx": [
+        "SM11_pD1341"
+      ],
+      "smi": [
+        "BN406_06396"
+      ],
+      "smeg": [
+        "C770_GR4pD1327"
+      ],
+      "smel": [
+        "SM2011_b20270"
+      ],
+      "smer": [
+        "DU99_32020"
+      ],
+      "smd": [
+        "Smed_3861"
+      ],
+      "rhi": [
+        "NGR_c20530"
+      ],
+      "six": [
+        "BSY16_2971"
+      ],
+      "same": [
+        "SAMCFNEI73_Ch0738"
+      ],
+      "ead": [
+        "OV14_a0432"
+      ],
+      "eah": [
+        "FA04_22255"
+      ],
+      "esj": [
+        "SJ05684_b60000"
+      ],
+      "atu": [
+        "Atu4684"
+      ],
+      "atf": [
+        "Ach5_44060"
+      ],
+      "ata": [
+        "AWN88_02295"
+      ],
+      "avi": [
+        "Avi_7022"
+      ],
+      "agr": [
+        "AGROH133_09590"
+      ],
+      "aro": [
+        "B0909_14105"
+      ],
+      "rlt": [
+        "Rleg2_2641"
+      ],
+      "rir": [
+        "BN877_II1778"
+      ],
+      "rhl": [
+        "LPU83_0080"
+      ],
+      "rht": [
+        "NT26_3279"
+      ],
+      "rhv": [
+        "BA939_17430"
+      ],
+      "shz": [
+        "shn_21240"
+      ],
+      "bme": [
+        "BMEI1586"
+      ],
+      "bmel": [
+        "DK63_1903"
+      ],
+      "bmi": [
+        "BMEA_A0374"
+      ],
+      "bmz": [
+        "BM28_A0368"
+      ],
+      "bmg": [
+        "BM590_A0364"
+      ],
+      "bmw": [
+        "BMNI_I0361"
+      ],
+      "bmee": [
+        "DK62_1049"
+      ],
+      "bmf": [
+        "BAB1_0366"
+      ],
+      "bmb": [
+        "BruAb1_0363"
+      ],
+      "bmc": [
+        "BAbS19_I03350"
+      ],
+      "baa": [
+        "BAA13334_I03384"
+      ],
+      "babo": [
+        "DK55_382"
+      ],
+      "babr": [
+        "DO74_1505"
+      ],
+      "babt": [
+        "DK49_145"
+      ],
+      "babb": [
+        "DK48_1745"
+      ],
+      "babu": [
+        "DK53_372"
+      ],
+      "babs": [
+        "DK51_1092"
+      ],
+      "babc": [
+        "DO78_289"
+      ],
+      "bms": [
+        "BR0337"
+      ],
+      "bsi": [
+        "BS1330_I0338"
+      ],
+      "bsf": [
+        "BSS2_I0333"
+      ],
+      "bsui": [
+        "BSSP1_I0356"
+      ],
+      "bsup": [
+        "BSPT1_I0361"
+      ],
+      "bsuv": [
+        "BSPT2_I0357"
+      ],
+      "bsuc": [
+        "BSSP2_I0357"
+      ],
+      "bmt": [
+        "BSUIS_A0368"
+      ],
+      "bsz": [
+        "DK67_1276"
+      ],
+      "bsv": [
+        "BSVBI22_A0338"
+      ],
+      "bsw": [
+        "IY71_01780"
+      ],
+      "bsg": [
+        "IY72_01505"
+      ],
+      "bov": [
+        "BOV_0353"
+      ],
+      "bcs": [
+        "BCAN_A0346"
+      ],
+      "bsk": [
+        "BCA52141_I1147"
+      ],
+      "bol": [
+        "BCOUA_I0337"
+      ],
+      "bcar": [
+        "DK60_429"
+      ],
+      "bcas": [
+        "DA85_01640"
+      ],
+      "bmr": [
+        "BMI_I342"
+      ],
+      "bpp": [
+        "BPI_I371"
+      ],
+      "bpv": [
+        "DK65_1009"
+      ],
+      "bcet": [
+        "V910_101609"
+      ],
+      "bcee": [
+        "V568_101803"
+      ],
+      "bvl": [
+        "BF3285c1_0342"
+      ],
+      "oan": [
+        "Oant_0439"
+      ],
+      "oah": [
+        "DR92_2500"
+      ],
+      "ops": [
+        "A8A54_01435"
+      ],
+      "och": [
+        "CES85_0376"
+      ],
+      "sno": [
+        "Snov_0155"
+      ],
+      "phl": [
+        "KKY_1201"
+      ],
+      "deq": [
+        "XM25_15050"
+      ],
+      "aua": [
+        "M673_01840"
+      ],
+      "sil": [
+        "SPO0607"
+      ],
+      "sit": [
+        "TM1040_3201"
+      ],
+      "rmb": [
+        "K529_019735"
+      ],
+      "jan": [
+        "Jann_1529"
+      ],
+      "pde": [
+        "Pden_1184"
+      ],
+      "pami": [
+        "JCM7686_pAMI5p195"
+      ],
+      "pcon": [
+        "B0A89_11860"
+      ],
+      "pzh": [
+        "CX676_19060"
+      ],
+      "paru": [
+        "CYR75_12380"
+      ],
+      "pga": [
+        "PGA1_262p00280"
+      ],
+      "pgl": [
+        "PGA2_239p0280"
+      ],
+      "pgd": [
+        "Gal_03751"
+      ],
+      "ppic": [
+        "PhaeoP14_03489"
+      ],
+      "oar": [
+        "OA238_c13640"
+      ],
+      "otm": [
+        "OSB_16560"
+      ],
+      "lmd": [
+        "METH_17515"
+      ],
+      "red": [
+        "roselon_01466"
+      ],
+      "malg": [
+        "MALG_04515"
+      ],
+      "hat": [
+        "RC74_17910"
+      ],
+      "lap": [
+        "ACP90_03850"
+      ],
+      "lagg": [
+        "B0E33_15410"
+      ],
+      "labr": [
+        "CHH27_16895"
+      ],
+      "ypac": [
+        "CEW88_21675"
+      ],
+      "spse": [
+        "SULPSESMR1_03590",
+        "SULPSESMR1_03888",
+        "SULPSESMR1_04291"
+      ],
+      "rmm": [
+        "ROSMUCSMR3_03763"
+      ],
+      "rok": [
+        "RAK1035_2603"
+      ],
+      "sagu": [
+        "CDO87_12160"
+      ],
+      "thas": [
+        "C6Y53_15235"
+      ],
+      "geh": [
+        "HYN69_18935"
+      ],
+      "apb": [
+        "SAR116_0313"
+      ],
+      "abam": [
+        "B1s21122_02160"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "4.2.1.77"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "4.2.1.77"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "4.2.1.77"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "4.2.1.77"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Ramaswamy",
+          "S.G."
+        ],
+        "title": "Conversion of 3-hydroxyproline to proline in the rat requires reduced pyridine-nucleotides.",
+        "journal": "Fed Proc 42:2232",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1983",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Visser WF",
+          "Verhoeven-Duif NM",
+          "de Koning TJ"
+        ],
+        "title": "Identification of a human trans-3-hydroxy-L-proline dehydratase, the first characterized member of a novel family of proline racemase-like enzymes.",
+        "journal": "J Biol Chem 287:21654-62 (2012) DOI:10.1074/jbc.M112.363218",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:22528483]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

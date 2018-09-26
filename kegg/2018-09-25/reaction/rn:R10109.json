@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10109",
+    "name": "5-nitrosalicylate:oxygen 1,2-oxidoreductase (recyclizing)",
+    "definition": "5-Nitrosalicylate + Oxygen <=> 2-Oxo-3-(5-oxofuran-2-ylidene)propanoate + Nitrite",
+    "equation": "C19789 + C00007 <=> C20366 + C00088",
+    "comment": "two-step reaction (see R10110+R10111)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.64"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

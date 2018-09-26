@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11892",
+    "name": "ATP:5-fluorodeoxyuridine-monophosphate phosphotransferase",
+    "definition": "ATP + 5-Fluorodeoxyuridine monophosphate <=> ADP + 5-Fluorodeoxyuridine diphosphate",
+    "equation": "C00002 + C04242 <=> C00008 + C21750",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.14"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K13800": "UMP-CMP kinase [EC:2.7.4.14]"
+    }
+  }
+]

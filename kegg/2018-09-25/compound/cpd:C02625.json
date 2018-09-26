@@ -1,0 +1,58 @@
+[
+  {
+    "entry_id": "C02625",
+    "name": "2,4-Dichlorophenol",
+    "names": [
+      "2,4-Dichlorophenol"
+    ],
+    "formula": "C6H4Cl2O",
+    "exact_mass": 161.9639,
+    "mol_weight": 163.0014,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03997",
+      "R05419",
+      "R10487",
+      "R10542"
+    ],
+    "pathways": {
+      "map00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.14.11.43",
+      "1.14.11.44",
+      "1.14.11.-",
+      "1.14.13.20"
+    ],
+    "dblinks": {
+      "CAS": [
+        "120-83-2"
+      ],
+      "PubChem": [
+        "5607"
+      ],
+      "ChEBI": [
+        "16738"
+      ],
+      "ChEMBL": [
+        "CHEMBL1143"
+      ],
+      "PDB-CCD": [
+        "5JC"
+      ],
+      "NIKKAJI": [
+        "J2.005B"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8y C    25.5176  -16.1092\n            2   C8y C    24.2946  -15.4114\n            3   C8x C    25.5176  -17.5181\n            4   X   Cl   26.7214  -15.4114\n            5   C8x C    23.0908  -16.1092\n            6   O1a O    24.2946  -14.0219\n            7   C8y C    24.2946  -18.2287\n            8   C8x C    23.0908  -17.5181\n            9   X   Cl   24.2946  -19.6182\nBOND        9\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     5   8 1\n            8     7   9 1\n            9     7   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

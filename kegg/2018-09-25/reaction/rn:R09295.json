@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09295",
+    "name": "GDP-beta-L-fucose:polypeptide O-alpha-L-fucosyltransferase",
+    "definition": "GDP-L-fucose + [Protein]-L-serine <=> GDP + G13052",
+    "equation": "G10615 + C02189 <=> G10620 + G13052",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.221"
+    ],
+    "pathways": {
+      "rn00514": "Other types of O-glycan biosynthesis"
+    },
+    "orthologs": {
+      "K03691": "peptide-O-fucosyltransferase [EC:2.4.1.221]"
+    }
+  }
+]

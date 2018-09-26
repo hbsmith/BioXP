@@ -1,0 +1,106 @@
+[
+  {
+    "entry_id": "1.14.19.60",
+    "name": "7-chloro-L-tryptophan 6-halogenase",
+    "names": [
+      "7-chloro-L-tryptophan 6-halogenase",
+      "ktzR (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With oxidation of a pair of donors resulting in the reduction of O2 to two molecules of water"
+    ],
+    "sysname": "7-chloro-L-tryptophan:FADH2 oxidoreductase (6-halogenating)",
+    "reaction": "7-chloro-L-tryptophan + FADH2 + chloride + O2 + H+ = 6,7-dichloro-L-tryptophan + FAD + 2 H2O [RN:R12034]",
+    "all_reac": "R12034",
+    "iubmb_reactions": [
+      "R12034"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "7-chloro-L-tryptophan [CPD:C19687]",
+      "FADH2 [CPD:C01352]",
+      "chloride [CPD:C00698]",
+      "O2 [CPD:C00007]",
+      "H+ [CPD:C00080]"
+    ],
+    "products": [
+      "6,7-dichloro-L-tryptophan [CPD:C21868]",
+      "FAD [CPD:C00016]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "An FAD-dependent halogenase. The enzyme, characterized from the bacterium Kutzneria sp. 744, works in tandem with EC 1.14.19.9, tryptophan 7-halogenase, (ktzQ) to generate 6,7-dichloro-L-tryptophan, which is incorporated as a pyrroloindoline in the kutznerides family of natural products. It has a 120-fold preference for 7-chloro-L-tryptophan over L-tryptophan as substrate.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22695": "7-chloro-L-tryptophan 6-halogenase"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.19.60"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.19.60"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.19.60"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.19.60"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Heemstra JR Jr",
+          "Walsh CT"
+        ],
+        "title": "Tandem action of the O2- and FADH2-dependent halogenases KtzQ and KtzR produce 6,7-dichlorotryptophan for kutzneride assembly.",
+        "journal": "J Am Chem Soc 130:14024-5 (2008) DOI:10.1021/ja806467a",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:18828589]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

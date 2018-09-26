@@ -1,0 +1,629 @@
+[
+  {
+    "entry_id": "2.3.1.271",
+    "name": "L-glutamate-5-semialdehyde N-acetyltransferase",
+    "names": [
+      "L-glutamate-5-semialdehyde N-acetyltransferase",
+      "MPR1 (gene name)",
+      "MPR2 (gene name)"
+    ],
+    "classes": [
+      "Transferases;",
+      "Acyltransferases;",
+      "Transferring groups other than aminoacyl groups"
+    ],
+    "sysname": "acetyl-CoA:L-glutamate-5-semialdehyde N-acetyltransferase",
+    "reaction": "acetyl-CoA + L-glutamate-5-semialdehyde = CoA + N-acetyl-L-glutamate 5-semialdehyde [RN:R12085]",
+    "all_reac": "R12085",
+    "iubmb_reactions": [
+      "R12085"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "acetyl-CoA [CPD:C00024]",
+      "L-glutamate-5-semialdehyde"
+    ],
+    "products": [
+      "CoA [CPD:C00010]",
+      "N-acetyl-L-glutamate 5-semialdehyde [CPD:C01250]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, characterized from the yeast Saccharomyces cerevisiae Sigma1278b, N-acetylates L-glutamate-5-semialdehyde, an L-proline biosynthesis/utilization intermediate, into N-acetyl-L-glutamate 5-semialdehyde, an intermediate of L-arginine biosynthesis, under oxidative stress conditions. Its activity results in conversion of L-proline to L-arginine, and reduction in the concentration of L-glutamate 5-semialdehyde and its equilibrium partner, (S)-1-pyrroline-5-carboxylate, which has been linked to production of reactive oxygen species stress. The enzyme also acts on (S)-1-acetylazetidine-2-carboxylate, a toxic L-proline analog produced by some plants, resulting in its detoxification and conferring resistance on the yeast.",
+    "pathways": {
+      "ec00330": "Arginine and proline metabolism",
+      "ec01100": "Metabolic pathways",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22842": "L-glutamate-5-semialdehyde N-acetyltransferase"
+    },
+    "genes": {
+      "bfo": [
+        "BRAFLDRAFT_128458"
+      ],
+      "lgi": [
+        "LOTGIDRAFT_201620"
+      ],
+      "myi": [
+        "110440527",
+        "110440528"
+      ],
+      "gsl": [
+        "Gasu_22280"
+      ],
+      "ccp": [
+        "CHC_T00009039001"
+      ],
+      "erc": [
+        "Ecym_5212"
+      ],
+      "kla": [
+        "KLLA0_F11440g"
+      ],
+      "kmx": [
+        "KLMA_20195",
+        "KLMA_60033"
+      ],
+      "lth": [
+        "KLTH0D10934g",
+        "KLTH0F05962g"
+      ],
+      "zro": [
+        "ZYRO0D03366g",
+        "ZYRO0F07062g"
+      ],
+      "ncs": [
+        "NCAS_0A09730",
+        "NCAS_0B01570"
+      ],
+      "ndi": [
+        "NDAI_0E01220",
+        "NDAI_0G06130"
+      ],
+      "tpf": [
+        "TPHA_0B03150",
+        "TPHA_0D01180"
+      ],
+      "tbl": [
+        "TBLA_0B07800"
+      ],
+      "tdl": [
+        "TDEL_0A06090",
+        "TDEL_0H01090"
+      ],
+      "kaf": [
+        "KAFR_0A03800",
+        "KAFR_0G01790"
+      ],
+      "ppa": [
+        "PAS_chr2-2_0140"
+      ],
+      "dha": [
+        "DEHA2A10406g",
+        "DEHA2A10428g"
+      ],
+      "pic": [
+        "PICST_47700",
+        "PICST_62621"
+      ],
+      "pgu": [
+        "PGUG_01978",
+        "PGUG_01979"
+      ],
+      "spaa": [
+        "SPAPADRAFT_135403",
+        "SPAPADRAFT_59421"
+      ],
+      "lel": [
+        "LELG_03451"
+      ],
+      "cal": [
+        "CAALFM_CR06770CA"
+      ],
+      "ctp": [
+        "CTRG_00672",
+        "CTRG_03136"
+      ],
+      "cot": [
+        "CORT_0D03270",
+        "CORT_0D03280"
+      ],
+      "cdu": [
+        "CD36_32320",
+        "CD36_32580"
+      ],
+      "cten": [
+        "CANTEDRAFT_116755"
+      ],
+      "yli": [
+        "YALI0E09999g"
+      ],
+      "clu": [
+        "CLUG_04781",
+        "CLUG_04782"
+      ],
+      "clus": [
+        "A9F13_11g00110",
+        "A9F13_11g00121"
+      ],
+      "caur": [
+        "QG37_00309",
+        "QG37_00310"
+      ],
+      "slb": [
+        "AWJ20_3160",
+        "AWJ20_3323"
+      ],
+      "ncr": [
+        "NCU09699"
+      ],
+      "nte": [
+        "NEUTE1DRAFT123750"
+      ],
+      "smp": [
+        "SMAC_06064"
+      ],
+      "pan": [
+        "PODANSg1883"
+      ],
+      "ttt": [
+        "THITE_65044"
+      ],
+      "mtm": [
+        "MYCTH_2308224"
+      ],
+      "cthr": [
+        "CTHT_0018880"
+      ],
+      "mgr": [
+        "MGG_03311"
+      ],
+      "tmn": [
+        "UCRPA7_7150"
+      ],
+      "ssck": [
+        "SPSK_03925"
+      ],
+      "fgr": [
+        "FGSG_06307"
+      ],
+      "fpu": [
+        "FPSE_01185"
+      ],
+      "fvr": [
+        "FVEG_04981"
+      ],
+      "fox": [
+        "FOXG_08059"
+      ],
+      "nhe": [
+        "NECHADRAFT_38139"
+      ],
+      "tre": [
+        "TRIREDRAFT_61081"
+      ],
+      "maw": [
+        "MAC_04657"
+      ],
+      "maj": [
+        "MAA_04566"
+      ],
+      "cmt": [
+        "CCM_01296"
+      ],
+      "plj": [
+        "VFPFJ_02192"
+      ],
+      "val": [
+        "VDBG_03091"
+      ],
+      "vda": [
+        "VDAG_03999"
+      ],
+      "cfj": [
+        "CFIO01_07501"
+      ],
+      "ela": [
+        "UCREL1_5889"
+      ],
+      "pfy": [
+        "PFICI_14797"
+      ],
+      "ssl": [
+        "SS1G_11985"
+      ],
+      "bfu": [
+        "BCIN_02g07160"
+      ],
+      "mbe": [
+        "MBM_04054"
+      ],
+      "psco": [
+        "LY89DRAFT_790498"
+      ],
+      "glz": [
+        "GLAREA_05043"
+      ],
+      "ani": [
+        "AN3879.2"
+      ],
+      "afm": [
+        "AFUA_2G05085"
+      ],
+      "aor": [
+        "AO090003000312"
+      ],
+      "ang": [
+        "ANI_1_664094"
+      ],
+      "afv": [
+        "AFLA_035040",
+        "AFLA_127760"
+      ],
+      "act": [
+        "ACLA_027840",
+        "ACLA_089560"
+      ],
+      "nfi": [
+        "NFIA_017960",
+        "NFIA_081800"
+      ],
+      "pcs": [
+        "Pc12g10470"
+      ],
+      "pdp": [
+        "PDIP_37390",
+        "PDIP_69960"
+      ],
+      "cim": [
+        "CIMG_04008"
+      ],
+      "cpw": [
+        "CPC735_003730"
+      ],
+      "pbl": [
+        "PAAG_07852"
+      ],
+      "pbn": [
+        "PADG_08233"
+      ],
+      "ure": [
+        "UREG_01956"
+      ],
+      "abe": [
+        "ARB_00005"
+      ],
+      "tve": [
+        "TRV_07967"
+      ],
+      "pno": [
+        "SNOG_12048"
+      ],
+      "pte": [
+        "PTT_13954"
+      ],
+      "bze": [
+        "COCCADRAFT_37177",
+        "COCCADRAFT_39053"
+      ],
+      "bsc": [
+        "COCSADRAFT_244322",
+        "COCSADRAFT_33786"
+      ],
+      "bor": [
+        "COCMIDRAFT_108362",
+        "COCMIDRAFT_8581"
+      ],
+      "aalt": [
+        "CC77DRAFT_954996"
+      ],
+      "ztr": [
+        "MYCGRDRAFT_76870"
+      ],
+      "pfj": [
+        "MYCFIDRAFT_46784"
+      ],
+      "bcom": [
+        "BAUCODRAFT_358185"
+      ],
+      "npa": [
+        "UCRNP2_5344"
+      ],
+      "tml": [
+        "GSTUM_00007532001"
+      ],
+      "spo": [
+        "SPAC21E11.04"
+      ],
+      "cne": [
+        "CNA02770"
+      ],
+      "cnb": [
+        "CNBA2630"
+      ],
+      "cgi": [
+        "CGB_B3230C"
+      ],
+      "tms": [
+        "TREMEDRAFT_68045"
+      ],
+      "ppl": [
+        "POSPLDRAFT_98350"
+      ],
+      "tvs": [
+        "TRAVEDRAFT_131785",
+        "TRAVEDRAFT_74520",
+        "TRAVEDRAFT_98608"
+      ],
+      "dsq": [
+        "DICSQDRAFT_183139"
+      ],
+      "pco": [
+        "PHACADRAFT_259773"
+      ],
+      "shs": [
+        "STEHIDRAFT_140513",
+        "STEHIDRAFT_60300"
+      ],
+      "hir": [
+        "HETIRDRAFT_127054"
+      ],
+      "psq": [
+        "PUNSTDRAFT_72627"
+      ],
+      "adl": [
+        "AURDEDRAFT_70185"
+      ],
+      "fme": [
+        "FOMMEDRAFT_73495"
+      ],
+      "gtr": [
+        "GLOTRDRAFT_76392"
+      ],
+      "mrr": [
+        "Moror_17745"
+      ],
+      "cci": [
+        "CC1G_14157"
+      ],
+      "scm": [
+        "SCHCODRAFT_85589"
+      ],
+      "cput": [
+        "CONPUDRAFT_57766"
+      ],
+      "sla": [
+        "SERLADRAFT_463133"
+      ],
+      "wse": [
+        "WALSEDRAFT_55468"
+      ],
+      "wic": [
+        "J056_001106"
+      ],
+      "uma": [
+        "UMAG_00020"
+      ],
+      "pfp": [
+        "PFL1_00065"
+      ],
+      "pgr": [
+        "PGTG_02947"
+      ],
+      "acan": [
+        "ACA1_278320"
+      ],
+      "tps": [
+        "THAPSDRAFT_3450"
+      ],
+      "gtt": [
+        "GUITHDRAFT_64615"
+      ],
+      "let": [
+        "O77CONTIG1_03262"
+      ],
+      "hhg": [
+        "XM38_014760"
+      ],
+      "calh": [
+        "IJ00_20295"
+      ],
+      "riv": [
+        "Riv7116_2501"
+      ],
+      "fis": [
+        "FIS3754_35810"
+      ],
+      "nmv": [
+        "NITMOv2_0791"
+      ],
+      "nja": [
+        "NSJP_1971"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.3.1.271"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.3.1.271"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.3.1.271"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.3.1.271"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Shichiri M",
+          "Hoshikawa C",
+          "Nakamori S",
+          "Takagi H"
+        ],
+        "title": "A novel acetyltransferase found in Saccharomyces cerevisiae Sigma1278b that detoxifies a proline analogue, azetidine-2-carboxylic acid.",
+        "journal": "J Biol Chem 276:41998-2002 (2001) DOI:10.1074/jbc.C100487200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:11555637]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nomura M",
+          "Takagi H"
+        ],
+        "title": "Role of the yeast acetyltransferase Mpr1 in oxidative stress: regulation of oxygen reactive species caused by a toxic proline catabolism intermediate.",
+        "journal": "Proc Natl Acad Sci U S A 101:12616-21 (2004) DOI:10.1073/pnas.0403349101",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:15308773]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nishimura A",
+          "Kotani T",
+          "Sasano Y",
+          "Takagi H"
+        ],
+        "title": "An antioxidative mechanism mediated by the yeast N-acetyltransferase Mpr1: oxidative stress-induced arginine synthesis and its physiological role.",
+        "journal": "FEMS Yeast Res 10:687-98 (2010) DOI:10.1111/j.1567-1364.2010.00650.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:20550582]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nishimura A",
+          "Nasuno R",
+          "Takagi H"
+        ],
+        "title": "The proline metabolism intermediate Delta1-pyrroline-5-carboxylate directly inhibits the mitochondrial respiration in budding yeast.",
+        "journal": "FEBS Lett 586:2411-6 (2012) DOI:10.1016/j.febslet.2012.05.056",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:22698729]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nasuno R",
+          "Hirano Y",
+          "Itoh T",
+          "Hakoshima T",
+          "Hibi T",
+          "Takagi H"
+        ],
+        "title": "Structural and functional analysis of the yeast N-acetyltransferase Mpr1 involved in oxidative stress tolerance via proline metabolism.",
+        "journal": "Proc Natl Acad Sci U S A 110:11821-6 (2013) DOI:10.1073/pnas.1300558110",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "5  [PMID:23818613]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

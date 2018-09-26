@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06286",
+    "name": "chlorophyllide-a:NADP+ 7,8-oxidoreductase",
+    "definition": "Divinyl chlorophyllide a + NADP+ <=> Divinylprotochlorophyllide + NADPH + H+",
+    "equation": "C11832 + C00006 <=> C11831 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.1.33"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00218": "protochlorophyllide reductase [EC:1.3.1.33]"
+    }
+  }
+]

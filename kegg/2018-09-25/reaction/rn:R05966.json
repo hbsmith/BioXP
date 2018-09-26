@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05966",
+    "name": "",
+    "definition": "H2O + Forssman antigen, IV3GalNAca-Gb4Cer <=> N-Acetyl-D-galactosamine + Globoside",
+    "equation": "C00001 + G00095 <=> C01132 + G00094",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.49"
+    ],
+    "pathways": {
+      "rn00603": "Glycosphingolipid biosynthesis - globo and isoglobo series",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01204": "alpha-N-acetylgalactosaminidase [EC:3.2.1.49]"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03733",
+    "name": "L-Threonate:NAD+ 3-oxidoreductase",
+    "definition": "Threonate + NAD+ <=> 3-Dehydro-L-threonate + NADH + H+",
+    "equation": "C01620 + C00003 <=> C03064 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.129"
+    ],
+    "pathways": {
+      "rn00053": "Ascorbate and aldarate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

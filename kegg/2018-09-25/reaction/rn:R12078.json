@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R12078",
+    "name": "",
+    "definition": "UDP-alpha-D-galactofuranose + Rhamnosyl-N-acetyl-glucosaminyl-decaprenyl diphosphate <=> UDP + Glycolipid 3",
+    "equation": "G13125 + G13119 <=> G10619 + G13120",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.287"
+    ],
+    "pathways": {
+      "rn00572": "Arabinogalactan biosynthesis - Mycobacterium",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K16649": "rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase [EC:2.4.1.287]"
+    }
+  }
+]

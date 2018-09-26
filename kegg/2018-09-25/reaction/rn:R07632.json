@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R07632",
+    "name": "geranyl-diphosphate diphosphate-lyase [(3R)-linalool-forming]",
+    "definition": "Geranyl diphosphate + H2O <=> (-)-Linalool + Diphosphate",
+    "equation": "C00341 + C00001 <=> C11388 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.26"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15087": "(3R)-linalool synthase [EC:4.2.3.26]"
+    }
+  }
+][
+  {
+    "entry_id": "R07632",
+    "name": "geranyl-diphosphate diphosphate-lyase [(3R)-linalool-forming]",
+    "definition": "Geranyl diphosphate + H2O <=> (-)-Linalool + Diphosphate",
+    "equation": "C00341 + C00001 <=> C11388 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.26"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15087": "(3R)-linalool synthase [EC:4.2.3.26]"
+    }
+  }
+]

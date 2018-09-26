@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09126",
+    "name": "N-formylmaleamic acid amidohydrolase",
+    "definition": "N-Formylmaleamic acid + H2O <=> Maleamate + Formate",
+    "equation": "C18232 + C00001 <=> C01596 + C00058",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.106"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K15357": "N-formylmaleamate deformylase [EC:3.5.1.106]"
+    }
+  }
+]

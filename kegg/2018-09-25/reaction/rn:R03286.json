@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03286",
+    "name": "N(pi)-methyl-L-histidine:beta-alanine ligase (ADP-forming)",
+    "definition": "ATP + N(pi)-Methyl-L-histidine + beta-Alanine <=> ADP + Orthophosphate + beta-Alanyl-N(pi)-methyl-L-histidine",
+    "equation": "C00002 + C01152 + C00099 <=> C00008 + C00009 + C01262",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.11"
+    ],
+    "pathways": {
+      "rn00340": "Histidine metabolism",
+      "rn00410": "beta-Alanine metabolism"
+    },
+    "orthologs": {
+      "K14755": "carnosine synthase [EC:6.3.2.11]"
+    }
+  }
+]

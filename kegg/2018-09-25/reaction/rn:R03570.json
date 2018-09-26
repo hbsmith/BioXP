@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03570",
+    "name": "ADP-sugar sugarphosphohydrolase",
+    "definition": "ADP-sugar + H2O <=> AMP + alpha-D-Aldose 1-phosphate",
+    "equation": "C01469 + C00001 <=> C00020 + C00991",
+    "comment": "general reaction (see R00951, R01885 and R02677)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.21"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

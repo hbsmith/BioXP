@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00527",
+    "name": "S-Formylglutathione hydrolase",
+    "definition": "S-Formylglutathione + H2O <=> Formate + Glutathione",
+    "equation": "C01031 + C00001 <=> C00058 + C00051",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.2.12"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K01070": "S-formylglutathione hydrolase [EC:3.1.2.12]"
+    }
+  }
+]

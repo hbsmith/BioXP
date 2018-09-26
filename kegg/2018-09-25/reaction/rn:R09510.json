@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R09510",
+    "name": "protein-N6,N6-dimethyl-L-lysine,2-oxoglutarate:oxygen oxidoreductase",
+    "definition": "Protein N6,N6-dimethyl-L-lysine + 2-Oxoglutarate + Oxygen <=> Protein N6-methyl-L-lysine + Succinate + Formaldehyde + CO2",
+    "equation": "C05545 + C00026 + C00007 <=> C05544 + C00042 + C00067 + C00011",
+    "comment": "first step of two-step reaction (see R10056, R09510+R09511)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.27"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

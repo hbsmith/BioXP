@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09914",
+    "name": "(3S)-2,3-epoxy-2,3-dihydrosqualene mutase (cyclizing, beta-seco-amyrin-forming)",
+    "definition": "(S)-2,3-Epoxysqualene <=> beta-Seco-amyrin",
+    "equation": "C01054 <=> C20193",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.99.54"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis"
+    },
+    "orthologs": {
+      "K16204": "seco-amyrin synthase [EC:5.4.99.52 5.4.99.54]"
+    }
+  }
+]

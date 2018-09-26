@@ -1,0 +1,35 @@
+[
+  {
+    "entry_id": "R12013",
+    "name": "4-hydroxybenzoate:NADPH oxidoreductase (brominating, decarboxylating)",
+    "definition": "4-Hydroxybenzoate + 2 NADPH + 2 Bromide + 2 Oxygen + 4 H+ <=> 2,4-Dibromophenol + 2 NADP+ + CO2 + 4 H2O",
+    "equation": "C00156 + 2 C00005 + 2 C01324 + 2 C00007 + 4 C00080 <=> C14521 + 2 C00006 + C00011 + 4 C00001",
+    "comment": "two-step reaction (see R12015+R12016)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.55"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+][
+  {
+    "entry_id": "R12013",
+    "name": "4-hydroxybenzoate:NADPH oxidoreductase (brominating, decarboxylating)",
+    "definition": "4-Hydroxybenzoate + 2 NADPH + 2 Bromide + 2 Oxygen + 4 H+ <=> 2,4-Dibromophenol + 2 NADP+ + CO2 + 4 H2O",
+    "equation": "C00156 + 2 C00005 + 2 C01324 + 2 C00007 + 4 C00080 <=> C14521 + 2 C00006 + C00011 + 4 C00001",
+    "comment": "two-step reaction (see R12015+R12016)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.55"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

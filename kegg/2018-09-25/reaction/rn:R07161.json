@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R07161",
+    "name": "3-(indol-3-yl)pyruvate:ferredoxin oxidoreductase (decarboxylating,CoA-indole-acetylating)",
+    "definition": "Indolepyruvate + CoA + Oxidized ferredoxin <=> S-2-(Indol-3-yl)acetyl-CoA + CO2 + Reduced ferredoxin",
+    "equation": "C00331 + C00010 + C00139 <=> C15489 + C00011 + C00138",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.7.8"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

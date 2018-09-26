@@ -1,0 +1,165 @@
+[
+  {
+    "entry_id": "3.2.2.14",
+    "name": "NMN nucleosidase",
+    "names": [
+      "NMN nucleosidase",
+      "NMNase",
+      "nicotinamide mononucleotide nucleosidase",
+      "nicotinamide mononucleotidase",
+      "NMN glycohydrolase",
+      "NMNGhase"
+    ],
+    "classes": [
+      "Hydrolases;",
+      "Glycosylases;",
+      "Hydrolysing N-glycosyl compounds"
+    ],
+    "sysname": "nicotinamide-nucleotide phosphoribohydrolase",
+    "reaction": "beta-nicotinamide D-ribonucleotide + H2O = D-ribose 5-phosphate + nicotinamide [RN:R01270]",
+    "all_reac": "R01270",
+    "iubmb_reactions": [
+      "R01270"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "beta-nicotinamide D-ribonucleotide [CPD:C00455]",
+      "H2O [CPD:C00001]"
+    ],
+    "products": [
+      "D-ribose 5-phosphate [CPD:C00117]",
+      "nicotinamide [CPD:C00153]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme is thought to participate in an NAD+-salvage pathway. In eukaryotic organisms this activity has been attributed to EC 3.2.2.6, ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase.",
+    "pathways": {
+      "ec00760": "Nicotinate and nicotinamide metabolism"
+    },
+    "orthologs": {
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "3.2.2.14"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "3.2.2.14"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "3.2.2.14"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "3.2.2.14"
+      ],
+      "CAS": [
+        "37237-49-3"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Andreoli AJ",
+          "Okita TW",
+          "Bloom R",
+          "Grover TA."
+        ],
+        "title": "The pyridine nucleotide cycle: presence of a nicotinamide mononucleotide-specific glycohydrolase in Escherichia coli.",
+        "journal": "Biochem Biophys Res Commun 49:264-9 (1972) DOI:10.1016/0006-291X(72)90039-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:4342726]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Imai T"
+        ],
+        "title": "Isolation and properties of a glycohydrolase specific for nicotinamide mononucleotide from Azotobacter vinelandii.",
+        "journal": "J Biochem",
+        "volume": "85",
+        "issue": "",
+        "pages": "887-99",
+        "year": "1979",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:457634]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Imai T"
+        ],
+        "title": "Properties of allosteric nicotinamide mononucleotide glycohydrolase from Azotobacter vinelandii: activation and inhibition.",
+        "journal": "J Biochem",
+        "volume": "101",
+        "issue": "",
+        "pages": "163-73",
+        "year": "1987",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:3571198]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

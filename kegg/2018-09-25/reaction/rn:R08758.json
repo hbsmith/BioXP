@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08758",
+    "name": "",
+    "definition": "3alpha,7alpha,26-Trihydroxy-5beta-cholestane <=> 3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al",
+    "equation": "C05444 <=> C05445",
+    "comment": "sterol 27-hydroxylase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.15"
+    ],
+    "pathways": {
+      "rn00120": "Primary bile acid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00488": "cholestanetriol 26-monooxygenase [EC:1.14.15.15]"
+    }
+  }
+]

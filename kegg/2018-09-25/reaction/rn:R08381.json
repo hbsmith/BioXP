@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08381",
+    "name": "Palmitoyl-CoA:retinol O-acyltransferase",
+    "definition": "Palmitoyl-CoA + 11-cis-Retinol <=> CoA + 11-cis-Retinyl palmitate",
+    "equation": "C00154 + C00899 <=> C00010 + C03455",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.76"
+    ],
+    "pathways": {
+      "rn00830": "Retinol metabolism"
+    },
+    "orthologs": {
+      "K11155": "diacylglycerol O-acyltransferase 1 [EC:2.3.1.20 2.3.1.75 2.3.1.76]"
+    }
+  }
+]

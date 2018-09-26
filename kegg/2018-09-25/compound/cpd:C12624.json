@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C12624",
+    "name": "2-Hydroxy-6-ketononatrienedioate",
+    "names": [
+      "2-Hydroxy-6-ketononatrienedioate",
+      "(2Z,4E,7E)-2-Hydroxy-6-oxonona-2,4,7-triene-1,9-dioate"
+    ],
+    "formula": "C9H8O6",
+    "exact_mass": 212.0321,
+    "mol_weight": 212.1562,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06788",
+      "R06789"
+    ],
+    "pathways": {
+      "map00360": "Phenylalanine metabolism",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.13.11.16",
+      "3.7.1.14"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "583014"
+      ],
+      "ChEBI": [
+        "31082",
+        "66939"
+      ],
+      "3DMET": [
+        "B04538"
+      ],
+      "NIKKAJI": [
+        "J2.783.742E"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C2b C    17.5580  -26.0701\n            2   C2b C    18.7679  -25.3686\n            3   C2b C    19.9842  -26.0701\n            4   C2c C    21.1941  -25.3686\n            5   O1a O    22.4038  -26.0701\n            6   C6a C    21.1941  -23.9723\n            7   C5a C    17.5580  -27.4706\n            8   O5a O    16.3452  -28.1708\n            9   C2b C    18.7709  -28.1708\n            10  C2b C    18.7709  -29.5712\n            11  C6a C    19.9837  -30.2715\n            12  O6a O    19.9837  -31.6719\n            13  O6a O    21.1965  -29.5712\n            14  O6a O    19.9813  -23.2721\n            15  O6a O    22.4070  -23.2721\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     4   6 1\n            6     1   7 1\n            7     7   8 2\n            8     7   9 1\n            9     9  10 2\n            10   10  11 1\n            11   11  12 1\n            12   11  13 2\n            13    6  14 1\n            14    6  15 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

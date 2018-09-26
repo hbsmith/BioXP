@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C21521",
+    "name": "Deglymidodrine",
+    "names": [
+      "Deglymidodrine",
+      "Desglymidodrine",
+      "DMAE",
+      "2-Amino-1-(2,5-dimethoxyphenyl)ethanol"
+    ],
+    "formula": "C10H15NO3",
+    "exact_mass": 197.1052,
+    "mol_weight": 197.231,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "3600-87-1"
+      ],
+      "PubChem": [
+        "336445159"
+      ],
+      "ChEMBL": [
+        "CHEMBL1076"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    15.0336  -15.4785\n            2   C8x C    15.0336  -16.8838\n            3   C8x C    16.2506  -17.5865\n            4   C8y C    17.4677  -16.8838\n            5   C8y C    17.4677  -15.4785\n            6   C8x C    16.2506  -14.7758\n            7   C1c C    18.7035  -14.7647\n            8   C1b C    19.9133  -15.4631\n            9   O1a O    18.7032  -13.3705\n            10  N1a N    21.1002  -14.7777\n            11  O2a O    13.8165  -14.7758\n            12  C1a C    12.6164  -15.4688\n            13  O2a O    18.7035  -17.5975\n            14  C1a C    18.7035  -19.0029\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     7   9 1\n            10    8  10 1\n            11    1  11 1\n            12   11  12 1\n            13    4  13 1\n            14   13  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "entry_id": "C05688",
+    "name": "L-Selenocysteine",
+    "names": [
+      "L-Selenocysteine"
+    ],
+    "formula": "C3H7NO2Se",
+    "exact_mass": 168.9642,
+    "mol_weight": 168.0532,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03599",
+      "R03601",
+      "R04930",
+      "R04931",
+      "R04932",
+      "R04933",
+      "R04934",
+      "R04944",
+      "R04945",
+      "R04946",
+      "R10430"
+    ],
+    "pathways": {
+      "map00450": "Selenocompound metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "2.1.1.9",
+      "2.1.1.280",
+      "2.5.1.47",
+      "2.5.1.48",
+      "4.4.1.1",
+      "4.4.1.16"
+    ],
+    "dblinks": {
+      "CAS": [
+        "10236-58-5"
+      ],
+      "PubChem": [
+        "7995"
+      ],
+      "ChEBI": [
+        "16633"
+      ],
+      "ChEMBL": [
+        "CHEMBL109962"
+      ],
+      "PDB-CCD": [
+        "SEC"
+      ],
+      "3DMET": [
+        "B05095"
+      ],
+      "NIKKAJI": [
+        "J401.997K"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   O6a O    28.9037  -25.3348\n            2   C6a C    30.1158  -24.6350\n            3   C1c C    31.3280  -25.3348\n            4   C1b C    32.5401  -24.6350\n            5   O6a O    30.1158  -23.2355\n            6   N1a N    31.3280  -26.7343\n            7   Z   Se   33.7543  -25.3360\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     2   5 2\n            5     3   6 1 #Down\n            6     4   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

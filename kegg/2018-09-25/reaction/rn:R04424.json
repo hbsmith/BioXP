@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04424",
+    "name": "(2S,3S)-2-hydroxybutane-1,2,3-tricarboxylate hydro-lyase [(Z)-but-2-ene-1,2,3-tricarboxylate-forming]",
+    "definition": "2-Methylcitrate <=> (Z)-But-2-ene-1,2,3-tricarboxylate + H2O",
+    "equation": "C02225 <=> C04225 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.79"
+    ],
+    "pathways": {
+      "rn00640": "Propanoate metabolism"
+    },
+    "orthologs": {
+      "K01720": "2-methylcitrate dehydratase [EC:4.2.1.79]"
+    }
+  }
+]

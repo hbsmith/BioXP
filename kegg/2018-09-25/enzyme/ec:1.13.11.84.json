@@ -1,0 +1,183 @@
+[
+  {
+    "entry_id": "1.13.11.84",
+    "name": "crocetin dialdehyde synthase",
+    "names": [
+      "crocetin dialdehyde synthase",
+      "CCD2",
+      "zeaxanthin 7,8-dioxygenase"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on single donors with incorporation of molecular oxygen (oxygenases);",
+      "With incorporation of two atoms of oxygen"
+    ],
+    "sysname": "zeaxanthin:oxygen 7',8'-oxidoreductase (bond-cleaving)",
+    "reaction": "zeaxanthin + 2 O2 = crocetin dialdehyde + 2 3beta-hydroxy-beta-cyclocitral (overall reaction) [RN:R09603]; (1a) zeaxanthin + O2 = 3beta-hydroxy-8'-apo-beta-carotenal + 3beta-hydroxy-beta-cyclocitral [RN:R10843]; (1b) 3beta-hydroxy-8'-apo-beta-carotenal + O2 = crocetin dialdehyde + 3beta-hydroxy-beta-cyclocitral [RN:R10844]",
+    "all_reac": "R09603 R10843 R10844",
+    "iubmb_reactions": [
+      "R09603 R10843 R10844"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "zeaxanthin [CPD:C06098]",
+      "O2 [CPD:C00007]",
+      "3beta-hydroxy-8'-apo-beta-carotenal [CPD:C20894]"
+    ],
+    "products": [
+      "crocetin dialdehyde [CPD:C19730]",
+      "3beta-hydroxy-beta-cyclocitral [CPD:C19731]",
+      "3beta-hydroxy-8'-apo-beta-carotenal [CPD:C20894]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, characterized from the plant Crocus sativus (saffron), acts twice, cleaving 3beta-hydroxy-beta-cyclocitral off each 3-hydroxy end group. It is part of the zeaxanthin degradation pathway in that plant, leading to the different compounds that impart the color, flavor and aroma of the saffron spice. The enzyme can similarly cleave the 7-8 double bond of other carotenoids with a 3-hydroxy-beta-carotenoid end group.",
+    "pathways": {
+      "ec00999": "Biosynthesis of secondary metabolites - unclassified",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22458": "crocetin dialdehyde synthase"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.13.11.84"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.13.11.84"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.13.11.84"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.13.11.84"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Frusciante S",
+          "Diretto G",
+          "Bruno M",
+          "Ferrante P",
+          "Pietrella M",
+          "Prado-Cabrero A",
+          "Rubio-Moraga A",
+          "Beyer P",
+          "Gomez-Gomez L",
+          "Al-Babili S",
+          "Giuliano G"
+        ],
+        "title": "Novel carotenoid cleavage dioxygenase catalyzes the first dedicated step in saffron crocin biosynthesis.",
+        "journal": "Proc Natl Acad Sci U S A 111:12246-51 (2014) DOI:10.1073/pnas.1404629111",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:25097262]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ahrazem O",
+          "Rubio-Moraga A",
+          "Berman J",
+          "Capell T",
+          "Christou P",
+          "Zhu C",
+          "Gomez-Gomez L"
+        ],
+        "title": "The carotenoid cleavage dioxygenase CCD2 catalysing the synthesis of crocetin in spring crocuses and saffron is a plastidial enzyme.",
+        "journal": "New Phytol 209:650-63 (2016) DOI:10.1111/nph.13609",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:26377696]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ahrazem O",
+          "Diretto G",
+          "Argandona J",
+          "Rubio-Moraga A",
+          "Julve JM",
+          "Orzaez D",
+          "Granell A",
+          "Gomez-Gomez L"
+        ],
+        "title": "Evolutionarily distinct carotenoid cleavage dioxygenases are responsible for crocetin production in Buddleja davidii.",
+        "journal": "J Exp Bot 68:4663-4677 (2017) DOI:10.1093/jxb/erx277",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:28981773]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

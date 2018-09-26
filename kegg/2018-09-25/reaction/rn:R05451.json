@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R05451",
+    "name": "2,4-dichlorobenzoate:CoA ligase",
+    "definition": "CoA + ATP + 2,4-Dichlorobenzoate <=> Diphosphate + 2,4-Dichlorobenzoyl-CoA + AMP",
+    "equation": "C00010 + C00002 + C06670 <=> C00013 + C06671 + C00020",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.-"
+    ],
+    "pathways": {
+      "rn00364": "Fluorobenzoate degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+][
+  {
+    "entry_id": "R05451",
+    "name": "2,4-dichlorobenzoate:CoA ligase",
+    "definition": "CoA + ATP + 2,4-Dichlorobenzoate <=> Diphosphate + 2,4-Dichlorobenzoyl-CoA + AMP",
+    "equation": "C00010 + C00002 + C06670 <=> C00013 + C06671 + C00020",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.-"
+    ],
+    "pathways": {
+      "rn00364": "Fluorobenzoate degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

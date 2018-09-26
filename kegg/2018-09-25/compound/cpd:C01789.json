@@ -1,0 +1,71 @@
+[
+  {
+    "entry_id": "C01789",
+    "name": "Campesterol",
+    "names": [
+      "Campesterol"
+    ],
+    "formula": "C28H48O",
+    "exact_mass": 400.3705,
+    "mol_weight": 400.6801,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07427",
+      "R07445",
+      "R07493"
+    ],
+    "pathways": {
+      "map00100": "Steroid biosynthesis",
+      "map00905": "Brassinosteroid biosynthesis",
+      "map01060": "Biosynthesis of plant secondary metabolites",
+      "map01062": "Biosynthesis of terpenoids and steroids",
+      "map01070": "Biosynthesis of plant hormones",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.3.1.-",
+      "1.14.13.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "474-62-4"
+      ],
+      "PubChem": [
+        "4917"
+      ],
+      "ChEBI": [
+        "28623"
+      ],
+      "ChEMBL": [
+        "CHEMBL1836653",
+        "CHEMBL520535"
+      ],
+      "LIPIDMAPS": [
+        "LMST01030096",
+        "LMST01030097"
+      ],
+      "LipidBank": [
+        "SST0036",
+        "SST9062"
+      ],
+      "KNApSAcK": [
+        "C00003647"
+      ],
+      "3DMET": [
+        "B01498"
+      ],
+      "NIKKAJI": [
+        "J5.962E"
+      ]
+    },
+    "kcf": "ATOM        29\n            1   C1y C    26.3426  -21.7912\n            2   C1y C    25.2726  -22.4563\n            3   C1z C    26.3361  -20.4740\n            4   C1x C    28.6929  -21.7976\n            5   C1y C    24.0436  -21.8039\n            6   C1x C    25.2476  -23.7419\n            7   C1y C    27.4826  -19.7963\n            8   C1x C    25.1837  -19.8153\n            9   C1a C    26.2928  -18.9546\n            10  C1x C    28.7115  -20.4613\n            11  C1z C    22.9099  -22.4689\n            12  C1x C    24.0049  -20.4866\n            13  C2x C    24.0563  -24.4577\n            14  C1c C    27.4761  -18.4156\n            15  C2y C    22.9164  -23.7926\n            16  C1x C    21.7509  -21.8165\n            17  C1a C    22.8595  -20.8095\n            18  C1a C    26.2792  -17.7317\n            19  C1x C    21.7698  -24.4703\n            20  C1x C    20.6047  -22.4816\n            21  C1y C    20.6110  -23.8053\n            22  O1a O    19.4202  -24.4955\n            23  C1b C    28.7224  -17.7100\n            24  C1b C    29.9349  -18.4100\n            25  C1c C    31.1473  -17.7100\n            26  C1c C    32.3597  -18.4100\n            27  C1a C    33.5722  -17.7100\n            28  C1a C    31.1473  -16.3100\n            29  C1a C    32.3597  -19.8099\nBOND        32\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     3   8 1\n            8     3   9 1 #Up\n            9     4  10 1\n            10    5  11 1\n            11    5  12 1\n            12    6  13 1\n            13    7  14 1\n            14   11  15 1\n            15   11  16 1\n            16   11  17 1 #Up\n            17   14  18 1 #Down\n            18   15  19 1\n            19   16  20 1\n            20   19  21 1\n            21   21  22 1 #Up\n            22    7  10 1\n            23    8  12 1\n            24   13  15 2\n            25   20  21 1\n            26   14  23 1\n            27   23  24 1\n            28   24  25 1\n            29   25  26 1\n            30   26  27 1\n            31   25  28 1 #Up\n            32   26  29 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

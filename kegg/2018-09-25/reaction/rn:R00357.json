@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R00357",
+    "name": "L-Aspartic acid:oxygen oxidoreductase (deaminating)",
+    "definition": "L-Aspartate + H2O + Oxygen <=> Oxaloacetate + Ammonia + Hydrogen peroxide",
+    "equation": "C00049 + C00001 + C00007 <=> C00036 + C00014 + C00027",
+    "comment": "see R00359",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.2",
+      "1.4.3.16"
+    ],
+    "pathways": {
+      "rn00250": "Alanine, aspartate and glutamate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00278": "L-aspartate oxidase [EC:1.4.3.16]",
+      "K03334": "L-amino-acid oxidase [EC:1.4.3.2]"
+    }
+  }
+]

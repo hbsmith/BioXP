@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04811",
+    "name": "Propanoyl-CoA:acetyl-CoA C-acyltransferase; 3alpha,7alpha-dihydroxy-5beta-cholanoyl-CoA:propanoyl-CoA; C-acyltransferase",
+    "definition": "Propanoyl-CoA + Chenodeoxycholoyl-CoA <=> CoA + 3alpha,7alpha-Dihydroxy-5beta-24-oxocholestanoyl-CoA",
+    "equation": "C00100 + C05337 <=> C00010 + C05449",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.176"
+    ],
+    "pathways": {
+      "rn00120": "Primary bile acid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K08764": "sterol carrier protein 2 [EC:2.3.1.176]"
+    }
+  }
+]

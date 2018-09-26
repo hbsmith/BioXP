@@ -1,0 +1,101 @@
+[
+  {
+    "entry_id": "C06212",
+    "name": "N-Methylserotonin",
+    "names": [
+      "N-Methylserotonin"
+    ],
+    "formula": "C11H14N2O",
+    "exact_mass": 190.1106,
+    "mol_weight": 190.2417,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02910",
+      "R08537"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism"
+    },
+    "enzymes": [
+      "2.1.1.49"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1134-01-6"
+      ],
+      "PubChem": [
+        "8459"
+      ],
+      "ChEBI": [
+        "48294"
+      ],
+      "ChEMBL": [
+        "CHEMBL277362"
+      ],
+      "3DMET": [
+        "B00924"
+      ],
+      "NIKKAJI": [
+        "J357.102E"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    21.8400  -16.7300\n            2   C8x C    21.8400  -15.1900\n            3   C8x C    23.0300  -14.5600\n            4   C8y C    24.2200  -15.1900\n            5   C8y C    24.2200  -16.7300\n            6   C8x C    23.0300  -17.4300\n            7   N4x N    25.6200  -14.8400\n            8   C8x C    26.3900  -15.8900\n            9   C8y C    25.6200  -17.1500\n            10  O1a O    20.5800  -17.4300\n            11  C1b C    26.0400  -18.4800\n            12  C1b C    27.3700  -18.8300\n            13  N1b N    27.7900  -20.1600\n            14  C1a C    29.1200  -20.4400\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    1  10 1\n            12    9  11 1\n            13   11  12 1\n            14   12  13 1\n            15   13  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C06212",
+    "name": "N-Methylserotonin",
+    "names": [
+      "N-Methylserotonin"
+    ],
+    "formula": "C11H14N2O",
+    "exact_mass": 190.1106,
+    "mol_weight": 190.2417,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02910",
+      "R08537"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism"
+    },
+    "enzymes": [
+      "2.1.1.49"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1134-01-6"
+      ],
+      "PubChem": [
+        "8459"
+      ],
+      "ChEBI": [
+        "48294"
+      ],
+      "ChEMBL": [
+        "CHEMBL277362"
+      ],
+      "3DMET": [
+        "B00924"
+      ],
+      "NIKKAJI": [
+        "J357.102E"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    21.8400  -16.7300\n            2   C8x C    21.8400  -15.1900\n            3   C8x C    23.0300  -14.5600\n            4   C8y C    24.2200  -15.1900\n            5   C8y C    24.2200  -16.7300\n            6   C8x C    23.0300  -17.4300\n            7   N4x N    25.6200  -14.8400\n            8   C8x C    26.3900  -15.8900\n            9   C8y C    25.6200  -17.1500\n            10  O1a O    20.5800  -17.4300\n            11  C1b C    26.0400  -18.4800\n            12  C1b C    27.3700  -18.8300\n            13  N1b N    27.7900  -20.1600\n            14  C1a C    29.1200  -20.4400\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    1  10 1\n            12    9  11 1\n            13   11  12 1\n            14   12  13 1\n            15   13  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

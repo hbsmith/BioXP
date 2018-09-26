@@ -1,0 +1,204 @@
+[
+  {
+    "entry_id": "1.14.15.26",
+    "name": "toluene methyl-monooxygenase",
+    "names": [
+      "toluene methyl-monooxygenase",
+      "xylM (gene names)",
+      "ntnM (gene names)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced iron-sulfur protein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "methylbenzene,ferredoxin:oxygen oxidoreductase (methyl-hydroxylating)",
+    "reaction": "(1) toluene + O2 + 2 reduced ferredoxin [iron-sulfur] cluster + 2 H+ = benzyl alcohol + 2 oxidized ferredoxin [iron-sulfur] cluster + H2O [RN:R02550]; (2) p-xylene + O2 + 2 reduced ferredoxin [iron-sulfur] cluster + 2 H+ = 4-methylbenzyl alcohol + 2 oxidized ferredoxin [iron-sulfur] cluster + H2O [RN:R05288]; (3) m-xylene + O2 + 2 reduced ferredoxin [iron-sulfur] cluster + 2 H+ = 3-methylbenzyl alcohol + 2 oxidized ferredoxin [iron-sulfur] cluster + H2O [RN:R05443]",
+    "all_reac": "R02550 R05288 R05443; (other) R05442",
+    "iubmb_reactions": [
+      "R02550 R05288 R05443"
+    ],
+    "kegg_reactions": [
+      "R05442"
+    ],
+    "substrates": [
+      "toluene [CPD:C01455]",
+      "O2 [CPD:C00007]",
+      "reduced ferredoxin [iron-sulfur] cluster [CPD:C00138]",
+      "H+ [CPD:C00080]",
+      "p-xylene [CPD:C06756]",
+      "m-xylene [CPD:C07208]"
+    ],
+    "products": [
+      "benzyl alcohol [CPD:C00556]",
+      "oxidized ferredoxin [iron-sulfur] cluster [CPD:C00139]",
+      "H2O [CPD:C00001]",
+      "4-methylbenzyl alcohol [CPD:C06757]",
+      "3-methylbenzyl alcohol [CPD:C07216]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, characterized from several Pseudomonas strains, catalyses the first step in the degradation of toluenes and xylenes. It has a broad substrate specificity and is also active with substituted compounds, such as chlorotoluenes. The electrons are provided by a reductase (EC 1.18.1.3, ferredoxin---NAD+ reductase) that transfers electrons from NADH via FAD and an [2Fe-2S] cluster. The enzyme can also act on its products, producing gem-diols that spontaneously dehydrate to form aldehydes.",
+    "pathways": {
+      "ec00622": "Xylene degradation",
+      "ec00623": "Toluene degradation",
+      "ec01100": "Metabolic pathways",
+      "ec01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K15757": "toluene methyl-monooxygenase"
+    },
+    "genes": {
+      "psd": [
+        "DSC_14810"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.15.26"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.15.26"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.15.26"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.15.26"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Suzuki M",
+          "Hayakawa T",
+          "Shaw JP",
+          "Rekik M",
+          "Harayama S"
+        ],
+        "title": "Primary structure of xylene monooxygenase: similarities to and differences from the alkane hydroxylation system.",
+        "journal": "J Bacteriol 173:1690-5 (1991) DOI:10.1128/JB.173.5.1690-1695.1991",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:1999388]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shaw JP",
+          "Harayama S"
+        ],
+        "title": "Purification and characterisation of the NADH:acceptor reductase component of xylene monooxygenase encoded by the TOL plasmid pWW0 of Pseudomonas putida mt-2.",
+        "journal": "Eur J Biochem 209:51-61 (1992) DOI:10.1111/j.1432-1033.1992.tb17260.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:1327782]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Brinkmann U",
+          "Reineke W"
+        ],
+        "title": "Degradation of chlorotoluenes by in vivo constructed hybrid strains: problems of enzyme specificity, induction and prevention of meta-pathway.",
+        "journal": "FEMS Microbiol Lett",
+        "volume": "75",
+        "issue": "",
+        "pages": "81-7",
+        "year": "1992",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:1526468]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "James KD",
+          "Williams PA"
+        ],
+        "title": "ntn genes determining the early steps in the divergent catabolism of 4-nitrotoluene and toluene in Pseudomonas sp. strain TW3.",
+        "journal": "J Bacteriol",
+        "volume": "180",
+        "issue": "",
+        "pages": "2043-9",
+        "year": "1998",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:9555884]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

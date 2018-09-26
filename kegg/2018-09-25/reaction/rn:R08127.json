@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R08127",
+    "name": "beta-D-glucuronoside glucuronosohydrolase",
+    "definition": "Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide]-4'-O-beta-D-glucuronide + H2O <=> Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide] + D-Glucuronate",
+    "equation": "C04900 + C00001 <=> C12632 + C00191",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.31"
+    ],
+    "pathways": {
+      "rn00944": "Flavone and flavonol biosynthesis"
+    },
+    "orthologs": {
+      "K01195": "beta-glucuronidase [EC:3.2.1.31]"
+    }
+  }
+][
+  {
+    "entry_id": "R08127",
+    "name": "beta-D-glucuronoside glucuronosohydrolase",
+    "definition": "Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide]-4'-O-beta-D-glucuronide + H2O <=> Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide] + D-Glucuronate",
+    "equation": "C04900 + C00001 <=> C12632 + C00191",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.31"
+    ],
+    "pathways": {
+      "rn00944": "Flavone and flavonol biosynthesis"
+    },
+    "orthologs": {
+      "K01195": "beta-glucuronidase [EC:3.2.1.31]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R07771",
+    "name": "",
+    "definition": "Lipoyl-AMP + Apoprotein <=> Protein N6-(lipoyl)lysine + AMP",
+    "equation": "C16238 + C16240 <=> C16237 + C00020",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.1.20"
+    ],
+    "pathways": {
+      "rn00785": "Lipoic acid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03800": "lipoate---protein ligase [EC:6.3.1.20]",
+      "K10105": "lipoyltransferase 1"
+    }
+  }
+]

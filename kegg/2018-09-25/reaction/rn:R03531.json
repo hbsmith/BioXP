@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R03531",
+    "name": "2'-Deoxyinosine-5'-triphosphate pyrophosphohydrolase; dITP diphosphohydrolase (diphosphate-forming)",
+    "definition": "dITP + H2O <=> 2'-Deoxyinosine 5'-phosphate + Diphosphate",
+    "equation": "C01345 + C00001 <=> C06196 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.66",
+      "3.6.1.-"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K01519": "inosine triphosphate pyrophosphatase [EC:3.6.1.-]",
+      "K02428": "XTP/dITP diphosphohydrolase [EC:3.6.1.66]"
+    }
+  }
+][
+  {
+    "entry_id": "R03531",
+    "name": "2'-Deoxyinosine-5'-triphosphate pyrophosphohydrolase; dITP diphosphohydrolase (diphosphate-forming)",
+    "definition": "dITP + H2O <=> 2'-Deoxyinosine 5'-phosphate + Diphosphate",
+    "equation": "C01345 + C00001 <=> C06196 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.66",
+      "3.6.1.-"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K01519": "inosine triphosphate pyrophosphatase [EC:3.6.1.-]",
+      "K02428": "XTP/dITP diphosphohydrolase [EC:3.6.1.66]"
+    }
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "entry_id": "C05568",
+    "name": "Imidazole lactate",
+    "names": [
+      "Imidazole lactate",
+      "Imidazole lactic acid",
+      "2-Hydroxy-3-(1H-imidazol-5-yl)-propanoic acid"
+    ],
+    "formula": "C6H8N2O3",
+    "exact_mass": 156.0535,
+    "mol_weight": 156.1393,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04876"
+    ],
+    "pathways": {
+      "map00340": "Histidine metabolism"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7894"
+      ],
+      "ChEBI": [
+        "24773",
+        "27487"
+      ],
+      "3DMET": [
+        "B05072"
+      ],
+      "NIKKAJI": [
+        "J1.107.342E"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    10.8500  -20.7900\n            2   C1b C    12.0400  -21.4900\n            3   C1c C    13.3000  -20.7900\n            4   C6a C    14.4900  -21.4900\n            5   O6a O    15.6800  -20.7900\n            6   O6a O    14.4900  -22.8900\n            7   O1a O    13.3172  -19.3901\n            8   C8x C    11.2690  -19.4542\n            9   N5x N    10.1280  -18.6429\n            10  C8x C     9.0038  -19.4773\n            11  N4x N     9.4501  -20.8043\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     4   6 2\n            6     3   7 1\n            7     1   8 2\n            8     8   9 1\n            9     9  10 2\n            10   10  11 1\n            11    1  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C05568",
+    "name": "Imidazole lactate",
+    "names": [
+      "Imidazole lactate",
+      "Imidazole lactic acid",
+      "2-Hydroxy-3-(1H-imidazol-5-yl)-propanoic acid"
+    ],
+    "formula": "C6H8N2O3",
+    "exact_mass": 156.0535,
+    "mol_weight": 156.1393,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04876"
+    ],
+    "pathways": {
+      "map00340": "Histidine metabolism"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7894"
+      ],
+      "ChEBI": [
+        "24773",
+        "27487"
+      ],
+      "3DMET": [
+        "B05072"
+      ],
+      "NIKKAJI": [
+        "J1.107.342E"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    10.8500  -20.7900\n            2   C1b C    12.0400  -21.4900\n            3   C1c C    13.3000  -20.7900\n            4   C6a C    14.4900  -21.4900\n            5   O6a O    15.6800  -20.7900\n            6   O6a O    14.4900  -22.8900\n            7   O1a O    13.3172  -19.3901\n            8   C8x C    11.2690  -19.4542\n            9   N5x N    10.1280  -18.6429\n            10  C8x C     9.0038  -19.4773\n            11  N4x N     9.4501  -20.8043\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     4   6 2\n            6     3   7 1\n            7     1   8 2\n            8     8   9 1\n            9     9  10 2\n            10   10  11 1\n            11    1  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

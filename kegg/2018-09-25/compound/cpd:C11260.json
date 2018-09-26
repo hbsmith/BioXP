@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C11260",
+    "name": "2-Amino-2-methyl-1,3-propandiol",
+    "names": [
+      "2-Amino-2-methyl-1,3-propandiol",
+      "Aminomethyl propanediol"
+    ],
+    "formula": "C4H11NO2",
+    "exact_mass": 105.079,
+    "mol_weight": 105.1356,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "115-69-5"
+      ],
+      "PubChem": [
+        "13437"
+      ],
+      "ChEBI": [
+        "991"
+      ],
+      "NIKKAJI": [
+        "J35.183K"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1d C    28.0328  -19.8004\n            2   C1b C    26.9012  -19.1466\n            3   C1a C    28.0328  -21.1367\n            4   C1b C    29.1648  -19.1641\n            5   N1a N    28.0038  -17.9843\n            6   O1a O    25.7621  -19.8004\n            7   O1a O    30.3211  -19.8179\nBOND        6\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1\n            5     2   6 1\n            6     4   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

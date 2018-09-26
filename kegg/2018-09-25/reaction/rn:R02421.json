@@ -1,0 +1,26 @@
+[
+  {
+    "entry_id": "R02421",
+    "name": "ADP-glucose:1,4-alpha-D-glucan 4-alpha-D-glucosyltransferase",
+    "definition": "ADP-glucose + Amylose <=> ADP + Amylose",
+    "equation": "C00498 + C00718 <=> C00008 + C00718",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.21",
+      "2.4.1.242"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00703": "starch synthase [EC:2.4.1.21]",
+      "K13679": "granule-bound starch synthase [EC:2.4.1.242]",
+      "K16148": "alpha-maltose-1-phosphate synthase [EC:2.4.1.342]",
+      "K20812": "glycogen synthase [EC:2.4.1.242]"
+    }
+  }
+]

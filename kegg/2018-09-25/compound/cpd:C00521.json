@@ -1,0 +1,71 @@
+[
+  {
+    "entry_id": "C00521",
+    "name": "(-)-Limonene",
+    "names": [
+      "(-)-Limonene",
+      "(-)-(S)-Limonene",
+      "(-)-(4S)-Limonene"
+    ],
+    "formula": "C10H16",
+    "exact_mass": 136.1252,
+    "mol_weight": 136.234,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02013",
+      "R02468",
+      "R02469",
+      "R02470",
+      "R09385",
+      "R09389"
+    ],
+    "pathways": {
+      "map00902": "Monoterpenoid biosynthesis",
+      "map00903": "Limonene and pinene degradation",
+      "map01062": "Biosynthesis of terpenoids and steroids",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.13.107",
+      "1.14.14.51",
+      "1.14.14.52",
+      "1.14.14.99",
+      "4.2.3.16"
+    ],
+    "dblinks": {
+      "CAS": [
+        "5989-54-8"
+      ],
+      "PubChem": [
+        "3804"
+      ],
+      "ChEBI": [
+        "15383"
+      ],
+      "ChEMBL": [
+        "CHEMBL236688"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0102090002"
+      ],
+      "KNApSAcK": [
+        "C00000803"
+      ],
+      "3DMET": [
+        "B01278"
+      ],
+      "NIKKAJI": [
+        "J85.992C"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1x C    24.5334  -17.9920\n            2   C1x C    24.5334  -19.3921\n            3   C1y C    25.7498  -20.0957\n            4   C1x C    26.9590  -19.3921\n            5   C2x C    26.9590  -17.9920\n            6   C2y C    25.7498  -17.2954\n            7   C1a C    25.7515  -15.8955\n            8   C2c C    25.7515  -21.4957\n            9   C2a C    24.5390  -22.1938\n            10  C1a C    26.9659  -22.1907\nBOND        10\n            1     4   5 1\n            2     5   6 2\n            3     6   1 1\n            4     6   7 1\n            5     1   2 1\n            6     3   8 1 #Up\n            7     2   3 1\n            8     8   9 2\n            9     3   4 1\n            10    8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

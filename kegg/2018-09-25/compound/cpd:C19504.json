@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C19504",
+    "name": "Polymethyl methacrylate",
+    "names": [
+      "Polymethyl methacrylate"
+    ],
+    "formula": "(C5H8O2)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "polymer of Methyl methacrylate [CPD:C14527]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "9011-14-7"
+      ],
+      "PubChem": [
+        "124490176"
+      ],
+      "ChEBI": [
+        "53205"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C1a C    14.7700  -16.1700\n            2   C2c C    15.9600  -16.8700\n            3   C7a C    17.2200  -16.1700\n            4   O7a O    18.4100  -16.8700\n            5   C1a C    19.6000  -16.1700\n            6   C2a C    15.9600  -18.2700\n            7   O6a O    17.2200  -14.7700\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     2   6 2\n            6     3   7 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

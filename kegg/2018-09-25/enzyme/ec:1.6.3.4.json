@@ -1,0 +1,764 @@
+[
+  {
+    "entry_id": "1.6.3.4",
+    "name": "NADH oxidase (H2O-forming)",
+    "names": [
+      "NADH oxidase (H2O-forming)",
+      "H2O-forming NADH oxidase",
+      "Nox-2"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on NADH or NADPH;",
+      "With oxygen as acceptor"
+    ],
+    "sysname": "NADH:oxygen oxidoreductase (H2O-forming)",
+    "reaction": "2 NADH + 2 H+ + O2 = 2 NAD+ + 2 H2O [RN:R10517]",
+    "all_reac": "R10517",
+    "iubmb_reactions": [
+      "R10517"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "NADH [CPD:C00004]",
+      "H+ [CPD:C00080]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "NAD+ [CPD:C00003]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A flavoprotein (FAD). The bacterium Streptococcus mutans contains two distinct NADH oxidases, a H2O-forming enzyme and a H2O2-forming enzyme (cf. EC 1.6.3.3, NADH oxidase (H2O2-forming)) [1].",
+    "pathways": {
+    },
+    "orthologs": {
+      "K17869": "NADH oxidase (H2O-forming)",
+      "K22405": "NADH oxidase (H2O-forming)"
+    },
+    "genes": {
+      "mmt": [
+        "Metme_1624"
+      ],
+      "mdn": [
+        "JT25_005995"
+      ],
+      "mdh": [
+        "AYM39_16345"
+      ],
+      "mko": [
+        "MKLM6_3358"
+      ],
+      "mpsy": [
+        "CEK71_14720"
+      ],
+      "tig": [
+        "THII_3128"
+      ],
+      "blep": [
+        "AL038_16445"
+      ],
+      "tvi": [
+        "Thivi_2130"
+      ],
+      "tmb": [
+        "Thimo_3250"
+      ],
+      "tsy": [
+        "THSYN_03990"
+      ],
+      "ebs": [
+        "ECTOBSL9_2540"
+      ],
+      "aql": [
+        "BXU06_13035"
+      ],
+      "dar": [
+        "Daro_1451"
+      ],
+      "azo": [
+        "azo0526"
+      ],
+      "aoa": [
+        "dqs_0536"
+      ],
+      "acom": [
+        "CEW83_10515"
+      ],
+      "app": [
+        "CAP2UW1_4425"
+      ],
+      "wsu": [
+        "WS0163"
+      ],
+      "sku": [
+        "Sulku_1316"
+      ],
+      "ant": [
+        "Arnit_0077"
+      ],
+      "arc": [
+        "ABLL_0060"
+      ],
+      "sba": [
+        "Sulba_0996"
+      ],
+      "smul": [
+        "SMUL_1215"
+      ],
+      "shal": [
+        "SHALO_1200"
+      ],
+      "suls": [
+        "Sdiek1_1284"
+      ],
+      "sulj": [
+        "SJPD1_1233"
+      ],
+      "gur": [
+        "Gura_0371"
+      ],
+      "glo": [
+        "Glov_0399"
+      ],
+      "gbm": [
+        "Gbem_0186"
+      ],
+      "geo": [
+        "Geob_1311"
+      ],
+      "gem": [
+        "GM21_0168"
+      ],
+      "geb": [
+        "GM18_0199"
+      ],
+      "gpi": [
+        "GPICK_15220"
+      ],
+      "gsb": [
+        "GSUB_03650"
+      ],
+      "des": [
+        "DSOUD_0965"
+      ],
+      "deu": [
+        "DBW_1080"
+      ],
+      "dav": [
+        "DESACE_01655"
+      ],
+      "rsp": [
+        "RSP_3191"
+      ],
+      "rsh": [
+        "Rsph17029_3930"
+      ],
+      "rsq": [
+        "Rsph17025_3191"
+      ],
+      "rsk": [
+        "RSKD131_3367"
+      ],
+      "rcp": [
+        "RCAP_rcc03286"
+      ],
+      "rhc": [
+        "RGUI_2055"
+      ],
+      "daa": [
+        "AKL17_1541"
+      ],
+      "lca": [
+        "LSEI_0285"
+      ],
+      "lpq": [
+        "AF91_00725"
+      ],
+      "lpi": [
+        "LBPG_02448"
+      ],
+      "lcb": [
+        "LCABL_02800"
+      ],
+      "lcz": [
+        "LCAZH_0305"
+      ],
+      "lcs": [
+        "LCBD_0278"
+      ],
+      "lce": [
+        "LC2W_0269"
+      ],
+      "lcw": [
+        "BN194_02850"
+      ],
+      "lcl": [
+        "LOCK919_0299"
+      ],
+      "lcx": [
+        "LCA12A_2517"
+      ],
+      "lrh": [
+        "LGG_00325"
+      ],
+      "lrg": [
+        "LRHM_0312"
+      ],
+      "lrl": [
+        "LC705_00311"
+      ],
+      "lra": [
+        "LRHK_319"
+      ],
+      "lro": [
+        "LOCK900_0301"
+      ],
+      "lrc": [
+        "LOCK908_0315"
+      ],
+      "cac": [
+        "CA_C1027",
+        "CA_C2449"
+      ],
+      "cae": [
+        "SMB_G1045",
+        "SMB_G2484"
+      ],
+      "cay": [
+        "CEA_G1039",
+        "CEA_G2463"
+      ],
+      "cpe": [
+        "CPE1014"
+      ],
+      "cpf": [
+        "CPF_0284",
+        "CPF_1269"
+      ],
+      "cpr": [
+        "CPR_0275",
+        "CPR_1091"
+      ],
+      "ctc": [
+        "CTC_01004"
+      ],
+      "ctet": [
+        "BN906_01067"
+      ],
+      "cno": [
+        "NT01CX_1654"
+      ],
+      "cbo": [
+        "CBO2619"
+      ],
+      "cba": [
+        "CLB_2561"
+      ],
+      "cbh": [
+        "CLC_2492"
+      ],
+      "cby": [
+        "CLM_2982"
+      ],
+      "cbl": [
+        "CLK_2005"
+      ],
+      "cbb": [
+        "CLD_1946"
+      ],
+      "cbi": [
+        "CLJ_B2849"
+      ],
+      "cbn": [
+        "CbC4_0837"
+      ],
+      "cbf": [
+        "CLI_2683"
+      ],
+      "cbm": [
+        "CBF_2675"
+      ],
+      "cbj": [
+        "H04402_02712"
+      ],
+      "cbe": [
+        "Cbei_4481",
+        "Cbei_4483"
+      ],
+      "cbz": [
+        "Cbs_4481",
+        "Cbs_4483"
+      ],
+      "cbei": [
+        "LF65_05014",
+        "LF65_05016"
+      ],
+      "ckl": [
+        "CKL_3321"
+      ],
+      "ckr": [
+        "CKR_2929"
+      ],
+      "clj": [
+        "CLJU_c21940"
+      ],
+      "ccb": [
+        "Clocel_1666"
+      ],
+      "csr": [
+        "Cspa_c08450",
+        "Cspa_c08470"
+      ],
+      "cpas": [
+        "Clopa_1032",
+        "Clopa_1671"
+      ],
+      "cpat": [
+        "CLPA_c10580"
+      ],
+      "cpae": [
+        "CPAST_c10580"
+      ],
+      "cah": [
+        "CAETHG_0291"
+      ],
+      "clt": [
+        "CM240_0358",
+        "CM240_1207"
+      ],
+      "cbv": [
+        "U729_2924"
+      ],
+      "csq": [
+        "CSCA_1492"
+      ],
+      "cld": [
+        "CLSPO_c26930"
+      ],
+      "cace": [
+        "CACET_c35310"
+      ],
+      "cck": [
+        "Ccar_07240"
+      ],
+      "ceu": [
+        "A7L45_15690"
+      ],
+      "cfm": [
+        "BJL90_03480"
+      ],
+      "cchv": [
+        "BTM20_01910"
+      ],
+      "carg": [
+        "RSJ17_05515",
+        "RSJ17_11705"
+      ],
+      "cdrk": [
+        "B9W14_11805"
+      ],
+      "asf": [
+        "SFBM_0059"
+      ],
+      "asm": [
+        "MOUSESFB_0059"
+      ],
+      "aso": [
+        "SFBmNL_00074"
+      ],
+      "asb": [
+        "RATSFB_0060"
+      ],
+      "ccel": [
+        "CCDG5_0978"
+      ],
+      "eha": [
+        "Ethha_1061"
+      ],
+      "cle": [
+        "Clole_2026"
+      ],
+      "byl": [
+        "A4V09_16140"
+      ],
+      "bhan": [
+        "CGC63_03185"
+      ],
+      "blau": [
+        "DQQ01_03010"
+      ],
+      "lacy": [
+        "A4V08_25210"
+      ],
+      "cso": [
+        "CLS_09940"
+      ],
+      "cbol": [
+        "CGC65_05545"
+      ],
+      "cpro": [
+        "CPRO_00260"
+      ],
+      "cdf": [
+        "CD630_11570",
+        "CD630_16230"
+      ],
+      "pdc": [
+        "CDIF630_01304",
+        "CDIF630_01800"
+      ],
+      "cdc": [
+        "CD196_1016",
+        "CD196_1546"
+      ],
+      "cdl": [
+        "CDR20291_0994",
+        "CDR20291_1521"
+      ],
+      "pdf": [
+        "CD630DERM_11570",
+        "CD630DERM_16230"
+      ],
+      "psor": [
+        "RSJ16_03120",
+        "RSJ16_07995"
+      ],
+      "swo": [
+        "Swol_2054",
+        "Swol_2363"
+      ],
+      "slp": [
+        "Slip_1536"
+      ],
+      "dae": [
+        "Dtox_2294"
+      ],
+      "dai": [
+        "Desaci_0640"
+      ],
+      "cthm": [
+        "CFE_0293"
+      ],
+      "ibu": [
+        "IB211_02921"
+      ],
+      "bprm": [
+        "CL3_22630"
+      ],
+      "csc": [
+        "Csac_1982"
+      ],
+      "ate": [
+        "Athe_1435"
+      ],
+      "cob": [
+        "COB47_1119"
+      ],
+      "chd": [
+        "Calhy_1301"
+      ],
+      "cow": [
+        "Calow_1214"
+      ],
+      "cki": [
+        "Calkr_1420"
+      ],
+      "ckn": [
+        "Calkro_1275"
+      ],
+      "clc": [
+        "Calla_0805"
+      ],
+      "ttm": [
+        "Tthe_1029"
+      ],
+      "tto": [
+        "Thethe_00986"
+      ],
+      "txy": [
+        "Thexy_1693"
+      ],
+      "tsh": [
+        "Tsac_1486"
+      ],
+      "mas": [
+        "Mahau_2344"
+      ],
+      "tur": [
+        "AT726_01520",
+        "AT726_05065"
+      ],
+      "mgj": [
+        "MGM1_5040"
+      ],
+      "myg": [
+        "ASO20_00625"
+      ],
+      "tbz": [
+        "BK011_03550"
+      ],
+      "kst": [
+        "KSMBR1_2772"
+      ],
+      "fmo": [
+        "C4N19_00585"
+      ],
+      "aps": [
+        "CFPG_262"
+      ],
+      "cte": [
+        "CT2285"
+      ],
+      "cpc": [
+        "Cpar_0005"
+      ],
+      "clz": [
+        "BIU88_00020"
+      ],
+      "cch": [
+        "Cag_2008"
+      ],
+      "cph": [
+        "Cpha266_0026"
+      ],
+      "cpb": [
+        "Cphamn1_0006"
+      ],
+      "cli": [
+        "Clim_0005"
+      ],
+      "pvi": [
+        "Cvib_0005"
+      ],
+      "plt": [
+        "Plut_0004"
+      ],
+      "pph": [
+        "Ppha_0005"
+      ],
+      "paa": [
+        "Paes_0005"
+      ],
+      "proc": [
+        "Ptc2401_00005"
+      ],
+      "prs": [
+        "B9H02_00025"
+      ],
+      "pros": [
+        "CHL67_00030"
+      ],
+      "din": [
+        "Selin_0989"
+      ],
+      "ddf": [
+        "DEFDS_0572"
+      ],
+      "dap": [
+        "Dacet_1865"
+      ],
+      "cni": [
+        "Calni_0057"
+      ],
+      "fsi": [
+        "Flexsi_1655"
+      ],
+      "hda": [
+        "BB347_11605"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.6.3.4"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.6.3.4"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.6.3.4"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.6.3.4"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Schmidt HL",
+          "Stocklein W",
+          "Danzer J",
+          "Kirch P",
+          "Limbach B"
+        ],
+        "title": "Isolation and properties of an H2O-forming NADH oxidase from Streptococcus faecalis.",
+        "journal": "Eur J Biochem 156:149-55 (1986) DOI:10.1111/j.1432-1033.1986.tb09560.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:3082630]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Higuchi M",
+          "Shimada M",
+          "Yamamoto Y",
+          "Hayashi T",
+          "Koga T",
+          "Kamio Y"
+        ],
+        "title": "Identification of two distinct NADH oxidases corresponding to H2O2-forming oxidase and H2O-forming oxidase induced in Streptococcus mutans.",
+        "journal": "J Gen Microbiol 139:2343-51 (1993) DOI:10.1099/00221287-139-10-2343",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:8254304]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Matsumoto J",
+          "Higuchi M",
+          "Shimada M",
+          "Yamamoto Y",
+          "Kamio Y"
+        ],
+        "title": "Molecular cloning and sequence analysis of the gene encoding the H2O-forming NADH oxidase from Streptococcus mutans.",
+        "journal": "Biosci Biotechnol Biochem 60:39-43 (1996) DOI:10.1271/bbb.60.39",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:8824824]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kawasaki S",
+          "Ishikura J",
+          "Chiba D",
+          "Nishino T",
+          "Niimura Y"
+        ],
+        "title": "Purification and characterization of an H2O-forming NADH oxidase from Clostridium aminovalericum: existence of an oxygen-detoxifying enzyme in an obligate anaerobic bacteria.",
+        "journal": "Arch Microbiol 181:324-30 (2004) DOI:10.1007/s00203-004-0659-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:15014929]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang YW",
+          "Tiwari MK",
+          "Gao H",
+          "Dhiman SS",
+          "Jeya M",
+          "Lee JK"
+        ],
+        "title": "Cloning and characterization of a thermostable H2O-forming NADH oxidase from Lactobacillus rhamnosus.",
+        "journal": "Enzyme Microb Technol 50:255-62 (2012) DOI:10.1016/j.enzmictec.2012.01.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "5  [PMID:22418266]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

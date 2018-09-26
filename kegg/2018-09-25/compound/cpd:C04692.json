@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C04692",
+    "name": "Peptide 2-[3-carboxy-3-(methylammonio)propyl]-L-histidine",
+    "names": [
+      "Peptide 2-[3-carboxy-3-(methylammonio)propyl]-L-histidine",
+      "2-[3-Carboxy-3-(methylammonio)propyl]-L-histidine",
+      "EF-2 2-[3-carboxy-3-(methylammonio)propyl]-L-histidine",
+      "Elongation factor 2 2-[3-carboxy-3-(methylammonio)propyl]-L-histidine",
+      "2-[(3S)-3-Carboxy-3-(methylamino)propyl]-L-histidine-[translation elongation factor 2]"
+    ],
+    "formula": "C12H17N5O4R2",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy Precursor of Diphthamide [CPD:C02872] Modified histidine residue of elongation factor 2(EF-2)",
+    "reactions": [
+      "R04481",
+      "R08468"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.1.1.98"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7272"
+      ],
+      "ChEBI": [
+        "16475"
+      ]
+    },
+    "kcf": "ATOM        23\n            1   C8y C    20.0900  -19.8800\n            2   C1b C    21.3024  -19.1800\n            3   C1b C    22.5149  -19.8800\n            4   C1c C    23.7273  -19.1800\n            5   C6a C    24.9397  -19.8800\n            6   O6a O    26.1522  -19.1800\n            7   O6a O    24.9397  -21.2799\n            8   N1b N    23.7273  -17.7800\n            9   C1a C    24.9418  -17.0788\n            10  N5x N    18.9680  -19.0426\n            11  C8y C    17.8249  -19.8510\n            12  C8x C    18.2404  -21.1879\n            13  N4x N    19.6403  -21.2058\n            14  C1b C    16.6376  -19.1800\n            15  C1c C    15.4251  -19.8800\n            16  C5a C    14.2127  -19.1800\n            17  N1b N    13.0003  -19.8800\n            18  O5a O    14.2127  -17.7800\n            19  R   R    11.8027  -19.1885\n            20  N1b N    15.4251  -21.2798\n            21  C5a C    14.1939  -21.9908\n            22  R   R    12.9889  -21.2952\n            23  O5a O    14.1942  -23.3799\nBOND        23\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     5   7 2\n            7     4   8 1 #Down\n            8     8   9 1\n            9     1  10 2\n            10   10  11 1\n            11   11  12 2\n            12   12  13 1\n            13    1  13 1\n            14   11  14 1\n            15   14  15 1\n            16   15  16 1\n            17   16  17 1\n            18   16  18 2\n            19   17  19 1\n            20   15  20 1 #Down\n            21   20  21 1\n            22   21  22 1\n            23   21  23 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

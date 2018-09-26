@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C21762",
+    "name": "4-Hydroxytryptamine",
+    "names": [
+      "4-Hydroxytryptamine"
+    ],
+    "formula": "C10H12N2O",
+    "exact_mass": 176.095,
+    "mol_weight": 176.2151,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11912",
+      "R11932",
+      "R11933"
+    ],
+    "pathways": {
+      "map00901": "Indole alkaloid biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.99.59",
+      "2.7.1.222",
+      "4.1.1.105"
+    ],
+    "dblinks": {
+      "CAS": [
+        "570-14-9"
+      ],
+      "PubChem": [
+        "354339112"
+      ],
+      "ChEMBL": [
+        "CHEMBL18855"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    15.3670  -16.1423\n            2   C8x C    15.3670  -17.5521\n            3   C8x C    16.5653  -18.2569\n            4   C8y C    17.7635  -17.5521\n            5   C8y C    17.7635  -16.1423\n            6   C8y C    16.5653  -15.4375\n            7   N4x N    19.1028  -17.9750\n            8   C8x C    19.9486  -16.8472\n            9   C8y C    19.1028  -15.7194\n            10  C1b C    19.5962  -14.3802\n            11  C1b C    20.9354  -14.0982\n            12  N1a N    21.9222  -15.0851\n            13  O1a O    16.5653  -14.0375\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    9  10 1\n            12   10  11 1\n            13   11  12 1\n            14    6  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

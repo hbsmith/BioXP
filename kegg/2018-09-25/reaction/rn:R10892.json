@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10892",
+    "name": "tabtoxinine-beta-lactam:L-threonine ligase (ADP-forming)",
+    "definition": "ATP + Tabtoxinine-beta-lactam + L-Threonine <=> ADP + Orthophosphate + Tabtoxin",
+    "equation": "C00002 + C20918 + C00188 <=> C00008 + C00009 + C20917",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.-"
+    ],
+    "pathways": {
+      "rn00261": "Monobactam biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19112": "L-Amino acid ligase [EC:6.3.2.-]"
+    }
+  }
+]

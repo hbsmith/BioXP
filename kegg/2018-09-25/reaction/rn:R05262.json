@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R05262",
+    "name": "",
+    "definition": "4-Chlorobiphenyl + Oxygen + NADPH + H+ <=> cis-2,3-Dihydro-2,3-dihydroxy-4'-chlorobiphenyl + NADP+",
+    "equation": "C06584 + C00007 + C00005 + C00080 <=> C06585 + C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.12.18"
+    ],
+    "pathways": {
+      "rn00621": "Dioxin degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K08689": "biphenyl 2,3-dioxygenase subunit alpha [EC:1.14.12.18]",
+      "K15750": "biphenyl 2,3-dioxygenase subunit beta [EC:1.14.12.18]",
+      "K18087": "biphenyl 2,3-dioxygenase ferredoxin component",
+      "K18088": "biphenyl 2,3-dioxygenase ferredoxin reductase component [EC:1.18.1.3]"
+    }
+  }
+]

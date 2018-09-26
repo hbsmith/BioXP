@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00221",
+    "name": "D-serine ammonia-lyase",
+    "definition": "D-Serine <=> Pyruvate + Ammonia",
+    "equation": "C00740 <=> C00022 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.3.1.18"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism"
+    },
+    "orthologs": {
+      "K01753": "D-serine dehydratase [EC:4.3.1.18]",
+      "K20498": "D-serine ammonia-lyase [EC:4.3.1.18]"
+    }
+  }
+]

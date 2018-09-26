@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R04786",
+    "name": "15-cis-phytoene:plastoquinone oxidoreductase",
+    "definition": "all-trans-Phytoene + Acceptor <=> all-trans-Phytofluene + Reduced acceptor",
+    "equation": "C05413 + C00028 <=> C05414 + C00030",
+    "comment": "phytoene dehydrogenase, phytoene desaturase(CrtI,Al-1,CrtP/pds)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.5.5"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis"
+    },
+    "orthologs": {
+      "K02293": "15-cis-phytoene desaturase [EC:1.3.5.5]"
+    }
+  }
+][
+  {
+    "entry_id": "R04786",
+    "name": "15-cis-phytoene:plastoquinone oxidoreductase",
+    "definition": "all-trans-Phytoene + Acceptor <=> all-trans-Phytofluene + Reduced acceptor",
+    "equation": "C05413 + C00028 <=> C05414 + C00030",
+    "comment": "phytoene dehydrogenase, phytoene desaturase(CrtI,Al-1,CrtP/pds)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.5.5"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis"
+    },
+    "orthologs": {
+      "K02293": "15-cis-phytoene desaturase [EC:1.3.5.5]"
+    }
+  }
+]

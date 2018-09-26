@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08615",
+    "name": "UDP-glucuronate glucuronohydrolase",
+    "definition": "UDP-glucuronate + H2O <=> UDP + D-Glucuronate",
+    "equation": "C00167 + C00001 <=> C00015 + C00191",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.17"
+    ],
+    "pathways": {
+      "rn00053": "Ascorbate and aldarate metabolism"
+    },
+    "orthologs": {
+      "K00699": "glucuronosyltransferase [EC:2.4.1.17]"
+    }
+  }
+]

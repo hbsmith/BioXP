@@ -1,0 +1,60 @@
+[
+  {
+    "entry_id": "C03434",
+    "name": "Tetrachlorohydroquinone",
+    "names": [
+      "Tetrachlorohydroquinone",
+      "2,3,5,6-Tetrachlorohydroquinone"
+    ],
+    "formula": "C6H2Cl4O2",
+    "exact_mass": 245.8809,
+    "mol_weight": 247.8909,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05402",
+      "R07191",
+      "R11585"
+    ],
+    "pathways": {
+      "map00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.1.404",
+      "1.14.13.50",
+      "2.5.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "87-87-6"
+      ],
+      "PubChem": [
+        "6261"
+      ],
+      "ChEBI": [
+        "17042"
+      ],
+      "ChEMBL": [
+        "CHEMBL2074639"
+      ],
+      "KNApSAcK": [
+        "C00007485"
+      ],
+      "3DMET": [
+        "B00583"
+      ],
+      "NIKKAJI": [
+        "J54.019F"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    28.8337  -18.3569\n            2   C8y C    27.6284  -17.6452\n            3   C8y C    30.0581  -17.6452\n            4   O1a O    28.8337  -19.7480\n            5   C8y C    27.6284  -16.2348\n            6   X   Cl   26.4165  -18.3376\n            7   C8y C    30.0581  -16.2348\n            8   X   Cl   31.2698  -18.3376\n            9   C8y C    28.8337  -15.5359\n            10  X   Cl   26.4230  -15.5359\n            11  X   Cl   31.2635  -15.5359\n            12  O1a O    28.8337  -14.1447\nBOND        12\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 2\n            7     3   8 1\n            8     5   9 2\n            9     5  10 1\n            10    7  11 1\n            11    9  12 1\n            12    7   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

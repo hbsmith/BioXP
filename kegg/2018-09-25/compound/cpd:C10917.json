@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C10917",
+    "name": "7-N,N-Dimethylamino-1,2,3,4,5-pentathiocyclooctane",
+    "names": [
+      "7-N,N-Dimethylamino-1,2,3,4,5-pentathiocyclooctane",
+      "PTCA"
+    ],
+    "formula": "C5H11NS5",
+    "exact_mass": 244.9495,
+    "mol_weight": 245.4725,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "13100"
+      ],
+      "ChEBI": [
+        "2277"
+      ],
+      "NIKKAJI": [
+        "J658.265F"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   S3x S    29.2800  -16.1621\n            2   S3x S    30.6767  -16.7066\n            3   S3x S    31.2939  -17.9347\n            4   S3x S    30.7541  -19.3209\n            5   S3x S    29.4386  -19.7790\n            6   C1x C    28.1295  -16.7816\n            7   C1y C    27.7447  -18.0113\n            8   C1x C    28.2838  -19.2401\n            9   N1c N    26.4641  -18.0831\n            10  C1a C    25.5132  -16.7808\n            11  C1a C    25.6675  -19.4003\nBOND        11\n            1     1   6 1\n            2     1   2 1\n            3     6   7 1\n            4     7   8 1\n            5     3   4 1\n            6     5   8 1\n            7     7   9 1\n            8     4   5 1\n            9     9  10 1\n            10    2   3 1\n            11    9  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

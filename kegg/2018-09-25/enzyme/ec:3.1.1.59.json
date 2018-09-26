@@ -1,0 +1,233 @@
+[
+  {
+    "entry_id": "3.1.1.59",
+    "name": "juvenile-hormone esterase",
+    "names": [
+      "juvenile-hormone esterase",
+      "JH-esterase",
+      "juvenile hormone analog esterase",
+      "juvenile hormone carboxyesterase",
+      "methyl-(2E,6E)-(10R,11S)-10,11-epoxy-3,7,11-trimethyltrideca-2,6-dienoate acylhydrolase"
+    ],
+    "classes": [
+      "Hydrolases;",
+      "Acting on ester bonds;",
+      "Carboxylic-ester hydrolases"
+    ],
+    "sysname": "methyl-(2E,6E,10R)-10,11-epoxy-3,7,11-trimethyltrideca-2,6-dienoate acylhydrolase",
+    "reaction": "(1) juvenile hormone I + H2O = juvenile hormone I acid + methanol [RN:R10983]; (2) juvenile hormone III + H2O = juvenile hormone III acid + methanol [RN:R08149]",
+    "all_reac": "R08149 R10983; (other) R04608 R08150",
+    "iubmb_reactions": [
+      "R08149 R10983"
+    ],
+    "kegg_reactions": [
+      "R04608 R08150"
+    ],
+    "substrates": [
+      "juvenile hormone I [CPD:C19613]",
+      "H2O [CPD:C00001]",
+      "juvenile hormone III [CPD:C09694]"
+    ],
+    "products": [
+      "juvenile hormone I acid [CPD:C20992]",
+      "methanol [CPD:C00132]",
+      "juvenile hormone III acid [CPD:C16504]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "Demethylates the insect juvenile hormones JH1 and JH3, but does not hydrolyse the analogous ethyl or isopropyl esters.",
+    "pathways": {
+      "ec00981": "Insect hormone biosynthesis"
+    },
+    "orthologs": {
+      "K01063": "juvenile-hormone esterase"
+    },
+    "genes": {
+      "dme": [
+        "Dmel_CG8425"
+      ],
+      "dpo": [
+        "Dpse_GA25124"
+      ],
+      "dan": [
+        "Dana_GF11292",
+        "Dana_GF11293"
+      ],
+      "der": [
+        "Dere_GG20569"
+      ],
+      "dpe": [
+        "Dper_GL20599"
+      ],
+      "dse": [
+        "Dsec_GM21660",
+        "Dsec_GM21661"
+      ],
+      "dsi": [
+        "Dsimw501_GD11160",
+        "Dsimw501_GD11161"
+      ],
+      "dwi": [
+        "Dwil_GK15210",
+        "Dwil_GK15211",
+        "Dwil_GK21434",
+        "Dwil_GK21858",
+        "Dwil_GK21859",
+        "Dwil_GK21860",
+        "Dwil_GK21861",
+        "Dwil_GK21864",
+        "Dwil_GK22894",
+        "Dwil_GK22895",
+        "Dwil_GK27388",
+        "Dwil_GK27634",
+        "Dwil_GK27788",
+        "Dwil_GK27932"
+      ],
+      "dya": [
+        "Dyak_GE11753"
+      ],
+      "dgr": [
+        "Dgri_GH23775"
+      ],
+      "dmo": [
+        "Dmoj_GI19153"
+      ],
+      "dvi": [
+        "Dvir_GJ22288"
+      ],
+      "mde": [
+        "101898361"
+      ],
+      "aga": [
+        "AgaP_AGAP005834"
+      ],
+      "aag": [
+        "5566115"
+      ],
+      "cqu": [
+        "CpipJ_CPIJ002073"
+      ],
+      "soc": [
+        "105204452"
+      ],
+      "acep": [
+        "105624427"
+      ],
+      "cfo": [
+        "105253145"
+      ],
+      "tca": [
+        "658208"
+      ],
+      "dpa": [
+        "109544202"
+      ],
+      "nvl": [
+        "108559511",
+        "108559512",
+        "108567338"
+      ],
+      "prap": [
+        "111001382"
+      ],
+      "zne": [
+        "110830303"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "3.1.1.59"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "3.1.1.59"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "3.1.1.59"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "3.1.1.59"
+      ],
+      "CAS": [
+        "50812-15-2"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "de Kort",
+          "C.A.D. and Granger",
+          "N.A."
+        ],
+        "title": "Regulation of the juvenile hormone titer.",
+        "journal": "Annu Rev Entomol",
+        "volume": "26",
+        "issue": "",
+        "pages": "1-28",
+        "year": "1981",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mitsui",
+          "T.",
+          "Riddiford",
+          "L.M. and Bellamy",
+          "G."
+        ],
+        "title": "Metabolism of juvenile hormone by the epidermis of the tobacco hornworm (Manduca sexta).",
+        "journal": "Insect Biochem",
+        "volume": "9",
+        "issue": "",
+        "pages": "637-643",
+        "year": "1979",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

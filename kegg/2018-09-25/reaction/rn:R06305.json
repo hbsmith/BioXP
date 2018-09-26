@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06305",
+    "name": "Geranylgeranyl-diphosphate diphosphate-lyase (cyclizing, taxadiene forming)",
+    "definition": "Geranylgeranyl diphosphate <=> Taxa-4(5),11(12)-diene + Diphosphate",
+    "equation": "C00353 <=> C11894 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.17"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K12921": "taxadiene synthase [EC:4.2.3.17]"
+    }
+  }
+]

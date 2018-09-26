@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06439",
+    "name": "S-adenosyl-L-methionine:dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose 3-N,N-dimethyltransferase",
+    "definition": "dTDP-3-amino-3,6-dideoxy-D-glucose + 2 S-Adenosyl-L-methionine <=> dTDP-D-mycaminose + 2 S-Adenosyl-L-homocysteine + 2 H+",
+    "equation": "C11925 + 2 C00019 <=> C11933 + 2 C00021 + 2 C00080",
+    "comment": "N,N-dimethyltransferase,TylM1",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.235"
+    ],
+    "pathways": {
+      "rn00523": "Polyketide sugar unit biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13307": "dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase [EC:2.1.1.235]"
+    }
+  }
+]

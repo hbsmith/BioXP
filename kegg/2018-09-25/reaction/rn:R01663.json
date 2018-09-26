@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01663",
+    "name": "dCMP aminohydrolase",
+    "definition": "dCMP + H2O <=> dUMP + Ammonia",
+    "equation": "C00239 + C00001 <=> C00365 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.4.12"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01493": "dCMP deaminase [EC:3.5.4.12]"
+    }
+  }
+]

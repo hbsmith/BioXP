@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R10794",
+    "name": "monacolin L acid,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (8-hydroxylating)",
+    "definition": "Monacolin L acid + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> Monacolin J acid + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C20853 + C00007 + C03024 <=> C20854 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.125"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "orthologs": {
+      "K20980": "dihydromonacolin L/monacolin L hydroxylase [EC:1.14.14.124 1.14.14.125]"
+    }
+  }
+][
+  {
+    "entry_id": "R10794",
+    "name": "monacolin L acid,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (8-hydroxylating)",
+    "definition": "Monacolin L acid + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> Monacolin J acid + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C20853 + C00007 + C03024 <=> C20854 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.125"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "orthologs": {
+      "K20980": "dihydromonacolin L/monacolin L hydroxylase [EC:1.14.14.124 1.14.14.125]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02098",
+    "name": "ATP:dUMP phosphotransferase",
+    "definition": "ATP + dUMP <=> ADP + dUDP",
+    "equation": "C00002 + C00365 <=> C00008 + C01346",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.4",
+      "2.7.4.9"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00943": "dTMP kinase [EC:2.7.4.9]"
+    }
+  }
+]

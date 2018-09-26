@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10341",
+    "name": "dimethylallyl-diphosphate:verruculogen dimethylallyl-O-transferase",
+    "definition": "Dimethylallyl diphosphate + Verruculogen <=> Diphosphate + Fumitremorgin A",
+    "equation": "C00235 + C20045 <=> C00013 + C20564",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.107"
+    ],
+    "pathways": {
+      "rn00404": "Staurosporine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K18279": "verruculogen prenyltransferase [EC:2.5.1.107]"
+    }
+  }
+]

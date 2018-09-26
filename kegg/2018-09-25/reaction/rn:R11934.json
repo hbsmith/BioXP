@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11934",
+    "name": "S-adenosyl-L-methionine:norbaeocystin N,N-dimethyltransferase; S-adenosyl-L-methionine:4-hydroxytryptamine-4-phosphate N,N-dimethyltransferase",
+    "definition": "2 S-Adenosyl-L-methionine + Norbaeocystin <=> 2 S-Adenosyl-L-homocysteine + Psilocybin",
+    "equation": "2 C00019 + C21778 <=> 2 C00021 + C07576",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.345"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K22436": "psilocybin synthase [EC:2.1.1.345]"
+    }
+  }
+]

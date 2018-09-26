@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11171",
+    "name": "protein-Npi-phospho-L-histidine:D-galactose 6-O-phosphotransferase",
+    "definition": "Protein N(pi)-phospho-L-histidine + D-Galactose <=> Protein histidine + D-Galactose 6-phosphate",
+    "equation": "C04261 + C00124 <=> C00615 + C01113",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.204"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K20112": "PTS system, galactose-specific IIA component [EC:2.7.1.204]",
+      "K20113": "PTS system, galactose-specific IIB component [EC:2.7.1.204]",
+      "K20114": "PTS system, galactose-specific IIC component"
+    }
+  }
+]

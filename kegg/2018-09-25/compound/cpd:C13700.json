@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C13700",
+    "name": "Clofibric acid",
+    "names": [
+      "Clofibric acid"
+    ],
+    "formula": "C10H11ClO3",
+    "exact_mass": 214.0397,
+    "mol_weight": 214.6455,
+    "remark": "Same as: D07723",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "882-09-7"
+      ],
+      "PubChem": [
+        "586289"
+      ],
+      "ChEBI": [
+        "34648"
+      ],
+      "ChEMBL": [
+        "CHEMBL683"
+      ],
+      "NIKKAJI": [
+        "J7.154D"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    27.0200  -22.5400\n            2   C8y C    27.0200  -21.1400\n            3   C8x C    25.7600  -20.4400\n            4   C8x C    24.5700  -21.1400\n            5   C8y C    24.5700  -22.5400\n            6   C8x C    25.7600  -23.2400\n            7   O2a O    28.2100  -20.4400\n            8   C1d C    29.4700  -21.1400\n            9   C6a C    30.7300  -20.4400\n            10  O6a O    31.9200  -21.1400\n            11  X   Cl   23.3100  -23.3100\n            12  O6a O    30.7300  -18.9700\n            13  C1a C    30.5200  -21.8400\n            14  C1a C    28.4200  -21.8400\nBOND        14\n            1     2   7 1\n            2     1   2 2\n            3     7   8 1\n            4     2   3 1\n            5     8   9 1\n            6     3   4 2\n            7     9  10 1\n            8     4   5 1\n            9     5  11 1\n            10    5   6 2\n            11    9  12 2\n            12    6   1 1\n            13    8  13 1\n            14    8  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05283",
+    "name": "6-hydroxyhexanoate:NAD+ oxidoreductase",
+    "definition": "6-Hydroxyhexanoic acid + NAD+ <=> Adipate semialdehyde + NADH + H+",
+    "equation": "C06103 + C00003 <=> C06102 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.258"
+    ],
+    "pathways": {
+      "rn00930": "Caprolactam degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K19961": "6-hydroxyhexanoate dehydrogenase [EC:1.1.1.258]"
+    }
+  }
+]

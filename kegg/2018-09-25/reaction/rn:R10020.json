@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R10020",
+    "name": "narcotine hemiacetal:NAD+ oxidoreductase",
+    "definition": "Narcotine hemiacetal + NAD+ <=> alpha-Narcotine + NADH + H+",
+    "equation": "C20297 + C00003 <=> C09592 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22098": "noscapine synthase [EC:1.1.1.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R10020",
+    "name": "narcotine hemiacetal:NAD+ oxidoreductase",
+    "definition": "Narcotine hemiacetal + NAD+ <=> alpha-Narcotine + NADH + H+",
+    "equation": "C20297 + C00003 <=> C09592 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22098": "noscapine synthase [EC:1.1.1.-]"
+    }
+  }
+]

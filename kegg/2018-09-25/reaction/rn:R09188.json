@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09188",
+    "name": "",
+    "definition": "Nonaketamide monocyclic intermediate <=> Nonaketamide tricyclic intermediate",
+    "equation": "C18293 <=> C18294",
+    "comment": "cyclase, OxyN",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00253": "Tetracycline biosynthesis",
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K14250": "cyclase"
+    }
+  }
+]

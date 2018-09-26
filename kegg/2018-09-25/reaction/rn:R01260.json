@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R01260",
+    "name": "L-amino acid,NADPH:oxygen oxidoreductase (N-hydroxylating)",
+    "definition": "L-Amino acid + Oxygen + NADPH <=> N-Hydroxy-amino acid + NADP+ + H2O",
+    "equation": "C00151 + C00007 + C00005 <=> C05710 + C00006 + C00001",
+    "comment": "general reaction requiring P-450 reductase (ec 1.6.2.4)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

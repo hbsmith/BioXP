@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C15512",
+    "name": "Phenylacetone",
+    "names": [
+      "Phenylacetone",
+      "1-Phenyl-2-propanone"
+    ],
+    "formula": "C9H10O",
+    "exact_mass": 134.0732,
+    "mol_weight": 134.1751,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07201"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.13.92"
+    ],
+    "dblinks": {
+      "CAS": [
+        "103-79-7"
+      ],
+      "PubChem": [
+        "17396504"
+      ],
+      "ChEBI": [
+        "52052"
+      ],
+      "ChEMBL": [
+        "CHEMBL3800510"
+      ],
+      "NIKKAJI": [
+        "J31.101D"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    28.1465  -20.5800\n            2   C8x C    26.9288  -21.2791\n            3   C8x C    29.3582  -21.2791\n            4   C1b C    28.1465  -19.1817\n            5   C8x C    26.9288  -22.6774\n            6   C8x C    29.3582  -22.6774\n            7   C5a C    29.3641  -18.4769\n            8   C8x C    28.1465  -23.3823\n            9   C1a C    29.3641  -17.0844\n            10  O5a O    30.5701  -19.1760\nBOND        10\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 2\n            6     4   7 1\n            7     5   8 2\n            8     7   9 1\n            9     7  10 2\n            10    6   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

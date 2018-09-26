@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C21295",
+    "name": "5-Methylphenazine-1-carboxylate",
+    "names": [
+      "5-Methylphenazine-1-carboxylate"
+    ],
+    "formula": "C14H11N2O2",
+    "exact_mass": 239.0821,
+    "mol_weight": 239.2493,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11346",
+      "R11533"
+    ],
+    "pathways": {
+      "map00405": "Phenazine biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.14.13.218",
+      "2.1.1.327"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "318172275"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C8x C    14.9801  -15.8201\n            2   C8x C    14.9801  -17.2201\n            3   C8x C    16.1925  -17.9201\n            4   C8y C    17.4050  -17.2201\n            5   C8y C    17.4050  -15.8201\n            6   C8x C    16.1925  -15.1201\n            7   N5y N    18.6174  -17.9201 #+\n            8   C8y C    19.8298  -17.2201\n            9   C8y C    19.8298  -15.8201\n            10  N5x N    18.6174  -15.1201\n            11  C8x C    21.0423  -17.9201\n            12  C8x C    22.2547  -17.2201\n            13  C8x C    22.2547  -15.8201\n            14  C8y C    21.0423  -15.1201\n            15  C6a C    21.0423  -13.7204\n            16  O6a O    22.2755  -13.0081\n            17  O6a O    19.8507  -13.0323\n            18  C1a C    18.6174  -19.3201\nBOND        20\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12    8  11 1\n            13   11  12 2\n            14   12  13 1\n            15   13  14 2\n            16    9  14 1\n            17   14  15 1\n            18   15  16 1\n            19   15  17 2\n            20    7  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

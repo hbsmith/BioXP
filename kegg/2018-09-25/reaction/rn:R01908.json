@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01908",
+    "name": "oxalyl-CoA carboxy-lyase (formyl-CoA-forming)",
+    "definition": "Oxalyl-CoA <=> Formyl-CoA + CO2",
+    "equation": "C00313 <=> C00798 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.8"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01577": "oxalyl-CoA decarboxylase [EC:4.1.1.8]"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R01277",
+    "name": "hexadecanal:NAD+ oxidoreductase (CoA-acylating)",
+    "definition": "Hexadecanal + CoA + NAD+ <=> Palmitoyl-CoA + NADH + H+",
+    "equation": "C00517 + C00010 + C00003 <=> C00154 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.42"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

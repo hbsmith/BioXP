@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C15607",
+    "name": "3-Oxo-3-ureidopropanoate",
+    "names": [
+      "3-Oxo-3-ureidopropanoate",
+      "Malonuric acid"
+    ],
+    "formula": "C4H6N2O4",
+    "exact_mass": 146.0328,
+    "mol_weight": 146.1014,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02139",
+      "R07629"
+    ],
+    "pathways": {
+      "map00240": "Pyrimidine metabolism"
+    },
+    "enzymes": [
+      "3.5.1.95",
+      "3.5.2.1"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47204992"
+      ],
+      "ChEBI": [
+        "49049"
+      ],
+      "NIKKAJI": [
+        "J657.734B"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O6a O    12.2500  -13.2300\n            2   C6a C    13.4624  -12.5300\n            3   C1b C    14.6749  -13.2300\n            4   C5a C    15.8873  -12.5300\n            5   N1b N    17.0997  -13.2300\n            6   C5a C    18.3122  -12.5300\n            7   N1a N    19.5246  -13.2300\n            8   O6a O    13.4624  -11.1302\n            9   O5a O    15.8873  -11.1300\n            10  O5a O    18.3122  -11.1303\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     2   8 2\n            8     4   9 2\n            9     6  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C17663",
+    "name": "3-Phenylpropyl acetate",
+    "names": [
+      "3-Phenylpropyl acetate",
+      "Hydrocinnamyl acetate"
+    ],
+    "formula": "C11H14O2",
+    "exact_mass": 178.0994,
+    "mol_weight": 178.2277,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "122-72-5"
+      ],
+      "PubChem": [
+        "96024006"
+      ],
+      "ChEBI": [
+        "81257"
+      ],
+      "NIKKAJI": [
+        "J5.534D"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    22.5980  -26.2370\n            2   C8x C    22.5980  -27.6362\n            3   C8x C    23.8097  -28.3358\n            4   C8x C    25.0214  -27.6362\n            5   C8y C    25.0214  -26.2370\n            6   C8x C    23.8097  -25.5374\n            7   C1b C    26.2582  -25.5374\n            8   C1b C    27.4700  -26.2370\n            9   C1b C    28.6817  -25.5374\n            10  O7a O    29.8933  -26.2370\n            11  C7a C    31.1051  -25.5374\n            12  C1a C    32.3168  -26.2370\n            13  O6a O    31.1051  -24.1386\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11   10  11 1\n            12   11  12 1\n            13   11  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

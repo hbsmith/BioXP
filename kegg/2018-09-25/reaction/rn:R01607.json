@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01607",
+    "name": "3-Oxopropanoate:NADP+ oxidoreductase",
+    "definition": "3-Oxopropanoate + NADP+ + H2O <=> Malonate + NADPH + H+",
+    "equation": "C00222 + C00006 + C00001 <=> C00383 + C00005 + C00080",
+    "comment": "NAD+ (see R01604)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.15"
+    ],
+    "pathways": {
+      "rn00410": "beta-Alanine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

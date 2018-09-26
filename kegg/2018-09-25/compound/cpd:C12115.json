@@ -1,0 +1,103 @@
+[
+  {
+    "entry_id": "C12115",
+    "name": "3-Amino-4-hydroxybenzoate",
+    "names": [
+      "3-Amino-4-hydroxybenzoate",
+      "3-Amino-4-hydroxybenzoic acid",
+      "3,4-AHBA"
+    ],
+    "formula": "C7H7NO3",
+    "exact_mass": 153.0426,
+    "mol_weight": 153.1354,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08650",
+      "R10469",
+      "R10720"
+    ],
+    "pathways": {
+      "map00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "enzymes": [
+      "1.10.3.15",
+      "4.1.99.20"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1571-72-8"
+      ],
+      "PubChem": [
+        "14262"
+      ],
+      "ChEBI": [
+        "29476"
+      ],
+      "ChEMBL": [
+        "CHEMBL242963"
+      ],
+      "NIKKAJI": [
+        "J35.814B"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    23.2900  -16.1578\n            2   C8x C    23.2900  -17.5578\n            3   C8y C    24.5065  -18.2615\n            4   C8x C    25.7157  -17.5578\n            5   C8y C    25.7157  -16.1578\n            6   C8y C    24.5065  -15.4612\n            7   O1a O    24.5082  -14.0610\n            8   N1a N    26.9299  -15.4621\n            9   C6a C    24.5082  -19.6617\n            10  O6a O    25.7227  -20.3567\n            11  O6a O    23.2956  -20.3598\nBOND        11\n            1     5   6 2\n            2     6   1 1\n            3     6   7 1\n            4     1   2 2\n            5     5   8 1\n            6     2   3 1\n            7     3   9 1\n            8     3   4 2\n            9     9  10 1\n            10    4   5 1\n            11    9  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C12115",
+    "name": "3-Amino-4-hydroxybenzoate",
+    "names": [
+      "3-Amino-4-hydroxybenzoate",
+      "3-Amino-4-hydroxybenzoic acid",
+      "3,4-AHBA"
+    ],
+    "formula": "C7H7NO3",
+    "exact_mass": 153.0426,
+    "mol_weight": 153.1354,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08650",
+      "R10469",
+      "R10720"
+    ],
+    "pathways": {
+      "map00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "enzymes": [
+      "1.10.3.15",
+      "4.1.99.20"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1571-72-8"
+      ],
+      "PubChem": [
+        "14262"
+      ],
+      "ChEBI": [
+        "29476"
+      ],
+      "ChEMBL": [
+        "CHEMBL242963"
+      ],
+      "NIKKAJI": [
+        "J35.814B"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    23.2900  -16.1578\n            2   C8x C    23.2900  -17.5578\n            3   C8y C    24.5065  -18.2615\n            4   C8x C    25.7157  -17.5578\n            5   C8y C    25.7157  -16.1578\n            6   C8y C    24.5065  -15.4612\n            7   O1a O    24.5082  -14.0610\n            8   N1a N    26.9299  -15.4621\n            9   C6a C    24.5082  -19.6617\n            10  O6a O    25.7227  -20.3567\n            11  O6a O    23.2956  -20.3598\nBOND        11\n            1     5   6 2\n            2     6   1 1\n            3     6   7 1\n            4     1   2 2\n            5     5   8 1\n            6     2   3 1\n            7     3   9 1\n            8     3   4 2\n            9     9  10 1\n            10    4   5 1\n            11    9  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

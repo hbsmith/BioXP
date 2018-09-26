@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08527",
+    "name": "Arachidonate 5-lipoxygenase",
+    "definition": "Arachidonate + Oxygen <=> Leukotriene A4 + H2O",
+    "equation": "C00219 + C00007 <=> C00909 + C00001",
+    "comment": "two-step reaction (R01595+R03058)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.34"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00461": "arachidonate 5-lipoxygenase [EC:1.13.11.34]"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00012",
+    "name": "GTP:GTP guanylyltransferase",
+    "definition": "2 GTP <=> Diphosphate + P1,P4-Bis(5'-guanosyl) tetraphosphate",
+    "equation": "2 C00044 <=> C00013 + C01261",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.45"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

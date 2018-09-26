@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C13383",
+    "name": "Iodoform",
+    "names": [
+      "Iodoform"
+    ],
+    "formula": "CHI3",
+    "exact_mass": 393.7212,
+    "mol_weight": 393.7321,
+    "remark": "Same as: D01910",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "75-47-8"
+      ],
+      "PubChem": [
+        "586127"
+      ],
+      "ChEMBL": [
+        "CHEMBL1451116"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   C1c C    27.4606  -16.9403\n            2   X   I    28.6732  -16.2402\n            3   X   I    26.2483  -16.2402\n            4   X   I    27.4606  -18.3403\nBOND        3\n            1     1   3 1\n            2     1   2 1\n            3     1   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

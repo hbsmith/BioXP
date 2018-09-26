@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R03112",
+    "name": "S-Adenosyl-L-methionine:6-demethylsterigmatocystin 6-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 6-Demethylsterigmatocystin <=> S-Adenosyl-L-homocysteine + Sterigmatocystin",
+    "equation": "C00019 + C03683 <=> C00021 + C00961",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.109"
+    ],
+    "pathways": {
+      "rn00254": "Aflatoxin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K17649": "demethylsterigmatocystin 6-O-methyltransferase [EC:2.1.1.109]"
+    }
+  }
+][
+  {
+    "entry_id": "R03112",
+    "name": "S-Adenosyl-L-methionine:6-demethylsterigmatocystin 6-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 6-Demethylsterigmatocystin <=> S-Adenosyl-L-homocysteine + Sterigmatocystin",
+    "equation": "C00019 + C03683 <=> C00021 + C00961",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.109"
+    ],
+    "pathways": {
+      "rn00254": "Aflatoxin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K17649": "demethylsterigmatocystin 6-O-methyltransferase [EC:2.1.1.109]"
+    }
+  }
+]

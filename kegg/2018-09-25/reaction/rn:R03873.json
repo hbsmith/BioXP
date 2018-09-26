@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03873",
+    "name": "N-Acetylindoxyl:oxygen oxidoreductase",
+    "definition": "N-Acetylisatin <=> N-Acetylindoxyl + Oxygen",
+    "equation": "C02172 <=> C02298 + C00007",
+    "comment": "incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.3.2"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

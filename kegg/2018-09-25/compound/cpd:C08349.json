@@ -1,0 +1,105 @@
+[
+  {
+    "entry_id": "C08349",
+    "name": "beta-D-Glucosamine",
+    "names": [
+      "beta-D-Glucosamine"
+    ],
+    "formula": "C6H13NO5",
+    "exact_mass": 179.0794,
+    "mol_weight": 179.1711,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "14257-69-3"
+      ],
+      "PubChem": [
+        "10546"
+      ],
+      "ChEBI": [
+        "28393"
+      ],
+      "ChEMBL": [
+        "CHEMBL234432",
+        "CHEMBL493287"
+      ],
+      "KNApSAcK": [
+        "C00001121"
+      ],
+      "PDB-CCD": [
+        "GCS"
+      ],
+      "NIKKAJI": [
+        "J419.923E"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1y C    21.0018  -13.5468\n            2   C1y C    21.0018  -14.9498\n            3   O2x O    22.2127  -12.8422\n            4   C1b C    19.7908  -12.8422\n            5   C1y C    22.2127  -15.6426\n            6   O1a O    19.7908  -15.6426\n            7   C1y C    23.4238  -13.5468\n            8   O1a O    18.5739  -13.5468\n            9   C1y C    23.4238  -14.9498\n            10  O1a O    22.2127  -17.0458\n            11  O1a O    24.6347  -12.8422\n            12  N1a N    24.6347  -15.6426\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Down\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     5  10 1 #Up\n            10    7  11 1 #Up\n            11    9  12 1 #Down\n            12    7   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C08349",
+    "name": "beta-D-Glucosamine",
+    "names": [
+      "beta-D-Glucosamine"
+    ],
+    "formula": "C6H13NO5",
+    "exact_mass": 179.0794,
+    "mol_weight": 179.1711,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "14257-69-3"
+      ],
+      "PubChem": [
+        "10546"
+      ],
+      "ChEBI": [
+        "28393"
+      ],
+      "ChEMBL": [
+        "CHEMBL234432",
+        "CHEMBL493287"
+      ],
+      "KNApSAcK": [
+        "C00001121"
+      ],
+      "PDB-CCD": [
+        "GCS"
+      ],
+      "NIKKAJI": [
+        "J419.923E"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1y C    21.0018  -13.5468\n            2   C1y C    21.0018  -14.9498\n            3   O2x O    22.2127  -12.8422\n            4   C1b C    19.7908  -12.8422\n            5   C1y C    22.2127  -15.6426\n            6   O1a O    19.7908  -15.6426\n            7   C1y C    23.4238  -13.5468\n            8   O1a O    18.5739  -13.5468\n            9   C1y C    23.4238  -14.9498\n            10  O1a O    22.2127  -17.0458\n            11  O1a O    24.6347  -12.8422\n            12  N1a N    24.6347  -15.6426\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Down\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     5  10 1 #Up\n            10    7  11 1 #Up\n            11    9  12 1 #Down\n            12    7   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

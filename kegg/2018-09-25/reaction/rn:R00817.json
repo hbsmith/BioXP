@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R00817",
+    "name": "Catechol:oxygen 1,2-oxidoreductase(decyclizing)",
+    "definition": "Catechol + Oxygen <=> cis,cis-Muconate",
+    "equation": "C00090 + C00007 <=> C02480",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.1"
+    ],
+    "pathways": {
+      "rn00362": "Benzoate degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K03381": "catechol 1,2-dioxygenase [EC:1.13.11.1]"
+    }
+  }
+]

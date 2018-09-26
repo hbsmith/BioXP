@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C09107",
+    "name": "Catharanthine",
+    "names": [
+      "Catharanthine"
+    ],
+    "formula": "C21H24N2O2",
+    "exact_mass": 336.1838,
+    "mol_weight": 336.4275,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05854",
+      "R05858"
+    ],
+    "pathways": {
+      "map00901": "Indole alkaloid biosynthesis",
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "2468-21-5"
+      ],
+      "PubChem": [
+        "11299"
+      ],
+      "ChEBI": [
+        "3469"
+      ],
+      "KNApSAcK": [
+        "C00001704"
+      ],
+      "3DMET": [
+        "B05320"
+      ],
+      "NIKKAJI": [
+        "J15.154H"
+      ]
+    },
+    "kcf": "ATOM        25\n            1   C1x C    27.1909  -16.6695\n            2   C1z C    27.1520  -17.7242\n            3   C1y C    28.1115  -16.9440\n            4   C2y C    29.5608  -17.3667\n            5   C2x C    30.0158  -16.2979\n            6   C1y C    28.8187  -15.8897\n            7   C8y C    23.8574  -17.0431\n            8   N4x N    25.0858  -18.7697\n            9   C8y C    23.8587  -18.3462\n            10  C8x C    22.7330  -16.3781\n            11  C8x C    22.7330  -18.9970\n            12  C8x C    21.6038  -17.0431\n            13  C8x C    21.6038  -18.3462\n            14  C8y C    25.8532  -17.7058\n            15  C8y C    25.1069  -16.6515\n            16  C1x C    25.4736  -15.3988\n            17  C1x C    26.6760  -14.8958\n            18  N1y N    27.8846  -15.4612\n            19  C1x C    28.8302  -13.7691\n            20  C1b C    30.2086  -18.7196\n            21  C1a C    31.7059  -18.7062\n            22  C7a C    27.1520  -19.1242\n            23  O6a O    25.9517  -19.8171\n            24  O7a O    28.3642  -19.8241\n            25  C1a C    28.3642  -21.2241\nBOND        29\n            1     6   1 1\n            2     1   2 1\n            3     2   3 1\n            4    17  18 1\n            5     3  18 1\n            6     9  11 1\n            7    10  12 2\n            8    11  13 2\n            9     8   9 1\n            10   12  13 1\n            11   15   7 1\n            12   18  19 1 #Down\n            13   14  15 2\n            14   14   8 1\n            15   15  16 1\n            16   14   2 1\n            17    7   9 2\n            18   16  17 1\n            19    7  10 1\n            20    3   4 1\n            21    4  20 1\n            22    4   5 2\n            23   20  21 1\n            24   19   6 1\n            25    5   6 1\n            26    2  22 1 #Up\n            27   22  23 2\n            28   22  24 1\n            29   24  25 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

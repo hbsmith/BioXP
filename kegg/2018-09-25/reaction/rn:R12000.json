@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R12000",
+    "name": "siroheme carboxy-lyase",
+    "definition": "Siroheme <=> 12,18-Didecarboxysiroheme + 2 CO2",
+    "equation": "C00748 <=> C21835 + 2 C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.111"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22225": "siroheme decarboxylase [EC:4.1.1.111]"
+    }
+  }
+]

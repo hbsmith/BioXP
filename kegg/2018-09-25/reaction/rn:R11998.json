@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11998",
+    "name": "",
+    "definition": "beta-D-Mannosylphosphodecaprenol + Tetraacylated phosphatidyl-myo-inositol tetramannoside <=> Decaprenol phosphate + Tetraacylated phosphatidyl-myo-inositol pentamannoside",
+    "equation": "C04150 + G13111 <=> C02970 + G13113",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn00571": "Lipoarabinomannan (LAM) biosynthesis"
+    },
+    "orthologs": {
+      "K13669": "alpha-1,2-mannosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

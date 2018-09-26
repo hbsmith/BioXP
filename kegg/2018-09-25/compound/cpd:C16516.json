@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C16516",
+    "name": "Indolylmethylthiohydroximate",
+    "names": [
+      "Indolylmethylthiohydroximate",
+      "(E)-2-(1H-Indol-3-yl)-1-thioacetohydroximate"
+    ],
+    "formula": "C10H10N2OS",
+    "exact_mass": 206.0514,
+    "mol_weight": 206.2642,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08164",
+      "R08170"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism",
+      "map00966": "Glucosinolate biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "enzymes": [
+      "2.4.1.195",
+      "4.4.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "51090845"
+      ],
+      "ChEBI": [
+        "80544"
+      ],
+      "KNApSAcK": [
+        "C00007397"
+      ],
+      "NIKKAJI": [
+        "J2.599.576G"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    18.9870  -16.3983\n            2   C1b C    20.1176  -15.7338\n            3   C2c C    21.2564  -16.3939\n            4   S1a S    21.3143  -17.7081\n            5   N2b N    22.3888  -15.7278\n            6   C8y C    17.6366  -15.9388\n            7   C8y C    16.7823  -17.0811\n            8   N4x N    17.6047  -18.2465\n            9   C8x C    18.9673  -17.8246\n            10  C8x C    17.0850  -14.6522\n            11  C8x C    15.6951  -14.4866\n            12  C8x C    14.8407  -15.6289\n            13  C8x C    15.3924  -16.9155\n            14  O1b O    22.4135  -14.1414\nBOND        15\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 2\n            5     1   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     1   9 2\n            10    6  10 2\n            11   10  11 1\n            12   11  12 2\n            13   12  13 1\n            14    7  13 2\n            15    5  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

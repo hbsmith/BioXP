@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C06669",
+    "name": "(5R)-Carbapen-2-em-3-carboxylate",
+    "names": [
+      "(5R)-Carbapen-2-em-3-carboxylate",
+      "1-Carbapen-2-em-3-carboxylic acid",
+      "(5R)-Carbapenem-3-carboxylic acid",
+      "(5R)-Carbapenem-3-carboxylate",
+      "(5R)-7-Oxo-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylate"
+    ],
+    "formula": "C7H7NO3",
+    "exact_mass": 153.0426,
+    "mol_weight": 153.1354,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10415",
+      "R10736"
+    ],
+    "pathways": {
+      "map00332": "Carbapenem biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.14.20.3",
+      "1.14.20.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8894"
+      ],
+      "ChEBI": [
+        "615"
+      ],
+      "ChEMBL": [
+        "CHEMBL1240705"
+      ],
+      "NIKKAJI": [
+        "J1.466.424F"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   N1y N    24.5051  -17.5346\n            2   C1y C    24.5051  -16.1323\n            3   C2y C    25.8372  -17.9669\n            4   C5x C    23.1087  -17.5287\n            5   C1x C    23.1087  -16.1323\n            6   C1x C    25.8430  -15.7058\n            7   C2x C    26.6611  -16.8392\n            8   C6a C    26.2637  -19.2992\n            9   O5x O    22.1095  -18.5103\n            10  O6a O    27.6309  -19.5971\n            11  O6a O    25.3231  -20.3391\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 2\n            7     3   8 1\n            8     4   9 2\n            9     8  10 1\n            10    8  11 2\n            11    4   5 1\n            12    6   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

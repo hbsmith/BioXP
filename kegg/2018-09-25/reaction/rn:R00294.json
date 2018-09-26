@@ -1,0 +1,26 @@
+[
+  {
+    "entry_id": "R00294",
+    "name": "nitrous-oxide:ferricytochrome-c oxidoreductase",
+    "definition": "2 Nitric oxide + 2 Ferrocytochrome c + 2 H+ <=> Nitrous oxide + 2 Ferricytochrome c + H2O",
+    "equation": "2 C00533 + 2 C00126 + 2 C00080 <=> C00887 + 2 C00125 + C00001",
+    "comment": "The acceptor is cytochrome c551.",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.2.5"
+    ],
+    "pathways": {
+      "rn00910": "Nitrogen metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K02164": "nitric oxide reductase NorE protein",
+      "K02305": "nitric oxide reductase subunit C",
+      "K02448": "nitric oxide reductase NorD protein",
+      "K04561": "nitric oxide reductase subunit B [EC:1.7.2.5]",
+      "K04747": "nitric oxide reductase NorF protein",
+      "K04748": "nitric oxide reductase NorQ protein"
+    }
+  }
+]

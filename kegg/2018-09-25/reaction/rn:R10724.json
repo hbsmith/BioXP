@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10724",
+    "name": "(2-aminoethyl)phosphonate,2-oxoglutarate:oxygen oxidoreductase (1-hydroxylating)",
+    "definition": "2-Aminoethylphosphonate + 2-Oxoglutarate + Oxygen <=> (2-Amino-1-hydroxyethyl)phosphonate + Succinate + CO2",
+    "equation": "C03557 + C00026 + C00007 <=> C05678 + C00042 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.46"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism"
+    },
+    "orthologs": {
+      "K21195": "2-aminoethylphosphonate dioxygenase [EC:1.14.11.46]"
+    }
+  }
+]

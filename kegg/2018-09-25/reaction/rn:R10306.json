@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10306",
+    "name": "S-adenosyl-L-methionine:2-(3-carboxy-3-aminopropyl)-L-histidine-[translation elongation factor 2] methyltransferase",
+    "definition": "3 S-Adenosyl-L-methionine + Peptide 2-(3-carboxy-3-aminopropyl)-L-histidine <=> 3 S-Adenosyl-L-homocysteine + Peptide diphthine",
+    "equation": "3 C00019 + C04441 <=> 3 C00021 + C01573",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.98"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K20215": "diphthine synthase [EC:2.1.1.98]"
+    }
+  }
+]

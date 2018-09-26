@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C19697",
+    "name": "Hypochlorous acid",
+    "names": [
+      "Hypochlorous acid",
+      "Hypochlorite",
+      "HClO"
+    ],
+    "formula": "HClO",
+    "exact_mass": 51.9716,
+    "mol_weight": 52.4603,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09564"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.11.2.2"
+    ],
+    "dblinks": {
+      "CAS": [
+        "7790-92-3"
+      ],
+      "PubChem": [
+        "135626165"
+      ],
+      "ChEMBL": [
+        "CHEMBL1616046"
+      ]
+    },
+    "kcf": "ATOM        2\n            1   X   Cl   13.6500  -13.7200\n            2   O1a O    15.0500  -13.7200\nBOND        1\n            1     1   2 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

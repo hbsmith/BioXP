@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C15125",
+    "name": "N-(Cyclohexylmethyl)-N-methylbenzenamine",
+    "names": [
+      "N-(Cyclohexylmethyl)-N-methylbenzenamine",
+      "N-Methyl-N-phenylcyclohexanemethylamine"
+    ],
+    "formula": "C14H21N",
+    "exact_mass": 203.1674,
+    "mol_weight": 203.3232,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17396122"
+      ],
+      "ChEBI": [
+        "79643"
+      ],
+      "NIKKAJI": [
+        "J2.793.055G"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C1y C    22.7088  -13.4810\n            2   C1b C    23.9133  -14.1827\n            3   C1x C    21.4927  -14.1827\n            4   C1x C    22.7088  -12.0836\n            5   N1c N    25.1237  -13.4810\n            6   C1x C    20.2823  -13.4810\n            7   C1x C    21.4927  -11.3819\n            8   C8y C    26.3341  -14.1827\n            9   C1a C    25.1296  -12.0836\n            10  C1x C    20.2823  -12.0836\n            11  C8x C    27.5445  -13.4810\n            12  C8x C    26.3283  -15.5801\n            13  C8x C    28.7608  -14.1827\n            14  C8x C    27.5445  -16.2877\n            15  C8x C    28.7608  -15.5860\nBOND        16\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     4   7 1\n            7     5   8 1\n            8     5   9 1\n            9     6  10 1\n            10    8  11 2\n            11    8  12 1\n            12   11  13 1\n            13   12  14 2\n            14   13  15 2\n            15    7  10 1\n            16   14  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

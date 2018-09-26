@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C14595",
+    "name": "Methylnitrosourea",
+    "names": [
+      "Methylnitrosourea",
+      "N-Methyl-N-nitrosourea",
+      "NMH"
+    ],
+    "formula": "C2H5N3O2",
+    "exact_mass": 103.0382,
+    "mol_weight": 103.08,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map07040": "Antineoplastics - alkylating agents"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "684-93-5"
+      ],
+      "PubChem": [
+        "17395595"
+      ],
+      "ChEBI": [
+        "50102"
+      ],
+      "ChEMBL": [
+        "CHEMBL288958"
+      ],
+      "NIKKAJI": [
+        "J3.020A"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   N1a N    23.5293  -17.0953\n            2   C5a C    24.7288  -16.3897\n            3   N1c N    25.9283  -17.0953\n            4   O5a O    24.7288  -14.9785\n            5   C1a C    27.1278  -16.3897\n            6   N2b N    25.9283  -18.5064\n            7   O3a O    24.7062  -19.2120\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n            4     3   5 1\n            5     3   6 1\n            6     6   7 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

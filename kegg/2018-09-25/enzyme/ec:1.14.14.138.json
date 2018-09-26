@@ -1,0 +1,196 @@
+[
+  {
+    "entry_id": "1.14.14.138",
+    "name": "lithocholate 6beta-hydroxylase",
+    "names": [
+      "lithocholate 6beta-hydroxylase",
+      "lithocholate 6beta-monooxygenase",
+      "CYP3A10",
+      "6beta-hydroxylase",
+      "cytochrome P450 3A10",
+      "lithocholic acid 6beta-hydroxylase"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "lithocholate,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (6beta-hydroxylating)",
+    "reaction": "lithocholate + [reduced NADPH---hemoprotein reductase] + O2 = 6beta-hydroxylithocholate + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R07203]",
+    "all_reac": "R07203",
+    "iubmb_reactions": [
+      "R07203"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "lithocholate [CPD:C03990]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "6beta-hydroxylithocholate [CPD:C15515]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein from Mesocricetus auratus (golden hamster). Expression of the gene for this enzyme is 50-fold higher in male compared to female hamsters [1].",
+    "pathways": {
+    },
+    "orthologs": {
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.138"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.138"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.138"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.138"
+      ],
+      "CAS": [
+        "9075-83-6"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Teixeira J",
+          "Gil G."
+        ],
+        "title": "Cloning, expression, and regulation of lithocholic acid 6 beta-hydroxylase.",
+        "journal": "J Biol Chem",
+        "volume": "266",
+        "issue": "",
+        "pages": "21030-6",
+        "year": "1991",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:1840595]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chang TK",
+          "Teixeira J",
+          "Gil G",
+          "Waxman DJ."
+        ],
+        "title": "The lithocholic acid 6 beta-hydroxylase cytochrome P-450, CYP 3A10, is an active catalyst of steroid-hormone 6 beta-hydroxylation.",
+        "journal": "Biochem J 291",
+        "volume": "( Pt 2)",
+        "issue": "",
+        "pages": "429-33",
+        "year": "1993",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:8484723]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Subramanian A",
+          "Wang J",
+          "Gil G."
+        ],
+        "title": "STAT 5 and NF-Y are involved in expression and growth hormone-mediated sexually dimorphic regulation of cytochrome P450 3A10/lithocholic acid 6beta-hydroxylase.",
+        "journal": "Nucleic Acids Res 26:2173-8 (1998) DOI:10.1093/nar/26.9.2173",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:9547277]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Russell DW."
+        ],
+        "title": "The enzymes, regulation, and genetics of bile acid synthesis.",
+        "journal": "Annu Rev Biochem 72:137-74 (2003) DOI:10.1146/annurev.biochem.72.121801.161712",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:12543708]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

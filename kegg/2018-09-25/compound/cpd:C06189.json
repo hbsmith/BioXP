@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C06189",
+    "name": "Cyclic 2,3-bisphospho-D-glycerate",
+    "names": [
+      "Cyclic 2,3-bisphospho-D-glycerate",
+      "Cyclic 2,3-diphospho-D-glycerate",
+      "Cyclic glycerate-2,3P2",
+      "cDPG"
+    ],
+    "formula": "C3H6O9P2",
+    "exact_mass": 247.9487,
+    "mol_weight": 248.0219,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03298"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.6.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8440"
+      ],
+      "3DMET": [
+        "B05176"
+      ],
+      "NIKKAJI": [
+        "J305.409H"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C1y C    25.7543  -16.6942\n            2   O2x O    26.4140  -17.8558\n            3   C1x C    24.4060  -16.6883\n            4   C6a C    26.4431  -15.4799\n            5   P1b P    26.4083  -19.2101\n            6   O2x O    23.7346  -17.8499\n            7   O6a O    27.8384  -15.4799\n            8   O6a O    25.7369  -14.2658\n            9   O2x O    25.0306  -20.1324\n            10  O1c O    27.7099  -18.8482\n            11  O1c O    27.5697  -20.1615\n            12  P1b P    23.7288  -19.2042\n            13  O1c O    22.4153  -18.8423\n            14  O1c O    22.6256  -20.1557\nBOND        14\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     4   7 1\n            7     4   8 2\n            8     5   9 1\n            9     5  10 1\n            10    5  11 2\n            11    6  12 1\n            12   12  13 1\n            13   12  14 2\n            14    9  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

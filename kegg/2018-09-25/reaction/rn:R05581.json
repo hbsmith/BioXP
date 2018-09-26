@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R05581",
+    "name": "6-hydroxycyclohex-1-ene-1-carbonyl-CoA:NAD+ 6-oxidoreductase",
+    "definition": "6-Hydroxycyclohex-1-ene-1-carbonyl-CoA + NAD+ <=> 6-Oxocyclohex-1-ene-1-carbonyl-CoA + NADH + H+",
+    "equation": "C06749 + C00003 <=> C09821 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.368"
+    ],
+    "pathways": {
+      "rn00362": "Benzoate degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K07538": "6-hydroxycyclohex-1-ene-1-carbonyl-CoA dehydrogenase [EC:1.1.1.368]"
+    }
+  }
+]

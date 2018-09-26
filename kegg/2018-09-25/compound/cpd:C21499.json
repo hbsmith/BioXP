@@ -1,0 +1,36 @@
+[
+  {
+    "entry_id": "C21499",
+    "name": "2-Acyl-4-prenylphloroglucinol",
+    "names": [
+      "2-Acyl-4-prenylphloroglucinol"
+    ],
+    "formula": "C12H13O4R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R11609",
+      "R11610"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.5.1.136",
+      "2.5.1.137"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "333497482"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C8y C    25.2524  -22.2530\n            2   C8y C    25.2524  -23.6457\n            3   C8y C    26.4362  -24.3421\n            4   C8y C    27.6897  -23.6457\n            5   C8y C    27.6897  -22.2530\n            6   C8x C    26.4362  -21.5567\n            7   O1a O    24.0686  -21.5567\n            8   O1a O    28.9431  -21.5567\n            9   O1a O    26.4362  -25.7348\n            10  C5a C    28.9431  -24.3421\n            11  R   R    30.1269  -23.6457\n            12  O5a O    28.9431  -25.7348\n            13  C1b C    24.0576  -24.3600\n            14  C2b C    22.8451  -23.6600\n            15  C2c C    21.6327  -24.3600\n            16  C1a C    20.4203  -23.6600\n            17  C1a C    21.6327  -25.7600\nBOND        17\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 1\n            8     5   8 1\n            9     3   9 1\n            10    4  10 1\n            11   10  11 1\n            12   10  12 2\n            13    2  13 1\n            14   13  14 1\n            15   14  15 2\n            16   15  16 1\n            17   15  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

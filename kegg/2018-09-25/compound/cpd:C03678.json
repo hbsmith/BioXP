@@ -1,0 +1,105 @@
+[
+  {
+    "entry_id": "C03678",
+    "name": "4-Amino-3-hydroxybutanoate",
+    "names": [
+      "4-Amino-3-hydroxybutanoate",
+      "4-Amino-3-hydroxybutanoic acid",
+      "gamma-Amino-beta-hydroxybutyric acid",
+      "GABOB"
+    ],
+    "formula": "C4H9NO3",
+    "exact_mass": 119.0582,
+    "mol_weight": 119.1192,
+    "remark": "Same as: D00174",
+    "comment": "",
+    "reactions": [
+      "R04135"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.1.1.16"
+    ],
+    "dblinks": {
+      "CAS": [
+        "352-21-6"
+      ],
+      "PubChem": [
+        "6453"
+      ],
+      "ChEBI": [
+        "11955",
+        "16080"
+      ],
+      "ChEMBL": [
+        "CHEMBL93515"
+      ],
+      "3DMET": [
+        "B00618"
+      ],
+      "NIKKAJI": [
+        "J5.691J"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1c C    17.7899  -15.1402\n            2   C1b C    19.0073  -15.8359\n            3   C1b C    16.5789  -15.8359\n            4   O1a O    17.7899  -13.7361\n            5   C6a C    20.2183  -15.1402\n            6   N1a N    15.3679  -15.1402\n            7   O6a O    21.4293  -15.8422\n            8   O6a O    20.2119  -13.7361\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     5   7 1\n            7     5   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C03678",
+    "name": "4-Amino-3-hydroxybutanoate",
+    "names": [
+      "4-Amino-3-hydroxybutanoate",
+      "4-Amino-3-hydroxybutanoic acid",
+      "gamma-Amino-beta-hydroxybutyric acid",
+      "GABOB"
+    ],
+    "formula": "C4H9NO3",
+    "exact_mass": 119.0582,
+    "mol_weight": 119.1192,
+    "remark": "Same as: D00174",
+    "comment": "",
+    "reactions": [
+      "R04135"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.1.1.16"
+    ],
+    "dblinks": {
+      "CAS": [
+        "352-21-6"
+      ],
+      "PubChem": [
+        "6453"
+      ],
+      "ChEBI": [
+        "11955",
+        "16080"
+      ],
+      "ChEMBL": [
+        "CHEMBL93515"
+      ],
+      "3DMET": [
+        "B00618"
+      ],
+      "NIKKAJI": [
+        "J5.691J"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1c C    17.7899  -15.1402\n            2   C1b C    19.0073  -15.8359\n            3   C1b C    16.5789  -15.8359\n            4   O1a O    17.7899  -13.7361\n            5   C6a C    20.2183  -15.1402\n            6   N1a N    15.3679  -15.1402\n            7   O6a O    21.4293  -15.8422\n            8   O6a O    20.2119  -13.7361\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     5   7 1\n            7     5   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

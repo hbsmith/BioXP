@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C03753",
+    "name": "2-Chloro-1,4-naphthoquinone",
+    "names": [
+      "2-Chloro-1,4-naphthoquinone"
+    ],
+    "formula": "C10H5ClO2",
+    "exact_mass": 191.9978,
+    "mol_weight": 192.5985,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1010-60-2"
+      ],
+      "PubChem": [
+        "6512"
+      ],
+      "ChEBI": [
+        "28160"
+      ],
+      "ChEMBL": [
+        "CHEMBL349147"
+      ],
+      "NIKKAJI": [
+        "J20.958I"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    17.7985  -14.1075\n            2   C8y C    17.7985  -15.5090\n            3   C5x C    19.0153  -13.3940\n            4   C8x C    16.5818  -13.4130\n            5   C5x C    19.0217  -16.2098\n            6   C8x C    16.5818  -16.2162\n            7   C2y C    20.2385  -14.1012\n            8   O5x O    19.0090  -12.0115\n            9   C8x C    15.3840  -14.1075\n            10  C2x C    20.2450  -15.5155\n            11  O5x O    19.0217  -17.5987\n            12  C8x C    15.3840  -15.5090\n            13  X   Cl   21.4362  -13.4005\nBOND        14\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     3   8 2\n            8     4   9 2\n            9     5  10 1\n            10    5  11 2\n            11    6  12 2\n            12    7  13 1\n            13    7  10 2\n            14    9  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

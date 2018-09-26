@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04518",
+    "name": "(15S)-15-Hydroxy-5,8,11-cis-13-trans-icosatetraenoate:NADP+ 15-oxidoreductase",
+    "definition": "(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate + NADP+ <=> 15-OxoETE + NADPH + H+",
+    "equation": "C04742 + C00006 <=> C04577 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.232"
+    ],
+    "pathways": {
+      "rn00590": "Arachidonic acid metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

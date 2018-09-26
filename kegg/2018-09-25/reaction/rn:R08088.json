@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08088",
+    "name": "citronellyl-CoA ligase",
+    "definition": "Citronellate + CoA + ATP <=> Citronellyl-CoA + AMP + Diphosphate",
+    "equation": "C16462 + C00010 + C00002 <=> C16464 + C00020 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.-"
+    ],
+    "pathways": {
+      "rn00281": "Geraniol degradation"
+    },
+    "orthologs": {
+      "K13776": "citronellyl-CoA synthetase [EC:6.2.1.-]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07929",
+    "name": "4-hydroxycinnamoyl-CoA:delphinidin-3-O-glucoside 6''-O-acyltransferase",
+    "definition": "Delphinidin 3-O-glucoside + p-Coumaroyl-CoA <=> Delphinidin 3-(6-p-coumaroyl)glucoside + CoA",
+    "equation": "C12138 + C00223 <=> C16370 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.215"
+    ],
+    "pathways": {
+      "rn00942": "Anthocyanin biosynthesis"
+    },
+    "orthologs": {
+      "K21383": "anthocyanidin 3-O-glucoside 6''-O-acyltransferase [EC:2.3.1.215]"
+    }
+  }
+]

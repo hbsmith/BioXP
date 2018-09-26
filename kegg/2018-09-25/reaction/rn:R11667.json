@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11667",
+    "name": "",
+    "definition": "Pyrrolyl-2-carboxyl-S-[acyl-carrier protein] + Malonyl-CoA + L-Serine <=> 4-Hydroxy-2,2'-bipyrrole-5-methanol + CoA + Acyl-carrier protein + 2 CO2 + H2O",
+    "equation": "C21567 + C00083 + C00065 <=> C21568 + C00010 + C00229 + 2 C00011 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00333": "Prodigiosin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21784": "4-hydroxy-2,2'-bipyrrole-5-methanol synthase"
+    }
+  }
+]

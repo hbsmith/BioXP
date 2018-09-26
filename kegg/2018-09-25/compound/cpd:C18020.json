@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C18020",
+    "name": "p-Menth-8-ene-1,2-diol",
+    "names": [
+      "p-Menth-8-ene-1,2-diol",
+      "1-Methyl-4-(1-methylethenyl)-1,2-cyclohexanediol",
+      "Menth-8-ene-1,2-diol"
+    ],
+    "formula": "C10H18O2",
+    "exact_mass": 170.1307,
+    "mol_weight": 170.2487,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08919"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.297"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1946-00-5"
+      ],
+      "PubChem": [
+        "96024240"
+      ],
+      "ChEBI": [
+        "17219"
+      ],
+      "KNApSAcK": [
+        "C00010924"
+      ],
+      "NIKKAJI": [
+        "J199.764E"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1x C    26.6564  -22.9736\n            2   C1x C    26.6564  -24.3776\n            3   C1y C    27.8762  -25.0829\n            4   C1x C    29.0886  -24.3776\n            5   C1y C    29.0886  -22.9736\n            6   C1z C    27.8762  -22.2752\n            7   O1a O    30.2988  -22.2760\n            8   C2c C    27.8779  -26.4870\n            9   C1a C    26.6620  -27.1869\n            10  C2a C    29.0955  -27.1839\n            11  C1a C    26.8013  -21.4332\n            12  O1a O    28.8685  -21.2829\nBOND        12\n            1     5   6 1\n            2     6   1 1\n            3     1   2 1\n            4     5   7 1\n            5     2   3 1\n            6     3   8 1\n            7     3   4 1\n            8     8   9 1\n            9     4   5 1\n            10    8  10 2\n            11    6  11 1\n            12    6  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

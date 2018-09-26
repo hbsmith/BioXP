@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10535",
+    "name": "carbonyl-sulfide hydrogen-sulfide-lyase (decarboxylating)",
+    "definition": "Carbonyl sulfide + H2O <=> CO2 + Hydrogen sulfide",
+    "equation": "C07331 + C00001 <=> C00011 + C00283",
+    "comment": "second step of two-step reaction (see R10538, R10534+R10535)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.13.1.5",
+      "3.13.1.7"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K20499": "carbon disulfide hydrolase [EC:3.13.1.5]"
+    }
+  }
+]

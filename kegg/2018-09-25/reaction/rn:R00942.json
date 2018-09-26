@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00942",
+    "name": "Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)",
+    "definition": "ATP + Tetrahydrofolate + L-Glutamate <=> ADP + Orthophosphate + THF-L-glutamate",
+    "equation": "C00002 + C00101 + C00025 <=> C00008 + C00009 + C09332",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.17"
+    ],
+    "pathways": {
+      "rn00790": "Folate biosynthesis"
+    },
+    "orthologs": {
+      "K01930": "folylpolyglutamate synthase [EC:6.3.2.17]",
+      "K11754": "dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]",
+      "K22099": "dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]"
+    }
+  }
+]

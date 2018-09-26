@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11981",
+    "name": "ent-cassa-12,15-diene,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (ent-3beta-hydroxycassa-12,15-dien-2-one forming)",
+    "definition": "ent-Cassa-12,15-diene + 3 [Reduced NADPH---hemoprotein reductase] + 3 Oxygen <=> ent-3beta-Hydroxycassa-12,15-dien-2-one + 3 [Oxidized NADPH---hemoprotein reductase] + 4 H2O",
+    "equation": "C18226 + 3 C03024 + 3 C00007 <=> C21826 + 3 C03161 + 4 C00001",
+    "comment": "three-step reaction (see R11982+R11983+R11984, R11982+R11985+R11986)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.69"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K21291": "ent-cassadiene hydroxylase [EC:1.14.14.69]"
+    }
+  }
+][
+  {
+    "entry_id": "R11981",
+    "name": "ent-cassa-12,15-diene,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (ent-3beta-hydroxycassa-12,15-dien-2-one forming)",
+    "definition": "ent-Cassa-12,15-diene + 3 [Reduced NADPH---hemoprotein reductase] + 3 Oxygen <=> ent-3beta-Hydroxycassa-12,15-dien-2-one + 3 [Oxidized NADPH---hemoprotein reductase] + 4 H2O",
+    "equation": "C18226 + 3 C03024 + 3 C00007 <=> C21826 + 3 C03161 + 4 C00001",
+    "comment": "three-step reaction (see R11982+R11983+R11984, R11982+R11985+R11986)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.69"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K21291": "ent-cassadiene hydroxylase [EC:1.14.14.69]"
+    }
+  }
+]

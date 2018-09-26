@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09499",
+    "name": "hydrogen-sulfide:flavocytochrome c oxidoreductase",
+    "definition": "Hydrogen sulfide + 2 Ferricytochrome c <=> Sulfur + 2 Ferrocytochrome c + 2 H+",
+    "equation": "C00283 + 2 C00125 <=> C00087 + 2 C00126 + 2 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.2.3"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K17229": "sulfide dehydrogenase [flavocytochrome c] flavoprotein chain [EC:1.8.2.3]",
+      "K17230": "cytochrome subunit of sulfide dehydrogenase"
+    }
+  }
+]

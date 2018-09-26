@@ -1,0 +1,889 @@
+[
+  {
+    "entry_id": "1.14.14.80",
+    "name": "long-chain fatty acid omega-monooxygenase",
+    "names": [
+      "long-chain fatty acid omega-monooxygenase",
+      "CYP704B1 (gene name)",
+      "CYP52M1 (gene name)",
+      "CYP4A (gene name)",
+      "CYP86A (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "long-chain fatty acid,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (omega-hydroxylating)",
+    "reaction": "a long-chain fatty acid + [reduced NADPH---hemoprotein reductase] + O2 = an omega-hydroxy-long-chain fatty acid + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R12072]",
+    "all_reac": "R12072 > R07041 R09451 R09452; (other) R01348 R07046",
+    "iubmb_reactions": [
+      "R12072 > R07041 R09451 R09452"
+    ],
+    "kegg_reactions": [
+      "R01348 R07046"
+    ],
+    "substrates": [
+      "long-chain fatty acid [CPD:C00638]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "omega-hydroxy-long-chain fatty acid [CPD:C21886]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme thiolate) enzyme. The plant enzyme CYP704B1, which is involved in the synthesis of sporopollenin, a complex polymer found at the outer layer of spores and pollen, acts on palmitate (18:0), stearate (18:0) and oleate (18:1). The plant enzyme CYP86A1 also acts on laurate (12:0). The enzyme from the yeast Starmerella bombicola (CYP52M1) acts on C16 to C20 saturated and unsaturated fatty acids and can also hydroxylate the (omega-1) position. The mammalian enzyme CYP4A acts on laurate (12:0), myristate (14:0), palmitate (16:0), oleate (18:1), and arachidonate (20:4).",
+    "pathways": {
+      "ec00071": "Fatty acid degradation",
+      "ec00073": "Cutin, suberine and wax biosynthesis",
+      "ec01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K07425": "long-chain fatty acid omega-monooxygenase",
+      "K15401": "long-chain fatty acid omega-monooxygenase",
+      "K20495": "long-chain fatty acid omega-monooxygenase",
+      "K22887": "long-chain fatty acid omega-monooxygenase"
+    },
+    "genes": {
+      "hsa": [
+        "1579",
+        "284541"
+      ],
+      "ptr": [
+        "456835",
+        "739864"
+      ],
+      "pps": [
+        "100972678",
+        "100972920"
+      ],
+      "ggo": [
+        "101144011"
+      ],
+      "pon": [
+        "100173781"
+      ],
+      "nle": [
+        "100588910"
+      ],
+      "mcc": [
+        "709461",
+        "721404"
+      ],
+      "mcf": [
+        "102123589",
+        "102124651"
+      ],
+      "csab": [
+        "103224871"
+      ],
+      "rro": [
+        "104662101"
+      ],
+      "rbb": [
+        "108535621"
+      ],
+      "cjc": [
+        "100387637",
+        "100409032"
+      ],
+      "sbq": [
+        "101042627",
+        "101050377"
+      ],
+      "mmu": [
+        "100040843",
+        "13117",
+        "13118",
+        "13119",
+        "230639",
+        "277753",
+        "435802",
+        "666168"
+      ],
+      "rno": [
+        "24306",
+        "266674",
+        "298423",
+        "50549"
+      ],
+      "cge": [
+        "100767149",
+        "100767636",
+        "100767921",
+        "100768211",
+        "100768783"
+      ],
+      "ngi": [
+        "103740657"
+      ],
+      "hgl": [
+        "101696405",
+        "101699948",
+        "101700306"
+      ],
+      "ccan": [
+        "109680520",
+        "109695457"
+      ],
+      "ocu": [
+        "100328576",
+        "100328612",
+        "100328944",
+        "100328946",
+        "100341018",
+        "103350283"
+      ],
+      "tup": [
+        "102473669",
+        "102474347",
+        "102476589",
+        "102477006",
+        "102497099"
+      ],
+      "cfa": [
+        "475366",
+        "482506",
+        "610385"
+      ],
+      "aml": [
+        "100470061"
+      ],
+      "umr": [
+        "103670742"
+      ],
+      "oro": [
+        "101381707"
+      ],
+      "fca": [
+        "101083281",
+        "101094994",
+        "102902186",
+        "111559047"
+      ],
+      "ptg": [
+        "102968444",
+        "102968736"
+      ],
+      "aju": [
+        "106973482",
+        "106973520",
+        "106974137"
+      ],
+      "bta": [
+        "511890",
+        "516085"
+      ],
+      "bom": [
+        "102268504",
+        "102270081",
+        "102286095"
+      ],
+      "biu": [
+        "109556325",
+        "109556328"
+      ],
+      "phd": [
+        "102323302",
+        "102327338",
+        "102328255",
+        "102336491"
+      ],
+      "chx": [
+        "102168409",
+        "102172683",
+        "102174619",
+        "102178903",
+        "102181495",
+        "108633240"
+      ],
+      "oas": [
+        "101105610",
+        "101105863",
+        "101113120",
+        "101113645"
+      ],
+      "ssc": [
+        "100522145",
+        "403326"
+      ],
+      "cfr": [
+        "102523990"
+      ],
+      "cdk": [
+        "105092933"
+      ],
+      "bacu": [
+        "103000297",
+        "103000849"
+      ],
+      "lve": [
+        "103085729",
+        "103086011"
+      ],
+      "oor": [
+        "101272104",
+        "101272359",
+        "101277841",
+        "101283895"
+      ],
+      "ecb": [
+        "100064020",
+        "100064092"
+      ],
+      "epz": [
+        "103565698",
+        "103567431"
+      ],
+      "eai": [
+        "106833744",
+        "106833789",
+        "106833867"
+      ],
+      "myb": [
+        "102261051",
+        "102262344"
+      ],
+      "myd": [
+        "102774956"
+      ],
+      "rss": [
+        "109441074",
+        "109456868"
+      ],
+      "tmu": [
+        "101345950",
+        "101346203"
+      ],
+      "mdo": [
+        "100023663"
+      ],
+      "shr": [
+        "100924239",
+        "100924766",
+        "100925023",
+        "111720856"
+      ],
+      "ath": [
+        "AT1G69500",
+        "AT5G58860"
+      ],
+      "aly": [
+        "ARALYDRAFT_476077",
+        "ARALYDRAFT_497374",
+        "ARALYDRAFT_899067"
+      ],
+      "crb": [
+        "17876473",
+        "17896290"
+      ],
+      "csat": [
+        "104701580",
+        "104726463",
+        "104736111",
+        "104750786",
+        "104761986",
+        "104788010"
+      ],
+      "eus": [
+        "EUTSA_v10013214mg",
+        "EUTSA_v10018405mg"
+      ],
+      "brp": [
+        "103831345",
+        "103851611",
+        "103856662"
+      ],
+      "bna": [
+        "106357195",
+        "106387137",
+        "106405268",
+        "106417417",
+        "106436003"
+      ],
+      "boe": [
+        "106299122",
+        "106325857",
+        "106332387"
+      ],
+      "thj": [
+        "104799404",
+        "104811973",
+        "104814908",
+        "104822043",
+        "104825102"
+      ],
+      "cpap": [
+        "110810038",
+        "110810279",
+        "110812545",
+        "110812568",
+        "110825812"
+      ],
+      "cit": [
+        "102607941",
+        "102613603"
+      ],
+      "cic": [
+        "CICLE_v10010274mg",
+        "CICLE_v10030097mg"
+      ],
+      "tcc": [
+        "18588304",
+        "18590528",
+        "18603166",
+        "18610369"
+      ],
+      "gra": [
+        "105761893",
+        "105764502",
+        "105765892",
+        "105788721",
+        "105796537"
+      ],
+      "ghi": [
+        "107886047",
+        "107906610",
+        "107918628",
+        "107928745",
+        "107941574",
+        "107944444",
+        "107946410",
+        "107954198",
+        "107959180",
+        "107960045"
+      ],
+      "dzi": [
+        "111287089",
+        "111302131",
+        "111304340"
+      ],
+      "egr": [
+        "104422403",
+        "104432660",
+        "104433440"
+      ],
+      "gmx": [
+        "100787559",
+        "100787802",
+        "100788343"
+      ],
+      "pvu": [
+        "PHAVU_006G065000g",
+        "PHAVU_008G262600g",
+        "PHAVU_009G081700g",
+        "PHAVU_010G126900g"
+      ],
+      "vra": [
+        "106760437",
+        "106764310",
+        "106773103",
+        "106775311"
+      ],
+      "var": [
+        "108329860",
+        "108342444",
+        "108345240",
+        "108347322"
+      ],
+      "ccaj": [
+        "109795231",
+        "109806524",
+        "109807855"
+      ],
+      "mtr": [
+        "MTR_3g463060",
+        "MTR_4g119660",
+        "MTR_5g019140",
+        "MTR_5g019165",
+        "MTR_5g070010"
+      ],
+      "cam": [
+        "101488875",
+        "101497352",
+        "101510760"
+      ],
+      "lja": [
+        "Lj0g3v0102229.1",
+        "Lj0g3v0132879.1",
+        "Lj3g3v2576010.1"
+      ],
+      "adu": [
+        "107458375",
+        "107470679",
+        "107471687",
+        "107493120"
+      ],
+      "aip": [
+        "107608237",
+        "107609505",
+        "107621191",
+        "107621983",
+        "107623710"
+      ],
+      "lang": [
+        "109350278",
+        "109356683",
+        "109359423"
+      ],
+      "fve": [
+        "101294542",
+        "101301291"
+      ],
+      "pper": [
+        "18774479",
+        "18789925"
+      ],
+      "pmum": [
+        "103320591",
+        "103321679",
+        "103325810"
+      ],
+      "pavi": [
+        "110751331",
+        "110758705"
+      ],
+      "mdm": [
+        "103418919",
+        "103422686",
+        "103451801",
+        "108169307"
+      ],
+      "pxb": [
+        "103963213"
+      ],
+      "zju": [
+        "107410846",
+        "107428952"
+      ],
+      "csv": [
+        "101214516",
+        "101222076"
+      ],
+      "cmo": [
+        "103485770",
+        "103497092"
+      ],
+      "mcha": [
+        "111018948",
+        "111023497"
+      ],
+      "cmax": [
+        "111469581",
+        "111471352",
+        "111492855"
+      ],
+      "cmos": [
+        "111450376",
+        "111452582",
+        "111464921"
+      ],
+      "cpep": [
+        "111783196",
+        "111788545",
+        "111789077",
+        "111805183"
+      ],
+      "rcu": [
+        "8276374",
+        "8281833"
+      ],
+      "jcu": [
+        "105630467",
+        "105630644"
+      ],
+      "hbr": [
+        "110640242",
+        "110647960",
+        "110666355",
+        "110672616"
+      ],
+      "pop": [
+        "7460700",
+        "7468004",
+        "7481488",
+        "7482081"
+      ],
+      "jre": [
+        "108980314",
+        "109009280",
+        "109017574",
+        "109017854",
+        "109018006"
+      ],
+      "vvi": [
+        "100243236",
+        "100258457"
+      ],
+      "sly": [
+        "101247053",
+        "101259447"
+      ],
+      "spen": [
+        "107021848",
+        "107030510"
+      ],
+      "sot": [
+        "102577568",
+        "102578777",
+        "102579959"
+      ],
+      "cann": [
+        "107848605",
+        "107852712",
+        "107866164",
+        "107874613",
+        "107878194"
+      ],
+      "nta": [
+        "107762865",
+        "107784803",
+        "107791425",
+        "107793147",
+        "107809664",
+        "107812114"
+      ],
+      "nsy": [
+        "104210908",
+        "104215579"
+      ],
+      "nto": [
+        "104085002",
+        "104099274",
+        "104119599",
+        "104120792"
+      ],
+      "ini": [
+        "109158198",
+        "109166234",
+        "109187229"
+      ],
+      "sind": [
+        "105156526",
+        "105160470",
+        "105165168",
+        "105165604",
+        "105171621",
+        "105171624",
+        "105171625",
+        "105176901",
+        "105176902",
+        "105176903"
+      ],
+      "oeu": [
+        "111369696",
+        "111370864",
+        "111381728",
+        "111389639",
+        "111403329",
+        "111403331"
+      ],
+      "han": [
+        "110864845",
+        "110867927",
+        "110878899",
+        "110923306",
+        "110940131"
+      ],
+      "lsv": [
+        "111880123",
+        "111884424",
+        "111884425",
+        "111893148",
+        "111916049"
+      ],
+      "dcr": [
+        "108197204",
+        "108202269",
+        "108206834",
+        "108216574",
+        "108219920"
+      ],
+      "bvg": [
+        "104897877",
+        "104899987"
+      ],
+      "soe": [
+        "110792832",
+        "110803013"
+      ],
+      "nnu": [
+        "104598197",
+        "104601225",
+        "104609337"
+      ],
+      "osa": [
+        "4324825",
+        "4331756"
+      ],
+      "dosa": [
+        "Os01t0854800-01",
+        "Os03t0168600-01"
+      ],
+      "obr": [
+        "102717945",
+        "102721913"
+      ],
+      "bdi": [
+        "100827415",
+        "100833251"
+      ],
+      "ats": [
+        "109749609",
+        "109760513"
+      ],
+      "sbi": [
+        "8058930",
+        "8082128"
+      ],
+      "zma": [
+        "100191749",
+        "100192044",
+        "100273463"
+      ],
+      "sita": [
+        "101759222",
+        "101762995",
+        "101775677"
+      ],
+      "pda": [
+        "103698133",
+        "103704048"
+      ],
+      "egu": [
+        "105041758",
+        "105046261",
+        "105048564",
+        "105048992"
+      ],
+      "mus": [
+        "103990198",
+        "103994761"
+      ],
+      "dct": [
+        "110095250",
+        "110104795"
+      ],
+      "aof": [
+        "109829536",
+        "109833859",
+        "109849308"
+      ],
+      "atr": [
+        "18422027",
+        "18425983",
+        "18429912",
+        "18437877"
+      ],
+      "smo": [
+        "SELMODRAFT_101746",
+        "SELMODRAFT_101765",
+        "SELMODRAFT_111270",
+        "SELMODRAFT_112911",
+        "SELMODRAFT_113735",
+        "SELMODRAFT_113847",
+        "SELMODRAFT_116539",
+        "SELMODRAFT_116579",
+        "SELMODRAFT_127881",
+        "SELMODRAFT_151517",
+        "SELMODRAFT_405166",
+        "SELMODRAFT_414990",
+        "SELMODRAFT_418431",
+        "SELMODRAFT_423745",
+        "SELMODRAFT_432651",
+        "SELMODRAFT_5479",
+        "SELMODRAFT_80659",
+        "SELMODRAFT_80855"
+      ],
+      "ppp": [
+        "112275480",
+        "112276543",
+        "112283984",
+        "112290535",
+        "112291140",
+        "112294808"
+      ],
+      "mng": [
+        "MNEG_11040",
+        "MNEG_6476"
+      ],
+      "mlr": [
+        "MELLADRAFT_89437"
+      ],
+      "sre": [
+        "PTSG_09918"
+      ],
+      "acan": [
+        "ACA1_019600",
+        "ACA1_175170"
+      ],
+      "psoj": [
+        "PHYSODRAFT_511223",
+        "PHYSODRAFT_514382"
+      ],
+      "spar": [
+        "SPRG_03223"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.80"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.80"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.80"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.80"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Benveniste I",
+          "Tijet N",
+          "Adas F",
+          "Philipps G",
+          "Salaun JP",
+          "Durst F"
+        ],
+        "title": "CYP86A1 from Arabidopsis thaliana encodes a cytochrome P450-dependent fatty acid omega-hydroxylase.",
+        "journal": "Biochem Biophys Res Commun 243:688-93 (1998) DOI:10.1006/bbrc.1998.8156",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:9500987]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hoch U",
+          "Zhang Z",
+          "Kroetz DL",
+          "Ortiz de Montellano PR"
+        ],
+        "title": "Structural determination of the substrate specificities and regioselectivities of the rat and human fatty acid omega-hydroxylases.",
+        "journal": "Arch Biochem Biophys 373:63-71 (2000) DOI:10.1006/abbi.1999.1504",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:10620324]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dobritsa AA",
+          "Shrestha J",
+          "Morant M",
+          "Pinot F",
+          "Matsuno M",
+          "Swanson R",
+          "Moller BL",
+          "Preuss D"
+        ],
+        "title": "CYP704B1 is a long-chain fatty acid omega-hydroxylase essential for sporopollenin synthesis in pollen of Arabidopsis.",
+        "journal": "Plant Physiol 151:574-89 (2009) DOI:10.1104/pp.109.144469",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:19700560]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Huang FC",
+          "Peter A",
+          "Schwab W"
+        ],
+        "title": "Expression and characterization of CYP52 genes involved in the biosynthesis of sophorolipid and alkane metabolism from Starmerella bombicola.",
+        "journal": "Appl Environ Microbiol 80:766-76 (2014) DOI:10.1128/AEM.02886-13",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:24242247]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R00888",
+    "name": "GDP-alpha-D-mannose 4,6-hydro-lyase (GDP-4-dehydro-alpha-D-rhamnose-forming); GDP-mannose 4,6-hydro-lyase (GDP-4-dehydro-6-deoxy-D-mannose-forming)",
+    "definition": "GDP-mannose <=> GDP-4-dehydro-6-deoxy-D-mannose + H2O",
+    "equation": "C00096 <=> C01222 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.47"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01711": "GDPmannose 4,6-dehydratase [EC:4.2.1.47]"
+    }
+  }
+][
+  {
+    "entry_id": "R00888",
+    "name": "GDP-alpha-D-mannose 4,6-hydro-lyase (GDP-4-dehydro-alpha-D-rhamnose-forming); GDP-mannose 4,6-hydro-lyase (GDP-4-dehydro-6-deoxy-D-mannose-forming)",
+    "definition": "GDP-mannose <=> GDP-4-dehydro-6-deoxy-D-mannose + H2O",
+    "equation": "C00096 <=> C01222 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.47"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01711": "GDPmannose 4,6-dehydratase [EC:4.2.1.47]"
+    }
+  }
+]

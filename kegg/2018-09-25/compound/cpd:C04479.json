@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C04479",
+    "name": "2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate",
+    "names": [
+      "2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate",
+      "(2Z,4E)-2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate"
+    ],
+    "formula": "C9H10O6",
+    "exact_mass": 214.0477,
+    "mol_weight": 214.1721,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02603",
+      "R04376"
+    ],
+    "pathways": {
+      "map00360": "Phenylalanine metabolism",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.13.11.16",
+      "3.7.1.14"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7099"
+      ],
+      "ChEBI": [
+        "17367",
+        "61470"
+      ],
+      "3DMET": [
+        "B00720"
+      ],
+      "NIKKAJI": [
+        "J891.762K"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C2b C    27.2091  -21.7230\n            2   C2b C    28.4186  -21.0217\n            3   C2b C    29.6345  -21.7230\n            4   C2c C    30.8440  -21.0217\n            5   O1a O    32.0533  -21.7230\n            6   C6a C    30.8440  -19.6259\n            7   C5a C    27.2091  -23.1230\n            8   O5a O    25.9967  -23.8230\n            9   C1b C    28.4216  -23.8230\n            10  C1b C    28.4216  -25.2230\n            11  C6a C    29.6340  -25.9230\n            12  O6a O    29.6340  -27.3230\n            13  O6a O    30.8464  -25.2230\n            14  O6a O    29.6316  -18.9259\n            15  O6a O    32.0565  -18.9259\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     4   6 1\n            6     1   7 1\n            7     7   8 2\n            8     7   9 1\n            9     9  10 1\n            10   10  11 1\n            11   11  12 1\n            12   11  13 2\n            13    6  14 1\n            14    6  15 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

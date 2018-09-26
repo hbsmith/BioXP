@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11067",
+    "name": "",
+    "definition": "(3E)-3-[(1R,5R,6S)-5-Hydroxy-7-oxabicyclo[4.1.0]heptan-2-ylidene]-2-oxopropanoate + NADH + H+ <=> 3-[(1R,2S,5R,6S)-5-Hydroxy-7-oxabicyclo[4.1.0]heptan-2-yl]-2-oxopropanoate + NAD+",
+    "equation": "C21086 + C00004 + C00080 <=> C21087 + C00003",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19550": "bacilysin biosynthesis oxidoreductase BacG [EC:1.3.1.-]"
+    }
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "entry_id": "C18240",
+    "name": "Tetrachlorocatechol",
+    "names": [
+      "Tetrachlorocatechol",
+      "Tetrachloro-1,2-benzenediol"
+    ],
+    "formula": "C6H2Cl4O2",
+    "exact_mass": 245.8809,
+    "mol_weight": 247.8909,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09132",
+      "R09133",
+      "R09134"
+    ],
+    "pathways": {
+      "map00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.3.1.-",
+      "1.13.11.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1198-55-6"
+      ],
+      "PubChem": [
+        "103061422"
+      ],
+      "ChEBI": [
+        "26889"
+      ],
+      "KNApSAcK": [
+        "C00016089"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    24.7840  -18.2901\n            2   C8y C    24.7840  -19.6858\n            3   C8y C    25.9927  -20.3837\n            4   C8y C    27.2015  -19.6858\n            5   C8y C    27.2015  -18.2901\n            6   C8y C    25.9927  -17.5922\n            7   X   Cl   25.9927  -16.1967\n            8   X   Cl   28.4288  -17.5813\n            9   X   Cl   28.4288  -20.3946\n            10  X   Cl   25.9927  -21.7792\n            11  O1a O    23.5599  -17.5835\n            12  O1a O    23.5755  -20.3835\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     4   9 1\n            10    3  10 1\n            11    1  11 1\n            12    2  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C18240",
+    "name": "Tetrachlorocatechol",
+    "names": [
+      "Tetrachlorocatechol",
+      "Tetrachloro-1,2-benzenediol"
+    ],
+    "formula": "C6H2Cl4O2",
+    "exact_mass": 245.8809,
+    "mol_weight": 247.8909,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09132",
+      "R09133",
+      "R09134"
+    ],
+    "pathways": {
+      "map00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.3.1.-",
+      "1.13.11.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1198-55-6"
+      ],
+      "PubChem": [
+        "103061422"
+      ],
+      "ChEBI": [
+        "26889"
+      ],
+      "KNApSAcK": [
+        "C00016089"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    24.7840  -18.2901\n            2   C8y C    24.7840  -19.6858\n            3   C8y C    25.9927  -20.3837\n            4   C8y C    27.2015  -19.6858\n            5   C8y C    27.2015  -18.2901\n            6   C8y C    25.9927  -17.5922\n            7   X   Cl   25.9927  -16.1967\n            8   X   Cl   28.4288  -17.5813\n            9   X   Cl   28.4288  -20.3946\n            10  X   Cl   25.9927  -21.7792\n            11  O1a O    23.5599  -17.5835\n            12  O1a O    23.5755  -20.3835\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     4   9 1\n            10    3  10 1\n            11    1  11 1\n            12    2  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

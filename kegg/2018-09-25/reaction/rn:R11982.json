@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11982",
+    "name": "",
+    "definition": "ent-Cassa-12,15-diene + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> ent-Cassa-12,15-dien-2beta-ol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C18226 + C03024 + C00007 <=> C21827 + C03161 + C00001",
+    "comment": "the first step of three-step reaction (see R11981, R11982+R11983+R11984, R11982+R11985+R11986)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.69"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

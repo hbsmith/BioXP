@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00901",
+    "name": "L-cysteine hydrogen-sulfide-lyase (adding sulfite; L-cysteate-forming)",
+    "definition": "L-Cysteine + Sulfite <=> Hydrogen sulfide + L-Cysteate",
+    "equation": "C00097 + C00094 <=> C00283 + C00506",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.10"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn00430": "Taurine and hypotaurine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

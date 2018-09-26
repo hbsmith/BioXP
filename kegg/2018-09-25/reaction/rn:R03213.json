@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R03213",
+    "name": "UDPglucose:thiohydroximate S-beta-D-glucosyltransferase",
+    "definition": "UDP-glucose + Phenylacetothiohydroximate <=> UDP + Desulfoglucotropeolin",
+    "equation": "C00029 + C03719 <=> C00015 + C01069",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.195"
+    ],
+    "pathways": {
+      "rn00966": "Glucosinolate biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+      "K11820": "N-hydroxythioamide S-beta-glucosyltransferase [EC:2.4.1.195]"
+    }
+  }
+][
+  {
+    "entry_id": "R03213",
+    "name": "UDPglucose:thiohydroximate S-beta-D-glucosyltransferase",
+    "definition": "UDP-glucose + Phenylacetothiohydroximate <=> UDP + Desulfoglucotropeolin",
+    "equation": "C00029 + C03719 <=> C00015 + C01069",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.195"
+    ],
+    "pathways": {
+      "rn00966": "Glucosinolate biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+      "K11820": "N-hydroxythioamide S-beta-glucosyltransferase [EC:2.4.1.195]"
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "entry_id": "2.1.1.344",
+    "name": "ornithine lipid N-methyltransferase",
+    "names": [
+      "ornithine lipid N-methyltransferase",
+      "olsG (gene name)"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring one-carbon groups;",
+      "Methyltransferases"
+    ],
+    "sysname": "S-adenosyl-L-methionine:ornithine lipid N-methyltransferase",
+    "reaction": "3 S-adenosyl-L-methionine + an ornithine lipid = 3 S-adenosyl-L-homocysteine + an N,N,N-trimethylornithine lipid (overall reaction) [RN:R11797]; (1a) S-adenosyl-L-methionine + an ornithine lipid = S-adenosyl-L-homocysteine + an N-methylornithine lipid [RN:R11798]; (1b) S-adenosyl-L-methionine + an N-methylornithine lipid = S-adenosyl-L-homocysteine + an N,N-dimethylornithine lipid [RN:R11799]; (1c) S-adenosyl-L-methionine + an N,N-dimethylornithine lipid = S-adenosyl-L-homocysteine + an N,N,N-trimethylornithine lipid [RN:R11800]",
+    "all_reac": "R11797 R11798 R11799 R11800",
+    "iubmb_reactions": [
+      "R11797 R11798 R11799 R11800"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "S-adenosyl-L-methionine [CPD:C00019]",
+      "ornithine lipid [CPD:C21672]",
+      "N-methylornithine lipid [CPD:C21673]",
+      "N,N-dimethylornithine lipid [CPD:C21674]"
+    ],
+    "products": [
+      "S-adenosyl-L-homocysteine [CPD:C00021]",
+      "N,N,N-trimethylornithine lipid [CPD:C21675]",
+      "N-methylornithine lipid [CPD:C21673]",
+      "N,N-dimethylornithine lipid [CPD:C21674]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, characterized from the bacterium Singulisphaera acidiphila, catalyses three successive methylations of the terminal delta-nitrogen in ornithine lipids.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22309": "ornithine lipid N-methyltransferase"
+    },
+    "genes": {
+      "plh": [
+        "VT85_18490"
+      ],
+      "ges": [
+        "VT84_27445"
+      ],
+      "ipa": [
+        "Isop_2139"
+      ],
+      "saci": [
+        "Sinac_1600"
+      ],
+      "pbor": [
+        "BSF38_01809"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.1.1.344"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.1.1.344"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.1.1.344"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.1.1.344"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Escobedo-Hinojosa WI",
+          "Vences-Guzman MA",
+          "Schubotz F",
+          "Sandoval-Calderon M",
+          "Summons RE",
+          "Lopez-Lara IM",
+          "Geiger O",
+          "Sohlenkamp C"
+        ],
+        "title": "OlsG (Sinac_1600) Is an Ornithine Lipid N-Methyltransferase from the Planctomycete Singulisphaera acidiphila.",
+        "journal": "J Biol Chem 290:15102-11 (2015) DOI:10.1074/jbc.M115.639575",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:25925947]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

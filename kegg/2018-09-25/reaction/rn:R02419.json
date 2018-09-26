@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02419",
+    "name": "(R)-Malate hydro-lyase",
+    "definition": "(R)-Malate <=> Maleic acid + H2O",
+    "equation": "C00497 <=> C01384 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.31"
+    ],
+    "pathways": {
+      "rn00650": "Butanoate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

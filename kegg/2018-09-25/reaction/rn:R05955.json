@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05955",
+    "name": "",
+    "definition": "CMP-N-acetylneuraminate + GQ1c <=> CMP + GP1c",
+    "equation": "G10616 + G00121 <=> G10621 + G00122",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00604": "Glycosphingolipid biosynthesis - ganglio series",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

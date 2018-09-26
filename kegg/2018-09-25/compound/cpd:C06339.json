@@ -1,0 +1,79 @@
+[
+  {
+    "entry_id": "C06339",
+    "name": "2,5,6-Trihydroxy-5,6-dihydroquinoline",
+    "names": [
+      "2,5,6-Trihydroxy-5,6-dihydroquinoline"
+    ],
+    "formula": "C9H9NO3",
+    "exact_mass": 179.0582,
+    "mol_weight": 179.1727,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05157"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.12.16"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8575"
+      ],
+      "ChEBI": [
+        "17244"
+      ],
+      "NIKKAJI": [
+        "J2.761.005F"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    28.1574  -18.9637\n            2   C8y C    28.1633  -17.5592\n            3   C1y C    26.9510  -19.6631\n            4   C8x C    29.3697  -19.6631\n            5   N5x N    29.3814  -16.8656\n            6   C2x C    26.9510  -16.8599\n            7   C1y C    25.7329  -18.9637\n            8   O1a O    26.9569  -21.0559\n            9   C8x C    30.5878  -18.9754\n            10  C8y C    30.5935  -17.5709\n            11  C2x C    25.7329  -17.5592\n            12  O1a O    24.5265  -19.6631\n            13  O1a O    31.8056  -16.8832\nBOND        14\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     3   8 1\n            8     4   9 2\n            9     5  10 2\n            10    6  11 2\n            11    7  12 1\n            12   10  13 1\n            13    7  11 1\n            14    9  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C06339",
+    "name": "2,5,6-Trihydroxy-5,6-dihydroquinoline",
+    "names": [
+      "2,5,6-Trihydroxy-5,6-dihydroquinoline"
+    ],
+    "formula": "C9H9NO3",
+    "exact_mass": 179.0582,
+    "mol_weight": 179.1727,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05157"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.12.16"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8575"
+      ],
+      "ChEBI": [
+        "17244"
+      ],
+      "NIKKAJI": [
+        "J2.761.005F"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    28.1574  -18.9637\n            2   C8y C    28.1633  -17.5592\n            3   C1y C    26.9510  -19.6631\n            4   C8x C    29.3697  -19.6631\n            5   N5x N    29.3814  -16.8656\n            6   C2x C    26.9510  -16.8599\n            7   C1y C    25.7329  -18.9637\n            8   O1a O    26.9569  -21.0559\n            9   C8x C    30.5878  -18.9754\n            10  C8y C    30.5935  -17.5709\n            11  C2x C    25.7329  -17.5592\n            12  O1a O    24.5265  -19.6631\n            13  O1a O    31.8056  -16.8832\nBOND        14\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     3   8 1\n            8     4   9 2\n            9     5  10 2\n            10    6  11 2\n            11    7  12 1\n            12   10  13 1\n            13    7  11 1\n            14    9  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

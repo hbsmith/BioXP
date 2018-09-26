@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R12028",
+    "name": "",
+    "definition": "5-Bromo-1H-pyrrole-2-carbonyl-[peptidyl-carrier protein] + FADH2 + Bromide + Oxygen <=> 4,5-Dibromo-1H-pyrrole-2-carbonyl-[peptidyl-carrier protein] + FAD + 2 H2O",
+    "equation": "C21862 + C01352 + C01324 + C00007 <=> C21863 + C00016 + 2 C00001",
+    "comment": "the second step of three-step reaction (see R12030, R12027+R12028+R12029)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.57"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09065",
+    "name": "trans,trans-farnesyl-diphosphate:bacteriochlorophyllide-d farnesyltransferase",
+    "definition": "Bacteriochlorophyllide d + trans,trans-Farnesyl diphosphate <=> Bacteriochlorophyll d + Diphosphate",
+    "equation": "C18160 + C00448 <=> C18162 + C00013",
+    "comment": "bacteriochlorophyll synthase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.-"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13605": "bacteriochlorophyll c synthase [EC:2.5.1.-]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10805",
+    "name": "3'-phosphoadenylyl-sulfate:1-alkyl-2-acyl-3-beta-galactosyl-sn-glycerol 3'-sulfotransferase",
+    "definition": "3'-Phosphoadenylyl sulfate + Galactosyl-1-alkyl-2-acylglycerol <=> Adenosine 3',5'-bisphosphate + Seminolipid",
+    "equation": "C00053 + C20859 <=> C00054 + C20825",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.2.11"
+    ],
+    "pathways": {
+      "rn00565": "Ether lipid metabolism"
+    },
+    "orthologs": {
+      "K01019": "galactosylceramide sulfotransferase [EC:2.8.2.11]"
+    }
+  }
+]

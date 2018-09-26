@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04258",
+    "name": "",
+    "definition": "4-Chlorocatechol + Oxygen <=> 3-Chloro-cis,cis-muconate",
+    "equation": "C02375 + C00007 <=> C03585",
+    "comment": "catechol 1,2-dioxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.1"
+    ],
+    "pathways": {
+      "rn00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K03381": "catechol 1,2-dioxygenase [EC:1.13.11.1]"
+    }
+  }
+]

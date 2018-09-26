@@ -1,0 +1,71 @@
+[
+  {
+    "entry_id": "C02137",
+    "name": "alpha-Oxo-benzeneacetic acid",
+    "names": [
+      "alpha-Oxo-benzeneacetic acid",
+      "Benzoylformate",
+      "Benzoylformic acid",
+      "Phenylglyoxylic acid",
+      "Phenylglyoxylate",
+      "2-Oxo-2-phenylacetate"
+    ],
+    "formula": "C8H6O3",
+    "exact_mass": 150.0317,
+    "mol_weight": 150.1314,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01764",
+      "R02450",
+      "R03790",
+      "R03792",
+      "R03793",
+      "R07294",
+      "R07664"
+    ],
+    "pathways": {
+      "map00360": "Phenylalanine metabolism",
+      "map00627": "Aminobenzoate degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.1.379",
+      "1.1.1.-",
+      "1.1.99.31",
+      "1.2.1.58",
+      "3.1.2.25",
+      "4.1.1.7"
+    ],
+    "dblinks": {
+      "CAS": [
+        "611-73-4"
+      ],
+      "PubChem": [
+        "5216"
+      ],
+      "ChEBI": [
+        "18280"
+      ],
+      "ChEMBL": [
+        "CHEMBL950"
+      ],
+      "PDB-CCD": [
+        "173"
+      ],
+      "3DMET": [
+        "B00392"
+      ],
+      "NIKKAJI": [
+        "J2.992K"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    17.8032  -15.0958\n            2   C5a C    17.7969  -13.6992\n            3   C8x C    16.5924  -15.7942\n            4   C8x C    19.0205  -15.7942\n            5   C6a C    19.0014  -13.0008\n            6   O5a O    16.5861  -13.0073\n            7   C8x C    16.5924  -17.2036\n            8   C8x C    19.0205  -17.2036\n            9   O6a O    20.2057  -13.6992\n            10  O6a O    18.9949  -11.6105\n            11  C8x C    17.8032  -17.9147\nBOND        11\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     4   8 2\n            8     5   9 1\n            9     5  10 2\n            10    7  11 2\n            11    8  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

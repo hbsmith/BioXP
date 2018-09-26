@@ -1,0 +1,109 @@
+[
+  {
+    "entry_id": "C06565",
+    "name": "Deacetoxycephalosporin C",
+    "names": [
+      "Deacetoxycephalosporin C",
+      "DAOC"
+    ],
+    "formula": "C14H19N3O6S",
+    "exact_mass": 357.0995,
+    "mol_weight": 357.3822,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05229",
+      "R05301"
+    ],
+    "pathways": {
+      "map00311": "Penicillin and cephalosporin biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.14.11.26",
+      "1.14.20.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "26924-74-3"
+      ],
+      "PubChem": [
+        "8794"
+      ],
+      "ChEBI": [
+        "18229"
+      ],
+      "PDB-CCD": [
+        "P1C"
+      ],
+      "3DMET": [
+        "B02070"
+      ],
+      "NIKKAJI": [
+        "J92.761I"
+      ]
+    },
+    "kcf": "ATOM        24\n            1   C1y C    28.3287  -21.7575\n            2   N1y N    28.3287  -23.1468\n            3   C1y C    26.9394  -21.7634\n            4   S2x S    29.5313  -21.0629\n            5   C5x C    26.9394  -23.1527\n            6   C2y C    29.5254  -23.8416\n            7   N1b N    25.5326  -21.7517\n            8   C1x C    30.7280  -21.7634\n            9   O5x O    25.6902  -23.8533\n            10  C2y C    30.7280  -23.1527\n            11  C6a C    29.5196  -25.2717\n            12  C5a C    24.3301  -22.4405\n            13  C1a C    31.9655  -23.8590\n            14  O6a O    28.2705  -25.9839\n            15  O6a O    30.7571  -25.9897\n            16  C1b C    23.1217  -21.7458\n            17  O5a O    24.3942  -23.8416\n            18  C1b C    21.9134  -22.4405\n            19  C1b C    20.7107  -21.7458\n            20  C1c C    19.5023  -22.4405\n            21  C6a C    18.2882  -21.7458\n            22  N1a N    19.4966  -23.8416\n            23  O6a O    17.0798  -22.4346\n            24  O6a O    18.2825  -20.3448\nBOND        25\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1 #Up\n            7     4   8 1\n            8     5   9 2\n            9     6  10 2\n            10    6  11 1\n            11    7  12 1\n            12   10  13 1\n            13   11  14 1\n            14   11  15 2\n            15   12  16 1\n            16   12  17 2\n            17   16  18 1\n            18   18  19 1\n            19   19  20 1\n            20   20  21 1\n            21   20  22 1 #Up\n            22   21  23 1\n            23   21  24 2\n            24    3   5 1\n            25    8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C06565",
+    "name": "Deacetoxycephalosporin C",
+    "names": [
+      "Deacetoxycephalosporin C",
+      "DAOC"
+    ],
+    "formula": "C14H19N3O6S",
+    "exact_mass": 357.0995,
+    "mol_weight": 357.3822,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05229",
+      "R05301"
+    ],
+    "pathways": {
+      "map00311": "Penicillin and cephalosporin biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.14.11.26",
+      "1.14.20.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "26924-74-3"
+      ],
+      "PubChem": [
+        "8794"
+      ],
+      "ChEBI": [
+        "18229"
+      ],
+      "PDB-CCD": [
+        "P1C"
+      ],
+      "3DMET": [
+        "B02070"
+      ],
+      "NIKKAJI": [
+        "J92.761I"
+      ]
+    },
+    "kcf": "ATOM        24\n            1   C1y C    28.3287  -21.7575\n            2   N1y N    28.3287  -23.1468\n            3   C1y C    26.9394  -21.7634\n            4   S2x S    29.5313  -21.0629\n            5   C5x C    26.9394  -23.1527\n            6   C2y C    29.5254  -23.8416\n            7   N1b N    25.5326  -21.7517\n            8   C1x C    30.7280  -21.7634\n            9   O5x O    25.6902  -23.8533\n            10  C2y C    30.7280  -23.1527\n            11  C6a C    29.5196  -25.2717\n            12  C5a C    24.3301  -22.4405\n            13  C1a C    31.9655  -23.8590\n            14  O6a O    28.2705  -25.9839\n            15  O6a O    30.7571  -25.9897\n            16  C1b C    23.1217  -21.7458\n            17  O5a O    24.3942  -23.8416\n            18  C1b C    21.9134  -22.4405\n            19  C1b C    20.7107  -21.7458\n            20  C1c C    19.5023  -22.4405\n            21  C6a C    18.2882  -21.7458\n            22  N1a N    19.4966  -23.8416\n            23  O6a O    17.0798  -22.4346\n            24  O6a O    18.2825  -20.3448\nBOND        25\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1 #Up\n            7     4   8 1\n            8     5   9 2\n            9     6  10 2\n            10    6  11 1\n            11    7  12 1\n            12   10  13 1\n            13   11  14 1\n            14   11  15 2\n            15   12  16 1\n            16   12  17 2\n            17   16  18 1\n            18   18  19 1\n            19   19  20 1\n            20   20  21 1\n            21   20  22 1 #Up\n            22   21  23 1\n            23   21  24 2\n            24    3   5 1\n            25    8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

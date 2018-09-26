@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R07675",
+    "name": "L-galactose:NAD+ 1-oxidoreductase",
+    "definition": "L-Galactose + NAD+ <=> L-Galactono-1,4-lactone + NADH + H+",
+    "equation": "C01825 + C00003 <=> C01115 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.122",
+      "1.1.1.316"
+    ],
+    "pathways": {
+      "rn00053": "Ascorbate and aldarate metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00064": "D-threo-aldose 1-dehydrogenase [EC:1.1.1.122]",
+      "K17744": "L-galactose dehydrogenase [EC:1.1.1.316]"
+    }
+  }
+]

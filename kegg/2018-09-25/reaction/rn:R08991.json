@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08991",
+    "name": "cyclic bis(3->5')diguanylate 3-guanylylhydrolase",
+    "definition": "3',5'-Cyclic diGMP + H2O <=> 5'-Phosphoguanylyl(3'->5')guanosine",
+    "equation": "C16463 + C00001 <=> C18076",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.4.52"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K13243": "c-di-GMP-specific phosphodiesterase [EC:3.1.4.52]",
+      "K13244": "c-di-GMP-specific phosphodiesterase [EC:3.1.4.52]",
+      "K13245": "c-di-GMP-specific phosphodiesterase [EC:3.1.4.52]",
+      "K13246": "c-di-GMP phosphodiesterase [EC:3.1.4.52]"
+    }
+  }
+]

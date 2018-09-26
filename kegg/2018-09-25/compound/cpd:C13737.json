@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C13737",
+    "name": "Dizocilpine",
+    "names": [
+      "Dizocilpine",
+      "MK801"
+    ],
+    "formula": "C16H15N",
+    "exact_mass": 221.1204,
+    "mol_weight": 221.297,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map07235": "N-Metyl-D-aspartic acid receptor antagonists"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "77086-21-6"
+      ],
+      "PubChem": [
+        "586326"
+      ],
+      "ChEBI": [
+        "34725"
+      ],
+      "ChEMBL": [
+        "CHEMBL268055",
+        "CHEMBL284237"
+      ],
+      "PDB-CCD": [
+        "BMK"
+      ],
+      "NIKKAJI": [
+        "J246.194C"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C1y C    24.3600  -22.3300\n            2   C1x C    25.7600  -22.3300\n            3   C1z C    25.0600  -19.3200\n            4   C8y C    23.8000  -19.8800\n            5   C8y C    23.5200  -21.2100\n            6   C8x C    22.1900  -21.6300\n            7   C8x C    21.2100  -20.6500\n            8   C8x C    21.4900  -19.3200\n            9   C8x C    22.8200  -18.9700\n            10  C8y C    26.6000  -21.2800\n            11  C8y C    26.3200  -19.8800\n            12  C8x C    27.3700  -18.9700\n            13  C8x C    28.6300  -19.3900\n            14  C8x C    28.9800  -20.7200\n            15  C8x C    27.9300  -21.7000\n            16  N1x N    25.0600  -20.6500\n            17  C1a C    25.0600  -17.9200\nBOND        20\n            1     6   7 2\n            2     7   8 1\n            3     8   9 2\n            4     9   4 1\n            5     1   2 1\n            6     2  10 1\n            7     1   5 1\n            8    11   3 1\n            9     4   3 1\n            10   10  11 2\n            11   11  12 1\n            12   12  13 2\n            13   13  14 1\n            14   14  15 2\n            15   15  10 1\n            16    4   5 2\n            17    3  16 1 #Up\n            18    1  16 1 #Up\n            19    5   6 1\n            20    3  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

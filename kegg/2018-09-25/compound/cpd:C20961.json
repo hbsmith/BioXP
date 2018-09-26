@@ -1,0 +1,36 @@
+[
+  {
+    "entry_id": "C20961",
+    "name": "N3-Fumaroyl-L-2,3-diaminopropanoate",
+    "names": [
+      "N3-Fumaroyl-L-2,3-diaminopropanoate",
+      "N3-Fumaroyl-(S)-2,3-diaminopropanoate",
+      "(2E)-4-{[(2S)-2-Amino-2-carboxyethyl]amino}-4-oxobut-2-enoate"
+    ],
+    "formula": "C7H10N2O5",
+    "exact_mass": 202.059,
+    "mol_weight": 202.1647,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10940"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "6.3.2.46"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741422"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   O6a O    10.1724  -14.2100\n            2   C6a C    11.3849  -13.5100\n            3   C2b C    12.5973  -14.2100\n            4   C2b C    13.8097  -13.5100\n            5   C5a C    15.0222  -14.2100\n            6   N1b N    16.2346  -13.5100\n            7   O6a O    11.3849  -12.1102\n            8   O5a O    15.0222  -15.6097\n            9   C1b C    17.4524  -14.2100\n            10  C1c C    18.6649  -13.5100\n            11  C6a C    19.8773  -14.2100\n            12  O6a O    21.0897  -13.5100\n            13  N1a N    18.6649  -12.1102\n            14  O6a O    19.8773  -15.6100\nBOND        13\n            1     1   2 1\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 1\n            6     2   7 2\n            7     5   8 2\n            8     6   9 1\n            9     9  10 1\n            10   10  11 1\n            11   11  12 1\n            12   10  13 1 #Down\n            13   11  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

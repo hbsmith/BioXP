@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03600",
+    "name": "Hydrogen-sulfide:ferredoxin oxidoreductase",
+    "definition": "Hydrogen selenide + 6 Oxidized ferredoxin + 3 H2O <=> Selenite + 6 Reduced ferredoxin + 8 H+",
+    "equation": "C01528 + 6 C00139 + 3 C00001 <=> C05684 + 6 C00138 + 8 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.7.1"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00392": "sulfite reductase (ferredoxin) [EC:1.8.7.1]"
+    }
+  }
+]

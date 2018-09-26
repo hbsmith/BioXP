@@ -1,0 +1,161 @@
+[
+  {
+    "entry_id": "C00590",
+    "name": "Coniferyl alcohol",
+    "names": [
+      "Coniferyl alcohol",
+      "Coniferol",
+      "4-(3-Hydroxy-1-propenyl)-2-methoxyphenol",
+      "trans-Coniferyl alcohol"
+    ],
+    "formula": "C10H12O3",
+    "exact_mass": 180.0786,
+    "mol_weight": 180.2005,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02593",
+      "R02594",
+      "R02595",
+      "R02596",
+      "R06573",
+      "R06575",
+      "R10253",
+      "R12126",
+      "R12145"
+    ],
+    "pathways": {
+      "map00940": "Phenylpropanoid biosynthesis",
+      "map00999": "Biosynthesis of secondary metabolites - unclassified",
+      "map01061": "Biosynthesis of phenylpropanoids",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.1.1.194",
+      "1.1.1.195",
+      "1.11.1.7",
+      "1.11.1.21",
+      "1.14.13.-",
+      "2.1.1.68",
+      "2.3.1.-",
+      "2.4.1.111",
+      "3.2.1.126"
+    ],
+    "dblinks": {
+      "CAS": [
+        "32811-40-8",
+        "458-35-5"
+      ],
+      "PubChem": [
+        "3869"
+      ],
+      "ChEBI": [
+        "17745"
+      ],
+      "ChEMBL": [
+        "CHEMBL501870"
+      ],
+      "KNApSAcK": [
+        "C00000614",
+        "C00043990"
+      ],
+      "PDB-CCD": [
+        "N7I"
+      ],
+      "3DMET": [
+        "B00142"
+      ],
+      "NIKKAJI": [
+        "J5.761D"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    34.6105  -18.6546\n            2   C8x C    34.6105  -20.0569\n            3   C8x C    35.8249  -20.7580\n            4   C8y C    37.0393  -20.0569\n            5   C8y C    37.0393  -18.6546\n            6   C8x C    35.8249  -17.9535\n            7   O2a O    38.2724  -17.9424\n            8   C1a C    38.2724  -16.5402\n            9   O1a O    38.2724  -20.7690\n            10  C2b C    33.3961  -17.9535\n            11  C2b C    32.1987  -18.6450\n            12  C1b C    31.0094  -17.9584\n            13  O1a O    31.0094  -16.5584\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     4   9 1\n            10    1  10 1\n            11   10  11 2\n            12   11  12 1\n            13   12  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C00590",
+    "name": "Coniferyl alcohol",
+    "names": [
+      "Coniferyl alcohol",
+      "Coniferol",
+      "4-(3-Hydroxy-1-propenyl)-2-methoxyphenol",
+      "trans-Coniferyl alcohol"
+    ],
+    "formula": "C10H12O3",
+    "exact_mass": 180.0786,
+    "mol_weight": 180.2005,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02593",
+      "R02594",
+      "R02595",
+      "R02596",
+      "R06573",
+      "R06575",
+      "R10253",
+      "R12126",
+      "R12145"
+    ],
+    "pathways": {
+      "map00940": "Phenylpropanoid biosynthesis",
+      "map00999": "Biosynthesis of secondary metabolites - unclassified",
+      "map01061": "Biosynthesis of phenylpropanoids",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.1.1.194",
+      "1.1.1.195",
+      "1.11.1.7",
+      "1.11.1.21",
+      "1.14.13.-",
+      "2.1.1.68",
+      "2.3.1.-",
+      "2.4.1.111",
+      "3.2.1.126"
+    ],
+    "dblinks": {
+      "CAS": [
+        "32811-40-8",
+        "458-35-5"
+      ],
+      "PubChem": [
+        "3869"
+      ],
+      "ChEBI": [
+        "17745"
+      ],
+      "ChEMBL": [
+        "CHEMBL501870"
+      ],
+      "KNApSAcK": [
+        "C00000614",
+        "C00043990"
+      ],
+      "PDB-CCD": [
+        "N7I"
+      ],
+      "3DMET": [
+        "B00142"
+      ],
+      "NIKKAJI": [
+        "J5.761D"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    34.6105  -18.6546\n            2   C8x C    34.6105  -20.0569\n            3   C8x C    35.8249  -20.7580\n            4   C8y C    37.0393  -20.0569\n            5   C8y C    37.0393  -18.6546\n            6   C8x C    35.8249  -17.9535\n            7   O2a O    38.2724  -17.9424\n            8   C1a C    38.2724  -16.5402\n            9   O1a O    38.2724  -20.7690\n            10  C2b C    33.3961  -17.9535\n            11  C2b C    32.1987  -18.6450\n            12  C1b C    31.0094  -17.9584\n            13  O1a O    31.0094  -16.5584\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     4   9 1\n            10    1  10 1\n            11   10  11 2\n            12   11  12 1\n            13   12  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

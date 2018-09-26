@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11952",
+    "name": "all-trans-retinol,reduced adrenodoxin:oxygen 3,4-oxidoreductase",
+    "definition": "Retinol + 2 Reduced adrenal ferredoxin + 2 H+ + Oxygen <=> all-trans-3,4-Didehydroretinol + 2 Oxidized adrenal ferredoxin + 2 H2O",
+    "equation": "C00473 + 2 C00662 + 2 C00080 + C00007 <=> C21797 + 2 C00667 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.53"
+    ],
+    "pathways": {
+      "rn00830": "Retinol metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

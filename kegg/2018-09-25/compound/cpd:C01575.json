@@ -1,0 +1,57 @@
+[
+  {
+    "entry_id": "C01575",
+    "name": "Ephedrine",
+    "names": [
+      "Ephedrine",
+      "(-)-Ephedrine",
+      "L-Ephedrine"
+    ],
+    "formula": "C10H15NO",
+    "exact_mass": 165.1154,
+    "mol_weight": 165.2322,
+    "remark": "Same as: D00124",
+    "comment": "",
+    "reactions": [
+      "R03614",
+      "R08467"
+    ],
+    "pathways": {
+      "map00360": "Phenylalanine metabolism",
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.5.1.18",
+      "2.1.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "299-42-3"
+      ],
+      "PubChem": [
+        "4732"
+      ],
+      "ChEBI": [
+        "15407"
+      ],
+      "ChEMBL": [
+        "CHEMBL211456",
+        "CHEMBL357080"
+      ],
+      "KNApSAcK": [
+        "C00001409"
+      ],
+      "NIKKAJI": [
+        "J9.314I"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    18.1508  -17.0380\n            2   C8x C    18.1508  -18.4401\n            3   C8x C    19.3680  -19.1412\n            4   C8x C    20.5781  -18.4401\n            5   C8y C    20.5781  -17.0380\n            6   C8x C    19.3680  -16.3369\n            7   C1c C    21.7836  -16.3369\n            8   C1c C    22.9945  -17.0308\n            9   N1b N    24.2054  -16.3298\n            10  C1a C    25.4164  -17.0237\n            11  O1a O    21.7791  -14.9348\n            12  C1a C    22.9975  -18.4330\nBOND        12\n            1     6   1 1\n            2     5   7 1\n            3     1   2 2\n            4     7   8 1\n            5     2   3 1\n            6     8   9 1\n            7     3   4 2\n            8     9  10 1\n            9     4   5 1\n            10    7  11 1 #Up\n            11    5   6 2\n            12    8  12 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

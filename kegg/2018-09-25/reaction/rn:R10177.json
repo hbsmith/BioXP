@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10177",
+    "name": "geranylgeranyl-diphosphate:geranylgeranyl-diphosphate geranylgeranyltransferase (15-cis-phytoene forming)",
+    "definition": "2 Geranylgeranyl diphosphate <=> 15-cis-Phytoene + 2 Diphosphate",
+    "equation": "2 C00353 <=> C05421 + 2 C00013",
+    "comment": "multistep reaction (see R02065+R04218)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.32"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K02291": "15-cis-phytoene synthase [EC:2.5.1.32]"
+    }
+  }
+]

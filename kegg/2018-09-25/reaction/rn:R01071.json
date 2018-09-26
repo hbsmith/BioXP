@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R01071",
+    "name": "1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase",
+    "definition": "1-(5-Phospho-D-ribosyl)-ATP + Diphosphate <=> ATP + 5-Phospho-alpha-D-ribose 1-diphosphate",
+    "equation": "C02739 + C00013 <=> C00002 + C00119",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.2.17"
+    ],
+    "pathways": {
+      "rn00340": "Histidine metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K00765": "ATP phosphoribosyltransferase [EC:2.4.2.17]",
+      "K02502": "ATP phosphoribosyltransferase regulatory subunit"
+    }
+  }
+]

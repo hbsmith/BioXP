@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08605",
+    "name": "N-hydroxyl-tryptamine oxidoreductase",
+    "definition": "N-Hydroxyl-tryptamine <=> Indole-3-acetaldehyde oxime",
+    "equation": "C17203 <=> C02937",
+    "comment": "incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.-"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

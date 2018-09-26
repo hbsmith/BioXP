@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R08120",
+    "name": "5-fluoromuconolactone lactonohydrolase",
+    "definition": "5-Fluoromuconolactone + H2O <=> 2-Maleylacetate + Hydrofluoric acid",
+    "equation": "C16477 + C00001 <=> C02222 + C16487",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.45"
+    ],
+    "pathways": {
+      "rn00364": "Fluorobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01061": "carboxymethylenebutenolidase [EC:3.1.1.45]"
+    }
+  }
+][
+  {
+    "entry_id": "R08120",
+    "name": "5-fluoromuconolactone lactonohydrolase",
+    "definition": "5-Fluoromuconolactone + H2O <=> 2-Maleylacetate + Hydrofluoric acid",
+    "equation": "C16477 + C00001 <=> C02222 + C16487",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.45"
+    ],
+    "pathways": {
+      "rn00364": "Fluorobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01061": "carboxymethylenebutenolidase [EC:3.1.1.45]"
+    }
+  }
+]

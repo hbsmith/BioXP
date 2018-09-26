@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08249",
+    "name": "N-acetylisoniazid amidohydrolase",
+    "definition": "N-Acetylisoniazid + H2O <=> Acetylhydrazine + Isonicotinic acid",
+    "equation": "C07585 + C00001 <=> C07447 + C07446",
+    "comment": "hepatic amidase carboxylesterases (ec 3.1.1.1) also have some amidohydrolase activities",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.1",
+      "3.5.1.-"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K01044": "carboxylesterase 1 [EC:3.1.1.1]"
+    }
+  }
+]

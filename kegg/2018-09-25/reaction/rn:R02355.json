@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R02355",
+    "name": "",
+    "definition": "Estrone + H+ + Oxygen + NADPH <=> 2-Hydroxyestrone + NADP+ + H2O",
+    "equation": "C00468 + C00080 + C00007 + C00005 <=> C05298 + C00006 + C00001",
+    "comment": "NADH (see R02354)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.1"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+      "K07408": "cytochrome P450 family 1 subfamily A polypeptide 1 [EC:1.14.14.1]"
+    }
+  }
+][
+  {
+    "entry_id": "R02355",
+    "name": "",
+    "definition": "Estrone + H+ + Oxygen + NADPH <=> 2-Hydroxyestrone + NADP+ + H2O",
+    "equation": "C00468 + C00080 + C00007 + C00005 <=> C05298 + C00006 + C00001",
+    "comment": "NADH (see R02354)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.1"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+      "K07408": "cytochrome P450 family 1 subfamily A polypeptide 1 [EC:1.14.14.1]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09171",
+    "name": "",
+    "definition": "1-Hydroxypyrene + Oxygen <=> 1-Hydroxypyrene-6,7-oxide + H2O",
+    "equation": "C14519 + C00007 <=> C18265 + C00001",
+    "comment": "1-hydroxypyrene 6,7-monooxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "pathways": {
+      "rn00624": "Polycyclic aromatic hydrocarbon degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

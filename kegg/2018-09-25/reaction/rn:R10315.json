@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10315",
+    "name": "glycyrrhetaldehyde,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (30-hydroxylating)",
+    "definition": "Glycyrrhetaldehyde + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> Glycyrrhetinate + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C20511 + C00007 + C03024 <=> C02283 + C03161 + C00001",
+    "comment": "the last step of three-step reaction (see R10316, R10313+R10314+R10315)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.115"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

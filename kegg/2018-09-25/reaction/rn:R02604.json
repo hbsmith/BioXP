@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "R02604",
+    "name": "2-hydroxymuconate-semialdehyde formylhydrolase",
+    "definition": "2-Hydroxy-2,4-pentadienoate + Formate <=> 2-Hydroxymuconate semialdehyde + H2O",
+    "equation": "C00596 + C00058 <=> C00682 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.7.1.9"
+    ],
+    "pathways": {
+      "rn00362": "Benzoate degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K10216": "2-hydroxymuconate-semialdehyde hydrolase [EC:3.7.1.9]"
+    }
+  }
+][
+  {
+    "entry_id": "R02604",
+    "name": "2-hydroxymuconate-semialdehyde formylhydrolase",
+    "definition": "2-Hydroxy-2,4-pentadienoate + Formate <=> 2-Hydroxymuconate semialdehyde + H2O",
+    "equation": "C00596 + C00058 <=> C00682 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.7.1.9"
+    ],
+    "pathways": {
+      "rn00362": "Benzoate degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K10216": "2-hydroxymuconate-semialdehyde hydrolase [EC:3.7.1.9]"
+    }
+  }
+]

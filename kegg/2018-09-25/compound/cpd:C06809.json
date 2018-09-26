@@ -1,0 +1,99 @@
+[
+  {
+    "entry_id": "C06809",
+    "name": "Acetylcysteine",
+    "names": [
+      "Acetylcysteine",
+      "N-Acetyl-L-cysteine"
+    ],
+    "formula": "C5H9NO3S",
+    "exact_mass": 163.0303,
+    "mol_weight": 163.1949,
+    "remark": "Same as: D00221",
+    "comment": "",
+    "reactions": [
+      "R10720"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.10.3.15"
+    ],
+    "dblinks": {
+      "CAS": [
+        "616-91-1"
+      ],
+      "PubChem": [
+        "9028"
+      ],
+      "ChEBI": [
+        "28939"
+      ],
+      "ChEMBL": [
+        "CHEMBL600"
+      ],
+      "PDB-CCD": [
+        "SC2"
+      ],
+      "NIKKAJI": [
+        "J3.309J"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1c C    18.0486  -16.1759\n            2   N1b N    19.2610  -15.4705\n            3   C6a C    16.8419  -15.4705\n            4   C1b C    18.0428  -17.5750\n            5   C5a C    20.4736  -16.1759\n            6   O6a O    15.6236  -16.1643\n            7   O6a O    16.8362  -14.0657\n            8   S1a S    16.8303  -18.2628\n            9   C1a C    21.6802  -15.4705\n            10  O5a O    20.4619  -17.5750\nBOND        9\n            1     1   2 1 #Up\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     3   7 2\n            7     4   8 1\n            8     5   9 1\n            9     5  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C06809",
+    "name": "Acetylcysteine",
+    "names": [
+      "Acetylcysteine",
+      "N-Acetyl-L-cysteine"
+    ],
+    "formula": "C5H9NO3S",
+    "exact_mass": 163.0303,
+    "mol_weight": 163.1949,
+    "remark": "Same as: D00221",
+    "comment": "",
+    "reactions": [
+      "R10720"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.10.3.15"
+    ],
+    "dblinks": {
+      "CAS": [
+        "616-91-1"
+      ],
+      "PubChem": [
+        "9028"
+      ],
+      "ChEBI": [
+        "28939"
+      ],
+      "ChEMBL": [
+        "CHEMBL600"
+      ],
+      "PDB-CCD": [
+        "SC2"
+      ],
+      "NIKKAJI": [
+        "J3.309J"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1c C    18.0486  -16.1759\n            2   N1b N    19.2610  -15.4705\n            3   C6a C    16.8419  -15.4705\n            4   C1b C    18.0428  -17.5750\n            5   C5a C    20.4736  -16.1759\n            6   O6a O    15.6236  -16.1643\n            7   O6a O    16.8362  -14.0657\n            8   S1a S    16.8303  -18.2628\n            9   C1a C    21.6802  -15.4705\n            10  O5a O    20.4619  -17.5750\nBOND        9\n            1     1   2 1 #Up\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     3   7 2\n            7     4   8 1\n            8     5   9 1\n            9     5  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

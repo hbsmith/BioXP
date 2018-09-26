@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10583",
+    "name": "chorismate pyruvate-hydrolase",
+    "definition": "Chorismate + H2O <=> (4R,5R)-4,5-Dihydroxycyclohexa-1(6),2-diene-1-carboxylate + Pyruvate",
+    "equation": "C00251 + C00001 <=> C20710 + C00022",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.3.2.13"
+    ],
+    "pathways": {
+      "rn00400": "Phenylalanine, tyrosine and tryptophan biosynthesis"
+    },
+    "orthologs": {
+      "K18239": "chorismatase [EC:3.3.2.13]"
+    }
+  }
+]

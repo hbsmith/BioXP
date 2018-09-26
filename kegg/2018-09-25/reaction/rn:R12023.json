@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R12023",
+    "name": "1H-pyrrole-2-carbonyl-[peptidyl-carrier protein]:FADH2 oxidoreductase (chlorinating)",
+    "definition": "Pyrrole-2-carbonyl-[pcp] + 2 FADH2 + 2 Cl- + 2 Oxygen <=> 4,5-Dichloro-1H-pyrrole-2-carbonyl-[peptidyl-carrier protein] + 2 FAD + 4 H2O",
+    "equation": "C12483 + 2 C01352 + 2 C00698 + 2 C00007 <=> C21856 + 2 C00016 + 4 C00001",
+    "comment": "two-step reaction (see R12021+R12022)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.56"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

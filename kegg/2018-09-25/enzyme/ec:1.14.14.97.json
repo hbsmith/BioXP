@@ -1,0 +1,141 @@
+[
+  {
+    "entry_id": "1.14.14.97",
+    "name": "methyltetrahydroprotoberberine 14-monooxygenase",
+    "names": [
+      "methyltetrahydroprotoberberine 14-monooxygenase",
+      "methyltetrahydroprotoberberine 14-hydroxylase",
+      "(S)-cis-N-methyltetrahydroberberine 14-monooxygenase",
+      "(S)-cis-N-methyltetrahydroprotoberberine-14-hydroxylase",
+      "CYP82N4 (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "(S)-N-methylcanadine,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (14-hydroxylating)",
+    "reaction": "(S)-N-methylcanadine + [reduced NADPH---hemoprotein reductase] + O2 = allocryptopine + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R03842]",
+    "all_reac": "R03842; (other) R04700",
+    "iubmb_reactions": [
+      "R03842"
+    ],
+    "kegg_reactions": [
+      "R04700"
+    ],
+    "substrates": [
+      "(S)-N-methylcanadine",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "allocryptopine [CPD:C02134]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein found in plants.",
+    "pathways": {
+      "ec00950": "Isoquinoline alkaloid biosynthesis",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K21692": "methyltetrahydroprotoberberine 14-monooxygenase"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.97"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.97"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.97"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.97"
+      ],
+      "CAS": [
+        "113478-42-5"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Rueffer",
+          "M. and Zenk",
+          "M.H."
+        ],
+        "title": "Enzymatic formation of protopines by a microsomal cytochrome-P-450 system of Corydalis vaginans.",
+        "journal": "Tetrahedron Lett",
+        "volume": "28",
+        "issue": "",
+        "pages": "5307-5310",
+        "year": "1987",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Beaudoin GA",
+          "Facchini PJ"
+        ],
+        "title": "Isolation and characterization of a cDNA encoding (S)-cis-N-methylstylopine 14-hydroxylase from opium poppy, a key enzyme in sanguinarine biosynthesis.",
+        "journal": "Biochem Biophys Res Commun 431:597-603 (2013) DOI:10.1016/j.bbrc.2012.12.129",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:23313486]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

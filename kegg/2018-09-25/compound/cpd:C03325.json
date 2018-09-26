@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C03325",
+    "name": "(6S)-Hydroxyhyoscyamine",
+    "names": [
+      "(6S)-Hydroxyhyoscyamine",
+      "(6S)-6-Hydroxyhyoscyamine"
+    ],
+    "formula": "C17H23NO4",
+    "exact_mass": 305.1627,
+    "mol_weight": 305.3688,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03737",
+      "R03812"
+    ],
+    "pathways": {
+      "map00960": "Tropane, piperidine and pyridine alkaloid biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.11.11",
+      "1.14.20.13"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6173"
+      ],
+      "ChEBI": [
+        "15645"
+      ],
+      "ChEMBL": [
+        "CHEMBL2165224"
+      ],
+      "KNApSAcK": [
+        "C00002274"
+      ],
+      "3DMET": [
+        "B04889"
+      ],
+      "NIKKAJI": [
+        "J33.369G"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C1y C    18.0215  -17.1141\n            2   O7a O    19.0766  -18.0396\n            3   C7a C    20.3086  -18.0338\n            4   C1c C    20.9158  -16.9609\n            5   O6a O    20.8980  -19.1124\n            6   C8y C    22.1596  -16.9550\n            7   C8x C    22.7784  -18.0278\n            8   C8x C    22.7668  -15.8821\n            9   C8x C    24.0163  -18.0920\n            10  C8x C    23.9986  -15.8763\n            11  C8x C    24.6235  -16.9491\n            12  C1y C    15.0565  -15.1983\n            13  N1y N    13.7951  -14.6679\n            14  C1x C    17.0725  -15.1865\n            15  C1x C    13.9425  -16.3006\n            16  C1y C    15.0507  -16.4715\n            17  C1y C    13.9425  -17.1199\n            18  C1x C    16.9133  -16.4715\n            19  C1a C    13.7856  -13.2561\n            20  O1a O    12.5748  -16.7462\n            21  C1b C    20.2968  -15.8939\n            22  O1a O    20.9098  -14.8212\nBOND        24\n            1     7   9 1\n            2     8  10 2\n            3     9  11 2\n            4    10  11 1\n            5     1   2 1 #Down\n            6     2   3 1\n            7     3   4 1\n            8     3   5 2\n            9     4   6 1\n            10    6   7 2\n            11   12  13 1\n            12   12  14 1\n            13   12  15 1\n            14   13  16 1\n            15   14   1 1\n            16   15  17 1\n            17   16  18 1\n            18   16  17 1\n            19    1  18 1\n            20   13  19 1\n            21    6   8 1\n            22   17  20 1\n            23   21  22 1\n            24    4  21 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02700",
+    "name": "5-Hydroxy-L-tryptophan:2-oxoglutarate aminotransferase",
+    "definition": "5-Hydroxy-L-tryptophan + 2-Oxoglutarate <=> 5-Hydroxyindolepyruvate + L-Glutamate",
+    "equation": "C00643 + C00026 <=> C05646 + C00025",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.27"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+      "K14265": "tryptophan aminotransferase [EC:2.6.1.27]"
+    }
+  }
+]

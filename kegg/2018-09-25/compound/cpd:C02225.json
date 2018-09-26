@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C02225",
+    "name": "2-Methylcitrate",
+    "names": [
+      "2-Methylcitrate",
+      "(2S,3S)-2-Methylcitrate",
+      "2-Hydroxybutane-1,2,3-tricarboxylate",
+      "(2S,3S)-2-Hydroxybutane-1,2,3-tricarboxylate"
+    ],
+    "formula": "C7H10O7",
+    "exact_mass": 206.0427,
+    "mol_weight": 206.1501,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00931",
+      "R04424",
+      "R11263"
+    ],
+    "pathways": {
+      "map00640": "Propanoate metabolism"
+    },
+    "enzymes": [
+      "2.3.3.5",
+      "4.2.1.79",
+      "4.2.1.117"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5290"
+      ],
+      "ChEBI": [
+        "10860",
+        "15598",
+        "30836"
+      ],
+      "3DMET": [
+        "B01547"
+      ],
+      "NIKKAJI": [
+        "J363.014E"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C1a C    15.6227  -15.9292\n            2   C1c C    16.8286  -16.6163\n            3   C1d C    18.0346  -15.9221\n            4   C1b C    19.2335  -16.6092\n            5   C6a C    20.4394  -15.9151\n            6   O6a O    21.6454  -16.6023\n            7   O6a O    20.4363  -14.6593\n            8   C6a C    18.0316  -14.5269\n            9   O1a O    16.8216  -15.0120\n            10  C6a C    16.8317  -18.0115\n            11  O6a O    15.6241  -18.7152\n            12  O6a O    18.0426  -18.7101\n            13  O6a O    19.2322  -13.6839\n            14  O6a O    16.8208  -13.7588\nBOND        13\n            1     3   4 1\n            2     3   8 1\n            3     3   9 1 #Up\n            4     4   5 1\n            5     2  10 1 #Up\n            6     2   3 1\n            7    10  11 1\n            8     5   6 1\n            9    10  12 2\n            10    1   2 1\n            11    8  13 1\n            12    5   7 2\n            13    8  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

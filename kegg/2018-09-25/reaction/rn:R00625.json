@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00625",
+    "name": "primary_alcohol:NADP+ oxidoreductase",
+    "definition": "Primary alcohol + NADP+ <=> Aldehyde + NADPH + H+",
+    "equation": "C00226 + C00006 <=> C00071 + C00005 + C00080",
+    "comment": "general reaction NAD+ (ec 1.1.1.71, see R00623)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.2",
+      "1.1.1.71"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04988",
+    "name": "S-adenosyl-L-methionine:3-(all-trans-octaprenyl)benzene-1,2-diol 2-O-methyltransferase",
+    "definition": "2-Octaprenyl-6-hydroxyphenol + S-Adenosyl-L-methionine <=> 2-Octaprenyl-6-methoxyphenol + S-Adenosyl-L-homocysteine",
+    "equation": "C05811 + C00019 <=> C05812 + C00021",
+    "comment": "ubiG",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.222"
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00568": "2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1.222 2.1.1.64]"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11745",
+    "name": "cellulose, hydrogen-donor:oxygen oxidoreductase (D-glucosyl C1-hydroxylating)",
+    "definition": "Cellulose(n+m) + Reduced acceptor + Oxygen <=> [(1->4)-beta-D-Glucosyl]n-(1->4)-D-glucono-1,5-lactone + Cellulose(m) + Acceptor + H2O",
+    "equation": "C00760(n+m) + C00030 + C00007 <=> C21626 + C00760(m) + C00028 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.54"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

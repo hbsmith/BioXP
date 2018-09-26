@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R07630",
+    "name": "2-trans,6-trans-farnesyl-diphosphate diphosphate-lyase (amorpha-4,11-diene-forming)",
+    "definition": "trans,trans-Farnesyl diphosphate <=> Amorpha-4,11-diene + Diphosphate",
+    "equation": "C00448 <=> C16028 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.24"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K14178": "amorpha-4,11-diene synthase [EC:4.2.3.24]"
+    }
+  }
+]

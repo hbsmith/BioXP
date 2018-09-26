@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06867",
+    "name": "UDP-sulfoquinovose:diacylglycerol alpha-D-sulfoquinovosyltransferase",
+    "definition": "UDP-6-sulfoquinovose + 1,2-Diacyl-sn-glycerol <=> Sulfoquinovosyldiacylglycerol + UDP",
+    "equation": "C11521 + C00641 <=> C13508 + C00015",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00561": "Glycerolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K06119": "sulfoquinovosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

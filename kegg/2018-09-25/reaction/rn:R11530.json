@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11530",
+    "name": "ADP-alpha-D-glucose:alpha-D-glucose-1-phosphate 4-alpha-D-glucosyltransferase (configuration-retaining)",
+    "definition": "ADP-glucose + D-Glucose 1-phosphate <=> ADP + alpha-Maltose 1-phosphate",
+    "equation": "C00498 + C00103 <=> C00008 + C20237",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.342"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K16148": "alpha-maltose-1-phosphate synthase [EC:2.4.1.342]"
+    }
+  }
+][
+  {
+    "entry_id": "R11530",
+    "name": "ADP-alpha-D-glucose:alpha-D-glucose-1-phosphate 4-alpha-D-glucosyltransferase (configuration-retaining)",
+    "definition": "ADP-glucose + D-Glucose 1-phosphate <=> ADP + alpha-Maltose 1-phosphate",
+    "equation": "C00498 + C00103 <=> C00008 + C20237",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.342"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K16148": "alpha-maltose-1-phosphate synthase [EC:2.4.1.342]"
+    }
+  }
+]

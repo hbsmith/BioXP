@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05651",
+    "name": "acetyl-phosphate:sulfite S-acetyltransferase (acyl-phosphate hydrolysing, 2-oxoethyl-forming)",
+    "definition": "Sulfoacetaldehyde + Orthophosphate <=> Acetyl phosphate + Sulfite",
+    "equation": "C00593 + C00009 <=> C00227 + C00094",
+    "comment": "Xsc, gb:AF305552",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.3.15"
+    ],
+    "pathways": {
+      "rn00430": "Taurine and hypotaurine metabolism"
+    },
+    "orthologs": {
+      "K03852": "sulfoacetaldehyde acetyltransferase [EC:2.3.3.15]"
+    }
+  }
+]

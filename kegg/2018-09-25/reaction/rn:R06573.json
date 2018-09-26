@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06573",
+    "name": "",
+    "definition": "Coniferyl alcohol + NADPH + H+ + Oxygen <=> 5-Hydroxyconiferyl alcohol + NADP+ + H2O",
+    "equation": "C00590 + C00005 + C00080 + C00007 <=> C12205 + C00006 + C00001",
+    "comment": "ferulate 5-hydroxylase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00940": "Phenylpropanoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K09755": "ferulate-5-hydroxylase [EC:1.14.-.-]"
+    }
+  }
+]

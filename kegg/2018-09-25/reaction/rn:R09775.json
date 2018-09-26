@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R09775",
+    "name": "LysW:L-2-aminoadipate ligase (ADP-forming); [lysine-biosynthesis-protein LysW]-C-terminal-L-glutamate:L-2-aminoadipate ligase (ADP-forming)",
+    "definition": "L-2-Aminoadipate + alpha-Aminoadipate carrier protein LysW + ATP <=> LysW-gamma-L-alpha-aminoadipate + ADP + Orthophosphate",
+    "equation": "C00956 + C19885 + C00002 <=> C19886 + C00008 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.2.43"
+    ],
+    "pathways": {
+      "rn00300": "Lysine biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01210": "2-Oxocarboxylic acid metabolism",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K05827": "[lysine-biosynthesis-protein LysW]---L-2-aminoadipate ligase [EC:6.3.2.43]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00952",
+    "name": "cellobiose:phosphate alpha-D-glucosyltransferase",
+    "definition": "Cellobiose + Orthophosphate <=> D-Glucose 1-phosphate + D-Glucose",
+    "equation": "C00185 + C00009 <=> C00103 + C00031",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.20"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00702": "cellobiose phosphorylase [EC:2.4.1.20]"
+    }
+  }
+]

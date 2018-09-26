@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R10052",
+    "name": "(2R,3S)-3-isopropylmalate:NAD+ oxidoreductase",
+    "definition": "(2R,3S)-3-Isopropylmalate + NAD+ <=> 4-Methyl-2-oxopentanoate + CO2 + NADH + H+",
+    "equation": "C04411 + C00003 <=> C00233 + C00011 + C00004 + C00080",
+    "comment": "two-step reaction (see R04426+R01652)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.85"
+    ],
+    "pathways": {
+      "rn01210": "2-Oxocarboxylic acid metabolism",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K00052": "3-isopropylmalate dehydrogenase [EC:1.1.1.85]",
+      "K21360": "3-isopropylmalate/methylthioalkylmalate dehydrogenase [EC:1.1.1.85 1.1.1.-]"
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "entry_id": "C02512",
+    "name": "3-Cyano-L-alanine",
+    "names": [
+      "3-Cyano-L-alanine",
+      "L-3-Cyanoalanine",
+      "L-beta-Cyanoalanine"
+    ],
+    "formula": "C4H6N2O2",
+    "exact_mass": 114.0429,
+    "mol_weight": 114.1026,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00486",
+      "R01267",
+      "R02846",
+      "R03524",
+      "R03970",
+      "R06614"
+    ],
+    "pathways": {
+      "map00460": "Cyanoamino acid metabolism",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "2.3.2.2",
+      "3.5.5.4",
+      "4.1.1.-",
+      "4.2.1.65",
+      "4.4.1.9"
+    ],
+    "dblinks": {
+      "CAS": [
+        "6232-19-5"
+      ],
+      "PubChem": [
+        "5522"
+      ],
+      "ChEBI": [
+        "16934"
+      ],
+      "KNApSAcK": [
+        "C00001350"
+      ],
+      "3DMET": [
+        "B01584"
+      ],
+      "NIKKAJI": [
+        "J51.820D"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1c C    19.0299  -15.0321\n            2   C1b C    17.8411  -14.2609\n            3   C6a C    20.3666  -14.5759\n            4   N1a N    19.0170  -16.4772\n            5   C3b C    16.5943  -14.8971\n            6   O6a O    21.5105  -15.3856\n            7   O6a O    20.3666  -13.1813\n            8   N3a N    15.4877  -15.4634\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     3   6 1\n            6     3   7 2\n            7     5   8 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

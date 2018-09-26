@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R01496",
+    "name": "acyl-CoA:sphingosine N-acyltransferase",
+    "definition": "Acyl-CoA + Sphingosine <=> CoA + N-Acylsphingosine",
+    "equation": "C00040 + C00319 <=> C00010 + C00195",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.24"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism"
+    },
+    "orthologs": {
+      "K04710": "ceramide synthetase [EC:2.3.1.24]"
+    }
+  }
+][
+  {
+    "entry_id": "R01496",
+    "name": "acyl-CoA:sphingosine N-acyltransferase",
+    "definition": "Acyl-CoA + Sphingosine <=> CoA + N-Acylsphingosine",
+    "equation": "C00040 + C00319 <=> C00010 + C00195",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.24"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism"
+    },
+    "orthologs": {
+      "K04710": "ceramide synthetase [EC:2.3.1.24]"
+    }
+  }
+]

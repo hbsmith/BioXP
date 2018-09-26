@@ -1,0 +1,216 @@
+[
+  {
+    "entry_id": "1.14.15.25",
+    "name": "p-cymene methyl-monooxygenase",
+    "names": [
+      "p-cymene methyl-monooxygenase",
+      "cymAa (gene name)",
+      "cymA (gene name)",
+      "p-cymene methyl hydroxylase"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced iron-sulfur protein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "p-cymene,ferredoxin:oxygen oxidoreductase (methyl-hydroxylating)",
+    "reaction": "p-cymene + O2 + 2 reduced ferredoxin [iron-sulfur] cluster + 2 H+ = 4-isopropylbenzyl alcohol + 2 oxidized ferredoxin [iron-sulfur] cluster + H2O [RN:R05266]",
+    "all_reac": "R05266",
+    "iubmb_reactions": [
+      "R05266"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "p-cymene [CPD:C06575]",
+      "O2 [CPD:C00007]",
+      "reduced ferredoxin [iron-sulfur] cluster [CPD:C00138]",
+      "H+ [CPD:C00080]"
+    ],
+    "products": [
+      "4-isopropylbenzyl alcohol [CPD:C06576]",
+      "oxidized ferredoxin [iron-sulfur] cluster [CPD:C00139]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, characterized from several Pseudomonas strains, initiates p-cymene catabolism through hydroxylation of the methyl group. The enzyme has a distinct preference for substrates containing at least an alkyl or heteroatom substituent at the para-position of toluene. The electrons are provided by a reductase (EC 1.18.1.3, ferredoxin---NAD+ reductase) that transfers electrons from NADH via FAD and an [2Fe-2S] cluster. In Pseudomonas chlororaphis the presence of a third component of unknown function greatly increases the activity. cf. EC 1.14.15.26, toluene methyl-monooxygenase.",
+    "pathways": {
+      "ec00622": "Xylene degradation",
+      "ec01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K10616": "p-cymene methyl-monooxygenase"
+    },
+    "genes": {
+      "ppf": [
+        "Pput_2903"
+      ],
+      "ppx": [
+        "T1E_4243"
+      ],
+      "pmon": [
+        "X969_10820"
+      ],
+      "pmot": [
+        "X970_10475"
+      ],
+      "bxe": [
+        "Bxe_A3561"
+      ],
+      "bxb": [
+        "DR64_1260"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.15.25"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.15.25"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.15.25"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.15.25"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Eaton RW"
+        ],
+        "title": "p-Cymene catabolic pathway in Pseudomonas putida F1: cloning and characterization of DNA encoding conversion of p-cymene to p-cumate.",
+        "journal": "J Bacteriol 179:3171-80 (1997) DOI:10.1128/JB.179.10.3171-3180.1997",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:9150211]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dutta TK",
+          "Gunsalus IC"
+        ],
+        "title": "Reductase gene sequences and protein structures: p-cymene methyl hydroxylase.",
+        "journal": "Biochem Biophys Res Commun 233:502-6 (1997) DOI:10.1006/bbrc.1997.6493",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:9144566]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nishio T",
+          "Patel A",
+          "Wang Y",
+          "Lau PC"
+        ],
+        "title": "Biotransformations catalyzed by cloned p-cymene monooxygenase from Pseudomonas putida F1.",
+        "journal": "Appl Microbiol Biotechnol",
+        "volume": "55",
+        "issue": "",
+        "pages": "321-5",
+        "year": "2001",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:11341314]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dutta TK",
+          "Chakraborty J",
+          "Roy M",
+          "Ghosal D",
+          "Khara P",
+          "Gunsalus IC"
+        ],
+        "title": "Cloning and characterization of a p-cymene monooxygenase from Pseudomonas chlororaphis subsp. aureofaciens.",
+        "journal": "Res Microbiol 161:876-82 (2010) DOI:10.1016/j.resmic.2010.10.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:21035544]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

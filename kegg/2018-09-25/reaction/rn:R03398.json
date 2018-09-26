@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R03398",
+    "name": "GDP-6-deoxy-D-talose:NADP+ 4-oxidoreductase",
+    "definition": "GDP-6-deoxy-D-talose + NADP+ <=> GDP-4-dehydro-6-deoxy-D-mannose + NADPH + H+",
+    "equation": "C02977 + C00006 <=> C01222 + C00005 + C00080",
+    "comment": "NAD+ (see R03396)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.135",
+      "1.1.1.187"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K22252": "GDP-6-deoxy-D-talose 4-dehydrogenase [EC:1.1.1.135]"
+    }
+  }
+][
+  {
+    "entry_id": "R03398",
+    "name": "GDP-6-deoxy-D-talose:NADP+ 4-oxidoreductase",
+    "definition": "GDP-6-deoxy-D-talose + NADP+ <=> GDP-4-dehydro-6-deoxy-D-mannose + NADPH + H+",
+    "equation": "C02977 + C00006 <=> C01222 + C00005 + C00080",
+    "comment": "NAD+ (see R03396)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.135",
+      "1.1.1.187"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K22252": "GDP-6-deoxy-D-talose 4-dehydrogenase [EC:1.1.1.135]"
+    }
+  }
+]

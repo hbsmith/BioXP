@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C17721",
+    "name": "Vinyl ether",
+    "names": [
+      "Vinyl ether"
+    ],
+    "formula": "C4H6O",
+    "exact_mass": 70.0419,
+    "mol_weight": 70.0898,
+    "remark": "ATC code: N01AA02",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "109-93-3"
+      ],
+      "PubChem": [
+        "96024051"
+      ],
+      "ChEBI": [
+        "81293"
+      ],
+      "ChEMBL": [
+        "CHEMBL2105883"
+      ],
+      "NIKKAJI": [
+        "J2.441D"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C2b C    13.7900  -12.9500\n            2   C2a C    15.0024  -13.6500\n            3   O2a O    12.5776  -13.6500\n            4   C2b C    11.3821  -12.9596\n            5   C2a C    10.1947  -13.6451\nBOND        4\n            1     1   2 2\n            2     1   3 1\n            3     3   4 1\n            4     4   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

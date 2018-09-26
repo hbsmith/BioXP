@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C20808",
+    "name": "2-Methyl-1-pyrroline",
+    "names": [
+      "2-Methyl-1-pyrroline"
+    ],
+    "formula": "C5H9N",
+    "exact_mass": 83.0735,
+    "mol_weight": 83.1317,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10730"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.5.1.48"
+    ],
+    "dblinks": {
+      "CAS": [
+        "872-32-2"
+      ],
+      "PubChem": [
+        "254741275"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C1x C    16.3060  -16.5827\n            2   C1x C    16.7205  -17.9205\n            3   C1x C    18.1209  -17.9397\n            4   C2y C    18.5720  -16.6138\n            5   N2x N    17.4503  -15.7750\n            6   C1a C    19.7706  -15.8982\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     1   5 1\n            6     4   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

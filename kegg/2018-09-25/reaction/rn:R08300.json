@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "R08300",
+    "name": "Lidocaine amidohydrolase",
+    "definition": "Lidocaine + H2O <=> 2,6-Dimethylaniline + N,N-Diethylglycine",
+    "equation": "C07073 + C00001 <=> C11004 + C16647",
+    "comment": "carboxylesterases (ec 3.1.1.1) also have some amidohydrolase activities",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.1"
+    ],
+    "pathways": {
+      "rn00982": "Drug metabolism - cytochrome P450"
+    },
+    "orthologs": {
+    }
+  }
+][
+  {
+    "entry_id": "R08300",
+    "name": "Lidocaine amidohydrolase",
+    "definition": "Lidocaine + H2O <=> 2,6-Dimethylaniline + N,N-Diethylglycine",
+    "equation": "C07073 + C00001 <=> C11004 + C16647",
+    "comment": "carboxylesterases (ec 3.1.1.1) also have some amidohydrolase activities",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.1"
+    ],
+    "pathways": {
+      "rn00982": "Drug metabolism - cytochrome P450"
+    },
+    "orthologs": {
+    }
+  }
+]

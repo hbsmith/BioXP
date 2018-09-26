@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01834",
+    "name": "3-Oxo-5alpha-steroid:(acceptor) delta4-oxidoreductase",
+    "definition": "5alpha-Androstane-3,17-dione + Acceptor <=> Androstenedione + Reduced acceptor",
+    "equation": "C00674 + C00028 <=> C00280 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.99.5"
+    ],
+    "pathways": {
+      "rn00984": "Steroid degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K16051": "3-oxo-5alpha-steroid 4-dehydrogenase [EC:1.3.99.5]"
+    }
+  }
+]

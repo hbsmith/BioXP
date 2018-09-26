@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01966",
+    "name": "beta-D-glucosaminide glucosaminohydrolase",
+    "definition": "D-Glucosamine + D-Glucosaminide <=> D-Glucosaminide + H2O",
+    "equation": "C00329 + C06023 <=> C06023 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.165"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K15855": "exo-1,4-beta-D-glucosaminidase [EC:3.2.1.165]"
+    }
+  }
+]

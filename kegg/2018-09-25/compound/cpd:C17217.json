@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C17217",
+    "name": "Dihomomethionine",
+    "names": [
+      "Dihomomethionine",
+      "L-Dihomomethionine"
+    ],
+    "formula": "C7H15NO2S",
+    "exact_mass": 177.0823,
+    "mol_weight": 177.2645,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08626",
+      "R08670"
+    ],
+    "pathways": {
+      "map00966": "Glucosinolate biosynthesis",
+      "map01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "enzymes": [
+      "1.14.14.42",
+      "2.6.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023625"
+      ],
+      "ChEBI": [
+        "50710"
+      ],
+      "KNApSAcK": [
+        "C00007594"
+      ],
+      "NIKKAJI": [
+        "J1.570.412H"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1a C    13.7901  -16.5201\n            2   S2a S    15.0025  -15.8201\n            3   C1b C    16.2150  -16.5201\n            4   C1b C    17.4274  -15.8201\n            5   C1b C    18.6398  -16.5201\n            6   C1b C    19.8523  -15.8201\n            7   C1c C    21.0647  -16.5201\n            8   C6a C    22.2772  -15.8201\n            9   O6a O    23.4897  -16.5201\n            10  O6a O    22.2772  -14.4202\n            11  N1a N    21.0647  -17.9201\nBOND        10\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     8  10 2\n            10    7  11 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

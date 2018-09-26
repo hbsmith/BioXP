@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10157",
+    "name": "1-deoxypentalenic acid,2-oxoglutarate:oxygen oxidoreductase",
+    "definition": "1-Deoxypentalenate + 2-Oxoglutarate + Oxygen <=> 1-Deoxy-11beta-hydroxypentalenate + Succinate + CO2",
+    "equation": "C20404 + C00026 + C00007 <=> C20403 + C00042 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.35"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K18056": "1-deoxypentalenic acid 11beta-hydroxylase [EC:1.14.11.35]"
+    }
+  }
+]

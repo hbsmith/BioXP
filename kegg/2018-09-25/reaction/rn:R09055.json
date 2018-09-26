@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09055",
+    "name": "3-deacetyl-3-(1-hydroxyethyl)bacteriochlorophyllide-a:NAD+ oxidoreductase (bacteriochlorophyllide a-forming)",
+    "definition": "3-Hydroxyethylbacteriochlorophyllide a + NAD+ <=> Bacteriochlorophyllide a + NADH + H+",
+    "equation": "C18153 + C00003 <=> C18155 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.396"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K11337": "bacteriochlorophyllide a dehydrogenase [EC:1.1.1.396]"
+    }
+  }
+]

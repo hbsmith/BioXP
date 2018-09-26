@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04734",
+    "name": "4a-hydroxytetrahydrobiopterin hydro-lyase",
+    "definition": "4a-Hydroxytetrahydrobiopterin <=> Dihydrobiopterin + H2O",
+    "equation": "C15522 <=> C00268 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.96"
+    ],
+    "pathways": {
+      "rn00790": "Folate biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01724": "4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]"
+    }
+  }
+]

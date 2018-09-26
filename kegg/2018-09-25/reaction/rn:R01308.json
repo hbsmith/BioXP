@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01308",
+    "name": "",
+    "definition": "4-Hydroxybenzoate + Acetate + NADH + H+ <=> 4-Coumarate + 2 H2O + NAD+",
+    "equation": "C00156 + C00033 + C00004 + C00080 <=> C00811 + 2 C00001 + C00003",
+    "comment": "beta-oxidation, three-step reaction (addition of water, oxidation, cleavage)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

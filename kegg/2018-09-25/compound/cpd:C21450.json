@@ -1,0 +1,77 @@
+[
+  {
+    "entry_id": "C21450",
+    "name": "4-(2-Hydroxyethoxycarbonyl)benzoate",
+    "names": [
+      "4-(2-Hydroxyethoxycarbonyl)benzoate",
+      "4-[(2-Hydroxyethoxy)carbonyl]benzoate",
+      "Mono(2-hydroxyethyl) terephthalate",
+      "Mono(ethylene terephthalate)"
+    ],
+    "formula": "C10H10O5",
+    "exact_mass": 210.0528,
+    "mol_weight": 210.1834,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11540",
+      "R11541"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.1.101",
+      "3.1.1.102"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "329728073"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8y C    18.0600  -14.6300\n            2   C8x C    18.0600  -16.0300\n            3   C8x C    19.2724  -16.7300\n            4   C8y C    20.4849  -16.0300\n            5   C8x C    20.4849  -14.6300\n            6   C8x C    19.2724  -13.9300\n            7   C6a C    21.7160  -16.7410\n            8   C7a C    16.8476  -13.9300\n            9   O7a O    15.6521  -14.6204\n            10  O6a O    16.8475  -12.5302\n            11  O6a O    22.9212  -16.0453\n            12  O6a O    21.7157  -18.1299\n            13  C1b C    14.4647  -13.9349\n            14  C1b C    13.2735  -14.6229\n            15  O1a O    12.0840  -13.9362\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     1   8 1\n            9     8   9 1\n            10    8  10 2\n            11    7  11 1\n            12    7  12 2\n            13    9  13 1\n            14   13  14 1\n            15   14  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C21450",
+    "name": "4-(2-Hydroxyethoxycarbonyl)benzoate",
+    "names": [
+      "4-(2-Hydroxyethoxycarbonyl)benzoate",
+      "4-[(2-Hydroxyethoxy)carbonyl]benzoate",
+      "Mono(2-hydroxyethyl) terephthalate",
+      "Mono(ethylene terephthalate)"
+    ],
+    "formula": "C10H10O5",
+    "exact_mass": 210.0528,
+    "mol_weight": 210.1834,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11540",
+      "R11541"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.1.101",
+      "3.1.1.102"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "329728073"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8y C    18.0600  -14.6300\n            2   C8x C    18.0600  -16.0300\n            3   C8x C    19.2724  -16.7300\n            4   C8y C    20.4849  -16.0300\n            5   C8x C    20.4849  -14.6300\n            6   C8x C    19.2724  -13.9300\n            7   C6a C    21.7160  -16.7410\n            8   C7a C    16.8476  -13.9300\n            9   O7a O    15.6521  -14.6204\n            10  O6a O    16.8475  -12.5302\n            11  O6a O    22.9212  -16.0453\n            12  O6a O    21.7157  -18.1299\n            13  C1b C    14.4647  -13.9349\n            14  C1b C    13.2735  -14.6229\n            15  O1a O    12.0840  -13.9362\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     1   8 1\n            9     8   9 1\n            10    8  10 2\n            11    7  11 1\n            12    7  12 2\n            13    9  13 1\n            14   13  14 1\n            15   14  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

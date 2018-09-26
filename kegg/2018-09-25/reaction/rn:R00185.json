@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R00185",
+    "name": "ATP:adenosine 5'-phosphotransferase",
+    "definition": "ATP + Adenosine <=> ADP + AMP",
+    "equation": "C00002 + C00212 <=> C00008 + C00020",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.20",
+      "2.7.1.74"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00856": "adenosine kinase [EC:2.7.1.20]",
+      "K00893": "deoxycitidine kinase [EC:2.7.1.74]",
+      "K15519": "deoxyadenosine/deoxycytidine kinase [EC:2.7.1.76 2.7.1.74]"
+    }
+  }
+]

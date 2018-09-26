@@ -1,0 +1,60 @@
+[
+  {
+    "entry_id": "C06071",
+    "name": "Deoxyloganin",
+    "names": [
+      "Deoxyloganin",
+      "7-Deoxyloganin"
+    ],
+    "formula": "C17H26O9",
+    "exact_mass": 374.1577,
+    "mol_weight": 374.3829,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03556",
+      "R05090",
+      "R10835"
+    ],
+    "pathways": {
+      "map00902": "Monoterpenoid biosynthesis",
+      "map01062": "Biosynthesis of terpenoids and steroids",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.14.85",
+      "2.4.1.324"
+    ],
+    "dblinks": {
+      "CAS": [
+        "26660-57-1"
+      ],
+      "PubChem": [
+        "8338"
+      ],
+      "ChEBI": [
+        "18370"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0102070005"
+      ],
+      "KNApSAcK": [
+        "C00003077"
+      ],
+      "3DMET": [
+        "B01963"
+      ],
+      "NIKKAJI": [
+        "J17.142E"
+      ]
+    },
+    "kcf": "ATOM        26\n            1   C1y C    25.4589  -14.7252\n            2   C1y C    25.4589  -13.3446\n            3   C1y C    26.6388  -15.4270\n            4   C1y C    24.1437  -15.1496\n            5   C2y C    26.6388  -12.6661\n            6   C1x C    24.1496  -12.9319\n            7   O2a O    26.6214  -17.4921\n            8   O2x O    27.8364  -14.7252\n            9   C1x C    23.3472  -14.0292\n            10  C1a C    23.7192  -16.4415\n            11  C2x C    27.8364  -13.3446\n            12  C7a C    26.7030  -11.2971\n            13  C1y C    25.3587  -18.5415\n            14  O7a O    27.8188  -10.6254\n            15  O6a O    25.4472  -10.6313\n            16  O2x O    24.1670  -17.8629\n            17  C1y C    25.3587  -19.9103\n            18  C1a C    28.9989  -11.2971\n            19  C1y C    22.9939  -18.5474\n            20  C1y C    24.1670  -20.5949\n            21  O1a O    26.5445  -20.5949\n            22  C1y C    22.9939  -19.9103\n            23  C1b C    21.8197  -17.8629\n            24  O1a O    24.1670  -21.9510\n            25  O1a O    21.8197  -20.5949\n            26  O1a O    20.7750  -18.7421\nBOND        28\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1 #Up\n            7     3   8 1\n            8     4   9 1\n            9     4  10 1 #Up\n            10    5  11 2\n            11    5  12 1\n            12   13   7 1 #Up\n            13   12  14 1\n            14   12  15 2\n            15   13  16 1\n            16   13  17 1\n            17   14  18 1\n            18   16  19 1\n            19   17  20 1\n            20   17  21 1 #Down\n            21   19  22 1\n            22   19  23 1 #Up\n            23   20  24 1 #Up\n            24   22  25 1 #Down\n            25   23  26 1\n            26    6   9 1\n            27    8  11 1\n            28   20  22 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

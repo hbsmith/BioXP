@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09370",
+    "name": "S-adenosyl-L-methionine:dimethyl-selenide Se-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Dimethyl selenide <=> S-Adenosyl-L-homocysteine + Trimethylselenonium",
+    "equation": "C00019 + C02535 <=> C00021 + C18872",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.96"
+    ],
+    "pathways": {
+      "rn00450": "Selenocompound metabolism"
+    },
+    "orthologs": {
+      "K00562": "methyltransferase [EC:2.1.1.49 2.1.1.96]"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C03872",
+    "name": "L-Serine-phosphoethanolamine",
+    "names": [
+      "L-Serine-phosphoethanolamine",
+      "Serine phosphoethanolamine"
+    ],
+    "formula": "C5H13N2O6P",
+    "exact_mass": 228.0511,
+    "mol_weight": 228.1403,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02563",
+      "R02817"
+    ],
+    "pathways": {
+      "map00564": "Glycerophospholipid metabolism"
+    },
+    "enzymes": [
+      "2.7.8.4",
+      "3.1.4.13"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6606"
+      ],
+      "ChEBI": [
+        "16542"
+      ],
+      "3DMET": [
+        "B01695"
+      ],
+      "NIKKAJI": [
+        "J2.744.403B"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   P1b P    17.8179  -15.0950\n            2   O2b O    19.2220  -15.0950\n            3   O2b O    16.4265  -15.0950\n            4   O1c O    17.8179  -13.6974\n            5   O1c O    17.8813  -16.4994\n            6   C1b C    20.4265  -14.3994\n            7   C1b C    15.2090  -15.7972\n            8   C1c C    21.6441  -15.1016\n            9   C1b C    13.9981  -15.0950\n            10  C6a C    22.8615  -14.3994\n            11  N1a N    21.6441  -16.5058\n            12  N1a N    12.7871  -15.7972\n            13  O6a O    24.0726  -15.1016\n            14  O6a O    22.8615  -13.0081\nBOND        13\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     2   6 1\n            6     3   7 1\n            7     6   8 1\n            8     7   9 1\n            9     8  10 1\n            10    8  11 1 #Up\n            11    9  12 1\n            12   10  13 1\n            13   10  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

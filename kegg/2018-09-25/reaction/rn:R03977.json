@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03977",
+    "name": "chenodeoxycholoyltaurine amidohydrolase",
+    "definition": "Taurochenodeoxycholate + H2O <=> Chenodeoxycholate + Taurine",
+    "equation": "C05465 + C00001 <=> C02528 + C00245",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.24",
+      "3.5.1.74"
+    ],
+    "pathways": {
+      "rn00120": "Primary bile acid biosynthesis"
+    },
+    "orthologs": {
+      "K01442": "choloylglycine hydrolase [EC:3.5.1.24]"
+    }
+  }
+]

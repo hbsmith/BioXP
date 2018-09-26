@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C19280",
+    "name": "3-(N-Nitrosomethylamino)propionitrile",
+    "names": [
+      "3-(N-Nitrosomethylamino)propionitrile",
+      "3-(Methylnitrosamino)propionitrile"
+    ],
+    "formula": "C4H7N3O",
+    "exact_mass": 113.0589,
+    "mol_weight": 113.1179,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "60153-49-3"
+      ],
+      "PubChem": [
+        "124489952"
+      ],
+      "ChEBI": [
+        "82359"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   N1c N    21.2100  -16.1700\n            2   C1b C    22.4224  -16.8700\n            3   C1a C    19.9976  -16.8700\n            4   N2b N    21.2100  -14.7700\n            5   O3a O    22.4224  -14.0700\n            6   C1b C    23.6179  -16.1796\n            7   C3b C    24.8053  -16.8651\n            8   N3a N    25.9965  -16.1771\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     4   5 2\n            5     2   6 1\n            6     6   7 1\n            7     7   8 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

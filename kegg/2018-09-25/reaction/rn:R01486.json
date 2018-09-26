@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R01486",
+    "name": "aromatic aldehyde:NAD+ oxidoreductase",
+    "definition": "Aromatic aldehyde + NAD+ + H2O <=> Aromatic acid + NADH + H+",
+    "equation": "C00193 + C00003 + C00001 <=> C00539 + C00004 + C00080",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.29"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

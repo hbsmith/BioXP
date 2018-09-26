@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R08081",
+    "name": "flavanone,2-oxoglutarate:oxygen oxidoreductase (dehydrating)",
+    "definition": "Pinocembrin + 2-Oxoglutarate + Oxygen <=> Chrysin + Succinate + CO2 + H2O",
+    "equation": "C09827 + C00026 + C00007 <=> C10028 + C00042 + C00011 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.20.5"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis"
+    },
+    "orthologs": {
+      "K13077": "flavone synthase I [EC:1.14.20.5]"
+    }
+  }
+][
+  {
+    "entry_id": "R08081",
+    "name": "flavanone,2-oxoglutarate:oxygen oxidoreductase (dehydrating)",
+    "definition": "Pinocembrin + 2-Oxoglutarate + Oxygen <=> Chrysin + Succinate + CO2 + H2O",
+    "equation": "C09827 + C00026 + C00007 <=> C10028 + C00042 + C00011 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.20.5"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis"
+    },
+    "orthologs": {
+      "K13077": "flavone synthase I [EC:1.14.20.5]"
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "entry_id": "C20239",
+    "name": "6-Carboxy-5,6,7,8-tetrahydropterin",
+    "names": [
+      "6-Carboxy-5,6,7,8-tetrahydropterin",
+      "6-Carboxytetrahydropterin"
+    ],
+    "formula": "C7H9N5O3",
+    "exact_mass": 211.0705,
+    "mol_weight": 211.1781,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09959",
+      "R10002"
+    ],
+    "pathways": {
+      "map00790": "Folate biosynthesis",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "4.1.2.50",
+      "4.3.99.3"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "163311982"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8y C    13.5226  -18.2152\n            2   C8y C    13.5285  -16.8171\n            3   N1x N    14.7343  -18.9259\n            4   N5x N    12.3167  -18.9200\n            5   N1x N    14.7460  -16.1240\n            6   C8y C    12.3167  -16.1181\n            7   C1x C    15.9519  -18.2269\n            8   C8y C    11.0994  -18.2152\n            9   C1y C    15.9576  -16.8228\n            10  N4x N    11.0994  -16.8171\n            11  O5x O    12.3167  -14.7142\n            12  N1a N     9.8876  -18.9200\n            13  C6a C    17.1518  -16.1240\n            14  O6a O    18.3636  -16.8171\n            15  O6a O    17.1460  -14.7259\nBOND        16\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     4   8 2\n            8     5   9 1\n            9     6  10 1\n            10    6  11 2\n            11    8  12 1\n            12    9  13 1\n            13   13  14 1\n            14   13  15 2\n            15    7   9 1\n            16    8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C20239",
+    "name": "6-Carboxy-5,6,7,8-tetrahydropterin",
+    "names": [
+      "6-Carboxy-5,6,7,8-tetrahydropterin",
+      "6-Carboxytetrahydropterin"
+    ],
+    "formula": "C7H9N5O3",
+    "exact_mass": 211.0705,
+    "mol_weight": 211.1781,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09959",
+      "R10002"
+    ],
+    "pathways": {
+      "map00790": "Folate biosynthesis",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "4.1.2.50",
+      "4.3.99.3"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "163311982"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8y C    13.5226  -18.2152\n            2   C8y C    13.5285  -16.8171\n            3   N1x N    14.7343  -18.9259\n            4   N5x N    12.3167  -18.9200\n            5   N1x N    14.7460  -16.1240\n            6   C8y C    12.3167  -16.1181\n            7   C1x C    15.9519  -18.2269\n            8   C8y C    11.0994  -18.2152\n            9   C1y C    15.9576  -16.8228\n            10  N4x N    11.0994  -16.8171\n            11  O5x O    12.3167  -14.7142\n            12  N1a N     9.8876  -18.9200\n            13  C6a C    17.1518  -16.1240\n            14  O6a O    18.3636  -16.8171\n            15  O6a O    17.1460  -14.7259\nBOND        16\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     4   8 2\n            8     5   9 1\n            9     6  10 1\n            10    6  11 2\n            11    8  12 1\n            12    9  13 1\n            13   13  14 1\n            14   13  15 2\n            15    7   9 1\n            16    8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

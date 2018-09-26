@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C14597",
+    "name": "2,3-Bis(p-methoxyphenyl)acrylonitrile",
+    "names": [
+      "2,3-Bis(p-methoxyphenyl)acrylonitrile",
+      "2,3-Di(4-methoxyphenyl)acrylonitrile"
+    ],
+    "formula": "C17H15NO2",
+    "exact_mass": 265.1103,
+    "mol_weight": 265.3065,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "6443-74-9"
+      ],
+      "PubChem": [
+        "17395597"
+      ],
+      "ChEBI": [
+        "34226"
+      ],
+      "ChEMBL": [
+        "CHEMBL82022"
+      ],
+      "NIKKAJI": [
+        "J800.721G"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C8x C    14.8400  -18.2000\n            2   C8y C    14.8400  -19.6000\n            3   C8x C    16.0524  -20.3000\n            4   C8x C    17.2649  -19.6000\n            5   C8y C    17.2649  -18.2000\n            6   C8x C    16.0524  -17.5000\n            7   C2b C    18.4960  -17.4890\n            8   C2c C    19.7012  -18.1847\n            9   C8y C    20.8835  -17.5019\n            10  C8x C    22.0775  -18.1912\n            11  C8x C    23.2899  -17.4912\n            12  C8y C    23.2899  -16.0912\n            13  C8x C    22.0960  -15.4019\n            14  C8x C    20.8835  -16.1019\n            15  O2a O    13.6276  -20.3000\n            16  O2a O    24.5134  -15.3846\n            17  C1a C    25.7224  -16.0825\n            18  C1a C    12.4321  -19.6096\n            19  C3b C    19.7016  -19.5996\n            20  N3a N    19.6700  -21.0000\nBOND        21\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11   10  11 1\n            12   11  12 2\n            13   12  13 1\n            14   13  14 2\n            15    9  14 1\n            16    2  15 1\n            17   12  16 1\n            18   16  17 1\n            19   15  18 1\n            20    8  19 1\n            21   19  20 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

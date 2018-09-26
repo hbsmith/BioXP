@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00090",
+    "name": "NADH:hydrogen-peroxide oxidoreductase",
+    "definition": "Hydrogen peroxide + NADH + H+ <=> NAD+ + 2 H2O",
+    "equation": "C00027 + C00004 + C00080 <=> C00003 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.11.1.1"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

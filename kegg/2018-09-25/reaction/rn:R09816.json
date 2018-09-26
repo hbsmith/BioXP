@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "R09816",
+    "name": "11alpha-hydroxy-beta-amyrin,[reduced NADPH---hemoprotein reductase]:oxygen 11-oxidoreductase",
+    "definition": "11alpha-Hydroxy-beta-amyrin + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 11-Oxo-beta-amyrin + 2 H2O + [Oxidized NADPH---hemoprotein reductase]",
+    "equation": "C19942 + C03024 + C00007 <=> C19943 + 2 C00001 + C03161",
+    "comment": "the second step of two-step reaction (see R09817, R09815+R09816)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.152"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K17875": "beta-amyrin 11-oxidase [EC:1.14.14.152]"
+    }
+  }
+][
+  {
+    "entry_id": "R09816",
+    "name": "11alpha-hydroxy-beta-amyrin,[reduced NADPH---hemoprotein reductase]:oxygen 11-oxidoreductase",
+    "definition": "11alpha-Hydroxy-beta-amyrin + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 11-Oxo-beta-amyrin + 2 H2O + [Oxidized NADPH---hemoprotein reductase]",
+    "equation": "C19942 + C03024 + C00007 <=> C19943 + 2 C00001 + C03161",
+    "comment": "the second step of two-step reaction (see R09817, R09815+R09816)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.152"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K17875": "beta-amyrin 11-oxidase [EC:1.14.14.152]"
+    }
+  }
+]

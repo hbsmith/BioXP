@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11777",
+    "name": "(3R)-3-hydroxy-16-methoxy-2,3-dihydrotabersonine:acceptor oxidoreductase",
+    "definition": "16-Methoxy-2,3-dihydro-3-hydroxytabersonine + Acceptor <=> (3R)-3-Hydroxy-16-methoxy-1,2-didehydro-2,3-dihydrotabersonine + Reduced acceptor",
+    "equation": "C04578 + C00028 <=> C21678 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.99.41"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22323": "3-hydroxy-1,2-didehydro-2,3-dihydrotabersonine reductase [EC:1.1.99.41]"
+    }
+  }
+][
+  {
+    "entry_id": "R11777",
+    "name": "(3R)-3-hydroxy-16-methoxy-2,3-dihydrotabersonine:acceptor oxidoreductase",
+    "definition": "16-Methoxy-2,3-dihydro-3-hydroxytabersonine + Acceptor <=> (3R)-3-Hydroxy-16-methoxy-1,2-didehydro-2,3-dihydrotabersonine + Reduced acceptor",
+    "equation": "C04578 + C00028 <=> C21678 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.99.41"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22323": "3-hydroxy-1,2-didehydro-2,3-dihydrotabersonine reductase [EC:1.1.99.41]"
+    }
+  }
+]

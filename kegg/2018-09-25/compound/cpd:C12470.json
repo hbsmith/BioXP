@@ -1,0 +1,89 @@
+[
+  {
+    "entry_id": "C12470",
+    "name": "L-Prolyl-[pcp]",
+    "names": [
+      "L-Prolyl-[pcp]",
+      "L-Prolyl-S-[pcp]",
+      "L-Prolyl-[peptidyl-carrier protein]"
+    ],
+    "formula": "C5H8NOSR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = PCP (peptidyl carrier protein)",
+    "reactions": [
+      "R06746",
+      "R06747",
+      "R12057"
+    ],
+    "pathways": {
+      "map00333": "Prodigiosin biosynthesis",
+      "map00401": "Novobiocin biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.3.8.14",
+      "6.2.1.53"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "582860"
+      ],
+      "ChEBI": [
+        "31756"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1y C    26.0162  -17.3924\n            2   C5a C    24.8009  -16.6915\n            3   S2a S    23.5918  -17.3867\n            4   O5a O    24.8009  -15.2897\n            5   R   R    22.1937  -17.3830\n            6   N1x N    26.4457  -18.6999\n            7   C1x C    27.8220  -18.6955\n            8   C1x C    28.2430  -17.3851\n            9   C1x C    27.1270  -16.5798\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n            4     3   5 1\n            5     1   6 1 #Down\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     1   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C12470",
+    "name": "L-Prolyl-[pcp]",
+    "names": [
+      "L-Prolyl-[pcp]",
+      "L-Prolyl-S-[pcp]",
+      "L-Prolyl-[peptidyl-carrier protein]"
+    ],
+    "formula": "C5H8NOSR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = PCP (peptidyl carrier protein)",
+    "reactions": [
+      "R06746",
+      "R06747",
+      "R12057"
+    ],
+    "pathways": {
+      "map00333": "Prodigiosin biosynthesis",
+      "map00401": "Novobiocin biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.3.8.14",
+      "6.2.1.53"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "582860"
+      ],
+      "ChEBI": [
+        "31756"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1y C    26.0162  -17.3924\n            2   C5a C    24.8009  -16.6915\n            3   S2a S    23.5918  -17.3867\n            4   O5a O    24.8009  -15.2897\n            5   R   R    22.1937  -17.3830\n            6   N1x N    26.4457  -18.6999\n            7   C1x C    27.8220  -18.6955\n            8   C1x C    28.2430  -17.3851\n            9   C1x C    27.1270  -16.5798\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n            4     3   5 1\n            5     1   6 1 #Down\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     1   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

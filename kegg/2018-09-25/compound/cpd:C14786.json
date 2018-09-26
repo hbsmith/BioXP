@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C14786",
+    "name": "(1R,2S)-Naphthalene 1,2-oxide",
+    "names": [
+      "(1R,2S)-Naphthalene 1,2-oxide",
+      "(1R,2S)-Naphthalene epoxide"
+    ],
+    "formula": "C10H8O",
+    "exact_mass": 144.0575,
+    "mol_weight": 144.1699,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07000",
+      "R07002",
+      "R07009",
+      "R07011",
+      "R07013"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "enzymes": [
+      "1.14.13.-",
+      "1.14.14.1",
+      "2.5.1.18",
+      "3.3.2.9"
+    ],
+    "dblinks": {
+      "CAS": [
+        "73136-20-6"
+      ],
+      "PubChem": [
+        "17395784"
+      ],
+      "ChEBI": [
+        "33998"
+      ],
+      "NIKKAJI": [
+        "J442.342I"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    15.0500  -17.5700\n            2   C8x C    15.0500  -18.9700\n            3   C8x C    16.2624  -19.6700\n            4   C8y C    17.4749  -18.9700\n            5   C8y C    17.4749  -17.5700\n            6   C8x C    16.2624  -16.8700\n            7   C2x C    18.6873  -19.6700\n            8   C2x C    19.8997  -18.9700\n            9   C1y C    19.8997  -17.5700\n            10  C1y C    18.6873  -16.8700\n            11  O2x O    19.8800  -16.1700\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 1\n            11    5  10 1\n            12   10  11 1 #Up\n            13    9  11 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11367",
+    "name": "(S)-beta-tyrosine:[peptidyl-carrier protein] ligase (AMP-forming)",
+    "definition": "ATP + (S)-beta-Tyrosine + Peptidyl-carrier protein <=> AMP + Diphosphate + (S)-beta-Tyrosyl-[pcp]",
+    "equation": "C00002 + C21308 + C21097 <=> C00020 + C00013 + C21309",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.-"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21182": "(S)-beta-tyrosine adenylation enzyme [EC:6.2.1.-]"
+    }
+  }
+]

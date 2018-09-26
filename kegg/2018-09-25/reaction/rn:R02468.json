@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R02468",
+    "name": "(S)-limonene,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (6-hydroxylating)",
+    "definition": "(-)-Limonene + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> (-)-trans-Carveol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C00521 + C00007 + C03024 <=> C00964 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.51"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn00903": "Limonene and pinene degradation",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K07381": "(S)-limonene 6-monooxygenase [EC:1.14.14.51]",
+      "K14732": "limonene hydroxylase [EC:1.14.14.51 1.14.14.52 1.1.1.243 1.1.1.144]"
+    }
+  }
+]

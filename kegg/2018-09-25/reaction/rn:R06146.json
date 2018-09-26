@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06146",
+    "name": "2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone,acceptor:oxygen oxidoreductase (5-hydroxylating)",
+    "definition": "2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone + Reduced acceptor + Oxygen <=> 2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone + Acceptor + H2O",
+    "equation": "C05814 + C00030 + C00007 <=> C05815 + C00028 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.60"
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K03184": "3-demethoxyubiquinol 3-hydroxylase [EC:1.14.99.60]"
+    }
+  }
+]

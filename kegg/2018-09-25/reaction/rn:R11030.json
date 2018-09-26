@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11030",
+    "name": "DNA-5-methylcytosine,2-oxoglutarate:oxygen oxidoreductase",
+    "definition": "DNA 5-methylcytosine + 2-Oxoglutarate + Oxygen <=> DNA 5-hydroxymethylcytosine + Succinate + CO2",
+    "equation": "C02967 + C00026 + C00007 <=> C21031 + C00042 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.-"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K13097": "methylcytosine dioxygenase [EC:1.14.11.-]"
+    }
+  }
+]

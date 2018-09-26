@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09083",
+    "name": "",
+    "definition": "Reduced FMN + Oxygen <=> Dimethylbenzimidazole + D-Erythrose 4-phosphate + H2O",
+    "equation": "C01847 + C00007 <=> C03114 + C00279 + C00001",
+    "comment": "incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.79"
+    ],
+    "pathways": {
+      "rn00740": "Riboflavin metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K04719": "5,6-dimethylbenzimidazole synthase [EC:1.13.11.79]"
+    }
+  }
+]

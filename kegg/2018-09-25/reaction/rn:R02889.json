@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02889",
+    "name": "UDPglucose:1,4-beta-D-glucan 4-beta-D-glucosyltransferase",
+    "definition": "UDP-glucose + Cellulose <=> UDP + Cellulose",
+    "equation": "C00029 + C00760 <=> C00015 + C00760",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.12"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00694": "cellulose synthase (UDP-forming) [EC:2.4.1.12]"
+    }
+  }
+]

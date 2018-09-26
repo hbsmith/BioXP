@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C19186",
+    "name": "2-Amino-9H-pyrido[2,3-b]indole",
+    "names": [
+      "2-Amino-9H-pyrido[2,3-b]indole",
+      "2-Amino-alpha-carboline",
+      "A-alpha-C"
+    ],
+    "formula": "C11H9N3",
+    "exact_mass": 183.0796,
+    "mol_weight": 183.2093,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "26148-68-5"
+      ],
+      "PubChem": [
+        "124489858"
+      ],
+      "ChEBI": [
+        "82284"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    13.8600  -19.0400\n            2   C8x C    13.8600  -20.4400\n            3   C8x C    15.0724  -21.1400\n            4   C8y C    16.2849  -20.4400\n            5   C8y C    16.2849  -19.0400\n            6   C8x C    15.0724  -18.3400\n            7   N4x N    17.4973  -21.1400\n            8   C8y C    18.7097  -20.4400\n            9   C8y C    18.7097  -19.0400\n            10  N5x N    19.9222  -21.1400\n            11  C8y C    21.1346  -20.4400\n            12  C8x C    21.1346  -19.0400\n            13  C8x C    19.9222  -18.3400\n            14  N1a N    22.3511  -21.1423\nBOND        16\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    5   9 1\n            11    8  10 2\n            12   10  11 1\n            13   11  12 2\n            14   12  13 1\n            15    9  13 2\n            16   11  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10922",
+    "name": "",
+    "definition": "Erythrodiol + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> Oleanolic aldehyde + [Oxidized NADPH---hemoprotein reductase] + 2 H2O",
+    "equation": "C20945 + C00007 + C03024 <=> C20946 + C03161 + 2 C00001",
+    "comment": "the second step of three-step reaction (see R10924, R10921+R10922+R10923)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.126"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "entry_id": "C10478",
+    "name": "Methylisoeugenol",
+    "names": [
+      "Methylisoeugenol",
+      "trans-Methylisoeugenol",
+      "Isomethyleugenol"
+    ],
+    "formula": "C11H14O2",
+    "exact_mass": 178.0994,
+    "mol_weight": 178.2277,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07240"
+    ],
+    "pathways": {
+      "map00940": "Phenylpropanoid biosynthesis"
+    },
+    "enzymes": [
+      "2.1.1.146",
+      "2.1.1.279"
+    ],
+    "dblinks": {
+      "CAS": [
+        "6379-72-2"
+      ],
+      "PubChem": [
+        "12661"
+      ],
+      "ChEBI": [
+        "6877"
+      ],
+      "ChEMBL": [
+        "CHEMBL465829"
+      ],
+      "KNApSAcK": [
+        "C00002760",
+        "C00035131"
+      ],
+      "3DMET": [
+        "B03883"
+      ],
+      "NIKKAJI": [
+        "J15.690F"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    27.0263  -16.2227\n            2   C8y C    27.0263  -17.6279\n            3   C8x C    28.2391  -15.5287\n            4   O2a O    25.8076  -15.5287\n            5   C8x C    28.2391  -18.3336\n            6   O2a O    25.8076  -18.3336\n            7   C8y C    29.4461  -16.2227\n            8   C1a C    24.5946  -16.2227\n            9   C8x C    29.4461  -17.6279\n            10  C1a C    24.5946  -17.6279\n            11  C2b C    30.6532  -15.5346\n            12  C2b C    31.8660  -16.2344\n            13  C1a C    33.0790  -15.5404\nBOND        13\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     6  10 1\n            10    7  11 1\n            11   11  12 2\n            12   12  13 1\n            13    7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

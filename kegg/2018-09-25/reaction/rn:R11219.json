@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "R11219",
+    "name": "S-adenosyl-L-methionine:[protein]-L-arginine N-methyltransferase ([protein]-N(omega),N(omega)-dimethyl-L-arginine-forming)",
+    "definition": "2 S-Adenosyl-L-methionine + Protein-L-arginine <=> 2 S-Adenosyl-L-homocysteine + Protein N(omega),N(omega)-dimethyl-L-arginine",
+    "equation": "2 C00019 + C00613 <=> 2 C00021 + C21188",
+    "comment": "two-step reaction (see R11216+R11217)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.319"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K05931": "type I protein arginine methyltransferase [EC:2.1.1.319]",
+      "K11434": "type I protein arginine methyltransferase [EC:2.1.1.319]",
+      "K11435": "type I protein arginine methyltransferase [EC:2.1.1.319]",
+      "K11436": "type I protein arginine methyltransferase [EC:2.1.1.319]",
+      "K11437": "type I protein arginine methyltransferase [EC:2.1.1.319]",
+      "K11439": "type I protein arginine methyltransferase [EC:2.1.1.319]"
+    }
+  }
+][
+  {
+    "entry_id": "R11219",
+    "name": "S-adenosyl-L-methionine:[protein]-L-arginine N-methyltransferase ([protein]-N(omega),N(omega)-dimethyl-L-arginine-forming)",
+    "definition": "2 S-Adenosyl-L-methionine + Protein-L-arginine <=> 2 S-Adenosyl-L-homocysteine + Protein N(omega),N(omega)-dimethyl-L-arginine",
+    "equation": "2 C00019 + C00613 <=> 2 C00021 + C21188",
+    "comment": "two-step reaction (see R11216+R11217)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.319"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K05931": "type I protein arginine methyltransferase [EC:2.1.1.319]",
+      "K11434": "type I protein arginine methyltransferase [EC:2.1.1.319]",
+      "K11435": "type I protein arginine methyltransferase [EC:2.1.1.319]",
+      "K11436": "type I protein arginine methyltransferase [EC:2.1.1.319]",
+      "K11437": "type I protein arginine methyltransferase [EC:2.1.1.319]",
+      "K11439": "type I protein arginine methyltransferase [EC:2.1.1.319]"
+    }
+  }
+]

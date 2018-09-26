@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C03900",
+    "name": "S-(4-Bromophenyl)-L-cysteine",
+    "names": [
+      "S-(4-Bromophenyl)-L-cysteine"
+    ],
+    "formula": "C9H10BrNO2S",
+    "exact_mass": 274.9616,
+    "mol_weight": 276.1502,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04338"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.6.1.75"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6632"
+      ],
+      "ChEBI": [
+        "17736"
+      ],
+      "NIKKAJI": [
+        "J562.239E"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   S2a S    26.5294  -15.5300\n            2   C8y C    25.3439  -16.2272\n            3   C8x C    25.3439  -17.6217\n            4   C8x C    24.1333  -15.5362\n            5   C8x C    24.1333  -18.3254\n            6   C8x C    22.9353  -16.2272\n            7   C8y C    22.9353  -17.6217\n            8   X   Br   21.7435  -18.3063\n            9   C1b C    27.7424  -16.2400\n            10  C1c C    28.9549  -15.5400\n            11  C6a C    30.1673  -16.2400\n            12  O6a O    31.3797  -15.5400\n            13  N1a N    28.9549  -14.1402\n            14  O6a O    30.1673  -17.6400\nBOND        14\n            1     1   2 1\n            2     2   3 2\n            3     2   4 1\n            4     3   5 1\n            5     4   6 2\n            6     5   7 2\n            7     7   8 1\n            8     6   7 1\n            9     1   9 1\n            10    9  10 1\n            11   10  11 1\n            12   11  12 1\n            13   10  13 1 #Down\n            14   11  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

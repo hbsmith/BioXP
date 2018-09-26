@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04085",
+    "name": "Aldehyde:oxygen oxidoreductase",
+    "definition": "1-Methylnicotinamide + Oxygen + H2O <=> N1-Methyl-4-pyridone-5-carboxamide + Hydrogen peroxide + H+",
+    "equation": "C02918 + C00007 + C00001 <=> C05843 + C00027 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.3.1"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00157": "aldehyde oxidase [EC:1.2.3.1]"
+    }
+  }
+]

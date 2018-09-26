@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C17232",
+    "name": "2-Oxo-10-methylthiodecanoic acid",
+    "names": [
+      "2-Oxo-10-methylthiodecanoic acid",
+      "10-Methylthio-2-decanoic acid"
+    ],
+    "formula": "C11H20O3S",
+    "exact_mass": 232.1133,
+    "mol_weight": 232.3397,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08646",
+      "R08647"
+    ],
+    "pathways": {
+      "map00966": "Glucosinolate biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "enzymes": [
+      "1.1.1.-",
+      "2.6.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023640"
+      ],
+      "ChEBI": [
+        "80977"
+      ],
+      "KNApSAcK": [
+        "C00007651"
+      ],
+      "NIKKAJI": [
+        "J2.806.179J"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C1a C    18.2700  -20.5800\n            2   S2a S    19.4824  -21.2800\n            3   C1b C    20.6949  -20.5800\n            4   C1b C    21.9073  -21.2800\n            5   C1b C    23.1197  -20.5800\n            6   C1b C    24.3322  -21.2800\n            7   C1b C    25.5446  -20.5800\n            8   C1b C    26.7570  -21.2800\n            9   C1b C    27.9695  -20.5800\n            10  C1b C    29.1819  -21.2800\n            11  C5a C    30.3944  -20.5800\n            12  C6a C    31.6068  -21.2800\n            13  O6a O    32.8192  -20.5800\n            14  O5a O    30.3944  -19.1801\n            15  O6a O    31.6068  -22.6796\nBOND        14\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10   10  11 1\n            11   11  12 1\n            12   12  13 1\n            13   11  14 2\n            14   12  15 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R10400",
+    "name": "versiconol:NADP+ oxidoreductase",
+    "definition": "Versiconol + NADP+ <=> Versiconal + NADPH + H+",
+    "equation": "C20508 + C00006 <=> C20507 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.353"
+    ],
+    "pathways": {
+      "rn00254": "Aflatoxin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K17647": "versiconal hemiacetal acetate reductase [EC:1.1.1.353]"
+    }
+  }
+][
+  {
+    "entry_id": "R10400",
+    "name": "versiconol:NADP+ oxidoreductase",
+    "definition": "Versiconol + NADP+ <=> Versiconal + NADPH + H+",
+    "equation": "C20508 + C00006 <=> C20507 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.353"
+    ],
+    "pathways": {
+      "rn00254": "Aflatoxin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K17647": "versiconal hemiacetal acetate reductase [EC:1.1.1.353]"
+    }
+  }
+]

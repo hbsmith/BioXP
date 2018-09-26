@@ -1,0 +1,89 @@
+[
+  {
+    "entry_id": "C03007",
+    "name": "1-(1-Oxopropyl)-1H-imidazole",
+    "names": [
+      "1-(1-Oxopropyl)-1H-imidazole",
+      "N-Propanoylimidazole",
+      "N-Propionylimidazole"
+    ],
+    "formula": "C6H8N2O",
+    "exact_mass": 124.0637,
+    "mol_weight": 124.1405,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "4122-52-5"
+      ],
+      "PubChem": [
+        "5915"
+      ],
+      "ChEBI": [
+        "27449"
+      ],
+      "NIKKAJI": [
+        "J224.932D"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   N5x N    17.9153  -17.4566\n            2   C8x C    18.3034  -18.8018\n            3   C8x C    19.7026  -18.8484\n            4   N4y N    20.1794  -17.5321\n            5   C8x C    19.0748  -16.6719\n            6   C5a C    21.3724  -16.8000\n            7   C1b C    22.5849  -17.5000\n            8   C1a C    23.7973  -16.8000\n            9   O5a O    21.3537  -15.4000\nBOND        9\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     1   5 2\n            6     4   6 1\n            7     6   7 1\n            8     7   8 1\n            9     6   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C03007",
+    "name": "1-(1-Oxopropyl)-1H-imidazole",
+    "names": [
+      "1-(1-Oxopropyl)-1H-imidazole",
+      "N-Propanoylimidazole",
+      "N-Propionylimidazole"
+    ],
+    "formula": "C6H8N2O",
+    "exact_mass": 124.0637,
+    "mol_weight": 124.1405,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "4122-52-5"
+      ],
+      "PubChem": [
+        "5915"
+      ],
+      "ChEBI": [
+        "27449"
+      ],
+      "NIKKAJI": [
+        "J224.932D"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   N5x N    17.9153  -17.4566\n            2   C8x C    18.3034  -18.8018\n            3   C8x C    19.7026  -18.8484\n            4   N4y N    20.1794  -17.5321\n            5   C8x C    19.0748  -16.6719\n            6   C5a C    21.3724  -16.8000\n            7   C1b C    22.5849  -17.5000\n            8   C1a C    23.7973  -16.8000\n            9   O5a O    21.3537  -15.4000\nBOND        9\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     1   5 2\n            6     4   6 1\n            7     6   7 1\n            8     7   8 1\n            9     6   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

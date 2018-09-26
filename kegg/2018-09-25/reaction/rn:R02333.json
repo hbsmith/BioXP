@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02333",
+    "name": "Chitin amidohydrolase",
+    "definition": "Chitin + n H2O <=> Chitosan + n Acetate",
+    "equation": "C00461 + n C00001 <=> C00734 + n C00033",
+    "comment": "Acetylation is non specific.",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.41"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01452": "chitin deacetylase [EC:3.5.1.41]"
+    }
+  }
+]

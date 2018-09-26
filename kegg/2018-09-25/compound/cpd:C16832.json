@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C16832",
+    "name": "Protein N6-(dihydrolipoyl)lysine",
+    "names": [
+      "Protein N6-(dihydrolipoyl)lysine"
+    ],
+    "formula": "C8H16NOS2R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = E2 subunit of oxo-acid dehydrogenase complexes [CPD:C15973] or H protein [CPD:C02972]",
+    "reactions": [
+      "R08550"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.8.1.4"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023356"
+      ],
+      "ChEBI": [
+        "80760"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1c C    15.4683  -15.8088\n            2   C1b C    16.6705  -16.5091\n            3   C1b C    14.2660  -16.5091\n            4   S1a S    15.4683  -14.4256\n            5   C1b C    17.8728  -15.8088\n            6   C1b C    13.0639  -15.8088\n            7   C1b C    19.0807  -16.5091\n            8   S1a S    13.0639  -14.4256\n            9   C1b C    20.2771  -15.8088\n            10  C5a C    21.4794  -16.5091\n            11  O5a O    21.4794  -17.8922\n            12  N1b N    22.8334  -15.8380\n            13  R   R    24.2335  -15.8380\nBOND        12\n            1     1   2 1 #Down\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     5   7 1\n            7     6   8 1\n            8     7   9 1\n            9     9  10 1\n            10   10  11 2\n            11   10  12 1\n            12   12  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

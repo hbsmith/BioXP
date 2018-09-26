@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11371",
+    "name": "S-adenosyl-L-methionine:6-methylsalicylyl-CoA 3-C-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 6-Methylsalicylyl-CoA <=> S-Adenosyl-L-homocysteine + 3,6-Dimethylsalicylyl-CoA",
+    "equation": "C00019 + C21312 <=> C00021 + C21313",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21192": "methyltransferase [EC:2.1.1.-]"
+    }
+  }
+]

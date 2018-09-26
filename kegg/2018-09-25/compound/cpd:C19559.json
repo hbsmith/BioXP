@@ -1,0 +1,83 @@
+[
+  {
+    "entry_id": "C19559",
+    "name": "(1aalpha,2beta,3alpha,11calpha)-1a,2,3,11c-Tetrahydro-6,11-dimethylbenzo[6,7]phenanthro[3,4-b]oxirene-2,3-diol",
+    "names": [
+      "(1aalpha,2beta,3alpha,11calpha)-1a,2,3,11c-Tetrahydro-6,11-dimethylbenzo[6,7]phenanthro[3,4-b]oxirene-2,3-diol"
+    ],
+    "formula": "C20H18O3",
+    "exact_mass": 306.1256,
+    "mol_weight": 306.3551,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09418"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450",
+      "map05204": "Chemical carcinogenesis"
+    },
+    "enzymes": [
+      "1.14.14.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "86941-58-4"
+      ],
+      "PubChem": [
+        "124490231"
+      ],
+      "ChEBI": [
+        "82558"
+      ]
+    },
+    "kcf": "ATOM        23\n            1   C8x C    18.0347  -19.0171\n            2   C8x C    18.0347  -20.4206\n            3   C8x C    19.2277  -21.1223\n            4   C8y C    20.4908  -20.4206\n            5   C8y C    20.4908  -19.0171\n            6   C8x C    19.2277  -18.3154\n            7   C8y C    21.6837  -21.1223\n            8   C8y C    22.8767  -20.4206\n            9   C8y C    22.8767  -19.0171\n            10  C8y C    21.6837  -18.3154\n            11  C8x C    24.1398  -21.1223\n            12  C8x C    25.3327  -20.4206\n            13  C8y C    25.3327  -19.0171\n            14  C8y C    24.1398  -18.3154\n            15  C1y C    26.5257  -18.3154\n            16  C1y C    26.5257  -16.9119\n            17  C1y C    25.3327  -16.2102\n            18  C1y C    24.1398  -16.9119\n            19  C1a C    21.6837  -16.9119\n            20  C1a C    21.6837  -22.5258\n            21  O1a O    27.7186  -16.2102\n            22  O1a O    27.7186  -19.0171\n            23  O2x O    24.1398  -15.5119\nBOND        27\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 2\n            7     4   7 2\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    5  10 2\n            12    8  11 1\n            13   11  12 2\n            14   12  13 1\n            15   13  14 2\n            16    9  14 1\n            17   13  15 1\n            18   15  16 1\n            19   16  17 1\n            20   17  18 1\n            21   14  18 1\n            22   10  19 1\n            23    7  20 1\n            24   16  21 1 #Down\n            25   15  22 1 #Up\n            26   18  23 1 #Down\n            27   17  23 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C19559",
+    "name": "(1aalpha,2beta,3alpha,11calpha)-1a,2,3,11c-Tetrahydro-6,11-dimethylbenzo[6,7]phenanthro[3,4-b]oxirene-2,3-diol",
+    "names": [
+      "(1aalpha,2beta,3alpha,11calpha)-1a,2,3,11c-Tetrahydro-6,11-dimethylbenzo[6,7]phenanthro[3,4-b]oxirene-2,3-diol"
+    ],
+    "formula": "C20H18O3",
+    "exact_mass": 306.1256,
+    "mol_weight": 306.3551,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09418"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450",
+      "map05204": "Chemical carcinogenesis"
+    },
+    "enzymes": [
+      "1.14.14.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "86941-58-4"
+      ],
+      "PubChem": [
+        "124490231"
+      ],
+      "ChEBI": [
+        "82558"
+      ]
+    },
+    "kcf": "ATOM        23\n            1   C8x C    18.0347  -19.0171\n            2   C8x C    18.0347  -20.4206\n            3   C8x C    19.2277  -21.1223\n            4   C8y C    20.4908  -20.4206\n            5   C8y C    20.4908  -19.0171\n            6   C8x C    19.2277  -18.3154\n            7   C8y C    21.6837  -21.1223\n            8   C8y C    22.8767  -20.4206\n            9   C8y C    22.8767  -19.0171\n            10  C8y C    21.6837  -18.3154\n            11  C8x C    24.1398  -21.1223\n            12  C8x C    25.3327  -20.4206\n            13  C8y C    25.3327  -19.0171\n            14  C8y C    24.1398  -18.3154\n            15  C1y C    26.5257  -18.3154\n            16  C1y C    26.5257  -16.9119\n            17  C1y C    25.3327  -16.2102\n            18  C1y C    24.1398  -16.9119\n            19  C1a C    21.6837  -16.9119\n            20  C1a C    21.6837  -22.5258\n            21  O1a O    27.7186  -16.2102\n            22  O1a O    27.7186  -19.0171\n            23  O2x O    24.1398  -15.5119\nBOND        27\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 2\n            7     4   7 2\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    5  10 2\n            12    8  11 1\n            13   11  12 2\n            14   12  13 1\n            15   13  14 2\n            16    9  14 1\n            17   13  15 1\n            18   15  16 1\n            19   16  17 1\n            20   17  18 1\n            21   14  18 1\n            22   10  19 1\n            23    7  20 1\n            24   16  21 1 #Down\n            25   15  22 1 #Up\n            26   18  23 1 #Down\n            27   17  23 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

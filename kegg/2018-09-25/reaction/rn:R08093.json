@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R08093",
+    "name": "3-hydroxy-5-methylhex-4-enoyl-CoA hydro-lyase",
+    "definition": "(2E)-5-Methylhexa-2,4-dienoyl-CoA + H2O <=> 3-Hydroxy-5-methylhex-4-enoyl-CoA",
+    "equation": "C16468 + C00001 <=> C16469",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.17"
+    ],
+    "pathways": {
+      "rn00281": "Geraniol degradation"
+    },
+    "orthologs": {
+      "K01692": "enoyl-CoA hydratase [EC:4.2.1.17]",
+      "K01782": "3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3]",
+      "K01825": "3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase [EC:1.1.1.35 4.2.1.17 5.1.2.3 5.3.3.8]"
+    }
+  }
+][
+  {
+    "entry_id": "R08093",
+    "name": "3-hydroxy-5-methylhex-4-enoyl-CoA hydro-lyase",
+    "definition": "(2E)-5-Methylhexa-2,4-dienoyl-CoA + H2O <=> 3-Hydroxy-5-methylhex-4-enoyl-CoA",
+    "equation": "C16468 + C00001 <=> C16469",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.17"
+    ],
+    "pathways": {
+      "rn00281": "Geraniol degradation"
+    },
+    "orthologs": {
+      "K01692": "enoyl-CoA hydratase [EC:4.2.1.17]",
+      "K01782": "3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3]",
+      "K01825": "3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase [EC:1.1.1.35 4.2.1.17 5.1.2.3 5.3.3.8]"
+    }
+  }
+]

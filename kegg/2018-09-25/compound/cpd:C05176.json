@@ -1,0 +1,131 @@
+[
+  {
+    "entry_id": "C05176",
+    "name": "(S)-N-Methylcoclaurine",
+    "names": [
+      "(S)-N-Methylcoclaurine",
+      "(S)-1,2,3,4-Tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-2-methyl-7-isoquinolinol"
+    ],
+    "formula": "C18H21NO3",
+    "exact_mass": 299.1521,
+    "mol_weight": 299.3642,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04692",
+      "R04693",
+      "R04694",
+      "R05732",
+      "R08458",
+      "R08459"
+    ],
+    "pathways": {
+      "map00950": "Isoquinoline alkaloid biosynthesis",
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.14.102",
+      "1.14.18.1",
+      "1.14.19.66",
+      "2.1.1.115",
+      "2.1.1.140"
+    ],
+    "dblinks": {
+      "CAS": [
+        "3423-07-2"
+      ],
+      "PubChem": [
+        "7587"
+      ],
+      "ChEBI": [
+        "17041"
+      ],
+      "ChEMBL": [
+        "CHEMBL513109"
+      ],
+      "KNApSAcK": [
+        "C00025268"
+      ],
+      "3DMET": [
+        "B01819"
+      ],
+      "NIKKAJI": [
+        "J351.144H"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C8y C    25.8671  -21.9891\n            2   C1y C    27.0853  -21.2981\n            3   C8y C    25.9313  -23.3946\n            4   C8x C    24.6608  -21.2923\n            5   C1b C    27.0911  -19.8926\n            6   N1y N    28.2975  -22.0009\n            7   C8x C    24.6608  -24.0914\n            8   C1x C    27.0736  -24.0974\n            9   C8y C    23.4426  -21.9891\n            10  C8y C    28.3092  -19.2016\n            11  C1x C    28.2916  -23.4004\n            12  C1a C    29.5098  -21.3041\n            13  C8y C    23.4426  -23.3946\n            14  O1a O    22.2304  -21.2923\n            15  C8x C    29.5155  -19.9043\n            16  C8x C    28.3092  -17.8020\n            17  O2a O    22.2304  -24.0914\n            18  C8x C    30.7278  -19.2133\n            19  C8x C    29.5273  -17.1050\n            20  C1a C    21.0183  -23.3946\n            21  C8y C    30.7335  -17.8078\n            22  O1a O    31.9517  -17.1168\nBOND        24\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1 #Down\n            5     2   6 1\n            6     3   7 2\n            7     3   8 1\n            8     4   9 1\n            9     5  10 1\n            10    6  11 1\n            11    6  12 1\n            12    7  13 1\n            13    9  14 1\n            14   10  15 2\n            15   10  16 1\n            16   13  17 1\n            17   15  18 1\n            18   16  19 2\n            19   17  20 1\n            20   18  21 2\n            21   21  22 1\n            22    8  11 1\n            23    9  13 2\n            24   19  21 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C05176",
+    "name": "(S)-N-Methylcoclaurine",
+    "names": [
+      "(S)-N-Methylcoclaurine",
+      "(S)-1,2,3,4-Tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-2-methyl-7-isoquinolinol"
+    ],
+    "formula": "C18H21NO3",
+    "exact_mass": 299.1521,
+    "mol_weight": 299.3642,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04692",
+      "R04693",
+      "R04694",
+      "R05732",
+      "R08458",
+      "R08459"
+    ],
+    "pathways": {
+      "map00950": "Isoquinoline alkaloid biosynthesis",
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.14.102",
+      "1.14.18.1",
+      "1.14.19.66",
+      "2.1.1.115",
+      "2.1.1.140"
+    ],
+    "dblinks": {
+      "CAS": [
+        "3423-07-2"
+      ],
+      "PubChem": [
+        "7587"
+      ],
+      "ChEBI": [
+        "17041"
+      ],
+      "ChEMBL": [
+        "CHEMBL513109"
+      ],
+      "KNApSAcK": [
+        "C00025268"
+      ],
+      "3DMET": [
+        "B01819"
+      ],
+      "NIKKAJI": [
+        "J351.144H"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C8y C    25.8671  -21.9891\n            2   C1y C    27.0853  -21.2981\n            3   C8y C    25.9313  -23.3946\n            4   C8x C    24.6608  -21.2923\n            5   C1b C    27.0911  -19.8926\n            6   N1y N    28.2975  -22.0009\n            7   C8x C    24.6608  -24.0914\n            8   C1x C    27.0736  -24.0974\n            9   C8y C    23.4426  -21.9891\n            10  C8y C    28.3092  -19.2016\n            11  C1x C    28.2916  -23.4004\n            12  C1a C    29.5098  -21.3041\n            13  C8y C    23.4426  -23.3946\n            14  O1a O    22.2304  -21.2923\n            15  C8x C    29.5155  -19.9043\n            16  C8x C    28.3092  -17.8020\n            17  O2a O    22.2304  -24.0914\n            18  C8x C    30.7278  -19.2133\n            19  C8x C    29.5273  -17.1050\n            20  C1a C    21.0183  -23.3946\n            21  C8y C    30.7335  -17.8078\n            22  O1a O    31.9517  -17.1168\nBOND        24\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1 #Down\n            5     2   6 1\n            6     3   7 2\n            7     3   8 1\n            8     4   9 1\n            9     5  10 1\n            10    6  11 1\n            11    6  12 1\n            12    7  13 1\n            13    9  14 1\n            14   10  15 2\n            15   10  16 1\n            16   13  17 1\n            17   15  18 1\n            18   16  19 2\n            19   17  20 1\n            20   18  21 2\n            21   21  22 1\n            22    8  11 1\n            23    9  13 2\n            24   19  21 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

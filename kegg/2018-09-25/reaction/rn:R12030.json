@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R12030",
+    "name": "1H-pyrrole-2-carbonyl-[peptidyl-carrier protein]:FADH2 oxidoreductase (brominating)",
+    "definition": "Pyrrole-2-carbonyl-[pcp] + 3 FADH2 + 3 Bromide + 3 Oxygen <=> 3,4,5-Tribromo-1H-pyrrole-2-carbonyl-[peptidyl-carrier protein] + 3 FAD + 6 H2O",
+    "equation": "C12483 + 3 C01352 + 3 C01324 + 3 C00007 <=> C21864 + 3 C00016 + 6 C00001",
+    "comment": "three-step reaction (see R12027+R12028+R12029)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.57"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

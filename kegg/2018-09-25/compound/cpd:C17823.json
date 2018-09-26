@@ -1,0 +1,79 @@
+[
+  {
+    "entry_id": "C17823",
+    "name": "2,4,5-Trimethoxytoluene",
+    "names": [
+      "2,4,5-Trimethoxytoluene"
+    ],
+    "formula": "C10H14O3",
+    "exact_mass": 182.0943,
+    "mol_weight": 182.2164,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96024121"
+      ],
+      "ChEBI": [
+        "81355"
+      ],
+      "NIKKAJI": [
+        "J534.830G"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    19.6700  -25.4800\n            2   C8y C    19.6700  -26.8800\n            3   C8y C    20.8824  -27.5800\n            4   C8x C    22.0949  -26.8800\n            5   C8y C    22.0949  -25.4800\n            6   C8y C    20.8824  -24.7800\n            7   C1a C    20.8824  -23.3802\n            8   O2a O    23.3260  -24.7690\n            9   C1a C    24.5312  -25.4647\n            10  O2a O    20.8824  -28.9798\n            11  C1a C    19.6532  -29.6897\n            12  O2a O    18.4576  -27.5800\n            13  C1a C    17.2621  -26.8896\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     8   9 1\n            10    3  10 1\n            11   10  11 1\n            12    2  12 1\n            13   12  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C17823",
+    "name": "2,4,5-Trimethoxytoluene",
+    "names": [
+      "2,4,5-Trimethoxytoluene"
+    ],
+    "formula": "C10H14O3",
+    "exact_mass": 182.0943,
+    "mol_weight": 182.2164,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96024121"
+      ],
+      "ChEBI": [
+        "81355"
+      ],
+      "NIKKAJI": [
+        "J534.830G"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    19.6700  -25.4800\n            2   C8y C    19.6700  -26.8800\n            3   C8y C    20.8824  -27.5800\n            4   C8x C    22.0949  -26.8800\n            5   C8y C    22.0949  -25.4800\n            6   C8y C    20.8824  -24.7800\n            7   C1a C    20.8824  -23.3802\n            8   O2a O    23.3260  -24.7690\n            9   C1a C    24.5312  -25.4647\n            10  O2a O    20.8824  -28.9798\n            11  C1a C    19.6532  -29.6897\n            12  O2a O    18.4576  -27.5800\n            13  C1a C    17.2621  -26.8896\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     8   9 1\n            10    3  10 1\n            11   10  11 1\n            12    2  12 1\n            13   12  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

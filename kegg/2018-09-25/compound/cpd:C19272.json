@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C19272",
+    "name": "Nifuradene",
+    "names": [
+      "Nifuradene",
+      "1-[(5-Nitrofurfurylidene)amino]-2-imidazolidinone"
+    ],
+    "formula": "C8H8N4O4",
+    "exact_mass": 224.0546,
+    "mol_weight": 224.1735,
+    "remark": "Same as: D02514",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "555-84-0"
+      ],
+      "PubChem": [
+        "124489944"
+      ],
+      "ChEBI": [
+        "82352"
+      ],
+      "ChEMBL": [
+        "CHEMBL265442"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C5x C    31.3600  -15.4000\n            2   N1y N    31.3600  -16.8000\n            3   N2b N    30.1700  -17.5000\n            4   C2b C    28.9800  -16.8700\n            5   C8y C    27.7900  -17.5000\n            6   O2x O    26.6700  -16.7300\n            7   C8y C    25.5500  -17.5000\n            8   C8x C    25.9700  -18.8300\n            9   C8x C    27.3000  -18.8300\n            10  N2b N    24.2900  -16.8000 #+\n            11  O3a O    23.1000  -17.5000 #-\n            12  O3a O    24.2900  -15.4000\n            13  C1x C    32.7600  -17.2900\n            14  C1x C    33.5300  -16.1000\n            15  N1x N    32.7600  -14.9800\n            16  O5x O    30.2400  -14.5600\nBOND        17\n            1     1   2 1\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 2\n            8     8   9 1\n            9     5   9 2\n            10    7  10 1\n            11   10  11 1\n            12   10  12 2\n            13    2  13 1\n            14   13  14 1\n            15   14  15 1\n            16    1  15 1\n            17    1  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

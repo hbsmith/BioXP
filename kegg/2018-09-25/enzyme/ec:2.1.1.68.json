@@ -1,0 +1,258 @@
+[
+  {
+    "entry_id": "2.1.1.68",
+    "name": "caffeate O-methyltransferase",
+    "names": [
+      "caffeate O-methyltransferase",
+      "caffeate methyltransferase",
+      "caffeate 3-O-methyltransferase",
+      "S-adenosyl-L-methionine:caffeic acid-O-methyltransferase"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring one-carbon groups;",
+      "Methyltransferases"
+    ],
+    "sysname": "S-adenosyl-L-methionine:3,4-dihydroxy-trans-cinnamate 3-O-methyltransferase",
+    "reaction": "S-adenosyl-L-methionine + 3,4-dihydroxy-trans-cinnamate = S-adenosyl-L-homocysteine + 3-methoxy-4-hydroxy-trans-cinnamate [RN:R03366]",
+    "all_reac": "R03366; (other) R02379 R06574 R06575 R06576 R06577",
+    "iubmb_reactions": [
+      "R03366"
+    ],
+    "kegg_reactions": [
+      "R02379 R06574 R06575 R06576 R06577"
+    ],
+    "substrates": [
+      "S-adenosyl-L-methionine [CPD:C00019]",
+      "3,4-dihydroxy-trans-cinnamate [CPD:C01197]"
+    ],
+    "products": [
+      "S-adenosyl-L-homocysteine [CPD:C00021]",
+      "3-methoxy-4-hydroxy-trans-cinnamate [CPD:C01494]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "3,4-Dihydroxybenzaldehyde and catechol can act as acceptors, but more slowly.",
+    "pathways": {
+      "ec00940": "Phenylpropanoid biosynthesis",
+      "ec01100": "Metabolic pathways",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13066": "caffeic acid 3-O-methyltransferase"
+    },
+    "genes": {
+      "ath": [
+        "AT5G54160"
+      ],
+      "aly": [
+        "ARALYDRAFT_495497"
+      ],
+      "crb": [
+        "17876808"
+      ],
+      "eus": [
+        "EUTSA_v10013897mg"
+      ],
+      "cit": [
+        "102629858"
+      ],
+      "cic": [
+        "CICLE_v10001661mg",
+        "CICLE_v10024037mg",
+        "CICLE_v10031951mg"
+      ],
+      "dzi": [
+        "111279932",
+        "111289581"
+      ],
+      "gmx": [
+        "100780100",
+        "100805999",
+        "100806525"
+      ],
+      "pvu": [
+        "PHAVU_009G044400g"
+      ],
+      "mtr": [
+        "MTR_3g092900"
+      ],
+      "cam": [
+        "101489645"
+      ],
+      "fve": [
+        "101308514"
+      ],
+      "pmum": [
+        "103333559"
+      ],
+      "mdm": [
+        "103439955"
+      ],
+      "csv": [
+        "101204109"
+      ],
+      "cmo": [
+        "103501180"
+      ],
+      "cmos": [
+        "111450048"
+      ],
+      "rcu": [
+        "8282965"
+      ],
+      "pop": [
+        "7464476",
+        "7493466"
+      ],
+      "jre": [
+        "109007527"
+      ],
+      "vvi": [
+        "100232862",
+        "100242108",
+        "100260786",
+        "100854172"
+      ],
+      "sly": [
+        "101251452"
+      ],
+      "sot": [
+        "102601955"
+      ],
+      "oeu": [
+        "111367736"
+      ],
+      "smo": [
+        "SELMODRAFT_450944",
+        "SELMODRAFT_450945"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.1.1.68"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.1.1.68"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.1.1.68"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.1.1.68"
+      ],
+      "CAS": [
+        "50936-45-3"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Ebel J",
+          "Schaller-Hekeler B",
+          "Knobloch KH",
+          "Wellman E",
+          "Grisebach H",
+          "Hahlbrock K."
+        ],
+        "title": "Coordinated changes in enzyme activities of phenylpropanoid metabolism during the growth of soybean cell suspension cultures.",
+        "journal": "Biochim Biophys Acta 362:417-24 (1974) DOI:10.1016/0304-4165(74)90137-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:4472044]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Poulton JE",
+          "Butt VS."
+        ],
+        "title": "Purification and properties of S-adenosyl-L-methionine: caffeic acid O-methyltransferase from leaves of spinach beet (Beta vulgaris L).",
+        "journal": "Biochim Biophys Acta 403:301-14 (1975) DOI:10.1016/0005-2744(75)90060-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:241400]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shimada",
+          "M.",
+          "Kuroda",
+          "H. and Higuchi",
+          "T."
+        ],
+        "title": "Evidence for the formation of methoxyl groups of ferulic and sinapic acid in Bambusa by the same O-methyltransferase.",
+        "journal": "Phytochemistry",
+        "volume": "12",
+        "issue": "",
+        "pages": "2873-2875",
+        "year": "1973",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

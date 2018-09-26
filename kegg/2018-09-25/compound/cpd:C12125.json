@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C12125",
+    "name": "Isoformononetin",
+    "names": [
+      "Isoformononetin",
+      "4'-Hydroxy-7-methoxyisoflavone"
+    ],
+    "formula": "C16H12O4",
+    "exact_mass": 268.0736,
+    "mol_weight": 268.2641,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07724"
+    ],
+    "pathways": {
+      "map00943": "Isoflavonoid biosynthesis",
+      "map01061": "Biosynthesis of phenylpropanoids"
+    },
+    "enzymes": [
+      "2.1.1.150"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "14272"
+      ],
+      "ChEBI": [
+        "29608"
+      ],
+      "ChEMBL": [
+        "CHEMBL453280"
+      ],
+      "KNApSAcK": [
+        "C00009382"
+      ],
+      "PDB-CCD": [
+        "HMO"
+      ],
+      "3DMET": [
+        "B04425"
+      ],
+      "NIKKAJI": [
+        "J11.633E"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C8y C    25.2064  -15.2068\n            2   C8x C    25.2064  -16.6074\n            3   C8x C    26.4232  -17.3042\n            4   C8x C    26.4232  -14.5028\n            5   C8y C    27.6331  -15.2068\n            6   C8y C    27.6272  -16.6074\n            7   C8y C    28.8383  -17.3094\n            8   C8y C    30.0551  -16.6177\n            9   C8x C    30.0611  -15.2171\n            10  O2x O    28.8503  -14.5081\n            11  C8y C    31.2661  -17.3197\n            12  C8x C    31.2531  -18.7190\n            13  C8x C    32.4642  -19.4280\n            14  C8y C    33.6742  -18.7293\n            15  C8x C    33.6801  -17.3285\n            16  C8x C    32.4762  -16.6265\n            17  O1a O    34.8851  -19.4383\n            18  O5x O    28.8323  -18.7102\n            19  O2a O    23.9999  -14.5023\n            20  C1a C    22.7855  -15.2056\nBOND        22\n            1     9  10 1\n            2    10   5 1\n            3     8  11 1\n            4     1   2 2\n            5     2   3 1\n            6     3   6 2\n            7     5   4 2\n            8     4   1 1\n            9    11  12 2\n            10   12  13 1\n            11   13  14 2\n            12   14  15 1\n            13   15  16 2\n            14   16  11 1\n            15    5   6 1\n            16   14  17 1\n            17    6   7 1\n            18    7  18 2\n            19    7   8 1\n            20    1  19 1\n            21    8   9 2\n            22   19  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

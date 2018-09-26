@@ -1,0 +1,34 @@
+[
+  {
+    "entry_id": "C19721",
+    "name": "5-Hydroxypyrrole-2-carboxylate",
+    "names": [
+      "5-Hydroxypyrrole-2-carboxylate"
+    ],
+    "formula": "C5H5NO3",
+    "exact_mass": 127.0269,
+    "mol_weight": 127.0981,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09586"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.13.130"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "135626188"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8y C    18.5286  -18.1068\n            2   C8x C    18.9481  -19.4355\n            3   C8x C    20.3467  -19.4355\n            4   C8y C    20.7663  -18.1068\n            5   N4x N    19.6474  -17.2677\n            6   C6a C    21.9550  -17.4076\n            7   O6a O    23.2138  -18.1068\n            8   O6a O    21.9550  -16.0090\n            9   O1a O    17.2218  -17.6875\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     1   5 1\n            6     4   6 1\n            7     6   7 1\n            8     6   8 2\n            9     1   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

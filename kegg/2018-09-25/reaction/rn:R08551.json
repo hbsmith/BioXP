@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R08551",
+    "name": "cytochrome P-450 reductase",
+    "definition": "[Oxidized NADPH---hemoprotein reductase] + NADPH + H+ <=> [Reduced NADPH---hemoprotein reductase] + NADP+",
+    "equation": "C03161 + C00005 + C00080 <=> C03024 + C00006",
+    "comment": "NADPH---hemoprotein reductase is this enzyme itself. The reduced enzyme serves as electron-donor for heme-containing enzymes (ex. cytochrome P-450;ec 1.14.14.1)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.6.2.4"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11226",
+    "name": "bacteriochlorophyll a:NADP+ oxidoreductase (geranylgeranyl-reducing)",
+    "definition": "Bacteriochlorophyll a + 3 NADP+ <=> Geranylgeranyl bacteriochlorophyllide a + 3 NADPH + 3 H+",
+    "equation": "C11242 + 3 C00006 <=> C21217 + 3 C00005 + 3 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.1.111"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K10960": "geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase [EC:1.3.1.83 1.3.1.111]"
+    }
+  }
+]

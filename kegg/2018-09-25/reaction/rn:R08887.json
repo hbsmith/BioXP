@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08887",
+    "name": "",
+    "definition": "Phosphonoformyl-CMP + 3-Phospho-D-glycerate <=> 1-Carboxyvinyl carboxyphosphonate + CMP + Orthophosphate",
+    "equation": "C17945 + C00197 <=> C06367 + C00055 + C00009",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+    }
+  }
+]

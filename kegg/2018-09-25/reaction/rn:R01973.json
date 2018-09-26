@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01973",
+    "name": "S-Adenosyl-L-methionine:(indol-3-yl)pyruvate C-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Indolepyruvate <=> S-Adenosyl-L-homocysteine + 3-Methylindolepyruvate",
+    "equation": "C00019 + C00331 <=> C00021 + C05644",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.47"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C14114",
+    "name": "Tetralin",
+    "names": [
+      "Tetralin",
+      "1,2,3,4-Tetrahydronaphthalene"
+    ],
+    "formula": "C10H12",
+    "exact_mass": 132.0939,
+    "mol_weight": 132.2023,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06901"
+    ],
+    "pathways": {
+      "map00626": "Naphthalene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "119-64-2"
+      ],
+      "PubChem": [
+        "854350"
+      ],
+      "ChEBI": [
+        "35008"
+      ],
+      "ChEMBL": [
+        "CHEMBL1575635"
+      ],
+      "NIKKAJI": [
+        "J2.002H"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    26.4051  -16.2080\n            2   C8x C    26.4051  -17.6080\n            3   C8x C    27.6215  -18.3116\n            4   C8x C    27.6215  -15.5115\n            5   C8y C    28.8306  -16.2080\n            6   C8y C    28.8247  -17.6080\n            7   C1x C    30.0352  -18.3167\n            8   C1x C    31.3217  -17.6183\n            9   C1x C    31.2576  -16.2183\n            10  C1x C    30.0471  -15.5166\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   6 2\n            4     5   4 2\n            5     4   1 1\n            6     5   6 1\n            7     6   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11   10   5 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

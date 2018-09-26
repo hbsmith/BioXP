@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02123",
+    "name": "retinal:NAD+ oxidoreductase",
+    "definition": "Retinal + NAD+ + H2O <=> Retinoate + NADH + H+",
+    "equation": "C00376 + C00003 + C00001 <=> C00777 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.36"
+    ],
+    "pathways": {
+      "rn00830": "Retinol metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K07249": "retinal dehydrogenase [EC:1.2.1.36]"
+    }
+  }
+]

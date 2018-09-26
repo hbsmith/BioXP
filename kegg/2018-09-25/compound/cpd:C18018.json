@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C18018",
+    "name": "p-Menth-8-en-2-one",
+    "names": [
+      "p-Menth-8-en-2-one",
+      "2-Methyl-5-(1-methylethenyl)cyclohexanone",
+      "Menth-8-en-2-one"
+    ],
+    "formula": "C10H16O",
+    "exact_mass": 152.1201,
+    "mol_weight": 152.2334,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy Four stereoisomers (1R,4R) [CPD:C11398] (1R,4S) [CPD:C11412] (1S,4R) [CPD:C11401] (1S,4S) [CPD:C11415]",
+    "reactions": [
+      "R08918"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.296"
+    ],
+    "dblinks": {
+      "CAS": [
+        "7764-50-3"
+      ],
+      "PubChem": [
+        "96024238"
+      ],
+      "ChEBI": [
+        "23733"
+      ],
+      "NIKKAJI": [
+        "J150.037F",
+        "J87.284I"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1x C    26.6647  -23.1999\n            2   C1x C    26.6647  -24.6007\n            3   C1y C    27.8817  -25.3044\n            4   C1x C    29.0913  -24.6007\n            5   C5x C    29.0913  -23.1999\n            6   C1y C    27.8817  -22.5031\n            7   C1a C    27.8834  -21.1023\n            8   O5x O    30.2988  -22.5039\n            9   C2c C    27.8834  -26.7052\n            10  C1a C    26.6703  -27.4035\n            11  C2a C    29.0982  -27.4005\nBOND        11\n            1     5   6 1\n            2     6   1 1\n            3     6   7 1\n            4     1   2 1\n            5     5   8 2\n            6     2   3 1\n            7     3   9 1\n            8     3   4 1\n            9     9  10 1\n            10    4   5 1\n            11    9  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

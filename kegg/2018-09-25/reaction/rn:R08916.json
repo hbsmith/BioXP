@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R08916",
+    "name": "3beta-hydroxy-9beta-pimara-7,15-diene-19,6beta-olide:NAD+ oxidoreductase",
+    "definition": "3beta-Hydroxy-9beta-pimara-7,15-diene-19,6beta-olide + NAD+ <=> Momilactone A + NADH + H+",
+    "equation": "C18016 + C00003 <=> C18015 + C00004 + C00080",
+    "comment": "NADP+ (less effective, see R08917)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.295"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13070": "momilactone-A synthase [EC:1.1.1.295]"
+    }
+  }
+][
+  {
+    "entry_id": "R08916",
+    "name": "3beta-hydroxy-9beta-pimara-7,15-diene-19,6beta-olide:NAD+ oxidoreductase",
+    "definition": "3beta-Hydroxy-9beta-pimara-7,15-diene-19,6beta-olide + NAD+ <=> Momilactone A + NADH + H+",
+    "equation": "C18016 + C00003 <=> C18015 + C00004 + C00080",
+    "comment": "NADP+ (less effective, see R08917)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.295"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13070": "momilactone-A synthase [EC:1.1.1.295]"
+    }
+  }
+]

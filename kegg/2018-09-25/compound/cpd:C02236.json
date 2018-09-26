@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C02236",
+    "name": "4-Sulfobenzoate",
+    "names": [
+      "4-Sulfobenzoate",
+      "4-Sulfobenzoic acid"
+    ],
+    "formula": "C7H6O5S",
+    "exact_mass": 201.9936,
+    "mol_weight": 202.1845,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01636",
+      "R05272"
+    ],
+    "pathways": {
+      "map00623": "Toluene degradation",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.2.1.62",
+      "1.14.12.8"
+    ],
+    "dblinks": {
+      "CAS": [
+        "636-78-2"
+      ],
+      "PubChem": [
+        "5300"
+      ],
+      "ChEBI": [
+        "20476",
+        "30789"
+      ],
+      "3DMET": [
+        "B00410"
+      ],
+      "NIKKAJI": [
+        "J135.893F"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    28.8808  -18.0220\n            2   C8x C    27.6642  -17.3201\n            3   C8x C    30.0915  -17.3201\n            4   S4a S    28.8866  -19.4199\n            5   C8x C    27.6642  -15.9223\n            6   C8x C    30.0915  -15.9223\n            7   O1d O    28.8992  -21.1209\n            8   O1d O    27.6701  -20.1218\n            9   O1d O    30.0973  -20.1158\n            10  C8y C    28.8808  -15.2205\n            11  C6a C    28.8866  -13.8227\n            12  O6a O    30.0973  -13.1266\n            13  O6a O    27.6701  -13.1208\nBOND        13\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     3   6 1\n            6     4   7 1\n            7     4   8 2\n            8     4   9 2\n            9     5  10 1\n            10   10  11 1\n            11   11  12 1\n            12   11  13 2\n            13    6  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

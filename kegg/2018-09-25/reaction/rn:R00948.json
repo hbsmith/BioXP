@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "R00948",
+    "name": "ATP:alpha-D-glucose-1-phosphate adenylyltransferase",
+    "definition": "ATP + D-Glucose 1-phosphate <=> Diphosphate + ADP-glucose",
+    "equation": "C00002 + C00103 <=> C00013 + C00498",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.27"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00975": "glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]"
+    }
+  }
+][
+  {
+    "entry_id": "R00948",
+    "name": "ATP:alpha-D-glucose-1-phosphate adenylyltransferase",
+    "definition": "ATP + D-Glucose 1-phosphate <=> Diphosphate + ADP-glucose",
+    "equation": "C00002 + C00103 <=> C00013 + C00498",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.27"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00975": "glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]"
+    }
+  }
+]

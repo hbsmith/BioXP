@@ -1,0 +1,57 @@
+[
+  {
+    "entry_id": "C04896",
+    "name": "5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide",
+    "names": [
+      "5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide",
+      "N-(5'-Phospho-D-ribosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide",
+      "N-(5'-Phosphoribosylformimino)-5-amino-1-(5''-phosphoribosyl)-4-imidazolecarboxamide",
+      "Phosphoribosyl-formimino-AICAR-phosphate",
+      "1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide",
+      "1-(5-Phospho-beta-D-ribosyl)-5-[(5-phospho-beta-D-ribosylamino)methylideneamino]imidazole-4-carboxamide"
+    ],
+    "formula": "C15H25N5O15P2",
+    "exact_mass": 577.0822,
+    "mol_weight": 577.331,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04037",
+      "R04640"
+    ],
+    "pathways": {
+      "map00340": "Histidine metabolism",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01230": "Biosynthesis of amino acids"
+    },
+    "enzymes": [
+      "3.5.4.19",
+      "5.3.1.16"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7447"
+      ],
+      "ChEBI": [
+        "18302"
+      ],
+      "PDB-CCD": [
+        "GUO"
+      ],
+      "3DMET": [
+        "B01802"
+      ],
+      "NIKKAJI": [
+        "J574.865H"
+      ]
+    },
+    "kcf": "ATOM        37\n            1   N4y N    27.1212  -22.7626\n            2   C1y C    26.1654  -23.9780\n            3   C8y C    28.5011  -22.7626\n            4   C8x C    26.7035  -21.4461\n            5   O2x O    25.0450  -23.1742\n            6   C1y C    25.7412  -25.2944\n            7   C8y C    28.9316  -21.4461\n            8   N2b N    29.3113  -23.8766\n            9   N5x N    27.8110  -20.6422\n            10  C1y C    23.9435  -23.9780\n            11  C1y C    24.3613  -25.2944\n            12  O1a O    26.5515  -26.4085\n            13  C2b C    30.6847  -23.8704\n            14  C1b C    22.6333  -23.5475\n            15  O1a O    23.5449  -26.4022\n            16  N1b N    31.4696  -25.2439\n            17  O2b O    22.3548  -22.1992\n            18  C1y C    33.2022  -26.2775\n            19  P1b P    20.9686  -22.1930\n            20  O2x O    34.3036  -25.4737\n            21  C1y C    33.6136  -27.5942\n            22  O1c O    19.5952  -22.1930\n            23  O1c O    20.9686  -20.8194\n            24  O1c O    21.0323  -23.5728\n            25  C1y C    35.4239  -26.2775\n            26  C1y C    34.9999  -27.5942\n            27  O1a O    32.8033  -28.7018\n            28  C1b C    36.7341  -25.8473\n            29  O1a O    35.8099  -28.7082\n            30  O2b O    37.7595  -26.7586\n            31  P1b P    39.1331  -26.7586\n            32  O1c O    40.5067  -26.7586\n            33  O1c O    39.1331  -25.3850\n            34  O1c O    39.1269  -28.1385\n            35  C5a C    30.1224  -20.7200\n            36  N1a N    31.3349  -21.4200\n            37  O5a O    30.1057  -19.3200\nBOND        39\n            1     2   1 1 #Up\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 2\n            7     3   8 1\n            8     4   9 2\n            9     5  10 1\n            10    6  11 1\n            11    6  12 1 #Down\n            12    8  13 2\n            13   10  14 1 #Up\n            14   11  15 1 #Down\n            15   13  16 1\n            16   14  17 1\n            17   18  16 1 #Down\n            18   17  19 1\n            19   18  20 1\n            20   18  21 1\n            21   19  22 1\n            22   19  23 1\n            23   19  24 2\n            24   20  25 1\n            25   21  26 1\n            26   21  27 1 #Up\n            27   25  28 1 #Down\n            28   26  29 1 #Up\n            29   28  30 1\n            30   30  31 1\n            31   31  32 1\n            32   31  33 1\n            33   31  34 2\n            34    7   9 1\n            35   10  11 1\n            36   25  26 1\n            37    7  35 1\n            38   35  36 1\n            39   35  37 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

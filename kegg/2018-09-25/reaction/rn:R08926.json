@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08926",
+    "name": "L-fucose:NAD+ 1-oxidoreductase",
+    "definition": "6-Deoxy-L-galactose + NAD+ <=> L-Fucono-1,5-lactone + NADH + H+",
+    "equation": "C01019 + C00003 <=> C18028 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.122"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00064": "D-threo-aldose 1-dehydrogenase [EC:1.1.1.122]",
+      "K18333": "L-fucose dehydrogenase"
+    }
+  }
+]

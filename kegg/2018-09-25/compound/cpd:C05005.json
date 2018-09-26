@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C05005",
+    "name": "Glycolipid",
+    "names": [
+      "Glycolipid"
+    ],
+    "formula": "",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R00422",
+      "R01120",
+      "R01537",
+      "R04289"
+    ],
+    "pathways": {
+      "map05133": "Pertussis"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7490"
+      ],
+      "ChEBI": [
+        "33563"
+      ]
+    },
+    "kcf": "",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

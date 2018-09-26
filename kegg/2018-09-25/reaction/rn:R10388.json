@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R10388",
+    "name": "nitroalkane:oxygen oxidoreductase",
+    "definition": "Nitroalkane + H2O + Oxygen <=> Aldehyde + Nitrite + Hydrogen peroxide",
+    "equation": "C06058 + C00001 + C00007 <=> C00071 + C00088 + C00027",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.3.1"
+    ],
+    "pathways": {
+      "rn00910": "Nitrogen metabolism"
+    },
+    "orthologs": {
+      "K19823": "nitroalkane oxidase [EC:1.7.3.1]"
+    }
+  }
+][
+  {
+    "entry_id": "R10388",
+    "name": "nitroalkane:oxygen oxidoreductase",
+    "definition": "Nitroalkane + H2O + Oxygen <=> Aldehyde + Nitrite + Hydrogen peroxide",
+    "equation": "C06058 + C00001 + C00007 <=> C00071 + C00088 + C00027",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.3.1"
+    ],
+    "pathways": {
+      "rn00910": "Nitrogen metabolism"
+    },
+    "orthologs": {
+      "K19823": "nitroalkane oxidase [EC:1.7.3.1]"
+    }
+  }
+]

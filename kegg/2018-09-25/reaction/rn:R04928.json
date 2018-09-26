@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04928",
+    "name": "ATP:adenylylsulfate 3'-phosphotransferase",
+    "definition": "ATP + Adenylylselenate <=> ADP + 3'-Phosphoadenylylselenate",
+    "equation": "C00002 + C05686 <=> C00008 + C05696",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.25"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00860": "adenylylsulfate kinase [EC:2.7.1.25]",
+      "K00955": "bifunctional enzyme CysN/CysC [EC:2.7.7.4 2.7.1.25]",
+      "K13811": "3'-phosphoadenosine 5'-phosphosulfate synthase [EC:2.7.7.4 2.7.1.25]"
+    }
+  }
+]

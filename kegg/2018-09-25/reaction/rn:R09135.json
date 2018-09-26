@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09135",
+    "name": "2,3,5-trichlorodienelactone lyase (decyclizing)",
+    "definition": "Tetrachloro-cis,cis-muconate <=> 2,3,5-Trichlorodienelactone + Hydrochloric acid",
+    "equation": "C18241 <=> C18242 + C01327",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.7"
+    ],
+    "pathways": {
+      "rn00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01860": "chloromuconate cycloisomerase [EC:5.5.1.7]"
+    }
+  }
+]

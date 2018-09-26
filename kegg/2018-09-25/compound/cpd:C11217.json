@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C11217",
+    "name": "p-Fluorophenylalanine",
+    "names": [
+      "p-Fluorophenylalanine"
+    ],
+    "formula": "C9H10FNO2",
+    "exact_mass": 183.0696,
+    "mol_weight": 183.1796,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "51-65-0"
+      ],
+      "PubChem": [
+        "13397"
+      ],
+      "ChEBI": [
+        "84060"
+      ],
+      "ChEMBL": [
+        "CHEMBL3185250"
+      ],
+      "NIKKAJI": [
+        "J231.456H"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    29.5146  -20.6035\n            2   C8y C    29.5144  -22.0040\n            3   C8x C    28.2976  -22.7005\n            4   C8x C    27.0882  -22.0033\n            5   C8y C    27.0885  -20.6030\n            6   C8x C    28.2983  -19.8995\n            7   X   F    30.7316  -22.6939\n            8   C1b C    25.8908  -19.8920\n            9   C1c C    24.6802  -20.5954\n            10  C6a C    23.4701  -19.8843\n            11  O6a O    23.4774  -18.4840\n            12  O6a O    22.2595  -20.5878\n            13  N1a N    24.6868  -21.9957\nBOND        13\n            1     1   2 2\n            2     5   8 1\n            3     2   3 1\n            4     8   9 1\n            5     3   4 2\n            6     9  10 1\n            7     4   5 1\n            8    10  11 2\n            9     5   6 2\n            10   10  12 1\n            11    6   1 1\n            12    9  13 1\n            13    2   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

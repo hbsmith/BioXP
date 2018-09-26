@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R12051",
+    "name": "",
+    "definition": "Aurachin D + NADPH + H+ + Oxygen <=> Aurachin C + NADP+ + H2O",
+    "equation": "C10641 + C00005 + C00080 + C00007 <=> C21330 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K22800": "aurachin D monooxygenase [EC:1.14.13.-]"
+    }
+  }
+]

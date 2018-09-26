@@ -1,0 +1,686 @@
+[
+  {
+    "entry_id": "1.14.14.73",
+    "name": "albendazole monooxygenase (sulfoxide-forming)",
+    "names": [
+      "albendazole monooxygenase (sulfoxide-forming)",
+      "albendazole sulfoxidase (ambiguous)",
+      "albendazole hydroxylase (ambiguous)",
+      "CYP3A4 (gene name)",
+      "CYP2J2 (gene name)",
+      "CYP1A2 (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "albendazole,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (sulfoxide-forming)",
+    "reaction": "(1) albendazole + [reduced NADPH---hemoprotein reductase] + O2 = albendazole S-oxide + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R12068]; (2) fenbendazole + [reduced NADPH---hemoprotein reductase] + O2 = fenbendazole S-oxide + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R12069]",
+    "all_reac": "R12068 R12069",
+    "iubmb_reactions": [
+      "R12068 R12069"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "albendazole [CPD:C01779]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]",
+      "fenbendazole [CPD:C21876]"
+    ],
+    "products": [
+      "albendazole S-oxide [CPD:C02809]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]",
+      "fenbendazole S-oxide [CPD:C21882]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "This is one of the activities carried out by some microsomal cytochrome P-450 monooxygenases. A similar conversion is also carried out by a different microsomal enzyme (EC 1.14.13.32, albendazole monooxygenase (flavin-containing)), but it is estimated that cytochrome P-450s are responsible for 70% of the activity.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K07418": "cytochrome P450 family 2 subfamily J",
+      "K17689": "cytochrome P450 family 3 subfamily A polypeptide 4"
+    },
+    "genes": {
+      "hsa": [
+        "1573",
+        "1576"
+      ],
+      "ptr": [
+        "456896",
+        "463582"
+      ],
+      "pps": [
+        "100976899",
+        "100984148"
+      ],
+      "ggo": [
+        "101148349",
+        "101149513"
+      ],
+      "pon": [
+        "100436782",
+        "100447634"
+      ],
+      "nle": [
+        "100589053",
+        "100593175"
+      ],
+      "mcc": [
+        "678670",
+        "693631"
+      ],
+      "mcf": [
+        "102119662",
+        "102144258"
+      ],
+      "csab": [
+        "103224719",
+        "103246766"
+      ],
+      "rro": [
+        "104668045",
+        "104673585"
+      ],
+      "rbb": [
+        "108532916",
+        "108538168"
+      ],
+      "cjc": [
+        "100397287"
+      ],
+      "sbq": [
+        "101041470"
+      ],
+      "mmu": [
+        "100066",
+        "13109",
+        "13110",
+        "230459",
+        "242546",
+        "665095",
+        "74519"
+      ],
+      "rno": [
+        "100912642",
+        "313373",
+        "313375",
+        "502969",
+        "65210"
+      ],
+      "cge": [
+        "100764171",
+        "100764471",
+        "100764768",
+        "100765057"
+      ],
+      "ngi": [
+        "103730878",
+        "103730879",
+        "103737136"
+      ],
+      "hgl": [
+        "101719021",
+        "101719368"
+      ],
+      "ccan": [
+        "109684284"
+      ],
+      "ocu": [
+        "100301544"
+      ],
+      "tup": [
+        "102490783",
+        "102491623",
+        "102492033",
+        "102492447",
+        "102494214"
+      ],
+      "cfa": [
+        "479740",
+        "610195"
+      ],
+      "aml": [
+        "100482335"
+      ],
+      "umr": [
+        "103663082"
+      ],
+      "oro": [
+        "101382939"
+      ],
+      "fca": [
+        "101097746"
+      ],
+      "ptg": [
+        "102958105"
+      ],
+      "aju": [
+        "106974984"
+      ],
+      "bta": [
+        "511936",
+        "530929"
+      ],
+      "bom": [
+        "102283844",
+        "102284389"
+      ],
+      "biu": [
+        "109556228"
+      ],
+      "phd": [
+        "102335165"
+      ],
+      "chx": [
+        "102190572",
+        "102191099"
+      ],
+      "oas": [
+        "101121820",
+        "768095"
+      ],
+      "ssc": [
+        "100524940",
+        "110261221"
+      ],
+      "cfr": [
+        "102509190",
+        "102511878"
+      ],
+      "cdk": [
+        "105096275",
+        "105096288"
+      ],
+      "lve": [
+        "103072875"
+      ],
+      "oor": [
+        "101287985"
+      ],
+      "ecb": [
+        "100067247"
+      ],
+      "epz": [
+        "103564165"
+      ],
+      "eai": [
+        "106833456"
+      ],
+      "myb": [
+        "102259820"
+      ],
+      "myd": [
+        "102765527"
+      ],
+      "hai": [
+        "109389708"
+      ],
+      "pale": [
+        "102885276"
+      ],
+      "lav": [
+        "100658115",
+        "100670142"
+      ],
+      "tmu": [
+        "101350163"
+      ],
+      "mdo": [
+        "100031975"
+      ],
+      "shr": [
+        "100921692"
+      ],
+      "oaa": [
+        "100087745"
+      ],
+      "gga": [
+        "424676",
+        "424677"
+      ],
+      "mgp": [
+        "100547794",
+        "104912427"
+      ],
+      "cjo": [
+        "107317691"
+      ],
+      "apla": [
+        "101792912"
+      ],
+      "acyg": [
+        "106033102"
+      ],
+      "tgu": [
+        "100224220"
+      ],
+      "gfr": [
+        "102039653"
+      ],
+      "fab": [
+        "101817417"
+      ],
+      "phi": [
+        "102112918"
+      ],
+      "pmaj": [
+        "107208256"
+      ],
+      "ccw": [
+        "104695151"
+      ],
+      "fpg": [
+        "101919387"
+      ],
+      "fch": [
+        "102056779"
+      ],
+      "clv": [
+        "102093649",
+        "102094339"
+      ],
+      "egz": [
+        "104123941"
+      ],
+      "asn": [
+        "102371261",
+        "102371780"
+      ],
+      "amj": [
+        "102557714"
+      ],
+      "cmy": [
+        "102940076"
+      ],
+      "cpic": [
+        "101939779",
+        "103305685"
+      ],
+      "acs": [
+        "100567522"
+      ],
+      "gja": [
+        "107111277",
+        "107114997"
+      ],
+      "dre": [
+        "100034366",
+        "100034406"
+      ],
+      "srx": [
+        "107737300",
+        "107737305"
+      ],
+      "sanh": [
+        "107665313"
+      ],
+      "sgh": [
+        "107548517",
+        "107556151",
+        "107556152"
+      ],
+      "ccar": [
+        "109112720"
+      ],
+      "ipu": [
+        "108257767"
+      ],
+      "amex": [
+        "103036530",
+        "103037239"
+      ],
+      "tru": [
+        "101066452",
+        "101075700"
+      ],
+      "lco": [
+        "104918450",
+        "104930796",
+        "104930797",
+        "109142493"
+      ],
+      "mze": [
+        "112429716"
+      ],
+      "ola": [
+        "100302452"
+      ],
+      "xma": [
+        "102216555",
+        "102224544",
+        "102237069",
+        "102238098"
+      ],
+      "pret": [
+        "103463736",
+        "103463739",
+        "103464053"
+      ],
+      "nfu": [
+        "107395372",
+        "107395373"
+      ],
+      "csem": [
+        "103383190"
+      ],
+      "lcf": [
+        "108879066",
+        "108879067"
+      ],
+      "bpec": [
+        "110173990"
+      ],
+      "sasa": [
+        "106584062"
+      ],
+      "els": [
+        "105011674",
+        "105025359",
+        "105029305"
+      ],
+      "sfm": [
+        "108923501",
+        "108923521",
+        "108935464"
+      ],
+      "cmk": [
+        "103185273"
+      ],
+      "bfo": [
+        "BRAFLDRAFT_233369",
+        "BRAFLDRAFT_250482"
+      ],
+      "aplc": [
+        "110982730"
+      ],
+      "sko": [
+        "100374000",
+        "100374154",
+        "102810398"
+      ],
+      "pbar": [
+        "105426518"
+      ],
+      "hst": [
+        "105190954"
+      ],
+      "fcd": [
+        "110852911",
+        "110862659"
+      ],
+      "tut": [
+        "107359215",
+        "107362030",
+        "107371896",
+        "107371898",
+        "112538548"
+      ],
+      "lgi": [
+        "LOTGIDRAFT_125746",
+        "LOTGIDRAFT_180305",
+        "LOTGIDRAFT_204704"
+      ],
+      "crg": [
+        "105329925"
+      ],
+      "myi": [
+        "110454872"
+      ],
+      "lak": [
+        "106158299",
+        "106159280",
+        "106163201",
+        "106167088"
+      ],
+      "crb": [
+        "17885514"
+      ],
+      "brp": [
+        "103864112"
+      ],
+      "bna": [
+        "106444661",
+        "106449721"
+      ],
+      "cpep": [
+        "111802054"
+      ],
+      "rcu": [
+        "8269872"
+      ],
+      "jcu": [
+        "105634758"
+      ],
+      "nto": [
+        "104102207"
+      ],
+      "dosa": [
+        "Os02t0185900-01"
+      ],
+      "sita": [
+        "101778178"
+      ],
+      "egu": [
+        "105041286"
+      ],
+      "mus": [
+        "103995680"
+      ],
+      "dpp": [
+        "DICPUDRAFT_99050"
+      ],
+      "dfa": [
+        "DFA_07281"
+      ],
+      "pphe": [
+        "PP2015_468"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.73"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.73"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.73"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.73"
+      ],
+      "CAS": [
+        "9059-22-7"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Moroni P",
+          "Buronfosse T",
+          "Longin-Sauvageon C",
+          "Delatour P",
+          "Benoit E"
+        ],
+        "title": "Chiral sulfoxidation of albendazole by the flavin adenine dinucleotide-containing and cytochrome P450-dependent monooxygenases from rat liver microsomes.",
+        "journal": "Drug Metab Dispos",
+        "volume": "23",
+        "issue": "",
+        "pages": "160-5",
+        "year": "1995",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:7736906]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rawden HC",
+          "Kokwaro GO",
+          "Ward SA",
+          "Edwards G."
+        ],
+        "title": "Relative contribution of cytochromes P-450 and flavin-containing monoxygenases to the metabolism of albendazole by human liver microsomes.",
+        "journal": "Br J Clin Pharmacol 49:313-22 (2000) DOI:10.1046/j.1365-2125.2000.00170.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:10759686]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Asteinza J",
+          "Camacho-Carranza R",
+          "Reyes-Reyes RE",
+          "Dorado-Gonzalez V V",
+          "Espinosa-Aguirre JJ"
+        ],
+        "title": "Induction of cytochrome P450 enzymes by albendazole treatment in the rat.",
+        "journal": "Environ Toxicol Pharmacol 9:31-37 (2000) DOI:10.1016/S1382-6689(00)00059-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:11137466]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lee CA",
+          "Neul D",
+          "Clouser-Roche A",
+          "Dalvie D",
+          "Wester MR",
+          "Jiang Y",
+          "Jones JP 3rd",
+          "Freiwald S",
+          "Zientek M",
+          "Totah RA."
+        ],
+        "title": "Identification of novel substrates for human cytochrome P450 2J2.",
+        "journal": "Drug Metab Dispos 38:347-56 (2010) DOI:10.1124/dmd.109.030270",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:19923256]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wu Z",
+          "Lee D",
+          "Joo J",
+          "Shin JH",
+          "Kang W",
+          "Oh S",
+          "Lee DY",
+          "Lee SJ",
+          "Yea SS",
+          "Lee HS",
+          "Lee T",
+          "Liu KH"
+        ],
+        "title": "CYP2J2 and CYP2C19 are the major enzymes responsible for metabolism of albendazole and fenbendazole in human liver microsomes and recombinant P450 assay systems.",
+        "journal": "Antimicrob Agents Chemother 57:5448-56 (2013) DOI:10.1128/AAC.00843-13",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "5  [PMID:23959307]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

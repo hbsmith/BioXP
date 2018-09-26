@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04488",
+    "name": "",
+    "definition": "4-Carboxy-2-hydroxymuconate semialdehyde + H2O <=> 4-Methylene-2-oxoglutarate + Formate",
+    "equation": "C04484 + C00001 <=> C06035 + C00058",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.7.1.-"
+    ],
+    "pathways": {
+      "rn00362": "Benzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

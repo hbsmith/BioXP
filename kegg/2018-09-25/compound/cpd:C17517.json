@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C17517",
+    "name": "beta-Terpineol",
+    "names": [
+      "beta-Terpineol"
+    ],
+    "formula": "C10H18O",
+    "exact_mass": 154.1358,
+    "mol_weight": 154.2493,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "138-87-4"
+      ],
+      "PubChem": [
+        "96023862"
+      ],
+      "ChEBI": [
+        "132899",
+        "9380"
+      ],
+      "ChEMBL": [
+        "CHEMBL3184678"
+      ],
+      "KNApSAcK": [
+        "C00048331"
+      ],
+      "NIKKAJI": [
+        "J5.638C"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1x C    14.1401  -27.5102\n            2   C1x C    14.1401  -28.9102\n            3   C1y C    15.3525  -29.6102\n            4   C1x C    16.5651  -28.9102\n            5   C1x C    16.5651  -27.5102\n            6   C1z C    15.3525  -26.8102\n            7   C2c C    15.3525  -31.0103\n            8   C1a C    14.1234  -31.7201\n            9   C2a C    16.5482  -31.7006\n            10  C1a C    16.0526  -25.5978\n            11  O1a O    14.5726  -25.6103\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     3   7 1\n            8     7   8 1\n            9     7   9 2\n            10    6  10 1\n            11    6  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06766",
+    "name": "",
+    "definition": "3-Amino-4,7-dihydroxycoumarin <=> 3-Amino-4,7-dihydroxy-8-chlorocoumarin",
+    "equation": "C12468 <=> C12469",
+    "comment": "non-heam halogenase, Clohal",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00401": "Novobiocin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12714": "clorobiocin biosynthesis protein Clo-hal"
+    }
+  }
+]

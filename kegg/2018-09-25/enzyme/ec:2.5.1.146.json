@@ -1,0 +1,109 @@
+[
+  {
+    "entry_id": "2.5.1.146",
+    "name": "3-geranyl-3-[(Z)-2-isocyanoethenyl]indole synthase",
+    "names": [
+      "3-geranyl-3-[(Z)-2-isocyanoethenyl]indole synthase",
+      "famD2 (gene name)"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring alkyl or aryl groups, other than methyl groups;",
+      "Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)"
+    ],
+    "sysname": "geranyl-diphosphate:3-[(Z)-2-isocyanoethenyl]-1H-indole geranyltransferase",
+    "reaction": "geranyl diphosphate + 3-[(Z)-2-isocyanoethenyl]-1H-indole = 3-geranyl-3-[(Z)-2-isocyanoethenyl]-1H-indole + diphosphate [RN:R12089]",
+    "all_reac": "R12089",
+    "iubmb_reactions": [
+      "R12089"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "geranyl diphosphate [CPD:C00341]",
+      "3-[(Z)-2-isocyanoethenyl]-1H-indole [CPD:C21893]"
+    ],
+    "products": [
+      "3-geranyl-3-[(Z)-2-isocyanoethenyl]-1H-indole [CPD:C21837]",
+      "diphosphate [CPD:C00013]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, characterized from the cyanobacterium Fischerella ambigua UTEX 1903, participates in the biosynthesis of hapalindole-type alkaloids.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22841": "3-geranyl-3-[(Z)-2-isocyanoethenyl]indole synthase"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.5.1.146"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.5.1.146"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.5.1.146"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.5.1.146"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Li S",
+          "Lowell AN",
+          "Yu F",
+          "Raveh A",
+          "Newmister SA",
+          "Bair N",
+          "Schaub JM",
+          "Williams RM",
+          "Sherman DH"
+        ],
+        "title": "Hapalindole/Ambiguine Biogenesis Is Mediated by a Cope Rearrangement, C-C Bond-Forming Cascade.",
+        "journal": "J Am Chem Soc 137:15366-9 (2015) DOI:10.1021/jacs.5b10136",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:26629885]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11675",
+    "name": "butanoyl-CoA:NAD+, ferredoxin oxidoreductase",
+    "definition": "Butanoyl-CoA + 2 NAD+ + 2 Reduced ferredoxin <=> Crotonoyl-CoA + 2 NADH + 2 Oxidized ferredoxin",
+    "equation": "C00136 + 2 C00003 + 2 C00138 <=> C00877 + 2 C00004 + 2 C00139",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.1.109"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

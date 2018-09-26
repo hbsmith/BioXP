@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11106",
+    "name": "",
+    "definition": "Monodechloroaminopyrrolnitrin + FADH2 + Cl- + Oxygen + H+ <=> Aminopyrrolnitrin + FAD + 2 H2O",
+    "equation": "C21110 + C01352 + C00698 + C00007 + C00080 <=> C21109 + C00016 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.-"
+    ],
+    "pathways": {
+      "rn00404": "Staurosporine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K14257": "tetracycline 7-halogenase / FADH2 O2-dependent halogenase [EC:1.14.19.49 1.14.19.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R11106",
+    "name": "",
+    "definition": "Monodechloroaminopyrrolnitrin + FADH2 + Cl- + Oxygen + H+ <=> Aminopyrrolnitrin + FAD + 2 H2O",
+    "equation": "C21110 + C01352 + C00698 + C00007 + C00080 <=> C21109 + C00016 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.-"
+    ],
+    "pathways": {
+      "rn00404": "Staurosporine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K14257": "tetracycline 7-halogenase / FADH2 O2-dependent halogenase [EC:1.14.19.49 1.14.19.-]"
+    }
+  }
+]

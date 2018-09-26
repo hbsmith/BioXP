@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C11310",
+    "name": "1-Methyl-4-phenylpyridinium",
+    "names": [
+      "1-Methyl-4-phenylpyridinium",
+      "N-Methyl-4-phenylpyridine",
+      "Cyperquat"
+    ],
+    "formula": "C12H12N",
+    "exact_mass": 170.097,
+    "mol_weight": 170.2304,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map04976": "Bile secretion",
+      "map05012": "Parkinson disease"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "48134-75-4"
+      ],
+      "PubChem": [
+        "13485"
+      ],
+      "ChEBI": [
+        "641"
+      ],
+      "ChEMBL": [
+        "CHEMBL311617"
+      ],
+      "NIKKAJI": [
+        "J21.572D"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    21.2666  -17.1387\n            2   C8x C    21.2666  -18.5385\n            3   C8x C    22.4825  -19.2419\n            4   C8x C    23.6916  -18.5385\n            5   C8y C    23.6916  -17.1387\n            6   C8x C    22.4825  -16.4424\n            7   C8y C    24.9052  -16.4434\n            8   C8x C    26.1157  -17.1422\n            9   C8x C    27.3295  -16.4467\n            10  N5y N    27.3305  -15.0469 #+\n            11  C8x C    26.1179  -14.3427\n            12  C8x C    24.9042  -15.0453\n            13  C1a C    28.8943  -14.0645\nBOND        14\n            1     5   7 1\n            2     1   2 2\n            3     2   3 1\n            4     3   4 2\n            5     4   5 1\n            6     5   6 2\n            7     7   8 2\n            8     8   9 1\n            9     9  10 2\n            10   10  11 1\n            11   11  12 2\n            12   12   7 1\n            13    6   1 1\n            14   10  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

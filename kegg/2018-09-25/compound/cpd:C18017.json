@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C18017",
+    "name": "8-p-Menthen-2-ol",
+    "names": [
+      "8-p-Menthen-2-ol",
+      "1,6-Dihydrocarveol",
+      "6-Methyl-3-isopropenylcyclohexanol",
+      "Menth-8-en-2-ol"
+    ],
+    "formula": "C10H18O",
+    "exact_mass": 154.1358,
+    "mol_weight": 154.2493,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy Eight stereoisomers (1R,2R,4R) [CPD:C11396] (1R,2R,4S) [CPD:C11411] (1R,2S,4R) [CPD:C11397] (1R,2S,4S) [CPD:C11410] (1S,2R,4R) [CPD:C11400] (1S,2R,4S) [CPD:C11416] (1S,2S,4R) [CPD:C11399] (1S,2S,4S) [CPD:C11413]",
+    "reactions": [
+      "R08918"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.296"
+    ],
+    "dblinks": {
+      "CAS": [
+        "619-01-2"
+      ],
+      "PubChem": [
+        "96024237"
+      ],
+      "ChEBI": [
+        "50215"
+      ],
+      "NIKKAJI": [
+        "J7.040H"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1x C    26.6649  -23.2001\n            2   C1x C    26.6649  -24.6009\n            3   C1y C    27.8819  -25.3046\n            4   C1x C    29.0916  -24.6009\n            5   C1y C    29.0916  -23.2001\n            6   C1y C    27.8819  -22.5033\n            7   C1a C    27.8836  -21.1025\n            8   O1a O    30.2991  -22.5041\n            9   C2c C    27.8836  -26.7054\n            10  C1a C    26.6705  -27.4037\n            11  C2a C    29.0985  -27.4007\nBOND        11\n            1     5   6 1\n            2     6   1 1\n            3     6   7 1\n            4     1   2 1\n            5     5   8 1\n            6     2   3 1\n            7     3   9 1\n            8     3   4 1\n            9     9  10 1\n            10    4   5 1\n            11    9  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

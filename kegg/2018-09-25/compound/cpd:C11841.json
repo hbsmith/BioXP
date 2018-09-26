@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C11841",
+    "name": "N-(3-Oxooctanoyl)homoserine lactone",
+    "names": [
+      "N-(3-Oxooctanoyl)homoserine lactone",
+      "N-(3-Oxooctanoyl)-L-homoserine lactone",
+      "OOHL"
+    ],
+    "formula": "C12H19NO4",
+    "exact_mass": 241.1314,
+    "mol_weight": 241.2836,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map02024": "Quorum sensing"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "147795-39-9"
+      ],
+      "PubChem": [
+        "14003"
+      ],
+      "ChEMBL": [
+        "CHEMBL463321"
+      ],
+      "LIPIDMAPS": [
+        "LMFA08030004"
+      ],
+      "PDB-CCD": [
+        "LAE"
+      ],
+      "3DMET": [
+        "B04329"
+      ],
+      "NIKKAJI": [
+        "J533.603A"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C1x C    28.5647  -14.8498\n            2   C1y C    28.1455  -16.1846\n            3   C7x C    29.2881  -16.9868\n            4   O7x O    30.4087  -16.1546\n            5   C1x C    29.9617  -14.8311\n            6   C1a C    17.2228  -16.8801\n            7   C1b C    18.4365  -16.1814\n            8   C1b C    19.6505  -16.8801\n            9   C1b C    20.8644  -16.1814\n            10  C1b C    22.0781  -16.8801\n            11  C5a C    23.2920  -16.1814\n            12  C1b C    24.5059  -16.8801\n            13  C5a C    25.7197  -16.1814\n            14  N1b N    26.9265  -16.8801\n            15  O5a O    25.7197  -14.7769\n            16  O5a O    23.2920  -14.7769\n            17  O6a O    29.2367  -18.3909\nBOND        17\n            1     8   9 1\n            2     4   5 1\n            3     9  10 1\n            4     5   1 1\n            5    10  11 1\n            6    11  12 1\n            7     1   2 1\n            8    12  13 1\n            9     6   7 1\n            10   13  14 1\n            11    2  14 1 #Up\n            12    2   3 1\n            13   13  15 2\n            14    7   8 1\n            15   11  16 2\n            16    3   4 1\n            17    3  17 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

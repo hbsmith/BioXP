@@ -1,0 +1,58 @@
+[
+  {
+    "entry_id": "C11386",
+    "name": "(-)-Citronellol",
+    "names": [
+      "(-)-Citronellol"
+    ],
+    "formula": "C10H20O",
+    "exact_mass": 156.1514,
+    "mol_weight": 156.2652,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08085",
+      "R10126"
+    ],
+    "pathways": {
+      "map00281": "Geraniol degradation"
+    },
+    "enzymes": [
+      "1.1.1.183",
+      "1.1.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "7540-51-4"
+      ],
+      "PubChem": [
+        "13560"
+      ],
+      "ChEBI": [
+        "88"
+      ],
+      "ChEMBL": [
+        "CHEMBL1907995"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0102010012"
+      ],
+      "KNApSAcK": [
+        "C00000844"
+      ],
+      "3DMET": [
+        "B04234"
+      ],
+      "NIKKAJI": [
+        "J67.958E"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1c C    30.0484  -17.2622\n            2   C1b C    28.8363  -17.9672\n            3   C1b C    31.2545  -17.9672\n            4   C1b C    27.6244  -17.2622\n            5   C1b C    32.4664  -17.2622\n            6   C2b C    26.4124  -17.9672\n            7   O1a O    33.6785  -17.9672\n            8   C2c C    25.2005  -17.2622\n            9   C1a C    24.0002  -17.9672\n            10  C1a C    25.2005  -15.8579\n            11  C1a C    30.0499  -15.8682\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     4   6 1\n            6     5   7 1\n            7     6   8 2\n            8     8   9 1\n            9     8  10 1\n            10    1  11 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

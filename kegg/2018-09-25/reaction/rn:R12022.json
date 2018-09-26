@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R12022",
+    "name": "",
+    "definition": "5-Chloro-1H-pyrrole-2-carbonyl-[peptidyl-carrier protein] + FADH2 + Cl- + Oxygen <=> 4,5-Dichloro-1H-pyrrole-2-carbonyl-[peptidyl-carrier protein] + FAD + 2 H2O",
+    "equation": "C21855 + C01352 + C00698 + C00007 <=> C21856 + C00016 + 2 C00001",
+    "comment": "the second step of two-step reaction (see R12023, R12021+R12022)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.56"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

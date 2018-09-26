@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11936",
+    "name": "S-adenosyl-L-methionine:baeocystin N-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Baeocystin <=> S-Adenosyl-L-homocysteine + Psilocybin",
+    "equation": "C00019 + C21779 <=> C00021 + C07576",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.345"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22436": "psilocybin synthase [EC:2.1.1.345]"
+    }
+  }
+]

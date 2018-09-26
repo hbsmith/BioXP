@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R03374",
+    "name": "caffeoyl-CoA:3-(3,4-dihydroxyphenyl)lactate 2'-O-caffeoyltransferase",
+    "definition": "Caffeoyl-CoA + 3-(3,4-Dihydroxyphenyl)lactate <=> CoA + Rosmarinate",
+    "equation": "C00323 + C01207 <=> C00010 + C01850",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.140"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism"
+    },
+    "orthologs": {
+      "K21425": "rosmarinate synthase [EC:2.3.1.140]"
+    }
+  }
+][
+  {
+    "entry_id": "R03374",
+    "name": "caffeoyl-CoA:3-(3,4-dihydroxyphenyl)lactate 2'-O-caffeoyltransferase",
+    "definition": "Caffeoyl-CoA + 3-(3,4-Dihydroxyphenyl)lactate <=> CoA + Rosmarinate",
+    "equation": "C00323 + C01207 <=> C00010 + C01850",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.140"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism"
+    },
+    "orthologs": {
+      "K21425": "rosmarinate synthase [EC:2.3.1.140]"
+    }
+  }
+]

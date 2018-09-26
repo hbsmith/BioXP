@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10532",
+    "name": "L-galactonate hydro-lyase (2-dehydro-3-deoxy-L-galactonate-forming)",
+    "definition": "L-Galactonate <=> 2-Dehydro-3-deoxy-L-galactonate + H2O",
+    "equation": "C15930 <=> C20680 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.146"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K18102": "L-galactonate dehydratase [EC:4.2.1.146]"
+    }
+  }
+]

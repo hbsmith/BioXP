@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "C17263",
+    "name": "2-Alkylmalic acid",
+    "names": [
+      "2-Alkylmalic acid"
+    ],
+    "formula": "C4H5O5R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R08680",
+      "R08681"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.3.3.-",
+      "5.4.4.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023670"
+      ],
+      "ChEBI": [
+        "80994"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1d C    24.5108  -16.8882\n            2   C1b C    25.7297  -17.5920\n            3   C6a C    23.2919  -17.5920\n            4   O6a O    22.0900  -16.8978\n            5   O6a O    23.2918  -18.9993\n            6   C6a C    26.9316  -16.8978\n            7   O6a O    28.1253  -17.5870\n            8   O6a O    26.9317  -15.4810\n            9   R   R    25.2108  -15.6758\n            10  O1a O    23.6609  -15.7583\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     3   4 1\n            4     3   5 2\n            5     2   6 1\n            6     6   7 1\n            7     6   8 2\n            8     1   9 1\n            9     1  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

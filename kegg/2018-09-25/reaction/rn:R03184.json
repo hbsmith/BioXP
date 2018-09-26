@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03184",
+    "name": "L-gulono-1,4-lactone:oxygen 2-oxidoreductase",
+    "definition": "L-Gulono-1,4-lactone + Oxygen <=> L-xylo-Hexulonolactone + Hydrogen peroxide",
+    "equation": "C01040 + C00007 <=> C03289 + C00027",
+    "comment": "first step of two-step reaction (see R10053, R03184+R00647)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.3.8"
+    ],
+    "pathways": {
+      "rn00053": "Ascorbate and aldarate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00103": "L-gulonolactone oxidase [EC:1.1.3.8]"
+    }
+  }
+]

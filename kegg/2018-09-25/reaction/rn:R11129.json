@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11129",
+    "name": "",
+    "definition": "O-Demethyl-N-demethyl-staurosporine <=> 3'-Demethylstaurosporine",
+    "equation": "C21128 <=> C07349",
+    "comment": "methyltransferase unclear reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00404": "Staurosporine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20081": "N-methyltransferase StaMA [EC:2.1.1.-]"
+    }
+  }
+]

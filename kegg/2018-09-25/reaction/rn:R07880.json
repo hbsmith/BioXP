@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07880",
+    "name": "hydroxycinnamoyl-CoA:anthocyanidin 3,5-diglucoside 5-O-glucoside-6'''-O-hydroxycinnamoyltransferase",
+    "definition": "Pelargonin + p-Coumaroyl-CoA <=> Pelargonidin 3-O-beta-D-glucoside 5-O-(6-coumaroyl-beta-D-glucoside) + CoA",
+    "equation": "C08725 + C00223 <=> C16349 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.153"
+    ],
+    "pathways": {
+      "rn00942": "Anthocyanin biosynthesis"
+    },
+    "orthologs": {
+      "K12936": "anthocyanin 5-aromatic acyltransferase [EC:2.3.1.153]"
+    }
+  }
+]

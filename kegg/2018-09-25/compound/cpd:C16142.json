@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C16142",
+    "name": "(-)-Germacrene D",
+    "names": [
+      "(-)-Germacrene D"
+    ],
+    "formula": "C15H24",
+    "exact_mass": 204.1878,
+    "mol_weight": 204.3511,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07648"
+    ],
+    "pathways": {
+      "map00909": "Sesquiterpenoid and triterpenoid biosynthesis"
+    },
+    "enzymes": [
+      "4.2.3.75"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205452"
+      ],
+      "ChEBI": [
+        "49044"
+      ],
+      "ChEMBL": [
+        "CHEMBL105432"
+      ],
+      "KNApSAcK": [
+        "C00011720"
+      ],
+      "NIKKAJI": [
+        "J17.213H"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C2x C    25.2305  -10.1542\n            2   C2y C    26.3283   -9.2897\n            3   C1x C    27.6951   -9.6014\n            4   C1x C    28.2976  -10.8559\n            5   C2x C    25.2305  -11.5647\n            6   C1y C    27.6960  -12.1244\n            7   C2x C    26.3283  -12.4365\n            8   C1x C    23.8892   -9.7184\n            9   C1x C    23.0601  -10.8594\n            10  C2y C    23.8892  -12.0005\n            11  C2a C    23.4588  -13.3250\n            12  C1a C    26.0141   -7.8960\n            13  C1c C    28.5485  -13.1866\n            14  C1a C    29.8948  -12.9799\n            15  C1a C    28.0331  -14.5129\nBOND        15\n            1     3   4 1\n            2     4   6 1\n            3     2   3 1\n            4     5   7 2\n            5     1   2 2\n            6     6   7 1\n            7     1   8 1\n            8     8   9 1\n            9     9  10 1\n            10    5  10 1\n            11   10  11 2\n            12    2  12 1\n            13    6  13 1 #Up\n            14   13  14 1\n            15   13  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

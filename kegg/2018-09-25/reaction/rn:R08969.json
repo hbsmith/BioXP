@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08969",
+    "name": "ceramide:phosphatidylcholine cholinephosphotransferase",
+    "definition": "N-Acylsphingosine + Phosphatidylcholine <=> Sphingomyelin + 1,2-Diacyl-sn-glycerol",
+    "equation": "C00195 + C00157 <=> C00550 + C00641",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.8.27"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K04714": "shingomyelin synthase [EC:2.7.8.27]"
+    }
+  }
+]

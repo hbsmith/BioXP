@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02042",
+    "name": "Wax-ester acylhydrolase",
+    "definition": "Wax ester + H2O <=> Long-chain alcohol + Long-chain carboxylate",
+    "equation": "C01629 + C00001 <=> C00339 + C00347",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.50"
+    ],
+    "pathways": {
+      "rn00073": "Cutin, suberine and wax biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "entry_id": "C05906",
+    "name": "Leucocyanidin",
+    "names": [
+      "Leucocyanidin",
+      "2-(3,4-Dihydroxyphenyl)-3,4-dihydro-2H-1-benzopyran-3,4,5,7-tetrol",
+      "3,3',4,4',5,7-Flavanhexol",
+      "3,4-Cyanidiol",
+      "Leucoanthocyanidol",
+      "Leucocianidol",
+      "Leucocyanidol",
+      "Leukocyanidine",
+      "Procyanidol",
+      "Resivit",
+      "2,3-trans-3,4-cis-Leucocyanidin"
+    ],
+    "formula": "C15H14O7",
+    "exact_mass": 306.074,
+    "mol_weight": 306.2675,
+    "remark": "Same as: D08112",
+    "comment": "",
+    "reactions": [
+      "R03636",
+      "R05036",
+      "R05723",
+      "R06532",
+      "R07366"
+    ],
+    "pathways": {
+      "map00941": "Flavonoid biosynthesis",
+      "map01061": "Biosynthesis of phenylpropanoids",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.1.1.219",
+      "1.14.20.4",
+      "1.17.1.3"
+    ],
+    "dblinks": {
+      "CAS": [
+        "93527-39-0"
+      ],
+      "PubChem": [
+        "8194"
+      ],
+      "ChEBI": [
+        "11412",
+        "15758"
+      ],
+      "ChEMBL": [
+        "CHEMBL124022"
+      ],
+      "KNApSAcK": [
+        "C00008991"
+      ],
+      "3DMET": [
+        "B01907"
+      ],
+      "NIKKAJI": [
+        "J862.804A"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C8y C    16.8171  -17.2309\n            2   C8y C    16.8236  -15.8315\n            3   C1y C    18.0296  -17.9403\n            4   C8y C    15.6110  -17.9340\n            5   O2x O    18.0425  -15.1348\n            6   C8x C    15.6110  -15.1284\n            7   C1y C    19.2486  -17.2438\n            8   O1a O    18.0932  -19.3400\n            9   C8x C    14.3985  -17.2309\n            10  O1a O    15.5981  -19.3400\n            11  C1y C    19.2551  -15.8379\n            12  C8y C    14.3985  -15.8315\n            13  O1a O    20.4547  -17.9403\n            14  C8y C    20.4611  -15.1284\n            15  O1a O    13.1795  -15.1284\n            16  C8x C    21.6671  -15.8315\n            17  C8x C    20.4611  -13.7288\n            18  C8y C    22.8797  -15.1348\n            19  C8x C    21.6737  -13.0386\n            20  C8y C    22.8797  -13.7354\n            21  O1a O    24.0857  -15.8315\n            22  O1a O    24.0857  -13.0257\nBOND        24\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     3   8 1 #Up\n            8     4   9 2\n            9     4  10 1\n            10    5  11 1\n            11    6  12 2\n            12    7  13 1 #Up\n            13   11  14 1 #Down\n            14   12  15 1\n            15   14  16 2\n            16   14  17 1\n            17   16  18 1\n            18   17  19 2\n            19   18  20 2\n            20   18  21 1\n            21   20  22 1\n            22    7  11 1\n            23    9  12 1\n            24   19  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C05906",
+    "name": "Leucocyanidin",
+    "names": [
+      "Leucocyanidin",
+      "2-(3,4-Dihydroxyphenyl)-3,4-dihydro-2H-1-benzopyran-3,4,5,7-tetrol",
+      "3,3',4,4',5,7-Flavanhexol",
+      "3,4-Cyanidiol",
+      "Leucoanthocyanidol",
+      "Leucocianidol",
+      "Leucocyanidol",
+      "Leukocyanidine",
+      "Procyanidol",
+      "Resivit",
+      "2,3-trans-3,4-cis-Leucocyanidin"
+    ],
+    "formula": "C15H14O7",
+    "exact_mass": 306.074,
+    "mol_weight": 306.2675,
+    "remark": "Same as: D08112",
+    "comment": "",
+    "reactions": [
+      "R03636",
+      "R05036",
+      "R05723",
+      "R06532",
+      "R07366"
+    ],
+    "pathways": {
+      "map00941": "Flavonoid biosynthesis",
+      "map01061": "Biosynthesis of phenylpropanoids",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.1.1.219",
+      "1.14.20.4",
+      "1.17.1.3"
+    ],
+    "dblinks": {
+      "CAS": [
+        "93527-39-0"
+      ],
+      "PubChem": [
+        "8194"
+      ],
+      "ChEBI": [
+        "11412",
+        "15758"
+      ],
+      "ChEMBL": [
+        "CHEMBL124022"
+      ],
+      "KNApSAcK": [
+        "C00008991"
+      ],
+      "3DMET": [
+        "B01907"
+      ],
+      "NIKKAJI": [
+        "J862.804A"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C8y C    16.8171  -17.2309\n            2   C8y C    16.8236  -15.8315\n            3   C1y C    18.0296  -17.9403\n            4   C8y C    15.6110  -17.9340\n            5   O2x O    18.0425  -15.1348\n            6   C8x C    15.6110  -15.1284\n            7   C1y C    19.2486  -17.2438\n            8   O1a O    18.0932  -19.3400\n            9   C8x C    14.3985  -17.2309\n            10  O1a O    15.5981  -19.3400\n            11  C1y C    19.2551  -15.8379\n            12  C8y C    14.3985  -15.8315\n            13  O1a O    20.4547  -17.9403\n            14  C8y C    20.4611  -15.1284\n            15  O1a O    13.1795  -15.1284\n            16  C8x C    21.6671  -15.8315\n            17  C8x C    20.4611  -13.7288\n            18  C8y C    22.8797  -15.1348\n            19  C8x C    21.6737  -13.0386\n            20  C8y C    22.8797  -13.7354\n            21  O1a O    24.0857  -15.8315\n            22  O1a O    24.0857  -13.0257\nBOND        24\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     3   8 1 #Up\n            8     4   9 2\n            9     4  10 1\n            10    5  11 1\n            11    6  12 2\n            12    7  13 1 #Up\n            13   11  14 1 #Down\n            14   12  15 1\n            15   14  16 2\n            16   14  17 1\n            17   16  18 1\n            18   17  19 2\n            19   18  20 2\n            20   18  21 1\n            21   20  22 1\n            22    7  11 1\n            23    9  12 1\n            24   19  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

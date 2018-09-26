@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08966",
+    "name": "CTP:2,3-bis-O-(geranylgeranyl)-sn-glycerol-1-phosphate cytidylyltransferase",
+    "definition": "CTP + 2,3-Bis-O-(geranylgeranyl)glycerol 1-phosphate <=> Diphosphate + CDP-2,3-bis-O-(geranylgeranyl)-sn-glycerol",
+    "equation": "C00063 + C04638 <=> C00013 + C18059",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.67"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism"
+    },
+    "orthologs": {
+      "K19664": "CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase [EC:2.7.7.67]"
+    }
+  }
+]

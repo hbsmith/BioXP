@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R10881",
+    "name": "S-adenosyl-L-methionine:nocardicin-G 3-amino-3-carboxypropyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Nocardicin G <=> 5'-Methylthioadenosine + Isonocardicin C",
+    "equation": "C00019 + C17355 <=> C00170 + C17352",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.38"
+    ],
+    "pathways": {
+      "rn00261": "Monobactam biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19104": "isonocardicin synthase [EC:2.5.1.38]"
+    }
+  }
+][
+  {
+    "entry_id": "R10881",
+    "name": "S-adenosyl-L-methionine:nocardicin-G 3-amino-3-carboxypropyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Nocardicin G <=> 5'-Methylthioadenosine + Isonocardicin C",
+    "equation": "C00019 + C17355 <=> C00170 + C17352",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.38"
+    ],
+    "pathways": {
+      "rn00261": "Monobactam biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19104": "isonocardicin synthase [EC:2.5.1.38]"
+    }
+  }
+]

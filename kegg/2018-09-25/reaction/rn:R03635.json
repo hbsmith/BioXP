@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03635",
+    "name": "Stachyose fructohydrolase",
+    "definition": "Stachyose + H2O <=> D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose + D-Fructose",
+    "equation": "C01613 + C00001 <=> C05404 + C00095",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.26"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism"
+    },
+    "orthologs": {
+      "K01193": "beta-fructofuranosidase [EC:3.2.1.26]"
+    }
+  }
+]

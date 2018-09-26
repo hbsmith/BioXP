@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07273",
+    "name": "solanesyl-diphosphate:4-hydroxybenzoate nonaprenyltransferase",
+    "definition": "all-trans-Nonaprenyl diphosphate + 4-Hydroxybenzoate <=> Diphosphate + 3-Nonaprenyl-4-hydroxybenzoate",
+    "equation": "C04145 + C00156 <=> C00013 + C03885",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.39"
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K06125": "4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]"
+    }
+  }
+]

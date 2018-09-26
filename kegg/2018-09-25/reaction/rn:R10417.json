@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10417",
+    "name": "kanamycin-A:NADP+ oxidoreductase",
+    "definition": "Kanamycin A + NADP+ <=> 2'-Dehydrokanamycin A + NADPH + H+",
+    "equation": "C01822 + C00006 <=> C20509 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.355"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20152": "2'-dehydrokanamycin reductase [EC:1.1.1.355]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02805",
+    "name": "P1,P4-Bis(5'-nucleosyl)-tetraphosphate nucleotidohydrolase",
+    "definition": "P1,P4-Bis(5'-xanthosyl) tetraphosphate + H2O <=> XTP + Xanthosine 5'-phosphate",
+    "equation": "C04392 + C00001 <=> C00700 + C00655",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.17"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K01518": "bis(5'-nucleosidyl)-tetraphosphatase [EC:3.6.1.17]"
+    }
+  }
+]

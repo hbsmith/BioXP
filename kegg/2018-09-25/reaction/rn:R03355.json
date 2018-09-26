@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R03355",
+    "name": "beta-D-Galactosyl-1,4-beta-D-glucosylceramide galactohydrolase",
+    "definition": "beta-D-Galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide + H2O <=> beta-D-Glucosyl-(1<->1)-ceramide + D-Galactose",
+    "equation": "C01290 + C00001 <=> C01190 + C00124",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.23"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01190": "beta-galactosidase [EC:3.2.1.23]",
+      "K12309": "beta-galactosidase [EC:3.2.1.23]"
+    }
+  }
+][
+  {
+    "entry_id": "R03355",
+    "name": "beta-D-Galactosyl-1,4-beta-D-glucosylceramide galactohydrolase",
+    "definition": "beta-D-Galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide + H2O <=> beta-D-Glucosyl-(1<->1)-ceramide + D-Galactose",
+    "equation": "C01290 + C00001 <=> C01190 + C00124",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.23"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01190": "beta-galactosidase [EC:3.2.1.23]",
+      "K12309": "beta-galactosidase [EC:3.2.1.23]"
+    }
+  }
+]

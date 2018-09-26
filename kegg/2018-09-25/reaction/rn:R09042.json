@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09042",
+    "name": "geranylhydroquinone,NADPH:oxygen oxidoreductase (3''-hydroxylating)",
+    "definition": "Geranylhydroquinone + NADPH + Oxygen + H+ <=> 3''-Hydroxy-geranylhydroquinone + H2O + NADP+",
+    "equation": "C10793 + C00005 + C00007 + C00080 <=> C18132 + C00001 + C00006",
+    "comment": "geranylhydroquinone 3''-hydroxylase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.116"
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

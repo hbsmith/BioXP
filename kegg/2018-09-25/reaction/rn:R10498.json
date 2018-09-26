@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10498",
+    "name": "S-adenosyl-L-methionine:tRNAPhe [7-[(3S)-(3-amino-3-carboxypropyl)-4-demethyl]wyosine-N4]-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 7-[(3S)-3-Amino-3-carboxypropyl]-4-demethylwyosine in tRNA(Phe) <=> S-Adenosyl-L-homocysteine + 7-[(3S)-(3-Amino-3-carboxypropyl)]wyosine in tRNA(Phe)",
+    "equation": "C00019 + C20652 <=> C00021 + C20649",
+    "comment": "The enzyme ec 2.1.1.182 wyosine 37 in tRNA(Phe).",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.282"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

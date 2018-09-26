@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11878",
+    "name": "[sulfatase]-L-cysteine:oxygen oxidoreductase (3-oxo-L-alanine-forming)",
+    "definition": "[Sulfatase]-L-cysteine + Oxygen + 2 Thiol <=> [Sulfatase]-3-oxo-L-alanine + Hydrogen sulfide + Oxidized thiol-containing reductant + H2O",
+    "equation": "C21740 + C00007 + 2 C00145 <=> C21741 + C00283 + C15496 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.3.7"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C16565",
+    "name": "Aminopropylcadaverine",
+    "names": [
+      "Aminopropylcadaverine"
+    ],
+    "formula": "C8H21N3",
+    "exact_mass": 159.1735,
+    "mol_weight": 159.2724,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08354",
+      "R08359"
+    ],
+    "pathways": {
+      "map00480": "Glutathione metabolism"
+    },
+    "enzymes": [
+      "2.5.1.16",
+      "6.3.1.9"
+    ],
+    "dblinks": {
+      "CAS": [
+        "56-19-9"
+      ],
+      "PubChem": [
+        "51090894"
+      ],
+      "ChEBI": [
+        "64860"
+      ],
+      "ChEMBL": [
+        "CHEMBL89035"
+      ],
+      "NIKKAJI": [
+        "J575.711H"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   N1a N    22.6799  -21.0000\n            2   C1b C    23.8923  -20.3000\n            3   C1b C    25.1048  -21.0000\n            4   C1b C    26.3172  -20.3000\n            5   N1b N    27.5296  -21.0000\n            6   C1b C    28.7421  -20.3000\n            7   C1b C    29.9545  -21.0000\n            8   C1b C    31.1669  -20.3000\n            9   C1b C    32.3794  -21.0000\n            10  C1b C    33.5918  -20.3000\n            11  N1a N    34.8043  -21.0000\nBOND        10\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10   10  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

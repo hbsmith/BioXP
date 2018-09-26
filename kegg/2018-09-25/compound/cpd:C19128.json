@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C19128",
+    "name": "Pydanon",
+    "names": [
+      "Pydanon",
+      "Hexahydro-4-hydroxy-3,6-dioxopyridazine-4-acetic acid"
+    ],
+    "formula": "C6H8N2O5",
+    "exact_mass": 188.0433,
+    "mol_weight": 188.1381,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "22571-07-9"
+      ],
+      "PubChem": [
+        "124489800"
+      ],
+      "ChEBI": [
+        "82249"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C5x C    12.3900  -16.3800\n            2   C1x C    12.3900  -17.7800\n            3   C1z C    13.6024  -18.4800\n            4   C5x C    14.8149  -17.7800\n            5   N1x N    14.8149  -16.3800\n            6   N1x N    13.6024  -15.6800\n            7   O5x O    16.0460  -18.4910\n            8   O5x O    11.1776  -15.6800\n            9   C1b C    14.5924  -19.4699\n            10  O1a O    12.4725  -19.5399\n            11  C6a C    14.5924  -20.8699\n            12  O6a O    13.3604  -21.5817\n            13  O6a O    15.7762  -21.5534\nBOND        13\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     4   7 2\n            8     1   8 2\n            9     3   9 1\n            10    3  10 1\n            11    9  11 1\n            12   11  12 1\n            13   11  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09257",
+    "name": "feruloyl-CoA:putrescine feruloyltransferase",
+    "definition": "Feruloyl-CoA + Putrescine <=> CoA + Feruloylputrescine",
+    "equation": "C00406 + C00134 <=> C00010 + C10497",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.-"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism"
+    },
+    "orthologs": {
+      "K14329": "agmatine coumaroyltransferase [EC:2.3.1.64 2.3.1.-]"
+    }
+  }
+]

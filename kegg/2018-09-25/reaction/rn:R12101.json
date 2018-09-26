@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R12101",
+    "name": "cannabigerolate:oxygen oxidoreductase (cyclizing, Delta9-tetrahydrocannabinolate-forming)",
+    "definition": "Cannabigerolate + Oxygen <=> Delta9-Tetrahydrocannabinolate + Hydrogen peroxide",
+    "equation": "C20406 + C00007 <=> C21903 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.21.3.7"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "orthologs": {
+      "K20501": "tetrahydrocannabinolic acid synthase [EC:1.21.3.7]"
+    }
+  }
+]

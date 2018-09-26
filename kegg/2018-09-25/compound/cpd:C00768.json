@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C00768",
+    "name": "Histidine",
+    "names": [
+      "Histidine",
+      "alpha-Amino-1H-imidazole-4-propionic acid"
+    ],
+    "formula": "C6H9N3O2",
+    "exact_mass": 155.0695,
+    "mol_weight": 155.1546,
+    "remark": "",
+    "comment": "D-Histidine [CPD:C06419] L-Histidine [CPD:C00135]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "4998-57-6"
+      ],
+      "PubChem": [
+        "4030"
+      ],
+      "ChEBI": [
+        "27570"
+      ],
+      "KNApSAcK": [
+        "C00001363"
+      ],
+      "NIKKAJI": [
+        "J221.225K",
+        "J4.881J"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    28.8405  -18.6904\n            2   C8x C    28.8405  -20.0904\n            3   N4x N    30.1720  -20.5230\n            4   C8x C    30.9949  -19.3904\n            5   N5x N    30.1720  -18.2577\n            6   C1b C    27.6280  -17.9903\n            7   C1c C    26.4155  -18.6904\n            8   C6a C    25.2031  -17.9903\n            9   O6a O    23.9907  -18.6904\n            10  N1a N    26.4155  -20.0902\n            11  O6a O    25.2031  -16.5903\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     1   5 1\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     8   9 1\n            10    7  10 1\n            11    8  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

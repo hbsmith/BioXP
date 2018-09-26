@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C16711",
+    "name": "Vitamin K epoxide",
+    "names": [
+      "Vitamin K epoxide"
+    ],
+    "formula": "C11H7O3R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R03645"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.17.4.4"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023235"
+      ],
+      "ChEBI": [
+        "28371"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8y C    24.9918  -14.9716\n            2   C8y C    24.9918  -16.3923\n            3   C5x C    26.2254  -14.2483\n            4   C8x C    23.7649  -14.2677\n            5   C5x C    26.2383  -17.1092\n            6   C8x C    23.7649  -17.1092\n            7   C1z C    27.4653  -14.9650\n            8   O5x O    26.2190  -13.1306\n            9   C8x C    22.5444  -14.9716\n            10  C1z C    27.4082  -16.3989\n            11  O5x O    26.2328  -18.5103\n            12  C8x C    22.5444  -16.3923\n            13  C1a C    28.6794  -14.2547\n            14  R   R    28.6924  -17.1027\n            15  O2x O    28.6774  -15.6649\nBOND        17\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     3   8 2\n            8     4   9 2\n            9     5  10 1\n            10    5  11 2\n            11    6  12 2\n            12    7  13 1\n            13   10  14 1\n            14    7  10 1\n            15    9  12 1\n            16    7  15 1\n            17   15  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

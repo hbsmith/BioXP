@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C11714",
+    "name": "1-Naphthol",
+    "names": [
+      "1-Naphthol",
+      "alpha-Naphthol"
+    ],
+    "formula": "C10H8O",
+    "exact_mass": 144.0575,
+    "mol_weight": 144.1699,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07009",
+      "R07010",
+      "R07018"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450",
+      "map07114": "Naphthalene family"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "90-15-3"
+      ],
+      "PubChem": [
+        "13879"
+      ],
+      "ChEBI": [
+        "10319"
+      ],
+      "ChEMBL": [
+        "CHEMBL122617"
+      ],
+      "PDB-CCD": [
+        "1NP"
+      ],
+      "NIKKAJI": [
+        "J3.911J"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    26.4502  -16.9390\n            2   C8x C    26.4502  -18.3392\n            3   C8x C    27.6656  -19.0393\n            4   C8x C    27.6656  -16.2390\n            5   C8y C    28.8740  -16.9390\n            6   C8y C    28.8681  -18.3392\n            7   C8x C    30.0777  -19.0444\n            8   C8x C    31.2932  -18.3496\n            9   C8x C    31.2993  -16.9494\n            10  C8y C    30.0897  -16.2442\n            11  O1a O    30.0780  -14.8388\nBOND        12\n            1     1   2 1\n            2     2   3 2\n            3     3   6 1\n            4     5   4 1\n            5     4   1 2\n            6     5   6 2\n            7     6   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11   10   5 1\n            12   10  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

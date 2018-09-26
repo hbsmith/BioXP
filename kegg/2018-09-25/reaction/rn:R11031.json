@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11031",
+    "name": "L-arginine:NAD+ oxidoreductase (deaminating)",
+    "definition": "5-Guanidino-2-oxopentanoate + NADH + H+ + Ammonia <=> L-Arginine + NAD+ + H2O",
+    "equation": "C03771 + C00004 + C00080 + C00014 <=> C00062 + C00003 + C00001",
+    "comment": "L-arginine dehydrogenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.1.25"
+    ],
+    "pathways": {
+      "rn00472": "D-Arginine and D-ornithine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K19744": "L-arginine dehydrogenase [EC:1.4.1.25]"
+    }
+  }
+]

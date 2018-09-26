@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01574",
+    "name": "D-Arabinose:NAD+ 1-oxidoreductase",
+    "definition": "D-Arabinose + NAD+ <=> D-Arabinono-1,4-lactone + NADH + H+",
+    "equation": "C00216 + C00003 <=> C00652 + C00004 + C00080",
+    "comment": "NADP+ (ec 1.1.1.117, see R01575)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.116",
+      "1.1.1.117"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

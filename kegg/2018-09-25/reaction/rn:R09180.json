@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09180",
+    "name": "",
+    "definition": "1-Hydroxy-6-methoxypyrene + CH3-R <=> 1,6-Dimethoxypyrene + R",
+    "equation": "C18261 + C05694 <=> C18260 + C05693",
+    "comment": "1-hydroxy-6-methoxypyrene methyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn00624": "Polycyclic aromatic hydrocarbon degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

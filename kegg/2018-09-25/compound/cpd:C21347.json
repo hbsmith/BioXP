@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C21347",
+    "name": "5-Iodo-2,3-dimethoxyorsellinate-[acp]",
+    "names": [
+      "5-Iodo-2,3-dimethoxyorsellinate-[acp]",
+      "4-Hydroxy-5-iodo-2,3-dimethoxy-6-methylbenzoate-[acp]"
+    ],
+    "formula": "C10H10IO4SR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11416",
+      "R11419"
+    ],
+    "pathways": {
+      "map01059": "Biosynthesis of enediyne antibiotics",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "319902586"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   S2a S    12.9500  -19.1800\n            2   C8y C     8.1200  -19.1800\n            3   C8y C     8.1200  -20.5800\n            4   C8y C     9.3100  -21.2800\n            5   C8y C    10.5700  -20.5800\n            6   C8y C    10.5700  -19.1800\n            7   C8y C     9.3100  -18.4800\n            8   C5a C    11.7600  -18.4800\n            9   O5a O    11.7600  -17.0800\n            10  C1a C     9.3100  -17.0800\n            11  O2a O    11.7600  -21.2800\n            12  O1a O     6.9300  -21.2800\n            13  C1a C    12.9781  -20.5899\n            14  X   I     6.9047  -18.4849\n            15  O2a O     9.2928  -22.6799\n            16  C1a C    10.5092  -23.4024\n            17  R   R    14.3500  -19.1800\nBOND        17\n            1     2   3 2\n            2     3   4 1\n            3     4   5 2\n            4     5   6 1\n            5     6   7 2\n            6     2   7 1\n            7     6   8 1\n            8     8   1 1\n            9     8   9 2\n            10    7  10 1\n            11    5  11 1\n            12    3  12 1\n            13   11  13 1\n            14    2  14 1\n            15    4  15 1\n            16   15  16 1\n            17    1  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

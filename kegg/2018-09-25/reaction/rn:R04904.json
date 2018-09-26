@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04904",
+    "name": "5-hydroxyindoleacetaldehyde:oxygen oxidoreductase",
+    "definition": "5-Hydroxyindoleacetaldehyde + Oxygen + H2O <=> 5-Hydroxyindoleacetate + Hydrogen peroxide",
+    "equation": "C05634 + C00007 + C00001 <=> C05635 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.3.1"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00157": "aldehyde oxidase [EC:1.2.3.1]"
+    }
+  }
+]

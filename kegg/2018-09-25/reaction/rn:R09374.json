@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09374",
+    "name": "2-amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one amidohydrolase",
+    "definition": "2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + H2O <=> 2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + Formate",
+    "equation": "C15563 + C00001 <=> C01304 + C00058",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.102"
+    ],
+    "pathways": {
+      "rn00740": "Riboflavin metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K14653": "2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one 5'-monophosphate deformylase [EC:3.5.1.102]"
+    }
+  }
+]

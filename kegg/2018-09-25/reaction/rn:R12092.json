@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R12092",
+    "name": "thiosulfate:3-phospho-L-serine thiosulfotransferase",
+    "definition": "O-Phospho-L-serine + Thiosulfate <=> S-Sulfo-L-cysteine + Orthophosphate",
+    "equation": "C01005 + C00320 <=> C05824 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.5.1"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism"
+    },
+    "orthologs": {
+      "K22847": "S-sulfo-L-cysteine synthase (3-phospho-L-serine-dependent) [EC:2.8.5.1]"
+    }
+  }
+][
+  {
+    "entry_id": "R12092",
+    "name": "thiosulfate:3-phospho-L-serine thiosulfotransferase",
+    "definition": "O-Phospho-L-serine + Thiosulfate <=> S-Sulfo-L-cysteine + Orthophosphate",
+    "equation": "C01005 + C00320 <=> C05824 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.5.1"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism"
+    },
+    "orthologs": {
+      "K22847": "S-sulfo-L-cysteine synthase (3-phospho-L-serine-dependent) [EC:2.8.5.1]"
+    }
+  }
+]

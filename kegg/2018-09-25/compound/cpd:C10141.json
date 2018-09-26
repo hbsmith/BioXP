@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C10141",
+    "name": "Deoxymannojirimycin",
+    "names": [
+      "Deoxymannojirimycin",
+      "DMJ"
+    ],
+    "formula": "C6H13NO4",
+    "exact_mass": 163.0845,
+    "mol_weight": 163.1717,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "84444-90-6"
+      ],
+      "PubChem": [
+        "12327"
+      ],
+      "ChEMBL": [
+        "CHEMBL84844"
+      ],
+      "KNApSAcK": [
+        "C00002035"
+      ],
+      "PDB-CCD": [
+        "DMJ"
+      ],
+      "3DMET": [
+        "B03579"
+      ],
+      "NIKKAJI": [
+        "J227.975D"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1y C    26.0435  -16.3563\n            2   C1y C    26.0144  -17.7547\n            3   N1x N    27.2236  -15.6218\n            4   C1b C    24.8167  -15.6922\n            5   C1y C    27.3056  -18.4249\n            6   O1a O    24.8989  -18.5009\n            7   C1x C    28.4620  -16.2854\n            8   O1a O    23.6253  -16.4327\n            9   C1y C    28.5029  -17.6840\n            10  O1a O    27.3582  -19.8231\n            11  O1a O    29.7415  -18.3535\nBOND        11\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Down\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     5  10 1 #Up\n            10    9  11 1 #Up\n            11    7   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "entry_id": "C05965",
+    "name": "12(S)-HPETE",
+    "names": [
+      "12(S)-HPETE",
+      "(5Z,8Z,10E,14Z)-(12S)-12-Hydroperoxyicosa-5,8,10,14-tetraenoic acid",
+      "(5Z,8Z,10E,14Z)-(12S)-12-Hydroperoxyicosa-5,8,10,14-tetraenoate",
+      "12-Hydroperoxyeicosatetraenoate",
+      "12-Hydroperoxyicosatetraenoate",
+      "12-Hydroperoxyeicosatetraenoic acid",
+      "12-Hydroperoxyicosatetraenoic acid"
+    ],
+    "formula": "C20H32O4",
+    "exact_mass": 336.2301,
+    "mol_weight": 336.4657,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01596",
+      "R07039",
+      "R07040"
+    ],
+    "pathways": {
+      "map00590": "Arachidonic acid metabolism",
+      "map01100": "Metabolic pathways",
+      "map04726": "Serotonergic synapse",
+      "map04750": "Inflammatory mediator regulation of TRP channels"
+    },
+    "enzymes": [
+      "1.13.11.31",
+      "5.4.4.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8249"
+      ],
+      "ChEBI": [
+        "15626"
+      ],
+      "ChEMBL": [
+        "CHEMBL1447811"
+      ],
+      "LIPIDMAPS": [
+        "LMFA03060013"
+      ],
+      "LipidBank": [
+        "XPR6002"
+      ],
+      "3DMET": [
+        "B01939"
+      ],
+      "NIKKAJI": [
+        "J341.562G"
+      ]
+    },
+    "kcf": "ATOM        24\n            1   C2b C    22.1668  -16.1934\n            2   C2b C    20.9995  -15.4929\n            3   C2b C    19.5520  -15.4929\n            4   C1b C    18.3379  -16.1934\n            5   C2b C    17.1706  -15.4929\n            6   C2b C    15.7698  -15.4929\n            7   C1b C    14.5558  -16.1934\n            8   C1b C    13.3417  -15.4929\n            9   C1b C    12.1277  -16.1934\n            10  C6a C    10.9136  -15.4929\n            11  O6a O     9.6995  -16.1934\n            12  O6a O    10.9136  -14.0921\n            13  C2b C    23.4275  -15.4929\n            14  C1c C    24.6416  -16.1934\n            15  C1b C    25.8089  -15.4929\n            16  C2b C    27.0230  -16.1934\n            17  C2b C    28.4238  -16.1934\n            18  C1b C    29.6378  -15.4929\n            19  C1b C    30.8518  -16.1934\n            20  C1b C    32.0659  -15.4929\n            21  O2a O    24.5949  -17.5942\n            22  O1a O    23.3809  -18.2946\n            23  C1b C    33.2799  -16.1934\n            24  C1a C    34.4939  -15.4929\nBOND        23\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     5   6 2\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10   10  11 1\n            11   10  12 2\n            12    1  13 2\n            13   13  14 1\n            14   14  15 1\n            15   15  16 1\n            16   16  17 2\n            17   17  18 1\n            18   18  19 1\n            19   19  20 1\n            20   14  21 1 #Down\n            21   21  22 1\n            22   20  23 1\n            23   23  24 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

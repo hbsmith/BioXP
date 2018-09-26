@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05132",
+    "name": "protein-N(pi)-phosphohistidine:arbutin 6-phosphotransferase",
+    "definition": "Protein N(pi)-phospho-L-histidine + Arbutin <=> Protein histidine + Arbutin 6-phosphate",
+    "equation": "C04261 + C06186 <=> C00615 + C06187",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.-"
+    ],
+    "pathways": {
+      "rn00010": "Glycolysis / Gluconeogenesis"
+    },
+    "orthologs": {
+      "K02752": "PTS system, beta-glucoside (arbutin/salicin/cellobiose)-specific IIB component [EC:2.7.1.-]",
+      "K02753": "PTS system, beta-glucoside (arbutin/salicin/cellobiose)-specific IIC component",
+      "K02777": "PTS system, sugar-specific IIA component [EC:2.7.1.-]"
+    }
+  }
+]

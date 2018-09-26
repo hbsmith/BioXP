@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01931",
+    "name": "thiosulfate:cyanide sulfurtranserase",
+    "definition": "Thiosulfate + Cyanide ion <=> Sulfite + Thiocyanate",
+    "equation": "C00320 + C00177 <=> C00094 + C01755",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.1.1"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01011": "thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]",
+      "K02439": "thiosulfate sulfurtransferase [EC:2.8.1.1]"
+    }
+  }
+]

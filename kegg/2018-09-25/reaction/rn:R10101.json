@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10101",
+    "name": "4-methylaminobutanoate methylamidohydrolase; 4-methylaminobutanoate:oxygen oxidoreductase (methylamine-forming)",
+    "definition": "4-Methylaminobutyrate + Oxygen + H2O <=> Succinate semialdehyde + Methylamine + Hydrogen peroxide",
+    "equation": "C15987 + C00007 + C00001 <=> C00232 + C00218 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.3.21"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K20155": "4-methylaminobutanoate oxidase (methylamine-forming) [EC:1.5.3.21]"
+    }
+  }
+]

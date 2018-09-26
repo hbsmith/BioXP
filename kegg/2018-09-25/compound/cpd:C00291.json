@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C00291",
+    "name": "Nickel",
+    "names": [
+      "Nickel"
+    ],
+    "formula": "Ni",
+    "exact_mass": 57.9353,
+    "mol_weight": 58.6934,
+    "remark": "",
+    "comment": "Nickel and nickel compounds Usually existing as +2 cations Ni2+ [CPD:C19609]",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map02010": "ABC transporters",
+      "map02020": "Two-component system"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "7440-02-0"
+      ],
+      "PubChem": [
+        "3585"
+      ],
+      "ChEBI": [
+        "28112"
+      ],
+      "NIKKAJI": [
+        "J3.729J"
+      ]
+    },
+    "kcf": "ATOM        1\n            1   Z   Ni   22.1200  -16.1700\nBOND        0\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

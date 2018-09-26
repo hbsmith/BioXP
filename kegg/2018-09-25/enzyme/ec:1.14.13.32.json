@@ -1,0 +1,212 @@
+[
+  {
+    "entry_id": "1.14.13.32",
+    "name": "albendazole monooxygenase",
+    "names": [
+      "albendazole monooxygenase",
+      "albendazole oxidase (misleading)",
+      "albendazole sulfoxidase (ambiguous)",
+      "FMO3 (gene name)",
+      "albendazole monooxygenase (flavin-containing)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With NADH or NADPH as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "albendazole,NADPH:oxygen oxidoreductase (sulfoxide-forming)",
+    "reaction": "albendazole + NADPH + H+ + O2 = albendazole S-oxide + NADP+ + H2O [RN:R03712]",
+    "all_reac": "R03712",
+    "iubmb_reactions": [
+      "R03712"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "albendazole [CPD:C01779]",
+      "NADPH [CPD:C00005]",
+      "H+ [CPD:C00080]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "albendazole S-oxide [CPD:C02809]",
+      "NADP+ [CPD:C00006]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A microsomal flavin-containing monooxygenase. A similar conversion is also carried out by some microsomal cytochrome P-450 enzymes [EC 1.14.14.73, albendazole monooxygenase (sulfoxide-forming)]. It is estimated that cytochrome P-450s are responsible for 70% of the activity.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K17689": "cytochrome P450 family 3 subfamily A polypeptide 4"
+    },
+    "genes": {
+      "hsa": [
+        "1576"
+      ],
+      "ptr": [
+        "463582"
+      ],
+      "pps": [
+        "100976899"
+      ],
+      "ggo": [
+        "101149513"
+      ],
+      "pon": [
+        "100436782"
+      ],
+      "nle": [
+        "100593175"
+      ],
+      "mcc": [
+        "678670"
+      ],
+      "mcf": [
+        "102144258"
+      ],
+      "csab": [
+        "103246766"
+      ],
+      "rro": [
+        "104673585"
+      ],
+      "rbb": [
+        "108538168"
+      ],
+      "tup": [
+        "102494214"
+      ],
+      "cfa": [
+        "479740"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.13.32"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.13.32"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.13.32"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.13.32"
+      ],
+      "CAS": [
+        "101299-59-6"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Fargetton X",
+          "Galtier P",
+          "Delatour P."
+        ],
+        "title": "Sulfoxidation of albendazole by a cytochrome P450-independent monooxygenase from rat liver microsomes.",
+        "journal": "Vet Res Commun",
+        "volume": "10",
+        "issue": "",
+        "pages": "317-24",
+        "year": "1986",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:3739217]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Moroni P",
+          "Buronfosse T",
+          "Longin-Sauvageon C",
+          "Delatour P",
+          "Benoit E"
+        ],
+        "title": "Chiral sulfoxidation of albendazole by the flavin adenine dinucleotide-containing and cytochrome P450-dependent monooxygenases from rat liver microsomes.",
+        "journal": "Drug Metab Dispos",
+        "volume": "23",
+        "issue": "",
+        "pages": "160-5",
+        "year": "1995",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:7736906]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rawden HC",
+          "Kokwaro GO",
+          "Ward SA",
+          "Edwards G."
+        ],
+        "title": "Relative contribution of cytochromes P-450 and flavin-containing monoxygenases to the metabolism of albendazole by human liver microsomes.",
+        "journal": "Br J Clin Pharmacol 49:313-22 (2000) DOI:10.1046/j.1365-2125.2000.00170.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:10759686]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

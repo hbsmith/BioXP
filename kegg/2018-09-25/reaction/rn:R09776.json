@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R09776",
+    "name": "ATP:LysW-gamma-L-alpha-aminoadipate 6-phosphotransferase",
+    "definition": "LysW-gamma-L-alpha-aminoadipate + ATP <=> LysW-gamma-L-alpha-aminoadipyl 6-phosphate + ADP",
+    "equation": "C19886 + C00002 <=> C19887 + C00008",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.2.-"
+    ],
+    "pathways": {
+      "rn00300": "Lysine biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01210": "2-Oxocarboxylic acid metabolism",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K05828": "LysW-gamma-L-alpha-aminoadipate/LysW-L-glutamate kinase [EC:2.7.2.-]"
+    }
+  }
+]

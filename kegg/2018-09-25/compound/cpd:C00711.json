@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C00711",
+    "name": "Malate",
+    "names": [
+      "Malate",
+      "Malic acid",
+      "2-Hydroxybutanedioic acid"
+    ],
+    "formula": "C4H6O5",
+    "exact_mass": 134.0215,
+    "mol_weight": 134.0874,
+    "remark": "Same as: D04843",
+    "comment": "The name \"malate\" usually means (S)-Malate [CPD:C00149].",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "617-48-1"
+      ],
+      "PubChem": [
+        "3977"
+      ],
+      "ChEBI": [
+        "15595",
+        "6650"
+      ],
+      "ChEMBL": [
+        "CHEMBL1455497"
+      ],
+      "3DMET": [
+        "B00157"
+      ],
+      "NIKKAJI": [
+        "J237.180D"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   O6a O    22.6562  -18.7094\n            2   C6a C    23.8686  -19.4095\n            3   C1c C    25.0812  -18.7094\n            4   C1b C    26.2936  -19.4095\n            5   C6a C    27.5061  -18.7094\n            6   O6a O    28.7187  -19.4095\n            7   O6a O    23.8686  -20.8095\n            8   O6a O    27.5061  -17.3096\n            9   O1a O    25.0812  -17.3097\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     2   7 2\n            7     5   8 2\n            8     3   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

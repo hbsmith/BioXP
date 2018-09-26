@@ -1,0 +1,77 @@
+[
+  {
+    "entry_id": "C21851",
+    "name": "Pyridinium-3,5-biscarboxylic acid mononucleotide",
+    "names": [
+      "Pyridinium-3,5-biscarboxylic acid mononucleotide",
+      "P2CMN",
+      "Pyridin-1-ium-3,5-dicarboxylate mononucleotide",
+      "Pyridinium-3,5-biscarboxylate mononucleotide"
+    ],
+    "formula": "C12H15NO11P",
+    "exact_mass": 380.0383,
+    "mol_weight": 380.2214,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R12017",
+      "R12059",
+      "R12062",
+      "R12065",
+      "R12066"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.5.1.143",
+      "4.4.1.37"
+    ],
+    "dblinks": {
+    },
+    "kcf": "ATOM        25\n            1   N5y N    20.6004  -16.7221 #+\n            2   C1y C    19.3104  -17.1443\n            3   O2x O    18.1610  -16.2822\n            4   C1y C    18.8764  -18.4050\n            5   C1y C    17.0470  -17.0856\n            6   C1y C    17.4808  -18.4050\n            7   O1a O    19.5391  -19.5485\n            8   C1b C    15.7158  -16.6518\n            9   O1a O    17.0293  -19.7362\n            10  O2b O    14.6721  -17.5840\n            11  P1b P    13.2647  -17.5840\n            12  O1c O    13.2590  -18.9914\n            13  O1c O    11.8634  -17.5840\n            14  O1c O    13.2590  -16.1826\n            15  C8x C    21.6736  -17.6842\n            16  C8y C    23.0115  -17.2463\n            17  C8x C    23.3012  -15.8686\n            18  C8y C    22.2279  -14.9066\n            19  C8x C    20.8901  -15.3445\n            20  C6a C    22.5166  -13.5343\n            21  O6a O    23.8699  -13.0916\n            22  O6a O    21.4599  -12.5870\n            23  C6a C    24.0590  -18.1853\n            24  O6a O    25.4194  -17.7406\n            25  O6a O    23.7765  -19.5292\nBOND        26\n            1     2   1 1 #Up\n            2     2   3 1\n            3     2   4 1\n            4     3   5 1\n            5     4   6 1\n            6     4   7 1 #Down\n            7     5   8 1 #Up\n            8     6   9 1 #Down\n            9     8  10 1\n            10   10  11 1\n            11   11  12 1\n            12   11  13 1\n            13   11  14 2\n            14    5   6 1\n            15    1  15 2\n            16   15  16 1\n            17   16  17 2\n            18   17  18 1\n            19   18  19 2\n            20    1  19 1\n            21   18  20 1\n            22   20  21 2\n            23   20  22 1\n            24   16  23 1\n            25   23  24 2\n            26   23  25 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C21851",
+    "name": "Pyridinium-3,5-biscarboxylic acid mononucleotide",
+    "names": [
+      "Pyridinium-3,5-biscarboxylic acid mononucleotide",
+      "P2CMN",
+      "Pyridin-1-ium-3,5-dicarboxylate mononucleotide",
+      "Pyridinium-3,5-biscarboxylate mononucleotide"
+    ],
+    "formula": "C12H15NO11P",
+    "exact_mass": 380.0383,
+    "mol_weight": 380.2214,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R12017",
+      "R12059",
+      "R12062",
+      "R12065",
+      "R12066"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.5.1.143",
+      "4.4.1.37"
+    ],
+    "dblinks": {
+    },
+    "kcf": "ATOM        25\n            1   N5y N    20.6004  -16.7221 #+\n            2   C1y C    19.3104  -17.1443\n            3   O2x O    18.1610  -16.2822\n            4   C1y C    18.8764  -18.4050\n            5   C1y C    17.0470  -17.0856\n            6   C1y C    17.4808  -18.4050\n            7   O1a O    19.5391  -19.5485\n            8   C1b C    15.7158  -16.6518\n            9   O1a O    17.0293  -19.7362\n            10  O2b O    14.6721  -17.5840\n            11  P1b P    13.2647  -17.5840\n            12  O1c O    13.2590  -18.9914\n            13  O1c O    11.8634  -17.5840\n            14  O1c O    13.2590  -16.1826\n            15  C8x C    21.6736  -17.6842\n            16  C8y C    23.0115  -17.2463\n            17  C8x C    23.3012  -15.8686\n            18  C8y C    22.2279  -14.9066\n            19  C8x C    20.8901  -15.3445\n            20  C6a C    22.5166  -13.5343\n            21  O6a O    23.8699  -13.0916\n            22  O6a O    21.4599  -12.5870\n            23  C6a C    24.0590  -18.1853\n            24  O6a O    25.4194  -17.7406\n            25  O6a O    23.7765  -19.5292\nBOND        26\n            1     2   1 1 #Up\n            2     2   3 1\n            3     2   4 1\n            4     3   5 1\n            5     4   6 1\n            6     4   7 1 #Down\n            7     5   8 1 #Up\n            8     6   9 1 #Down\n            9     8  10 1\n            10   10  11 1\n            11   11  12 1\n            12   11  13 1\n            13   11  14 2\n            14    5   6 1\n            15    1  15 2\n            16   15  16 1\n            17   16  17 2\n            18   17  18 1\n            19   18  19 2\n            20    1  19 1\n            21   18  20 1\n            22   20  21 2\n            23   20  22 1\n            24   16  23 1\n            25   23  24 2\n            26   23  25 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

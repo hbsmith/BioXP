@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00955",
+    "name": "UDP-glucose:alpha-D-galactose-1-phosphate uridylyltransferase",
+    "definition": "UDP-glucose + alpha-D-Galactose 1-phosphate <=> D-Glucose 1-phosphate + UDP-alpha-D-galactose",
+    "equation": "C00029 + C00446 <=> C00103 + C00052",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.12"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism",
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00965": "UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]"
+    }
+  }
+]

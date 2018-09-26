@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06670",
+    "name": "",
+    "definition": "Jadomycin A <=> Jadomycin B",
+    "equation": "C18680 <=> C12395",
+    "comment": "alpha-L-digitoxosyltransferase incomplete reaction (the L-digitoxose donor is unclear.)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15929": "glycosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "entry_id": "R07056",
+    "name": "",
+    "definition": "Linoleate + Oxygen + NADPH + H+ <=> 12(13)-EpOME + NADP+ + H2O",
+    "equation": "C01595 + C00007 + C00005 + C00080 <=> C14826 + C00006 + C00001",
+    "comment": "CYP1A2, CYP2C2/8/9/19, CYP2J2/3/5/9, CYP2E1, CYP3A4",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-",
+      "1.14.14.1",
+      "1.14.14.-"
+    ],
+    "pathways": {
+      "rn00591": "Linoleic acid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K07409": "cytochrome P450 family 1 subfamily A polypeptide 2 [EC:1.14.14.1]",
+      "K07413": "cytochrome P450 family 2 subfamily C [EC:1.14.14.1]",
+      "K07415": "cytochrome P450 family 2 subfamily E polypeptide 1 [EC:1.14.13.-]",
+      "K07418": "cytochrome P450 family 2 subfamily J [EC:1.14.14.1 1.14.14.73 1.14.14.74 1.14.14.75]",
+      "K07424": "cytochrome P450 family 3 subfamily A [EC:1.14.14.1]",
+      "K17689": "cytochrome P450 family 3 subfamily A polypeptide 4 [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.13.-]",
+      "K17718": "cytochrome P450 family 2 subfamily C polypeptide 8 [EC:1.14.14.1]",
+      "K17719": "cytochrome P450 family 2 subfamily C polypeptide 9 [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.-]",
+      "K17721": "cytochrome P450 family 2 subfamily C polypeptide 19 [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.75 1.14.14.-]"
+    }
+  }
+]

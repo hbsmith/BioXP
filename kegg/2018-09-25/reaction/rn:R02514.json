@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02514",
+    "name": "4-hydroxyphenylacetate,NADH:oxygen oxidoreductase (1-hydroxylating)",
+    "definition": "4-Hydroxyphenylacetate + Oxygen + NADH + H+ <=> Homogentisate + NAD+ + H2O",
+    "equation": "C00642 + C00007 + C00004 + C00080 <=> C00544 + C00003 + C00001",
+    "comment": "multi-step reaction NADPH (see R02516)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.18"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

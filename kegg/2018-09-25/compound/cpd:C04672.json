@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C04672",
+    "name": "(9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoic acid",
+    "names": [
+      "(9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoic acid",
+      "(9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoate",
+      "(9Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoate",
+      "12,13(S)-EOT",
+      "12,13(S)-EOTrE"
+    ],
+    "formula": "C18H28O3",
+    "exact_mass": 292.2038,
+    "mol_weight": 292.4131,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03402",
+      "R07863"
+    ],
+    "pathways": {
+      "map00592": "alpha-Linolenic acid metabolism",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "4.2.1.92",
+      "5.3.99.6"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7253"
+      ],
+      "ChEBI": [
+        "15653",
+        "36438"
+      ],
+      "LIPIDMAPS": [
+        "LMFA02000053"
+      ],
+      "3DMET": [
+        "B01772"
+      ],
+      "NIKKAJI": [
+        "J1.145.932C"
+      ]
+    },
+    "kcf": "ATOM        21\n            1   C1b C    34.6361  -23.0890\n            2   C1b C    35.8255  -23.7887\n            3   C1b C    33.4466  -23.7887\n            4   C2b C    37.0850  -23.0890\n            5   C1b C    32.1872  -23.0890\n            6   C1b C    30.9977  -23.7887\n            7   C1b C    29.8082  -23.0890\n            8   C1b C    28.5488  -23.7887\n            9   C6a C    27.3593  -23.0890\n            10  O6a O    26.1698  -23.7887\n            11  O6a O    27.3593  -21.6896\n            12  C2b C    38.4844  -23.0890\n            13  C2b C    39.6738  -23.7887\n            14  C2y C    40.9333  -23.0890\n            15  C1y C    42.3327  -23.0890\n            16  C1b C    43.5921  -23.7887\n            17  C2b C    44.7816  -23.0890\n            18  C2b C    46.1809  -23.0890\n            19  C1b C    47.3704  -23.7887\n            20  C1a C    48.5599  -23.0890\n            21  O2x O    41.6327  -21.8765\nBOND        21\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10    9  11 2\n            11    4  12 2\n            12   12  13 1\n            13   13  14 2\n            14   14  15 1\n            15   15  16 1\n            16   16  17 1\n            17   17  18 2\n            18   18  19 1\n            19   19  20 1\n            20   15  21 1 #Up\n            21   14  21 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

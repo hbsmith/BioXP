@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03082",
+    "name": "(R)-Lactaldehyde:NAD+ oxidoreductase (glutathione-formylating)",
+    "definition": "(R)-Lactaldehyde + Glutathione + NAD+ <=> (R)-S-Lactoylglutathione + NADH + H+",
+    "equation": "C00937 + C00051 + C00003 <=> C03451 + C00004 + C00080",
+    "comment": "two-step reaction, similar to R06982+R06983",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

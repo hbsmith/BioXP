@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11298",
+    "name": "antibiotic-JI-20Ba:2-oxoglutarate aminotransferase",
+    "definition": "6'-Oxo-G418 + L-Glutamate <=> Antibiotic JI-20Ba + 2-Oxoglutarate",
+    "equation": "C21268 + C00025 <=> C21269 + C00026",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.-"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20596": "JI-20A/JI-20Ba transaminase [EC:2.6.1.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R11298",
+    "name": "antibiotic-JI-20Ba:2-oxoglutarate aminotransferase",
+    "definition": "6'-Oxo-G418 + L-Glutamate <=> Antibiotic JI-20Ba + 2-Oxoglutarate",
+    "equation": "C21268 + C00025 <=> C21269 + C00026",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.-"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20596": "JI-20A/JI-20Ba transaminase [EC:2.6.1.-]"
+    }
+  }
+]

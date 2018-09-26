@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01270",
+    "name": "Nicotinamide D-ribonucleotide phosphoribohydrolase",
+    "definition": "Nicotinamide D-ribonucleotide + H2O <=> Nicotinamide + D-Ribose 5-phosphate",
+    "equation": "C00455 + C00001 <=> C00153 + C00117",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.2.14"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

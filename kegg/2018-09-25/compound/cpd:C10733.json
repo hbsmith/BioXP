@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C10733",
+    "name": "Peganine",
+    "names": [
+      "Peganine",
+      "Vasicine"
+    ],
+    "formula": "C11H12N2O",
+    "exact_mass": 188.095,
+    "mol_weight": 188.2258,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08477",
+      "R08478"
+    ],
+    "pathways": {
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "6159-55-3"
+      ],
+      "PubChem": [
+        "12916"
+      ],
+      "ChEBI": [
+        "7949"
+      ],
+      "ChEMBL": [
+        "CHEMBL1456364"
+      ],
+      "KNApSAcK": [
+        "C00002191",
+        "C00026252"
+      ],
+      "3DMET": [
+        "B04101"
+      ],
+      "NIKKAJI": [
+        "J8.351H"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   N2x N    28.9663  -17.9097\n            2   C1x C    28.9663  -15.1075\n            3   C8y C    27.7563  -15.8045\n            4   C8y C    27.7623  -17.2056\n            5   C8x C    26.5509  -17.9148\n            6   C8x C    25.3336  -17.2159\n            7   C8x C    25.3277  -15.8148\n            8   C8x C    26.5391  -15.1128\n            9   C2y C    30.1836  -17.2056\n            10  N1y N    30.1868  -15.8042\n            11  C1x C    31.5212  -15.3762\n            12  C1x C    32.3380  -16.5134\n            13  C1y C    31.5158  -17.6397\n            14  O1a O    32.2042  -18.8460\nBOND        16\n            1     4   5 1\n            2     5   6 2\n            3     6   7 1\n            4     7   8 2\n            5     8   3 1\n            6     9   1 2\n            7     1   4 1\n            8     3   2 1\n            9     2  10 1\n            10    9  10 1\n            11   10  11 1\n            12   11  12 1\n            13   12  13 1\n            14   13   9 1\n            15    3   4 2\n            16   13  14 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00530",
+    "name": "ADP:sulfate adenylyltransferase",
+    "definition": "ADP + Sulfate <=> Orthophosphate + Adenylyl sulfate",
+    "equation": "C00008 + C00059 <=> C00009 + C00224",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.5"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

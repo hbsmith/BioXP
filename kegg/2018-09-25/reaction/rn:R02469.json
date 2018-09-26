@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R02469",
+    "name": "(S)-limonene,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (3-hydroxylating)",
+    "definition": "(-)-Limonene + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> (-)-trans-Isopiperitenol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C00521 + C03024 + C00007 <=> C01123 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.99"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15089": "(S)-limonene 3-monooxygenase [EC:1.14.14.99]"
+    }
+  }
+][
+  {
+    "entry_id": "R02469",
+    "name": "(S)-limonene,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (3-hydroxylating)",
+    "definition": "(-)-Limonene + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> (-)-trans-Isopiperitenol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C00521 + C03024 + C00007 <=> C01123 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.99"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15089": "(S)-limonene 3-monooxygenase [EC:1.14.14.99]"
+    }
+  }
+]

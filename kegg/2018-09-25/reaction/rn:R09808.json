@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09808",
+    "name": "",
+    "definition": "Nitric oxide + Azide <=> Nitrous oxide + Nitrogen",
+    "equation": "C00533 + C19935 <=> C00887 + C00697",
+    "comment": "incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.1.14"
+    ],
+    "pathways": {
+      "rn00910": "Nitrogen metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K15877": "fungal nitric oxide reductase [EC:1.7.1.14]"
+    }
+  }
+]

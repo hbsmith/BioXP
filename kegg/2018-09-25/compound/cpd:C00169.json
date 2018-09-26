@@ -1,0 +1,195 @@
+[
+  {
+    "entry_id": "C00169",
+    "name": "Carbamoyl phosphate",
+    "names": [
+      "Carbamoyl phosphate"
+    ],
+    "formula": "CH4NO5P",
+    "exact_mass": 140.9827,
+    "mol_weight": 141.0199,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00149",
+      "R00150",
+      "R00575",
+      "R01395",
+      "R01396",
+      "R01397",
+      "R01398",
+      "R01399",
+      "R01400",
+      "R02937",
+      "R04281",
+      "R05230",
+      "R06772",
+      "R07245",
+      "R07641",
+      "R08937",
+      "R09853",
+      "R09858",
+      "R10541",
+      "R10767",
+      "R10768",
+      "R11279"
+    ],
+    "pathways": {
+      "map00220": "Arginine biosynthesis",
+      "map00230": "Purine metabolism",
+      "map00240": "Pyrimidine metabolism",
+      "map00250": "Alanine, aspartate and glutamate metabolism",
+      "map00910": "Nitrogen metabolism",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01200": "Carbon metabolism",
+      "map01230": "Biosynthesis of amino acids"
+    },
+    "enzymes": [
+      "2.1.3.2",
+      "2.1.3.3",
+      "2.1.3.5",
+      "2.1.3.6",
+      "2.1.3.7",
+      "2.1.3.8",
+      "2.1.3.9",
+      "2.1.3.11",
+      "2.1.3.12",
+      "2.1.3.-",
+      "2.7.2.2",
+      "6.1.2.2",
+      "6.3.4.16",
+      "6.3.5.5"
+    ],
+    "dblinks": {
+      "CAS": [
+        "590-55-6"
+      ],
+      "PubChem": [
+        "3469"
+      ],
+      "ChEBI": [
+        "17672"
+      ],
+      "ChEMBL": [
+        "CHEMBL369105"
+      ],
+      "KNApSAcK": [
+        "C00007513"
+      ],
+      "PDB-CCD": [
+        "CP"
+      ],
+      "3DMET": [
+        "B00050"
+      ],
+      "NIKKAJI": [
+        "J39.574I"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   P1b P    23.3163  -16.5876\n            2   O7a O    21.9132  -16.5941\n            3   O1c O    24.7712  -16.5812\n            4   O1c O    23.3100  -15.2102\n            5   O1c O    23.3229  -18.0221\n            6   C7a C    20.7030  -15.8988\n            7   N1a N    19.4865  -16.5941\n            8   O6a O    20.7030  -14.4956\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     2   6 1\n            6     6   7 1\n            7     6   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C00169",
+    "name": "Carbamoyl phosphate",
+    "names": [
+      "Carbamoyl phosphate"
+    ],
+    "formula": "CH4NO5P",
+    "exact_mass": 140.9827,
+    "mol_weight": 141.0199,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00149",
+      "R00150",
+      "R00575",
+      "R01395",
+      "R01396",
+      "R01397",
+      "R01398",
+      "R01399",
+      "R01400",
+      "R02937",
+      "R04281",
+      "R05230",
+      "R06772",
+      "R07245",
+      "R07641",
+      "R08937",
+      "R09853",
+      "R09858",
+      "R10541",
+      "R10767",
+      "R10768",
+      "R11279"
+    ],
+    "pathways": {
+      "map00220": "Arginine biosynthesis",
+      "map00230": "Purine metabolism",
+      "map00240": "Pyrimidine metabolism",
+      "map00250": "Alanine, aspartate and glutamate metabolism",
+      "map00910": "Nitrogen metabolism",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01200": "Carbon metabolism",
+      "map01230": "Biosynthesis of amino acids"
+    },
+    "enzymes": [
+      "2.1.3.2",
+      "2.1.3.3",
+      "2.1.3.5",
+      "2.1.3.6",
+      "2.1.3.7",
+      "2.1.3.8",
+      "2.1.3.9",
+      "2.1.3.11",
+      "2.1.3.12",
+      "2.1.3.-",
+      "2.7.2.2",
+      "6.1.2.2",
+      "6.3.4.16",
+      "6.3.5.5"
+    ],
+    "dblinks": {
+      "CAS": [
+        "590-55-6"
+      ],
+      "PubChem": [
+        "3469"
+      ],
+      "ChEBI": [
+        "17672"
+      ],
+      "ChEMBL": [
+        "CHEMBL369105"
+      ],
+      "KNApSAcK": [
+        "C00007513"
+      ],
+      "PDB-CCD": [
+        "CP"
+      ],
+      "3DMET": [
+        "B00050"
+      ],
+      "NIKKAJI": [
+        "J39.574I"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   P1b P    23.3163  -16.5876\n            2   O7a O    21.9132  -16.5941\n            3   O1c O    24.7712  -16.5812\n            4   O1c O    23.3100  -15.2102\n            5   O1c O    23.3229  -18.0221\n            6   C7a C    20.7030  -15.8988\n            7   N1a N    19.4865  -16.5941\n            8   O6a O    20.7030  -14.4956\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     2   6 1\n            6     6   7 1\n            7     6   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

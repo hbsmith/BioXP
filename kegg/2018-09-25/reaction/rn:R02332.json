@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02332",
+    "name": "dUTP:uridine 5'-phosphotransferase",
+    "definition": "dUTP + Uridine <=> dUDP + UMP",
+    "equation": "C00460 + C00299 <=> C01346 + C00105",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.48"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00876": "uridine kinase [EC:2.7.1.48]"
+    }
+  }
+]

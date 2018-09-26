@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11546",
+    "name": "S-adenosyl-L-methionine:methanethiol S-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Methanethiol <=> S-Adenosyl-L-homocysteine + Dimethyl sulfide",
+    "equation": "C00019 + C00409 <=> C00021 + C00580",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.334"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism"
+    },
+    "orthologs": {
+      "K21310": "methanethiol S-methyltransferase [EC:2.1.1.334]"
+    }
+  }
+]

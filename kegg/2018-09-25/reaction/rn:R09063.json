@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09063",
+    "name": "S-adenosyl-L-methionine:bacteriochlorophyllide-d C20-methyltransferase",
+    "definition": "Bacteriochlorophyllide d + S-Adenosyl-L-methionine <=> Bacteriochlorophyllide c + S-Adenosyl-L-homocysteine",
+    "equation": "C18160 + C00019 <=> C18161 + C00021",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.333"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13604": "bacteriochlorophyllide d C-20 methyltransferase [EC:2.1.1.333]"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C05974",
+    "name": "2-Acyl-sn-glycero-3-phosphoserine",
+    "names": [
+      "2-Acyl-sn-glycero-3-phosphoserine"
+    ],
+    "formula": "C7H13NO9PR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R04034"
+    ],
+    "pathways": {
+      "map00564": "Glycerophospholipid metabolism"
+    },
+    "enzymes": [
+      "3.1.1.32"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8254"
+      ],
+      "ChEBI": [
+        "37646"
+      ],
+      "LIPIDMAPS": [
+        "LMGP0305AA00"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   O1c O    27.8595  -21.3051\n            2   P1b P    27.8531  -22.7107\n            3   O2b O    26.4473  -22.7107\n            4   O1c O    27.8466  -24.1102\n            5   O2b O    29.2590  -22.7107\n            6   C1b C    30.4724  -23.3800\n            7   C1c C    31.6849  -22.6800\n            8   C6a C    32.8973  -23.3800\n            9   O6a O    34.1097  -22.6800\n            10  N1a N    31.6849  -21.2802\n            11  O6a O    32.8973  -24.7800\n            12  C1b C    25.2476  -23.3800\n            13  C1c C    24.0351  -22.6800\n            14  C1b C    22.8227  -23.3800\n            15  O1a O    21.6103  -22.6800\n            16  O7a O    24.0351  -21.2802\n            17  C7a C    22.8039  -20.5692\n            18  R   R    21.5989  -21.2648\n            19  O6a O    22.8042  -19.1801\nBOND        18\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n            4     2   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     7  10 1 #Up\n            10    8  11 2\n            11    3  12 1\n            12   12  13 1\n            13   13  14 1\n            14   14  15 1\n            15   13  16 1 #Up\n            16   16  17 1\n            17   17  18 1\n            18   17  19 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

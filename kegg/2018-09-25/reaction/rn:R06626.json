@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06626",
+    "name": "",
+    "definition": "4-Hydroxyphenylglyoxylate + L-Tyrosine <=> L-4-Hydroxyphenylglycine + 3-(4-Hydroxyphenyl)pyruvate",
+    "equation": "C03590 + C00082 <=> C12323 + C01179",
+    "comment": "L-hydroxyphenylglycine transaminase,HpgT",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.103"
+    ],
+    "pathways": {
+      "rn00261": "Monobactam biosynthesis",
+      "rn01055": "Biosynthesis of vancomycin group antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16423": "(S)-3,5-dihydroxyphenylglycine transaminase [EC:2.6.1.103]"
+    }
+  }
+]

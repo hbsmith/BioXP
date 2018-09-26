@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10162",
+    "name": "pentalenolactone-reduced-ferredoxin:oxygen oxidoreductase (pentalenolactone forming)",
+    "definition": "Pentalenolactone F + Oxygen + 2 Reduced ferredoxin + 2 H+ <=> Pentalenolactone + 2 Oxidized ferredoxin + 2 H2O",
+    "equation": "C20397 + C00007 + 2 C00138 + 2 C00080 <=> C20407 + 2 C00139 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.8"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K17476": "pentalenolactone synthase [EC:1.14.19.8]"
+    }
+  }
+]

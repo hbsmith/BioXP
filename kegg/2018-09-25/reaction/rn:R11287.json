@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R11287",
+    "name": "",
+    "definition": "Paromomycin II <=> 5'''-epi-Lividomycin B",
+    "equation": "C17712 <=> C21264",
+    "comment": "incomplete reaction two-step dehydroxylation by LivW+LivY",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20586": "oxidoreductase",
+      "K20587": "dehydrogenase"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02526",
+    "name": "L-Arabinono-1,4-lactone lactonohydrolase",
+    "definition": "L-Arabinono-1,4-lactone + H2O <=> L-Arabinonate",
+    "equation": "C01114 + C00001 <=> C00545",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.15"
+    ],
+    "pathways": {
+      "rn00053": "Ascorbate and aldarate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K13874": "L-arabinonolactonase [EC:3.1.1.15]"
+    }
+  }
+]

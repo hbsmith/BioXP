@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02777",
+    "name": "dTDP-beta-L-rhamnose:NADP+ 4-oxidoreductase; dTDP-6-deoxy-L-mannose:NADP+ 4-oxidoreductase",
+    "definition": "dTDP-L-rhamnose + NADP+ <=> dTDP-4-dehydro-beta-L-rhamnose + NADPH + H+",
+    "equation": "C03319 + C00006 <=> C00688 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.133"
+    ],
+    "pathways": {
+      "rn00521": "Streptomycin biosynthesis",
+      "rn00523": "Polyketide sugar unit biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00067": "dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]"
+    }
+  }
+]

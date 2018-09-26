@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11169",
+    "name": "protein-Npi-phospho-L-histidine:2-O-alpha-mannopyranosyl-D-glycerate 6'-O-phosphotransferase",
+    "definition": "Protein N(pi)-phospho-L-histidine + 2-O-(alpha-D-Mannosyl)-D-glycerate <=> Protein histidine + 2-O-(6-Phospho-alpha-mannosyl)-D-glycerate",
+    "equation": "C04261 + C11544 <=> C00615 + C16699",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.195"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K11198": "PTS system, 2-O-A-mannosyl-D-glycerate-specific IIA component [EC:2.7.1.195]",
+      "K11199": "PTS system, 2-O-A-mannosyl-D-glycerate-specific IIB component [EC:2.7.1.195]",
+      "K11200": "PTS system, 2-O-A-mannosyl-D-glycerate-specific IIC component"
+    }
+  }
+]

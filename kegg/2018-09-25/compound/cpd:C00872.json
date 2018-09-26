@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C00872",
+    "name": "Aminomalonate",
+    "names": [
+      "Aminomalonate",
+      "Aminomalonic acid",
+      "2-Aminomalonic acid"
+    ],
+    "formula": "C3H5NO4",
+    "exact_mass": 119.0219,
+    "mol_weight": 119.0761,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02970"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.6.1.47"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1068-84-4"
+      ],
+      "PubChem": [
+        "4129"
+      ],
+      "ChEBI": [
+        "17475"
+      ],
+      "ChEMBL": [
+        "CHEMBL1232731"
+      ],
+      "PDB-CCD": [
+        "FGL"
+      ],
+      "3DMET": [
+        "B00195"
+      ],
+      "NIKKAJI": [
+        "J556H"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1c C    27.5100  -18.2700\n            2   C6a C    28.7700  -18.9700\n            3   C6a C    26.3200  -18.9700\n            4   N1a N    27.5100  -16.8000\n            5   O6a O    29.9600  -18.2700\n            6   O6a O    28.7700  -20.3000\n            7   O6a O    26.3200  -20.3000\n            8   O6a O    25.0600  -18.2700\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 2\n            7     3   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

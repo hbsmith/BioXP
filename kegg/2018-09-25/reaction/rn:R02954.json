@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02954",
+    "name": "Dihydrobiochanin-A:NADP+ delta2-oxidoreductase",
+    "definition": "Dihydrobiochanin A + NADP+ <=> Biochanin A + NADPH + H+",
+    "equation": "C02675 + C00006 <=> C00814 + C00005 + C00080",
+    "comment": "biochanin-A reductase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.1.46"
+    ],
+    "pathways": {
+      "rn00943": "Isoflavonoid biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

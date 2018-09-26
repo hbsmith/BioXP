@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C07287",
+    "name": "Sulcatone",
+    "names": [
+      "Sulcatone",
+      "Methylheptenone",
+      "6-Methylhept-5-en-2-one",
+      "6-Methyl-5-hepten-2-one"
+    ],
+    "formula": "C8H14O",
+    "exact_mass": 126.1045,
+    "mol_weight": 126.1962,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05678"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.260"
+    ],
+    "dblinks": {
+      "CAS": [
+        "110-93-0"
+      ],
+      "PubChem": [
+        "9496"
+      ],
+      "ChEBI": [
+        "16310"
+      ],
+      "ChEMBL": [
+        "CHEMBL46340"
+      ],
+      "KNApSAcK": [
+        "C00011400",
+        "C00034775"
+      ],
+      "PDB-CCD": [
+        "0VT"
+      ],
+      "NIKKAJI": [
+        "J58.156I"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C2c C    25.5500  -19.8800\n            2   C2b C    26.8100  -20.5800\n            3   C1a C    24.3600  -20.5800\n            4   C1a C    25.5500  -18.4800\n            5   C1b C    28.0000  -19.8800\n            6   C1b C    29.1900  -20.5800\n            7   C5a C    30.4500  -19.8800\n            8   O5a O    30.4500  -18.4800\n            9   C1a C    31.6400  -20.5800\nBOND        8\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 2\n            8     7   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

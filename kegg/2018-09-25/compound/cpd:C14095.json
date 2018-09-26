@@ -1,0 +1,95 @@
+[
+  {
+    "entry_id": "C14095",
+    "name": "2-Hydroxy-3-carboxybenzalpyruvate",
+    "names": [
+      "2-Hydroxy-3-carboxybenzalpyruvate",
+      "3-(3-Carboxy-3-oxo-1-propenyl)-2-hydroxy-benzoic acid"
+    ],
+    "formula": "C11H8O6",
+    "exact_mass": 236.0321,
+    "mol_weight": 236.1776,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06922",
+      "R06923"
+    ],
+    "pathways": {
+      "map00626": "Naphthalene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "4.2.1.-",
+      "5.3.99.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "162794-83-4"
+      ],
+      "PubChem": [
+        "854331"
+      ],
+      "ChEBI": [
+        "19602"
+      ],
+      "NIKKAJI": [
+        "J2.787.873C"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C8x C    21.8631  -17.5987\n            2   C8x C    21.8631  -18.9999\n            3   C8x C    23.0804  -19.7040\n            4   C8y C    23.0804  -16.9017\n            5   C8y C    24.2836  -17.5987\n            6   C8y C    24.2776  -18.9999\n            7   C2b C    25.4889  -19.7091\n            8   C2b C    26.7062  -19.0102\n            9   O1a O    25.5009  -16.9069\n            10  C6a C    23.0821  -15.5007\n            11  O6a O    24.2903  -14.7981\n            12  O6a O    21.8687  -14.7950\n            13  C5a C    27.9553  -19.7351\n            14  C6a C    29.1480  -19.0498\n            15  O6a O    30.3337  -19.7378\n            16  O5a O    27.9523  -21.1398\n            17  O6a O    29.1513  -17.6403\nBOND        17\n            1     6   7 1\n            2     7   8 2\n            3     9   5 1\n            4     4  10 1\n            5     1   2 2\n            6    10  11 2\n            7     2   3 1\n            8    10  12 1\n            9     3   6 2\n            10    5   4 2\n            11    4   1 1\n            12    5   6 1\n            13    8  13 1\n            14   13  14 1\n            15   14  15 1\n            16   13  16 2\n            17   14  17 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C14095",
+    "name": "2-Hydroxy-3-carboxybenzalpyruvate",
+    "names": [
+      "2-Hydroxy-3-carboxybenzalpyruvate",
+      "3-(3-Carboxy-3-oxo-1-propenyl)-2-hydroxy-benzoic acid"
+    ],
+    "formula": "C11H8O6",
+    "exact_mass": 236.0321,
+    "mol_weight": 236.1776,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06922",
+      "R06923"
+    ],
+    "pathways": {
+      "map00626": "Naphthalene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "4.2.1.-",
+      "5.3.99.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "162794-83-4"
+      ],
+      "PubChem": [
+        "854331"
+      ],
+      "ChEBI": [
+        "19602"
+      ],
+      "NIKKAJI": [
+        "J2.787.873C"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C8x C    21.8631  -17.5987\n            2   C8x C    21.8631  -18.9999\n            3   C8x C    23.0804  -19.7040\n            4   C8y C    23.0804  -16.9017\n            5   C8y C    24.2836  -17.5987\n            6   C8y C    24.2776  -18.9999\n            7   C2b C    25.4889  -19.7091\n            8   C2b C    26.7062  -19.0102\n            9   O1a O    25.5009  -16.9069\n            10  C6a C    23.0821  -15.5007\n            11  O6a O    24.2903  -14.7981\n            12  O6a O    21.8687  -14.7950\n            13  C5a C    27.9553  -19.7351\n            14  C6a C    29.1480  -19.0498\n            15  O6a O    30.3337  -19.7378\n            16  O5a O    27.9523  -21.1398\n            17  O6a O    29.1513  -17.6403\nBOND        17\n            1     6   7 1\n            2     7   8 2\n            3     9   5 1\n            4     4  10 1\n            5     1   2 2\n            6    10  11 2\n            7     2   3 1\n            8    10  12 1\n            9     3   6 2\n            10    5   4 2\n            11    4   1 1\n            12    5   6 1\n            13    8  13 1\n            14   13  14 1\n            15   14  15 1\n            16   13  16 2\n            17   14  17 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C01048",
+    "name": "Polyprenyl phosphate",
+    "names": [
+      "Polyprenyl phosphate"
+    ],
+    "formula": "C5H11O4P(C5H8)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03190"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.4.1.78"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4290"
+      ],
+      "ChEBI": [
+        "16460"
+      ],
+      "LipidBank": [
+        "IIP0060"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C1a C    20.7200  -16.8000\n            2   C2c C    21.9324  -16.1000\n            3   C2b C    23.1449  -16.8000\n            4   C1b C    24.3573  -16.1000\n            5   C1b C    25.5697  -16.8000\n            6   C2c C    26.7822  -16.1000\n            7   C2b C    27.9946  -16.8000\n            8   C1b C    29.2070  -16.1000\n            9   O2b O    31.3295  -16.8000\n            10  C1a C    21.9324  -14.7002\n            11  C1a C    26.7822  -14.7003\n            12  P1b P    32.7295  -16.8000\n            13  O1c O    34.1295  -16.8000\n            14  O1c O    32.7295  -15.4003\n            15  O1c O    32.7295  -18.1997\nBOND        14\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 2\n            7     7   8 1\n            8     8   9 1\n            9     2  10 1\n            10    6  11 1\n            11    9  12 1\n            12   12  13 1\n            13   12  14 1\n            14   12  15 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

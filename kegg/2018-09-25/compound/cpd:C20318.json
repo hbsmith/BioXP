@@ -1,0 +1,36 @@
+[
+  {
+    "entry_id": "C20318",
+    "name": "S-(1,2-Dichlorovinyl)thiol",
+    "names": [
+      "S-(1,2-Dichlorovinyl)thiol",
+      "DCVT"
+    ],
+    "formula": "C2H2Cl2S",
+    "exact_mass": 127.9254,
+    "mol_weight": 129.0083,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map05204": "Chemical carcinogenesis"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "163312056"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C2b C    13.1600  -11.5500\n            2   C2c C    14.5600  -11.5500\n            3   X   Cl   15.2600  -12.7624\n            4   X   Cl   12.4600  -10.3376\n            5   S1a S    15.2600  -10.3376\nBOND        4\n            1     1   2 2\n            2     2   3 1\n            3     1   4 1\n            4     2   5 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

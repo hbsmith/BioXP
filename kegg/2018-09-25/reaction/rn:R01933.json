@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01933",
+    "name": "2-oxoadipate dehydrogenase complex",
+    "definition": "2-Oxoadipate + CoA + NAD+ <=> Glutaryl-CoA + CO2 + NADH + H+",
+    "equation": "C00322 + C00010 + C00003 <=> C00527 + C00011 + C00004 + C00080",
+    "comment": "2-oxoglutarate dehydrogenase complex (see R08549) multi-step reaction (see R01940+R02571+R07618)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.4.2",
+      "1.8.1.4",
+      "2.3.1.61"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+      "K00164": "2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]"
+    }
+  }
+]

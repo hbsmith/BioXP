@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R09925",
+    "name": "linalool,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (8-hydroxylating)",
+    "definition": "Linalool + 2 [Reduced NADPH---hemoprotein reductase] + 2 Oxygen <=> (6E)-8-Oxolinalool + 2 [Oxidized NADPH---hemoprotein reductase] + 3 H2O",
+    "equation": "C03985 + 2 C03024 + 2 C00007 <=> C20221 + 2 C03161 + 3 C00001",
+    "comment": "two-step reaction (see R04366+R09924)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.84"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "entry_id": "C21489",
+    "name": "S-Octanoyl-L-cysteinyl-protein",
+    "names": [
+      "S-Octanoyl-L-cysteinyl-protein"
+    ],
+    "formula": "C11H20NO2SR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R10590",
+      "R11589"
+    ],
+    "pathways": {
+      "map00405": "Phenazine biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "2.3.1.230"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "333497472"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C1b C    22.7233  -17.2456\n            2   C5a C    23.9805  -16.5471\n            3   S2a S    25.1680  -17.2456\n            4   O5a O    23.9805  -15.1501\n            5   C1b C    21.5358  -16.5471\n            6   C1b C    20.2786  -17.2456\n            7   C1b C    19.0911  -16.5471\n            8   C1b C    17.9037  -17.2456\n            9   C1b C    16.6464  -16.5471\n            10  C1a C    15.4590  -17.2456\n            11  C1b C    26.4214  -16.5357\n            12  C1c C    27.5978  -17.2280\n            13  C5a C    28.8058  -16.5437\n            14  R   R    30.0268  -17.2626\n            15  O5a O    28.8171  -15.1202\n            16  N1a N    27.5862  -18.6200\nBOND        15\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n            4     1   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10    3  11 1\n            11   11  12 1\n            12   12  13 1\n            13   13  14 1\n            14   13  15 2\n            15   12  16 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C21489",
+    "name": "S-Octanoyl-L-cysteinyl-protein",
+    "names": [
+      "S-Octanoyl-L-cysteinyl-protein"
+    ],
+    "formula": "C11H20NO2SR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R10590",
+      "R11589"
+    ],
+    "pathways": {
+      "map00405": "Phenazine biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "2.3.1.230"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "333497472"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C1b C    22.7233  -17.2456\n            2   C5a C    23.9805  -16.5471\n            3   S2a S    25.1680  -17.2456\n            4   O5a O    23.9805  -15.1501\n            5   C1b C    21.5358  -16.5471\n            6   C1b C    20.2786  -17.2456\n            7   C1b C    19.0911  -16.5471\n            8   C1b C    17.9037  -17.2456\n            9   C1b C    16.6464  -16.5471\n            10  C1a C    15.4590  -17.2456\n            11  C1b C    26.4214  -16.5357\n            12  C1c C    27.5978  -17.2280\n            13  C5a C    28.8058  -16.5437\n            14  R   R    30.0268  -17.2626\n            15  O5a O    28.8171  -15.1202\n            16  N1a N    27.5862  -18.6200\nBOND        15\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n            4     1   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10    3  11 1\n            11   11  12 1\n            12   12  13 1\n            13   13  14 1\n            14   13  15 2\n            15   12  16 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

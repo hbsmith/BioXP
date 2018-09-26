@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11420",
+    "name": "dTDP-4-ethylamino-3-O-methyl-2,4-dideoxy-L-threo-pentopyranose:calicheamicin-PsAg 4-ethylamino-3-O-methyl-2,4-dideoxy-L-threo-pentosyltransferase",
+    "definition": "dTDP-4-ethylamino-3-O-methyl-2,4-dideoxy-L-threo-pentopyranose + Calicheamicin PsAg <=> dTDP + Calicheamicin alpha1(I)",
+    "equation": "C21356 + C21340 <=> C00363 + C21341",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.2.-"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21262": "calicheamicin aminopentosyltransferase [EC:2.4.2.-]"
+    }
+  }
+]

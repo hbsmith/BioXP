@@ -1,0 +1,93 @@
+[
+  {
+    "entry_id": "C11468",
+    "name": "3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylic acid",
+    "names": [
+      "3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylic acid",
+      "Benzoxazolinate"
+    ],
+    "formula": "C11H9NO5",
+    "exact_mass": 235.0481,
+    "mol_weight": 235.1929,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11364",
+      "R11365"
+    ],
+    "pathways": {
+      "map01059": "Biosynthesis of enediyne antibiotics",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "105897-30-1"
+      ],
+      "PubChem": [
+        "13639"
+      ],
+      "ChEBI": [
+        "1374"
+      ],
+      "NIKKAJI": [
+        "J387.985B"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C8y C    24.2830  -17.1849\n            2   C8x C    23.0740  -17.8942\n            3   C8y C    23.0889  -19.2994\n            4   C8x C    24.3092  -19.9891\n            5   C6a C    24.2703  -15.7821\n            6   O6a O    25.4726  -15.0663\n            7   O6a O    23.0482  -15.0883\n            8   O2a O    21.8809  -20.0174\n            9   C1a C    20.6576  -19.3258\n            10  C8y C    25.4998  -17.8736\n            11  C8y C    25.5068  -19.2679\n            12  O2x O    26.7187  -19.9627\n            13  C8y C    27.9239  -19.2561\n            14  C8y C    27.9170  -17.8616\n            15  N4x N    26.7049  -17.1739\n            16  O5x O    29.1293  -17.1576\n            17  C2a C    29.1432  -19.9549\nBOND        18\n            1     3   8 1\n            2     4  11 1\n            3     8   9 1\n            4    10   1 1\n            5     1   5 1\n            6     1   2 2\n            7     5   6 1\n            8     2   3 1\n            9    10  11 2\n            10   11  12 1\n            11   12  13 1\n            12   13  14 1\n            13   14  15 1\n            14   15  10 1\n            15    5   7 2\n            16   14  16 2\n            17    3   4 2\n            18   13  17 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C11468",
+    "name": "3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylic acid",
+    "names": [
+      "3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylic acid",
+      "Benzoxazolinate"
+    ],
+    "formula": "C11H9NO5",
+    "exact_mass": 235.0481,
+    "mol_weight": 235.1929,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11364",
+      "R11365"
+    ],
+    "pathways": {
+      "map01059": "Biosynthesis of enediyne antibiotics",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "105897-30-1"
+      ],
+      "PubChem": [
+        "13639"
+      ],
+      "ChEBI": [
+        "1374"
+      ],
+      "NIKKAJI": [
+        "J387.985B"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C8y C    24.2830  -17.1849\n            2   C8x C    23.0740  -17.8942\n            3   C8y C    23.0889  -19.2994\n            4   C8x C    24.3092  -19.9891\n            5   C6a C    24.2703  -15.7821\n            6   O6a O    25.4726  -15.0663\n            7   O6a O    23.0482  -15.0883\n            8   O2a O    21.8809  -20.0174\n            9   C1a C    20.6576  -19.3258\n            10  C8y C    25.4998  -17.8736\n            11  C8y C    25.5068  -19.2679\n            12  O2x O    26.7187  -19.9627\n            13  C8y C    27.9239  -19.2561\n            14  C8y C    27.9170  -17.8616\n            15  N4x N    26.7049  -17.1739\n            16  O5x O    29.1293  -17.1576\n            17  C2a C    29.1432  -19.9549\nBOND        18\n            1     3   8 1\n            2     4  11 1\n            3     8   9 1\n            4    10   1 1\n            5     1   5 1\n            6     1   2 2\n            7     5   6 1\n            8     2   3 1\n            9    10  11 2\n            10   11  12 1\n            11   12  13 1\n            12   13  14 1\n            13   14  15 1\n            14   15  10 1\n            15    5   7 2\n            16   14  16 2\n            17    3   4 2\n            18   13  17 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

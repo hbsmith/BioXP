@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10366",
+    "name": "13-desoxyterpendole I,NADPH:oxygen oxidoreductase",
+    "definition": "13-Desoxyterpendole I + NADPH + H+ + Oxygen <=> Terpendole I + NADP+ + H2O",
+    "equation": "C20542 + C00005 + C00080 + C00007 <=> C20543 + C00006 + C00001",
+    "comment": "cytochrome P450 monooxygenase, TerQ",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00403": "Indole diterpene alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K18393": "cytochrome P450 monooxygenase [EC:1.14.13.-]"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C16648",
+    "name": "2-n-Propyl-4-pentenoic acid",
+    "names": [
+      "2-n-Propyl-4-pentenoic acid",
+      "4-En-valproic acid",
+      "4-Ene-VPA"
+    ],
+    "formula": "C8H14O2",
+    "exact_mass": 142.0994,
+    "mol_weight": 142.1956,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08324",
+      "R08329"
+    ],
+    "pathways": {
+      "map00982": "Drug metabolism - cytochrome P450"
+    },
+    "enzymes": [
+      "1.14.13.-",
+      "1.14.14.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1575-72-0"
+      ],
+      "PubChem": [
+        "51090972"
+      ],
+      "ChEBI": [
+        "80634"
+      ],
+      "ChEMBL": [
+        "CHEMBL1367"
+      ],
+      "LIPIDMAPS": [
+        "LMFA01030982"
+      ],
+      "NIKKAJI": [
+        "J362.530C"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1c C    25.5269  -20.1481\n            2   C1b C    25.5269  -18.7699\n            3   C1b C    24.3181  -20.8664\n            4   C6a C    26.7300  -20.8664\n            5   C2b C    24.3123  -18.0632\n            6   C1b C    23.1092  -20.1481\n            7   O6a O    26.7300  -22.2622\n            8   O6a O    27.9388  -20.1481\n            9   C2a C    23.1035  -18.7699\n            10  C1a C    21.9064  -20.8664\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     4   7 1\n            7     4   8 2\n            8     5   9 2\n            9     6  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

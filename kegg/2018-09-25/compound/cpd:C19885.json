@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C19885",
+    "name": "alpha-Aminoadipate carrier protein LysW",
+    "names": [
+      "alpha-Aminoadipate carrier protein LysW",
+      "[LysW]",
+      "[Lysine-biosynthesis-protein LysW]-C-terminal-L-glutamate"
+    ],
+    "formula": "C5H8NO4R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09775",
+      "R09779",
+      "R10929",
+      "R10933"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "6.3.2.43",
+      "6.3.2.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "135626351"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   O6a O    20.2053  -14.7703\n            2   C6a C    18.9928  -15.4704\n            3   C1b C    18.9928  -16.8704\n            4   O6a O    17.7638  -14.7605\n            5   C1b C    17.7804  -17.5704\n            6   C1c C    17.7804  -18.9705\n            7   C6a C    18.9928  -19.6705\n            8   N1b N    16.5679  -19.6705\n            9   O6a O    18.9928  -21.0705\n            10  O6a O    20.1882  -18.9801\n            11  R   R    15.1679  -19.6705\nBOND        10\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n            4     3   5 1\n            5     6   5 1 #Up\n            6     6   7 1\n            7     6   8 1\n            8     7   9 2\n            9     7  10 1\n            10    8  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02757",
+    "name": "ATP:acylglycerol 3-phosphotransferase",
+    "definition": "ATP + 1-Acylglycerol <=> ADP + 1-Acyl-sn-glycerol 3-phosphate",
+    "equation": "C00002 + C01885 <=> C00008 + C00681",
+    "comment": "see R02758 (2-acyl type reaction)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.94"
+    ],
+    "pathways": {
+      "rn00561": "Glycerolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K09881": "acylglycerol kinase [EC:2.7.1.94]"
+    }
+  }
+]

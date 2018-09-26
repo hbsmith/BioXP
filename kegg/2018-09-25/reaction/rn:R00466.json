@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00466",
+    "name": "Glyoxylate:oxygen oxidoreductase",
+    "definition": "Glyoxylate + Oxygen + H2O <=> Oxalate + Hydrogen peroxide",
+    "equation": "C00048 + C00007 + C00001 <=> C00209 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.3.5"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

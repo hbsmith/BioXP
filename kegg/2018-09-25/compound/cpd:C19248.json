@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C19248",
+    "name": "Hexachloroethane",
+    "names": [
+      "Hexachloroethane"
+    ],
+    "formula": "C2Cl6",
+    "exact_mass": 233.8131,
+    "mol_weight": 236.7394,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "67-72-1"
+      ],
+      "PubChem": [
+        "124489920"
+      ],
+      "ChEBI": [
+        "39227"
+      ],
+      "ChEMBL": [
+        "CHEMBL160929"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1d C    17.4300  -17.6400\n            2   C1d C    18.8300  -17.6400\n            3   X   Cl   20.2300  -17.6400\n            4   X   Cl   18.8300  -16.2400\n            5   X   Cl   18.8300  -19.0400\n            6   X   Cl   16.0300  -17.6400\n            7   X   Cl   17.4300  -16.2400\n            8   X   Cl   17.4300  -19.0400\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     2   4 1\n            4     2   5 1\n            5     1   6 1\n            6     1   7 1\n            7     1   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

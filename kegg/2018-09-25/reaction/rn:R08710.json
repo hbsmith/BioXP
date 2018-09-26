@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R08710",
+    "name": "CDP-ascarylose:NADP+ 4-oxidoreductase",
+    "definition": "CDP-4-dehydro-3,6-dideoxy-D-glucose epimer + NADPH + H+ <=> CDP-ascarylose + NADP+",
+    "equation": "C17326 + C00005 + C00080 <=> C17327 + C00006",
+    "comment": "NADH (see R08709)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K15858": "CDP-3, 6-dideoxy-D-glycero-L-glycero-4-hexulose-4-reductase [EC:1.1.1.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R08710",
+    "name": "CDP-ascarylose:NADP+ 4-oxidoreductase",
+    "definition": "CDP-4-dehydro-3,6-dideoxy-D-glucose epimer + NADPH + H+ <=> CDP-ascarylose + NADP+",
+    "equation": "C17326 + C00005 + C00080 <=> C17327 + C00006",
+    "comment": "NADH (see R08709)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+      "K15858": "CDP-3, 6-dideoxy-D-glycero-L-glycero-4-hexulose-4-reductase [EC:1.1.1.-]"
+    }
+  }
+]

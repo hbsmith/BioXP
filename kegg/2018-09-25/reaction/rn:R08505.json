@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R08505",
+    "name": "cholesterol 26-hydroxylase",
+    "definition": "Cholesterol + Oxygen + 2 H+ + 2 Reduced adrenal ferredoxin <=> Cholest-5-ene-3beta,26-diol + H2O + 2 Oxidized adrenal ferredoxin",
+    "equation": "C00187 + C00007 + 2 C00080 + 2 C00662 <=> C15610 + C00001 + 2 C00667",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.15"
+    ],
+    "pathways": {
+      "rn00120": "Primary bile acid biosynthesis"
+    },
+    "orthologs": {
+      "K00488": "cholestanetriol 26-monooxygenase [EC:1.14.15.15]"
+    }
+  }
+][
+  {
+    "entry_id": "R08505",
+    "name": "cholesterol 26-hydroxylase",
+    "definition": "Cholesterol + Oxygen + 2 H+ + 2 Reduced adrenal ferredoxin <=> Cholest-5-ene-3beta,26-diol + H2O + 2 Oxidized adrenal ferredoxin",
+    "equation": "C00187 + C00007 + 2 C00080 + 2 C00662 <=> C15610 + C00001 + 2 C00667",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.15"
+    ],
+    "pathways": {
+      "rn00120": "Primary bile acid biosynthesis"
+    },
+    "orthologs": {
+      "K00488": "cholestanetriol 26-monooxygenase [EC:1.14.15.15]"
+    }
+  }
+]

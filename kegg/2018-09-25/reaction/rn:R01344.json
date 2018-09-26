@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01344",
+    "name": "D-alanine:2-oxo acid aminotransferase",
+    "definition": "D-Amino acid + Pyruvate <=> 2-Oxo acid + D-Alanine",
+    "equation": "C00405 + C00022 <=> C00161 + C00133",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.21"
+    ],
+    "pathways": {
+      "rn00473": "D-Alanine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

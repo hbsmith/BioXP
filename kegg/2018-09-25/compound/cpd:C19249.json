@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C19249",
+    "name": "2,4-Hexadienal",
+    "names": [
+      "2,4-Hexadienal",
+      "(E,E)-2,4-Hexadienal"
+    ],
+    "formula": "C6H8O",
+    "exact_mass": 96.0575,
+    "mol_weight": 96.1271,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "142-83-6"
+      ],
+      "PubChem": [
+        "124489921"
+      ],
+      "ChEBI": [
+        "82334"
+      ],
+      "ChEMBL": [
+        "CHEMBL1576086"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C4a C    30.4394  -19.8706\n            2   C2b C    29.2500  -20.5703\n            3   C2b C    27.9907  -19.8706\n            4   C2b C    26.8014  -20.5703\n            5   C2b C    25.6120  -19.8706\n            6   C1a C    24.3527  -20.5703\n            7   O4a O    31.6695  -20.5676\nBOND        6\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   7 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

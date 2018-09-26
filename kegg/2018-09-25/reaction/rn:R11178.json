@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11178",
+    "name": "",
+    "definition": "Pseudooxynicotine + H2O <=> 3-Succinoylpyridine + Methylamine",
+    "equation": "C20361 + C00001 <=> C19569 + C00218",
+    "comment": "multi-step reaction incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K20170": "nicotine oxidoreductase [EC:1.5.3.-]"
+    }
+  }
+]

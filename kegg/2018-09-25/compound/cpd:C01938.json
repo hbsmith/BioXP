@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C01938",
+    "name": "Naphthazarin",
+    "names": [
+      "Naphthazarin",
+      "5,8-Dihydroxy-1,4-naphthoquinone"
+    ],
+    "formula": "C10H6O4",
+    "exact_mass": 190.0266,
+    "mol_weight": 190.1522,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "475-38-7"
+      ],
+      "PubChem": [
+        "5043"
+      ],
+      "ChEBI": [
+        "28849"
+      ],
+      "ChEMBL": [
+        "CHEMBL274056"
+      ],
+      "KNApSAcK": [
+        "C00002846"
+      ],
+      "3DMET": [
+        "B01519"
+      ],
+      "NIKKAJI": [
+        "J12.362E"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    18.6210  -15.4704\n            2   C8y C    18.6210  -16.8705\n            3   C5x C    19.8335  -17.5705\n            4   C2x C    21.0460  -16.8705\n            5   C2x C    21.0460  -15.4704\n            6   C5x C    19.8335  -14.7704\n            7   C8y C    17.4086  -14.7704\n            8   C8x C    16.1961  -15.4704\n            9   C8x C    16.1961  -16.8705\n            10  C8y C    17.4086  -17.5705\n            11  O5x O    19.8335  -13.3706\n            12  O5x O    19.8335  -18.9703\n            13  O1a O    17.4086  -13.3706\n            14  O1a O    17.4086  -18.9703\nBOND        15\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 1\n            7     1   7 2\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    2  10 2\n            12    6  11 2\n            13    3  12 2\n            14    7  13 1\n            15   10  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

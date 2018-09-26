@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C04351",
+    "name": "(R)-2-Methylimino-1-phenylpropan-1-ol",
+    "names": [
+      "(R)-2-Methylimino-1-phenylpropan-1-ol"
+    ],
+    "formula": "C10H13NO",
+    "exact_mass": 163.0997,
+    "mol_weight": 163.2163,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03614"
+    ],
+    "pathways": {
+      "map00360": "Phenylalanine metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.5.1.18"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7000"
+      ],
+      "ChEBI": [
+        "16825"
+      ],
+      "NIKKAJI": [
+        "J2.750.203B"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    14.3474  -17.2480\n            2   C8x C    14.3474  -18.6501\n            3   C8x C    15.5646  -19.3512\n            4   C8x C    16.7747  -18.6501\n            5   C8y C    16.7747  -17.2480\n            6   C8x C    15.5646  -16.5469\n            7   C1c C    17.9802  -16.5469\n            8   C2c C    19.1912  -17.2408\n            9   N2b N    20.4021  -16.5398\n            10  C1a C    21.6130  -17.2337\n            11  O1a O    17.9758  -15.1448\n            12  C1a C    19.1942  -18.7830\nBOND        12\n            1     6   1 1\n            2     5   7 1\n            3     1   2 2\n            4     7   8 1\n            5     2   3 1\n            6     8   9 2\n            7     3   4 2\n            8     9  10 1\n            9     4   5 1\n            10    7  11 1 #Up\n            11    5   6 2\n            12    8  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

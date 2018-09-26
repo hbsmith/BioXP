@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R04444",
+    "name": "L-1-pyrroline-3-hydroxy-5-carboxylate:NAD+ oxidoreductase",
+    "definition": "L-1-Pyrroline-3-hydroxy-5-carboxylate + NAD+ + 2 H2O <=> L-erythro-4-Hydroxyglutamate + NADH + H+",
+    "equation": "C04281 + C00003 + 2 C00001 <=> C05947 + C00004 + C00080",
+    "comment": "possibly two-step reaction (R04443+R05051) NADPH (see R04445)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.88"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00294": "1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]",
+      "K13821": "RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R08218",
+    "name": "L-serine:tRNASec ligase (AMP-forming)",
+    "definition": "ATP + L-Serine + tRNA(Sec) <=> AMP + Diphosphate + L-Seryl-tRNA(Sec)",
+    "equation": "C00002 + C00065 + C16636 <=> C00020 + C00013 + C06481",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.1.1.11"
+    ],
+    "pathways": {
+      "rn00970": "Aminoacyl-tRNA biosynthesis"
+    },
+    "orthologs": {
+      "K01875": "seryl-tRNA synthetase [EC:6.1.1.11]"
+    }
+  }
+][
+  {
+    "entry_id": "R08218",
+    "name": "L-serine:tRNASec ligase (AMP-forming)",
+    "definition": "ATP + L-Serine + tRNA(Sec) <=> AMP + Diphosphate + L-Seryl-tRNA(Sec)",
+    "equation": "C00002 + C00065 + C16636 <=> C00020 + C00013 + C06481",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.1.1.11"
+    ],
+    "pathways": {
+      "rn00970": "Aminoacyl-tRNA biosynthesis"
+    },
+    "orthologs": {
+      "K01875": "seryl-tRNA synthetase [EC:6.1.1.11]"
+    }
+  }
+]

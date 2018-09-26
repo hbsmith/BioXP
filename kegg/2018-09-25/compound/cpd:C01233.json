@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C01233",
+    "name": "sn-Glycero-3-phosphoethanolamine",
+    "names": [
+      "sn-Glycero-3-phosphoethanolamine",
+      "Glycerophosphoethanolamine"
+    ],
+    "formula": "C5H14NO6P",
+    "exact_mass": 215.0559,
+    "mol_weight": 215.1415,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01470",
+      "R03415",
+      "R03416",
+      "R03417"
+    ],
+    "pathways": {
+      "map00564": "Glycerophospholipid metabolism",
+      "map00565": "Ether lipid metabolism"
+    },
+    "enzymes": [
+      "3.1.1.5",
+      "3.1.4.2",
+      "3.1.4.46",
+      "3.3.2.2"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4454"
+      ],
+      "ChEBI": [
+        "16929"
+      ],
+      "PDB-CCD": [
+        "GPE"
+      ],
+      "3DMET": [
+        "B04786"
+      ],
+      "NIKKAJI": [
+        "J247.900A"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   O2b O    24.0035  -22.4905\n            2   P1b P    25.3144  -22.4905\n            3   O2b O    26.6375  -22.4905\n            4   O1c O    25.3144  -21.1733\n            5   O1c O    25.3085  -23.8135\n            6   C1b C    27.7785  -23.1519\n            7   C1b C    28.9258  -22.4905\n            8   N1a N    30.0667  -23.1519\n            9   C1b C    22.7976  -23.1700\n            10  C1c C    21.5851  -22.4700\n            11  C1b C    20.3727  -23.1700\n            12  O1a O    19.1603  -22.4700\n            13  O1a O    21.5851  -21.0702\nBOND        12\n            1     1   2 1\n            2     2   3 1\n            3     2   4 1\n            4     2   5 2\n            5     3   6 1\n            6     6   7 1\n            7     7   8 1\n            8     1   9 1\n            9     9  10 1\n            10   10  11 1\n            11   11  12 1\n            12   10  13 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

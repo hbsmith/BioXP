@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01225",
+    "name": "5,10-Methylenetetrahydrofolate:D-alanine 2-hydroxymethyltransferase",
+    "definition": "5,10-Methylenetetrahydrofolate + D-Alanine + H2O <=> Tetrahydrofolate + 2-Methylserine",
+    "equation": "C00143 + C00133 + C00001 <=> C00101 + C02115",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.2.7"
+    ],
+    "pathways": {
+      "rn00670": "One carbon pool by folate",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

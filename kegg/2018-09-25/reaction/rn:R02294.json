@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02294",
+    "name": "N-Ribosylnicotinamide:orthophosphate ribosyltransferase",
+    "definition": "Nicotinamide-beta-riboside + Orthophosphate <=> Nicotinamide + alpha-D-Ribose 1-phosphate",
+    "equation": "C03150 + C00009 <=> C00153 + C00620",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.2.1"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03783": "purine-nucleoside phosphorylase [EC:2.4.2.1]",
+      "K03784": "purine-nucleoside phosphorylase [EC:2.4.2.1]"
+    }
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "entry_id": "1.14.14.152",
+    "name": "beta-amyrin 11-oxidase",
+    "names": [
+      "beta-amyrin 11-oxidase",
+      "CYP88D6"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "beta-amyrin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (hydroxylating)",
+    "reaction": "beta-amyrin + 2 [reduced NADPH---hemoprotein reductase] + 2 O2 = 11-oxo-beta-amyrin + 2 [oxidized NADPH---hemoprotein reductase] + 3 H2O (overall reaction) [RN:R09817]; (1a) beta-amyrin + [reduced NADPH---hemoprotein reductase] + O2 = 11alpha-hydroxy-beta-amyrin + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R09815]; (1b) 11alpha-hydroxy-beta-amyrin + [reduced NADPH---hemoprotein reductase] + O2 = 11-oxo-beta-amyrin + [oxidized NADPH---hemoprotein reductase] + 2 H2O [RN:R09816]",
+    "all_reac": "R09815 R09816 R09817",
+    "iubmb_reactions": [
+      "R09815 R09816 R09817"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "beta-amyrin [CPD:C08616]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]",
+      "11alpha-hydroxy-beta-amyrin [CPD:C19942]"
+    ],
+    "products": [
+      "11-oxo-beta-amyrin [CPD:C19943]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]",
+      "11alpha-hydroxy-beta-amyrin [CPD:C19942]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein from the plant Glycyrrhiza uralensis (Chinese licorice) that participates in the glycyrrhizin biosynthesis pathway. The enzyme is also able to oxidize 30-hydroxy-beta-amyrin to 11alpha,30-dihydroxy-beta-amyrin but this is not thought to be part of glycyrrhizin biosynthesis.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K17875": "beta-amyrin 11-oxidase"
+    },
+    "genes": {
+      "cam": [
+        "101496150"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.152"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.152"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.152"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.152"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Seki H",
+          "Ohyama K",
+          "Sawai S",
+          "Mizutani M",
+          "Ohnishi T",
+          "Sudo H",
+          "Akashi T",
+          "Aoki T",
+          "Saito K",
+          "Muranaka T"
+        ],
+        "title": "Licorice beta-amyrin 11-oxidase, a cytochrome P450 with a key role in the biosynthesis of the triterpene sweetener glycyrrhizin.",
+        "journal": "Proc Natl Acad Sci U S A 105:14204-9 (2008) DOI:10.1073/pnas.0803876105",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:18779566]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03774",
+    "name": "L-Rhamnonate hydro-lyase",
+    "definition": "L-Rhamnonate <=> 2-Dehydro-3-deoxy-L-rhamnonate + H2O",
+    "equation": "C01934 <=> C03979 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.90"
+    ],
+    "pathways": {
+      "rn00051": "Fructose and mannose metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K12661": "L-rhamnonate dehydratase [EC:4.2.1.90]"
+    }
+  }
+]

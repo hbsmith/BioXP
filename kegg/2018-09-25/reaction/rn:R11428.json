@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R11428",
+    "name": "cis-4-hydroxy-D-proline:acceptor oxidoreductase",
+    "definition": "cis-4-Hydroxy-D-proline + Acceptor <=> 1-Pyrroline-4-hydroxy-2-carboxylate + Reduced acceptor",
+    "equation": "C03440 + C00028 <=> C04282 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.99.-"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism"
+    },
+    "orthologs": {
+      "K21060": "D-hydroxyproline dehydrogenase [EC:1.5.99.-]",
+      "K21061": "D-hydroxyproline dehydrogenase subunit beta [EC:1.5.99.-]",
+      "K22549": "D-hydroxyproline dehydrogenase subunit alpha [EC:1.5.99.-]",
+      "K22550": "D-hydroxyproline dehydrogenase subunit gamma"
+    }
+  }
+]

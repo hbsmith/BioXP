@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R08053",
+    "name": "isopentenyladenosine-5'-triphosphate,NADPH---hemoprotein reductase:oxygen oxidoreductase (trans-zeatin-riboside-triphosphate-forming)",
+    "definition": "Isopentenyladenosine-5'-triphosphate + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> trans-Zeatin riboside triphosphate + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C16424 + C03024 + C00007 <=> C16428 + C03161 + C00001",
+    "comment": "CYP735A",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00908": "Zeatin biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K10717": "cytokinin trans-hydroxylase"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R08036",
+    "name": "acetyl-CoA:2,4-diamino-6-nitrotoluene N-acetyltransferase",
+    "definition": "2,4-Diamino-6-nitrotoluene + Acetyl-CoA <=> 4-Acetamido-2-amino-6-nitrotoluene + CoA",
+    "equation": "C16396 + C00024 <=> C16420 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.5"
+    ],
+    "pathways": {
+      "rn00633": "Nitrotoluene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00622": "arylamine N-acetyltransferase [EC:2.3.1.5]"
+    }
+  }
+][
+  {
+    "entry_id": "R08036",
+    "name": "acetyl-CoA:2,4-diamino-6-nitrotoluene N-acetyltransferase",
+    "definition": "2,4-Diamino-6-nitrotoluene + Acetyl-CoA <=> 4-Acetamido-2-amino-6-nitrotoluene + CoA",
+    "equation": "C16396 + C00024 <=> C16420 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.5"
+    ],
+    "pathways": {
+      "rn00633": "Nitrotoluene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00622": "arylamine N-acetyltransferase [EC:2.3.1.5]"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02575",
+    "name": "ATP:guanidoacetate N-phosphotransferase",
+    "definition": "ATP + Guanidinoacetate <=> ADP + Phosphoguanidinoacetate",
+    "equation": "C00002 + C00581 <=> C00008 + C03166",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.3.1"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

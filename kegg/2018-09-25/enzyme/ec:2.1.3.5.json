@@ -1,0 +1,630 @@
+[
+  {
+    "entry_id": "2.1.3.5",
+    "name": "oxamate carbamoyltransferase",
+    "names": [
+      "oxamate carbamoyltransferase",
+      "oxamic transcarbamylase"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring one-carbon groups;",
+      "Carboxy- and carbamoyltransferases"
+    ],
+    "sysname": "carbamoyl-phosphate:oxamate carbamoyltransferase",
+    "reaction": "carbamoyl phosphate + oxamate = phosphate + N-carbamoyl-2-oxoglycine [RN:R02937]",
+    "all_reac": "R02937",
+    "iubmb_reactions": [
+      "R02937"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "carbamoyl phosphate [CPD:C00169]",
+      "oxamate [CPD:C01444]"
+    ],
+    "products": [
+      "phosphate [CPD:C00009]",
+      "N-carbamoyl-2-oxoglycine [CPD:C00802]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "",
+    "pathways": {
+      "ec00230": "Purine metabolism",
+      "ec01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K22601": "oxamate carbamoyltransferase"
+    },
+    "genes": {
+      "enc": [
+        "ECL_02659"
+      ],
+      "eno": [
+        "ECENHK_08040"
+      ],
+      "eec": [
+        "EcWSU1_01575"
+      ],
+      "enl": [
+        "A3UG_07990"
+      ],
+      "eclg": [
+        "EC036_15380"
+      ],
+      "ecln": [
+        "ECNIH4_14600"
+      ],
+      "eas": [
+        "Entas_1503"
+      ],
+      "eau": [
+        "DI57_10825"
+      ],
+      "ekb": [
+        "BFV64_08020"
+      ],
+      "elg": [
+        "BH714_03970"
+      ],
+      "ecls": [
+        "LI67_009095"
+      ],
+      "ern": [
+        "BFV67_07620"
+      ],
+      "enr": [
+        "H650_20060"
+      ],
+      "enx": [
+        "NI40_007525"
+      ],
+      "enf": [
+        "AKI40_4040"
+      ],
+      "kpn": [
+        "KPN_01770"
+      ],
+      "kpu": [
+        "KP1_2819"
+      ],
+      "kpm": [
+        "KPHS_27190",
+        "KPHS_27200"
+      ],
+      "kpp": [
+        "A79E_2464"
+      ],
+      "kpk": [
+        "A593_23645"
+      ],
+      "kph": [
+        "KPNIH24_14725"
+      ],
+      "kpz": [
+        "KPNIH27_13060"
+      ],
+      "kpv": [
+        "KPNIH29_13680"
+      ],
+      "kpw": [
+        "KPNIH30_13990"
+      ],
+      "kpy": [
+        "KPNIH31_12985"
+      ],
+      "kpg": [
+        "KPNIH32_13835"
+      ],
+      "kpc": [
+        "KPNIH10_13510"
+      ],
+      "kpq": [
+        "KPR0928_13535"
+      ],
+      "kpt": [
+        "VK055_0719"
+      ],
+      "kpe": [
+        "KPK_2600"
+      ],
+      "kpo": [
+        "KPN2242_11730"
+      ],
+      "kpj": [
+        "N559_2531"
+      ],
+      "kpi": [
+        "D364_09070"
+      ],
+      "kpa": [
+        "KPNJ1_02722"
+      ],
+      "kps": [
+        "KPNJ2_02676"
+      ],
+      "kpx": [
+        "PMK1_04109"
+      ],
+      "kpb": [
+        "FH42_04885"
+      ],
+      "kpnu": [
+        "LI86_12605"
+      ],
+      "kpnk": [
+        "BN49_2859"
+      ],
+      "kva": [
+        "Kvar_2542"
+      ],
+      "kvd": [
+        "KR75_21570"
+      ],
+      "kvq": [
+        "SP68_02355"
+      ],
+      "kox": [
+        "KOX_16785"
+      ],
+      "koe": [
+        "A225_2204"
+      ],
+      "koy": [
+        "J415_20755"
+      ],
+      "kom": [
+        "HR38_15305"
+      ],
+      "kmi": [
+        "VW41_04090"
+      ],
+      "kok": [
+        "KONIH1_10785"
+      ],
+      "koc": [
+        "AB185_25350"
+      ],
+      "kqu": [
+        "AVR78_17795"
+      ],
+      "eae": [
+        "EAE_19165"
+      ],
+      "ear": [
+        "CCG30049"
+      ],
+      "kqv": [
+        "B8P98_13720"
+      ],
+      "gqu": [
+        "AWC35_07765"
+      ],
+      "ror": [
+        "RORB6_09680"
+      ],
+      "ron": [
+        "TE10_10890"
+      ],
+      "rpln": [
+        "B1209_17575"
+      ],
+      "rao": [
+        "DSD31_16315"
+      ],
+      "cnt": [
+        "JT31_08175"
+      ],
+      "cem": [
+        "LH23_09545"
+      ],
+      "cen": [
+        "LH86_09600"
+      ],
+      "pge": [
+        "LG71_23965"
+      ],
+      "ksa": [
+        "C813_10500"
+      ],
+      "kor": [
+        "AWR26_16040"
+      ],
+      "krd": [
+        "A3780_08250"
+      ],
+      "kco": [
+        "BWI95_10255"
+      ],
+      "kin": [
+        "AB182_20535"
+      ],
+      "icp": [
+        "ICMP_515"
+      ],
+      "lni": [
+        "CWR52_04255"
+      ],
+      "sbw": [
+        "TGUWTKB_0800"
+      ],
+      "ebc": [
+        "C2U52_02130"
+      ],
+      "psts": [
+        "E05_03720"
+      ],
+      "ype": [
+        "YPO3261"
+      ],
+      "ypk": [
+        "y0928"
+      ],
+      "yph": [
+        "YPC_3558"
+      ],
+      "ypa": [
+        "YPA_2752"
+      ],
+      "ypn": [
+        "YPN_0835"
+      ],
+      "ypm": [
+        "YP_0671"
+      ],
+      "ypp": [
+        "YPDSF_2897"
+      ],
+      "ypg": [
+        "YpAngola_A3453"
+      ],
+      "ypz": [
+        "YPZ3_2865"
+      ],
+      "ypt": [
+        "A1122_09675"
+      ],
+      "ypd": [
+        "YPD4_2853"
+      ],
+      "ypx": [
+        "YPD8_2847"
+      ],
+      "ypw": [
+        "CH59_2802"
+      ],
+      "ypj": [
+        "CH55_1830"
+      ],
+      "ypv": [
+        "BZ15_274"
+      ],
+      "ypl": [
+        "CH46_1846"
+      ],
+      "yps": [
+        "YPTB0862"
+      ],
+      "ypo": [
+        "BZ17_1683"
+      ],
+      "ypi": [
+        "YpsIP31758_3194"
+      ],
+      "ypy": [
+        "YPK_3332"
+      ],
+      "ypb": [
+        "YPTS_0904"
+      ],
+      "ypq": [
+        "DJ40_1502"
+      ],
+      "ypu": [
+        "BZ21_108"
+      ],
+      "ypr": [
+        "BZ20_1184"
+      ],
+      "ypc": [
+        "BZ23_385"
+      ],
+      "ypf": [
+        "BZ19_221"
+      ],
+      "yep": [
+        "YE105_C1019"
+      ],
+      "yey": [
+        "Y11_21731"
+      ],
+      "yel": [
+        "LC20_01247"
+      ],
+      "yet": [
+        "CH48_2594"
+      ],
+      "yef": [
+        "FORC2_3200"
+      ],
+      "yee": [
+        "YE5303_37021"
+      ],
+      "ysi": [
+        "BF17_12710"
+      ],
+      "spe": [
+        "Spro_0928"
+      ],
+      "srr": [
+        "SerAS9_0851"
+      ],
+      "srl": [
+        "SOD_c07820"
+      ],
+      "sry": [
+        "M621_04315"
+      ],
+      "sply": [
+        "Q5A_004165"
+      ],
+      "srs": [
+        "SerAS12_0851"
+      ],
+      "sra": [
+        "SerAS13_0851"
+      ],
+      "smaf": [
+        "D781_1711"
+      ],
+      "slq": [
+        "M495_03925"
+      ],
+      "sers": [
+        "SERRSCBI_04030"
+      ],
+      "srz": [
+        "AXX16_3412"
+      ],
+      "sera": [
+        "Ser39006_007560"
+      ],
+      "serm": [
+        "CLM71_08280"
+      ],
+      "rah": [
+        "Rahaq_0929"
+      ],
+      "raq": [
+        "Rahaq2_0996"
+      ],
+      "raa": [
+        "Q7S_04395"
+      ],
+      "eca": [
+        "ECA3499"
+      ],
+      "patr": [
+        "EV46_17325"
+      ],
+      "pato": [
+        "GZ59_35130"
+      ],
+      "pct": [
+        "PC1_3317"
+      ],
+      "pcc": [
+        "PCC21_033180"
+      ],
+      "pcv": [
+        "BCS7_16715"
+      ],
+      "pwa": [
+        "Pecwa_3473"
+      ],
+      "ppar": [
+        "A8F97_01260"
+      ],
+      "pec": [
+        "W5S_3609"
+      ],
+      "pws": [
+        "A7983_13220"
+      ],
+      "ppoa": [
+        "BJK05_11550"
+      ],
+      "dda": [
+        "Dd703_0903"
+      ],
+      "ddd": [
+        "Dda3937_00909"
+      ],
+      "dze": [
+        "Dd1591_0873"
+      ],
+      "ddc": [
+        "Dd586_3272"
+      ],
+      "dzc": [
+        "W909_15650"
+      ],
+      "dso": [
+        "A4U42_04250"
+      ],
+      "ced": [
+        "LH89_17395"
+      ],
+      "ddq": [
+        "DDI_3229"
+      ],
+      "dfn": [
+        "CVE23_17430"
+      ],
+      "eta": [
+        "ETA_26260"
+      ],
+      "epy": [
+        "EpC_27510"
+      ],
+      "epr": [
+        "EPYR_02987"
+      ],
+      "eam": [
+        "EAMY_0854"
+      ],
+      "eay": [
+        "EAM_0866"
+      ],
+      "ebi": [
+        "EbC_08550"
+      ],
+      "erj": [
+        "EJP617_19830"
+      ],
+      "ege": [
+        "EM595_0848"
+      ],
+      "pam": [
+        "PANA_0856"
+      ],
+      "plf": [
+        "PANA5342_3451"
+      ],
+      "paj": [
+        "PAJ_0192"
+      ],
+      "paq": [
+        "PAGR_g3344"
+      ],
+      "pva": [
+        "Pvag_0250"
+      ],
+      "pagg": [
+        "AL522_08205"
+      ],
+      "pao": [
+        "Pat9b_0795"
+      ],
+      "kln": [
+        "LH22_18240"
+      ],
+      "pant": [
+        "PSNIH1_08940"
+      ],
+      "panp": [
+        "PSNIH2_13775"
+      ],
+      "hhs": [
+        "HHS_08200"
+      ],
+      "pck": [
+        "BMSBPS_0454"
+      ],
+      "pagc": [
+        "BEE12_10945"
+      ],
+      "pstw": [
+        "DSJ_19480"
+      ],
+      "palh": [
+        "B1H58_02820"
+      ],
+      "pgz": [
+        "C2E15_04990"
+      ],
+      "pcd": [
+        "C2E16_04915"
+      ],
+      "tci": [
+        "A7K98_15620"
+      ],
+      "tpty": [
+        "NCTC11468_02973",
+        "NCTC11468_02974"
+      ],
+      "pses": [
+        "PSCI_5247"
+      ],
+      "bgo": [
+        "BM43_4100"
+      ],
+      "pter": [
+        "C2L65_36020"
+      ],
+      "rsb": [
+        "RS694_04990"
+      ],
+      "shz": [
+        "shn_29660"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.1.3.5"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.1.3.5"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.1.3.5"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.1.3.5"
+      ],
+      "CAS": [
+        "62213-52-9"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "BOJANOWSKI R",
+          "GAUDY E",
+          "VALENTINE RC",
+          "WOLFE RS."
+        ],
+        "title": "OXAMIC TRANSCARBAMYLASE OF STREPTOCOCCUS ALLANTOICUS.",
+        "journal": "J Bacteriol",
+        "volume": "87",
+        "issue": "",
+        "pages": "75-80",
+        "year": "1964",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:14102876]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

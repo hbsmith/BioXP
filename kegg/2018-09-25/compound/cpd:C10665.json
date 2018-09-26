@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C10665",
+    "name": "Echinorine",
+    "names": [
+      "Echinorine",
+      "Quinolinium, 4-methoxy-1-methyl-"
+    ],
+    "formula": "C11H12NO",
+    "exact_mass": 174.0919,
+    "mol_weight": 174.2191,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "18095-64-2"
+      ],
+      "PubChem": [
+        "12848"
+      ],
+      "ChEBI": [
+        "4750"
+      ],
+      "KNApSAcK": [
+        "C00002155"
+      ],
+      "3DMET": [
+        "B04041"
+      ],
+      "NIKKAJI": [
+        "J13.375B"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8x C    24.2542  -17.3656\n            2   C8x C    24.2542  -18.7671\n            3   C8x C    25.4716  -19.4643\n            4   C8x C    25.4716  -16.6615\n            5   C8y C    26.6821  -17.3656\n            6   C8y C    26.6761  -18.7671\n            7   N5y N    27.8876  -19.4693 #+\n            8   C8x C    29.0983  -18.7774\n            9   C8x C    29.1042  -17.3759\n            10  C8y C    27.8996  -16.6666\n            11  O2a O    27.9580  -15.2600\n            12  C1a C    27.8738  -20.8657\n            13  C1a C    26.6746  -14.5728\nBOND        14\n            1     3   6 1\n            2     5   4 1\n            3     4   1 2\n            4     5   6 2\n            5     6   7 1\n            6     7   8 2\n            7     8   9 1\n            8     9  10 2\n            9    10   5 1\n            10   10  11 1\n            11    1   2 1\n            12    7  12 1\n            13    2   3 2\n            14   11  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

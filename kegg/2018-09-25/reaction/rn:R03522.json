@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R03522",
+    "name": "RX:glutathione R-transferase",
+    "definition": "RX + Glutathione <=> Halide + R-S-Glutathione",
+    "equation": "C01322 + C00051 <=> C00462 + C02320",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.18"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism"
+    },
+    "orthologs": {
+      "K00799": "glutathione S-transferase [EC:2.5.1.18]",
+      "K04097": "prostaglandin-H2 D-isomerase / glutathione transferase [EC:5.3.99.2 2.5.1.18]",
+      "K13299": "glutathione S-transferase kappa 1 [EC:2.5.1.18]",
+      "K21888": "glutathione dehydrogenase/transferase [EC:1.8.5.1 2.5.1.18]"
+    }
+  }
+]

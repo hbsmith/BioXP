@@ -1,0 +1,389 @@
+[
+  {
+    "entry_id": "2.7.3.13",
+    "name": "glutamine kinase",
+    "names": [
+      "glutamine kinase"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring phosphorus-containing groups;",
+      "Phosphotransferases with a nitrogenous group as acceptor"
+    ],
+    "sysname": "ATP:L-glutamine N5-phosphotransferase",
+    "reaction": "ATP + L-glutamine + H2O = AMP + phosphate + N5-phospho-L-glutamine [RN:R11941]",
+    "all_reac": "R11941",
+    "iubmb_reactions": [
+      "R11941"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "ATP [CPD:C00002]",
+      "L-glutamine [CPD:C00064]",
+      "H2O [CPD:C00001]"
+    ],
+    "products": [
+      "AMP [CPD:C00020]",
+      "phosphate [CPD:C00009]",
+      "N5-phospho-L-glutamine [CPD:C21785]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, characterized from the bacterium Campylobacter jejuni, is involved in formation of a unique O-methyl phosphoramidate modification on specific sugar residues within the bacterium's capsular polysaccharides.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22424": "glutamine kinase"
+    },
+    "genes": {
+      "ddc": [
+        "Dd586_1831"
+      ],
+      "pmk": [
+        "MDS_1828"
+      ],
+      "ppu": [
+        "PP_0728"
+      ],
+      "ppb": [
+        "PPUBIRD1_0774"
+      ],
+      "pput": [
+        "L483_03695",
+        "L483_03700"
+      ],
+      "ppud": [
+        "DW66_0747"
+      ],
+      "pmon": [
+        "X969_02150"
+      ],
+      "pmot": [
+        "X970_02130"
+      ],
+      "pfo": [
+        "Pfl01_5512"
+      ],
+      "pch": [
+        "EY04_30530"
+      ],
+      "pcz": [
+        "PCL1606_01900"
+      ],
+      "pcp": [
+        "JM49_01210"
+      ],
+      "plq": [
+        "AA042_05475"
+      ],
+      "psem": [
+        "TO66_30415"
+      ],
+      "spl": [
+        "Spea_1404"
+      ],
+      "mhc": [
+        "MARHY0657"
+      ],
+      "mmt": [
+        "Metme_1177"
+      ],
+      "hha": [
+        "Hhal_0771"
+      ],
+      "ome": [
+        "OLMES_3127"
+      ],
+      "aha": [
+        "AHA_4154"
+      ],
+      "ahh": [
+        "RY45_21640"
+      ],
+      "aeo": [
+        "O23A_p3861"
+      ],
+      "adh": [
+        "CK627_03025"
+      ],
+      "tho": [
+        "SP60_02260"
+      ],
+      "cti": [
+        "pRALTA_0398"
+      ],
+      "bbro": [
+        "BAU06_24700"
+      ],
+      "achr": [
+        "C2U31_03835"
+      ],
+      "cdn": [
+        "BN940_10771"
+      ],
+      "hhe": [
+        "HH_1436"
+      ],
+      "hcp": [
+        "HCN_1067"
+      ],
+      "hcb": [
+        "HCBAA847_0908"
+      ],
+      "hbl": [
+        "XJ32_09975"
+      ],
+      "had": [
+        "CDV25_08800"
+      ],
+      "wsu": [
+        "WS2180"
+      ],
+      "cje": [
+        "Cj1418c"
+      ],
+      "cjb": [
+        "BN148_1418c"
+      ],
+      "cjj": [
+        "CJJ81176_1417"
+      ],
+      "cju": [
+        "C8J_0639"
+      ],
+      "cji": [
+        "CJSA_1349"
+      ],
+      "cjm": [
+        "CJM1_0657"
+      ],
+      "cjp": [
+        "A911_06900"
+      ],
+      "cjej": [
+        "N564_01415"
+      ],
+      "cjeu": [
+        "N565_01455"
+      ],
+      "cjen": [
+        "N755_01452"
+      ],
+      "cjei": [
+        "N135_01507"
+      ],
+      "cjer": [
+        "H730_08045"
+      ],
+      "cjv": [
+        "MTVDSCj20_0696"
+      ],
+      "cjy": [
+        "QZ67_01553"
+      ],
+      "cjq": [
+        "UC78_1360"
+      ],
+      "cjw": [
+        "PJ18_07245"
+      ],
+      "cjd": [
+        "JJD26997_1751"
+      ],
+      "cjz": [
+        "M635_02765"
+      ],
+      "cjx": [
+        "BN867_06860"
+      ],
+      "cff": [
+        "CFF8240_1630"
+      ],
+      "cft": [
+        "CFF04554_1632"
+      ],
+      "cfv": [
+        "CFVI03293_1654"
+      ],
+      "cfx": [
+        "CFV97608_1757"
+      ],
+      "cfz": [
+        "CSG_17640"
+      ],
+      "camp": [
+        "CFT03427_1582"
+      ],
+      "cfp": [
+        "CR44_08040"
+      ],
+      "cla": [
+        "Cla_0314"
+      ],
+      "cln": [
+        "UPTC3659_1407"
+      ],
+      "cll": [
+        "CONCH_1264"
+      ],
+      "ccol": [
+        "BN865_14280"
+      ],
+      "ccf": [
+        "YSQ_05940"
+      ],
+      "ccy": [
+        "YSS_03100"
+      ],
+      "ccoi": [
+        "YSU_05590"
+      ],
+      "cis": [
+        "CINS_0304"
+      ],
+      "csm": [
+        "CSUB8521_0346"
+      ],
+      "csf": [
+        "CSUB8523_0328"
+      ],
+      "chv": [
+        "CHELV3228_1343"
+      ],
+      "ccun": [
+        "CCUN_1305"
+      ],
+      "glo": [
+        "Glov_3394"
+      ],
+      "dvm": [
+        "DvMF_0014"
+      ],
+      "doa": [
+        "AXF15_00620"
+      ],
+      "ccx": [
+        "COCOR_06829"
+      ],
+      "avi": [
+        "Avi_7108"
+      ],
+      "mgy": [
+        "MGMSRv2__3405"
+      ],
+      "magx": [
+        "XM1_2455"
+      ],
+      "ali": [
+        "AZOLI_p60024"
+      ],
+      "ati": [
+        "AL072_31790"
+      ],
+      "azm": [
+        "DM194_26725"
+      ],
+      "pel": [
+        "SAR11G3_00124",
+        "SAR11G3_00125"
+      ],
+      "mai": [
+        "MICA_1012"
+      ],
+      "paee": [
+        "R70331_05225"
+      ],
+      "pih": [
+        "UB51_00295"
+      ],
+      "coo": [
+        "CCU_12650"
+      ],
+      "led": [
+        "BBK82_30185"
+      ],
+      "pmad": [
+        "BAY61_25150"
+      ],
+      "pmf": [
+        "P9303_29441"
+      ],
+      "nph": [
+        "NP_1948A"
+      ],
+      "naj": [
+        "B1756_14540"
+      ],
+      "nmr": [
+        "Nmar_0660"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.7.3.13"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.7.3.13"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.7.3.13"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.7.3.13"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Taylor ZW",
+          "Brown HA",
+          "Narindoshvili T",
+          "Wenzel CQ",
+          "Szymanski CM",
+          "Holden HM",
+          "Raushel FM"
+        ],
+        "title": "Discovery of a Glutamine Kinase Required for the Biosynthesis of the O-Methyl Phosphoramidate Modifications Found in the Capsular Polysaccharides of Campylobacter jejuni.",
+        "journal": "J Am Chem Soc 139:9463-9466 (2017) DOI:10.1021/jacs.7b04824",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:28650156]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

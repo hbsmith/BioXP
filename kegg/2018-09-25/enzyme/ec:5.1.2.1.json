@@ -1,0 +1,567 @@
+[
+  {
+    "entry_id": "5.1.2.1",
+    "name": "lactate racemase",
+    "names": [
+      "lactate racemase",
+      "lacticoracemase",
+      "hydroxyacid racemase",
+      "lactic acid racemase",
+      "larA (gene name)"
+    ],
+    "classes": [
+      "Isomerases;",
+      "Racemases and epimerases;",
+      "Acting on hydroxy acids and derivatives"
+    ],
+    "sysname": "lactate racemase",
+    "reaction": "(S)-lactate = (R)-lactate [RN:R01450]",
+    "all_reac": "R01450",
+    "iubmb_reactions": [
+      "R01450"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "(S)-lactate [CPD:C00186]"
+    ],
+    "products": [
+      "(R)-lactate [CPD:C00256]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme has been characterized from the bacterium Lactobacillus plantarum and appears to be restricted to lactic acid bacteria. It contains a unique nickel-containing cofactor, pyridinium-3-thioamide-5-thiocarboxylate mononucleotide Ni pincer complex.",
+    "pathways": {
+      "ec00620": "Pyruvate metabolism"
+    },
+    "orthologs": {
+      "K22373": "lactate racemase"
+    },
+    "genes": {
+      "tci": [
+        "A7K98_01695"
+      ],
+      "des": [
+        "DSOUD_0135"
+      ],
+      "lpl": [
+        "lp_0104"
+      ],
+      "lpj": [
+        "JDM1_0105"
+      ],
+      "lpt": [
+        "zj316_0313"
+      ],
+      "lps": [
+        "LPST_C0085"
+      ],
+      "lpr": [
+        "LBP_cg0087"
+      ],
+      "lpz": [
+        "Lp16_0097"
+      ],
+      "lpb": [
+        "SH83_00445"
+      ],
+      "lsa": [
+        "LCA_0784"
+      ],
+      "lbr": [
+        "LVIS_1849"
+      ],
+      "lbk": [
+        "LVISKB_1832"
+      ],
+      "lfe": [
+        "LAF_1733"
+      ],
+      "lfr": [
+        "LC40_1101"
+      ],
+      "lff": [
+        "LBFF_1915"
+      ],
+      "lpx": [
+        "ASU28_03250"
+      ],
+      "lpd": [
+        "AYR62_03140"
+      ],
+      "lbt": [
+        "AYR52_09980"
+      ],
+      "lcv": [
+        "FBA2_04095"
+      ],
+      "lpg": [
+        "BB562_00435"
+      ],
+      "lcy": [
+        "LC20004_11480"
+      ],
+      "ppe": [
+        "PEPE_1694"
+      ],
+      "ppen": [
+        "T256_08335"
+      ],
+      "pce": [
+        "PECL_1783"
+      ],
+      "efi": [
+        "OG1RF_11545"
+      ],
+      "cac": [
+        "CA_C0769"
+      ],
+      "cae": [
+        "SMB_G0785"
+      ],
+      "cay": [
+        "CEA_G0780"
+      ],
+      "cbo": [
+        "CBO1006"
+      ],
+      "cba": [
+        "CLB_1046"
+      ],
+      "cbh": [
+        "CLC_1059"
+      ],
+      "cby": [
+        "CLM_1161"
+      ],
+      "cbl": [
+        "CLK_0446"
+      ],
+      "cbb": [
+        "CLD_3560"
+      ],
+      "cbi": [
+        "CLJ_B1051"
+      ],
+      "cbf": [
+        "CLI_1088"
+      ],
+      "cbm": [
+        "CBF_1058"
+      ],
+      "cbj": [
+        "H04402_01079"
+      ],
+      "cbe": [
+        "Cbei_2495"
+      ],
+      "cbz": [
+        "Cbs_2495"
+      ],
+      "cbei": [
+        "LF65_03034"
+      ],
+      "clj": [
+        "CLJU_c04620",
+        "CLJU_c15560",
+        "CLJU_c21600"
+      ],
+      "cls": [
+        "CXIVA_03220"
+      ],
+      "csr": [
+        "Cspa_c08140"
+      ],
+      "cpas": [
+        "Clopa_3455"
+      ],
+      "cpat": [
+        "CLPA_c14440"
+      ],
+      "cpae": [
+        "CPAST_c14440"
+      ],
+      "csb": [
+        "CLSA_c25170"
+      ],
+      "cah": [
+        "CAETHG_0247",
+        "CAETHG_2534"
+      ],
+      "cbv": [
+        "U729_1766"
+      ],
+      "csq": [
+        "CSCA_2486"
+      ],
+      "cace": [
+        "CACET_c19130"
+      ],
+      "cck": [
+        "Ccar_02270"
+      ],
+      "cbut": [
+        "ATN24_08795"
+      ],
+      "ctyk": [
+        "CTK_C15740"
+      ],
+      "ceu": [
+        "A7L45_05825"
+      ],
+      "cfm": [
+        "BJL90_04475",
+        "BJL90_04880"
+      ],
+      "cdrk": [
+        "B9W14_07265"
+      ],
+      "amt": [
+        "Amet_3746"
+      ],
+      "clo": [
+        "HMPREF0868_1179"
+      ],
+      "rbp": [
+        "B6259_01775"
+      ],
+      "cct": [
+        "CC1_25140"
+      ],
+      "cbol": [
+        "CGC65_04965"
+      ],
+      "cdf": [
+        "CD630_11700"
+      ],
+      "pdc": [
+        "CDIF630_01318"
+      ],
+      "cdc": [
+        "CD196_1029"
+      ],
+      "cdl": [
+        "CDR20291_1007"
+      ],
+      "pdf": [
+        "CD630DERM_11700"
+      ],
+      "psor": [
+        "RSJ16_12235"
+      ],
+      "ddl": [
+        "Desdi_0660"
+      ],
+      "hmo": [
+        "HM1_1638"
+      ],
+      "elm": [
+        "ELI_3629"
+      ],
+      "ehl": [
+        "EHLA_0978",
+        "EHLA_2288"
+      ],
+      "awo": [
+        "Awo_c08750"
+      ],
+      "ibu": [
+        "IB211_02523"
+      ],
+      "bprs": [
+        "CK3_17920"
+      ],
+      "tep": [
+        "TepRe1_2020"
+      ],
+      "tae": [
+        "TepiRe1_2177"
+      ],
+      "ttm": [
+        "Tthe_1662"
+      ],
+      "tto": [
+        "Thethe_01669"
+      ],
+      "aar": [
+        "Acear_1799"
+      ],
+      "apr": [
+        "Apre_1605"
+      ],
+      "vpr": [
+        "Vpar_0984"
+      ],
+      "vat": [
+        "B7L28_04765",
+        "B7L28_09095"
+      ],
+      "vrm": [
+        "44547418_01867",
+        "44547418_01869"
+      ],
+      "med": [
+        "MELS_2220"
+      ],
+      "mhw": [
+        "ACT01_13720"
+      ],
+      "ssg": [
+        "Selsp_1967"
+      ],
+      "sri": [
+        "SELR_22070"
+      ],
+      "olo": [
+        "ADJ70_04050"
+      ],
+      "caer": [
+        "CSV91_09285"
+      ],
+      "vbc": [
+        "C5Q97_07830"
+      ],
+      "sgp": [
+        "SpiGrapes_3097"
+      ],
+      "amo": [
+        "Anamo_1826",
+        "Anamo_1978"
+      ],
+      "cpor": [
+        "BED41_03845"
+      ],
+      "minf": [
+        "MESINF_1531"
+      ],
+      "loki": [
+        "Lokiarch_28170",
+        "Lokiarch_29640"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "5.1.2.1"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "5.1.2.1"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "5.1.2.1"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "5.1.2.1"
+      ],
+      "CAS": [
+        "9024-05-9"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "HUENNEKENS FM",
+          "MAHLER HR",
+          "NORDMANN J."
+        ],
+        "title": "Studies on the cyclophorase system. XVII. The occurrence and properties of an alpha-hydroxy acid racemose.",
+        "journal": "Arch Biochem",
+        "volume": "30",
+        "issue": "",
+        "pages": "77-89",
+        "year": "1951",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:14800428]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kitahara",
+          "K.",
+          "Obayashi",
+          "A. and Fukui",
+          "S."
+        ],
+        "title": "Racemase I cell-free racemase.",
+        "journal": "Enzymologia",
+        "volume": "15",
+        "issue": "",
+        "pages": "259-266",
+        "year": "1953",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Goffin P",
+          "Deghorain M",
+          "Mainardi JL",
+          "Tytgat I",
+          "Champomier-Verges MC",
+          "Kleerebezem M",
+          "Hols P"
+        ],
+        "title": "Lactate racemization as a rescue pathway for supplying D-lactate to the cell wall biosynthesis machinery in Lactobacillus plantarum.",
+        "journal": "J Bacteriol 187:6750-61 (2005) DOI:10.1128/JB.187.19.6750-6761.2005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:16166538]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Desguin B",
+          "Goffin P",
+          "Viaene E",
+          "Kleerebezem M",
+          "Martin-Diaconescu V",
+          "Maroney MJ",
+          "Declercq JP",
+          "Soumillion P",
+          "Hols P"
+        ],
+        "title": "Lactate racemase is a nickel-dependent enzyme activated by a widespread maturation system.",
+        "journal": "Nat Commun 5:3615 (2014) DOI:10.1038/ncomms4615",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:24710389]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Desguin B",
+          "Zhang T",
+          "Soumillion P",
+          "Hols P",
+          "Hu J",
+          "Hausinger RP"
+        ],
+        "title": "METALLOPROTEINS. A tethered niacin-derived pincer complex with a nickel-carbon bond in lactate racemase.",
+        "journal": "Science 349:66-9 (2015) DOI:10.1126/science.aab2272",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "5  [PMID:26138974]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yu MJ",
+          "Chen SL"
+        ],
+        "title": "From NAD+ to Nickel Pincer Complex: A Significant Cofactor Evolution Presented by Lactate Racemase.",
+        "journal": "Chemistry 23:7545-7557 (2017) DOI:10.1002/chem.201700405",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "6  [PMID:28374531]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

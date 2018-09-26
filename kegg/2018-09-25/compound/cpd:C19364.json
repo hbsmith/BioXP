@@ -1,0 +1,85 @@
+[
+  {
+    "entry_id": "C19364",
+    "name": "1-Chloro-3-nitrobenzene",
+    "names": [
+      "1-Chloro-3-nitrobenzene"
+    ],
+    "formula": "C6H4ClNO2",
+    "exact_mass": 156.9931,
+    "mol_weight": 157.5545,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "121-73-3"
+      ],
+      "PubChem": [
+        "124490036"
+      ],
+      "ChEBI": [
+        "82420"
+      ],
+      "ChEMBL": [
+        "CHEMBL166812"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    27.8322  -16.7233\n            2   C8x C    27.8322  -18.0987\n            3   C8x C    29.0233  -18.7864\n            4   C8x C    30.2145  -18.0987\n            5   C8y C    30.2145  -16.7233\n            6   C8x C    29.0233  -16.0356\n            7   X   Cl   31.4239  -16.0248\n            8   N2b N    26.6411  -16.0356 #+\n            9   O3a O    25.1916  -16.7138 #-\n            10  O3a O    26.6410  -14.6604\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     1   8 1\n            9     8   9 1\n            10    8  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C19364",
+    "name": "1-Chloro-3-nitrobenzene",
+    "names": [
+      "1-Chloro-3-nitrobenzene"
+    ],
+    "formula": "C6H4ClNO2",
+    "exact_mass": 156.9931,
+    "mol_weight": 157.5545,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "121-73-3"
+      ],
+      "PubChem": [
+        "124490036"
+      ],
+      "ChEBI": [
+        "82420"
+      ],
+      "ChEMBL": [
+        "CHEMBL166812"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    27.8322  -16.7233\n            2   C8x C    27.8322  -18.0987\n            3   C8x C    29.0233  -18.7864\n            4   C8x C    30.2145  -18.0987\n            5   C8y C    30.2145  -16.7233\n            6   C8x C    29.0233  -16.0356\n            7   X   Cl   31.4239  -16.0248\n            8   N2b N    26.6411  -16.0356 #+\n            9   O3a O    25.1916  -16.7138 #-\n            10  O3a O    26.6410  -14.6604\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     1   8 1\n            9     8   9 1\n            10    8  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R03387",
+    "name": "ATP:2-dehydro-3-deoxy-D-galactonate 6-phosphotransferase",
+    "definition": "ATP + 2-Dehydro-3-deoxy-D-galactonate <=> ADP + 2-Dehydro-3-deoxy-6-phospho-D-galactonate",
+    "equation": "C00002 + C01216 <=> C00008 + C01286",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.58",
+      "2.7.1.178"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00883": "2-dehydro-3-deoxygalactonokinase [EC:2.7.1.58]",
+      "K18126": "2-dehydro-3-deoxygluconokinase / 2-dehydro-3-deoxygalactonokinase [EC:2.7.1.178]"
+    }
+  }
+]

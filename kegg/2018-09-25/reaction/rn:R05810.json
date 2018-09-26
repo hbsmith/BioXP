@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05810",
+    "name": "cobalt-precorrin-4 methyltransferase",
+    "definition": "Cobalt-precorrin 4 + S-Adenosyl-L-methionine <=> Cobalt-precorrin 5A + S-Adenosyl-L-homocysteine",
+    "equation": "C11540 + C00019 <=> C16242 + C00021",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.271"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K05936": "precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271]"
+    }
+  }
+]

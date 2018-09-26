@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09273",
+    "name": "4-carboxy-2-hydroxy-6-methoxy-6-oxohexa-2,4-dienoate acylhydrolase",
+    "definition": "4-Carboxy-2-hydroxy-6-methoxy-6-oxohexa-2,4-dienoate + H2O <=> (1E)-4-Oxobut-1-ene-1,2,4-tricarboxylate + Methanol",
+    "equation": "C18345 + C00001 <=> C04434 + C00132",
+    "comment": "hydrolase",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

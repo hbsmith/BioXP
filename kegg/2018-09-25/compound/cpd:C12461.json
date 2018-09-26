@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C12461",
+    "name": "L-Tyrosyl-[pcp]",
+    "names": [
+      "L-Tyrosyl-[pcp]"
+    ],
+    "formula": "C9H10NO2SR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = PCP (peptidyl carrier protein)",
+    "reactions": [
+      "R06751",
+      "R06752"
+    ],
+    "pathways": {
+      "map00401": "Novobiocin biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "582851"
+      ],
+      "ChEBI": [
+        "31758"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    26.5085  -17.0659\n            2   C8x C    26.5085  -18.4709\n            3   C8x C    27.7269  -16.3611\n            4   C8x C    27.7269  -19.1771\n            5   C8x C    28.9511  -17.0659\n            6   C8y C    28.9511  -18.4709\n            7   O1a O    30.1578  -19.1712\n            8   C1b C    25.3176  -16.3800\n            9   C1c C    24.1051  -17.0800\n            10  C5a C    22.8927  -16.3800\n            11  S2a S    21.6803  -17.0800\n            12  R   R    20.2803  -17.0800\n            13  O5a O    22.8927  -14.9800\n            14  N1a N    24.1051  -18.4798\nBOND        14\n            1     1   2 1\n            2     1   3 2\n            3     2   4 2\n            4     3   5 1\n            5     4   6 1\n            6     6   7 1\n            7     5   6 2\n            8     1   8 1\n            9     8   9 1\n            10    9  10 1\n            11   10  11 1\n            12   11  12 1\n            13   10  13 2\n            14    9  14 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

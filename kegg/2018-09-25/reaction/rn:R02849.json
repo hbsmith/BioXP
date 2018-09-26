@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R02849",
+    "name": "ITP:D-hexose 6-phosphotransferase",
+    "definition": "ITP + D-Hexose <=> IDP + D-Hexose 6-phosphate",
+    "equation": "C00081 + C00738 <=> C00104 + C02965",
+    "comment": "general reaction (R00725, R00876, R01327, R01964 and R02867)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.1"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

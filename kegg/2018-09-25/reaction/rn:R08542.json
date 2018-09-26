@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08542",
+    "name": "(2E,6E)-Farnesyl-diphosphate diphosphate-lyase (longifolene-forming)",
+    "definition": "trans,trans-Farnesyl diphosphate <=> Longifolene + Diphosphate",
+    "equation": "C00448 <=> C09699 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.58"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K14185": "longifolene/alpha-longipinene synthase [EC:4.2.3.58 4.2.3.80]"
+    }
+  }
+]

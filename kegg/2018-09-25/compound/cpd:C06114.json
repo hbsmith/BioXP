@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C06114",
+    "name": "gamma-Glutamyl-beta-aminopropiononitrile",
+    "names": [
+      "gamma-Glutamyl-beta-aminopropiononitrile",
+      "gamma-Glutamyl-3-aminopropiononitrile"
+    ],
+    "formula": "C8H13N3O3",
+    "exact_mass": 199.0957,
+    "mol_weight": 199.2071,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03971"
+    ],
+    "pathways": {
+      "map00460": "Cyanoamino acid metabolism"
+    },
+    "enzymes": [
+      "2.3.2.2"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8376"
+      ],
+      "ChEBI": [
+        "28092"
+      ],
+      "3DMET": [
+        "B01974"
+      ],
+      "NIKKAJI": [
+        "J2.761.127C"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C5a C    26.4923  -20.9770\n            2   C1b C    27.7069  -20.2766\n            3   N1b N    25.2841  -20.2830\n            4   O5a O    26.4860  -22.3782\n            5   C1b C    28.9088  -20.9641\n            6   C1b C    24.0631  -20.9770\n            7   C1c C    30.1234  -20.2701\n            8   C1b C    22.8420  -20.2766\n            9   C6a C    31.3316  -20.9578\n            10  N1a N    30.1105  -18.8626\n            11  C3b C    21.6274  -20.9641\n            12  O6a O    32.5462  -20.2572\n            13  O6a O    31.3251  -22.3653\n            14  N3a N    20.4150  -21.6641\nBOND        13\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     3   6 1\n            6     5   7 1\n            7     6   8 1\n            8     7   9 1\n            9     7  10 1 #Down\n            10    8  11 1\n            11    9  12 1\n            12    9  13 2\n            13   11  14 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

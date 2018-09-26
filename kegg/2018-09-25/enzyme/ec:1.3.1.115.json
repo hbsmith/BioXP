@@ -1,0 +1,110 @@
+[
+  {
+    "entry_id": "1.3.1.115",
+    "name": "3-oxocholoyl-CoA 4-desaturase",
+    "names": [
+      "3-oxocholoyl-CoA 4-desaturase",
+      "baiCD (gene name)",
+      "3-oxo-choloyl-CoA dehydrogenase"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on the CH-CH group of donors;",
+      "With NAD+ or NADP+ as acceptor"
+    ],
+    "sysname": "3-oxocholoyl-CoA Delta4-oxidoreductase",
+    "reaction": "(1) 7alpha,12alpha-dihydroxy-3-oxochol-24-oyl-CoA + NAD+ = 7alpha,12alpha-dihydroxy-3-oxochol-4-en-24-oyl-CoA + NADH + H+ [RN:R12109]; (2) 7alpha-hydroxy-3-oxochol-24-oyl-CoA + NAD+ = 7alpha-hydroxy-3-oxochol-4-en-24-oyl-CoA + NADH + H+ [RN:R12110]",
+    "all_reac": "R12109 R12110",
+    "iubmb_reactions": [
+      "R12109 R12110"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "7alpha,12alpha-dihydroxy-3-oxochol-24-oyl-CoA [CPD:C21910]",
+      "NAD+ [CPD:C00003]",
+      "7alpha-hydroxy-3-oxochol-24-oyl-CoA [CPD:C21909]"
+    ],
+    "products": [
+      "7alpha,12alpha-dihydroxy-3-oxochol-4-en-24-oyl-CoA [CPD:C21469]",
+      "NADH [CPD:C00004]",
+      "H+ [CPD:C00080]",
+      "7alpha-hydroxy-3-oxochol-4-en-24-oyl-CoA [CPD:C21471]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "Contains flavin. The enzyme, characterized from the bacterium Clostridium scindens, participates in the bile acid 7alpha-dehydroxylation pathway. The enzyme catalyses the stereo-specific oxidation of its substrates and has no activity with the 7beta anomers. cf. EC 1.3.1.116, 7beta-hydroxy-3-oxochol-24-oyl-CoA 4-desaturase.",
+    "pathways": {
+      "ec00121": "Secondary bile acid biosynthesis"
+    },
+    "orthologs": {
+      "K15870": "3-oxocholoyl-CoA 4-desaturase"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.3.1.115"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.3.1.115"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.3.1.115"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.3.1.115"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Kang DJ",
+          "Ridlon JM",
+          "Moore DR 2nd",
+          "Barnes S",
+          "Hylemon PB"
+        ],
+        "title": "Clostridium scindens baiCD and baiH genes encode stereo-specific 7alpha/7beta-hydroxy-3-oxo-delta4-cholenoic acid oxidoreductases.",
+        "journal": "Biochim Biophys Acta 1781:16-25 (2008) DOI:10.1016/j.bbalip.2007.10.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:18047844]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

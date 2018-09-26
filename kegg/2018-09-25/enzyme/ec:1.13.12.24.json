@@ -1,0 +1,250 @@
+[
+  {
+    "entry_id": "1.13.12.24",
+    "name": "calcium-regulated photoprotein",
+    "names": [
+      "calcium-regulated photoprotein",
+      "Ca2+-regulated photoprotein",
+      "calcium-activated photoprotein",
+      "aequorin",
+      "obelin",
+      "halistaurin",
+      "mitrocomin",
+      "phialidin",
+      "clytin",
+      "mnemiopsin",
+      "berovin"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on single donors with incorporation of molecular oxygen (oxygenases);",
+      "With incorporation of one atom of oxygen (internal monooxygenases or internal mixed-function oxidases)"
+    ],
+    "sysname": "coelenterazine:oxygen 2-oxidoreductase (decarboxylating, calcium-dependent)",
+    "reaction": "[apoaequorin] + coelenterazine + O2 + 3 Ca2+ = [excited state blue fluorescent protein] + CO2 (overall reaction); (1a) [apoaequorin] + coelenterazine = [apoaequorin containing coelenterazine]; (1b) [apoaequorin containing coelenterazine] + O2 = [aequorin]; (1c) [aequorin] + 3 Ca2+ = [aequorin] 1,2-dioxetan-3-one; (1d) [aequorin] 1,2-dioxetan-3-one = [excited state blue fluorescent protein] + CO2",
+    "all_reac": "",
+    "iubmb_reactions": [
+
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "apoaequorin",
+      "coelenterazine [CPD:C15037]",
+      "O2 [CPD:C00007]",
+      "Ca2+ [CPD:C00076]",
+      "apoaequorin containing coelenterazine",
+      "aequorin",
+      "[aequorin] 1,2-dioxetan-3-one"
+    ],
+    "products": [
+      "excited state blue fluorescent protein",
+      "CO2 [CPD:C00011]",
+      "apoaequorin containing coelenterazine",
+      "aequorin",
+      "[aequorin] 1,2-dioxetan-3-one"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "Ca2+-regulated photoproteins are found in a variety of bioluminescent marine organisms, mostly coelenterates, and are responsible for their light emission. The best studied enzyme is from the jellyfish Aequorea victoria. The enzyme tightly binds the imidazolopyrazinone derivative coelenterazine, which is then peroxidized by oxygen. The hydroperoxide is stably bound until three Ca2+ ions bind to the protein, inducing a structural change that results in the formation of a 1,2-dioxetan-3-one ring, followed by decarboxylation and generation of a protein-bound coelenteramide in an excited state. The calcium-bound protein-product complex is known as a blue fluorescent protein. In vivo the energy is transferred to a green fluorescent protein (GFP) by Forster resonance energy transfer. In vitro, in the absence of GFP, coelenteramide emits a photon of blue light while returning to its ground state.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22619": "calcium-regulated photoprotein"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.13.12.24"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.13.12.24"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.13.12.24"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.13.12.24"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Shimomura",
+          "O.",
+          "Johnson",
+          "F. H.",
+          "and Saiga",
+          "Y."
+        ],
+        "title": "Purification and properties of aequorin, a bio-(chemi-) luminescent protein from the jellyfish, Aequorea aequorea.",
+        "journal": "Fed Proc 21:401",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1962",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Morise H",
+          "Shimomura O",
+          "Johnson FH",
+          "Winant J"
+        ],
+        "title": "Intermolecular energy transfer in the bioluminescent system of Aequorea.",
+        "journal": "Biochemistry",
+        "volume": "13",
+        "issue": "",
+        "pages": "2656-62",
+        "year": "1974",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:4151620]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Inouye S",
+          "Noguchi M",
+          "Sakaki Y",
+          "Takagi Y",
+          "Miyata T",
+          "Iwanaga S",
+          "Miyata T",
+          "Tsuji FI"
+        ],
+        "title": "Cloning and sequence analysis of cDNA for the luminescent protein aequorin.",
+        "journal": "Proc Natl Acad Sci U S A 82:3154-8 (1985) DOI:10.1073/pnas.82.10.3154",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:3858813]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Head JF",
+          "Inouye S",
+          "Teranishi K",
+          "Shimomura O"
+        ],
+        "title": "The crystal structure of the photoprotein aequorin at 2.3 A resolution.",
+        "journal": "Nature 405:372-6 (2000) DOI:10.1038/35012659",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:10830969]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Deng L",
+          "Vysotski ES",
+          "Markova SV",
+          "Liu ZJ",
+          "Lee J",
+          "Rose J",
+          "Wang BC"
+        ],
+        "title": "All three Ca2+-binding loops of photoproteins bind calcium ions: the crystal structures of calcium-loaded apo-aequorin and apo-obelin.",
+        "journal": "Protein Sci 14:663-75 (2005) DOI:10.1110/ps.041142905",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "5  [PMID:15689515]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

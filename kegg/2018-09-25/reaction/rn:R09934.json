@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R09934",
+    "name": "alpha-humulene,[reduced NADPH---hemoprotein reductase]:oxygen 10-oxidoreductase",
+    "definition": "Humulene + Oxygen + [Reduced NADPH---hemoprotein reductase] <=> 10-Hydroxy-alpha-humulene + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C09684 + C00007 + C03024 <=> C20229 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.113"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

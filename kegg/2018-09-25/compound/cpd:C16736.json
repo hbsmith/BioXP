@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C16736",
+    "name": "Thiol-containing reductant",
+    "names": [
+      "Thiol-containing reductant",
+      "R'-SH"
+    ],
+    "formula": "HSR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R07180"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.11.1.15"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023260"
+      ],
+      "ChEBI": [
+        "80696"
+      ]
+    },
+    "kcf": "ATOM        2\n            1   R   R    22.0500  -13.0200\n            2   S1a S    23.0399  -12.0301\nBOND        1\n            1     1   2 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

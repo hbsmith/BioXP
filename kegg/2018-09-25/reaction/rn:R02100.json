@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R02100",
+    "name": "dUTP nucleotidohydrolase",
+    "definition": "dUTP + H2O <=> dUMP + Diphosphate",
+    "equation": "C00460 + C00001 <=> C00365 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.23",
+      "3.6.1.-"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01519": "inosine triphosphate pyrophosphatase [EC:3.6.1.-]",
+      "K01520": "dUTP pyrophosphatase [EC:3.6.1.23]",
+      "K02428": "XTP/dITP diphosphohydrolase [EC:3.6.1.66]"
+    }
+  }
+]

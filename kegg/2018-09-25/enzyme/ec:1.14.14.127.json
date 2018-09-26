@@ -1,0 +1,256 @@
+[
+  {
+    "entry_id": "1.14.14.127",
+    "name": "methyl farnesoate epoxidase",
+    "names": [
+      "methyl farnesoate epoxidase",
+      "CYP15A1"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "methyl (2E,6E)-farnesoate,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase",
+    "reaction": "methyl (2E,6E)-farnesoate + [reduced NADPH---hemoprotein reductase] + O2 = juvenile hormone III + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R08148]",
+    "all_reac": "R08148",
+    "iubmb_reactions": [
+      "R08148"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "methyl (2E,6E)-farnesoate [CPD:C16503]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "juvenile hormone III [CPD:C09694]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein. The enzyme, found in insects except for Lepidoptera (moths and butterflies) is specific for methyl farnesoate (cf. EC 1.14.14.128, farnesoate epoxidase) [1,2].",
+    "pathways": {
+      "ec00981": "Insect hormone biosynthesis"
+    },
+    "orthologs": {
+      "K14937": "methyl farnesoate epoxidase / farnesoate epoxidase"
+    },
+    "genes": {
+      "aga": [
+        "AgaP_AGAP005658"
+      ],
+      "aag": [
+        "5573424"
+      ],
+      "cqu": [
+        "CpipJ_CPIJ014944"
+      ],
+      "ame": [
+        "551179"
+      ],
+      "bim": [
+        "100741407"
+      ],
+      "bter": [
+        "100642209"
+      ],
+      "soc": [
+        "105201474"
+      ],
+      "aec": [
+        "105147163",
+        "105149500"
+      ],
+      "acep": [
+        "105626825"
+      ],
+      "pbar": [
+        "105428423",
+        "105432897"
+      ],
+      "hst": [
+        "105182362",
+        "105187618"
+      ],
+      "cfo": [
+        "105250281",
+        "105252412"
+      ],
+      "lhu": [
+        "105675309",
+        "105675920"
+      ],
+      "pgc": [
+        "109853606",
+        "109859696"
+      ],
+      "nvi": [
+        "100121983"
+      ],
+      "tca": [
+        "658858"
+      ],
+      "dpa": [
+        "109538052"
+      ],
+      "nvl": [
+        "108561482"
+      ],
+      "bmor": [
+        "100286798"
+      ],
+      "dpl": [
+        "KGM_211658"
+      ],
+      "pmac": [
+        "106719118"
+      ],
+      "prap": [
+        "110999807"
+      ],
+      "pxy": [
+        "105393482"
+      ],
+      "api": [
+        "100160402",
+        "100162751",
+        "100169165"
+      ],
+      "dnx": [
+        "107173974"
+      ],
+      "phu": [
+        "Phum_PHUM035220",
+        "Phum_PHUM084900"
+      ],
+      "zne": [
+        "110826700",
+        "110829837",
+        "110829838",
+        "110829839",
+        "110840507"
+      ],
+      "fcd": [
+        "110841974",
+        "110842161",
+        "110843433",
+        "110843631",
+        "110849912",
+        "110852132",
+        "110852433",
+        "110853359",
+        "110856389",
+        "110856390",
+        "110857181",
+        "110857213",
+        "110857228",
+        "110857745",
+        "110861344",
+        "110862062"
+      ],
+      "dpx": [
+        "DAPPUDRAFT_209641",
+        "DAPPUDRAFT_239125",
+        "DAPPUDRAFT_301662",
+        "DAPPUDRAFT_310332",
+        "DAPPUDRAFT_315215",
+        "DAPPUDRAFT_47245",
+        "DAPPUDRAFT_47261"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.127"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.127"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.127"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.127"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Helvig C",
+          "Koener JF",
+          "Unnithan GC",
+          "Feyereisen R."
+        ],
+        "title": "CYP15A1, the cytochrome P450 that catalyzes epoxidation of methyl farnesoate to juvenile hormone III in cockroach corpora allata.",
+        "journal": "Proc Natl Acad Sci U S A 101:4024-9 (2004) DOI:10.1073/pnas.0306980101",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:15024118]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Daimon T",
+          "Shinoda T"
+        ],
+        "title": "Function, diversity, and application of insect juvenile hormone epoxidases (CYP15).",
+        "journal": "Biotechnol Appl Biochem 60:82-91 (2013) DOI:10.1002/bab.1058",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:23586995]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

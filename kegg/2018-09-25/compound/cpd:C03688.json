@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C03688",
+    "name": "Apo-[acyl-carrier-protein]",
+    "names": [
+      "Apo-[acyl-carrier-protein]"
+    ],
+    "formula": "",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R01623",
+      "R01625",
+      "R10706"
+    ],
+    "pathways": {
+      "map00770": "Pantothenate and CoA biosynthesis"
+    },
+    "enzymes": [
+      "2.7.7.61",
+      "2.7.7.66",
+      "2.7.8.7",
+      "2.7.8.-",
+      "3.1.4.14"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6463"
+      ],
+      "ChEBI": [
+        "16139"
+      ]
+    },
+    "kcf": "",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

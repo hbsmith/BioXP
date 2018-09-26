@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R09777",
+    "name": "LysW-gamma-L-alpha-aminoadipate 6-semialdehyde:NADP+ 6-oxidoreductase (phosphorylating)",
+    "definition": "LysW-gamma-L-alpha-aminoadipyl 6-phosphate + NADPH + H+ <=> LysW-gamma-L-alpha-aminoadipate 6-semialdehyde + NADP+ + Orthophosphate",
+    "equation": "C19887 + C00005 + C00080 <=> C19888 + C00006 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.-"
+    ],
+    "pathways": {
+      "rn00300": "Lysine biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01210": "2-Oxocarboxylic acid metabolism",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K05829": "LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.-]"
+    }
+  }
+]

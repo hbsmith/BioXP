@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08247",
+    "name": "D-ribose pyranase",
+    "definition": "beta-D-Ribopyranose <=> beta-D-Ribofuranose",
+    "equation": "C08353 <=> C16639",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.99.62"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K06726": "D-ribose pyranase [EC:5.4.99.62]"
+    }
+  }
+]

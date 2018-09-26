@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R07206",
+    "name": "lithocholate,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (6alpha-hydroxylating)",
+    "definition": "Lithocholic acid + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Hyodeoxycholate + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C03990 + C03024 + C00007 <=> C15517 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.57"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

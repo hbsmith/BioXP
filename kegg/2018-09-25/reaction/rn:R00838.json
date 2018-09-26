@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00838",
+    "name": "Maltose-6'-phosphate 6-phosphoglucohydrolase",
+    "definition": "H2O + Maltose 6'-phosphate <=> D-Glucose + D-Glucose 6-phosphate",
+    "equation": "C00001 + C02995 <=> C00031 + C00092",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.122"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism"
+    },
+    "orthologs": {
+      "K01232": "maltose-6'-phosphate glucosidase [EC:3.2.1.122]"
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "entry_id": "C04376",
+    "name": "5'-Phosphoribosyl-N-formylglycinamide",
+    "names": [
+      "5'-Phosphoribosyl-N-formylglycinamide",
+      "N-Formyl-GAR",
+      "N-Formylglycinamide ribonucleotide",
+      "N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide"
+    ],
+    "formula": "C8H15N2O9P",
+    "exact_mass": 314.0515,
+    "mol_weight": 314.1865,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04325",
+      "R04326",
+      "R04463",
+      "R06974"
+    ],
+    "pathways": {
+      "map00230": "Purine metabolism",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "2.1.2.2",
+      "2.1.2.-",
+      "6.3.5.3"
+    ],
+    "dblinks": {
+      "CAS": [
+        "349-34-8"
+      ],
+      "PubChem": [
+        "7017"
+      ],
+      "ChEBI": [
+        "18272"
+      ],
+      "KNApSAcK": [
+        "C00019642"
+      ],
+      "PDB-CCD": [
+        "FGR"
+      ],
+      "3DMET": [
+        "B04939"
+      ],
+      "NIKKAJI": [
+        "J40.075K"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C1y C    27.6926  -19.9834\n            2   O2x O    26.5589  -19.1636\n            3   C1y C    27.2582  -21.3180\n            4   N1b N    28.8901  -19.2683\n            5   C1y C    25.4255  -19.9834\n            6   C1y C    25.8595  -21.3180\n            7   O1a O    27.9335  -22.5236\n            8   C1b C    24.2037  -19.2761\n            9   O1a O    25.1362  -22.5236\n            10  O2b O    23.8340  -17.9175\n            11  P1b P    22.4353  -17.9096\n            12  O1c O    21.0366  -17.9014\n            13  O1c O    22.4272  -16.5109\n            14  O1c O    22.4272  -19.3083\n            15  C5a C    30.0932  -19.9987\n            16  C1b C    31.3045  -19.2994\n            17  N1b N    32.5157  -19.9987\n            18  C4a C    33.7269  -19.2994\n            19  O5a O    30.0778  -21.3973\n            20  O4a O    34.9581  -20.0101\nBOND        20\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     3   6 1\n            6     3   7 1 #Down\n            7     5   8 1 #Up\n            8     6   9 1 #Down\n            9     8  10 1\n            10   10  11 1\n            11   11  12 1\n            12   11  13 1\n            13   11  14 2\n            14    5   6 1\n            15    4  15 1\n            16   15  16 1\n            17   16  17 1\n            18   17  18 1\n            19   15  19 2\n            20   18  20 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

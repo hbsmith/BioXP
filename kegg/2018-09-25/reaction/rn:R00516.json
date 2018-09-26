@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00516",
+    "name": "UTP:cytidine 5'-phosphotransferase",
+    "definition": "UTP + Cytidine <=> UDP + CMP",
+    "equation": "C00075 + C00475 <=> C00015 + C00055",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.48"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00876": "uridine kinase [EC:2.7.1.48]"
+    }
+  }
+]

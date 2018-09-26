@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11954",
+    "name": "S-adenosyl-L-methionine:(+)-kolavelool O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + (+)-Kolavelool <=> S-Adenosyl-L-homocysteine + (+)-O-Methylkolavelool",
+    "equation": "C00019 + C21653 <=> C00021 + C21800",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.347"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K22577": "(+)-O-methylkolavelool synthase [EC:2.1.1.347]"
+    }
+  }
+]

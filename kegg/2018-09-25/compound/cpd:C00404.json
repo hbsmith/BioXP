@@ -1,0 +1,107 @@
+[
+  {
+    "entry_id": "C00404",
+    "name": "Polyphosphate",
+    "names": [
+      "Polyphosphate",
+      "(Phosphate)n",
+      "(Phosphate)n+1",
+      "(Phosphate)n-1",
+      "(Polyphosphate)n",
+      "(Polyphosphate)n-1"
+    ],
+    "formula": "H4P2O7(HPO3)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R00001",
+      "R02184",
+      "R02185",
+      "R02186",
+      "R02187",
+      "R02188",
+      "R02189",
+      "R03042"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.7.1.63",
+      "2.7.4.1",
+      "2.7.4.17",
+      "2.7.4.20",
+      "3.6.1.10",
+      "3.6.1.11"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3694"
+      ],
+      "ChEBI": [
+        "16838"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   O1c O    13.4400  -20.6500\n            2   P1b P    14.8400  -20.6500\n            3   O1c O    14.8400  -19.2500\n            4   O1c O    14.8400  -22.0500\n            5   O2c O    17.6400  -20.6500\n            6   P1b P    19.0400  -20.6500\n            7   O1c O    19.0400  -19.2500\n            8   O1c O    19.0400  -22.0500\n            9   O2c O    21.8400  -20.6500\n            10  P1b P    23.2400  -20.6500\n            11  O1c O    23.2400  -19.2500\n            12  O1c O    24.6400  -20.6500\n            13  O1c O    23.2400  -22.0500\nBOND        12\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n            4     5   6 1\n            5     6   7 1\n            6     6   8 2\n            7     2   5 1\n            8     9  10 1\n            9    10  11 1\n            10   10  12 1\n            11   10  13 2\n            12    6   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C00404",
+    "name": "Polyphosphate",
+    "names": [
+      "Polyphosphate",
+      "(Phosphate)n",
+      "(Phosphate)n+1",
+      "(Phosphate)n-1",
+      "(Polyphosphate)n",
+      "(Polyphosphate)n-1"
+    ],
+    "formula": "H4P2O7(HPO3)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R00001",
+      "R02184",
+      "R02185",
+      "R02186",
+      "R02187",
+      "R02188",
+      "R02189",
+      "R03042"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.7.1.63",
+      "2.7.4.1",
+      "2.7.4.17",
+      "2.7.4.20",
+      "3.6.1.10",
+      "3.6.1.11"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3694"
+      ],
+      "ChEBI": [
+        "16838"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   O1c O    13.4400  -20.6500\n            2   P1b P    14.8400  -20.6500\n            3   O1c O    14.8400  -19.2500\n            4   O1c O    14.8400  -22.0500\n            5   O2c O    17.6400  -20.6500\n            6   P1b P    19.0400  -20.6500\n            7   O1c O    19.0400  -19.2500\n            8   O1c O    19.0400  -22.0500\n            9   O2c O    21.8400  -20.6500\n            10  P1b P    23.2400  -20.6500\n            11  O1c O    23.2400  -19.2500\n            12  O1c O    24.6400  -20.6500\n            13  O1c O    23.2400  -22.0500\nBOND        12\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n            4     5   6 1\n            5     6   7 1\n            6     6   8 2\n            7     2   5 1\n            8     9  10 1\n            9    10  11 1\n            10   10  12 1\n            11   10  13 2\n            12    6   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

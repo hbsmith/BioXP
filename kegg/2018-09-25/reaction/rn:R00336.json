@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00336",
+    "name": "guanosine-3',5'-bis(diphosphate) 3'-diphosphohydrolase",
+    "definition": "Guanosine 3',5'-bis(diphosphate) + H2O <=> GDP + Diphosphate",
+    "equation": "C01228 + C00001 <=> C00035 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.7.2"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism"
+    },
+    "orthologs": {
+      "K01139": "GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [EC:2.7.6.5 3.1.7.2]",
+      "K21138": "guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase [EC:3.1.7.2]"
+    }
+  }
+]

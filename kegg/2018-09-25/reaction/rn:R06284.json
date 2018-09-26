@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R06284",
+    "name": "chlorophyllide-a:phytyl-diphosphate phytyltransferase",
+    "definition": "Chlorophyllide + Phytyl diphosphate <=> Chlorophyll a + Diphosphate",
+    "equation": "C02139 + C05427 <=> C05306 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.62"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K04040": "chlorophyll/bacteriochlorophyll a synthase [EC:2.5.1.62 2.5.1.133]"
+    }
+  }
+]

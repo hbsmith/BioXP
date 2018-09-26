@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04481",
+    "name": "S-Adenosyl-L-methionine:2-(3-carboxy-3-aminopropyl)-L-histidine methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Peptide 2-(3-carboxy-3-aminopropyl)-L-histidine <=> S-Adenosyl-L-homocysteine + Peptide 2-[3-carboxy-3-(methylammonio)propyl]-L-histidine",
+    "equation": "C00019 + C04441 <=> C00021 + C04692",
+    "comment": "subsequently R08468",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.98"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K20215": "diphthine synthase [EC:2.1.1.98]"
+    }
+  }
+]

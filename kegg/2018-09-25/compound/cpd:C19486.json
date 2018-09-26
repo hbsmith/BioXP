@@ -1,0 +1,91 @@
+[
+  {
+    "entry_id": "C19486",
+    "name": "3-Nitrotoluene",
+    "names": [
+      "3-Nitrotoluene"
+    ],
+    "formula": "C7H7NO2",
+    "exact_mass": 137.0477,
+    "mol_weight": 137.136,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "99-08-1"
+      ],
+      "PubChem": [
+        "124490158"
+      ],
+      "ChEBI": [
+        "39931"
+      ],
+      "ChEMBL": [
+        "CHEMBL114059"
+      ],
+      "PDB-CCD": [
+        "3NT"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    15.1900  -18.1300\n            2   C8x C    15.1900  -19.5300\n            3   C8x C    16.4024  -20.2300\n            4   C8y C    17.6149  -19.5300\n            5   C8x C    17.6149  -18.1300\n            6   C8y C    16.4024  -17.4300\n            7   C1a C    16.4024  -16.0302\n            8   N2b N    18.8460  -20.2410 #+\n            9   O3a O    20.1912  -19.5453 #-\n            10  O3a O    18.8457  -21.6299\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     4   8 1\n            9     8   9 1\n            10    8  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C19486",
+    "name": "3-Nitrotoluene",
+    "names": [
+      "3-Nitrotoluene"
+    ],
+    "formula": "C7H7NO2",
+    "exact_mass": 137.0477,
+    "mol_weight": 137.136,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "99-08-1"
+      ],
+      "PubChem": [
+        "124490158"
+      ],
+      "ChEBI": [
+        "39931"
+      ],
+      "ChEMBL": [
+        "CHEMBL114059"
+      ],
+      "PDB-CCD": [
+        "3NT"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    15.1900  -18.1300\n            2   C8x C    15.1900  -19.5300\n            3   C8x C    16.4024  -20.2300\n            4   C8y C    17.6149  -19.5300\n            5   C8x C    17.6149  -18.1300\n            6   C8y C    16.4024  -17.4300\n            7   C1a C    16.4024  -16.0302\n            8   N2b N    18.8460  -20.2410 #+\n            9   O3a O    20.1912  -19.5453 #-\n            10  O3a O    18.8457  -21.6299\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     4   8 1\n            9     8   9 1\n            10    8  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

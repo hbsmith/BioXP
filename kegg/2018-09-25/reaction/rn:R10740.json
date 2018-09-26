@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10740",
+    "name": "2,3-dihydrothienamycin,2-oxoglutarate:oxygen oxidoreductase (dehydrating)",
+    "definition": "2,3-Dihydrothienamycin + 2-Oxoglutarate + Oxygen <=> Thienamycin + Succinate + CO2 + H2O",
+    "equation": "C20820 + C00026 + C00007 <=> C06664 + C00042 + C00011 + C00001",
+    "comment": "not yet characterized sufficiently",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.20.-"
+    ],
+    "pathways": {
+      "rn00332": "Carbapenem biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K18565": "2-oxoglutarate-dependent dioxygenase [EC:1.14.20.-]"
+    }
+  }
+]

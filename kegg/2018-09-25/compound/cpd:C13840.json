@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C13840",
+    "name": "1-Ethyl-2-benzimidazolinone",
+    "names": [
+      "1-Ethyl-2-benzimidazolinone",
+      "1-EBIO"
+    ],
+    "formula": "C9H10N2O",
+    "exact_mass": 162.0793,
+    "mol_weight": 162.1885,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "10045-45-1"
+      ],
+      "PubChem": [
+        "854085"
+      ],
+      "ChEBI": [
+        "34076"
+      ],
+      "ChEMBL": [
+        "CHEMBL452887"
+      ],
+      "PDB-CCD": [
+        "0W8"
+      ],
+      "NIKKAJI": [
+        "J241.245D"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    24.9977  -17.6958\n            2   C8x C    24.9977  -19.0972\n            3   C8x C    26.2113  -19.7978\n            4   C8y C    27.4248  -19.0972\n            5   C8y C    27.4248  -17.6958\n            6   C8x C    26.2113  -16.9951\n            7   N4y N    28.7576  -19.5302\n            8   C8y C    29.5814  -18.3964\n            9   N4x N    28.7576  -17.2627\n            10  O5x O    30.9768  -18.3964\n            11  C1b C    29.1846  -20.8447\n            12  C1a C    28.4819  -22.0659\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    5   9 1\n            11    8  10 2\n            12    7  11 1\n            13   11  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

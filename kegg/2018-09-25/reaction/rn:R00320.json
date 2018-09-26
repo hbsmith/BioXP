@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00320",
+    "name": "diphosphate:acetate phosphotransferase",
+    "definition": "Diphosphate + Acetate <=> Orthophosphate + Acetyl phosphate",
+    "equation": "C00013 + C00033 <=> C00009 + C00227",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.2.12"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

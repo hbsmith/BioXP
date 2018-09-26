@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05800",
+    "name": "ATP:1D-myo-inositol-1,4,5-trisphosphate 6-phosphotransferase",
+    "definition": "ATP + D-myo-Inositol 1,4,5-trisphosphate <=> ADP + 1D-myo-Inositol 1,4,5,6-tetrakisphosphate",
+    "equation": "C00002 + C01245 <=> C00008 + C11555",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.151"
+    ],
+    "pathways": {
+      "rn00562": "Inositol phosphate metabolism"
+    },
+    "orthologs": {
+      "K00915": "inositol-polyphosphate multikinase [EC:2.7.1.140 2.7.1.151]"
+    }
+  }
+]

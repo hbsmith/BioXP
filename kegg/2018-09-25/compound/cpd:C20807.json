@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C20807",
+    "name": "3-Hydroxy-L-phenylalanine",
+    "names": [
+      "3-Hydroxy-L-phenylalanine",
+      "3-Tyrosine"
+    ],
+    "formula": "C9H11NO3",
+    "exact_mass": 181.0739,
+    "mol_weight": 181.1885,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10729"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.16.7"
+    ],
+    "dblinks": {
+      "CAS": [
+        "587-33-7"
+      ],
+      "PubChem": [
+        "254741274"
+      ],
+      "PDB-CCD": [
+        "MTY"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    17.4466  -16.1434\n            2   C8x C    17.4466  -17.5981\n            3   C8x C    16.1997  -18.2908\n            4   C8x C    15.0221  -17.5981\n            5   C8y C    15.0221  -16.1434\n            6   C8x C    16.1997  -15.4506\n            7   C1b C    18.6242  -15.4506\n            8   C1c C    19.8018  -16.1434\n            9   C6a C    20.9795  -15.4506\n            10  O6a O    22.1571  -16.1434\n            11  O6a O    20.9795  -14.0652\n            12  N1a N    19.8018  -17.5981\n            13  O1a O    13.8392  -15.4671\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    9  11 2\n            12    8  12 1 #Up\n            13    5  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

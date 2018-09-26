@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R03638",
+    "name": "taxifolin,NADPH:oxygen oxidoreductase (8-hydroxylating)",
+    "definition": "Taxifolin + Oxygen + NADPH + H+ <=> 2,3-Dihydrogossypetin + NADP+ + H2O",
+    "equation": "C01617 + C00007 + C00005 + C00080 <=> C03052 + C00006 + C00001",
+    "comment": "NADH (see R03637)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.19"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

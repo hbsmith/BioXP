@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R10333",
+    "name": "S,S-dimethyl-beta-propiothetin:tetrahydrofolate S-methyltransferase",
+    "definition": "S,S-Dimethyl-beta-propiothetin + Tetrahydrofolate <=> 3-(Methylthio)propanoate + 5-Methyltetrahydrofolate",
+    "equation": "C04022 + C00101 <=> C08276 + C00440",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.269"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism"
+    },
+    "orthologs": {
+      "K17486": "dimethylsulfoniopropionate demethylase [EC:2.1.1.269]"
+    }
+  }
+][
+  {
+    "entry_id": "R10333",
+    "name": "S,S-dimethyl-beta-propiothetin:tetrahydrofolate S-methyltransferase",
+    "definition": "S,S-Dimethyl-beta-propiothetin + Tetrahydrofolate <=> 3-(Methylthio)propanoate + 5-Methyltetrahydrofolate",
+    "equation": "C04022 + C00101 <=> C08276 + C00440",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.269"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism"
+    },
+    "orthologs": {
+      "K17486": "dimethylsulfoniopropionate demethylase [EC:2.1.1.269]"
+    }
+  }
+]

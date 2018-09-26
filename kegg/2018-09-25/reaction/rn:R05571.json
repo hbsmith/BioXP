@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05571",
+    "name": "Galactitol-1-phosphate:NAD oxidoreductase",
+    "definition": "Galactitol 1-phosphate + NAD+ <=> D-Tagatose 6-phosphate + NADH + H+",
+    "equation": "C06311 + C00003 <=> C01097 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.251"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00094": "galactitol-1-phosphate 5-dehydrogenase [EC:1.1.1.251]"
+    }
+  }
+]

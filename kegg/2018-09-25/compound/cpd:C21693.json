@@ -1,0 +1,69 @@
+[
+  {
+    "entry_id": "C21693",
+    "name": "(+)-Corvol ether A",
+    "names": [
+      "(+)-Corvol ether A",
+      "(1R,4S,4aR,7R,8aR)-4,7-Dimethyl-1-(propan-2-yl)decahydro-1,7-epoxynaphthalene"
+    ],
+    "formula": "C15H26O",
+    "exact_mass": 222.1984,
+    "mol_weight": 222.3663,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11836"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.2.3.171"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "350078270"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C1x C    10.2900  -12.8800\n            2   C1z C    10.2900  -14.2800\n            3   C1x C    11.5024  -14.9800\n            4   C1y C    12.7149  -14.2800\n            5   C1y C    12.7149  -12.8800\n            6   C1x C    11.5024  -12.1800\n            7   C1z C    13.9273  -14.9800\n            8   C1x C    15.1397  -14.2800\n            9   C1x C    15.1397  -12.8800\n            10  C1y C    13.9273  -12.1800\n            11  C1a C    13.9273  -10.7800\n            12  C1c C    13.9273  -16.3800\n            13  C1a C     9.0776  -14.9800\n            14  O2x O    10.7100  -15.9600\n            15  C1a C    12.7169  -17.0788\n            16  C1a C    15.1418  -17.0812\nBOND        18\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    5  10 1\n            12   10  11 1 #Up\n            13    7  12 1 #Up\n            14    2  13 1 #Up\n            15    2  14 1 #Down\n            16    7  14 1 #Down\n            17   12  15 1\n            18   12  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C21693",
+    "name": "(+)-Corvol ether A",
+    "names": [
+      "(+)-Corvol ether A",
+      "(1R,4S,4aR,7R,8aR)-4,7-Dimethyl-1-(propan-2-yl)decahydro-1,7-epoxynaphthalene"
+    ],
+    "formula": "C15H26O",
+    "exact_mass": 222.1984,
+    "mol_weight": 222.3663,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11836"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.2.3.171"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "350078270"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C1x C    10.2900  -12.8800\n            2   C1z C    10.2900  -14.2800\n            3   C1x C    11.5024  -14.9800\n            4   C1y C    12.7149  -14.2800\n            5   C1y C    12.7149  -12.8800\n            6   C1x C    11.5024  -12.1800\n            7   C1z C    13.9273  -14.9800\n            8   C1x C    15.1397  -14.2800\n            9   C1x C    15.1397  -12.8800\n            10  C1y C    13.9273  -12.1800\n            11  C1a C    13.9273  -10.7800\n            12  C1c C    13.9273  -16.3800\n            13  C1a C     9.0776  -14.9800\n            14  O2x O    10.7100  -15.9600\n            15  C1a C    12.7169  -17.0788\n            16  C1a C    15.1418  -17.0812\nBOND        18\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    5  10 1\n            12   10  11 1 #Up\n            13    7  12 1 #Up\n            14    2  13 1 #Up\n            15    2  14 1 #Down\n            16    7  14 1 #Down\n            17   12  15 1\n            18   12  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "C18019",
+    "name": "1-Hydroxy-p-menth-8-en-2-one",
+    "names": [
+      "1-Hydroxy-p-menth-8-en-2-one",
+      "2-Hydroxy-2-methyl-5-(1-methylethenyl)cyclohexanone",
+      "1-Hydroxymenth-8-en-2-one"
+    ],
+    "formula": "C10H16O2",
+    "exact_mass": 168.115,
+    "mol_weight": 168.2328,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08919"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.297"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96024239"
+      ],
+      "ChEBI": [
+        "50246"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1x C    26.6649  -23.2001\n            2   C1x C    26.6649  -24.6009\n            3   C1y C    27.8819  -25.3046\n            4   C1x C    29.0915  -24.6009\n            5   C5x C    29.0915  -23.2001\n            6   C1z C    27.8819  -22.5033\n            7   O5x O    30.2990  -22.5041\n            8   C2c C    27.8836  -26.7054\n            9   C1a C    26.6705  -27.4037\n            10  C2a C    29.0984  -27.4007\n            11  C1a C    26.8095  -21.6633\n            12  O1a O    28.8719  -21.5133\nBOND        12\n            1     5   6 1\n            2     6   1 1\n            3     1   2 1\n            4     5   7 2\n            5     2   3 1\n            6     3   8 1\n            7     3   4 1\n            8     8   9 1\n            9     4   5 1\n            10    8  10 2\n            11    6  11 1\n            12    6  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

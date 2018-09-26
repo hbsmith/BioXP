@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "R02689",
+    "name": "UDP-alpha-D-glucose:1,2-diacyl-sn-glycerol 3-beta-D-glucosyltransferase",
+    "definition": "UDP-glucose + 1,2-Diacyl-sn-glycerol <=> UDP + 3-D-Glucosyl-1,2-diacylglycerol",
+    "equation": "C00029 + C00641 <=> C00015 + C04046",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.315",
+      "2.4.1.336"
+    ],
+    "pathways": {
+      "rn00561": "Glycerolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03429": "processive 1,2-diacylglycerol beta-glucosyltransferase [EC:2.4.1.315]",
+      "K19003": "1,2-diacylglycerol 3-beta-glucosyltransferase [EC:2.4.1.336]",
+      "K19004": "processive 1,2-diacylglycerol beta-glycosyltransferase [EC:2.4.1.315 2.4.1.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R02689",
+    "name": "UDP-alpha-D-glucose:1,2-diacyl-sn-glycerol 3-beta-D-glucosyltransferase",
+    "definition": "UDP-glucose + 1,2-Diacyl-sn-glycerol <=> UDP + 3-D-Glucosyl-1,2-diacylglycerol",
+    "equation": "C00029 + C00641 <=> C00015 + C04046",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.315",
+      "2.4.1.336"
+    ],
+    "pathways": {
+      "rn00561": "Glycerolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03429": "processive 1,2-diacylglycerol beta-glucosyltransferase [EC:2.4.1.315]",
+      "K19003": "1,2-diacylglycerol 3-beta-glucosyltransferase [EC:2.4.1.336]",
+      "K19004": "processive 1,2-diacylglycerol beta-glycosyltransferase [EC:2.4.1.315 2.4.1.-]"
+    }
+  }
+]

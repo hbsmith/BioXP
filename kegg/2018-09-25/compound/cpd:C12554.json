@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C12554",
+    "name": "Potassium acetate",
+    "names": [
+      "Potassium acetate"
+    ],
+    "formula": "C2H3O2. K",
+    "exact_mass": 97.977,
+    "mol_weight": 98.1423,
+    "remark": "Same as: D01154",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "127-08-2"
+      ],
+      "PubChem": [
+        "582944"
+      ],
+      "ChEBI": [
+        "32029"
+      ],
+      "ChEMBL": [
+        "CHEMBL1201058"
+      ],
+      "NIKKAJI": [
+        "J2.516J"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   O6a O    21.9114  -15.1490\n            2   C6a C    21.9045  -16.5490\n            3   O6a O    23.1132  -17.2552 #-\n            4   C1a C    20.6884  -17.2429\n            5   Z   K    25.7296  -16.4925 #+\nBOND        3\n            1     2   3 1\n            2     2   4 1\n            3     1   2 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

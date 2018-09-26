@@ -1,0 +1,79 @@
+[
+  {
+    "entry_id": "C17205",
+    "name": "(R)-2-O-Sulfolactate",
+    "names": [
+      "(R)-2-O-Sulfolactate"
+    ],
+    "formula": "C3H6O6S",
+    "exact_mass": 169.9885,
+    "mol_weight": 170.1411,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01448"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.6.17"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023614"
+      ],
+      "ChEBI": [
+        "48290"
+      ],
+      "NIKKAJI": [
+        "J2.805.976K"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O6a O    21.8400  -18.9700\n            2   C6a C    23.0300  -18.2700\n            3   C1c C    24.2900  -18.9700\n            4   O2a O    25.4800  -18.2700\n            5   O6a O    23.0300  -16.8700\n            6   C1a C    24.2900  -20.3700\n            7   S4a S    26.8800  -18.2700\n            8   O1d O    28.2800  -18.2700\n            9   O1d O    26.8800  -19.6700\n            10  O1d O    26.8800  -16.8700\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     2   5 2\n            5     3   6 1 #Down\n            6     4   7 1\n            7     7   8 1\n            8     7   9 2\n            9     7  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C17205",
+    "name": "(R)-2-O-Sulfolactate",
+    "names": [
+      "(R)-2-O-Sulfolactate"
+    ],
+    "formula": "C3H6O6S",
+    "exact_mass": 169.9885,
+    "mol_weight": 170.1411,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01448"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.6.17"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023614"
+      ],
+      "ChEBI": [
+        "48290"
+      ],
+      "NIKKAJI": [
+        "J2.805.976K"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O6a O    21.8400  -18.9700\n            2   C6a C    23.0300  -18.2700\n            3   C1c C    24.2900  -18.9700\n            4   O2a O    25.4800  -18.2700\n            5   O6a O    23.0300  -16.8700\n            6   C1a C    24.2900  -20.3700\n            7   S4a S    26.8800  -18.2700\n            8   O1d O    28.2800  -18.2700\n            9   O1d O    26.8800  -19.6700\n            10  O1d O    26.8800  -16.8700\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     2   5 2\n            5     3   6 1 #Down\n            6     4   7 1\n            7     7   8 1\n            8     7   9 2\n            9     7  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

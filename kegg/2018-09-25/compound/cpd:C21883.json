@@ -1,0 +1,32 @@
+[
+  {
+    "entry_id": "C21883",
+    "name": "Hydroxyalbendazole",
+    "names": [
+      "Hydroxyalbendazole",
+      "Methyl [5-(3-hydroxypropylsulfanyl)-1H-benzimidazol-2-yl]carbamate"
+    ],
+    "formula": "C12H15N3O3S",
+    "exact_mass": 281.0834,
+    "mol_weight": 281.3308,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R12070"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.14.74"
+    ],
+    "dblinks": {
+    },
+    "kcf": "ATOM        19\n            1   C8x C    16.6752  -14.9937\n            2   C8y C    16.6752  -16.3949\n            3   C8x C    17.9363  -17.0956\n            4   C8y C    19.1274  -16.3949\n            5   C8y C    19.1274  -14.9937\n            6   C8x C    17.9363  -14.2930\n            7   N5x N    20.3886  -16.8153\n            8   C8y C    21.2293  -15.6943\n            9   N4x N    20.3886  -14.5032\n            10  S2a S    15.4841  -17.0956\n            11  C1b C    14.2930  -16.3949\n            12  C1b C    13.0319  -17.0956\n            13  C1b C    11.8408  -16.3949\n            14  N1b N    22.6306  -15.6943\n            15  C7a C    23.3312  -16.8854\n            16  O7a O    24.8026  -16.8854\n            17  C1a C    25.5032  -18.0765\n            18  O6a O    22.6306  -18.0765\n            19  O1a O    10.6283  -17.0949\nBOND        20\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    5   9 1\n            11    2  10 1\n            12   10  11 1\n            13   11  12 1\n            14   12  13 1\n            15    8  14 1\n            16   14  15 1\n            17   15  16 1\n            18   16  17 1\n            19   15  18 2\n            20   13  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

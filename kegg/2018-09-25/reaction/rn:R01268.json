@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01268",
+    "name": "Nicotinamide amidohydrolase",
+    "definition": "Nicotinamide + H2O <=> Nicotinate + Ammonia",
+    "equation": "C00153 + C00001 <=> C00253 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.19"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01440": "nicotinamidase [EC:3.5.1.19]",
+      "K08281": "nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-]"
+    }
+  }
+]

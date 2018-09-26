@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10563",
+    "name": "glycerol:NADP+ oxidoreductase (D/L-glyceraldehyde-forming)",
+    "definition": "L-Glyceraldehyde + NADPH + H+ <=> Glycerol + NADP+",
+    "equation": "C02426 + C00005 + C00080 <=> C00116 + C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.372"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K18107": "L-glyceraldehyde reductase [EC:1.1.1.372]"
+    }
+  }
+]

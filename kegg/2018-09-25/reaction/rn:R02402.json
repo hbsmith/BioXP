@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R02402",
+    "name": "Glutarate:CoA ligase (ADP-forming)",
+    "definition": "ATP + Glutarate + CoA <=> ADP + Orthophosphate + Glutaryl-CoA",
+    "equation": "C00002 + C00489 + C00010 <=> C00008 + C00009 + C00527",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.6"
+    ],
+    "pathways": {
+      "rn00071": "Fatty acid degradation",
+      "rn00310": "Lysine degradation"
+    },
+    "orthologs": {
+    }
+  }
+][
+  {
+    "entry_id": "R02402",
+    "name": "Glutarate:CoA ligase (ADP-forming)",
+    "definition": "ATP + Glutarate + CoA <=> ADP + Orthophosphate + Glutaryl-CoA",
+    "equation": "C00002 + C00489 + C00010 <=> C00008 + C00009 + C00527",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.6"
+    ],
+    "pathways": {
+      "rn00071": "Fatty acid degradation",
+      "rn00310": "Lysine degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

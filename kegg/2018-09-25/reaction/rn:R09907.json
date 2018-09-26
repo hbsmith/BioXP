@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09907",
+    "name": "(3S)-2,3-epoxy-2,3-dihydrosqualene mutase (cyclizing, parkeol-forming)",
+    "definition": "(S)-2,3-Epoxysqualene <=> Parkeol",
+    "equation": "C01054 <=> C19918",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.99.47"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis"
+    },
+    "orthologs": {
+      "K19010": "parkeol synthase [EC:5.4.99.47]"
+    }
+  }
+]

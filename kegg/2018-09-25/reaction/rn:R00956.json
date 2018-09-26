@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00956",
+    "name": "CTP:alpha-D-glucose-1-phosphate cytidylyltransferase",
+    "definition": "CTP + D-Glucose 1-phosphate <=> Diphosphate + CDP-glucose",
+    "equation": "C00063 + C00103 <=> C00013 + C00501",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.33"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism",
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00978": "glucose-1-phosphate cytidylyltransferase [EC:2.7.7.33]"
+    }
+  }
+]

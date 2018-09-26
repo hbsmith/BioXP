@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C18036",
+    "name": "Strigolactone ABC-rings",
+    "names": [
+      "Strigolactone ABC-rings"
+    ],
+    "formula": "C14H18O3",
+    "exact_mass": 234.1256,
+    "mol_weight": 234.2909,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08988",
+      "R08989"
+    ],
+    "pathways": {
+      "map00906": "Carotenoid biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96024256"
+      ],
+      "ChEBI": [
+        "81465"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C1x C    17.4507  -16.1317\n            2   C1x C    17.4507  -17.5343\n            3   C1x C    18.6654  -18.2356\n            4   C2y C    19.8802  -17.5343\n            5   C2y C    19.8802  -16.1317\n            6   C1z C    18.6654  -15.4303\n            7   C1x C    21.2142  -17.9677\n            8   C1y C    22.0386  -16.8330\n            9   C1y C    21.2142  -15.6983\n            10  C2y C    23.3727  -16.3996\n            11  C7x C    23.3727  -14.9969\n            12  O7x O    22.0386  -14.5634\n            13  C1a C    17.9641  -14.2157\n            14  C1a C    19.6573  -14.4386\n            15  C2b C    24.4928  -17.2138\n            16  O1a O    24.4928  -18.6164\n            17  O6a O    24.4810  -14.1913\nBOND        19\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 1\n            10    5   9 1\n            11   10  11 1\n            12   11  12 1\n            13    9  12 1 #Up\n            14    8  10 1 #Up\n            15    6  13 1\n            16    6  14 1\n            17   10  15 2\n            18   15  16 1\n            19   11  17 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C01401",
+    "name": "Alanine",
+    "names": [
+      "Alanine",
+      "2-Aminopropionic acid",
+      "2-Aminopropanoic acid"
+    ],
+    "formula": "C3H7NO2",
+    "exact_mass": 89.0477,
+    "mol_weight": 89.0932,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03542",
+      "R05840"
+    ],
+    "pathways": {
+      "map00460": "Cyanoamino acid metabolism"
+    },
+    "enzymes": [
+      "3.5.5.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "302-72-7"
+      ],
+      "PubChem": [
+        "4590"
+      ],
+      "ChEBI": [
+        "16449"
+      ],
+      "ChEMBL": [
+        "CHEMBL12198"
+      ],
+      "3DMET": [
+        "B04793"
+      ],
+      "NIKKAJI": [
+        "J44.439A"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   O6a O    22.7503  -15.7507\n            2   C6a C    23.9627  -15.0506\n            3   C1c C    25.1753  -15.7507\n            4   C1a C    26.3878  -15.0506\n            5   O6a O    23.9627  -13.6508\n            6   N1a N    25.1753  -17.1506\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     2   5 2\n            5     3   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

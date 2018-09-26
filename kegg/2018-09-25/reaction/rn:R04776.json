@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04776",
+    "name": "Phenylacetyl-CoA:L-glutamine alpha-N-phenylacetyltransferase",
+    "definition": "L-Glutamate + 4-Hydroxyphenylacetyl-CoA <=> CoA + 4-Hydroxyphenylacetylglutamic acid",
+    "equation": "C00025 + C05338 <=> C00010 + C05595",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.14"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

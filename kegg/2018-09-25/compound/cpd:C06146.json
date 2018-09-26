@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C06146",
+    "name": "3-Butyn-1-ol",
+    "names": [
+      "3-Butyn-1-ol"
+    ],
+    "formula": "C4H6O",
+    "exact_mass": 70.0419,
+    "mol_weight": 70.0898,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05121"
+    ],
+    "pathways": {
+      "map00650": "Butanoate metabolism"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "927-74-2"
+      ],
+      "PubChem": [
+        "8402"
+      ],
+      "ChEBI": [
+        "27444"
+      ],
+      "3DMET": [
+        "B00910"
+      ],
+      "NIKKAJI": [
+        "J1.744B"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C1b C    26.4724  -21.3216\n            2   C3b C    25.2497  -20.6192\n            3   C1b C    27.6951  -20.6127\n            4   O1a O    28.9112  -21.3216\n            5   C3a C    24.0763  -19.9144\nBOND        4\n            1     1   2 1\n            2     1   3 1\n            3     3   4 1\n            4     2   5 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

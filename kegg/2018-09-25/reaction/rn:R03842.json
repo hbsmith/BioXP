@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03842",
+    "name": "(S)-N-methylcanadine,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (14-hydroxylating)",
+    "definition": "(S)-cis-N-Methylcanadine + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Allocryptopine + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C02915 + C03024 + C00007 <=> C02134 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.97"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K21692": "methyltetrahydroprotoberberine 14-monooxygenase [EC:1.14.14.97]"
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "entry_id": "C20327",
+    "name": "2-Oxo-4-phenylbutyric acid",
+    "names": [
+      "2-Oxo-4-phenylbutyric acid",
+      "2-Oxo-4-phenylbutanoic acid",
+      "2-Oxo-4-phenylbutanoate"
+    ],
+    "formula": "C10H10O3",
+    "exact_mass": 178.063,
+    "mol_weight": 178.1846,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10502",
+      "R10503"
+    ],
+    "pathways": {
+      "map00400": "Phenylalanine, tyrosine and tryptophan biosynthesis",
+      "map01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "enzymes": [
+      "1.1.1.-",
+      "2.6.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "710-11-2"
+      ],
+      "PubChem": [
+        "163312065"
+      ],
+      "ChEMBL": [
+        "CHEMBL16281"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    24.1775  -10.4894\n            2   C8x C    24.1775  -11.8874\n            3   C8x C    25.4357  -12.5864\n            4   C8x C    26.6241  -11.8874\n            5   C8x C    26.6241  -10.4894\n            6   C8x C    25.4357   -9.7904\n            7   C1b C    22.9893   -9.7904\n            8   C1b C    22.9893   -8.3924\n            9   C5a C    21.8010   -7.6934\n            10  C6a C    20.5428   -8.4623\n            11  O6a O    19.3544   -7.7633\n            12  O6a O    20.5428   -9.8603\n            13  O5a O    21.7891   -6.3062\nBOND        13\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 2\n            7     1   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11   10  11 2\n            12   10  12 1\n            13    9  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C20327",
+    "name": "2-Oxo-4-phenylbutyric acid",
+    "names": [
+      "2-Oxo-4-phenylbutyric acid",
+      "2-Oxo-4-phenylbutanoic acid",
+      "2-Oxo-4-phenylbutanoate"
+    ],
+    "formula": "C10H10O3",
+    "exact_mass": 178.063,
+    "mol_weight": 178.1846,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10502",
+      "R10503"
+    ],
+    "pathways": {
+      "map00400": "Phenylalanine, tyrosine and tryptophan biosynthesis",
+      "map01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "enzymes": [
+      "1.1.1.-",
+      "2.6.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "710-11-2"
+      ],
+      "PubChem": [
+        "163312065"
+      ],
+      "ChEMBL": [
+        "CHEMBL16281"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    24.1775  -10.4894\n            2   C8x C    24.1775  -11.8874\n            3   C8x C    25.4357  -12.5864\n            4   C8x C    26.6241  -11.8874\n            5   C8x C    26.6241  -10.4894\n            6   C8x C    25.4357   -9.7904\n            7   C1b C    22.9893   -9.7904\n            8   C1b C    22.9893   -8.3924\n            9   C5a C    21.8010   -7.6934\n            10  C6a C    20.5428   -8.4623\n            11  O6a O    19.3544   -7.7633\n            12  O6a O    20.5428   -9.8603\n            13  O5a O    21.7891   -6.3062\nBOND        13\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 2\n            7     1   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11   10  11 2\n            12   10  12 1\n            13    9  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

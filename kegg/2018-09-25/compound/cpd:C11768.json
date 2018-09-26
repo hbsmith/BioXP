@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C11768",
+    "name": "Levonordefrin",
+    "names": [
+      "Levonordefrin",
+      "alpha-Methylnoradrenaline"
+    ],
+    "formula": "C9H13NO3",
+    "exact_mass": 183.0895,
+    "mol_weight": 183.2044,
+    "remark": "Same as: D02388",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "829-74-3"
+      ],
+      "PubChem": [
+        "13932"
+      ],
+      "ChEBI": [
+        "10304"
+      ],
+      "ChEMBL": [
+        "CHEMBL1320902",
+        "CHEMBL677"
+      ],
+      "NIKKAJI": [
+        "J7.129C"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    25.6151  -15.7852\n            2   C8x C    25.6151  -17.2000\n            3   C8x C    24.3981  -15.0863\n            4   C1c C    26.8206  -15.0863\n            5   C8x C    24.3981  -17.9105\n            6   C8y C    23.1868  -15.7852\n            7   C1c C    28.0317  -15.7794\n            8   O1a O    26.8206  -13.6887\n            9   C8y C    23.1868  -17.2000\n            10  C1a C    29.2312  -15.0806\n            11  O1a O    21.9756  -17.8872\n            12  N1a N    27.9671  -17.1726\n            13  O1a O    21.9804  -15.0884\nBOND        13\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 2\n            6     4   7 1\n            7     4   8 1 #Up\n            8     5   9 2\n            9     7  10 1\n            10    9  11 1\n            11    6   9 1\n            12    7  12 1 #Down\n            13    6  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

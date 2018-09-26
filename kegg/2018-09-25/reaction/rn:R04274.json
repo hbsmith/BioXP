@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R04274",
+    "name": "RNA-3'-phosphate:RNA ligase (cyclizing, AMP-forming)",
+    "definition": "ATP + RNA 3'-terminal-phosphate <=> AMP + Diphosphate + RNA terminal-2',3'-cyclic-phosphate",
+    "equation": "C00002 + C03638 <=> C00020 + C00013 + C04312",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.5.1.4"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

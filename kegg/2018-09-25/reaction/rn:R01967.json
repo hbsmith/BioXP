@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01967",
+    "name": "ATP:deoxyguanosine 5'-phosphotransferase",
+    "definition": "ATP + Deoxyguanosine <=> ADP + dGMP",
+    "equation": "C00002 + C00330 <=> C00008 + C00362",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.113"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00904": "deoxyguanosine kinase [EC:2.7.1.113]",
+      "K15518": "deoxyguanosine kinase [EC:2.7.1.113]"
+    }
+  }
+]

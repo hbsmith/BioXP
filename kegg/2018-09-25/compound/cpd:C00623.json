@@ -1,0 +1,56 @@
+[
+  {
+    "entry_id": "C00623",
+    "name": "sn-Glycerol 1-phosphate",
+    "names": [
+      "sn-Glycerol 1-phosphate",
+      "sn-Gro-1-P",
+      "L-Glycerol 1-phosphate"
+    ],
+    "formula": "C3H9O6P",
+    "exact_mass": 172.0137,
+    "mol_weight": 172.0737,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01044",
+      "R04158",
+      "R05679",
+      "R05680",
+      "R07298"
+    ],
+    "pathways": {
+      "map00564": "Glycerophospholipid metabolism"
+    },
+    "enzymes": [
+      "1.1.1.261",
+      "2.5.1.41",
+      "2.7.1.79",
+      "3.1.3.21"
+    ],
+    "dblinks": {
+      "CAS": [
+        "5746-57-6"
+      ],
+      "PubChem": [
+        "3896"
+      ],
+      "ChEBI": [
+        "16221"
+      ],
+      "PDB-CCD": [
+        "1GP"
+      ],
+      "NIKKAJI": [
+        "J4.455E"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O2b O    20.2300  -22.4000\n            2   C1b C    21.4424  -23.1000\n            3   C1c C    22.6549  -22.4000\n            4   C1b C    23.8673  -23.1000\n            5   O1a O    25.0797  -22.4000\n            6   O1a O    22.6549  -21.0002\n            7   P1b P    18.8300  -22.4000\n            8   O1c O    17.4300  -22.4000\n            9   O1c O    18.8300  -21.0000\n            10  O1c O    18.8300  -23.8000\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     3   6 1 #Up\n            6     1   7 1\n            7     7   8 2\n            8     7   9 1\n            9     7  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

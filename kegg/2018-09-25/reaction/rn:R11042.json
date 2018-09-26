@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11042",
+    "name": "",
+    "definition": "dTDP-3-O-methyl-4-oxo-2,6-dideoxy-L-mannose <=> dTDP-L-oleandrose",
+    "equation": "C21071 <=> C11921",
+    "comment": "4-ketoreductase, aveBIV, avrE",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00523": "Polyketide sugar unit biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19857": "dTDP-4-keto-6-deoxy-L-hexose 4-reductase"
+    }
+  }
+]

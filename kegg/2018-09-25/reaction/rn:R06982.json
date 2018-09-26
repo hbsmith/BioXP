@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R06982",
+    "name": "S-(hydroxymethyl)glutathione formaldehyde-lyase (glutathione-forming); S-(hydroxymethyl)glutathione synthase",
+    "definition": "Glutathione + Formaldehyde <=> S-(Hydroxymethyl)glutathione",
+    "equation": "C00051 + C00067 <=> C14180",
+    "comment": "spontaneous This reaction is accelerated by enzyme ec 4.4.1.22.",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.22"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K03396": "S-(hydroxymethyl)glutathione synthase [EC:4.4.1.22]"
+    }
+  }
+][
+  {
+    "entry_id": "R06982",
+    "name": "S-(hydroxymethyl)glutathione formaldehyde-lyase (glutathione-forming); S-(hydroxymethyl)glutathione synthase",
+    "definition": "Glutathione + Formaldehyde <=> S-(Hydroxymethyl)glutathione",
+    "equation": "C00051 + C00067 <=> C14180",
+    "comment": "spontaneous This reaction is accelerated by enzyme ec 4.4.1.22.",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.22"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K03396": "S-(hydroxymethyl)glutathione synthase [EC:4.4.1.22]"
+    }
+  }
+]

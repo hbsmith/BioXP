@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11013",
+    "name": "hercynine,gamma-L-glutamyl-L-cysteine:oxygen oxidoreductase [gamma-L-glutamyl-S-(hercyn-2-yl)-L-cysteine S-oxide-forming]",
+    "definition": "Hercynine + gamma-L-Glutamyl-L-cysteine + Oxygen <=> gamma-L-Glutamyl-S-(hercyn-2-yl)-L-cysteine S-oxide + H2O",
+    "equation": "C05575 + C00669 + C00007 <=> C20995 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.50"
+    ],
+    "pathways": {
+      "rn00340": "Histidine metabolism"
+    },
+    "orthologs": {
+      "K18912": "gamma-glutamyl hercynylcysteine S-oxide synthase [EC:1.14.99.50]"
+    }
+  }
+]

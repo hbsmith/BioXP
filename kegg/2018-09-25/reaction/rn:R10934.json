@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10934",
+    "name": "prephenate carboxy-lyase (3-[(4R)-4-hydroxycyclohexa-1,5-dien-1-yl]-2-oxopropanoate-forming)",
+    "definition": "Prephenate <=> 3-[(4R)-4-Hydroxycyclohexa-1,5-dien-1-yl]-2-oxopropanoate + CO2",
+    "equation": "C00254 <=> C20953 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.100"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19546": "prephenate decarboxylase [EC:4.1.1.100]"
+    }
+  }
+]

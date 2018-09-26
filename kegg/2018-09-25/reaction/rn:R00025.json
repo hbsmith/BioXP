@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00025",
+    "name": "ethylnitronate:oxygen 2-oxidoreductase (nitrite-forming)",
+    "definition": "Ethylnitronate + Oxygen + Reduced FMN <=> Acetaldehyde + Nitrite + FMN + H2O",
+    "equation": "C18091 + C00007 + C01847 <=> C00084 + C00088 + C00061 + C00001",
+    "comment": "Previously classified as 2-nitropropane dioxygenase (EC 1.13.11.32).",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.12.16"
+    ],
+    "pathways": {
+      "rn00910": "Nitrogen metabolism"
+    },
+    "orthologs": {
+      "K00459": "nitronate monooxygenase [EC:1.13.12.16]"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R00606",
+    "name": "methylamine:amicyanin oxidoreductase (deaminating)",
+    "definition": "Methylamine + H2O + 2 Amicyanin <=> Formaldehyde + Ammonia + 2 Reduced amicyanin + 2 H+",
+    "equation": "C00218 + C00001 + 2 C19671 <=> C00067 + C00014 + 2 C19672 + 2 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.9.1"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K08685": "quinohemoprotein amine dehydrogenase [EC:1.4.9.1]",
+      "K15228": "methylamine dehydrogenase light chain [EC:1.4.9.1]",
+      "K15229": "methylamine dehydrogenase heavy chain [EC:1.4.9.1]"
+    }
+  }
+]

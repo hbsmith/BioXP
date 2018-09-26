@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08225",
+    "name": "",
+    "definition": "Tegafur + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 5-FU + Succinic aldehyde + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C12673 + C03024 + C00007 <=> C07649 + C16835 + C03161 + C00001",
+    "comment": "CYP2A6 multi-step reaction intermediate (5'-hydroxytegafur)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.1"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K17683": "cytochrome P450 family 2 subfamily A polypeptide 6 [EC:1.14.13.-]"
+    }
+  }
+]

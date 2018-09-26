@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04945",
+    "name": "O-Acetylhomoserine succinate-lyase (adding cysteine)",
+    "definition": "O-Acetyl-L-homoserine + L-Selenocysteine <=> L-Selenocystathionine + Acetate",
+    "equation": "C01077 + C05688 <=> C05699 + C00033",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.48"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K01739": "cystathionine gamma-synthase [EC:2.5.1.48]"
+    }
+  }
+]

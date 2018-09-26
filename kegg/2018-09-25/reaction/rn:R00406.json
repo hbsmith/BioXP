@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R00406",
+    "name": "succinyl-CoA:(S)-malate CoA-transferase",
+    "definition": "Succinyl-CoA + (S)-Malate <=> Succinate + L-Malyl-CoA",
+    "equation": "C00091 + C00149 <=> C00042 + C04348",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.22"
+    ],
+    "pathways": {
+      "rn00720": "Carbon fixation pathways in prokaryotes",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K14471": "succinyl-CoA:(S)-malate CoA-transferase subunit A [EC:2.8.3.22]",
+      "K14472": "succinyl-CoA:(S)-malate CoA-transferase subunit B [EC:2.8.3.22]"
+    }
+  }
+]

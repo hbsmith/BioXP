@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11673",
+    "name": "",
+    "definition": "4-Methoxy-2,2'-bipyrrole-5-carbaldehyde + 2-Undecylpyrrole + ATP <=> Undecylprodigiosin + ADP + Orthophosphate",
+    "equation": "C21570 + C21574 + C00002 <=> C12023 + C00008 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00333": "Prodigiosin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21787": "prodigiosin/undecylprodigiosin synthetase"
+    }
+  }
+]

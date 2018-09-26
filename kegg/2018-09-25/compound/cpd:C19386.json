@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C19386",
+    "name": "2,5-Diaminotoluene",
+    "names": [
+      "2,5-Diaminotoluene",
+      "2-Methyl-1,4-benzenediamine"
+    ],
+    "formula": "C7H10N2",
+    "exact_mass": 122.0844,
+    "mol_weight": 122.1677,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "95-70-5"
+      ],
+      "PubChem": [
+        "124490058"
+      ],
+      "ChEBI": [
+        "53619"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    14.5600  -16.5900\n            2   C8y C    14.5600  -17.9900\n            3   C8x C    15.7724  -18.6900\n            4   C8x C    16.9849  -17.9900\n            5   C8y C    16.9849  -16.5900\n            6   C8y C    15.7724  -15.8900\n            7   C1a C    15.7724  -14.4902\n            8   N1a N    18.2160  -15.8790\n            9   N1a N    13.3476  -18.6900\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     2   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05270",
+    "name": "6-deoxyerythronolide-B,reduced ferredoxin:oxygen oxidoreductase",
+    "definition": "6-Deoxyerythronolide B + 2 Reduced ferredoxin + 2 H+ + Oxygen <=> Erythronolide B + 2 Oxidized ferredoxin + H2O",
+    "equation": "C03240 + 2 C00138 + 2 C00080 + C00007 <=> C06635 + 2 C00139 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.35"
+    ],
+    "pathways": {
+      "rn00522": "Biosynthesis of 12-, 14- and 16-membered macrolides",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K14366": "6-deoxyerythronolide B hydroxylase [EC:1.14.15.35]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02743",
+    "name": "gamma-L-glutamyl-L-cysteine gamma-glutamyl cyclotransferase (5-oxoproline-forming)",
+    "definition": "gamma-L-Glutamyl-L-cysteine <=> 5-Oxoproline + L-Cysteine",
+    "equation": "C00669 <=> C01879 + C00097",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.3.2.9"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00682": "gamma-glutamylcyclotransferase [EC:4.3.2.9]",
+      "K22596": "gamma-glutamylcyclotransferase, plant [EC:4.3.2.9]"
+    }
+  }
+]

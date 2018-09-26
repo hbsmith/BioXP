@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05105",
+    "name": "3'-Phosphoadenylylsulfate:digalactosylceramide 3'-sulfotransferase",
+    "definition": "3'-Phosphoadenylyl sulfate + Digalactosylceramide <=> Adenosine 3',5'-bisphosphate + Digalactosylceramide sulfate",
+    "equation": "C00053 + C06126 <=> C00054 + C06127",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.2.11"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism"
+    },
+    "orthologs": {
+      "K01019": "galactosylceramide sulfotransferase [EC:2.8.2.11]"
+    }
+  }
+]

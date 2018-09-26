@@ -1,0 +1,692 @@
+[
+  {
+    "entry_id": "2.6.1.14",
+    "name": "asparagine---oxo-acid transaminase",
+    "names": [
+      "asparagine---oxo-acid transaminase",
+      "asparagine-keto acid aminotransferase"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring nitrogenous groups;",
+      "Transaminases"
+    ],
+    "sysname": "L-asparagine:2-oxo-acid aminotransferase",
+    "reaction": "L-asparagine + a 2-oxo carboxylate = 2-oxosuccinamate + an amino acid [RN:R01346]",
+    "all_reac": "R01346",
+    "iubmb_reactions": [
+      "R01346"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "L-asparagine [CPD:C00152]",
+      "2-oxo carboxylate [CPD:C00161]"
+    ],
+    "products": [
+      "2-oxosuccinamate [CPD:C02362]",
+      "amino acid [CPD:C00045]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A pyridoxal-phosphate protein.",
+    "pathways": {
+      "ec00250": "Alanine, aspartate and glutamate metabolism"
+    },
+    "orthologs": {
+      "K22457": "asparagine---oxo-acid transaminase"
+    },
+    "genes": {
+      "lla": [
+        "L0098"
+      ],
+      "llk": [
+        "LLKF_2022"
+      ],
+      "llt": [
+        "CVCAS_1765"
+      ],
+      "lls": [
+        "lilo_1833"
+      ],
+      "lld": [
+        "P620_10345"
+      ],
+      "llx": [
+        "NCDO2118_1951"
+      ],
+      "llc": [
+        "LACR_2022"
+      ],
+      "llm": [
+        "llmg_2019"
+      ],
+      "llr": [
+        "llh_2940"
+      ],
+      "lln": [
+        "LLNZ_10405"
+      ],
+      "lli": [
+        "uc509_1788"
+      ],
+      "llw": [
+        "kw2_1889"
+      ],
+      "llj": [
+        "LG36_1786"
+      ],
+      "lgr": [
+        "LCGT_1481"
+      ],
+      "lgv": [
+        "LCGL_1503"
+      ],
+      "lpk": [
+        "LACPI_0652"
+      ],
+      "lrn": [
+        "CMV25_08170"
+      ],
+      "spy": [
+        "SPy_0650"
+      ],
+      "spz": [
+        "M5005_Spy0537"
+      ],
+      "spym": [
+        "M1GAS476_0591"
+      ],
+      "spya": [
+        "A20_0579"
+      ],
+      "spm": [
+        "spyM18_0711"
+      ],
+      "spg": [
+        "SpyM3_0460"
+      ],
+      "sps": [
+        "SPs1395"
+      ],
+      "sph": [
+        "MGAS10270_Spy0531"
+      ],
+      "spi": [
+        "MGAS10750_Spy0555"
+      ],
+      "spj": [
+        "MGAS2096_Spy0548"
+      ],
+      "spk": [
+        "MGAS9429_Spy0527"
+      ],
+      "spf": [
+        "SpyM51327"
+      ],
+      "spa": [
+        "M6_Spy0557"
+      ],
+      "spb": [
+        "M28_Spy0515"
+      ],
+      "stg": [
+        "MGAS15252_0563"
+      ],
+      "stx": [
+        "MGAS1882_0560"
+      ],
+      "soz": [
+        "Spy49_0543"
+      ],
+      "stz": [
+        "SPYALAB49_000569"
+      ],
+      "spyh": [
+        "L897_02885"
+      ],
+      "spn": [
+        "SP_1544"
+      ],
+      "spd": [
+        "SPD_1373"
+      ],
+      "spr": [
+        "spr1399"
+      ],
+      "spw": [
+        "SPCG_1530"
+      ],
+      "sjj": [
+        "SPJ_1448"
+      ],
+      "snv": [
+        "SPNINV200_13810"
+      ],
+      "spx": [
+        "SPG_1470"
+      ],
+      "snt": [
+        "SPT_1482"
+      ],
+      "snd": [
+        "MYY_1474"
+      ],
+      "spnn": [
+        "T308_07020"
+      ],
+      "sne": [
+        "SPN23F15070"
+      ],
+      "spv": [
+        "SPH_1658"
+      ],
+      "snc": [
+        "HMPREF0837_11778"
+      ],
+      "snm": [
+        "SP70585_1583"
+      ],
+      "spp": [
+        "SPP_1567"
+      ],
+      "sni": [
+        "INV104_13160"
+      ],
+      "spng": [
+        "HMPREF1038_01530"
+      ],
+      "snb": [
+        "SP670_1628"
+      ],
+      "snp": [
+        "SPAP_1566"
+      ],
+      "snx": [
+        "SPNOXC13550"
+      ],
+      "snu": [
+        "SPNA45_00677"
+      ],
+      "spne": [
+        "SPN034156_04430"
+      ],
+      "spnu": [
+        "SPN034183_13540"
+      ],
+      "spnm": [
+        "SPN994038_13430"
+      ],
+      "spno": [
+        "SPN994039_13440"
+      ],
+      "sag": [
+        "SAG0525"
+      ],
+      "san": [
+        "gbs0571"
+      ],
+      "sak": [
+        "SAK_0676"
+      ],
+      "sgc": [
+        "A964_0560"
+      ],
+      "sags": [
+        "SaSA20_0510"
+      ],
+      "sagl": [
+        "GBS222_0502"
+      ],
+      "sagm": [
+        "BSA_6130"
+      ],
+      "sagi": [
+        "MSA_6280"
+      ],
+      "sagr": [
+        "SAIL_6460"
+      ],
+      "sagp": [
+        "V193_02915"
+      ],
+      "sagc": [
+        "DN94_02915"
+      ],
+      "sagt": [
+        "GBSCOH1_0511"
+      ],
+      "sage": [
+        "EN72_03010"
+      ],
+      "sagg": [
+        "EN73_03085"
+      ],
+      "sagn": [
+        "W903_0702"
+      ],
+      "smu": [
+        "SMU_1312"
+      ],
+      "smc": [
+        "SmuNN2025_0748"
+      ],
+      "smut": [
+        "SMUGS5_05875"
+      ],
+      "smj": [
+        "SMULJ23_0743"
+      ],
+      "smua": [
+        "SMUFR_1149"
+      ],
+      "stc": [
+        "str0817"
+      ],
+      "stl": [
+        "stu0817"
+      ],
+      "ste": [
+        "STER_0863"
+      ],
+      "stn": [
+        "STND_0804"
+      ],
+      "stu": [
+        "STH8232_1011"
+      ],
+      "stw": [
+        "Y1U_C1038"
+      ],
+      "sthe": [
+        "T303_05290"
+      ],
+      "sths": [
+        "AVT04_00945"
+      ],
+      "ssa": [
+        "SSA_1383"
+      ],
+      "ssb": [
+        "SSUBM407_1252"
+      ],
+      "ssu": [
+        "SSU05_0613"
+      ],
+      "ssv": [
+        "SSU98_0613"
+      ],
+      "ssi": [
+        "SSU0569"
+      ],
+      "sss": [
+        "SSUSC84_0545"
+      ],
+      "ssf": [
+        "SSUA7_0569"
+      ],
+      "ssw": [
+        "SSGZ1_0604"
+      ],
+      "sup": [
+        "YYK_02690"
+      ],
+      "ssus": [
+        "NJAUSS_0677"
+      ],
+      "sst": [
+        "SSUST3_0769"
+      ],
+      "ssuy": [
+        "YB51_3815"
+      ],
+      "ssk": [
+        "SSUD12_1269"
+      ],
+      "ssq": [
+        "SSUD9_0776"
+      ],
+      "sui": [
+        "SSUJS14_0704"
+      ],
+      "suo": [
+        "SSU12_0570"
+      ],
+      "srp": [
+        "SSUST1_1196"
+      ],
+      "ssut": [
+        "TL13_1171"
+      ],
+      "ssui": [
+        "T15_1370"
+      ],
+      "sgo": [
+        "SGO_1297"
+      ],
+      "sez": [
+        "Sez_0727"
+      ],
+      "seq": [
+        "SZO_12250"
+      ],
+      "sezo": [
+        "SeseC_00985"
+      ],
+      "sequ": [
+        "Q426_05510"
+      ],
+      "seu": [
+        "SEQ_0853"
+      ],
+      "sub": [
+        "SUB0628"
+      ],
+      "sds": [
+        "SDEG_0667"
+      ],
+      "sdg": [
+        "SDE12394_03615"
+      ],
+      "sda": [
+        "GGS_0644"
+      ],
+      "sdc": [
+        "SDSE_0709"
+      ],
+      "sdq": [
+        "SDSE167_0728"
+      ],
+      "sga": [
+        "GALLO_1489"
+      ],
+      "sgg": [
+        "SGGBAA2069_c15120"
+      ],
+      "sgt": [
+        "SGGB_1484"
+      ],
+      "smb": [
+        "smi_1527"
+      ],
+      "sor": [
+        "SOR_0639"
+      ],
+      "stk": [
+        "STP_0430"
+      ],
+      "stb": [
+        "SGPB_1389"
+      ],
+      "scp": [
+        "HMPREF0833_10639"
+      ],
+      "scf": [
+        "Spaf_1202"
+      ],
+      "ssr": [
+        "SALIVB_0876"
+      ],
+      "stf": [
+        "Ssal_00959"
+      ],
+      "stj": [
+        "SALIVA_1225"
+      ],
+      "strs": [
+        "SSAL8618_06015"
+      ],
+      "ssah": [
+        "HSISS4_01082"
+      ],
+      "std": [
+        "SPPN_07575"
+      ],
+      "smn": [
+        "SMA_1494"
+      ],
+      "sif": [
+        "Sinf_1315"
+      ],
+      "sie": [
+        "SCIM_0804"
+      ],
+      "sib": [
+        "SIR_0840"
+      ],
+      "siu": [
+        "SII_0857"
+      ],
+      "sang": [
+        "SAIN_1004"
+      ],
+      "sanc": [
+        "SANR_1100"
+      ],
+      "sans": [
+        "DK43_05255"
+      ],
+      "scg": [
+        "SCI_0991"
+      ],
+      "scon": [
+        "SCRE_0919"
+      ],
+      "scos": [
+        "SCR2_0919"
+      ],
+      "soi": [
+        "I872_02125"
+      ],
+      "sik": [
+        "K710_1324"
+      ],
+      "siq": [
+        "DQ08_06120"
+      ],
+      "sio": [
+        "DW64_06115"
+      ],
+      "siz": [
+        "SI82_06270"
+      ],
+      "slu": [
+        "KE3_1444"
+      ],
+      "sig": [
+        "N596_03020"
+      ],
+      "sip": [
+        "N597_04815"
+      ],
+      "stv": [
+        "V470_02900"
+      ],
+      "spat": [
+        "A0O21_02895"
+      ],
+      "stra": [
+        "ATM98_02990"
+      ],
+      "strn": [
+        "SNAG_0613"
+      ],
+      "lcy": [
+        "LC20004_08040"
+      ],
+      "efa": [
+        "EF2372"
+      ],
+      "efl": [
+        "EF62_2560"
+      ],
+      "efi": [
+        "OG1RF_11806"
+      ],
+      "efd": [
+        "EFD32_1994"
+      ],
+      "efs": [
+        "EFS1_1904"
+      ],
+      "efn": [
+        "DENG_02319"
+      ],
+      "efq": [
+        "DR75_1102"
+      ],
+      "ene": [
+        "ENT_15470"
+      ],
+      "efc": [
+        "EFAU004_01926"
+      ],
+      "efau": [
+        "EFAU085_01943",
+        "EFAU085_01944"
+      ],
+      "efu": [
+        "HMPREF0351_11895"
+      ],
+      "efm": [
+        "M7W_1056"
+      ],
+      "eft": [
+        "M395_04525"
+      ],
+      "ehr": [
+        "EHR_09030"
+      ],
+      "ecas": [
+        "ECBG_01906"
+      ],
+      "emu": [
+        "EMQU_1899"
+      ],
+      "edu": [
+        "LIU_10430"
+      ],
+      "ega": [
+        "AL523_10650"
+      ],
+      "ess": [
+        "ATZ33_02345"
+      ],
+      "eth": [
+        "CK496_03460"
+      ],
+      "thl": [
+        "TEH_16420"
+      ],
+      "vte": [
+        "BHY08_03855"
+      ],
+      "vpi": [
+        "BW732_01570"
+      ],
+      "lme": [
+        "LEUM_0990",
+        "LEUM_1382"
+      ],
+      "lmm": [
+        "MI1_06070"
+      ],
+      "lmk": [
+        "LMES_1160"
+      ],
+      "lci": [
+        "LCK_00649"
+      ],
+      "lki": [
+        "LKI_00325",
+        "LKI_01410"
+      ],
+      "lec": [
+        "LGMK_01270"
+      ],
+      "lcn": [
+        "C270_04785"
+      ],
+      "lgs": [
+        "LEGAS_1168"
+      ],
+      "lge": [
+        "C269_05800"
+      ],
+      "llf": [
+        "BCR17_00925"
+      ],
+      "lgc": [
+        "A9176_05680"
+      ],
+      "lsu": [
+        "A6B45_04915",
+        "A6B45_06510"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.6.1.14"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.6.1.14"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.6.1.14"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.6.1.14"
+      ],
+      "CAS": [
+        "9030-43-7"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "MEISTER A",
+          "FRASER PE."
+        ],
+        "title": "Enzymatic formation of L-asparagine by transamination.",
+        "journal": "J Biol Chem",
+        "volume": "210",
+        "issue": "",
+        "pages": "37-43",
+        "year": "1954",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:13201567]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

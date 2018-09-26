@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C01871",
+    "name": "1,4-Dithiane",
+    "names": [
+      "1,4-Dithiane"
+    ],
+    "formula": "C4H8S2",
+    "exact_mass": 120.0067,
+    "mol_weight": 120.2363,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "505-29-3"
+      ],
+      "PubChem": [
+        "4985"
+      ],
+      "ChEBI": [
+        "540"
+      ],
+      "ChEMBL": [
+        "CHEMBL3183037"
+      ],
+      "NIKKAJI": [
+        "J6.222G"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C1x C    20.9141  -15.4681\n            2   C1x C    20.9141  -16.8719\n            3   S2x S    22.1137  -14.7726\n            4   S2x S    22.1137  -17.5802\n            5   C1x C    23.3324  -15.4681\n            6   C1x C    23.3324  -16.8719\nBOND        6\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     4   6 1\n            6     5   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

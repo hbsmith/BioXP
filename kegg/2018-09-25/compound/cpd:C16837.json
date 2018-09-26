@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C16837",
+    "name": "4-Amino-1-piperidinecarboxylic acid",
+    "names": [
+      "4-Amino-1-piperidinecarboxylic acid"
+    ],
+    "formula": "C6H12N2O2",
+    "exact_mass": 144.0899,
+    "mol_weight": 144.1717,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08258"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.1.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "959317-82-9"
+      ],
+      "PubChem": [
+        "96023361"
+      ],
+      "PDB-CCD": [
+        "MRM"
+      ],
+      "NIKKAJI": [
+        "J2.805.599D"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   N1a N    25.3849  -20.3000\n            2   C1y C    26.5973  -21.0000\n            3   C1x C    26.5973  -22.4000\n            4   C1x C    27.8097  -23.1000\n            5   N1y N    29.0222  -22.4000\n            6   C1x C    29.0222  -21.0000\n            7   C1x C    27.8097  -20.3000\n            8   C6a C    30.2346  -23.1000\n            9   O6a O    30.2346  -24.5000\n            10  O6a O    31.4470  -22.4000\nBOND        10\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     2   7 1\n            8     5   8 1\n            9     8   9 2\n            10    8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

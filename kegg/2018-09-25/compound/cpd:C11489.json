@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C11489",
+    "name": "NMF",
+    "names": [
+      "NMF",
+      "N-Methylformamide"
+    ],
+    "formula": "C2H5NO",
+    "exact_mass": 59.0371,
+    "mol_weight": 59.0672,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "123-39-7"
+      ],
+      "PubChem": [
+        "13659"
+      ],
+      "ChEBI": [
+        "7438"
+      ],
+      "ChEMBL": [
+        "CHEMBL9240"
+      ],
+      "NIKKAJI": [
+        "J2.498H"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   N1b N    28.0000  -20.5800\n            2   C4a C    29.2600  -19.8800\n            3   O4a O    29.2600  -18.4800\n            4   C1a C    26.8100  -19.8800\nBOND        3\n            1     1   2 1\n            2     2   3 2\n            3     1   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

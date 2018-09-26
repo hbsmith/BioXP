@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C21166",
+    "name": "4-Hydroxy-3-methylbenzaldehyde",
+    "names": [
+      "4-Hydroxy-3-methylbenzaldehyde"
+    ],
+    "formula": "C8H8O2",
+    "exact_mass": 136.0524,
+    "mol_weight": 136.1479,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11194",
+      "R11195"
+    ],
+    "pathways": {
+      "map00623": "Toluene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.2.1.96",
+      "1.17.9.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "15174-69-3"
+      ],
+      "PubChem": [
+        "313369426"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    16.8000  -17.5700\n            2   C8x C    16.8000  -16.1700\n            3   C8y C    17.9900  -15.4700\n            4   C8x C    19.1800  -16.1700\n            5   C8y C    19.1800  -17.5700\n            6   C8y C    17.9900  -18.2700\n            7   O1a O    17.9900  -19.6700\n            8   C1a C    20.4400  -18.3400\n            9   C4a C    17.9900  -14.0700\n            10  O4a O    19.2024  -13.3700\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     5   8 1\n            9     3   9 1\n            10    9  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

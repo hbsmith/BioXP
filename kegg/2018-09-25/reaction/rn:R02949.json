@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02949",
+    "name": "(R)-Acetoin racemase",
+    "definition": "(R)-Acetoin <=> (S)-Acetoin",
+    "equation": "C00810 <=> C01769",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.2.4"
+    ],
+    "pathways": {
+      "rn00650": "Butanoate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

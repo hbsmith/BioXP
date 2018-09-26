@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C02616",
+    "name": "1,3-alpha-D-Glucan",
+    "names": [
+      "1,3-alpha-D-Glucan",
+      "[alpha-D-Glucosyl-(1,3)]n",
+      "[alpha-D-Glucosyl-(1,3)]n+1",
+      "[(1->3)-alpha-D-Glucosyl]n"
+    ],
+    "formula": "(C6H10O5)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "Same as: G10492",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R03996",
+      "R11140"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.4.1.183",
+      "2.4.1.334"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5601"
+      ],
+      "ChEBI": [
+        "28100"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C1y C    27.7397  -23.6362\n            2   C1y C    26.6309  -22.9961\n            3   C1y C    28.8722  -22.9961\n            4   O1a O    27.7338  -24.8874\n            5   C1y C    26.6309  -21.7334\n            6   O1a O    25.5521  -23.6708\n            7   C1x C    28.8722  -21.7334\n            8   O1a O    29.9868  -23.6189\n            9   Z   *    25.7250  -25.5043\n            10  O2x O    27.7397  -21.1107\n            11  C1b C    25.5044  -21.1107\n            12  Z   *    32.1687  -20.8892\n            13  O1a O    25.5044  -19.8710\nBOND        13\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Down\n            6     3   7 1\n            7     3   8 1 #Down\n            8     4   9 1\n            9     5  10 1\n            10    5  11 1 #Up\n            11    7  12 1 #Down\n            12   11  13 1\n            13    7  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

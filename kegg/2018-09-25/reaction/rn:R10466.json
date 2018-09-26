@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10466",
+    "name": "N(omega)-hydroxy-L-arginine amidinohydrolase",
+    "definition": "N(omega)-Hydroxyarginine + H2O <=> L-Ornithine + Hydroxyurea",
+    "equation": "C05933 + C00001 <=> C00077 + C07044",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.3.25"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19723": "Nomega-hydroxy-L-arginine amidinohydrolase [EC:3.5.3.25]"
+    }
+  }
+]

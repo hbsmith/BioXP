@@ -1,0 +1,28 @@
+[
+  {
+    "entry_id": "R00271",
+    "name": "acetyl-CoA:2-oxoglutarate C-acetyltransferase (thioester-hydrolysing, carboxymethyl forming)",
+    "definition": "Acetyl-CoA + H2O + 2-Oxoglutarate <=> (R)-2-Hydroxybutane-1,2,4-tricarboxylate + CoA",
+    "equation": "C00024 + C00001 + C00026 <=> C01251 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.3.14"
+    ],
+    "pathways": {
+      "rn00300": "Lysine biosynthesis",
+      "rn00620": "Pyruvate metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01130": "Biosynthesis of antibiotics",
+      "rn01210": "2-Oxocarboxylic acid metabolism",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K01655": "homocitrate synthase [EC:2.3.3.14]",
+      "K02594": "homocitrate synthase NifV [EC:2.3.3.14]",
+      "K10977": "methanogen homocitrate synthase [EC:2.3.3.14 2.3.3.-]"
+    }
+  }
+]

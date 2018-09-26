@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04143",
+    "name": "ATP:S5-methyl-5-thio-D-ribose 1-phosphotransferase",
+    "definition": "ATP + 5-Methylthio-D-ribose <=> ADP + S-Methyl-5-thio-D-ribose 1-phosphate",
+    "equation": "C00002 + C03089 <=> C00008 + C04188",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.100"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00899": "5-methylthioribose kinase [EC:2.7.1.100]"
+    }
+  }
+]

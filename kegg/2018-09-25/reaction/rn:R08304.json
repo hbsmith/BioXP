@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R08304",
+    "name": "",
+    "definition": "Felbamate + NADPH + H+ + Oxygen <=> 2-Hydroxyfelbamate + NADP+ + H2O",
+    "equation": "C07501 + C00005 + C00080 + C00007 <=> C16582 + C00006 + C00001",
+    "comment": "CYP3A4, CYP2E1",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00982": "Drug metabolism - cytochrome P450"
+    },
+    "orthologs": {
+      "K07415": "cytochrome P450 family 2 subfamily E polypeptide 1 [EC:1.14.13.-]",
+      "K17689": "cytochrome P450 family 3 subfamily A polypeptide 4 [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.13.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R08304",
+    "name": "",
+    "definition": "Felbamate + NADPH + H+ + Oxygen <=> 2-Hydroxyfelbamate + NADP+ + H2O",
+    "equation": "C07501 + C00005 + C00080 + C00007 <=> C16582 + C00006 + C00001",
+    "comment": "CYP3A4, CYP2E1",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00982": "Drug metabolism - cytochrome P450"
+    },
+    "orthologs": {
+      "K07415": "cytochrome P450 family 2 subfamily E polypeptide 1 [EC:1.14.13.-]",
+      "K17689": "cytochrome P450 family 3 subfamily A polypeptide 4 [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.13.-]"
+    }
+  }
+]

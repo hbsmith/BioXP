@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10946",
+    "name": "3-hydroxy-3-(methylthio)propanoyl-CoA methanethiol-lyase",
+    "definition": "3-Hydroxy-3-(methylthio)propanoyl-CoA <=> 3-Oxopropionyl-CoA + Methanethiol",
+    "equation": "C20968 <=> C05989 + C00409",
+    "comment": "the second step of four-step reaction (see R10936, R10945+R10946+R10947+R06973)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.155"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

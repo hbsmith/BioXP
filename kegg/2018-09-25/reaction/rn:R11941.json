@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11941",
+    "name": "ATP:L-glutamine N5-phosphotransferase",
+    "definition": "ATP + L-Glutamine + H2O <=> AMP + Orthophosphate + N5-Phospho-L-glutamine",
+    "equation": "C00002 + C00064 + C00001 <=> C00020 + C00009 + C21785",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.3.13"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K22424": "glutamine kinase [EC:2.7.3.13]"
+    }
+  }
+]

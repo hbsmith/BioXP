@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C08129",
+    "name": "Calcium carbonate",
+    "names": [
+      "Calcium carbonate",
+      "Precipitated calcium carbonate"
+    ],
+    "formula": "CaCO3",
+    "exact_mass": 99.9473,
+    "mol_weight": 100.0869,
+    "remark": "Same as: D00932",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "471-34-1"
+      ],
+      "PubChem": [
+        "10329"
+      ],
+      "ChEBI": [
+        "3311"
+      ],
+      "ChEMBL": [
+        "CHEMBL1200539"
+      ],
+      "NIKKAJI": [
+        "J404I"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C6a C    15.2438  -14.4029\n            2   O6a O    15.2438  -13.0054\n            3   O6a O    14.0268  -15.1016 #-\n            4   O6a O    16.4492  -15.1133 #-\n            5   Z   Ca   18.8366  -15.5326 #2+\nBOND        3\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

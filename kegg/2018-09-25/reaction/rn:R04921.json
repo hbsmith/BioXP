@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04921",
+    "name": "",
+    "definition": "CMP-2-aminoethylphosphonate + N-Acylsphingosine <=> Ceramide 2-aminoethylphosphonate + CMP",
+    "equation": "C05673 + C00195 <=> C05681 + C00055",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.8.-"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism",
+      "rn00600": "Sphingolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+    }
+  }
+]

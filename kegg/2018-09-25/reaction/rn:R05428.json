@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R05428",
+    "name": "",
+    "definition": "o-Toluate + Oxygen + NADH + H+ <=> 1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate + NAD+",
+    "equation": "C07215 + C00007 + C00004 + C00080 <=> C06731 + C00003",
+    "comment": "toluate dioxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.12.-"
+    ],
+    "pathways": {
+      "rn00622": "Xylene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K05549": "benzoate/toluate 1,2-dioxygenase subunit alpha [EC:1.14.12.10 1.14.12.-]",
+      "K05550": "benzoate/toluate 1,2-dioxygenase subunit beta [EC:1.14.12.10 1.14.12.-]",
+      "K05784": "benzoate/toluate 1,2-dioxygenase reductase component [EC:1.18.1.-]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11266",
+    "name": "xylostasin:NADP+ 3''-oxidoreductase",
+    "definition": "3''-Oxoribostamycin + NADPH + H+ <=> Xylostasin + NADP+",
+    "equation": "C21176 + C00005 + C00080 <=> C17584 + C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20570": "NADPH-dependent reductase [EC:1.1.1.-]"
+    }
+  }
+]

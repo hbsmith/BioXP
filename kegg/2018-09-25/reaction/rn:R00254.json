@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00254",
+    "name": "N-carbamyl-L-glutamate amidohydrolase",
+    "definition": "L-Glutamate + Ammonia + CO2 <=> N-Carbamyl-L-glutamate + H2O",
+    "equation": "C00025 + C00014 + C00011 <=> C05829 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.87"
+    ],
+    "pathways": {
+      "rn00340": "Histidine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

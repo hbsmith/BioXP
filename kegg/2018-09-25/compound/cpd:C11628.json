@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C11628",
+    "name": "p-Aminobenzamidine dihydrochloride",
+    "names": [
+      "p-Aminobenzamidine dihydrochloride"
+    ],
+    "formula": "C7H9N3. 2HCl",
+    "exact_mass": 207.033,
+    "mol_weight": 208.0883,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "2498-50-2"
+      ],
+      "PubChem": [
+        "13793"
+      ],
+      "ChEBI": [
+        "10618"
+      ],
+      "ChEMBL": [
+        "CHEMBL1562872"
+      ],
+      "NIKKAJI": [
+        "J334.649H"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    26.7720  -18.4951\n            2   C8x C    25.5594  -19.1869\n            3   C8x C    27.9903  -19.1869\n            4   C2c C    26.7662  -17.0997\n            5   C8x C    25.5594  -20.5941\n            6   C8x C    27.9903  -20.5941\n            7   N1a N    25.5535  -16.4078\n            8   N2a N    27.9658  -16.4019\n            9   C8y C    26.7720  -21.3034\n            10  N1a N    26.7649  -22.6978\n            11  X   Cl   30.4290  -20.4260\n            12  X   Cl   30.4290  -22.0437\nBOND        10\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 2\n            6     4   7 1\n            7     4   8 2\n            8     5   9 2\n            9     6   9 1\n            10    9  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

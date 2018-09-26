@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11932",
+    "name": "4-hydroxy-L-tryptophan carboxy-lyase",
+    "definition": "4-Hydroxy-L-tryptophan <=> 4-Hydroxytryptamine + CO2",
+    "equation": "C21777 <=> C21762 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.105"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis"
+    },
+    "orthologs": {
+      "K22433": "L-tryptophan decarboxylase [EC:4.1.1.105]"
+    }
+  }
+]

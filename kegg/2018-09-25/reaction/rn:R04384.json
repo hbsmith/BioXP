@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04384",
+    "name": "methanol:[Co(I) corrinoid protein] Co-methyltransferase",
+    "definition": "Methanol + Co(I) corrinoid protein <=> Methyl-Co(III) corrinoid protein + H2O",
+    "equation": "C00132 + C06021 <=> C06020 + C00001",
+    "comment": "subsequently R10000 specific for methanol corrinoid protein [KO:K14081]",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.90"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K04480": "methanol---5-hydroxybenzimidazolylcobamide Co-methyltransferase [EC:2.1.1.90]"
+    }
+  }
+]

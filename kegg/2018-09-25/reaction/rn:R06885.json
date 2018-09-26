@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06885",
+    "name": "",
+    "definition": "1,2-Bis(4-hydroxyphenyl)-2-propanol <=> 4,4'-Dihydroxy-alpha-methylstilbene + H2O",
+    "equation": "C13629 <=> C13632 + C00001",
+    "comment": "1,2-bis(4-hydroxyphenyl)-2-proponol reductase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.-"
+    ],
+    "pathways": {
+      "rn00363": "Bisphenol degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

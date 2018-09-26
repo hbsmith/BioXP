@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11210",
+    "name": "(-)-yatein,2-oxoglutarate:oxygen oxidoreductase (ring-forming)",
+    "definition": "Dihydroanhydropodorhizol + 2-Oxoglutarate + Oxygen <=> Deoxypodophyllotoxin + Succinate + CO2 + H2O",
+    "equation": "C10557 + C00026 + C00007 <=> C10556 + C00042 + C00011 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.20.8"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K21202": "(-)-deoxypodophyllotoxin synthase [EC:1.14.20.8]"
+    }
+  }
+][
+  {
+    "entry_id": "R11210",
+    "name": "(-)-yatein,2-oxoglutarate:oxygen oxidoreductase (ring-forming)",
+    "definition": "Dihydroanhydropodorhizol + 2-Oxoglutarate + Oxygen <=> Deoxypodophyllotoxin + Succinate + CO2 + H2O",
+    "equation": "C10557 + C00026 + C00007 <=> C10556 + C00042 + C00011 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.20.8"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K21202": "(-)-deoxypodophyllotoxin synthase [EC:1.14.20.8]"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00536",
+    "name": "3'-Phosphoadenylylsulfate:phenolic-steroid sulfotransferase",
+    "definition": "3'-Phosphoadenylyl sulfate + 2-Methoxyestrone <=> Adenosine 3',5'-bisphosphate + 2-Methoxyestrone 3-sulfate",
+    "equation": "C00053 + C05299 <=> C00054 + C08358",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.2.15"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "C21202",
+    "name": "cis-2-Dodecenoic acid",
+    "names": [
+      "cis-2-Dodecenoic acid",
+      "BDSF"
+    ],
+    "formula": "C12H22O2",
+    "exact_mass": 198.162,
+    "mol_weight": 198.3019,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map02024": "Quorum sensing"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "55928-65-9"
+      ],
+      "PubChem": [
+        "316933500"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C1b C    12.4479  -15.0982\n            2   C1b C    13.6584  -15.7972\n            3   C1b C    14.8692  -15.0982\n            4   C1b C    16.0799  -15.7972\n            5   C1b C    17.2905  -15.0982\n            6   C1b C    18.5013  -15.7972\n            7   C1b C    19.7119  -15.0982\n            8   C1b C    20.9225  -15.7972\n            9   C2b C    22.1333  -15.0982\n            10  C1a C    11.2372  -15.7972\n            11  C2b C    23.5313  -15.0982\n            12  C6a C    24.7724  -15.7972\n            13  O6a O    25.9831  -15.0982\n            14  O6a O    24.7798  -17.1949\nBOND        13\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     1  10 1\n            10    9  11 2\n            11   11  12 1\n            12   12  13 2\n            13   12  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

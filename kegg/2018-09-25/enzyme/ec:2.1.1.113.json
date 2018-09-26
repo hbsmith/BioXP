@@ -1,0 +1,216 @@
+[
+  {
+    "entry_id": "2.1.1.113",
+    "name": "site-specific DNA-methyltransferase (cytosine-N4-specific)",
+    "names": [
+      "site-specific DNA-methyltransferase (cytosine-N4-specific)",
+      "modification methylase",
+      "restriction-modification system",
+      "DNA[cytosine-N4]methyltransferase",
+      "m4C-forming MTase",
+      "S-adenosyl-L-methionine:DNA-cytosine 4-N-methyltransferase"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring one-carbon groups;",
+      "Methyltransferases"
+    ],
+    "sysname": "S-adenosyl-L-methionine:DNA-cytosine N4-methyltransferase",
+    "reaction": "S-adenosyl-L-methionine + DNA cytosine = S-adenosyl-L-homocysteine + DNA N4-methylcytosine [RN:R03003]",
+    "all_reac": "R03003",
+    "iubmb_reactions": [
+      "R03003"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "S-adenosyl-L-methionine [CPD:C00019]",
+      "DNA cytosine [CPD:C00856]"
+    ],
+    "products": [
+      "S-adenosyl-L-homocysteine [CPD:C00021]",
+      "DNA N4-methylcytosine [CPD:C03110]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "This is a large group of enzymes, most of which, with enzymes of similar site specificity listed as EC 3.1.21.3 (type 1 site-specific deoxyribonuclease), EC 3.1.21.4 (type II site-specific deoxyribonuclease) or EC 3.1.21.5 (type III site-specific deoxyribonuclease), form so-called 'restriction-modification systems'. A complete listing of all of these enzymes has been produced by R.J. Roberts and is available on-line at http://rebase.neb.com/rebase/rebase.html.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K00590": "site-specific DNA-methyltransferase (cytosine-N4-specific)"
+    },
+    "genes": {
+      "enf": [
+        "AKI40_4424"
+      ],
+      "koc": [
+        "AB185_00150"
+      ],
+      "ear": [
+        "CCG28631"
+      ],
+      "xfu": [
+        "XFF4834R_plc00230"
+      ],
+      "xph": [
+        "XppCFBP6546_23325"
+      ],
+      "smk": [
+        "Sinme_2322"
+      ],
+      "pcon": [
+        "B0A89_00975"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.1.1.113"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.1.1.113"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.1.1.113"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.1.1.113"
+      ],
+      "CAS": [
+        "169592-50-1"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Kessler C",
+          "Manta V."
+        ],
+        "title": "Specificity of restriction endonucleases and DNA modification methyltransferases a review (Edition 3).",
+        "journal": "Gene 92:1-248 (1990) DOI:10.1016/0378-1119(90)90486-B",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:2172084]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Klimasauskas S",
+          "Timinskas A",
+          "Menkevicius S",
+          "Butkiene D",
+          "Butkus V",
+          "Janulaitis A."
+        ],
+        "title": "Sequence motifs characteristic of DNA[cytosine-N4]methyltransferases: similarity to adenine and cytosine-C5 DNA-methylases.",
+        "journal": "Nucleic Acids Res 17:9823-32 (1989) DOI:10.1093/nar/17.23.9823",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:2690010]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Roberts RJ."
+        ],
+        "title": "Restriction enzymes and their isoschizomers.",
+        "journal": "Nucleic Acids Res 18 Suppl:2331-65",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1990",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:2159140]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yuan R."
+        ],
+        "title": "Structure and mechanism of multifunctional restriction endonucleases.",
+        "journal": "Annu Rev Biochem 50:285-319 (1981) DOI:10.1146/annurev.bi.50.070181.001441",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:6267988]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C00579",
+    "name": "Dihydrolipoamide",
+    "names": [
+      "Dihydrolipoamide",
+      "Dihydrothioctamide"
+    ],
+    "formula": "C8H17NOS2",
+    "exact_mass": 207.0752,
+    "mol_weight": 207.3567,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01698"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.8.1.4"
+    ],
+    "dblinks": {
+      "CAS": [
+        "3884-47-7"
+      ],
+      "PubChem": [
+        "3858"
+      ],
+      "ChEBI": [
+        "17694"
+      ],
+      "LIPIDMAPS": [
+        "LMFA08010019"
+      ],
+      "NIKKAJI": [
+        "J704.623E"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1b C    20.9079  -16.8785\n            2   C1c C    19.7016  -16.1891\n            3   C1b C    22.1079  -16.1891\n            4   C1b C    19.7016  -14.7977\n            5   S1a S    18.5017  -16.8785\n            6   C1b C    23.3078  -16.8785\n            7   C1b C    18.5017  -14.1021\n            8   C1b C    24.5141  -16.1891\n            9   S1a S    17.2954  -14.7977\n            10  C5a C    25.7141  -16.8785\n            11  N1a N    26.9522  -15.9912\n            12  O5a O    25.7141  -18.4099\nBOND        11\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1\n            5     3   6 1\n            6     4   7 1\n            7     6   8 1\n            8     7   9 1\n            9     8  10 1\n            10   10  11 1\n            11   10  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

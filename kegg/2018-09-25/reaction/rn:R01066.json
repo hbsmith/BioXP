@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01066",
+    "name": "2-deoxy-D-ribose-5-phosphate acetaldehyde-lyase (D-glyceraldehyde-3-phosphate-forming)",
+    "definition": "2-Deoxy-D-ribose 5-phosphate <=> D-Glyceraldehyde 3-phosphate + Acetaldehyde",
+    "equation": "C00673 <=> C00118 + C00084",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.2.4"
+    ],
+    "pathways": {
+      "rn00030": "Pentose phosphate pathway"
+    },
+    "orthologs": {
+      "K01619": "deoxyribose-phosphate aldolase [EC:4.1.2.4]"
+    }
+  }
+]

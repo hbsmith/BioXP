@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11060",
+    "name": "(8Z,11Z,14Z,17Z)-icosatetraenoyl-CoA,ferrocytochrome-b5:oxygen oxidoreductase (5,6-cis-dehydrogenating)",
+    "definition": "(8Z,11Z,14Z,17Z)-Icosatetraenoyl-CoA + 2 Ferrocytochrome b5 + Oxygen + 2 H+ <=> (5Z,8Z,11Z,14Z,17Z)-Icosapentaenoyl-CoA + 2 Ferricytochrome b5 + 2 H2O",
+    "equation": "C16164 + 2 C00999 + C00007 + 2 C00080 <=> C16165 + 2 C00996 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.44"
+    ],
+    "pathways": {
+      "rn01040": "Biosynthesis of unsaturated fatty acids",
+      "rn01212": "Fatty acid metabolism"
+    },
+    "orthologs": {
+      "K10224": "acyl-CoA (8-3)-desaturase (Delta-5 desaturase) [EC:1.14.19.44]"
+    }
+  }
+][
+  {
+    "entry_id": "R11060",
+    "name": "(8Z,11Z,14Z,17Z)-icosatetraenoyl-CoA,ferrocytochrome-b5:oxygen oxidoreductase (5,6-cis-dehydrogenating)",
+    "definition": "(8Z,11Z,14Z,17Z)-Icosatetraenoyl-CoA + 2 Ferrocytochrome b5 + Oxygen + 2 H+ <=> (5Z,8Z,11Z,14Z,17Z)-Icosapentaenoyl-CoA + 2 Ferricytochrome b5 + 2 H2O",
+    "equation": "C16164 + 2 C00999 + C00007 + 2 C00080 <=> C16165 + 2 C00996 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.44"
+    ],
+    "pathways": {
+      "rn01040": "Biosynthesis of unsaturated fatty acids",
+      "rn01212": "Fatty acid metabolism"
+    },
+    "orthologs": {
+      "K10224": "acyl-CoA (8-3)-desaturase (Delta-5 desaturase) [EC:1.14.19.44]"
+    }
+  }
+]

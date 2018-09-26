@@ -1,0 +1,34 @@
+[
+  {
+    "entry_id": "C21763",
+    "name": "Long-chain alkane",
+    "names": [
+      "Long-chain alkane"
+    ],
+    "formula": "C2H5R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R11915"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.1.1.106"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "354264355"
+      ]
+    },
+    "kcf": "ATOM        3\n            1   C1a C    18.6633  -16.5451\n            2   C1b C    17.4511  -15.8459\n            3   R   R    16.2452  -16.5451\nBOND        2\n            1     1   2 1\n            2     2   3 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C15077",
+    "name": "1-Phenyl-3-(phenylsulfonyl)-2-propen-1-one",
+    "names": [
+      "1-Phenyl-3-(phenylsulfonyl)-2-propen-1-one",
+      "3-(Phenylsulfonyl)acrylophenone"
+    ],
+    "formula": "C15H12O3S",
+    "exact_mass": 272.0507,
+    "mol_weight": 272.319,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17396074"
+      ],
+      "ChEBI": [
+        "73960"
+      ],
+      "NIKKAJI": [
+        "J1.215.453D"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   C8x C     9.6600  -11.7600\n            2   C8x C     9.6600  -13.1600\n            3   C8x C    10.8724  -13.8600\n            4   C8x C    12.0849  -13.1600\n            5   C8y C    12.0849  -11.7600\n            6   C8x C    10.8724  -11.0600\n            7   C5a C    13.3160  -11.0490\n            8   C2b C    14.5212  -11.7447\n            9   O5a O    13.3157   -9.6601\n            10  C2b C    15.7035  -11.0619\n            11  S4a S    16.8975  -11.7512\n            12  C8y C    18.0854  -11.0652\n            13  C8x C    19.2765  -11.7529\n            14  C8x C    20.4890  -11.0529\n            15  C8x C    20.4890   -9.6529\n            16  C8x C    19.2979   -8.9652\n            17  C8x C    18.0855   -9.6652\n            18  O3c O    15.5675  -12.8712\n            19  O3c O    18.3675  -12.9412\nBOND        20\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     7   9 2\n            10    8  10 2\n            11   10  11 1\n            12   11  12 1\n            13   12  13 2\n            14   13  14 1\n            15   14  15 2\n            16   15  16 1\n            17   16  17 2\n            18   12  17 1\n            19   11  18 2\n            20   11  19 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

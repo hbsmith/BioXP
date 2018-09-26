@@ -1,0 +1,151 @@
+[
+  {
+    "entry_id": "1.1.99.42",
+    "name": "4-pyridoxic acid dehydrogenase",
+    "names": [
+      "4-pyridoxic acid dehydrogenase",
+      "mlr6792 (locus name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on the CH-OH group of donors;",
+      "With unknown physiological acceptors"
+    ],
+    "sysname": "4-pyridoxate:acceptor 5-oxidoreductase",
+    "reaction": "4-pyridoxate + acceptor = 5-formyl-3-hydroxy-2-methylpyridine-4-carboxylate + reduced acceptor [RN:R02993]",
+    "all_reac": "R02993",
+    "iubmb_reactions": [
+      "R02993"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "4-pyridoxate [CPD:C00847]",
+      "acceptor [CPD:C00028]"
+    ],
+    "products": [
+      "5-formyl-3-hydroxy-2-methylpyridine-4-carboxylate [CPD:C06050]",
+      "reduced acceptor [CPD:C00030]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, characterized from the bacteria Pseudomonas sp. MA-1 and Mesorhizobium loti, participates in the degradation of pyridoxine (vitamin B6). It is membrane bound and contains FAD. The enzyme has been assayed in vitro in the presence of the artificial electron acceptor dichloroindophenol (DCPIP).",
+    "pathways": {
+      "ec00750": "Vitamin B6 metabolism",
+      "ec01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K18611": "4-pyridoxate dehydrogenase"
+    },
+    "genes": {
+      "mlo": [
+        "mlr6792"
+      ],
+      "mln": [
+        "A9174_14040"
+      ],
+      "mci": [
+        "Mesci_2016"
+      ],
+      "mam": [
+        "Mesau_02084"
+      ],
+      "mesw": [
+        "A9K65_010520"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.1.99.42"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.1.99.42"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.1.99.42"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.1.99.42"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Yagi T",
+          "Kishore GM",
+          "Snell EE"
+        ],
+        "title": "The bacterial oxidation of vitamin B6. 4-Pyridoxic acid dehydrogenase: a membrane-bound enzyme from Pseudomonas MA-1.",
+        "journal": "J Biol Chem",
+        "volume": "258",
+        "issue": "",
+        "pages": "9419-25",
+        "year": "1983",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:6348042]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ge F",
+          "Yokochi N",
+          "Yoshikane Y",
+          "Ohnishi K",
+          "Yagi T"
+        ],
+        "title": "Gene identification and characterization of the pyridoxine degradative enzyme 4-pyridoxic acid dehydrogenase from the nitrogen-fixing symbiotic bacterium Mesorhizobium loti MAFF303099.",
+        "journal": "J Biochem 143:603-9 (2008) DOI:10.1093/jb/mvn010",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:18216065]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "entry_id": "C16214",
+    "name": "3-[6-(Carboxymethylene)cyclohexa-2,4-dien-1-ylidene]-2-oxopropanate",
+    "names": [
+      "3-[6-(Carboxymethylene)cyclohexa-2,4-dien-1-ylidene]-2-oxopropanate"
+    ],
+    "formula": "C11H8O5",
+    "exact_mass": 220.0372,
+    "mol_weight": 220.1782,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07690",
+      "R07691"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.13.11.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205522"
+      ],
+      "ChEBI": [
+        "80384"
+      ],
+      "NIKKAJI": [
+        "J2.798.868G"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C2x C    15.0500  -16.0300\n            2   C2x C    15.0500  -17.4300\n            3   C2x C    16.2624  -18.1300\n            4   C2y C    17.4749  -17.4300\n            5   C2y C    17.4749  -16.0300\n            6   C2x C    16.2624  -15.3300\n            7   C2b C    18.7060  -15.3190\n            8   C2b C    18.7060  -18.1410\n            9   C6a C    19.9112  -16.0147\n            10  O6a O    21.0935  -15.3319\n            11  O6a O    19.9116  -17.4296\n            12  C5a C    18.7060  -19.5410\n            13  C6a C    19.9017  -20.2313\n            14  O5a O    17.4865  -20.2452\n            15  O6a O    21.0983  -19.5402\n            16  O6a O    19.9018  -21.6298\nBOND        16\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 2\n            7     5   7 2\n            8     4   8 2\n            9     7   9 1\n            10    9  10 1\n            11    9  11 2\n            12    8  12 1\n            13   12  13 1\n            14   12  14 2\n            15   13  15 2\n            16   13  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C16214",
+    "name": "3-[6-(Carboxymethylene)cyclohexa-2,4-dien-1-ylidene]-2-oxopropanate",
+    "names": [
+      "3-[6-(Carboxymethylene)cyclohexa-2,4-dien-1-ylidene]-2-oxopropanate"
+    ],
+    "formula": "C11H8O5",
+    "exact_mass": 220.0372,
+    "mol_weight": 220.1782,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07690",
+      "R07691"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.13.11.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205522"
+      ],
+      "ChEBI": [
+        "80384"
+      ],
+      "NIKKAJI": [
+        "J2.798.868G"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C2x C    15.0500  -16.0300\n            2   C2x C    15.0500  -17.4300\n            3   C2x C    16.2624  -18.1300\n            4   C2y C    17.4749  -17.4300\n            5   C2y C    17.4749  -16.0300\n            6   C2x C    16.2624  -15.3300\n            7   C2b C    18.7060  -15.3190\n            8   C2b C    18.7060  -18.1410\n            9   C6a C    19.9112  -16.0147\n            10  O6a O    21.0935  -15.3319\n            11  O6a O    19.9116  -17.4296\n            12  C5a C    18.7060  -19.5410\n            13  C6a C    19.9017  -20.2313\n            14  O5a O    17.4865  -20.2452\n            15  O6a O    21.0983  -19.5402\n            16  O6a O    19.9018  -21.6298\nBOND        16\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 2\n            7     5   7 2\n            8     4   8 2\n            9     7   9 1\n            10    9  10 1\n            11    9  11 2\n            12    8  12 1\n            13   12  13 1\n            14   12  14 2\n            15   13  15 2\n            16   13  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

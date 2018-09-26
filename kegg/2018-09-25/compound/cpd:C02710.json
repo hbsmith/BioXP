@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C02710",
+    "name": "N-Acetyl-L-leucine",
+    "names": [
+      "N-Acetyl-L-leucine"
+    ],
+    "formula": "C8H15NO3",
+    "exact_mass": 173.1052,
+    "mol_weight": 173.2096,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01089"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.3.1.66"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1188-21-2"
+      ],
+      "PubChem": [
+        "5673"
+      ],
+      "ChEBI": [
+        "17786"
+      ],
+      "ChEMBL": [
+        "CHEMBL56021"
+      ],
+      "PDB-CCD": [
+        "LAY"
+      ],
+      "3DMET": [
+        "B00487"
+      ],
+      "NIKKAJI": [
+        "J23.189D"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1c C    27.0900  -15.3515\n            2   C1b C    25.8780  -14.6549\n            3   N1b N    27.0900  -16.7510\n            4   C6a C    28.3020  -14.6549\n            5   C1c C    24.6660  -15.3515\n            6   C5a C    28.3020  -17.4536\n            7   O6a O    29.5140  -15.3515\n            8   O6a O    28.3020  -13.2497\n            9   C1a C    23.4482  -14.6549\n            10  C1a C    24.6660  -16.7510\n            11  O5a O    28.3020  -18.8529\n            12  C1a C    29.5140  -16.7510\nBOND        11\n            1     1   2 1\n            2     1   3 1 #Up\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     4   7 1\n            7     4   8 2\n            8     5   9 1\n            9     5  10 1\n            10    6  11 2\n            11    6  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

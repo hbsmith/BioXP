@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C07056",
+    "name": "Isoproterenol",
+    "names": [
+      "Isoproterenol",
+      "Isoprenaline"
+    ],
+    "formula": "C11H17NO3",
+    "exact_mass": 211.1208,
+    "mol_weight": 211.2576,
+    "remark": "Same as: D08090",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map04261": "Adrenergic signaling in cardiomyocytes"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "7683-59-2"
+      ],
+      "PubChem": [
+        "9268"
+      ],
+      "ChEBI": [
+        "64317"
+      ],
+      "ChEMBL": [
+        "CHEMBL434"
+      ],
+      "NIKKAJI": [
+        "J28.477G"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8y C    24.4217  -15.8793\n            2   C8x C    23.2279  -15.1453\n            3   C8x C    24.4647  -17.2609\n            4   C8y C    22.0072  -15.7930\n            5   C8x C    23.1739  -17.9086\n            6   C8y C    21.9802  -17.1747\n            7   O1a O    20.8135  -15.0591\n            8   O1a O    20.7596  -17.8224\n            9   C1c C    25.6671  -15.2055\n            10  C1b C    26.8807  -15.9061\n            11  N1b N    28.0943  -15.2055\n            12  C1c C    29.3078  -15.9061\n            13  C1a C    30.5214  -15.2055\n            14  O1a O    25.6865  -13.8048\n            15  C1a C    29.3078  -17.3073\nBOND        15\n            1     1   2 1\n            2     1   3 2\n            3     2   4 2\n            4     3   5 1\n            5     4   6 1\n            6     4   7 1\n            7     6   8 1\n            8     5   6 2\n            9     1   9 1\n            10    9  10 1\n            11   10  11 1\n            12   11  12 1\n            13   12  13 1\n            14    9  14 1\n            15   12  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

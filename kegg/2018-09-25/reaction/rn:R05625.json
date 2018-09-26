@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R05625",
+    "name": "Phenylphosphate synthase",
+    "definition": "Phenol + ATP + H2O <=> Phenolic phosphate + AMP + Orthophosphate",
+    "equation": "C00146 + C00002 + C00001 <=> C02734 + C00020 + C00009",
+    "comment": "multi-step reaction forming protein phosphohistidine intermediate",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.9.-"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+][
+  {
+    "entry_id": "R05625",
+    "name": "Phenylphosphate synthase",
+    "definition": "Phenol + ATP + H2O <=> Phenolic phosphate + AMP + Orthophosphate",
+    "equation": "C00146 + C00002 + C00001 <=> C02734 + C00020 + C00009",
+    "comment": "multi-step reaction forming protein phosphohistidine intermediate",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.9.-"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

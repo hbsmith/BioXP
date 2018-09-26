@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "C16920",
+    "name": "Bornyl isovalerate",
+    "names": [
+      "Bornyl isovalerate",
+      "Bornyval",
+      "Hysterol"
+    ],
+    "formula": "C15H26O2",
+    "exact_mass": 238.1933,
+    "mol_weight": 238.3657,
+    "remark": "",
+    "comment": "Relative configuration (including both enantiomers)",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "76-50-6"
+      ],
+      "PubChem": [
+        "96023412"
+      ],
+      "ChEBI": [
+        "80797"
+      ],
+      "NIKKAJI": [
+        "J74.696G"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   C1z C    45.2397  -20.5866\n            2   C1z C    45.9328  -19.4776\n            3   C1y C    43.9227  -21.2798\n            4   C1x C    46.7646  -20.7945\n            5   C1a C    44.8237  -19.5469\n            6   C1y C    45.9328  -21.7649\n            7   C1a C    45.5169  -18.5765\n            8   C1a C    46.6952  -18.9923\n            9   C1x C    44.6158  -22.7353\n            10  O7a O    42.9510  -22.1115\n            11  C1x C    47.5270  -22.1808\n            12  C7a C    41.8432  -22.1115\n            13  C1b C    41.2194  -23.2205\n            14  O6a O    41.2194  -21.0718\n            15  C1c C    39.8332  -23.2205\n            16  C1a C    39.1233  -21.9904\n            17  C1a C    39.1303  -24.4379\nBOND        18\n            1     1   4 1\n            2     1   5 1\n            3     2   6 1\n            4     2   7 1\n            5     2   8 1\n            6     3   9 1\n            7     3  10 1 #Down\n            8     4  11 1\n            9     6   9 1\n            10    6  11 1\n            11   10  12 1\n            12    1   2 1\n            13   12  13 1\n            14    1   3 1\n            15   12  14 2\n            16   13  15 1\n            17   15  16 1\n            18   15  17 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

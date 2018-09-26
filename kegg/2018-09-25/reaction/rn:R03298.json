@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03298",
+    "name": "",
+    "definition": "2,3-Bisphospho-D-glycerate + ATP <=> Cyclic 2,3-bisphospho-D-glycerate + ADP + Orthophosphate",
+    "equation": "C01159 + C00002 <=> C06189 + C00008 + C00009",
+    "comment": "cyclic 2,3-diphosphoglycerate synthetase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.6.1.-"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K05716": "cyclic 2,3-diphosphoglycerate synthetase [EC:4.6.1.-]"
+    }
+  }
+]

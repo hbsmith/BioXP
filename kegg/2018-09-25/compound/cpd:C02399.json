@@ -1,0 +1,36 @@
+[
+  {
+    "entry_id": "C02399",
+    "name": "D-Xylosylprotein",
+    "names": [
+      "D-Xylosylprotein",
+      "O-beta-D-Xylosylprotein",
+      "Protein O-D-xyloside"
+    ],
+    "formula": "C9H14N2O7R2",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "Same as: G00154",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R03356"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.4.2.33"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5433"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C1c C    32.9000  -20.9300\n            2   C5a C    34.1600  -21.6300\n            3   N1b N    32.9000  -19.5300\n            4   C1b C    31.7100  -21.6300\n            5   N1b N    35.3500  -20.9300\n            6   O5a O    34.1600  -23.1000\n            7   C5a C    34.1600  -18.8300\n            8   O2a O    30.5200  -20.9300\n            9   R   R    36.5400  -21.6300\n            10  O5a O    34.1600  -17.5000\n            11  R   R    35.3500  -19.5300\n            12  C1y C    29.3076  -21.6300\n            13  O2x O    28.1121  -20.9396\n            14  C1x C    26.8996  -21.6395\n            15  C1y C    26.8994  -23.0395\n            16  C1y C    28.0949  -23.7299\n            17  C1y C    29.3074  -23.0300\n            18  O1a O    25.6870  -23.7395\n            19  O1a O    30.5198  -23.7300\n            20  O1a O    28.0949  -25.1299\nBOND        20\n            1     1   2 1\n            2     1   3 1 #Down\n            3     1   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     7  10 2\n            10    7  11 1\n            11   12   8 1 #Up\n            12   12  13 1\n            13   13  14 1\n            14   14  15 1\n            15   15  16 1\n            16   16  17 1\n            17   12  17 1\n            18   15  18 1 #Down\n            19   17  19 1 #Down\n            20   16  20 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

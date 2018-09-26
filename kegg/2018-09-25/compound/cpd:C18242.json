@@ -1,0 +1,75 @@
+[
+  {
+    "entry_id": "C18242",
+    "name": "2,3,5-Trichlorodienelactone",
+    "names": [
+      "2,3,5-Trichlorodienelactone"
+    ],
+    "formula": "C6HCl3O4",
+    "exact_mass": 241.894,
+    "mol_weight": 243.4287,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09135",
+      "R09136"
+    ],
+    "pathways": {
+      "map00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "3.1.1.45",
+      "5.5.1.7"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "103061424"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   O7x O    25.7903  -18.2763\n            2   C2y C    26.9756  -19.1131\n            3   C2y C    26.5572  -20.4378\n            4   C2y C    25.0930  -20.4378\n            5   C7x C    24.6746  -19.1131\n            6   X   Cl   24.3260  -21.5535\n            7   O6a O    23.3499  -18.6947\n            8   C2c C    28.3004  -18.6947\n            9   C6a C    28.5793  -17.3002\n            10  X   Cl   29.3463  -19.6011\n            11  O6a O    27.5334  -16.3938\n            12  O6a O    29.9041  -16.8818\n            13  X   Cl   27.3760  -21.5555\nBOND        13\n            1     4   6 1\n            2     5   7 2\n            3     1   2 1\n            4     2   8 2\n            5     3   4 2\n            6     8   9 1\n            7     4   5 1\n            8     8  10 1\n            9     5   1 1\n            10    9  11 1\n            11    2   3 1\n            12    9  12 2\n            13    3  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C18242",
+    "name": "2,3,5-Trichlorodienelactone",
+    "names": [
+      "2,3,5-Trichlorodienelactone"
+    ],
+    "formula": "C6HCl3O4",
+    "exact_mass": 241.894,
+    "mol_weight": 243.4287,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09135",
+      "R09136"
+    ],
+    "pathways": {
+      "map00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "3.1.1.45",
+      "5.5.1.7"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "103061424"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   O7x O    25.7903  -18.2763\n            2   C2y C    26.9756  -19.1131\n            3   C2y C    26.5572  -20.4378\n            4   C2y C    25.0930  -20.4378\n            5   C7x C    24.6746  -19.1131\n            6   X   Cl   24.3260  -21.5535\n            7   O6a O    23.3499  -18.6947\n            8   C2c C    28.3004  -18.6947\n            9   C6a C    28.5793  -17.3002\n            10  X   Cl   29.3463  -19.6011\n            11  O6a O    27.5334  -16.3938\n            12  O6a O    29.9041  -16.8818\n            13  X   Cl   27.3760  -21.5555\nBOND        13\n            1     4   6 1\n            2     5   7 2\n            3     1   2 1\n            4     2   8 2\n            5     3   4 2\n            6     8   9 1\n            7     4   5 1\n            8     8  10 1\n            9     5   1 1\n            10    9  11 1\n            11    2   3 1\n            12    9  12 2\n            13    3  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

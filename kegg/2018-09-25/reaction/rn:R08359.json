@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08359",
+    "name": "S-adenosylmethioninamine:cadaverine 3-aminopropyltransferase",
+    "definition": "S-Adenosylmethioninamine + Cadaverine <=> 5'-Methylthioadenosine + Aminopropylcadaverine",
+    "equation": "C01137 + C01672 <=> C00170 + C16565",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.16"
+    ],
+    "pathways": {
+      "rn00480": "Glutathione metabolism"
+    },
+    "orthologs": {
+      "K00797": "spermidine synthase [EC:2.5.1.16]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06934",
+    "name": "",
+    "definition": "2-Hydroxy-4-hydroxymethylbenzalpyruvate + H2O <=> 4-Hydroxymethylsalicylaldehyde + Pyruvate",
+    "equation": "C14107 + C00001 <=> C14108 + C00022",
+    "comment": "2-hydroxy-4-hydroxymethylbenzalpyruvate hydratase-aldolase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.-"
+    ],
+    "pathways": {
+      "rn00626": "Naphthalene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

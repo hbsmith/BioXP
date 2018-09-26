@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10163",
+    "name": "festuclavine:NAD+ oxidoreductase",
+    "definition": "Festuclavine + NAD+ <=> 6,8-Dimethyl-6,7-didehydroergoline + NADH + H+",
+    "equation": "C20408 + C00003 <=> C20409 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.1.44"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19183": "festuclavine dehydrogenase [EC:1.5.1.44]"
+    }
+  }
+]

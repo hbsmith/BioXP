@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00668",
+    "name": "L-ornithine:2-oxoglutarate aminotransferase",
+    "definition": "L-Ornithine + 2-Oxoglutarate <=> Delta1-Pyrroline-5-carboxylate + L-Glutamate + H2O",
+    "equation": "C00077 + C00026 <=> C04322 + C00025 + C00001",
+    "comment": "two-step reaction (R00667+R03314)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.13"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

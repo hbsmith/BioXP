@@ -1,0 +1,26 @@
+[
+  {
+    "entry_id": "R01600",
+    "name": "ATP:beta-D-glucose 6-phosphotransferase",
+    "definition": "ATP + beta-D-Glucose <=> ADP + beta-D-Glucose 6-phosphate",
+    "equation": "C00002 + C00221 <=> C00008 + C01172",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.1",
+      "2.7.1.2"
+    ],
+    "pathways": {
+      "rn00010": "Glycolysis / Gluconeogenesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00844": "hexokinase [EC:2.7.1.1]",
+      "K00845": "glucokinase [EC:2.7.1.2]",
+      "K12407": "glucokinase [EC:2.7.1.2]"
+    }
+  }
+]

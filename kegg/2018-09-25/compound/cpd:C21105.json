@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C21105",
+    "name": "5-Chloro-2-hydroxy-p-benzoquinone",
+    "names": [
+      "5-Chloro-2-hydroxy-p-benzoquinone"
+    ],
+    "formula": "C6H3ClO3",
+    "exact_mass": 157.9771,
+    "mol_weight": 158.5392,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05446",
+      "R11093"
+    ],
+    "pathways": {
+      "map00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.14.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "312642074"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C5x C    18.6197  -14.7730\n            2   C2y C    19.8302  -15.4657\n            3   C2x C    17.4033  -15.4657\n            4   O5x O    18.6254  -13.3704\n            5   C2x C    19.8302  -16.8682\n            6   O1a O    21.0408  -14.7730\n            7   C2y C    17.4033  -16.8682\n            8   C5x C    18.6197  -17.5724\n            9   X   Cl   16.1928  -17.5724\n            10  O5x O    18.6254  -18.9692\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 2\n            5     2   6 1\n            6     3   7 2\n            7     5   8 1\n            8     7   9 1\n            9     8  10 2\n            10    7   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

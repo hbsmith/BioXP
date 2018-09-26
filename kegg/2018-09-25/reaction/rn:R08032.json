@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R08032",
+    "name": "garbanzol,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (3'-hydroxylating)",
+    "definition": "Garbanzol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Fustin + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C09751 + C03024 + C00007 <=> C01378 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.82"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis"
+    },
+    "orthologs": {
+      "K05280": "flavonoid 3'-monooxygenase [EC:1.14.14.82]"
+    }
+  }
+][
+  {
+    "entry_id": "R08032",
+    "name": "garbanzol,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (3'-hydroxylating)",
+    "definition": "Garbanzol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Fustin + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C09751 + C03024 + C00007 <=> C01378 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.82"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis"
+    },
+    "orthologs": {
+      "K05280": "flavonoid 3'-monooxygenase [EC:1.14.14.82]"
+    }
+  }
+]

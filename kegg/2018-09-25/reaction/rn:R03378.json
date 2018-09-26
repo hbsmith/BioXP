@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R03378",
+    "name": "GTP:5-hydroxy-L-lysine O-phosphotransferase",
+    "definition": "GTP + L-Hydroxylysine <=> GDP + 5-Phosphooxy-L-lysine",
+    "equation": "C00044 + C16741 <=> C00035 + C03366",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.81"
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K18201": "hydroxylysine kinase [EC:2.7.1.81]"
+    }
+  }
+][
+  {
+    "entry_id": "R03378",
+    "name": "GTP:5-hydroxy-L-lysine O-phosphotransferase",
+    "definition": "GTP + L-Hydroxylysine <=> GDP + 5-Phosphooxy-L-lysine",
+    "equation": "C00044 + C16741 <=> C00035 + C03366",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.81"
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K18201": "hydroxylysine kinase [EC:2.7.1.81]"
+    }
+  }
+]

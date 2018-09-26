@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C21476",
+    "name": "Phenazine",
+    "names": [
+      "Phenazine",
+      "Dibenzopyrazine",
+      "Acridizine"
+    ],
+    "formula": "C12H8N2",
+    "exact_mass": 180.0687,
+    "mol_weight": 180.2053,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11573"
+    ],
+    "pathways": {
+      "map00405": "Phenazine biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "92-82-0"
+      ],
+      "PubChem": [
+        "329970428"
+      ],
+      "ChEMBL": [
+        "CHEMBL119870"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    14.9730  -15.4628\n            2   C8x C    14.9730  -16.8621\n            3   C8x C    16.1624  -17.5618\n            4   C8y C    17.4218  -16.8621\n            5   C8y C    17.4218  -15.4628\n            6   C8x C    16.1624  -14.7631\n            7   N5x N    18.6113  -17.5618\n            8   C8y C    19.8007  -16.8621\n            9   C8y C    19.8007  -15.4628\n            10  N5x N    18.6113  -14.7631\n            11  C8x C    21.0601  -17.5618\n            12  C8x C    22.2496  -16.8621\n            13  C8x C    22.2496  -15.4628\n            14  C8x C    21.0601  -14.7631\nBOND        16\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 2\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12    8  11 1\n            13   11  12 2\n            14   12  13 1\n            15   13  14 2\n            16    9  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

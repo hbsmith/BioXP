@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C14082",
+    "name": "1-Methylnaphthalene",
+    "names": [
+      "1-Methylnaphthalene",
+      "alpha-Methylnaphthalene"
+    ],
+    "formula": "C11H10",
+    "exact_mass": 142.0783,
+    "mol_weight": 142.1971,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06909",
+      "R06916"
+    ],
+    "pathways": {
+      "map00626": "Naphthalene degradation",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds",
+      "map07114": "Naphthalene family"
+    },
+    "enzymes": [
+      "1.14.12.12",
+      "1.14.13.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "90-12-0"
+      ],
+      "PubChem": [
+        "854318"
+      ],
+      "ChEBI": [
+        "50717"
+      ],
+      "ChEMBL": [
+        "CHEMBL383808"
+      ],
+      "NIKKAJI": [
+        "J3.552A"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    26.4124  -16.9735\n            2   C8x C    26.4124  -18.3723\n            3   C8x C    27.6277  -19.0754\n            4   C8y C    27.6277  -16.2705\n            5   C8y C    28.8360  -16.9735\n            6   C8y C    28.8301  -18.3723\n            7   C8x C    30.0394  -19.0804\n            8   C8x C    31.3248  -18.3826\n            9   C8x C    31.2609  -16.9838\n            10  C8x C    30.0514  -16.2757\n            11  C1a C    27.6295  -14.8715\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   6 2\n            4     5   4 2\n            5     4   1 1\n            6     5   6 1\n            7     6   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11   10   5 1\n            12    4  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

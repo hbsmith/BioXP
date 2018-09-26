@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R05414",
+    "name": "9H-carbazole,NADH:oxygen oxidoreductase (2,3-hydroxylating)",
+    "definition": "Carbazole + Oxygen + NADH + H+ <=> 2'-Aminobiphenyl-2,3-diol + NAD+",
+    "equation": "C08060 + C00007 + C00004 + C00080 <=> C08061 + C00003",
+    "comment": "NADPH (see R09512)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.12.22"
+    ],
+    "pathways": {
+      "rn00621": "Dioxin degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K15751": "carbazole 1,9a-dioxygenase [EC:1.14.12.22]",
+      "K15752": "carbazole 1,9a-dioxygenase ferredoxin component",
+      "K15753": "carbazole 1,9a-dioxygenase ferredoxin reductase component"
+    }
+  }
+]

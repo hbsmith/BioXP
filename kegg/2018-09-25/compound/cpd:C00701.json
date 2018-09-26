@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C00701",
+    "name": "Base",
+    "names": [
+      "Base",
+      "Nucleobase",
+      "Base1",
+      "Base2"
+    ],
+    "formula": "",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy Pyrimidine base [CPD:C00396] Purine base [CPD:C15587]",
+    "reactions": [
+      "R02806",
+      "R03852",
+      "R04168"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.4.2.5",
+      "2.4.2.6"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3969"
+      ],
+      "ChEBI": [
+        "18282",
+        "22695"
+      ]
+    },
+    "kcf": "",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

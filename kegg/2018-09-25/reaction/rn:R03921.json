@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03921",
+    "name": "Sucrose 6-phosphate fructohydrolase",
+    "definition": "Sucrose 6-phosphate + H2O <=> D-Fructose + D-Glucose 6-phosphate",
+    "equation": "C16688 + C00001 <=> C00095 + C00092",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.26"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism"
+    },
+    "orthologs": {
+      "K01193": "beta-fructofuranosidase [EC:3.2.1.26]"
+    }
+  }
+]

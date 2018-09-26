@@ -1,0 +1,99 @@
+[
+  {
+    "entry_id": "C16235",
+    "name": "o-Hydroxylaminobenzoate",
+    "names": [
+      "o-Hydroxylaminobenzoate",
+      "2-Hydroxylaminobenzoic acid"
+    ],
+    "formula": "C7H7NO3",
+    "exact_mass": 153.0426,
+    "mol_weight": 153.1354,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07727",
+      "R07730",
+      "R07734"
+    ],
+    "pathways": {
+      "map00627": "Aminobenzoate degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.4.-.-",
+      "1.7.1.-",
+      "5.4.99.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205543"
+      ],
+      "ChEBI": [
+        "25618"
+      ],
+      "KNApSAcK": [
+        "C00007557"
+      ],
+      "NIKKAJI": [
+        "J1.228.969C"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    24.6369  -21.2078\n            2   C8x C    24.6369  -22.6076\n            3   C8x C    25.8491  -23.3075\n            4   C8x C    27.0615  -22.6076\n            5   C8y C    27.0615  -21.2078\n            6   C8y C    25.8491  -20.5079\n            7   C6a C    25.8491  -19.1083\n            8   O6a O    24.6201  -18.3984\n            9   O6a O    27.0446  -18.4179\n            10  N1b N    28.2924  -20.4969\n            11  O1b O    29.4975  -21.1925\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     7   9 2\n            10    5  10 1\n            11   10  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C16235",
+    "name": "o-Hydroxylaminobenzoate",
+    "names": [
+      "o-Hydroxylaminobenzoate",
+      "2-Hydroxylaminobenzoic acid"
+    ],
+    "formula": "C7H7NO3",
+    "exact_mass": 153.0426,
+    "mol_weight": 153.1354,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07727",
+      "R07730",
+      "R07734"
+    ],
+    "pathways": {
+      "map00627": "Aminobenzoate degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.4.-.-",
+      "1.7.1.-",
+      "5.4.99.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205543"
+      ],
+      "ChEBI": [
+        "25618"
+      ],
+      "KNApSAcK": [
+        "C00007557"
+      ],
+      "NIKKAJI": [
+        "J1.228.969C"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    24.6369  -21.2078\n            2   C8x C    24.6369  -22.6076\n            3   C8x C    25.8491  -23.3075\n            4   C8x C    27.0615  -22.6076\n            5   C8y C    27.0615  -21.2078\n            6   C8y C    25.8491  -20.5079\n            7   C6a C    25.8491  -19.1083\n            8   O6a O    24.6201  -18.3984\n            9   O6a O    27.0446  -18.4179\n            10  N1b N    28.2924  -20.4969\n            11  O1b O    29.4975  -21.1925\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     7   9 2\n            10    5  10 1\n            11   10  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02530",
+    "name": "(R)-S-Lactoylglutathione methylglyoxal-lyase (isomerizing)",
+    "definition": "(R)-S-Lactoylglutathione <=> Glutathione + Methylglyoxal",
+    "equation": "C03451 <=> C00051 + C00546",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.5"
+    ],
+    "pathways": {
+      "rn00620": "Pyruvate metabolism"
+    },
+    "orthologs": {
+      "K01759": "lactoylglutathione lyase [EC:4.4.1.5]"
+    }
+  }
+]

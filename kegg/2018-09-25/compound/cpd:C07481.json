@@ -1,0 +1,75 @@
+[
+  {
+    "entry_id": "C07481",
+    "name": "Caffeine",
+    "names": [
+      "Caffeine",
+      "1,3,7-Trimethylxanthine"
+    ],
+    "formula": "C8H10N4O2",
+    "exact_mass": 194.0804,
+    "mol_weight": 194.1906,
+    "remark": "Same as: D00528",
+    "comment": "",
+    "reactions": [
+      "R07920",
+      "R07921",
+      "R07939",
+      "R07954",
+      "R07955",
+      "R07956",
+      "R07971",
+      "R07972",
+      "R07980"
+    ],
+    "pathways": {
+      "map00232": "Caffeine metabolism",
+      "map01060": "Biosynthesis of plant secondary metabolites",
+      "map01065": "Biosynthesis of alkaloids derived from histidine and purine",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.13.12.-",
+      "1.14.13.178",
+      "1.14.13.179",
+      "1.14.14.1",
+      "1.17.5.2",
+      "2.1.1.160"
+    ],
+    "dblinks": {
+      "CAS": [
+        "58-08-2"
+      ],
+      "PubChem": [
+        "9684"
+      ],
+      "ChEBI": [
+        "27732"
+      ],
+      "ChEMBL": [
+        "CHEMBL113"
+      ],
+      "KNApSAcK": [
+        "C00001492"
+      ],
+      "PDB-CCD": [
+        "CFF"
+      ],
+      "3DMET": [
+        "B02124"
+      ],
+      "NIKKAJI": [
+        "J2.330B"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    26.6863  -18.2225\n            2   C8y C    26.6863  -19.6480\n            3   C8y C    27.8899  -17.5154\n            4   N4y N    25.3833  -17.7901\n            5   N4y N    27.8899  -20.3317\n            6   N5x N    25.3833  -20.0805\n            7   N4y N    29.1110  -18.2517\n            8   O5x O    27.8899  -16.1365\n            9   C8x C    24.5654  -18.9469\n            10  C1a C    24.9509  -16.4637\n            11  C8y C    29.1110  -19.5955\n            12  C1a C    27.8899  -21.7632\n            13  C1a C    30.3322  -17.5681\n            14  O5x O    30.3613  -20.2967\nBOND        15\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     3   8 2\n            8     4   9 1\n            9     4  10 1\n            10    5  11 1\n            11    5  12 1\n            12    7  13 1\n            13   11  14 2\n            14    6   9 2\n            15    7  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

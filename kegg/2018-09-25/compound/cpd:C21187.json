@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C21187",
+    "name": "Tulipalin B",
+    "names": [
+      "Tulipalin B",
+      "(4S)-4-Hydroxy-3-methylideneoxolan-2-one"
+    ],
+    "formula": "C5H6O3",
+    "exact_mass": 114.0317,
+    "mol_weight": 114.0993,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11215"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.2.99.23"
+    ],
+    "dblinks": {
+      "CAS": [
+        "38965-80-9"
+      ],
+      "PubChem": [
+        "315431310"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1y C    17.3126  -16.6847\n            2   C2y C    18.7144  -16.6847\n            3   C7x C    19.1476  -15.3515\n            4   O7x O    18.0135  -14.5275\n            5   C1x C    16.8795  -15.3515\n            6   O6a O    20.4689  -14.9221\n            7   C2a C    19.5384  -17.8187\n            8   O1a O    16.4937  -17.8115\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     3   6 2\n            7     2   7 2\n            8     1   8 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08235",
+    "name": "6-mercaptopurin:oxygen oxidoreductase",
+    "definition": "6-Mercaptopurine + 2 H2O + 2 Oxygen <=> 6-Thiourate + 2 Hydrogen peroxide",
+    "equation": "C02380 + 2 C00001 + 2 C00007 <=> C16613 + 2 C00027",
+    "comment": "two-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.17.3.2"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K00106": "xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2]"
+    }
+  }
+]

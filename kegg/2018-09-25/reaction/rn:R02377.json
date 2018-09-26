@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02377",
+    "name": "Propane-1,3-diol:NAD+ 1-oxidoreductase",
+    "definition": "Propane-1-ol + NAD+ <=> Propanal + NADH + H+",
+    "equation": "C05979 + C00003 <=> C00479 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.202"
+    ],
+    "pathways": {
+      "rn00640": "Propanoate metabolism"
+    },
+    "orthologs": {
+      "K00086": "1,3-propanediol dehydrogenase [EC:1.1.1.202]",
+      "K13921": "1-propanol dehydrogenase"
+    }
+  }
+]

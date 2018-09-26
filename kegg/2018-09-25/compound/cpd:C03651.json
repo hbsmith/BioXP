@@ -1,0 +1,73 @@
+[
+  {
+    "entry_id": "C03651",
+    "name": "trans-4-Hydroxy-D-proline",
+    "names": [
+      "trans-4-Hydroxy-D-proline"
+    ],
+    "formula": "C5H9NO3",
+    "exact_mass": 131.0582,
+    "mol_weight": 131.1299,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6431"
+      ],
+      "NIKKAJI": [
+        "J1.115.736J"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1x C    24.0744  -18.1608\n            2   C1y C    24.4664  -19.5048\n            3   C1x C    25.8658  -19.5473\n            4   C1y C    26.3386  -18.2296\n            5   N1x N    25.2315  -17.3727\n            6   C6a C    27.5324  -17.5000\n            7   O6a O    28.7449  -18.2000\n            8   O1a O    23.6103  -20.6109\n            9   O6a O    27.5150  -16.1000\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     4   6 1 #Up\n            7     6   7 1\n            8     2   8 1 #Down\n            9     6   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C03651",
+    "name": "trans-4-Hydroxy-D-proline",
+    "names": [
+      "trans-4-Hydroxy-D-proline"
+    ],
+    "formula": "C5H9NO3",
+    "exact_mass": 131.0582,
+    "mol_weight": 131.1299,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6431"
+      ],
+      "NIKKAJI": [
+        "J1.115.736J"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1x C    24.0744  -18.1608\n            2   C1y C    24.4664  -19.5048\n            3   C1x C    25.8658  -19.5473\n            4   C1y C    26.3386  -18.2296\n            5   N1x N    25.2315  -17.3727\n            6   C6a C    27.5324  -17.5000\n            7   O6a O    28.7449  -18.2000\n            8   O1a O    23.6103  -20.6109\n            9   O6a O    27.5150  -16.1000\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     4   6 1 #Up\n            7     6   7 1\n            8     2   8 1 #Down\n            9     6   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

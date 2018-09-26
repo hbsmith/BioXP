@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R12064",
+    "name": "",
+    "definition": "1-(5-O-Phospho-beta-D-ribofuranosyl)-5-(sulfanylcarbonyl)pyridin-1-ium-3-carbonyl adenylate + [Protein]-L-cysteine <=> AMP + [LarE protein]-S-[1-(5-O-phosphono-beta-D-ribofuranosyl)-5-(sulfanylcarbonyl)pyridin-1-ium-3-carbonyl]-L-cysteine",
+    "equation": "C21879 + C02743 <=> C00020 + C21881",
+    "comment": "the second step of three-step reaction (see R12066, R12053+R12064+R12065)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.37"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

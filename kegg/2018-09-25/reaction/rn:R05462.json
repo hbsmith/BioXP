@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05462",
+    "name": "4-hydroxy-6-methylpretetramide,NADPH:oxygen oxidoreductase (12a-hydroxylating)",
+    "definition": "4-Hydroxy-6-methylpretetramide + NADPH + Oxygen + H+ <=> 4-Keto-anhydrotetracycline + NADP+ + H2O",
+    "equation": "C06628 + C00005 + C00007 + C00080 <=> C06627 + C00006 + C00001",
+    "comment": "following after R05463",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.233"
+    ],
+    "pathways": {
+      "rn00253": "Tetracycline biosynthesis",
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K14252": "6-methylpretetramide 4-monooxygenase / 4-hydroxy-6-methylpretetramide 12a-monooxygenase [EC:1.14.13.232 1.14.13.233]"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04283",
+    "name": "",
+    "definition": "4-Imidazolone-5-propanoate + H2O <=> 4-Oxoglutaramate + Formate + Ammonia",
+    "equation": "C03680 + C00001 <=> C05572 + C00058 + C00014",
+    "comment": "multi-step reaction non-enzymatic incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00340": "Histidine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

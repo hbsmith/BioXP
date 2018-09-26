@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C11036",
+    "name": "Bromobenzene",
+    "names": [
+      "Bromobenzene"
+    ],
+    "formula": "C6H5Br",
+    "exact_mass": 155.9575,
+    "mol_weight": 157.0079,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07066",
+      "R07068"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "108-86-1"
+      ],
+      "PubChem": [
+        "13219"
+      ],
+      "ChEBI": [
+        "3179"
+      ],
+      "ChEMBL": [
+        "CHEMBL16068"
+      ],
+      "NIKKAJI": [
+        "J2.867C"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   C8x C    27.6768  -16.9685\n            2   C8x C    27.6768  -18.3684\n            3   C8x C    28.8930  -19.0719\n            4   C8x C    30.1020  -18.3684\n            5   C8x C    30.1020  -16.9685\n            6   C8y C    28.8930  -16.2721\n            7   X   Br   28.8947  -14.8724\nBOND        7\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     6   1 1\n            7     6   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

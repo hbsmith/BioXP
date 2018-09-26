@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01346",
+    "name": "L-asparagine:2-oxo-acid aminotransferase",
+    "definition": "L-Asparagine + 2-Oxo acid <=> 2-Oxosuccinamate + L-Amino acid",
+    "equation": "C00152 + C00161 <=> C02362 + C00151",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.14"
+    ],
+    "pathways": {
+      "rn00250": "Alanine, aspartate and glutamate metabolism"
+    },
+    "orthologs": {
+      "K22457": "asparagine---oxo-acid transaminase [EC:2.6.1.14]"
+    }
+  }
+]

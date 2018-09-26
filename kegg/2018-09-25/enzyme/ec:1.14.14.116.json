@@ -1,0 +1,155 @@
+[
+  {
+    "entry_id": "1.14.14.116",
+    "name": "averantin hydroxylase",
+    "names": [
+      "averantin hydroxylase",
+      "AVN hydroxylase",
+      "avnA (gene name)",
+      "CYP60A1"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "(1'S)-averantin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (5'-hydroxylating)",
+    "reaction": "(1) (1'S)-averantin + [reduced NADPH---hemoprotein reductase] + O2 = (1'S,5'S)-5'-hydroxyaverantin + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R10317]; (2) (1'S)-averantin + [reduced NADPH---hemoprotein reductase] + O2 = (1'S,5'R)-5'-hydroxyaverantin + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R10318]",
+    "all_reac": "R10317 R10318",
+    "iubmb_reactions": [
+      "R10317 R10318"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "(1'S)-averantin [CPD:C20499]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "(1'S,5'S)-5'-hydroxyaverantin [CPD:C20500]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]",
+      "(1'S,5'R)-5'-hydroxyaverantin [CPD:C20501]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein isolated from the saprophytic mold Aspergillus parasiticus. Involved in aflatoxin biosynthesis. Does not react with (1'R)-averantin.",
+    "pathways": {
+      "ec00254": "Aflatoxin biosynthesis",
+      "ec01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K17645": "averantin hydroxylase"
+    },
+    "genes": {
+      "pan": [
+        "PODANSg8563"
+      ],
+      "ani": [
+        "AN7818.2"
+      ],
+      "aor": [
+        "AO090026000021"
+      ],
+      "afv": [
+        "AFLA_139260"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.116"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.116"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.116"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.116"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Yabe K",
+          "Matsuyama Y",
+          "Ando Y",
+          "Nakajima H",
+          "Hamasaki T"
+        ],
+        "title": "Stereochemistry during aflatoxin biosynthesis: conversion of norsolorinic acid to averufin.",
+        "journal": "Appl Environ Microbiol",
+        "volume": "59",
+        "issue": "",
+        "pages": "2486-92",
+        "year": "1993",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:8368836]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yu J",
+          "Chang PK",
+          "Cary JW",
+          "Bhatnagar D",
+          "Cleveland TE"
+        ],
+        "title": "avnA, a gene encoding a cytochrome P-450 monooxygenase, is involved in the conversion of averantin to averufin in aflatoxin biosynthesis in Aspergillus parasiticus.",
+        "journal": "Appl Environ Microbiol",
+        "volume": "63",
+        "issue": "",
+        "pages": "1349-56",
+        "year": "1997",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:9097431]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

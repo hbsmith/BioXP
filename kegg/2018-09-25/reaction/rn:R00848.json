@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "R00848",
+    "name": "sn-Glycerol-3-phosphate:(acceptor) 2-oxidoreductase",
+    "definition": "sn-Glycerol 3-phosphate + FAD <=> Glycerone phosphate + FADH2",
+    "equation": "C00093 + C00016 <=> C00111 + C01352",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.5.3"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00111": "glycerol-3-phosphate dehydrogenase [EC:1.1.5.3]",
+      "K00112": "glycerol-3-phosphate dehydrogenase subunit B [EC:1.1.5.3]",
+      "K00113": "glycerol-3-phosphate dehydrogenase subunit C [EC:1.1.5.3]"
+    }
+  }
+][
+  {
+    "entry_id": "R00848",
+    "name": "sn-Glycerol-3-phosphate:(acceptor) 2-oxidoreductase",
+    "definition": "sn-Glycerol 3-phosphate + FAD <=> Glycerone phosphate + FADH2",
+    "equation": "C00093 + C00016 <=> C00111 + C01352",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.5.3"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K00111": "glycerol-3-phosphate dehydrogenase [EC:1.1.5.3]",
+      "K00112": "glycerol-3-phosphate dehydrogenase subunit B [EC:1.1.5.3]",
+      "K00113": "glycerol-3-phosphate dehydrogenase subunit C [EC:1.1.5.3]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11293",
+    "name": "S-adenosyl-L-methionine:methylcob(III)alamin:gentamicin-A methyltransferase",
+    "definition": "Gentamicin A + Methylcobalamin + S-Adenosyl-L-methionine + H+ + e- <=> Gentamicin X2 + Cob(II)alamin + 5'-Deoxyadenosine + L-Methionine",
+    "equation": "C01917 + C06453 + C00019 + C00080 + C05359 <=> C17702 + C00541 + C05198 + C00073",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20593": "cobalamin-dependent radical SAM methyltransferase [EC:2.1.1.-]"
+    }
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "entry_id": "C01817",
+    "name": "L-Homocystine",
+    "names": [
+      "L-Homocystine",
+      "Homocystine"
+    ],
+    "formula": "C8H16N2O4S2",
+    "exact_mass": 268.0551,
+    "mol_weight": 268.3536,
+    "remark": "",
+    "comment": "Homocystine (generic) [CPD:C20788]",
+    "reactions": [
+      "R01292"
+    ],
+    "pathways": {
+      "map00270": "Cysteine and methionine metabolism"
+    },
+    "enzymes": [
+      "1.8.4.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "626-72-2"
+      ],
+      "PubChem": [
+        "4941"
+      ],
+      "ChEBI": [
+        "141698",
+        "17485"
+      ],
+      "3DMET": [
+        "B01502"
+      ],
+      "NIKKAJI": [
+        "J5.770C"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   O6a O    11.9801  -16.5354\n            2   C6a C    13.1932  -15.8350\n            3   C1c C    14.4065  -16.5354\n            4   C1b C    15.6196  -15.8350\n            5   C1b C    16.8328  -16.5354\n            6   S3a S    18.0461  -15.8350\n            7   S3a S    19.2592  -16.5354\n            8   C1b C    20.4724  -15.8350\n            9   C1b C    21.6856  -16.5354\n            10  C1c C    22.8988  -15.8350\n            11  O6a O    13.1932  -14.4343\n            12  N1a N    14.4065  -17.9361\n            13  C6a C    24.1180  -16.5389\n            14  N1a N    22.8988  -14.4341\n            15  O6a O    25.3173  -15.8464\n            16  O6a O    24.1180  -17.9362\nBOND        15\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10    2  11 2\n            11    3  12 1 #Down\n            12   10  13 1\n            13   10  14 1 #Down\n            14   13  15 1\n            15   13  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C01817",
+    "name": "L-Homocystine",
+    "names": [
+      "L-Homocystine",
+      "Homocystine"
+    ],
+    "formula": "C8H16N2O4S2",
+    "exact_mass": 268.0551,
+    "mol_weight": 268.3536,
+    "remark": "",
+    "comment": "Homocystine (generic) [CPD:C20788]",
+    "reactions": [
+      "R01292"
+    ],
+    "pathways": {
+      "map00270": "Cysteine and methionine metabolism"
+    },
+    "enzymes": [
+      "1.8.4.1"
+    ],
+    "dblinks": {
+      "CAS": [
+        "626-72-2"
+      ],
+      "PubChem": [
+        "4941"
+      ],
+      "ChEBI": [
+        "141698",
+        "17485"
+      ],
+      "3DMET": [
+        "B01502"
+      ],
+      "NIKKAJI": [
+        "J5.770C"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   O6a O    11.9801  -16.5354\n            2   C6a C    13.1932  -15.8350\n            3   C1c C    14.4065  -16.5354\n            4   C1b C    15.6196  -15.8350\n            5   C1b C    16.8328  -16.5354\n            6   S3a S    18.0461  -15.8350\n            7   S3a S    19.2592  -16.5354\n            8   C1b C    20.4724  -15.8350\n            9   C1b C    21.6856  -16.5354\n            10  C1c C    22.8988  -15.8350\n            11  O6a O    13.1932  -14.4343\n            12  N1a N    14.4065  -17.9361\n            13  C6a C    24.1180  -16.5389\n            14  N1a N    22.8988  -14.4341\n            15  O6a O    25.3173  -15.8464\n            16  O6a O    24.1180  -17.9362\nBOND        15\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10    2  11 2\n            11    3  12 1 #Down\n            12   10  13 1\n            13   10  14 1 #Down\n            14   13  15 1\n            15   13  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

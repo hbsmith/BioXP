@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R08864",
+    "name": "2-hydroxyethylphosphonate:O2 1,2-oxidoreductase (hydroxymethylphosphonate forming)",
+    "definition": "2-Hydroxyethylphosphonate + Oxygen <=> Hydroxymethylphosphonate + Formate",
+    "equation": "C06451 + C00007 <=> C06455 + C00058",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.72"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12905": "2-hydroxyethylphosphonate dioxygenase [EC:1.13.11.72]"
+    }
+  }
+][
+  {
+    "entry_id": "R08864",
+    "name": "2-hydroxyethylphosphonate:O2 1,2-oxidoreductase (hydroxymethylphosphonate forming)",
+    "definition": "2-Hydroxyethylphosphonate + Oxygen <=> Hydroxymethylphosphonate + Formate",
+    "equation": "C06451 + C00007 <=> C06455 + C00058",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.72"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12905": "2-hydroxyethylphosphonate dioxygenase [EC:1.13.11.72]"
+    }
+  }
+]

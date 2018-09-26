@@ -1,0 +1,35 @@
+[
+  {
+    "entry_id": "R09859",
+    "name": "cholest-4-en-3-one,NADH:oxygen oxidoreductase (26-hydroxylating)",
+    "definition": "Cholest-4-en-3-one + 2 Reduced ferredoxin + 2 H+ + Oxygen <=> (25S)-26-Hydroxycholest-4-en-3-one + 2 Oxidized ferredoxin + H2O",
+    "equation": "C00599 + 2 C00138 + 2 C00080 + C00007 <=> C20143 + 2 C00139 + C00001",
+    "comment": "the first step of three-step reaction (see R11357, R09859+R11355+R11356)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.29"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+][
+  {
+    "entry_id": "R09859",
+    "name": "cholest-4-en-3-one,NADH:oxygen oxidoreductase (26-hydroxylating)",
+    "definition": "Cholest-4-en-3-one + 2 Reduced ferredoxin + 2 H+ + Oxygen <=> (25S)-26-Hydroxycholest-4-en-3-one + 2 Oxidized ferredoxin + H2O",
+    "equation": "C00599 + 2 C00138 + 2 C00080 + C00007 <=> C20143 + 2 C00139 + C00001",
+    "comment": "the first step of three-step reaction (see R11357, R09859+R11355+R11356)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.29"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

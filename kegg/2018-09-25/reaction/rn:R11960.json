@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "R11960",
+    "name": "L-glutamate:FMN aminotransferase (oxidizing, decarboxylating)",
+    "definition": "L-Glutamate + FMN + Oxygen + H2O + 3 Acceptor <=> 2-Oxoglutarate + 8-Amino-8-demethylriboflavin 5'-phosphate + CO2 + 3 Reduced acceptor",
+    "equation": "C00025 + C00061 + C00007 + C00001 + 3 C00028 <=> C00026 + C21805 + C00011 + 3 C00030",
+    "comment": "three-step reaction (see R11961+R11962+R11963)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.114"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K22598": "8-demethyl-8-aminoriboflavin-5'-phosphate synthase [EC:2.6.1.114]"
+    }
+  }
+][
+  {
+    "entry_id": "R11960",
+    "name": "L-glutamate:FMN aminotransferase (oxidizing, decarboxylating)",
+    "definition": "L-Glutamate + FMN + Oxygen + H2O + 3 Acceptor <=> 2-Oxoglutarate + 8-Amino-8-demethylriboflavin 5'-phosphate + CO2 + 3 Reduced acceptor",
+    "equation": "C00025 + C00061 + C00007 + C00001 + 3 C00028 <=> C00026 + C21805 + C00011 + 3 C00030",
+    "comment": "three-step reaction (see R11961+R11962+R11963)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.114"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K22598": "8-demethyl-8-aminoriboflavin-5'-phosphate synthase [EC:2.6.1.114]"
+    }
+  }
+]

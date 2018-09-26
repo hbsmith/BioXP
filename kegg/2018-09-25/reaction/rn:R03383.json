@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03383",
+    "name": "methylmalonate:CoA ligase (AMP-forming)",
+    "definition": "Methylmalonate + CoA + ATP <=> (R)-Methylmalonyl-CoA + AMP + Diphosphate",
+    "equation": "C02170 + C00010 + C00002 <=> C01213 + C00020 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.-"
+    ],
+    "pathways": {
+      "rn00280": "Valine, leucine and isoleucine degradation"
+    },
+    "orthologs": {
+      "K18660": "malonyl-CoA/methylmalonyl-CoA synthetase [EC:6.2.1.-]",
+      "K18661": "malonyl-CoA/methylmalonyl-CoA synthetase [EC:6.2.1.-]",
+      "K18662": "malonyl-CoA/methylmalonyl-CoA synthetase [EC:6.2.1.-]"
+    }
+  }
+]

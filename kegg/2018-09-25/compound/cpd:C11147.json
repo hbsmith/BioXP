@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C11147",
+    "name": "Fluoromethane",
+    "names": [
+      "Fluoromethane",
+      "Methyl fluoride"
+    ],
+    "formula": "CH3F",
+    "exact_mass": 34.0219,
+    "mol_weight": 34.0329,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "593-53-3"
+      ],
+      "PubChem": [
+        "13329"
+      ],
+      "ChEBI": [
+        "28826"
+      ],
+      "ChEMBL": [
+        "CHEMBL116838"
+      ],
+      "PDB-CCD": [
+        "CF0"
+      ],
+      "NIKKAJI": [
+        "J2.696D"
+      ]
+    },
+    "kcf": "ATOM        2\n            1   C1a C    28.2491  -17.3245\n            2   X   F    29.4615  -16.6245\nBOND        1\n            1     1   2 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

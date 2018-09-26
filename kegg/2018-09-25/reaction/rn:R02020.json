@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02020",
+    "name": "2'-Deoxyguanosine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase",
+    "definition": "dGTP + Thioredoxin disulfide + H2O <=> GTP + Thioredoxin",
+    "equation": "C00286 + C00343 + C00001 <=> C00044 + C00342",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.17.4.2"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00527": "ribonucleoside-triphosphate reductase (thioredoxin) [EC:1.17.4.2]"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "R01183",
+    "name": "myo-Inositol:NAD+ 2-oxidoreductase",
+    "definition": "myo-Inositol + NAD+ <=> 2,4,6/3,5-Pentahydroxycyclohexanone + NADH + H+",
+    "equation": "C00137 + C00003 <=> C00691 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.18"
+    ],
+    "pathways": {
+      "rn00521": "Streptomycin biosynthesis",
+      "rn00562": "Inositol phosphate metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00010": "myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369]"
+    }
+  }
+][
+  {
+    "entry_id": "R01183",
+    "name": "myo-Inositol:NAD+ 2-oxidoreductase",
+    "definition": "myo-Inositol + NAD+ <=> 2,4,6/3,5-Pentahydroxycyclohexanone + NADH + H+",
+    "equation": "C00137 + C00003 <=> C00691 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.18"
+    ],
+    "pathways": {
+      "rn00521": "Streptomycin biosynthesis",
+      "rn00562": "Inositol phosphate metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00010": "myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369]"
+    }
+  }
+]

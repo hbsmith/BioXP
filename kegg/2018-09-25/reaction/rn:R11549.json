@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11549",
+    "name": "",
+    "definition": "Feruloyl-CoA + 2-Oxoglutarate + Oxygen <=> 6-Hydroxyferuloyl-CoA + Succinate + CO2",
+    "equation": "C00406 + C00026 + C00007 <=> C21459 + C00042 + C00011",
+    "comment": "feruloyl-CoA ortho-hydroxylase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.-"
+    ],
+    "pathways": {
+      "rn00940": "Phenylpropanoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K06892": "feruloyl-CoA ortho-hydroxylase [EC:1.14.11.-]"
+    }
+  }
+]

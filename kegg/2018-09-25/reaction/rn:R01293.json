@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R01293",
+    "name": "4-hydroxybenzaldehyde:NAD+ oxidoreductase",
+    "definition": "4-Hydroxybenzaldehyde + NAD+ + H2O <=> 4-Hydroxybenzoate + NADH + H+",
+    "equation": "C00633 + C00003 + C00001 <=> C00156 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.28",
+      "1.2.1.64"
+    ],
+    "pathways": {
+      "rn00623": "Toluene degradation",
+      "rn00627": "Aminobenzoate degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00141": "benzaldehyde dehydrogenase (NAD) [EC:1.2.1.28]"
+    }
+  }
+]

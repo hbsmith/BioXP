@@ -1,0 +1,180 @@
+[
+  {
+    "entry_id": "1.14.14.91",
+    "name": "trans-cinnamate 4-monooxygenase",
+    "names": [
+      "trans-cinnamate 4-monooxygenase",
+      "cinnamic acid 4-hydroxylase",
+      "CA4H",
+      "cytochrome P450 cinnamate 4-hydroxylase",
+      "cinnamate 4-hydroxylase",
+      "cinnamate 4-monooxygenase",
+      "cinnamate hydroxylase",
+      "cinnamic 4-hydroxylase",
+      "cinnamic acid 4-monooxygenase",
+      "cinnamic acid p-hydroxylase",
+      "t-cinnamic acid hydroxylase",
+      "trans-cinnamate 4-hydroxylase",
+      "trans-cinnamic acid 4-hydroxylase",
+      "CYP73A1 (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "trans-cinnamate,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (4-hydroxylating)",
+    "reaction": "trans-cinnamate + [reduced NADPH---hemoprotein reductase] + O2 = 4-hydroxycinnamate + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R02253]",
+    "all_reac": "R02253; (other) R08815",
+    "iubmb_reactions": [
+      "R02253"
+    ],
+    "kegg_reactions": [
+      "R08815"
+    ],
+    "substrates": [
+      "trans-cinnamate [CPD:C00423]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "4-hydroxycinnamate [CPD:C00811]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein found in plants. The enzyme is involved in flavonoid biosynthesis.",
+    "pathways": {
+    },
+    "orthologs": {
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.91"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.91"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.91"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.91"
+      ],
+      "CAS": [
+        "9077-75-2"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Potts JR",
+          "Weklych R",
+          "Conn EE",
+          "Rowell J."
+        ],
+        "title": "The 4-hydroxylation of cinnamic acid by sorghum microsomes and the requirement for cytochrome P-450.",
+        "journal": "J Biol Chem",
+        "volume": "249",
+        "issue": "",
+        "pages": "5019-26",
+        "year": "1974",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:4153152]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Russell DW",
+          "Conn EE."
+        ],
+        "title": "The cinnamic acid 4-hydroxylase of pea seedlings.",
+        "journal": "Arch Biochem Biophys 122:256-8 (1967) DOI:10.1016/0003-9861(67)90150-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:4383827]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pierrel MA",
+          "Batard Y",
+          "Kazmaier M",
+          "Mignotte-Vieux C",
+          "Durst F",
+          "Werck-Reichhart D"
+        ],
+        "title": "Catalytic properties of the plant cytochrome P450 CYP73 expressed in yeast. Substrate specificity of a cinnamate hydroxylase.",
+        "journal": "Eur J Biochem",
+        "volume": "224",
+        "issue": "",
+        "pages": "835-44",
+        "year": "1994",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:7925408]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

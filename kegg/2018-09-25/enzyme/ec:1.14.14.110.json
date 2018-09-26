@@ -1,0 +1,140 @@
+[
+  {
+    "entry_id": "1.14.14.110",
+    "name": "2-hydroxy-1,4-benzoxazin-3-one monooxygenase",
+    "names": [
+      "2-hydroxy-1,4-benzoxazin-3-one monooxygenase",
+      "BX5 (gene name)",
+      "CYP71C3 (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "2-hydroxy-2H-1,4-benzoxazin-3(4H)-one,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (N-hydroxylating)",
+    "reaction": "2-hydroxy-2H-1,4-benzoxazin-3(4H)-one + [reduced NADPH---hemoprotein reductase] + O2 = 2,4-dihydroxy-2H-1,4-benzoxazin-3(4H)-one + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R07423]",
+    "all_reac": "R07423",
+    "iubmb_reactions": [
+      "R07423"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "2-hydroxy-2H-1,4-benzoxazin-3(4H)-one [CPD:C15769]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "2,4-dihydroxy-2H-1,4-benzoxazin-3(4H)-one [CPD:C15770]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein. The enzyme is involved in the biosynthesis of protective and allelophatic benzoxazinoids in some plants, most commonly from the family of Poaceae (grasses).",
+    "pathways": {
+      "ec00402": "Benzoxazinoid biosynthesis",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13226": "2-hydroxy-1,4-benzoxazin-3-one monooxygenase"
+    },
+    "genes": {
+      "zma": [
+        "103652726"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.110"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.110"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.110"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.110"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Bailey BA",
+          "Larson RL."
+        ],
+        "title": "Maize Microsomal Benzoxazinone N-Monooxygenase.",
+        "journal": "Plant Physiol",
+        "volume": "95",
+        "issue": "",
+        "pages": "792-796",
+        "year": "1991",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:16668055]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Glawischnig E",
+          "Grun S",
+          "Frey M",
+          "Gierl A."
+        ],
+        "title": "Cytochrome P450 monooxygenases of DIBOA biosynthesis: specificity and conservation among grasses.",
+        "journal": "Phytochemistry 50:925-30 (1999) DOI:10.1016/S0031-9422(98)00318-5",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:10385992]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

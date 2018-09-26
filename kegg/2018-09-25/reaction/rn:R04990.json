@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04990",
+    "name": "UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase",
+    "definition": "2-Octaprenyl-6-methoxy-1,4-benzoquinone + S-Adenosyl-L-methionine <=> 2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone + S-Adenosyl-L-homocysteine",
+    "equation": "C05813 + C00019 <=> C05814 + C00021",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.201"
+    ],
+    "pathways": {
+      "rn00130": "Ubiquinone and other terpenoid-quinone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K03183": "demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]"
+    }
+  }
+]

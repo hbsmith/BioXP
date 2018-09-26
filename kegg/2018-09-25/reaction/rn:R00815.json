@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00815",
+    "name": "phenol,NADPH:oxogen oxidoreductase (2-hydroxylating)",
+    "definition": "Phenol + Oxygen + NADPH + H+ <=> Catechol + NADP+ + H2O",
+    "equation": "C00146 + C00007 + C00005 + C00080 <=> C00090 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.7"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K03380": "phenol 2-monooxygenase [EC:1.14.13.7]"
+    }
+  }
+]

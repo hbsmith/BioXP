@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R12057",
+    "name": "",
+    "definition": "(L-Prolyl)adenylate + Peptidyl-carrier protein <=> AMP + L-Prolyl-[pcp]",
+    "equation": "C20656 + C21097 <=> C00020 + C12470",
+    "comment": "Second step of the two-step reaction R06746 (R12056+R12057)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.53"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K12719": "L-proline---[L-prolyl-carrier protein] ligase [EC:6.2.1.53]",
+      "K12720": "peptidyl carrier protein",
+      "K21780": "L-proline---[L-prolyl-carrier protein] ligase [EC:6.2.1.53]",
+      "K21781": "peptidyl carrier protein"
+    }
+  }
+]

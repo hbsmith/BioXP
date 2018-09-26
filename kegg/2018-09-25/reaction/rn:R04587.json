@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R04587",
+    "name": "UDP-3-O-[(3R)-3-hydroxymyristoyl]-N-acetylglucosamine amidohydrolase",
+    "definition": "UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine + H2O <=> UDP-3-O-(3-hydroxytetradecanoyl)-D-glucosamine + Acetate",
+    "equation": "C04738 + C00001 <=> C06022 + C00033",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.108"
+    ],
+    "pathways": {
+      "rn00540": "Lipopolysaccharide biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K02535": "UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]",
+      "K16363": "UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:3.5.1.108 4.2.1.59]"
+    }
+  }
+]

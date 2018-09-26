@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R10727",
+    "name": "miltiradiene,NADPH:oxygen oxidoreductase (ferruginol forming)",
+    "definition": "Miltiradiene + 2 NADPH + 2 H+ + 2 Oxygen <=> Ferruginol + 2 NADP+ + 3 H2O",
+    "equation": "C20711 + 2 C00005 + 2 C00080 + 2 C00007 <=> C09092 + 2 C00006 + 3 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.190"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K20513": "ferruginol synthase [EC:1.14.13.190]",
+      "K22636": "ferruginol synthase / ferruginol monooxygenase [EC:1.14.13.190 1.14.14.60]"
+    }
+  }
+]

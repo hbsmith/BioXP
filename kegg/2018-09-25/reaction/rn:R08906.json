@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08906",
+    "name": "L-glutamate:4-aminobutyryl-[acp] ligase (ADP-forming)",
+    "definition": "ATP + L-Glutamate + 4-Aminobutyryl-[acp] <=> ADP + Orthophosphate + 4-(gamma-L-Glutamylamino)butanoyl-[acp]",
+    "equation": "C00002 + C00025 + C18007 <=> C00008 + C00009 + C18008",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.39"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13559": "[BtrI acyl-carrier protein]--L-glutamate ligase [EC:6.2.1.39]"
+    }
+  }
+]

@@ -1,0 +1,692 @@
+[
+  {
+    "entry_id": "3.4.21.50",
+    "name": "lysyl endopeptidase",
+    "names": [
+      "lysyl endopeptidase",
+      "Achromobacter proteinase I (also see Comment)",
+      "Achromobacter lyticus alkaline proteinase I",
+      "protease I",
+      "achromopeptidase",
+      "lysyl bond specific proteinase"
+    ],
+    "classes": [
+      "Hydrolases;",
+      "Acting on peptide bonds (peptidases);",
+      "Serine endopeptidases"
+    ],
+    "sysname": "",
+    "reaction": "Preferential cleavage: Lys!, including -Lys!Pro-",
+    "all_reac": "",
+    "iubmb_reactions": [
+
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+
+    ],
+    "products": [
+
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "From Achromobacter lyticus [6]. Enzymes with similar specificity are produced by Lysobacter enzymogenes (Endoproteinase Lys-C; [3]) and Pseudomonas aeruginosa (Ps-1; [4]). In peptidase family S1 (trypsin family)",
+    "pathways": {
+    },
+    "orthologs": {
+      "K01337": "lysyl endopeptidase"
+    },
+    "genes": {
+      "xcc": [
+        "XCC2821"
+      ],
+      "xcb": [
+        "XC_1291"
+      ],
+      "xca": [
+        "xcc-b100_1339"
+      ],
+      "xcp": [
+        "XCR_3194"
+      ],
+      "xcv": [
+        "XCV3140"
+      ],
+      "xax": [
+        "XACM_2926"
+      ],
+      "xac": [
+        "XAC2992"
+      ],
+      "xci": [
+        "XCAW_03271"
+      ],
+      "xct": [
+        "J151_03177"
+      ],
+      "xcj": [
+        "J158_03156"
+      ],
+      "xcu": [
+        "J159_03152"
+      ],
+      "xcn": [
+        "J169_03175"
+      ],
+      "xcw": [
+        "J162_03156"
+      ],
+      "xcr": [
+        "J163_03152"
+      ],
+      "xcm": [
+        "J164_03152"
+      ],
+      "xcf": [
+        "J172_03168"
+      ],
+      "xfu": [
+        "XFF4834R_chr16390",
+        "XFF4834R_chr16400"
+      ],
+      "xao": [
+        "XAC29_15215"
+      ],
+      "xoo": [
+        "XOO1266"
+      ],
+      "xom": [
+        "XOO1164"
+      ],
+      "xop": [
+        "PXO_02206"
+      ],
+      "xoy": [
+        "AZ54_06620",
+        "AZ54_18155"
+      ],
+      "xor": [
+        "XOC_1253",
+        "XOC_1419"
+      ],
+      "xoz": [
+        "BE73_16295"
+      ],
+      "xal": [
+        "XALC_2516"
+      ],
+      "xsa": [
+        "SB85_06385"
+      ],
+      "xtn": [
+        "FD63_06025",
+        "FD63_06030"
+      ],
+      "xfr": [
+        "BER92_14610"
+      ],
+      "xga": [
+        "BI317_11035"
+      ],
+      "xve": [
+        "BJD12_05850"
+      ],
+      "xpe": [
+        "BJD13_01660"
+      ],
+      "xhr": [
+        "XJ27_05695"
+      ],
+      "xph": [
+        "XppCFBP6546_20795"
+      ],
+      "xva": [
+        "C7V42_06405"
+      ],
+      "lab": [
+        "LA76x_1946",
+        "LA76x_3979",
+        "LA76x_3980"
+      ],
+      "laq": [
+        "GLA29479_1560",
+        "GLA29479_3571",
+        "GLA29479_3572"
+      ],
+      "lcp": [
+        "LC55x_0633",
+        "LC55x_1897",
+        "LC55x_2732",
+        "LC55x_4007",
+        "LC55x_4008",
+        "LC55x_4945"
+      ],
+      "lgu": [
+        "LG3211_0894",
+        "LG3211_2066",
+        "LG3211_2609",
+        "LG3211_3817",
+        "LG3211_3819"
+      ],
+      "lez": [
+        "GLE_2002",
+        "GLE_3341",
+        "GLE_3841",
+        "GLE_3843",
+        "GLE_4756"
+      ],
+      "lem": [
+        "LEN_1307",
+        "LEN_1308",
+        "LEN_1765",
+        "LEN_4452"
+      ],
+      "lmb": [
+        "C9I47_0198"
+      ],
+      "lum": [
+        "CNR27_06010"
+      ],
+      "xba": [
+        "C7S18_03500",
+        "C7S18_12365"
+      ],
+      "pae": [
+        "PA4175"
+      ],
+      "paev": [
+        "N297_4307"
+      ],
+      "paei": [
+        "N296_4307"
+      ],
+      "pau": [
+        "PA14_09900"
+      ],
+      "pap": [
+        "PSPA7_0919"
+      ],
+      "pag": [
+        "PLES_07521"
+      ],
+      "paf": [
+        "PAM18_0762"
+      ],
+      "pnc": [
+        "NCGM2_5378"
+      ],
+      "paeb": [
+        "NCGM1900_0781"
+      ],
+      "psg": [
+        "G655_03830"
+      ],
+      "prp": [
+        "M062_22005"
+      ],
+      "paep": [
+        "PA1S_03945"
+      ],
+      "paer": [
+        "PA1R_gp2066"
+      ],
+      "paem": [
+        "U769_03975"
+      ],
+      "pael": [
+        "T223_03880"
+      ],
+      "paes": [
+        "SCV20265_0789"
+      ],
+      "paeu": [
+        "BN889_04642",
+        "BN889_04643"
+      ],
+      "paeg": [
+        "AI22_29670"
+      ],
+      "paec": [
+        "M802_4305"
+      ],
+      "paeo": [
+        "M801_4173"
+      ],
+      "swd": [
+        "Swoo_0115"
+      ],
+      "tvi": [
+        "Thivi_1890"
+      ],
+      "wma": [
+        "WM2015_2960"
+      ],
+      "rhy": [
+        "RD110_17425"
+      ],
+      "aav": [
+        "Aave_4238"
+      ],
+      "ajs": [
+        "Ajs_3699"
+      ],
+      "dia": [
+        "Dtpsy_0494"
+      ],
+      "aaa": [
+        "Acav_4121"
+      ],
+      "acra": [
+        "BSY15_1975"
+      ],
+      "acid": [
+        "CBP33_02290"
+      ],
+      "acip": [
+        "CBP36_02695"
+      ],
+      "acin": [
+        "CBP34_02255"
+      ],
+      "acis": [
+        "CBP35_16245"
+      ],
+      "vei": [
+        "Veis_4069"
+      ],
+      "dac": [
+        "Daci_5718"
+      ],
+      "del": [
+        "DelCs14_0883"
+      ],
+      "dts": [
+        "BI380_26460"
+      ],
+      "dhk": [
+        "BO996_26750"
+      ],
+      "ctt": [
+        "CtCNB1_4289"
+      ],
+      "ctes": [
+        "O987_25540"
+      ],
+      "cser": [
+        "CCO03_03295"
+      ],
+      "adn": [
+        "Alide_0580"
+      ],
+      "adk": [
+        "Alide2_0545"
+      ],
+      "oto": [
+        "ADJ79_08730"
+      ],
+      "otk": [
+        "C6570_00310"
+      ],
+      "hyl": [
+        "LPB072_05440"
+      ],
+      "dpy": [
+        "BA022_12445"
+      ],
+      "simp": [
+        "C6571_09590"
+      ],
+      "melm": [
+        "C7H73_00010"
+      ],
+      "beb": [
+        "AEM42_06830"
+      ],
+      "beba": [
+        "BWI17_08115",
+        "BWI17_15030",
+        "BWI17_17730",
+        "BWI17_21150"
+      ],
+      "hau": [
+        "Haur_0489"
+      ],
+      "pah": [
+        "Poras_0385"
+      ],
+      "pcre": [
+        "NCTC12858_01785"
+      ],
+      "pbt": [
+        "ING2E5B_0160"
+      ],
+      "pmuc": [
+        "ING2E5A_2521"
+      ],
+      "pet": [
+        "PEIBARAKI_6490"
+      ],
+      "tfo": [
+        "BFO_1179",
+        "BFO_2679"
+      ],
+      "toh": [
+        "BCB71_00095",
+        "BCB71_12565",
+        "BCB71_12850"
+      ],
+      "psac": [
+        "PSM36_2730"
+      ],
+      "dori": [
+        "FH5T_20685"
+      ],
+      "blq": [
+        "L21SP5_03258"
+      ],
+      "asx": [
+        "CDL62_03290",
+        "CDL62_18010"
+      ],
+      "mbas": [
+        "ALGA_4424"
+      ],
+      "sru": [
+        "SRU_1622"
+      ],
+      "srm": [
+        "SRM_01822"
+      ],
+      "cbae": [
+        "COR50_07610"
+      ],
+      "fln": [
+        "FLA_2775"
+      ],
+      "hhy": [
+        "Halhy_4300"
+      ],
+      "sgn": [
+        "SGRA_2830"
+      ],
+      "psty": [
+        "BFS30_24785"
+      ],
+      "hyp": [
+        "A0257_11455"
+      ],
+      "fpsz": [
+        "AMR72_12715"
+      ],
+      "asl": [
+        "Aeqsu_1857"
+      ],
+      "ptq": [
+        "P700755_003887"
+      ],
+      "ndo": [
+        "DDD_1941"
+      ],
+      "nom": [
+        "AAT17_09040"
+      ],
+      "nsd": [
+        "BST91_09800"
+      ],
+      "nob": [
+        "CW736_02495"
+      ],
+      "cio": [
+        "CEQ15_21485"
+      ],
+      "win": [
+        "WPG_3067"
+      ],
+      "wij": [
+        "BWZ20_01555"
+      ],
+      "fek": [
+        "C1H87_16200"
+      ],
+      "aue": [
+        "C5O00_08435"
+      ],
+      "kos": [
+        "KORDIASMS9_04726"
+      ],
+      "fbu": [
+        "UJ101_02412"
+      ],
+      "fte": [
+        "Fluta_1592"
+      ],
+      "flu": [
+        "CHH17_18370",
+        "CHH17_18865"
+      ],
+      "oho": [
+        "Oweho_3531"
+      ],
+      "mox": [
+        "DAMO_3107"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "3.4.21.50"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "3.4.21.50"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "3.4.21.50"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "3.4.21.50"
+      ],
+      "CAS": [
+        "123175-82-6"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Masaki T",
+          "Tanabe M",
+          "Nakamura K",
+          "Soejima M."
+        ],
+        "title": "Studies on a new proteolytic enzyme from A chromobacter lyticus M497-1. I. Purification and some enzymatic properties.",
+        "journal": "Biochim Biophys Acta 660:44-50 (1981) DOI:10.1016/0005-2744(81)90106-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:6791693]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Masaki T",
+          "Fujihashi T",
+          "Nakamura K",
+          "Soejima M."
+        ],
+        "title": "Studies on a new proteolytic enzyme from Achromobacter lyticus M497-1. II. specificity and inhibition studies of Achromobacter protease I.",
+        "journal": "Biochim Biophys Acta 660:51-5 (1981) DOI:10.1016/0005-2744(81)90107-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:6168293]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jekel PA",
+          "Weijer WJ",
+          "Beintema JJ."
+        ],
+        "title": "Use of endoproteinase Lys-C from Lysobacter enzymogenes in protein sequence analysis.",
+        "journal": "Anal Biochem 134:347-54 (1983) DOI:10.1016/0003-2697(83)90308-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:6359954]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Elliott BW Jr",
+          "Cohen C."
+        ],
+        "title": "Isolation and characterization of a lysine-specific protease from Pseudomonas aeruginosa.",
+        "journal": "J Biol Chem",
+        "volume": "261",
+        "issue": "",
+        "pages": "11259-65",
+        "year": "1986",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:3090046]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ohara T",
+          "Makino K",
+          "Shinagawa H",
+          "Nakata A",
+          "Norioka S",
+          "Sakiyama F."
+        ],
+        "title": "Cloning, nucleotide sequence, and expression of Achromobacter protease I gene.",
+        "journal": "J Biol Chem",
+        "volume": "264",
+        "issue": "",
+        "pages": "20625-31",
+        "year": "1989",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "5  [PMID:2684982]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tsunasawa S",
+          "Masaki T",
+          "Hirose M",
+          "Soejima M",
+          "Sakiyama F."
+        ],
+        "title": "The primary structure and structural characteristics of Achromobacter lyticus protease I, a lysine-specific serine protease.",
+        "journal": "J Biol Chem",
+        "volume": "264",
+        "issue": "",
+        "pages": "3832-9",
+        "year": "1989",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "6  [PMID:2492988]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

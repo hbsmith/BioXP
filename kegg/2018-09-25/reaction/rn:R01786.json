@@ -1,0 +1,59 @@
+[
+  {
+    "entry_id": "R01786",
+    "name": "ATP:alpha-D-glucose 6-phosphotransferase",
+    "definition": "ATP + alpha-D-Glucose <=> ADP + alpha-D-Glucose 6-phosphate",
+    "equation": "C00002 + C00267 <=> C00008 + C00668",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.1",
+      "2.7.1.2"
+    ],
+    "pathways": {
+      "rn00010": "Glycolysis / Gluconeogenesis",
+      "rn00052": "Galactose metabolism",
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01130": "Biosynthesis of antibiotics",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K00844": "hexokinase [EC:2.7.1.1]",
+      "K00845": "glucokinase [EC:2.7.1.2]",
+      "K12407": "glucokinase [EC:2.7.1.2]"
+    }
+  }
+][
+  {
+    "entry_id": "R01786",
+    "name": "ATP:alpha-D-glucose 6-phosphotransferase",
+    "definition": "ATP + alpha-D-Glucose <=> ADP + alpha-D-Glucose 6-phosphate",
+    "equation": "C00002 + C00267 <=> C00008 + C00668",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.1",
+      "2.7.1.2"
+    ],
+    "pathways": {
+      "rn00010": "Glycolysis / Gluconeogenesis",
+      "rn00052": "Galactose metabolism",
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01130": "Biosynthesis of antibiotics",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K00844": "hexokinase [EC:2.7.1.1]",
+      "K00845": "glucokinase [EC:2.7.1.2]",
+      "K12407": "glucokinase [EC:2.7.1.2]"
+    }
+  }
+]

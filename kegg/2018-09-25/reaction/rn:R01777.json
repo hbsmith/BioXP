@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R01777",
+    "name": "Succinyl-CoA:L-homoserine O-succinyltransferase",
+    "definition": "Succinyl-CoA + L-Homoserine <=> CoA + O-Succinyl-L-homoserine",
+    "equation": "C00091 + C00263 <=> C00010 + C01118",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.46"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn00920": "Sulfur metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K00641": "homoserine O-acetyltransferase/O-succinyltransferase [EC:2.3.1.31 2.3.1.46]",
+      "K00651": "homoserine O-succinyltransferase/O-acetyltransferase [EC:2.3.1.46 2.3.1.31]"
+    }
+  }
+]

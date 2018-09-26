@@ -1,0 +1,101 @@
+[
+  {
+    "entry_id": "C13636",
+    "name": "4-Hydroxyphenyl acetate",
+    "names": [
+      "4-Hydroxyphenyl acetate"
+    ],
+    "formula": "C8H8O3",
+    "exact_mass": 152.0473,
+    "mol_weight": 152.1473,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06892",
+      "R06893"
+    ],
+    "pathways": {
+      "map00363": "Bisphenol degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.13.84",
+      "3.1.1.2"
+    ],
+    "dblinks": {
+      "CAS": [
+        "3233-32-7"
+      ],
+      "PubChem": [
+        "586252"
+      ],
+      "ChEBI": [
+        "31128"
+      ],
+      "ChEMBL": [
+        "CHEMBL3039093"
+      ],
+      "NIKKAJI": [
+        "J83.249I"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    26.4208  -16.2786\n            2   C8y C    26.4208  -17.6813\n            3   C8x C    27.6394  -18.3792\n            4   C8x C    28.8440  -17.6813\n            5   C8y C    28.8440  -16.2786\n            6   C8x C    27.6394  -15.5737\n            7   O1a O    25.2052  -18.3799\n            8   O7a O    30.0604  -15.5745\n            9   C7a C    31.2692  -16.2722\n            10  O6a O    31.2695  -17.6680\n            11  C1a C    32.4778  -15.5742\nBOND        11\n            1     5   6 2\n            2     6   1 1\n            3     2   7 1\n            4     1   2 2\n            5     5   8 1\n            6     2   3 1\n            7     8   9 1\n            8     3   4 2\n            9     9  10 2\n            10    4   5 1\n            11    9  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C13636",
+    "name": "4-Hydroxyphenyl acetate",
+    "names": [
+      "4-Hydroxyphenyl acetate"
+    ],
+    "formula": "C8H8O3",
+    "exact_mass": 152.0473,
+    "mol_weight": 152.1473,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R06892",
+      "R06893"
+    ],
+    "pathways": {
+      "map00363": "Bisphenol degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.13.84",
+      "3.1.1.2"
+    ],
+    "dblinks": {
+      "CAS": [
+        "3233-32-7"
+      ],
+      "PubChem": [
+        "586252"
+      ],
+      "ChEBI": [
+        "31128"
+      ],
+      "ChEMBL": [
+        "CHEMBL3039093"
+      ],
+      "NIKKAJI": [
+        "J83.249I"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8x C    26.4208  -16.2786\n            2   C8y C    26.4208  -17.6813\n            3   C8x C    27.6394  -18.3792\n            4   C8x C    28.8440  -17.6813\n            5   C8y C    28.8440  -16.2786\n            6   C8x C    27.6394  -15.5737\n            7   O1a O    25.2052  -18.3799\n            8   O7a O    30.0604  -15.5745\n            9   C7a C    31.2692  -16.2722\n            10  O6a O    31.2695  -17.6680\n            11  C1a C    32.4778  -15.5742\nBOND        11\n            1     5   6 2\n            2     6   1 1\n            3     2   7 1\n            4     1   2 2\n            5     5   8 1\n            6     2   3 1\n            7     8   9 1\n            8     3   4 2\n            9     9  10 2\n            10    4   5 1\n            11    9  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

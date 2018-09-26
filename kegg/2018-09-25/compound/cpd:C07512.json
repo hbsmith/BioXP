@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "C07512",
+    "name": "Tetraethylammonium",
+    "names": [
+      "Tetraethylammonium"
+    ],
+    "formula": "C8H20N",
+    "exact_mass": 130.1596,
+    "mol_weight": 130.2511,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+      "map04976": "Bile secretion"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "66-40-0"
+      ],
+      "PubChem": [
+        "9715"
+      ],
+      "ChEBI": [
+        "44296"
+      ],
+      "ChEMBL": [
+        "CHEMBL9324"
+      ],
+      "PDB-CCD": [
+        "NET"
+      ],
+      "NIKKAJI": [
+        "J91.253K"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   N1d N    28.8400  -16.9458 #+\n            2   C1b C    27.6233  -16.2380\n            3   C1b C    28.8400  -18.3498\n            4   C1b C    28.8283  -15.5945\n            5   C1b C    30.0861  -17.6011\n            6   C1a C    26.4006  -16.9458\n            7   C1a C    27.6233  -19.0518\n            8   C1a C    30.0450  -14.8867\n            9   C1a C    31.2737  -16.8523\nBOND        8\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1\n            5     2   6 1\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

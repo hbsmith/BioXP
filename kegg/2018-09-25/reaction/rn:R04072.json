@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04072",
+    "name": "dolichyl-beta-D-mannosyl-phosphate:protein-serine O-D-mannosyltransferase",
+    "definition": "Dolichyl phosphate D-mannose + [Protein]-L-serine <=> Dolichyl phosphate + 3-O-(alpha-D-Mannosyl)-L-serinyl-[protein]",
+    "equation": "C03862 + C02189 <=> C00110 + C02863",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.109"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00728": "dolichyl-phosphate-mannose-protein mannosyltransferase [EC:2.4.1.109]"
+    }
+  }
+]

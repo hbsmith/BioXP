@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C03668",
+    "name": "2-Hydroxydicarboxylic acid",
+    "names": [
+      "2-Hydroxydicarboxylic acid"
+    ],
+    "formula": "C3H4O5(CH2)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6446"
+      ],
+      "ChEBI": [
+        "50263"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   O6a O    15.3300  -14.4900\n            2   C6a C    16.5424  -13.7900\n            3   C1b C    17.7549  -14.4900\n            4   C1c C    18.9673  -13.7900\n            5   C6a C    20.1797  -14.4900\n            6   O6a O    21.3922  -13.7900\n            7   O6a O    16.5424  -12.3902\n            8   O6a O    20.1797  -15.8899\n            9   O1a O    18.9673  -12.3900\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     2   7 2\n            7     5   8 2\n            8     4   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

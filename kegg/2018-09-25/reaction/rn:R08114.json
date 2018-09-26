@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R08114",
+    "name": "3-fluorocatechol:oxygen 1,2-oxidoreductase",
+    "definition": "3-Fluorocatechol + Oxygen <=> 2-Fluoro-cis,cis-muconate",
+    "equation": "C16472 + C00007 <=> C16475",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.1"
+    ],
+    "pathways": {
+      "rn00364": "Fluorobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K03381": "catechol 1,2-dioxygenase [EC:1.13.11.1]"
+    }
+  }
+][
+  {
+    "entry_id": "R08114",
+    "name": "3-fluorocatechol:oxygen 1,2-oxidoreductase",
+    "definition": "3-Fluorocatechol + Oxygen <=> 2-Fluoro-cis,cis-muconate",
+    "equation": "C16472 + C00007 <=> C16475",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.1"
+    ],
+    "pathways": {
+      "rn00364": "Fluorobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K03381": "catechol 1,2-dioxygenase [EC:1.13.11.1]"
+    }
+  }
+]

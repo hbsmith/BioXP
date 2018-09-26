@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R00508",
+    "name": "3'-phospho-5'-adenylyl sulfate 3'-phosphohydrolase",
+    "definition": "3'-Phosphoadenylyl sulfate + H2O <=> Adenylyl sulfate + Orthophosphate",
+    "equation": "C00053 + C00001 <=> C00224 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.3.7"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01082": "3'(2'), 5'-bisphosphate nucleotidase [EC:3.1.3.7]",
+      "K06881": "bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]",
+      "K15422": "3'(2'), 5'-bisphosphate nucleotidase / inositol polyphosphate 1-phosphatase [EC:3.1.3.7 3.1.3.57]",
+      "K15759": "inositol monophosphatase 3 [EC:3.1.3.25 3.1.3.7]"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R10424",
+    "name": "UDP-alpha-D-kanosamine:2'-deamino-2'-hydroxyneamine 1-alpha-D-kanosaminyltransferase",
+    "definition": "UDP-kanosamine + 2'-Deamino-2'-hydroxyneamine <=> UDP + Kanamycin A",
+    "equation": "C12211 + C20350 <=> C00015 + C01822",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.301"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20573": "2'-deamino-2'-hydroxyneamine 1-alpha-D-kanosaminyltransferase [EC:2.4.1.301]"
+    }
+  }
+][
+  {
+    "entry_id": "R10424",
+    "name": "UDP-alpha-D-kanosamine:2'-deamino-2'-hydroxyneamine 1-alpha-D-kanosaminyltransferase",
+    "definition": "UDP-kanosamine + 2'-Deamino-2'-hydroxyneamine <=> UDP + Kanamycin A",
+    "equation": "C12211 + C20350 <=> C00015 + C01822",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.301"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20573": "2'-deamino-2'-hydroxyneamine 1-alpha-D-kanosaminyltransferase [EC:2.4.1.301]"
+    }
+  }
+]

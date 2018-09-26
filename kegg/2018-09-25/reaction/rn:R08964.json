@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08964",
+    "name": "ATP:1D-myo-inositol-5-diphosphate-pentakisphosphate phosphotransferase",
+    "definition": "ATP + 5-PP-InsP5 <=> ADP + 1D-myo-Inositol 1,5-bis(diphosphate) 2,3,4,6-tetrakisphosphate",
+    "equation": "C00002 + C11526 <=> C00008 + C20690",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.4.24"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K13024": "inositol-hexakisphosphate/diphosphoinositol-pentakisphosphate 1-kinase [EC:2.7.4.24]"
+    }
+  }
+]

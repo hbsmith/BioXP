@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C12491",
+    "name": "Pyrrolnitrin",
+    "names": [
+      "Pyrrolnitrin"
+    ],
+    "formula": "C10H6Cl2N2O2",
+    "exact_mass": 255.9806,
+    "mol_weight": 257.0728,
+    "remark": "Same as: D01094",
+    "comment": "",
+    "reactions": [
+      "R11107"
+    ],
+    "pathways": {
+      "map00404": "Staurosporine biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1018-71-9"
+      ],
+      "PubChem": [
+        "582881"
+      ],
+      "ChEBI": [
+        "32079"
+      ],
+      "ChEMBL": [
+        "CHEMBL97972"
+      ],
+      "KNApSAcK": [
+        "C00018726"
+      ],
+      "NIKKAJI": [
+        "J7.221D"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8y C    26.5938  -18.9056\n            2   C8x C    26.2274  -20.2543\n            3   N4x N    27.3970  -21.0195\n            4   C8x C    28.4859  -20.1436\n            5   C8y C    27.9897  -18.9073\n            6   C8x C    23.1743  -16.5077\n            7   C8y C    23.1743  -17.9124\n            8   C8y C    24.3938  -18.6148\n            9   C8y C    25.6061  -17.9124\n            10  C8x C    25.6061  -16.5077\n            11  C8x C    24.3938  -15.8053\n            12  X   Cl   28.7588  -17.6618\n            13  N2b N    24.3255  -20.0195 #+\n            14  X   Cl   21.9581  -18.6155\n            15  O3a O    23.1098  -20.7234 #-\n            16  O3a O    25.4011  -20.8622\nBOND        17\n            1     5   1 1\n            2     6   7 2\n            3     7   8 1\n            4     8   9 2\n            5     9  10 1\n            6    10  11 2\n            7    11   6 1\n            8     9   1 1\n            9     5  12 1\n            10    1   2 2\n            11    8  13 1\n            12    2   3 1\n            13    7  14 1\n            14    3   4 1\n            15   13  15 1\n            16   13  16 2\n            17    4   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

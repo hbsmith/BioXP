@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11491",
+    "name": "(1R,10aS)-1,4,10,10a-tetrahydrophenazine-1-carboxylate:oxygen oxidoreductase",
+    "definition": "(1R,10aS)-1,4,10,10a-Tetrahydrophenazine-1-carboxylate + Oxygen <=> (10aS)-10,10a-Dihydrophenazine-1-carboxylate + Hydrogen peroxide",
+    "equation": "C21411 + C00007 <=> C21412 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.10.3.16"
+    ],
+    "pathways": {
+      "rn00405": "Phenazine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20262": "dihydrophenazinedicarboxylate synthase [EC:1.10.3.16]"
+    }
+  }
+][
+  {
+    "entry_id": "R11491",
+    "name": "(1R,10aS)-1,4,10,10a-tetrahydrophenazine-1-carboxylate:oxygen oxidoreductase",
+    "definition": "(1R,10aS)-1,4,10,10a-Tetrahydrophenazine-1-carboxylate + Oxygen <=> (10aS)-10,10a-Dihydrophenazine-1-carboxylate + Hydrogen peroxide",
+    "equation": "C21411 + C00007 <=> C21412 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.10.3.16"
+    ],
+    "pathways": {
+      "rn00405": "Phenazine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20262": "dihydrophenazinedicarboxylate synthase [EC:1.10.3.16]"
+    }
+  }
+]

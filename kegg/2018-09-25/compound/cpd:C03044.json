@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C03044",
+    "name": "(R,R)-Butane-2,3-diol",
+    "names": [
+      "(R,R)-Butane-2,3-diol",
+      "(R,R)-2,3-Butanediol",
+      "(R,R)-2,3-Butylene glycol"
+    ],
+    "formula": "C4H10O2",
+    "exact_mass": 90.0681,
+    "mol_weight": 90.121,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02946"
+    ],
+    "pathways": {
+      "map00650": "Butanoate metabolism"
+    },
+    "enzymes": [
+      "1.1.1.4"
+    ],
+    "dblinks": {
+      "CAS": [
+        "24347-58-8"
+      ],
+      "PubChem": [
+        "5947"
+      ],
+      "ChEBI": [
+        "16982"
+      ],
+      "PDB-CCD": [
+        "BU3"
+      ],
+      "3DMET": [
+        "B01625"
+      ],
+      "NIKKAJI": [
+        "J9.308D"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C1c C    17.8054  -14.4226\n            2   C1c C    19.0146  -15.1174\n            3   C1a C    16.5894  -15.1174\n            4   O1a O    17.8054  -13.0203\n            5   C1a C    20.2306  -14.4226\n            6   O1a O    19.0146  -16.5197\nBOND        5\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

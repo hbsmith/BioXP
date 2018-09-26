@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10191",
+    "name": "2-hydroxyethylphosphonate:O2 1,2-oxidoreductase (methylphosphonate forming)",
+    "definition": "2-Hydroxyethylphosphonate + Oxygen <=> Methylphosphonate + HCO3-",
+    "equation": "C06451 + C00007 <=> C20396 + C00288",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.73"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism"
+    },
+    "orthologs": {
+      "K18049": "methylphosphonate synthase [EC:1.13.11.73]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03338",
+    "name": "4-Hydroxyphenyllactate:NADP+ oxidoreductase",
+    "definition": "3-(4-Hydroxyphenyl)lactate + NADP+ <=> 3-(4-Hydroxyphenyl)pyruvate + NADPH + H+",
+    "equation": "C03672 + C00006 <=> C01179 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.222",
+      "1.1.1.237"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

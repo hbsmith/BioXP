@@ -1,0 +1,36 @@
+[
+  {
+    "entry_id": "C02471",
+    "name": "[Glu(-Cys)]n-Gly",
+    "names": [
+      "[Glu(-Cys)]n-Gly",
+      "Poly(gamma-glutamylcysteine)glycine",
+      "(gamma-Glutamylcysteine)n-glycine"
+    ],
+    "formula": "C2H5NO2(C8H12N2O4S)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03956"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.3.2.15"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5486"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   N1a N    19.2473  -15.8900\n            2   C1c C    20.4597  -16.5900\n            3   C1b C    21.6722  -15.8900\n            4   C1b C    22.8846  -16.5900\n            5   C5a C    24.0970  -15.8900\n            6   N1b N    25.3095  -16.5900\n            7   C1c C    26.5219  -15.8900\n            8   C5a C    27.7344  -16.5900\n            9   N1b N    28.9468  -15.8900\n            10  C1b C    30.1592  -16.5900\n            11  C6a C    31.3717  -15.8900\n            12  O6a O    32.5841  -16.5900\n            13  O6a O    31.3717  -14.4900\n            14  O5a O    27.7344  -17.9900\n            15  C1b C    26.5219  -14.4900\n            16  O5a O    24.0970  -14.4900\n            17  S1a S    27.7344  -13.7900\n            18  C6a C    20.4597  -17.9900\n            19  O6a O    19.2473  -18.6900\n            20  O6a O    21.6721  -18.6900\nBOND        19\n            1     2   1 1 #Up\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10   10  11 1\n            11   11  12 1\n            12   11  13 2\n            13    8  14 2\n            14    7  15 1 #Up\n            15    5  16 2\n            16   15  17 1\n            17    2  18 1\n            18   18  19 2\n            19   18  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

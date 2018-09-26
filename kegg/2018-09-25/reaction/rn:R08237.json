@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R08237",
+    "name": "6-thioinosine 5'-monophosphate:diphosphate phospho-D-ribosyltransferase",
+    "definition": "6-Mercaptopurine + 5-Phospho-alpha-D-ribose 1-diphosphate <=> 6-Thioinosine-5'-monophosphate + Diphosphate",
+    "equation": "C02380 + C00119 <=> C04646 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.2.8"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K00760": "hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]"
+    }
+  }
+][
+  {
+    "entry_id": "R08237",
+    "name": "6-thioinosine 5'-monophosphate:diphosphate phospho-D-ribosyltransferase",
+    "definition": "6-Mercaptopurine + 5-Phospho-alpha-D-ribose 1-diphosphate <=> 6-Thioinosine-5'-monophosphate + Diphosphate",
+    "equation": "C02380 + C00119 <=> C04646 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.2.8"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K00760": "hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]"
+    }
+  }
+]

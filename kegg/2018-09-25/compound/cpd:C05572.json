@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C05572",
+    "name": "4-Oxoglutaramate",
+    "names": [
+      "4-Oxoglutaramate",
+      "4-Ketoglutaramate"
+    ],
+    "formula": "C5H7NO4",
+    "exact_mass": 145.0375,
+    "mol_weight": 145.1134,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00270",
+      "R04283"
+    ],
+    "pathways": {
+      "map00340": "Histidine metabolism"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7898"
+      ],
+      "ChEBI": [
+        "27467",
+        "30883"
+      ],
+      "3DMET": [
+        "B00792"
+      ],
+      "NIKKAJI": [
+        "J2.363.539I"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O6a O    16.8700  -19.1100\n            2   C6a C    18.0824  -18.4100\n            3   C1b C    19.2949  -19.1100\n            4   C1b C    20.5073  -18.4100\n            5   C5a C    21.7197  -19.1100\n            6   C5a C    22.9322  -18.4100\n            7   N1a N    24.1446  -19.1100\n            8   O6a O    18.0824  -17.0102\n            9   O5a O    22.9322  -17.0103\n            10  O5a O    21.7197  -20.5099\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     2   8 2\n            8     6   9 2\n            9     5  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

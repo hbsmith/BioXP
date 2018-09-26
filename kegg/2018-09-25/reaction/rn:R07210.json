@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07210",
+    "name": "alkanesulfonate, reduced-FMN:oxygen oxidoreductase",
+    "definition": "Alkanesulfonate + Reduced FMN + Oxygen <=> Aldehyde + FMN + Sulfite + H2O",
+    "equation": "C15521 + C01847 + C00007 <=> C00071 + C00061 + C00094 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.5"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism"
+    },
+    "orthologs": {
+      "K00299": "FMN reductase [EC:1.5.1.38]",
+      "K04091": "alkanesulfonate monooxygenase [EC:1.14.14.5]"
+    }
+  }
+]

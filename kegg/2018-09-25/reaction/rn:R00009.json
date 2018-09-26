@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "R00009",
+    "name": "hydrogen-peroxide:hydrogen-peroxide oxidoreductase",
+    "definition": "2 Hydrogen peroxide <=> Oxygen + 2 H2O",
+    "equation": "2 C00027 <=> C00007 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.11.1.6",
+      "1.11.1.21"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K03781": "catalase [EC:1.11.1.6]"
+    }
+  }
+][
+  {
+    "entry_id": "R00009",
+    "name": "hydrogen-peroxide:hydrogen-peroxide oxidoreductase",
+    "definition": "2 Hydrogen peroxide <=> Oxygen + 2 H2O",
+    "equation": "2 C00027 <=> C00007 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.11.1.6",
+      "1.11.1.21"
+    ],
+    "pathways": {
+      "rn00630": "Glyoxylate and dicarboxylate metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K03781": "catalase [EC:1.11.1.6]"
+    }
+  }
+]

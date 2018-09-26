@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11229",
+    "name": "GTP:gentamicin-C 2''-O-phosphotransferase",
+    "definition": "GTP + Gentamicin C <=> GDP + Gentamicin C 2''-phosphate",
+    "equation": "C00044 + C01918 <=> C00035 + C21240",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.190"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K17910": "aminoglycoside 2''-phosphotransferase [EC:2.7.1.190]",
+      "K19883": "bifunctional aminoglycoside 6'-N-acetyltransferase / aminoglycoside 2''-phosphotransferase [EC:2.3.1.82 2.7.1.190]"
+    }
+  }
+]

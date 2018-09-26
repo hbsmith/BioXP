@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C13773",
+    "name": "1,1-Diethyl-2-hydroxy-2-nitrosohydrazine",
+    "names": [
+      "1,1-Diethyl-2-hydroxy-2-nitrosohydrazine",
+      "D-NONOate"
+    ],
+    "formula": "C4H10N3O2",
+    "exact_mass": 132.0773,
+    "mol_weight": 132.1411,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "86831-65-4"
+      ],
+      "PubChem": [
+        "854019"
+      ],
+      "ChEBI": [
+        "77713"
+      ],
+      "NIKKAJI": [
+        "J2.520.883H"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   N1c N    27.3001  -19.5301\n            2   N1c N    28.7001  -19.5301\n            3   N2b N    26.6001  -18.3177\n            4   O1b O    26.5301  -20.9525 #-\n            5   O3a O    25.2001  -18.3177\n            6   C1b C    29.4001  -20.7425\n            7   C1b C    29.4001  -18.3177\n            8   C1a C    30.8001  -18.3177\n            9   C1a C    30.8001  -20.7425\nBOND        8\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     3   5 2\n            5     2   6 1\n            6     2   7 1\n            7     7   8 1\n            8     6   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

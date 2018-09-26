@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R00604",
+    "name": "Formaldehyde:NAD+ oxidoreductase",
+    "definition": "Formaldehyde + NAD+ + H2O <=> Formate + NADH + H+",
+    "equation": "C00067 + C00003 + C00001 <=> C00058 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.46"
+    ],
+    "pathways": {
+      "rn00625": "Chloroalkane and chloroalkene degradation",
+      "rn00680": "Methane metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K00148": "glutathione-independent formaldehyde dehydrogenase [EC:1.2.1.46]"
+    }
+  }
+]

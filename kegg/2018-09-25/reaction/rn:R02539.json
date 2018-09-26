@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02539",
+    "name": "Phenylacetate:CoA ligase",
+    "definition": "ATP + Phenylacetic acid + CoA <=> AMP + Diphosphate + Phenylacetyl-CoA",
+    "equation": "C00002 + C07086 + C00010 <=> C00020 + C00013 + C00582",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.30"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01912": "phenylacetate-CoA ligase [EC:6.2.1.30]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01092",
+    "name": "ATP:alpha-D-galactose 1-phosphotransferase",
+    "definition": "ATP + alpha-D-Galactose <=> ADP + alpha-D-Galactose 1-phosphate",
+    "equation": "C00002 + C00984 <=> C00008 + C00446",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.6"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism",
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00849": "galactokinase [EC:2.7.1.6]"
+    }
+  }
+]

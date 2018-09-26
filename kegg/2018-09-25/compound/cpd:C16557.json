@@ -1,0 +1,93 @@
+[
+  {
+    "entry_id": "C16557",
+    "name": "Carboxyifosfamide",
+    "names": [
+      "Carboxyifosfamide"
+    ],
+    "formula": "C7H15Cl2N2O4P",
+    "exact_mass": 292.0146,
+    "mol_weight": 293.0848,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08292"
+    ],
+    "pathways": {
+      "map00982": "Drug metabolism - cytochrome P450"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "53459-52-2"
+      ],
+      "PubChem": [
+        "51090886"
+      ],
+      "ChEBI": [
+        "80564"
+      ],
+      "ChEMBL": [
+        "CHEMBL161296"
+      ],
+      "NIKKAJI": [
+        "J458.782K"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   N1b N    25.4818  -17.8697\n            2   P1a P    25.4877  -19.2749\n            3   C1b C    24.2698  -17.1671\n            4   O2b O    24.2815  -19.9950\n            5   N1b N    26.7231  -19.9540\n            6   O3b O    24.2698  -18.5723\n            7   C1b C    23.0578  -17.8697\n            8   C1b C    24.3049  -21.3943\n            9   X   Cl   21.8518  -17.1671\n            10  C1b C    25.5286  -22.0793\n            11  C1b C    27.8955  -19.2439\n            12  C1b C    29.1278  -19.9213\n            13  X   Cl   30.3517  -19.1802\n            14  C6a C    25.5474  -23.4500\n            15  O6a O    26.7713  -24.1344\n            16  O6a O    24.3466  -24.1654\nBOND        15\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     4   8 1\n            8     7   9 1\n            9     8  10 1\n            10    5  11 1\n            11   11  12 1\n            12   12  13 1\n            13   10  14 1\n            14   14  15 1\n            15   14  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C16557",
+    "name": "Carboxyifosfamide",
+    "names": [
+      "Carboxyifosfamide"
+    ],
+    "formula": "C7H15Cl2N2O4P",
+    "exact_mass": 292.0146,
+    "mol_weight": 293.0848,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08292"
+    ],
+    "pathways": {
+      "map00982": "Drug metabolism - cytochrome P450"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "53459-52-2"
+      ],
+      "PubChem": [
+        "51090886"
+      ],
+      "ChEBI": [
+        "80564"
+      ],
+      "ChEMBL": [
+        "CHEMBL161296"
+      ],
+      "NIKKAJI": [
+        "J458.782K"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   N1b N    25.4818  -17.8697\n            2   P1a P    25.4877  -19.2749\n            3   C1b C    24.2698  -17.1671\n            4   O2b O    24.2815  -19.9950\n            5   N1b N    26.7231  -19.9540\n            6   O3b O    24.2698  -18.5723\n            7   C1b C    23.0578  -17.8697\n            8   C1b C    24.3049  -21.3943\n            9   X   Cl   21.8518  -17.1671\n            10  C1b C    25.5286  -22.0793\n            11  C1b C    27.8955  -19.2439\n            12  C1b C    29.1278  -19.9213\n            13  X   Cl   30.3517  -19.1802\n            14  C6a C    25.5474  -23.4500\n            15  O6a O    26.7713  -24.1344\n            16  O6a O    24.3466  -24.1654\nBOND        15\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     4   8 1\n            8     7   9 1\n            9     8  10 1\n            10    5  11 1\n            11   11  12 1\n            12   12  13 1\n            13   10  14 1\n            14   14  15 1\n            15   14  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

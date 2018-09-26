@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11903",
+    "name": "acetylhydrazine amidohydrolase",
+    "definition": "Acetylhydrazine + H2O <=> Hydrazine + Acetate",
+    "equation": "C07447 + C00001 <=> C05361 + C00033",
+    "comment": "hepatic amidase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.-"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+    }
+  }
+]

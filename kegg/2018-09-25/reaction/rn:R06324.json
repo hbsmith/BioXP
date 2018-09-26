@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06324",
+    "name": "",
+    "definition": "Gibberellin A14 <=> Gibberellin A37 open lactone",
+    "equation": "C11858 <=> C11859",
+    "comment": "GA 20-oxidase(2-oxoglutarate dependent dioxygenase),GA20ox",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K12918": "cytochrome P450 monooxygenase 2"
+    }
+  }
+]

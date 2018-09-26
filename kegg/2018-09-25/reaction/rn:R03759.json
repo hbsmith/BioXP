@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03759",
+    "name": "(R)-1-Aminopropan-2-ol:NAD+ oxidoreductase",
+    "definition": "(R)-1-Aminopropan-2-ol + NAD+ <=> Aminoacetone + NADH + H+",
+    "equation": "C03194 + C00003 <=> C01888 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.75"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

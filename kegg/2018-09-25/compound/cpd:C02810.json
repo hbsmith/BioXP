@@ -1,0 +1,87 @@
+[
+  {
+    "entry_id": "C02810",
+    "name": "Alditol 6-phosphate",
+    "names": [
+      "Alditol 6-phosphate",
+      "Hexitol 1-phosphate"
+    ],
+    "formula": "C6H15O9P",
+    "exact_mass": 262.0454,
+    "mol_weight": 262.1517,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy D-Mannitol 1-phosphate [CPD:C00644] Sorbitol 6-phosphate [CPD:C01096] D-Galactitol 6-phosphate [CPD:C06311]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5760"
+      ],
+      "ChEBI": [
+        "35375"
+      ],
+      "ChEMBL": [
+        "CHEMBL1161480"
+      ],
+      "NIKKAJI": [
+        "J2.739.720D"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C1c C    19.3660  -15.1213\n            2   C1c C    20.5549  -14.4359\n            3   C1c C    18.1836  -14.4359\n            4   O1a O    19.3660  -16.4863\n            5   C1c C    21.7372  -15.1213\n            6   O1a O    20.5549  -13.0646\n            7   C1b C    17.0011  -15.1213\n            8   O1a O    18.1836  -13.0646\n            9   C1b C    22.9197  -14.4359\n            10  O1a O    21.7372  -16.4863\n            11  O2b O    15.8124  -14.4359\n            12  O1a O    24.1084  -15.1213\n            13  P1b P    14.3115  -14.4359\n            14  O1c O    12.9468  -14.4359\n            15  O1c O    14.3115  -13.0646\n            16  O1c O    14.3115  -15.8629\nBOND        15\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     3   8 1\n            8     5   9 1\n            9     5  10 1\n            10    7  11 1\n            11    9  12 1\n            12   11  13 1\n            13   13  14 1\n            14   13  15 1\n            15   13  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C02810",
+    "name": "Alditol 6-phosphate",
+    "names": [
+      "Alditol 6-phosphate",
+      "Hexitol 1-phosphate"
+    ],
+    "formula": "C6H15O9P",
+    "exact_mass": 262.0454,
+    "mol_weight": 262.1517,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy D-Mannitol 1-phosphate [CPD:C00644] Sorbitol 6-phosphate [CPD:C01096] D-Galactitol 6-phosphate [CPD:C06311]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5760"
+      ],
+      "ChEBI": [
+        "35375"
+      ],
+      "ChEMBL": [
+        "CHEMBL1161480"
+      ],
+      "NIKKAJI": [
+        "J2.739.720D"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C1c C    19.3660  -15.1213\n            2   C1c C    20.5549  -14.4359\n            3   C1c C    18.1836  -14.4359\n            4   O1a O    19.3660  -16.4863\n            5   C1c C    21.7372  -15.1213\n            6   O1a O    20.5549  -13.0646\n            7   C1b C    17.0011  -15.1213\n            8   O1a O    18.1836  -13.0646\n            9   C1b C    22.9197  -14.4359\n            10  O1a O    21.7372  -16.4863\n            11  O2b O    15.8124  -14.4359\n            12  O1a O    24.1084  -15.1213\n            13  P1b P    14.3115  -14.4359\n            14  O1c O    12.9468  -14.4359\n            15  O1c O    14.3115  -13.0646\n            16  O1c O    14.3115  -15.8629\nBOND        15\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1\n            6     3   7 1\n            7     3   8 1\n            8     5   9 1\n            9     5  10 1\n            10    7  11 1\n            11    9  12 1\n            12   11  13 1\n            13   13  14 1\n            14   13  15 1\n            15   13  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

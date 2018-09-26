@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R04040",
+    "name": "alpha-Pinene-oxide lyase (decyclizing)",
+    "definition": "alpha-Pinene-oxide <=> (Z)-2-Methyl-5-isopropylhexa-2,5-dienal",
+    "equation": "C02759 <=> C04435",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.10"
+    ],
+    "pathways": {
+      "rn00903": "Limonene and pinene degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

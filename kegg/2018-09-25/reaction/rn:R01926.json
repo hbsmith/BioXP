@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01926",
+    "name": "ATP:sphingosine 1-phosphotransferase; sphingosine kinase",
+    "definition": "Sphingosine + ATP <=> Sphingosine 1-phosphate + ADP",
+    "equation": "C00319 + C00002 <=> C06124 + C00008",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.91"
+    ],
+    "pathways": {
+      "rn00600": "Sphingolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K04718": "sphingosine kinase [EC:2.7.1.91]"
+    }
+  }
+]

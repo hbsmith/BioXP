@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C00653",
+    "name": "Poly(ribitol phosphate)",
+    "names": [
+      "Poly(ribitol phosphate)",
+      "Poly-1,5-ribitol phosphate",
+      "(Ribitol phosphate)n",
+      "(Ribitol phosphate)n+1"
+    ],
+    "formula": "(C5H11O7P)n",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "Same as: G10558",
+    "comment": "",
+    "reactions": [
+      "R02716",
+      "R02717",
+      "R02718"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.4.1.53",
+      "2.4.1.70",
+      "6.1.1.13"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3924"
+      ],
+      "ChEBI": [
+        "16051"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   O2b O    26.6586  -18.1990\n            2   P1b P    28.2168  -18.1920\n            3   O1c O    29.7813  -18.1920\n            4   O1c O    28.2101  -16.4709\n            5   O1c O    28.2168  -19.9055\n            6   Z   *    32.8910  -18.1800\n            7   C1b C    25.4576  -18.9000\n            8   C1c C    24.2451  -18.2000\n            9   C1c C    23.0327  -18.9000\n            10  C1c C    21.8203  -18.2000\n            11  C1a C    20.6078  -18.9000\n            12  O1a O    24.2451  -16.8002\n            13  O1a O    21.8203  -16.8001\n            14  O1a O    23.0327  -20.3000\n            15  Z   *    18.6047  -17.9078\nBOND        14\n            1     1   2 1\n            2     2   3 1\n            3     2   4 1\n            4     2   5 2\n            5     3   6 1\n            6     1   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10   10  11 1\n            11    8  12 1 #Down\n            12   10  13 1 #Down\n            13    9  14 1 #Up\n            14   11  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R01732",
+    "name": "Riboflavin hydrolase",
+    "definition": "Riboflavin + H2O <=> Ribitol + Lumichrome",
+    "equation": "C00255 + C00001 <=> C00474 + C01727",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.99.1"
+    ],
+    "pathways": {
+      "rn00740": "Riboflavin metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

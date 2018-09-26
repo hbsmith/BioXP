@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04942",
+    "name": "L-Serine hydro-lyase (adding homocysteine)",
+    "definition": "L-Serine + Selenohomocysteine <=> L-Selenocystathionine + H2O",
+    "equation": "C00065 + C05698 <=> C05699 + C00001",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.22"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K01697": "cystathionine beta-synthase [EC:4.2.1.22]",
+      "K10150": "cysteine synthase / O-phosphoserine sulfhydrylase / cystathionine beta-synthase [EC:2.5.1.47 2.5.1.65 4.2.1.22]"
+    }
+  }
+]

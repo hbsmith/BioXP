@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C16201",
+    "name": "1-Naphthalenesulfonic acid",
+    "names": [
+      "1-Naphthalenesulfonic acid",
+      "Naphthalene-1-sulfonate"
+    ],
+    "formula": "C10H8O3S",
+    "exact_mass": 208.0194,
+    "mol_weight": 208.2337,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07698"
+    ],
+    "pathways": {
+      "map00626": "Naphthalene degradation"
+    },
+    "enzymes": [
+      "1.14.99.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "85-47-2"
+      ],
+      "PubChem": [
+        "47205509"
+      ],
+      "ChEBI": [
+        "30895"
+      ],
+      "ChEMBL": [
+        "CHEMBL1160029"
+      ],
+      "NIKKAJI": [
+        "J124.113C"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    22.1200  -18.8300\n            2   C8x C    22.1200  -20.2300\n            3   C8x C    23.3324  -20.9300\n            4   C8y C    24.5449  -20.2300\n            5   C8y C    24.5449  -18.8300\n            6   C8x C    23.3324  -18.1300\n            7   C8x C    25.7573  -20.9300\n            8   C8x C    26.9697  -20.2300\n            9   C8x C    26.9697  -18.8300\n            10  C8y C    25.7573  -18.1300\n            11  S4a S    25.7573  -16.7300\n            12  O1d O    27.1573  -16.7300\n            13  O1d O    24.3573  -16.7300\n            14  O1d O    25.7573  -15.3300\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12   10  11 1\n            13   11  12 2\n            14   11  13 2\n            15   11  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C11838",
+    "name": "(S)-4,5-Dihydroxypentane-2,3-dione",
+    "names": [
+      "(S)-4,5-Dihydroxypentane-2,3-dione",
+      "(4S)-4,5-Dihydroxy-2,3-pentanedione"
+    ],
+    "formula": "C5H8O4",
+    "exact_mass": 132.0423,
+    "mol_weight": 132.1146,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01291",
+      "R11183"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.7.1.189",
+      "4.4.1.21"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "14000"
+      ],
+      "ChEBI": [
+        "29484"
+      ],
+      "ChEMBL": [
+        "CHEMBL193493"
+      ],
+      "NIKKAJI": [
+        "J1.969.645F"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1a C    21.1931  -20.2991\n            2   C5a C    22.4055  -19.5991\n            3   C5a C    23.6178  -20.2991\n            4   C1c C    24.8303  -19.5991\n            5   C1b C    26.0427  -20.2991\n            6   O1a O    26.0293  -21.6921\n            7   O1a O    24.8203  -18.1922\n            8   O5a O    22.3950  -18.1922\n            9   O5a O    23.6041  -21.6921\nBOND        8\n            1     4   5 1\n            2     2   3 1\n            3     5   6 1\n            4     1   2 1\n            5     4   7 1 #Up\n            6     3   4 1\n            7     2   8 2\n            8     3   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

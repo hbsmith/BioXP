@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10442",
+    "name": "",
+    "definition": "NDP + H2O <=> Nucleoside 5'-phosphate + Orthophosphate",
+    "equation": "C00454 + C00001 <=> C01117 + C00009",
+    "comment": "second step of two-step reaction (see R10443, R02319+R10442)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.5"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R01409",
+    "name": "Cyanohydrin aldehyde-lyase (cyanide-forming)",
+    "definition": "Cyanohydrin <=> Cyanide ion + Aldehyde",
+    "equation": "C05712 <=> C00177 + C00071",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.2.10",
+      "4.1.2.11",
+      "4.1.2.47"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K08248": "(R)-mandelonitrile lyase [EC:4.1.2.10]",
+      "K08249": "hydroxymandelonitrile lyase [EC:4.1.2.11]",
+      "K13033": "(S)-hydroxynitrile lyase [EC:4.1.2.47]"
+    }
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "entry_id": "2.4.1.70",
+    "name": "poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase",
+    "names": [
+      "poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase",
+      "TarM",
+      "UDP acetylglucosamine-poly(ribitol phosphate) acetylglucosaminyltransferase (ambiguous)",
+      "uridine diphosphoacetylglucosamine-poly(ribitol phosphate) acetylglucosaminyltransferase (ambiguous)",
+      "UDP-N-acetyl-D-glucosamine:poly(ribitol-phosphate) N-acetyl-D-glucosaminyltransferase (ambiguous)",
+      "UDP-N-acetyl-alpha-D-glucosamine:poly(ribitol-phosphate) N-acetyl-alpha-D-glucosaminyltransferase (ambiguous)",
+      "poly(ribitol-phosphate) N-acetylglucosaminyltransferase (ambiguous)"
+    ],
+    "classes": [
+      "Transferases;",
+      "Glycosyltransferases;",
+      "Hexosyltransferases"
+    ],
+    "sysname": "UDP-N-acetyl-alpha-D-glucosamine:4-O-(D-ribitylphospho)n-di[(2R)-1-glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol alpha-N-acetyl-D-glucosaminyltransferase (configuration-retaining)",
+    "reaction": "n UDP-N-acetyl-alpha-D-glucosamine + 4-O-(D-ribitylphospho)n-di[(2R)-1-glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol = n UDP + 4-O-(2-N-acetyl-alpha-D-glucosaminyl-D-ribitylphospho)n-di[(2R)-1-glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol [RN:R12037]",
+    "all_reac": "R12037; (other) R02717 R06182(G)",
+    "iubmb_reactions": [
+      "R12037"
+    ],
+    "kegg_reactions": [
+      "R02717 R06182(G)"
+    ],
+    "substrates": [
+      "UDP-N-acetyl-alpha-D-glucosamine [CPD:C00043]",
+      "4-O-(D-ribitylphospho)n-di[(2R)-1-glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol [CPD:C21508]"
+    ],
+    "products": [
+      "UDP [CPD:C00015]",
+      "4-O-(2-N-acetyl-alpha-D-glucosaminyl-D-ribitylphospho)n-di[(2R)-1-glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol [CPD:C21870]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "Involved in the biosynthesis of poly(ribitol phosphate) teichoic acids in the cell wall of the bacterium Staphylococcus aureus. This enzyme adds an N-acetyl-alpha-D-glucosamine to the hydroxyl group at the 2 position of the ribitol phosphate units. cf. EC 2.4.1.355 [poly(ribitol-phosphate) beta-N-acetylglucosaminyltransferase].",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22710": "poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase"
+    },
+    "genes": {
+      "sam": [
+        "MW0919"
+      ],
+      "sas": [
+        "SAS0971"
+      ],
+      "sac": [
+        "SACOL1043"
+      ],
+      "sax": [
+        "USA300HOU_0984"
+      ],
+      "saa": [
+        "SAUSA300_0939"
+      ],
+      "sae": [
+        "NWMN_0906"
+      ],
+      "suv": [
+        "SAVC_04345"
+      ],
+      "suj": [
+        "SAA6159_00892"
+      ],
+      "suk": [
+        "SAA6008_00990"
+      ],
+      "sut": [
+        "SAT0131_01070"
+      ],
+      "suq": [
+        "HMPREF0772_12199"
+      ],
+      "suz": [
+        "MS7_0993"
+      ],
+      "suw": [
+        "SATW20_10320"
+      ],
+      "saua": [
+        "SAAG_02146"
+      ],
+      "sauz": [
+        "SAZ172_0976"
+      ],
+      "sauf": [
+        "X998_1035"
+      ],
+      "sab": [
+        "SAB0901"
+      ],
+      "saum": [
+        "BN843_9420"
+      ],
+      "saur": [
+        "SABB_01002"
+      ],
+      "saui": [
+        "AZ30_04940"
+      ],
+      "suh": [
+        "SAMSHR1132_08830"
+      ],
+      "ssch": [
+        "LH95_01430"
+      ],
+      "skl": [
+        "C7J89_02280"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.4.1.70"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.4.1.70"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.4.1.70"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.4.1.70"
+      ],
+      "CAS": [
+        "37277-71-7"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Nathenson",
+          "S.G.",
+          "Ishimoto",
+          "N. and Strominger",
+          "J.L."
+        ],
+        "title": "UDP-N-acetylglucosamine:polyribitol phosphate N-acetylglucosaminyltransferases from Staphylococcus aureus.",
+        "journal": "Methods Enzymol",
+        "volume": "8",
+        "issue": "",
+        "pages": "426-429",
+        "year": "1966",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Xia G",
+          "Maier L",
+          "Sanchez-Carballo P",
+          "Li M",
+          "Otto M",
+          "Holst O",
+          "Peschel A"
+        ],
+        "title": "Glycosylation of wall teichoic acid in Staphylococcus aureus by TarM.",
+        "journal": "J Biol Chem 285:13405-15 (2010) DOI:10.1074/jbc.M109.096172",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:20185825]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sobhanifar S",
+          "Worrall LJ",
+          "Gruninger RJ",
+          "Wasney GA",
+          "Blaukopf M",
+          "Baumann L",
+          "Lameignere E",
+          "Solomonson M",
+          "Brown ED",
+          "Withers SG",
+          "Strynadka NC"
+        ],
+        "title": "Structure and mechanism of Staphylococcus aureus TarM, the wall teichoic acid alpha-glycosyltransferase.",
+        "journal": "Proc Natl Acad Sci U S A 112:E576-85 (2015) DOI:10.1073/pnas.1418084112",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:25624472]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Koc C",
+          "Gerlach D",
+          "Beck S",
+          "Peschel A",
+          "Xia G",
+          "Stehle T"
+        ],
+        "title": "Structural and enzymatic analysis of TarM glycosyltransferase from Staphylococcus aureus reveals an oligomeric protein specific for the glycosylation of wall teichoic acid.",
+        "journal": "J Biol Chem 290:9874-85 (2015) DOI:10.1074/jbc.M114.619924",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:25697358]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

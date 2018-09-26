@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "R00686",
+    "name": "L-Phenylalanine racemase (ATP-hydrolysing)",
+    "definition": "ATP + L-Phenylalanine + H2O <=> AMP + Diphosphate + D-Phenylalanine",
+    "equation": "C00002 + C00079 + C00001 <=> C00020 + C00013 + C02265",
+    "comment": "multi-step reaction (ligating L-phenylalanine and [enzyme]-thiol, epimerizing and thioester-hydrolysing)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.1.11"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+][
+  {
+    "entry_id": "R00686",
+    "name": "L-Phenylalanine racemase (ATP-hydrolysing)",
+    "definition": "ATP + L-Phenylalanine + H2O <=> AMP + Diphosphate + D-Phenylalanine",
+    "equation": "C00002 + C00079 + C00001 <=> C00020 + C00013 + C02265",
+    "comment": "multi-step reaction (ligating L-phenylalanine and [enzyme]-thiol, epimerizing and thioester-hydrolysing)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.1.1.11"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

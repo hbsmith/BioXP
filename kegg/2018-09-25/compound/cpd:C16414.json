@@ -1,0 +1,77 @@
+[
+  {
+    "entry_id": "C16414",
+    "name": "2-Amino-5-hydroxyl-4-hydroxylamino-6-nitrotoluene",
+    "names": [
+      "2-Amino-5-hydroxyl-4-hydroxylamino-6-nitrotoluene",
+      "4-Amino-6-hydroxylamino-3-methyl-2-nitrophenol"
+    ],
+    "formula": "C7H9N3O4",
+    "exact_mass": 199.0593,
+    "mol_weight": 199.1641,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08048"
+    ],
+    "pathways": {
+      "map00633": "Nitrotoluene degradation"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205712"
+      ],
+      "NIKKAJI": [
+        "J2.802.586F"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    28.0292  -23.7100\n            2   C8x C    28.0292  -25.1102\n            3   C8y C    29.2458  -25.8138\n            4   C8y C    30.4549  -25.1102\n            5   C8y C    30.4549  -23.7100\n            6   C8y C    29.2458  -23.0134\n            7   C1a C    29.2475  -21.6135\n            8   N2b N    31.6690  -23.0144 #+\n            9   N1b N    29.2475  -27.2137\n            10  O3a O    32.8820  -23.7117\n            11  O3a O    31.6700  -21.6143 #-\n            12  N1a N    26.8031  -22.9986\n            13  O1b O    30.4721  -27.9187\n            14  O1a O    31.6733  -25.8108\nBOND        14\n            1     6   7 1\n            2     1   2 2\n            3     5   8 1\n            4     2   3 1\n            5     3   9 1\n            6     3   4 2\n            7     8  10 2\n            8     4   5 1\n            9     8  11 1\n            10    5   6 2\n            11    6   1 1\n            12    1  12 1\n            13    9  13 1\n            14    4  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C16414",
+    "name": "2-Amino-5-hydroxyl-4-hydroxylamino-6-nitrotoluene",
+    "names": [
+      "2-Amino-5-hydroxyl-4-hydroxylamino-6-nitrotoluene",
+      "4-Amino-6-hydroxylamino-3-methyl-2-nitrophenol"
+    ],
+    "formula": "C7H9N3O4",
+    "exact_mass": 199.0593,
+    "mol_weight": 199.1641,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08048"
+    ],
+    "pathways": {
+      "map00633": "Nitrotoluene degradation"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "47205712"
+      ],
+      "NIKKAJI": [
+        "J2.802.586F"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    28.0292  -23.7100\n            2   C8x C    28.0292  -25.1102\n            3   C8y C    29.2458  -25.8138\n            4   C8y C    30.4549  -25.1102\n            5   C8y C    30.4549  -23.7100\n            6   C8y C    29.2458  -23.0134\n            7   C1a C    29.2475  -21.6135\n            8   N2b N    31.6690  -23.0144 #+\n            9   N1b N    29.2475  -27.2137\n            10  O3a O    32.8820  -23.7117\n            11  O3a O    31.6700  -21.6143 #-\n            12  N1a N    26.8031  -22.9986\n            13  O1b O    30.4721  -27.9187\n            14  O1a O    31.6733  -25.8108\nBOND        14\n            1     6   7 1\n            2     1   2 2\n            3     5   8 1\n            4     2   3 1\n            5     3   9 1\n            6     3   4 2\n            7     8  10 2\n            8     4   5 1\n            9     8  11 1\n            10    5   6 2\n            11    6   1 1\n            12    1  12 1\n            13    9  13 1\n            14    4  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

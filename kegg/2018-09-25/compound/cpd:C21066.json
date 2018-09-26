@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C21066",
+    "name": "D-Galactofuranose",
+    "names": [
+      "D-Galactofuranose"
+    ],
+    "formula": "C6H12O6",
+    "exact_mass": 180.0634,
+    "mol_weight": 180.1559,
+    "remark": "",
+    "comment": "D-Galactopyranose [CPD:C00124]",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "295369328"
+      ],
+      "PDB-CCD": [
+        "GZL"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   O1a O    16.0360  -16.4759\n            2   C1y C    14.7324  -16.9127\n            3   O2x O    13.6173  -16.1100\n            4   C1y C    14.3140  -18.2223\n            5   C1y C    12.5142  -16.9127\n            6   C1y C    12.9336  -18.2223\n            7   O1a O    15.1156  -19.3313\n            8   O1a O    12.1250  -19.3254\n            9   C1c C    11.2200  -16.4840\n            10  C1b C    10.9418  -15.1535\n            11  O1a O     9.6475  -14.7248\n            12  O1a O    10.2040  -17.3932\nBOND        12\n            1     2   1 1 #Either\n            2     2   3 1\n            3     2   4 1\n            4     3   5 1\n            5     4   6 1\n            6     4   7 1 #Down\n            7     6   8 1 #Up\n            8     5   6 1\n            9     5   9 1\n            10    9  10 1\n            11   10  11 1\n            12    9  12 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

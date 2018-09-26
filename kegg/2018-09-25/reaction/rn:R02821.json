@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02821",
+    "name": "Trimethylaminoacetate:L-homosysteine S-methyltransferase",
+    "definition": "Betaine + L-Homocysteine <=> N,N-Dimethylglycine + L-Methionine",
+    "equation": "C00719 + C00155 <=> C01026 + C00073",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.5"
+    ],
+    "pathways": {
+      "rn00260": "Glycine, serine and threonine metabolism",
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00544": "betaine-homocysteine S-methyltransferase [EC:2.1.1.5]"
+    }
+  }
+]

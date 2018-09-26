@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R12021",
+    "name": "",
+    "definition": "Pyrrole-2-carbonyl-[pcp] + FADH2 + Cl- + Oxygen <=> 5-Chloro-1H-pyrrole-2-carbonyl-[peptidyl-carrier protein] + FAD + 2 H2O",
+    "equation": "C12483 + C01352 + C00698 + C00007 <=> C21855 + C00016 + 2 C00001",
+    "comment": "the first step of two-step reaction (see R12023, R12021+R12022)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.56"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

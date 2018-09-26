@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11632",
+    "name": "L-carnitine:CoA ligase (AMP-forming)",
+    "definition": "ATP + L-Carnitine + CoA <=> AMP + Diphosphate + L-Carnitinyl-CoA",
+    "equation": "C00002 + C00318 + C00010 <=> C00020 + C00013 + C20750",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.48"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K02182": "carnitine-CoA ligase [EC:6.2.1.48]"
+    }
+  }
+]

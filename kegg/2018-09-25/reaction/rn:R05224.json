@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05224",
+    "name": "",
+    "definition": "Hydrogenobyrinate + 2 L-Glutamine + 2 ATP + 2 H2O <=> Hydrogenobyrinate a,c diamide + 2 Orthophosphate + 2 L-Glutamate + 2 ADP",
+    "equation": "C06399 + 2 C00064 + 2 C00002 + 2 C00001 <=> C06503 + 2 C00009 + 2 C00025 + 2 C00008",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.5.9"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K02224": "cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11]"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11875",
+    "name": "L-carnitine,NADH:oxygen oxidoreductase (trimethylamine-forming)",
+    "definition": "L-Carnitine + NADH + H+ + Oxygen <=> (3R)-3-Hydroxy-4-oxobutanoate + Trimethylamine + NAD+ + H2O",
+    "equation": "C00318 + C00004 + C00080 + C00007 <=> C21761 + C00565 + C00003 + C00001",
+    "comment": "NADPH (see R11911)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.239"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

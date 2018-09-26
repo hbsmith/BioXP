@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R02273",
+    "name": "5-Aminopentanamide amidohydrolase",
+    "definition": "5-Aminopentanamide + H2O <=> 5-Aminopentanoate + Ammonia",
+    "equation": "C00990 + C00001 <=> C00431 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.30"
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

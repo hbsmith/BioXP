@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R06345",
+    "name": "(gibberellin-1),2-oxoglutarate:oxygen oxidoreductase (2beta-hydroxylating)",
+    "definition": "Gibberellin A8 <=> Gibberellin A8-catabolite",
+    "equation": "C03579 <=> C11870",
+    "comment": "GA 2-oxidase(2-oxoglutarate dependent dioxygenase),GA2ox",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.11.13"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

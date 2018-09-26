@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R07916",
+    "name": "geranylgeranyl-diphosphate:geranylgeranyl-diphosphate geranylgeranyltransferase",
+    "definition": "2 Geranylgeranyl diphosphate <=> all-trans-Phytoene + 2 Diphosphate",
+    "equation": "2 C00353 <=> C05413 + 2 C00013",
+    "comment": "multistep reaction (see R02065+R07270)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.32"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

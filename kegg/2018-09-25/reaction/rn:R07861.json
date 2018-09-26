@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R07861",
+    "name": "",
+    "definition": "(9Z,12Z,15Z)-Octadecatrienoic acid + Reduced acceptor + Oxygen <=> Stearidonic acid + Acceptor + 2 H2O",
+    "equation": "C06427 + C00030 + C00007 <=> C16300 + C00028 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.-"
+    ],
+    "pathways": {
+      "rn00592": "alpha-Linolenic acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K10226": "acyl-CoA 6-desaturase (Delta-6 desaturase) [EC:1.14.19.3]"
+    }
+  }
+][
+  {
+    "entry_id": "R07861",
+    "name": "",
+    "definition": "(9Z,12Z,15Z)-Octadecatrienoic acid + Reduced acceptor + Oxygen <=> Stearidonic acid + Acceptor + 2 H2O",
+    "equation": "C06427 + C00030 + C00007 <=> C16300 + C00028 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.-"
+    ],
+    "pathways": {
+      "rn00592": "alpha-Linolenic acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K10226": "acyl-CoA 6-desaturase (Delta-6 desaturase) [EC:1.14.19.3]"
+    }
+  }
+]

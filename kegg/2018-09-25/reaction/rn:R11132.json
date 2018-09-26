@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11132",
+    "name": "protodeoxyviolaceinate,NADPH:O2 oxidoreductase",
+    "definition": "Protodeoxyviolaceinic acid + Oxygen + NADPH + H+ <=> Deoxyviolaceinic acid + NADP+ + H2O",
+    "equation": "C21131 + C00007 + C00005 + C00080 <=> C21132 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.224"
+    ],
+    "pathways": {
+      "rn00404": "Staurosporine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20090": "violacein synthase [EC:1.14.13.224]"
+    }
+  }
+][
+  {
+    "entry_id": "R11132",
+    "name": "protodeoxyviolaceinate,NADPH:O2 oxidoreductase",
+    "definition": "Protodeoxyviolaceinic acid + Oxygen + NADPH + H+ <=> Deoxyviolaceinic acid + NADP+ + H2O",
+    "equation": "C21131 + C00007 + C00005 + C00080 <=> C21132 + C00006 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.224"
+    ],
+    "pathways": {
+      "rn00404": "Staurosporine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20090": "violacein synthase [EC:1.14.13.224]"
+    }
+  }
+]

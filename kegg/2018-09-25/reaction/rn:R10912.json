@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "R10912",
+    "name": "aldehyde:quinone oxidoreductase",
+    "definition": "Aldehyde + Quinone + H2O <=> Fatty acid + Hydroquinone",
+    "equation": "C00071 + C15602 + C00001 <=> C00162 + C15603",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.5.2"
+    ],
+    "pathways": {
+      "rn00071": "Fatty acid degradation"
+    },
+    "orthologs": {
+    }
+  }
+][
+  {
+    "entry_id": "R10912",
+    "name": "aldehyde:quinone oxidoreductase",
+    "definition": "Aldehyde + Quinone + H2O <=> Fatty acid + Hydroquinone",
+    "equation": "C00071 + C15602 + C00001 <=> C00162 + C15603",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.5.2"
+    ],
+    "pathways": {
+      "rn00071": "Fatty acid degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11276",
+    "name": "lividamine:NADP+ 4'-oxidoreductase",
+    "definition": "4'-Oxolividamine + NADPH + H+ <=> Lividamine + NADP+",
+    "equation": "C21257 + C00005 + C00080 <=> C21255 + C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20576": "NADP-dependent dehydrogenase [EC:1.1.1.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R11276",
+    "name": "lividamine:NADP+ 4'-oxidoreductase",
+    "definition": "4'-Oxolividamine + NADPH + H+ <=> Lividamine + NADP+",
+    "equation": "C21257 + C00005 + C00080 <=> C21255 + C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20576": "NADP-dependent dehydrogenase [EC:1.1.1.-]"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R03237",
+    "name": "CTP:D-tagatose 6-phosphate 1-phosphotransferase",
+    "definition": "CTP + D-Tagatose 6-phosphate <=> CDP + D-Tagatose 1,6-bisphosphate",
+    "equation": "C00063 + C01097 <=> C00112 + C03785",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.11"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00850": "6-phosphofructokinase 1 [EC:2.7.1.11]",
+      "K16370": "6-phosphofructokinase 2 [EC:2.7.1.11]"
+    }
+  }
+][
+  {
+    "entry_id": "R03237",
+    "name": "CTP:D-tagatose 6-phosphate 1-phosphotransferase",
+    "definition": "CTP + D-Tagatose 6-phosphate <=> CDP + D-Tagatose 1,6-bisphosphate",
+    "equation": "C00063 + C01097 <=> C00112 + C03785",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.11"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00850": "6-phosphofructokinase 1 [EC:2.7.1.11]",
+      "K16370": "6-phosphofructokinase 2 [EC:2.7.1.11]"
+    }
+  }
+]

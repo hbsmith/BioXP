@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R01195",
+    "name": "Ferredoxin:NADP+ oxidoreductase",
+    "definition": "2 Reduced ferredoxin + NADP+ + H+ <=> 2 Oxidized ferredoxin + NADPH",
+    "equation": "2 C00138 + C00006 + C00080 <=> 2 C00139 + C00005",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.18.1.2"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

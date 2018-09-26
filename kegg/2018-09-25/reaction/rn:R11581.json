@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R11581",
+    "name": "GTP:molybdenum cofactor guanylyltransferase",
+    "definition": "Molybdoenzyme molybdenum cofactor + GTP <=> Guanylyl molybdenum cofactor + Diphosphate",
+    "equation": "C18237 + C00044 <=> C19871 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.77"
+    ],
+    "pathways": {
+      "rn00790": "Folate biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03752": "molybdenum cofactor guanylyltransferase [EC:2.7.7.77]",
+      "K13818": "molybdopterin-guanine dinucleotide biosynthesis protein [EC:2.7.7.77]"
+    }
+  }
+]

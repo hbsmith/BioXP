@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02928",
+    "name": "galactitol:NAD+ 2-oxidoreductase",
+    "definition": "Galactitol + NAD+ <=> D-Tagatose + NADH + H+",
+    "equation": "C01697 + C00003 <=> C00795 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.16"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism"
+    },
+    "orthologs": {
+      "K21620": "galactitol 2-dehydrogenase [EC:1.1.1.16]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R01668",
+    "name": "dCTP nucleotidohydrolase; deoxycytidine 5'-triphosphate diphosphohydrolase",
+    "definition": "dCTP + H2O <=> dCMP + Diphosphate",
+    "equation": "C00458 + C00001 <=> C00239 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.12",
+      "3.6.1.65"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K16904": "dCTP diphosphatase [EC:3.6.1.12]"
+    }
+  }
+]

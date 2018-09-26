@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R04909",
+    "name": "5-Hydroxykynurenamine decarboxy-lyase",
+    "definition": "5-Hydroxykynurenamine + CO2 <=> 5-Hydroxykynurenine",
+    "equation": "C05638 + C00011 <=> C05651",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.28"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+      "K01593": "aromatic-L-amino-acid/L-tryptophan decarboxylase [EC:4.1.1.28 4.1.1.105]"
+    }
+  }
+]

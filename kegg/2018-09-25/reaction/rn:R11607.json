@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11607",
+    "name": "3-aminobutanoyl-CoA:2-oxoglutarate aminotransferase",
+    "definition": "3-Aminobutanoyl-CoA + 2-Oxoglutarate <=> Acetoacetyl-CoA + L-Glutamate",
+    "equation": "C05117 + C00026 <=> C00332 + C00025",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.111"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K21585": "3-aminobutanoyl-CoA transaminase [EC:2.6.1.111]"
+    }
+  }
+]

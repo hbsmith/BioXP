@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R03565",
+    "name": "UDPglucose:vitexin 2''-O-beta-D-glucosyltransferase",
+    "definition": "UDP-glucose + Vitexin <=> Vitexin 2''-O-beta-D-glucoside + UDP",
+    "equation": "C00029 + C01460 <=> C04024 + C00015",
+    "comment": "vitexin beta-glucosyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.105"
+    ],
+    "pathways": {
+      "rn00944": "Flavone and flavonol biosynthesis"
+    },
+    "orthologs": {
+    }
+  }
+]

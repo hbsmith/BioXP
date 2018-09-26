@@ -1,0 +1,174 @@
+[
+  {
+    "entry_id": "1.14.14.83",
+    "name": "geraniol 8-hydroxylase",
+    "names": [
+      "geraniol 8-hydroxylase",
+      "CYP76B6 (gene name)",
+      "G10H (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "geraniol,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (8-hydroxylating)",
+    "reaction": "geraniol + [reduced NADPH---hemoprotein reductase] + O2 = (6E)-8-hydroxygeraniol + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R08785]",
+    "all_reac": "R08785",
+    "iubmb_reactions": [
+      "R08785"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "geraniol [CPD:C01500]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "(6E)-8-hydroxygeraniol [CPD:C17621]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme thiolate) protein found in plants. Also hydroxylates nerol and citronellol, cf. EC 1.14.14.84, linalool 8-monooxygenase. The recommended numbering of geraniol gives 8-hydroxygeraniol as the product rather than 10-hydroxygeraniol as used by references 1-3. See prenol nomenclature {iupac/misc/prenol#p1::Pr-1}. The cloned enzyme also catalysed, but less efficiently, the 3'-hydroxylation of naringenin (cf. EC 1.14.14.82, flavonoid 3'-monooxygenase) [3].",
+    "pathways": {
+      "ec00902": "Monoterpenoid biosynthesis",
+      "ec01100": "Metabolic pathways",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15099": "geraniol 8-hydroxylase"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.83"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.83"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.83"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.83"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Collu G",
+          "Unver N",
+          "Peltenburg-Looman AM",
+          "van der Heijden R",
+          "Verpoorte R",
+          "Memelink J."
+        ],
+        "title": "Geraniol 10-hydroxylase, a cytochrome P450 enzyme involved in terpenoid indole alkaloid biosynthesis.",
+        "journal": "FEBS Lett 508:215-20 (2001) DOI:10.1016/S0014-5793(01)03045-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:11718718]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang J",
+          "Liu Y",
+          "Cai Y",
+          "Zhang F",
+          "Xia G",
+          "Xiang F"
+        ],
+        "title": "Cloning and functional analysis of geraniol 10-hydroxylase, a cytochrome P450 from Swertia mussotii Franch.",
+        "journal": "Biosci Biotechnol Biochem",
+        "volume": "74",
+        "issue": "",
+        "pages": "1583-90",
+        "year": "2010",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:20699579]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sung PH",
+          "Huang FC",
+          "Do YY",
+          "Huang PL"
+        ],
+        "title": "Functional expression of geraniol 10-hydroxylase reveals its dual function in the biosynthesis of terpenoid and phenylpropanoid.",
+        "journal": "J Agric Food Chem 59:4637-43 (2011) DOI:10.1021/jf200259n",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:21504162]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

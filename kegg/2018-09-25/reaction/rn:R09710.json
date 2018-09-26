@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09710",
+    "name": "(S)-2,3-epoxysqualene mutase (cyclizing, germanicol-forming)",
+    "definition": "(S)-2,3-Epoxysqualene <=> Germanicol",
+    "equation": "C01054 <=> C19833",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.99.34"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis"
+    },
+    "orthologs": {
+      "K15818": "germanicol synthase [EC:5.4.99.34]"
+    }
+  }
+]

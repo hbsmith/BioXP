@@ -1,0 +1,101 @@
+[
+  {
+    "entry_id": "C06317",
+    "name": "Vanillyl alcohol",
+    "names": [
+      "Vanillyl alcohol",
+      "4-Hydroxy-3-methoxy-benzenemethanol",
+      "4-Hydroxy-3-methoxybenzyl alcohol",
+      "4-Hydroxy-3-methoxybenzenemethanol"
+    ],
+    "formula": "C8H10O3",
+    "exact_mass": 154.063,
+    "mol_weight": 154.1632,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02877"
+    ],
+    "pathways": {
+      "map00627": "Aminobenzoate degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.3.38"
+    ],
+    "dblinks": {
+      "CAS": [
+        "498-00-0"
+      ],
+      "PubChem": [
+        "8553"
+      ],
+      "ChEBI": [
+        "18353"
+      ],
+      "3DMET": [
+        "B00930"
+      ],
+      "NIKKAJI": [
+        "J28.483A"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    27.2645  -18.7711\n            2   C8x C    27.2645  -17.3606\n            3   C8y C    26.0522  -19.4648\n            4   O2a O    28.4710  -19.4706\n            5   C8y C    26.0522  -16.6670\n            6   C8x C    24.8340  -18.7711\n            7   O1a O    26.0522  -20.8636\n            8   C8x C    24.8340  -17.3606\n            9   C1b C    26.0522  -15.2681\n            10  O1a O    27.2645  -14.5746\n            11  C1a C    29.7035  -18.7619\nBOND        11\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 2\n            6     3   7 1\n            7     5   8 2\n            8     5   9 1\n            9     9  10 1\n            10    6   8 1\n            11    4  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C06317",
+    "name": "Vanillyl alcohol",
+    "names": [
+      "Vanillyl alcohol",
+      "4-Hydroxy-3-methoxy-benzenemethanol",
+      "4-Hydroxy-3-methoxybenzyl alcohol",
+      "4-Hydroxy-3-methoxybenzenemethanol"
+    ],
+    "formula": "C8H10O3",
+    "exact_mass": 154.063,
+    "mol_weight": 154.1632,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02877"
+    ],
+    "pathways": {
+      "map00627": "Aminobenzoate degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.3.38"
+    ],
+    "dblinks": {
+      "CAS": [
+        "498-00-0"
+      ],
+      "PubChem": [
+        "8553"
+      ],
+      "ChEBI": [
+        "18353"
+      ],
+      "3DMET": [
+        "B00930"
+      ],
+      "NIKKAJI": [
+        "J28.483A"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    27.2645  -18.7711\n            2   C8x C    27.2645  -17.3606\n            3   C8y C    26.0522  -19.4648\n            4   O2a O    28.4710  -19.4706\n            5   C8y C    26.0522  -16.6670\n            6   C8x C    24.8340  -18.7711\n            7   O1a O    26.0522  -20.8636\n            8   C8x C    24.8340  -17.3606\n            9   C1b C    26.0522  -15.2681\n            10  O1a O    27.2645  -14.5746\n            11  C1a C    29.7035  -18.7619\nBOND        11\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 2\n            6     3   7 1\n            7     5   8 2\n            8     5   9 1\n            9     9  10 1\n            10    6   8 1\n            11    4  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

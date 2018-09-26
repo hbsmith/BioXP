@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R08955",
+    "name": "3alpha,21-dihydroxy-5alpha-pregnan-20-one:NADP+ 3-oxidoreductase (A-specific)",
+    "definition": "5alpha-Dihydrodeoxycorticosterone + NADPH + H+ <=> Allotetrahydrodeoxycorticosterone + NADP+",
+    "equation": "C18040 + C00005 + C00080 <=> C13713 + C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.213"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+      "K00089": "3alpha-hydroxysteroid 3-dehydrogenase [EC:1.1.1.213 1.1.1.357]",
+      "K04119": "aldo-keto reductase family 1 member C3 [EC:1.1.1.51 1.1.1.188 1.1.1.213 1.1.1.357]"
+    }
+  }
+][
+  {
+    "entry_id": "R08955",
+    "name": "3alpha,21-dihydroxy-5alpha-pregnan-20-one:NADP+ 3-oxidoreductase (A-specific)",
+    "definition": "5alpha-Dihydrodeoxycorticosterone + NADPH + H+ <=> Allotetrahydrodeoxycorticosterone + NADP+",
+    "equation": "C18040 + C00005 + C00080 <=> C13713 + C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.213"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+      "K00089": "3alpha-hydroxysteroid 3-dehydrogenase [EC:1.1.1.213 1.1.1.357]",
+      "K04119": "aldo-keto reductase family 1 member C3 [EC:1.1.1.51 1.1.1.188 1.1.1.213 1.1.1.357]"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R01012",
+    "name": "phosphoenolpyruvate:glycerone phosphotransferase",
+    "definition": "Phosphoenolpyruvate + Glycerone <=> Pyruvate + Glycerone phosphate",
+    "equation": "C00074 + C00184 <=> C00022 + C00111",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.121"
+    ],
+    "pathways": {
+      "rn00561": "Glycerolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K05878": "phosphoenolpyruvate---glycerone phosphotransferase subunit DhaK [EC:2.7.1.121]",
+      "K05879": "phosphoenolpyruvate---glycerone phosphotransferase subunit DhaL [EC:2.7.1.121]",
+      "K05881": "phosphoenolpyruvate---glycerone phosphotransferase subunit DhaM [EC:2.7.1.121]"
+    }
+  }
+]

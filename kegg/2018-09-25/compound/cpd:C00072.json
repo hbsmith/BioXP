@@ -1,0 +1,207 @@
+[
+  {
+    "entry_id": "C00072",
+    "name": "Ascorbate",
+    "names": [
+      "Ascorbate",
+      "Ascorbic acid",
+      "L-Ascorbate",
+      "L-Ascorbic acid",
+      "Vitamin C"
+    ],
+    "formula": "C6H8O6",
+    "exact_mass": 176.0321,
+    "mol_weight": 176.1241,
+    "remark": "Same as: D00018",
+    "comment": "",
+    "reactions": [
+      "R00068",
+      "R00095",
+      "R00640",
+      "R00643",
+      "R00644",
+      "R00645",
+      "R00646",
+      "R00647",
+      "R01108",
+      "R02535",
+      "R03147",
+      "R03186",
+      "R03912",
+      "R07178",
+      "R07179",
+      "R07214",
+      "R07671",
+      "R07679",
+      "R08358",
+      "R09540",
+      "R09739",
+      "R10053",
+      "R10055"
+    ],
+    "pathways": {
+      "map00053": "Ascorbate and aldarate metabolism",
+      "map00480": "Glutathione metabolism",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map02060": "Phosphotransferase system (PTS)",
+      "map04066": "HIF-1 signaling pathway",
+      "map04977": "Vitamin digestion and absorption"
+    },
+    "enzymes": [
+      "1.1.3.8",
+      "1.3.2.3",
+      "1.3.3.12",
+      "1.6.5.4",
+      "1.8.5.1",
+      "1.10.2.1",
+      "1.10.3.3",
+      "1.11.1.11",
+      "1.14.17.1",
+      "1.14.17.3",
+      "1.14.17.4",
+      "1.14.-.-",
+      "1.16.5.1",
+      "1.23.5.1",
+      "2.7.1.194"
+    ],
+    "dblinks": {
+      "CAS": [
+        "50-81-7"
+      ],
+      "PubChem": [
+        "3372"
+      ],
+      "ChEBI": [
+        "29073",
+        "38290"
+      ],
+      "ChEMBL": [
+        "CHEMBL196"
+      ],
+      "KNApSAcK": [
+        "C00001179"
+      ],
+      "PDB-CCD": [
+        "ASC"
+      ],
+      "3DMET": [
+        "B01147"
+      ],
+      "NIKKAJI": [
+        "J2.301I"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1y C    28.9431  -22.0676\n            2   C2y C    29.3912  -23.3888\n            3   O7x O    30.0780  -21.2526\n            4   C2y C    30.7940  -23.3888\n            5   C7x C    31.2131  -22.0850\n            6   O1a O    31.6263  -24.5181\n            7   O6a O    32.1968  -21.0897\n            8   C1c C    27.7354  -21.3704\n            9   C1b C    26.5276  -22.0676\n            10  O1a O    28.5753  -24.5274\n            11  O1a O    27.7351  -19.9591\n            12  O1a O    25.2940  -21.3555\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     2   4 2\n            4     3   5 1\n            5     4   6 1\n            6     5   7 2\n            7     4   5 1\n            8     1   8 1\n            9     8   9 1\n            10    2  10 1\n            11    8  11 1 #Down\n            12    9  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C00072",
+    "name": "Ascorbate",
+    "names": [
+      "Ascorbate",
+      "Ascorbic acid",
+      "L-Ascorbate",
+      "L-Ascorbic acid",
+      "Vitamin C"
+    ],
+    "formula": "C6H8O6",
+    "exact_mass": 176.0321,
+    "mol_weight": 176.1241,
+    "remark": "Same as: D00018",
+    "comment": "",
+    "reactions": [
+      "R00068",
+      "R00095",
+      "R00640",
+      "R00643",
+      "R00644",
+      "R00645",
+      "R00646",
+      "R00647",
+      "R01108",
+      "R02535",
+      "R03147",
+      "R03186",
+      "R03912",
+      "R07178",
+      "R07179",
+      "R07214",
+      "R07671",
+      "R07679",
+      "R08358",
+      "R09540",
+      "R09739",
+      "R10053",
+      "R10055"
+    ],
+    "pathways": {
+      "map00053": "Ascorbate and aldarate metabolism",
+      "map00480": "Glutathione metabolism",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map02060": "Phosphotransferase system (PTS)",
+      "map04066": "HIF-1 signaling pathway",
+      "map04977": "Vitamin digestion and absorption"
+    },
+    "enzymes": [
+      "1.1.3.8",
+      "1.3.2.3",
+      "1.3.3.12",
+      "1.6.5.4",
+      "1.8.5.1",
+      "1.10.2.1",
+      "1.10.3.3",
+      "1.11.1.11",
+      "1.14.17.1",
+      "1.14.17.3",
+      "1.14.17.4",
+      "1.14.-.-",
+      "1.16.5.1",
+      "1.23.5.1",
+      "2.7.1.194"
+    ],
+    "dblinks": {
+      "CAS": [
+        "50-81-7"
+      ],
+      "PubChem": [
+        "3372"
+      ],
+      "ChEBI": [
+        "29073",
+        "38290"
+      ],
+      "ChEMBL": [
+        "CHEMBL196"
+      ],
+      "KNApSAcK": [
+        "C00001179"
+      ],
+      "PDB-CCD": [
+        "ASC"
+      ],
+      "3DMET": [
+        "B01147"
+      ],
+      "NIKKAJI": [
+        "J2.301I"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1y C    28.9431  -22.0676\n            2   C2y C    29.3912  -23.3888\n            3   O7x O    30.0780  -21.2526\n            4   C2y C    30.7940  -23.3888\n            5   C7x C    31.2131  -22.0850\n            6   O1a O    31.6263  -24.5181\n            7   O6a O    32.1968  -21.0897\n            8   C1c C    27.7354  -21.3704\n            9   C1b C    26.5276  -22.0676\n            10  O1a O    28.5753  -24.5274\n            11  O1a O    27.7351  -19.9591\n            12  O1a O    25.2940  -21.3555\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     2   4 2\n            4     3   5 1\n            5     4   6 1\n            6     5   7 2\n            7     4   5 1\n            8     1   8 1\n            9     8   9 1\n            10    2  10 1\n            11    8  11 1 #Down\n            12    9  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

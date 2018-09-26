@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03546",
+    "name": "carbamate hydro-lyase; cyanate hydratase; cyanate C-N-lyase",
+    "definition": "Cyanate + H+ + HCO3- <=> CO2 + Carbamate",
+    "equation": "C01417 + C00080 + C00288 <=> C00011 + C01563",
+    "comment": "first step of two-step reaction (see R10079, R03546+R07316) bicarbonate is recycled (see R10092)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.104"
+    ],
+    "pathways": {
+      "rn00910": "Nitrogen metabolism"
+    },
+    "orthologs": {
+      "K01725": "cyanate lyase [EC:4.2.1.104]"
+    }
+  }
+]

@@ -1,0 +1,1006 @@
+[
+  {
+    "entry_id": "2.4.2.59",
+    "name": "sulfide-dependent adenosine diphosphate thiazole synthase",
+    "names": [
+      "sulfide-dependent adenosine diphosphate thiazole synthase",
+      "Thi4 (ambiguous)"
+    ],
+    "classes": [
+      "Transferases;",
+      "Glycosyltransferases;",
+      "Pentosyltransferases"
+    ],
+    "sysname": "NAD+:glycine ADP-D-ribosyltransferase (sulfide-adding)",
+    "reaction": "NAD+ + glycine + sulfide = nicotinamide + ADP-5-ethyl-4-methylthiazole-2-carboxylate + 3 H2O [RN:R12026]",
+    "all_reac": "R12026",
+    "iubmb_reactions": [
+      "R12026"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "NAD+ [CPD:C00003]",
+      "glycine [CPD:C00037]",
+      "sulfide [CPD:C00283]"
+    ],
+    "products": [
+      "nicotinamide [CPD:C00153]",
+      "ADP-5-ethyl-4-methylthiazole-2-carboxylate [CPD:C20784]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "This iron dependent enzyme, found in archaea, is involved in the biosynthesis of thiamine phosphate. The homologous enzyme from plants and fungi (EC 2.4.2.60, cysteine-dependent adenosine diphosphate thiazole synthase) uses an intrinsic cysteine as sulfur donor and, unlike the archaeal enzyme, is a single turn-over enzyme.",
+    "pathways": {
+      "ec00730": "Thiamine metabolism",
+      "ec01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K22699": "sulfide-dependent adenosine diphosphate thiazole synthase"
+    },
+    "genes": {
+      "dma": [
+        "DMR_31420"
+      ],
+      "daf": [
+        "Desaf_0994"
+      ],
+      "dgg": [
+        "DGI_1133"
+      ],
+      "dol": [
+        "Dole_2426"
+      ],
+      "dal": [
+        "Dalk_2394"
+      ],
+      "dao": [
+        "Desac_0998"
+      ],
+      "dbr": [
+        "Deba_1981"
+      ],
+      "hmr": [
+        "Hipma_0421"
+      ],
+      "dav": [
+        "DESACE_08810"
+      ],
+      "clj": [
+        "CLJU_c30580"
+      ],
+      "csq": [
+        "CSCA_1812"
+      ],
+      "cdrk": [
+        "B9W14_10240"
+      ],
+      "dku": [
+        "Desku_1659"
+      ],
+      "dau": [
+        "Daud_0859"
+      ],
+      "tjr": [
+        "TherJR_1442"
+      ],
+      "adg": [
+        "Adeg_0421",
+        "Adeg_1609"
+      ],
+      "tnr": [
+        "Thena_0778"
+      ],
+      "taci": [
+        "TDSAC_0747"
+      ],
+      "tai": [
+        "Taci_1358"
+      ],
+      "tli": [
+        "Tlie_1851"
+      ],
+      "amo": [
+        "Anamo_0225"
+      ],
+      "bcel": [
+        "BcellWH2_01838"
+      ],
+      "pdi": [
+        "BDI_1609"
+      ],
+      "parc": [
+        "CI960_06610"
+      ],
+      "pmz": [
+        "HMPREF0659_A5800"
+      ],
+      "pit": [
+        "PIN17_A0608"
+      ],
+      "rbc": [
+        "BN938_1539"
+      ],
+      "mbas": [
+        "ALGA_3764"
+      ],
+      "paa": [
+        "Paes_1007"
+      ],
+      "proc": [
+        "Ptc2401_01068"
+      ],
+      "prs": [
+        "B9H02_06355"
+      ],
+      "pros": [
+        "CHL67_06345"
+      ],
+      "ttk": [
+        "TST_0727"
+      ],
+      "tam": [
+        "Theam_0077"
+      ],
+      "dte": [
+        "Dester_1473"
+      ],
+      "tma": [
+        "TM0787"
+      ],
+      "tmm": [
+        "Tmari_0788"
+      ],
+      "tmi": [
+        "THEMA_00715"
+      ],
+      "tmw": [
+        "THMA_0806"
+      ],
+      "tmq": [
+        "THMB_0806"
+      ],
+      "tmx": [
+        "THMC_0806"
+      ],
+      "tpt": [
+        "Tpet_0142"
+      ],
+      "trq": [
+        "TRQ2_0140"
+      ],
+      "tna": [
+        "CTN_1791"
+      ],
+      "tnp": [
+        "Tnap_0143"
+      ],
+      "thq": [
+        "T2812B_00715"
+      ],
+      "thz": [
+        "CELL2_00740"
+      ],
+      "thr": [
+        "TRQ7_00715"
+      ],
+      "tle": [
+        "Tlet_1750"
+      ],
+      "tta": [
+        "Theth_1374"
+      ],
+      "tme": [
+        "Tmel_1590"
+      ],
+      "taf": [
+        "THA_1798"
+      ],
+      "thp": [
+        "BG95_08660"
+      ],
+      "ther": [
+        "Y592_08765"
+      ],
+      "fno": [
+        "Fnod_1422"
+      ],
+      "fpe": [
+        "Ferpe_0640"
+      ],
+      "fia": [
+        "NA23_03490"
+      ],
+      "nde": [
+        "NIDE1062"
+      ],
+      "nmv": [
+        "NITMOv2_0947"
+      ],
+      "nio": [
+        "NITINOP_1921"
+      ],
+      "nja": [
+        "NSJP_2079"
+      ],
+      "tid": [
+        "Thein_1804"
+      ],
+      "top": [
+        "TOPB45_0915"
+      ],
+      "tcm": [
+        "HL41_01820"
+      ],
+      "cthi": [
+        "THC_0653"
+      ],
+      "mja": [
+        "MJ_0601"
+      ],
+      "mfe": [
+        "Mefer_1385"
+      ],
+      "mvu": [
+        "Metvu_1585"
+      ],
+      "mfs": [
+        "MFS40622_1580"
+      ],
+      "mif": [
+        "Metin_1281"
+      ],
+      "mjh": [
+        "JH146_0825"
+      ],
+      "mig": [
+        "Metig_0735",
+        "Metig_1112"
+      ],
+      "mmp": [
+        "MMP1352"
+      ],
+      "mmq": [
+        "MmarC5_0226"
+      ],
+      "mmx": [
+        "MmarC6_1321"
+      ],
+      "mmz": [
+        "MmarC7_0597"
+      ],
+      "mae": [
+        "Maeo_0798"
+      ],
+      "mvn": [
+        "Mevan_0663"
+      ],
+      "mvo": [
+        "Mvol_0738"
+      ],
+      "mok": [
+        "Metok_0500"
+      ],
+      "mth": [
+        "MTH_1620"
+      ],
+      "mmg": [
+        "MTBMA_c02060"
+      ],
+      "metc": [
+        "MTCT_1479"
+      ],
+      "mwo": [
+        "MWSIV6_0166"
+      ],
+      "mete": [
+        "tca_01569"
+      ],
+      "meb": [
+        "Abm4_1461"
+      ],
+      "mel": [
+        "Metbo_0536",
+        "Metbo_1265"
+      ],
+      "mew": [
+        "MSWAN_0974",
+        "MSWAN_1853"
+      ],
+      "meth": [
+        "MBMB1_1137",
+        "MBMB1_1486"
+      ],
+      "mfc": [
+        "BRM9_0713",
+        "BRM9_1347"
+      ],
+      "mfi": [
+        "DSM1535_0665",
+        "DSM1535_2031"
+      ],
+      "mcub": [
+        "MCBB_1020",
+        "MCBB_1725"
+      ],
+      "msub": [
+        "BK009_06380"
+      ],
+      "metn": [
+        "BK008_01970"
+      ],
+      "mfv": [
+        "Mfer_0175"
+      ],
+      "mka": [
+        "MK0430"
+      ],
+      "afu": [
+        "AF_0702"
+      ],
+      "afg": [
+        "AFULGI_00007840"
+      ],
+      "apo": [
+        "Arcpr_1423"
+      ],
+      "ave": [
+        "Arcve_1405"
+      ],
+      "ast": [
+        "Asulf_00980"
+      ],
+      "fpl": [
+        "Ferp_0628"
+      ],
+      "gac": [
+        "GACE_0145"
+      ],
+      "gah": [
+        "GAH_01007"
+      ],
+      "abi": [
+        "Aboo_0963"
+      ],
+      "acf": [
+        "AciM339_1016"
+      ],
+      "pho": [
+        "PH1357"
+      ],
+      "pab": [
+        "PAB0536"
+      ],
+      "pfu": [
+        "PF1530"
+      ],
+      "pfi": [
+        "PFC_06880"
+      ],
+      "pyn": [
+        "PNA2_1583",
+        "PNA2_1941"
+      ],
+      "pya": [
+        "PYCH_06240",
+        "PYCH_08650"
+      ],
+      "pys": [
+        "Py04_1231"
+      ],
+      "pyc": [
+        "TQ32_10505"
+      ],
+      "tko": [
+        "TK0434"
+      ],
+      "tga": [
+        "TGAM_1270"
+      ],
+      "the": [
+        "GQS_02015"
+      ],
+      "thm": [
+        "CL1_0036"
+      ],
+      "tlt": [
+        "OCC_06556"
+      ],
+      "ths": [
+        "TES1_1982"
+      ],
+      "tnu": [
+        "BD01_0513"
+      ],
+      "teu": [
+        "TEU_09505"
+      ],
+      "tgy": [
+        "X802_10050"
+      ],
+      "thv": [
+        "ADU37_CDS17350",
+        "ADU37_CDS22280"
+      ],
+      "tch": [
+        "CHITON_1554"
+      ],
+      "tpep": [
+        "A0127_02260"
+      ],
+      "tpie": [
+        "A7C91_09070"
+      ],
+      "tce": [
+        "A3L02_01985"
+      ],
+      "ttd": [
+        "A3L14_05500"
+      ],
+      "tprf": [
+        "A3L09_06395"
+      ],
+      "tpaf": [
+        "A3L08_06895"
+      ],
+      "ppac": [
+        "PAP_08770"
+      ],
+      "mac": [
+        "MA_2851"
+      ],
+      "mba": [
+        "Mbar_A2100"
+      ],
+      "mby": [
+        "MSBRM_2409"
+      ],
+      "mbw": [
+        "MSBRW_2643"
+      ],
+      "mbar": [
+        "MSBR2_2375"
+      ],
+      "mbak": [
+        "MSBR3_2431"
+      ],
+      "mma": [
+        "MM_0222"
+      ],
+      "mmaz": [
+        "MmTuc01_0227"
+      ],
+      "mmj": [
+        "MSMAS_1078"
+      ],
+      "mmac": [
+        "MSMAC_2441"
+      ],
+      "mvc": [
+        "MSVAZ_1117"
+      ],
+      "mek": [
+        "MSKOL_1072"
+      ],
+      "mls": [
+        "MSLAZ_1169"
+      ],
+      "metm": [
+        "MSMTP_1119"
+      ],
+      "mef": [
+        "MSWH1_1762"
+      ],
+      "meq": [
+        "MSWHS_1554"
+      ],
+      "msj": [
+        "MSSAC_2840"
+      ],
+      "msz": [
+        "MSSIH_2497"
+      ],
+      "msw": [
+        "MSSIT_2540"
+      ],
+      "mthe": [
+        "MSTHC_0676"
+      ],
+      "mthr": [
+        "MSTHT_0054"
+      ],
+      "mhor": [
+        "MSHOH_1299"
+      ],
+      "mbu": [
+        "Mbur_2109"
+      ],
+      "mmet": [
+        "MCMEM_0306",
+        "MCMEM_0840"
+      ],
+      "mmh": [
+        "Mmah_0298"
+      ],
+      "mhaz": [
+        "BHR79_02030"
+      ],
+      "mev": [
+        "Metev_0188"
+      ],
+      "mzh": [
+        "Mzhil_1372"
+      ],
+      "mtp": [
+        "Mthe_1121"
+      ],
+      "mcj": [
+        "MCON_3229"
+      ],
+      "mhi": [
+        "Mhar_2378"
+      ],
+      "mhu": [
+        "Mhun_1935"
+      ],
+      "mla": [
+        "Mlab_0277"
+      ],
+      "mem": [
+        "Memar_2251"
+      ],
+      "mbg": [
+        "BN140_1460"
+      ],
+      "mema": [
+        "MMAB1_1869"
+      ],
+      "mpi": [
+        "Mpet_0116"
+      ],
+      "mfo": [
+        "Metfor_0238"
+      ],
+      "mez": [
+        "Mtc_1604",
+        "Mtc_2398"
+      ],
+      "hal": [
+        "VNG_2604G"
+      ],
+      "hsl": [
+        "OE_4651F"
+      ],
+      "hhb": [
+        "Hhub_1122"
+      ],
+      "hje": [
+        "HacjB3_12970"
+      ],
+      "hsu": [
+        "HLASF_0331"
+      ],
+      "hsf": [
+        "HLASA_0330"
+      ],
+      "hma": [
+        "rrnAC1782"
+      ],
+      "hhi": [
+        "HAH_2313"
+      ],
+      "hhn": [
+        "HISP_11780"
+      ],
+      "hab": [
+        "SG26_04110"
+      ],
+      "hta": [
+        "BVU17_11255"
+      ],
+      "nph": [
+        "NP_5174A"
+      ],
+      "nmo": [
+        "Nmlp_3882"
+      ],
+      "hut": [
+        "Huta_2718"
+      ],
+      "hti": [
+        "HTIA_2465"
+      ],
+      "hmu": [
+        "Hmuk_0002"
+      ],
+      "hali": [
+        "BV210_05585"
+      ],
+      "harc": [
+        "HARCEL1_09615"
+      ],
+      "hwa": [
+        "HQ_1276A"
+      ],
+      "hwc": [
+        "Hqrw_1306"
+      ],
+      "hvo": [
+        "HVO_0665"
+      ],
+      "hme": [
+        "HFX_0634"
+      ],
+      "hgi": [
+        "ABY42_03175"
+      ],
+      "hbo": [
+        "Hbor_25460"
+      ],
+      "haq": [
+        "DU484_06390"
+      ],
+      "hla": [
+        "Hlac_2980"
+      ],
+      "srub": [
+        "C2R22_02145"
+      ],
+      "hae": [
+        "halTADL_1093"
+      ],
+      "hah": [
+        "Halar_3704"
+      ],
+      "htu": [
+        "Htur_1462"
+      ],
+      "hda": [
+        "BB347_01930"
+      ],
+      "nmg": [
+        "Nmag_2419"
+      ],
+      "hxa": [
+        "Halxa_2863"
+      ],
+      "nat": [
+        "NJ7G_3680"
+      ],
+      "npe": [
+        "Natpe_2830"
+      ],
+      "nge": [
+        "Natgr_0926"
+      ],
+      "hru": [
+        "Halru_1150"
+      ],
+      "nou": [
+        "Natoc_0532"
+      ],
+      "sali": [
+        "L593_09560"
+      ],
+      "hlr": [
+        "HALLA_10200"
+      ],
+      "hlc": [
+        "CHINAEXTREME16945"
+      ],
+      "naj": [
+        "B1756_03455"
+      ],
+      "ape": [
+        "APE_2149.1"
+      ],
+      "acj": [
+        "ACAM_1344"
+      ],
+      "smr": [
+        "Smar_0052"
+      ],
+      "shc": [
+        "Shell_0764"
+      ],
+      "iho": [
+        "Igni_0560"
+      ],
+      "iis": [
+        "EYM_05510"
+      ],
+      "dka": [
+        "DKAM_0713"
+      ],
+      "dfd": [
+        "Desfe_0795"
+      ],
+      "iag": [
+        "Igag_0295"
+      ],
+      "thg": [
+        "TCELL_1023"
+      ],
+      "hbu": [
+        "Hbut_0253"
+      ],
+      "pfm": [
+        "Pyrfu_0366"
+      ],
+      "pdl": [
+        "Pyrde_0220",
+        "Pyrde_0347"
+      ],
+      "sto": [
+        "STK_03610"
+      ],
+      "sso": [
+        "SSO0436"
+      ],
+      "sol": [
+        "Ssol_1411"
+      ],
+      "ssoa": [
+        "SULA_1456"
+      ],
+      "ssol": [
+        "SULB_1457"
+      ],
+      "ssof": [
+        "SULC_1455"
+      ],
+      "sai": [
+        "Saci_0854"
+      ],
+      "sacn": [
+        "SacN8_04145"
+      ],
+      "sacr": [
+        "SacRon12I_04135"
+      ],
+      "sacs": [
+        "SUSAZ_03885"
+      ],
+      "sis": [
+        "LS215_1798"
+      ],
+      "sia": [
+        "M1425_1670"
+      ],
+      "sim": [
+        "M1627_1786"
+      ],
+      "sid": [
+        "M164_1717"
+      ],
+      "siy": [
+        "YG5714_1786"
+      ],
+      "sin": [
+        "YN1551_1140"
+      ],
+      "sii": [
+        "LD85_1927"
+      ],
+      "sih": [
+        "SiH_1645"
+      ],
+      "sir": [
+        "SiRe_1566"
+      ],
+      "sic": [
+        "SiL_1558"
+      ],
+      "sula": [
+        "BFU36_03640"
+      ],
+      "mse": [
+        "Msed_2221"
+      ],
+      "mcn": [
+        "Mcup_0086"
+      ],
+      "mhk": [
+        "DFR87_07430"
+      ],
+      "aho": [
+        "Ahos_0692"
+      ],
+      "aman": [
+        "B6F84_06895"
+      ],
+      "abri": [
+        "DFR85_08045"
+      ],
+      "asul": [
+        "DFR86_05955"
+      ],
+      "pai": [
+        "PAE0175"
+      ],
+      "pis": [
+        "Pisl_1998"
+      ],
+      "pcl": [
+        "Pcal_1555"
+      ],
+      "pas": [
+        "Pars_1498"
+      ],
+      "pyr": [
+        "P186_0936"
+      ],
+      "pog": [
+        "Pogu_0708"
+      ],
+      "tne": [
+        "Tneu_1052"
+      ],
+      "pyw": [
+        "PYWP30_02101"
+      ],
+      "cma": [
+        "Cmaq_1420"
+      ],
+      "tuz": [
+        "TUZN_0079"
+      ],
+      "vdi": [
+        "Vdis_2373"
+      ],
+      "vmo": [
+        "VMUT_0723"
+      ],
+      "ffo": [
+        "FFONT_0392"
+      ],
+      "nmr": [
+        "Nmar_0678"
+      ],
+      "nir": [
+        "NSED_03435"
+      ],
+      "nid": [
+        "NPIRD3C_1584"
+      ],
+      "nin": [
+        "NADRNF5_1474"
+      ],
+      "nkr": [
+        "NKOR_03495"
+      ],
+      "nct": [
+        "NMSP_1025"
+      ],
+      "csy": [
+        "CENSYa_0361"
+      ],
+      "nga": [
+        "Ngar_c21660"
+      ],
+      "nvn": [
+        "NVIE_008130"
+      ],
+      "nev": [
+        "NTE_02257"
+      ],
+      "taa": [
+        "NMY3_02935"
+      ],
+      "ncv": [
+        "NCAV_0396"
+      ],
+      "nbv": [
+        "T478_0555"
+      ],
+      "tah": [
+        "SU86_002805"
+      ],
+      "ndv": [
+        "NDEV_0758"
+      ],
+      "kcr": [
+        "Kcr_0795"
+      ],
+      "barb": [
+        "AOA66_0043"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.4.2.59"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.4.2.59"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.4.2.59"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.4.2.59"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Zhang X",
+          "Eser BE",
+          "Chanani PK",
+          "Begley TP",
+          "Ealick SE"
+        ],
+        "title": "Structural Basis for Iron-Mediated Sulfur Transfer in Archael and Yeast Thiazole Synthases.",
+        "journal": "Biochemistry 55:1826-38 (2016) DOI:10.1021/acs.biochem.6b00030",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:26919468]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Eser BE",
+          "Zhang X",
+          "Chanani PK",
+          "Begley TP",
+          "Ealick SE"
+        ],
+        "title": "From Suicide Enzyme to Catalyst: The Iron-Dependent Sulfide Transfer in Methanococcus jannaschii Thiamin Thiazole Biosynthesis.",
+        "journal": "J Am Chem Soc 138:3639-42 (2016) DOI:10.1021/jacs.6b00445",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:26928142]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

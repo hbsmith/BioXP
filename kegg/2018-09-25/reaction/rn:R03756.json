@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03756",
+    "name": "2,3-dehydroacyl-CoA:2-acylglycerol O-acyltransferase",
+    "definition": "2,3-Dehydroacyl-CoA + 1-Acylglycerol <=> CoA + 1,2-Diacyl-sn-glycerol",
+    "equation": "C00605 + C01885 <=> C00010 + C00641",
+    "comment": "see R03838 (2-acyl type reaction)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.22"
+    ],
+    "pathways": {
+      "rn00561": "Glycerolipid metabolism"
+    },
+    "orthologs": {
+      "K14456": "2-acylglycerol O-acyltransferase 3 [EC:2.3.1.20 2.3.1.22]",
+      "K14457": "2-acylglycerol O-acyltransferase 2 [EC:2.3.1.22]",
+      "K14458": "2-acylglycerol O-acyltransferase 1 [EC:2.3.1.22]"
+    }
+  }
+]

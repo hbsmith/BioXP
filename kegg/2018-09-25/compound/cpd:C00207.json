@@ -1,0 +1,167 @@
+[
+  {
+    "entry_id": "C00207",
+    "name": "Acetone",
+    "names": [
+      "Acetone",
+      "Dimethyl ketone",
+      "2-Propanone"
+    ],
+    "formula": "C3H6O",
+    "exact_mass": 58.0419,
+    "mol_weight": 58.0791,
+    "remark": "Same as: D02311",
+    "comment": "",
+    "reactions": [
+      "R01366",
+      "R01550",
+      "R01553",
+      "R03796",
+      "R05564",
+      "R05568",
+      "R05735",
+      "R08207",
+      "R08543",
+      "R09002",
+      "R09487",
+      "R10703",
+      "R10704"
+    ],
+    "pathways": {
+      "map00072": "Synthesis and degradation of ketone bodies",
+      "map00640": "Propanoate metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.1.1.80",
+      "1.1.1.-",
+      "1.14.13.226",
+      "1.14.14.141",
+      "1.14.14.148",
+      "1.14.15.-",
+      "2.6.3.1",
+      "4.1.1.4",
+      "4.1.2.46",
+      "4.1.99.16",
+      "4.2.3.22",
+      "6.4.1.6"
+    ],
+    "dblinks": {
+      "CAS": [
+        "67-64-1"
+      ],
+      "PubChem": [
+        "3507"
+      ],
+      "ChEBI": [
+        "15347"
+      ],
+      "ChEMBL": [
+        "CHEMBL14253"
+      ],
+      "KNApSAcK": [
+        "C00048304",
+        "C00048954"
+      ],
+      "PDB-CCD": [
+        "ACN"
+      ],
+      "3DMET": [
+        "B00058"
+      ],
+      "NIKKAJI": [
+        "J2.365E"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   C5a C    22.1200  -16.5200\n            2   C1a C    20.9101  -17.2215\n            3   C1a C    23.3299  -17.2215\n            4   O5a O    22.1200  -15.1171\nBOND        3\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C00207",
+    "name": "Acetone",
+    "names": [
+      "Acetone",
+      "Dimethyl ketone",
+      "2-Propanone"
+    ],
+    "formula": "C3H6O",
+    "exact_mass": 58.0419,
+    "mol_weight": 58.0791,
+    "remark": "Same as: D02311",
+    "comment": "",
+    "reactions": [
+      "R01366",
+      "R01550",
+      "R01553",
+      "R03796",
+      "R05564",
+      "R05568",
+      "R05735",
+      "R08207",
+      "R08543",
+      "R09002",
+      "R09487",
+      "R10703",
+      "R10704"
+    ],
+    "pathways": {
+      "map00072": "Synthesis and degradation of ketone bodies",
+      "map00640": "Propanoate metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.1.1.80",
+      "1.1.1.-",
+      "1.14.13.226",
+      "1.14.14.141",
+      "1.14.14.148",
+      "1.14.15.-",
+      "2.6.3.1",
+      "4.1.1.4",
+      "4.1.2.46",
+      "4.1.99.16",
+      "4.2.3.22",
+      "6.4.1.6"
+    ],
+    "dblinks": {
+      "CAS": [
+        "67-64-1"
+      ],
+      "PubChem": [
+        "3507"
+      ],
+      "ChEBI": [
+        "15347"
+      ],
+      "ChEMBL": [
+        "CHEMBL14253"
+      ],
+      "KNApSAcK": [
+        "C00048304",
+        "C00048954"
+      ],
+      "PDB-CCD": [
+        "ACN"
+      ],
+      "3DMET": [
+        "B00058"
+      ],
+      "NIKKAJI": [
+        "J2.365E"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   C5a C    22.1200  -16.5200\n            2   C1a C    20.9101  -17.2215\n            3   C1a C    23.3299  -17.2215\n            4   O5a O    22.1200  -15.1171\nBOND        3\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

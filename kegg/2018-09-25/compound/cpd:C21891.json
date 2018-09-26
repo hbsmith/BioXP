@@ -1,0 +1,61 @@
+[
+  {
+    "entry_id": "C21891",
+    "name": "(2E)-3-(4-Hydroxyphenyl)-2-isocyanoprop-2-enoate",
+    "names": [
+      "(2E)-3-(4-Hydroxyphenyl)-2-isocyanoprop-2-enoate"
+    ],
+    "formula": "C10H7NO3",
+    "exact_mass": 189.0426,
+    "mol_weight": 189.1675,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R12081"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.20.9"
+    ],
+    "dblinks": {
+    },
+    "kcf": "ATOM        14\n            1   C8x C    15.6519  -15.6519\n            2   C8y C    15.6519  -16.9795\n            3   C8x C    16.8398  -17.6782\n            4   C8x C    18.0276  -16.9795\n            5   C8y C    18.0276  -15.6519\n            6   C8x C    16.8398  -14.9532\n            7   O1a O    14.4641  -17.6782\n            8   C2c C    20.4033  -15.6519\n            9   C2b C    19.2155  -14.9532\n            10  C6a C    20.4033  -17.0519\n            11  N3a N    21.6158  -14.9519 #+\n            12  O6a O    21.6158  -17.7519\n            13  O6a O    19.1909  -17.7519\n            14  C3a C    23.3882  -13.9019 #-\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     2   7 1\n            8     8   9 2\n            9     5   9 1\n            10    8  10 1\n            11    8  11 1\n            12   10  12 1\n            13   10  13 2\n            14   11  14 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C21891",
+    "name": "(2E)-3-(4-Hydroxyphenyl)-2-isocyanoprop-2-enoate",
+    "names": [
+      "(2E)-3-(4-Hydroxyphenyl)-2-isocyanoprop-2-enoate"
+    ],
+    "formula": "C10H7NO3",
+    "exact_mass": 189.0426,
+    "mol_weight": 189.1675,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R12081"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.20.9"
+    ],
+    "dblinks": {
+    },
+    "kcf": "ATOM        14\n            1   C8x C    15.6519  -15.6519\n            2   C8y C    15.6519  -16.9795\n            3   C8x C    16.8398  -17.6782\n            4   C8x C    18.0276  -16.9795\n            5   C8y C    18.0276  -15.6519\n            6   C8x C    16.8398  -14.9532\n            7   O1a O    14.4641  -17.6782\n            8   C2c C    20.4033  -15.6519\n            9   C2b C    19.2155  -14.9532\n            10  C6a C    20.4033  -17.0519\n            11  N3a N    21.6158  -14.9519 #+\n            12  O6a O    21.6158  -17.7519\n            13  O6a O    19.1909  -17.7519\n            14  C3a C    23.3882  -13.9019 #-\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     2   7 1\n            8     8   9 2\n            9     5   9 1\n            10    8  10 1\n            11    8  11 1\n            12   10  12 1\n            13   10  13 2\n            14   11  14 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

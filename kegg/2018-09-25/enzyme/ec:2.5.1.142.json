@@ -1,0 +1,141 @@
+[
+  {
+    "entry_id": "2.5.1.142",
+    "name": "nerylneryl diphosphate synthase",
+    "names": [
+      "nerylneryl diphosphate synthase",
+      "CPT2"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring alkyl or aryl groups, other than methyl groups;",
+      "Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)"
+    ],
+    "sysname": "dimethylallyl-diphosphate:isopentenyl-diphosphate cistransferase (adding 3 isopentenyl units)",
+    "reaction": "dimethylallyl diphosphate + 3 isopentenyl diphosphate = 3 diphosphate + nerylneryl diphosphate [RN:R11940]",
+    "all_reac": "R11940",
+    "iubmb_reactions": [
+      "R11940"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "dimethylallyl diphosphate [CPD:C00235]",
+      "isopentenyl diphosphate [CPD:C00129]"
+    ],
+    "products": [
+      "diphosphate [CPD:C00013]",
+      "nerylneryl diphosphate [CPD:C21784]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "Isolated from the plant Solanum lycopersicum (tomato).",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22423": "nerylneryl diphosphate synthase"
+    },
+    "genes": {
+      "sly": [
+        "101247737"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.5.1.142"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.5.1.142"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.5.1.142"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.5.1.142"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Akhtar TA",
+          "Matsuba Y",
+          "Schauvinhold I",
+          "Yu G",
+          "Lees HA",
+          "Klein SE",
+          "Pichersky E"
+        ],
+        "title": "The tomato cis-prenyltransferase gene family.",
+        "journal": "Plant J 73:640-52 (2013) DOI:10.1111/tpj.12063",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:23134568]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Matsuba Y",
+          "Zi J",
+          "Jones AD",
+          "Peters RJ",
+          "Pichersky E"
+        ],
+        "title": "Biosynthesis of the diterpenoid lycosantalonol via nerylneryl diphosphate in Solanum lycopersicum.",
+        "journal": "PLoS One 10:e0119302 (2015) DOI:10.1371/journal.pone.0119302",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:25786135]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

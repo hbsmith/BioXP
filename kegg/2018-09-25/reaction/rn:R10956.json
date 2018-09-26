@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R10956",
+    "name": "S-adenosyl-L-methionine:8-demethyl-8-alpha-L-rhamnosyltetracenomycin-C 2'-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 8-Demethyl-8-alpha-L-rhamnosyltetracenomycin C <=> S-Adenosyl-L-homocysteine + 8-Demethyl-8-(2-O-methyl-alpha-L-rhamnosyl)tetracenomycin C",
+    "equation": "C00019 + C20974 <=> C00021 + C20975",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.305"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19567": "8-demethyl-8-alpha-L-rhamnosyltetracenomycin-C 2'-O-methyltransferase [EC:2.1.1.305]"
+    }
+  }
+][
+  {
+    "entry_id": "R10956",
+    "name": "S-adenosyl-L-methionine:8-demethyl-8-alpha-L-rhamnosyltetracenomycin-C 2'-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 8-Demethyl-8-alpha-L-rhamnosyltetracenomycin C <=> S-Adenosyl-L-homocysteine + 8-Demethyl-8-(2-O-methyl-alpha-L-rhamnosyl)tetracenomycin C",
+    "equation": "C00019 + C20974 <=> C00021 + C20975",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.305"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19567": "8-demethyl-8-alpha-L-rhamnosyltetracenomycin-C 2'-O-methyltransferase [EC:2.1.1.305]"
+    }
+  }
+]

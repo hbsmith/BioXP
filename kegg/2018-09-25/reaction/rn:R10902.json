@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R10902",
+    "name": "tyramine:L-glutamate gamma-ligase (ADP-forming)",
+    "definition": "ATP + Tyramine + L-Glutamate <=> ADP + Orthophosphate + gamma-Glutamyltyramine",
+    "equation": "C00002 + C00483 + C00025 <=> C00008 + C00009 + C20926",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.4.24"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism"
+    },
+    "orthologs": {
+      "K06914": "tyramine---L-glutamate ligase [EC:6.3.4.24]"
+    }
+  }
+][
+  {
+    "entry_id": "R10902",
+    "name": "tyramine:L-glutamate gamma-ligase (ADP-forming)",
+    "definition": "ATP + Tyramine + L-Glutamate <=> ADP + Orthophosphate + gamma-Glutamyltyramine",
+    "equation": "C00002 + C00483 + C00025 <=> C00008 + C00009 + C20926",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.4.24"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism"
+    },
+    "orthologs": {
+      "K06914": "tyramine---L-glutamate ligase [EC:6.3.4.24]"
+    }
+  }
+]

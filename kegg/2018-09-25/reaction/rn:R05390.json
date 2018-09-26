@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05390",
+    "name": "",
+    "definition": "3-Chloro-cis,cis-muconate <=> Protoanemonin + Hydrochloric acid + CO2",
+    "equation": "C03585 <=> C07090 + C01327 + C00011",
+    "comment": "possible multi-step reaction Ref.: 1. PMID:7493952",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.5.1.1"
+    ],
+    "pathways": {
+      "rn00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01856": "muconate cycloisomerase [EC:5.5.1.1]"
+    }
+  }
+]

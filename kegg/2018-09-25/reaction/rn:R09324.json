@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09324",
+    "name": "",
+    "definition": "GDP-L-fucose + G13058 <=> GDP + G13059",
+    "equation": "G10615 + G13058 <=> G10620 + G13059",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn00513": "Various types of N-glycan biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K14464": "alpha-1,3-fucosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

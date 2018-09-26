@@ -1,0 +1,74 @@
+[
+  {
+    "entry_id": "C00244",
+    "name": "Nitrate",
+    "names": [
+      "Nitrate",
+      "Nitric acid"
+    ],
+    "formula": "HNO3",
+    "exact_mass": 62.9956,
+    "mol_weight": 63.0128,
+    "remark": "Same as: D02313",
+    "comment": "",
+    "reactions": [
+      "R00791",
+      "R00792",
+      "R00794",
+      "R00796",
+      "R00798",
+      "R00800",
+      "R01106",
+      "R02165",
+      "R03071",
+      "R05724",
+      "R05725",
+      "R09497",
+      "R09751"
+    ],
+    "pathways": {
+      "map00910": "Nitrogen metabolism",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map02010": "ABC transporters",
+      "map02020": "Two-component system"
+    },
+    "enzymes": [
+      "1.7.1.1",
+      "1.7.1.2",
+      "1.7.1.3",
+      "1.7.5.1",
+      "1.7.6.1",
+      "1.7.7.2",
+      "1.7.99.-",
+      "1.9.6.1",
+      "1.14.12.17"
+    ],
+    "dblinks": {
+      "CAS": [
+        "7697-37-2"
+      ],
+      "PubChem": [
+        "3543"
+      ],
+      "ChEBI": [
+        "48107"
+      ],
+      "ChEMBL": [
+        "CHEMBL1352"
+      ],
+      "3DMET": [
+        "B00068"
+      ],
+      "NIKKAJI": [
+        "J2.734K"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   N2b N    22.1026  -15.8491\n            2   O1b O    22.1026  -17.3269\n            3   O3a O    23.3700  -15.1250\n            4   O3a O    20.7651  -15.1190\nBOND        3\n            1     1   2 1\n            2     1   3 2\n            3     1   4 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

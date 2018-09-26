@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03971",
+    "name": "gamma-glutamyl-beta-aminopropiononitrile amidohydrolase",
+    "definition": "3-Aminopropiononitrile + L-Glutamate <=> gamma-Glutamyl-beta-aminopropiononitrile + H2O",
+    "equation": "C05670 + C00025 <=> C06114 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.2.2"
+    ],
+    "pathways": {
+      "rn00460": "Cyanoamino acid metabolism"
+    },
+    "orthologs": {
+      "K00681": "gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]",
+      "K18592": "gamma-glutamyltranspeptidase / glutathione hydrolase / leukotriene-C4 hydrolase [EC:2.3.2.2 3.4.19.13 3.4.19.14]"
+    }
+  }
+]

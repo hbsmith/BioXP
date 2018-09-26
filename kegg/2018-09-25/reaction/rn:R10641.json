@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10641",
+    "name": "succinyl-CoA:(R)-malate CoA-transferase",
+    "definition": "Succinyl-CoA + (R)-Malate <=> Succinate + (R)-Malyl-CoA",
+    "equation": "C00091 + C00497 <=> C00042 + C20747",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.20"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K18313": "succinyl-CoA---D-citramalate CoA-transferase [EC:2.8.3.20]"
+    }
+  }
+]

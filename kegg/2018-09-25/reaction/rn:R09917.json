@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R09917",
+    "name": "(3S)-2,3-epoxy-2,3-dihydrosqualene mutase (cyclizing, baruol-forming)",
+    "definition": "(S)-2,3-Epoxysqualene <=> Baruol",
+    "equation": "C01054 <=> C20200",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.99.57"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis"
+    },
+    "orthologs": {
+      "K16206": "baruol synthase [EC:5.4.99.57]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05467",
+    "name": "L-N2-(2-carboxyethyl)arginine cyclo-ligase (AMP-forming)",
+    "definition": "L-N2-(2-Carboxyethyl)arginine + ATP <=> Deoxyguanidinoproclavaminic acid + AMP + Diphosphate",
+    "equation": "C06655 + C00002 <=> C06656 + C00020 + C00013",
+    "comment": "beta-lactam synthase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.3.4"
+    ],
+    "pathways": {
+      "rn00331": "Clavulanic acid biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12674": "(carboxyethyl)arginine beta-lactam-synthase [EC:6.3.3.4]"
+    }
+  }
+]

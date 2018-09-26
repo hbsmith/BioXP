@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C06603",
+    "name": "cis,cis-4-Hydroxymuconic semialdehyde",
+    "names": [
+      "cis,cis-4-Hydroxymuconic semialdehyde",
+      "4-Hydroxymuconic semialdehyde"
+    ],
+    "formula": "C6H6O4",
+    "exact_mass": 142.0266,
+    "mol_weight": 142.1094,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05236",
+      "R05246"
+    ],
+    "pathways": {
+      "map00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.2.1.61",
+      "1.13.11.66"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8829"
+      ],
+      "ChEBI": [
+        "18301"
+      ],
+      "3DMET": [
+        "B00992"
+      ],
+      "NIKKAJI": [
+        "J2.762.479K"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O4a O    24.3816  -20.9587\n            2   C4a C    25.5939  -20.2609\n            3   C2b C    26.8059  -20.9587\n            4   C2c C    28.0181  -20.2539\n            5   C2b C    28.0110  -18.8514\n            6   C2b C    29.2232  -18.1397\n            7   C6a C    30.4353  -18.8443\n            8   O6a O    30.4282  -20.2469\n            9   O6a O    31.6531  -18.1434\n            10  O1a O    29.2181  -20.9408\nBOND        9\n            1     2   3 1\n            2     5   6 2\n            3     1   2 2\n            4     6   7 1\n            5     3   4 2\n            6     7   8 2\n            7     4   5 1\n            8     7   9 1\n            9     4  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08912",
+    "name": "flaviolin,reduced ferredoxin:oxygen oxidoreductase",
+    "definition": "2 Flaviolin + 2 Reduced ferredoxin + 2 H+ + Oxygen <=> 3,3'-Biflaviolin + 2 Oxidized ferredoxin + 2 H2O",
+    "equation": "2 C18012 + 2 C00138 + 2 C00080 + C00007 <=> C18013 + 2 C00139 + 2 C00001",
+    "comment": "also catalysing R08913 CYP158A1 [KO:K19628] prefers R08912, while CYP158A2 [KO:K13074] prefers R08913.",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.69"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K13074": "biflaviolin synthase [EC:1.14.19.69]",
+      "K19628": "biflaviolin synthase [EC:1.14.19.69]"
+    }
+  }
+]

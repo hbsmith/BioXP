@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R02030",
+    "name": "CDP-diacylglycerol:phosphatidylglycerol 3-phosphatidyltransferase",
+    "definition": "Phosphatidylglycerol + CDP-diacylglycerol <=> Cardiolipin + CMP",
+    "equation": "C00344 + C00269 <=> C05980 + C00055",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.8.41"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K08744": "cardiolipin synthase (CMP-forming) [EC:2.7.8.41]"
+    }
+  }
+][
+  {
+    "entry_id": "R02030",
+    "name": "CDP-diacylglycerol:phosphatidylglycerol 3-phosphatidyltransferase",
+    "definition": "Phosphatidylglycerol + CDP-diacylglycerol <=> Cardiolipin + CMP",
+    "equation": "C00344 + C00269 <=> C05980 + C00055",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.8.41"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K08744": "cardiolipin synthase (CMP-forming) [EC:2.7.8.41]"
+    }
+  }
+]

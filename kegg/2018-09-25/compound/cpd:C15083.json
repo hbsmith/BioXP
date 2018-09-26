@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C15083",
+    "name": "1-Chloro-2-[1-(4-chlorophenyl)ethenyl]benzene",
+    "names": [
+      "1-Chloro-2-[1-(4-chlorophenyl)ethenyl]benzene"
+    ],
+    "formula": "C14H10Cl2",
+    "exact_mass": 248.016,
+    "mol_weight": 249.1352,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17396080"
+      ],
+      "ChEBI": [
+        "79602"
+      ],
+      "NIKKAJI": [
+        "J2.792.399B"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8x C    18.4800  -18.0600\n            2   C8y C    18.4800  -19.4600\n            3   C8x C    19.6924  -20.1600\n            4   C8x C    20.9049  -19.4600\n            5   C8y C    20.9049  -18.0600\n            6   C8x C    19.6924  -17.3600\n            7   C2c C    22.1360  -17.3490\n            8   C8y C    23.3412  -18.0447\n            9   C8y C    23.3416  -19.4596\n            10  C8x C    24.5542  -20.1593\n            11  C8x C    25.7665  -19.4589\n            12  C8x C    25.7660  -18.0439\n            13  C8x C    24.5534  -17.3443\n            14  C2a C    22.1357  -15.9601\n            15  X   Cl   17.2676  -20.1600\n            16  X   Cl   22.1058  -20.1740\nBOND        17\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11   10  11 2\n            12   11  12 1\n            13   12  13 2\n            14    8  13 1\n            15    7  14 2\n            16    2  15 1\n            17    9  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

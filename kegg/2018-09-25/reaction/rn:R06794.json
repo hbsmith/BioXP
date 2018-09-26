@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06794",
+    "name": "S-adenosyl-L-methionine:hydroxyisoflavone 7-O-methyltransferase",
+    "definition": "Genistein + S-Adenosyl-L-methionine <=> Prunetin + S-Adenosyl-L-homocysteine",
+    "equation": "C06563 + C00019 <=> C10521 + C00021",
+    "comment": "isoflavone 7-O-methyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.150"
+    ],
+    "pathways": {
+      "rn00943": "Isoflavonoid biosynthesis"
+    },
+    "orthologs": {
+      "K13262": "isoflavone-7-O-methyltransferase [EC:2.1.1.150]"
+    }
+  }
+]

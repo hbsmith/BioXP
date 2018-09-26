@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R11445",
+    "name": "malonyl-CoA:malonyl-CoA C-acyltransferase (decarboxylating, methylating, 2-methylbutanoate-forming)",
+    "definition": "2 Malonyl-CoA + Acyl-carrier protein + 2 NADPH + 2 H+ + S-Adenosyl-L-methionine <=> (S)-2-Methylbutanoyl-[acp] + 2 CoA + 2 CO2 + 2 NADP+ + S-Adenosyl-L-homocysteine + H2O",
+    "equation": "2 C00083 + C00229 + 2 C00005 + 2 C00080 + C00019 <=> C21129 + 2 C00010 + 2 C00011 + 2 C00006 + C00021 + C00001",
+    "comment": "Acy-carrier protein is acp domain of the enzyme itself [KO:K20984].",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.244"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "orthologs": {
+      "K20984": "2-methylbutanoate polyketide synthase [EC:2.3.1.244]"
+    }
+  }
+][
+  {
+    "entry_id": "R11445",
+    "name": "malonyl-CoA:malonyl-CoA C-acyltransferase (decarboxylating, methylating, 2-methylbutanoate-forming)",
+    "definition": "2 Malonyl-CoA + Acyl-carrier protein + 2 NADPH + 2 H+ + S-Adenosyl-L-methionine <=> (S)-2-Methylbutanoyl-[acp] + 2 CoA + 2 CO2 + 2 NADP+ + S-Adenosyl-L-homocysteine + H2O",
+    "equation": "2 C00083 + C00229 + 2 C00005 + 2 C00080 + C00019 <=> C21129 + 2 C00010 + 2 C00011 + 2 C00006 + C00021 + C00001",
+    "comment": "Acy-carrier protein is acp domain of the enzyme itself [KO:K20984].",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.244"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "orthologs": {
+      "K20984": "2-methylbutanoate polyketide synthase [EC:2.3.1.244]"
+    }
+  }
+]

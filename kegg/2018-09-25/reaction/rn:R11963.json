@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R11963",
+    "name": "",
+    "definition": "L-Glutamate + 8-Carboxy-8-demethylriboflavin 5'-phosphate + H2O + 2 Acceptor <=> 2-Oxoglutarate + 8-Amino-8-demethylriboflavin 5'-phosphate + CO2 + 2 Reduced acceptor",
+    "equation": "C00025 + C21804 + C00001 + 2 C00028 <=> C00026 + C21805 + C00011 + 2 C00030",
+    "comment": "a part of three-step reaction (see R11960, R11961+R11962+R11963)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.114"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "orthologs": {
+      "K22598": "8-demethyl-8-aminoriboflavin-5'-phosphate synthase [EC:2.6.1.114]"
+    }
+  }
+][
+  {
+    "entry_id": "R11963",
+    "name": "",
+    "definition": "L-Glutamate + 8-Carboxy-8-demethylriboflavin 5'-phosphate + H2O + 2 Acceptor <=> 2-Oxoglutarate + 8-Amino-8-demethylriboflavin 5'-phosphate + CO2 + 2 Reduced acceptor",
+    "equation": "C00025 + C21804 + C00001 + 2 C00028 <=> C00026 + C21805 + C00011 + 2 C00030",
+    "comment": "a part of three-step reaction (see R11960, R11961+R11962+R11963)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.114"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "orthologs": {
+      "K22598": "8-demethyl-8-aminoriboflavin-5'-phosphate synthase [EC:2.6.1.114]"
+    }
+  }
+]

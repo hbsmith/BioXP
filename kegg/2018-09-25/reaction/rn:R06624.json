@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R06624",
+    "name": "3,5-dihydroxyphenylacetyl-CoA:oxygen oxidoreductase (3,5-dihydroxyphenylglyoxylate-forming)",
+    "definition": "3,5-Dihydroxyphenylacetyl-CoA + Oxygen <=> 3,5-Dihydroxyphenylglyoxylate + CoA",
+    "equation": "C12324 + C00007 <=> C12325 + C00010",
+    "comment": "cofactor-independent dioxygenase,DpgC",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.80"
+    ],
+    "pathways": {
+      "rn01055": "Biosynthesis of vancomycin group antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16427": "(3,5-dihydroxyphenyl)acetyl-CoA 1,2-dioxygenase [EC:1.13.11.80]"
+    }
+  }
+][
+  {
+    "entry_id": "R06624",
+    "name": "3,5-dihydroxyphenylacetyl-CoA:oxygen oxidoreductase (3,5-dihydroxyphenylglyoxylate-forming)",
+    "definition": "3,5-Dihydroxyphenylacetyl-CoA + Oxygen <=> 3,5-Dihydroxyphenylglyoxylate + CoA",
+    "equation": "C12324 + C00007 <=> C12325 + C00010",
+    "comment": "cofactor-independent dioxygenase,DpgC",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.80"
+    ],
+    "pathways": {
+      "rn01055": "Biosynthesis of vancomycin group antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16427": "(3,5-dihydroxyphenyl)acetyl-CoA 1,2-dioxygenase [EC:1.13.11.80]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07204",
+    "name": "5beta-cholestane-3alpha,7alpha-diol,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (12alpha-hydroxylating)",
+    "definition": "3alpha,7alpha-Dihydroxy-5beta-cholestane + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestane + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C05452 + C03024 + C00007 <=> C05454 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.139"
+    ],
+    "pathways": {
+      "rn00120": "Primary bile acid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K07431": "sterol 12-alpha-hydroxylase [EC:1.14.18.8 1.14.14.139]"
+    }
+  }
+]

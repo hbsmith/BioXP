@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C04130",
+    "name": "Methyl 2-diazoacetamidohexanoate",
+    "names": [
+      "Methyl 2-diazoacetamidohexanoate"
+    ],
+    "formula": "C9H16N3O3",
+    "exact_mass": 214.1192,
+    "mol_weight": 214.2416,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6816"
+      ],
+      "NIKKAJI": [
+        "J2.746.933G"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C1d C    26.6468  -15.8258\n            2   N1b N    26.6468  -17.1506\n            3   C1b C    25.4913  -15.1606\n            4   N3a N    26.6643  -14.2794 #+\n            5   C5a C    25.4913  -17.8216\n            6   C1b C    24.3417  -15.8258\n            7   N3a N    26.6643  -12.9489\n            8   C1a C    24.3417  -17.1446\n            9   O5a O    25.5030  -19.1463\n            10  C1b C    23.1921  -15.1606\n            11  C1a C    22.0366  -15.8258\n            12  C7a C    27.9524  -15.1200\n            13  O7a O    29.1649  -15.8200\n            14  C1a C    30.3773  -15.1200\n            15  O6a O    27.9556  -13.7202\nBOND        14\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     4   7 3\n            7     5   8 1\n            8     5   9 2\n            9     6  10 1\n            10   10  11 1\n            11    1  12 1\n            12   12  13 1\n            13   13  14 1\n            14   12  15 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

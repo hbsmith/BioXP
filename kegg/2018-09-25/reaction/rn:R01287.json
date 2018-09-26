@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R01287",
+    "name": "O-acetyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase; O-acetyl-L-homoserine acetate-lyase (adding hydrogen sulfide)",
+    "definition": "O-Acetyl-L-homoserine + Hydrogen sulfide <=> L-Homocysteine + Acetate",
+    "equation": "C01077 + C00283 <=> C00155 + C00033",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.49"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01740": "O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]"
+    }
+  }
+][
+  {
+    "entry_id": "R01287",
+    "name": "O-acetyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase; O-acetyl-L-homoserine acetate-lyase (adding hydrogen sulfide)",
+    "definition": "O-Acetyl-L-homoserine + Hydrogen sulfide <=> L-Homocysteine + Acetate",
+    "equation": "C01077 + C00283 <=> C00155 + C00033",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.49"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01740": "O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]"
+    }
+  }
+]

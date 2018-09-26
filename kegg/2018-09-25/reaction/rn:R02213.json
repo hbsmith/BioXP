@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02213",
+    "name": "progesterone,NADPH-hemoprotein reductase:oxygen oxidoreductase (21-hydroxylating)",
+    "definition": "Progesterone + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 11-Deoxycorticosterone + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C00410 + C03024 + C00007 <=> C03205 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.16"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00513": "steroid 21-monooxygenase [EC:1.14.14.16]"
+    }
+  }
+]

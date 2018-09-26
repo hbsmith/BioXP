@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R09390",
+    "name": "(1R,4S)-1-hydroxymenth-8-en-2-one,NADPH:oxygen oxidoreductase",
+    "definition": "(1R,4S)-1-Hydroxy-2-oxolimonene + NADPH + Oxygen + H+ <=> (4S)-7-Hydroxy-4-isopropenyl-7-methyl-2-oxo-oxepanone + NADP+ + H2O",
+    "equation": "C19083 + C00005 + C00007 + C00080 <=> C19084 + C00006 + C00001",
+    "comment": "subsequently R09391",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.105"
+    ],
+    "pathways": {
+      "rn00903": "Limonene and pinene degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

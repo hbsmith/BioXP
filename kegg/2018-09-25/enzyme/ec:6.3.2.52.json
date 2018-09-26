@@ -1,0 +1,619 @@
+[
+  {
+    "entry_id": "6.3.2.52",
+    "name": "jasmonoyl---L-amino acid synthetase",
+    "names": [
+      "jasmonoyl---L-amino acid synthetase",
+      "JAR1 (gene name)",
+      "JAR4 (gene name)",
+      "JAR6 (gene name)"
+    ],
+    "classes": [
+      "Ligases;",
+      "Forming carbon-nitrogen bonds;",
+      "Acid-D-amino-acid ligases (peptide synthases)"
+    ],
+    "sysname": "jasmonate:L-amino acid ligase",
+    "reaction": "ATP + jasmonate + an L-amino acid = AMP + diphosphate + a jasmonoyl-L-amino acid [RN:R11950]",
+    "all_reac": "R11950",
+    "iubmb_reactions": [
+      "R11950"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "ATP [CPD:C00002]",
+      "jasmonate [CPD:C08491]",
+      "L-amino acid [CPD:C00151]"
+    ],
+    "products": [
+      "AMP [CPD:C00020]",
+      "diphosphate [CPD:C00013]",
+      "jasmonoyl-L-amino acid [CPD:C21509]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "Two jasmonoyl-L-amino acid synthetases have been described from Nicotiana attenuata [3] and one from Arabidopsis thaliana [1]. The N. attenuata enzymes generate jasmonoyl-L-isoleucine, jasmonoyl-L-leucine, and jasmonoyl-L-valine. The enzyme from A. thaliana could catalyse the addition of many different amino acids to jasmonate in vitro [1,4,5]. While the abundant form of jasmonate in plants is (-)-jasmonate, the active form of jasmonoyl-L-isoleucine is (+)-7-iso-jasmonoyl-L-isoleucine.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K14506": "jasmonic acid-amino synthetase"
+    },
+    "genes": {
+      "rss": [
+        "109442490"
+      ],
+      "ath": [
+        "AT2G46370"
+      ],
+      "aly": [
+        "ARALYDRAFT_483789"
+      ],
+      "crb": [
+        "17887579"
+      ],
+      "csat": [
+        "104783209",
+        "104784678",
+        "104793611"
+      ],
+      "eus": [
+        "EUTSA_v10001373mg"
+      ],
+      "brp": [
+        "103858212",
+        "103866275",
+        "103866475"
+      ],
+      "bna": [
+        "106392009",
+        "106415372",
+        "106438277",
+        "106438296",
+        "106438298",
+        "106441911",
+        "106446159",
+        "106450515",
+        "106453225"
+      ],
+      "boe": [
+        "106327971",
+        "106337574",
+        "106342461"
+      ],
+      "thj": [
+        "104802061",
+        "104817340"
+      ],
+      "cpap": [
+        "110810413"
+      ],
+      "cit": [
+        "102611440"
+      ],
+      "cic": [
+        "CICLE_v10019459mg"
+      ],
+      "tcc": [
+        "18614015"
+      ],
+      "gra": [
+        "105791543",
+        "105796195",
+        "105802782",
+        "105802783"
+      ],
+      "ghi": [
+        "107887140",
+        "107887142",
+        "107900937",
+        "107909787",
+        "107909788",
+        "107923052",
+        "107923326",
+        "107933526",
+        "107952940",
+        "107954506"
+      ],
+      "dzi": [
+        "111304817",
+        "111313931"
+      ],
+      "egr": [
+        "104442158",
+        "104443381"
+      ],
+      "gmx": [
+        "100777944",
+        "100792200",
+        "100794598",
+        "100806209",
+        "100813492",
+        "102664111",
+        "106799785"
+      ],
+      "pvu": [
+        "PHAVU_006G110900g",
+        "PHAVU_010G111400g"
+      ],
+      "vra": [
+        "106754140",
+        "106773156"
+      ],
+      "var": [
+        "108318909",
+        "108346002"
+      ],
+      "ccaj": [
+        "109797239",
+        "109808861"
+      ],
+      "mtr": [
+        "MTR_1g047730",
+        "MTR_7g117110",
+        "MTR_8g027920",
+        "MTR_8g027955",
+        "MTR_8g027965",
+        "MTR_8g027970",
+        "MTR_8g037720"
+      ],
+      "cam": [
+        "101500743",
+        "101504683",
+        "101506624",
+        "101506959"
+      ],
+      "lja": [
+        "Lj1g3v5033430.1",
+        "Lj1g3v5033430.2",
+        "Lj1g3v5033430.3",
+        "Lj3g3v2415310.1",
+        "Lj3g3v2416320.1"
+      ],
+      "adu": [
+        "107472946",
+        "107491964"
+      ],
+      "aip": [
+        "107623354",
+        "107645717"
+      ],
+      "lang": [
+        "109333135",
+        "109357385",
+        "109357386",
+        "109359450",
+        "109359672"
+      ],
+      "fve": [
+        "101296802"
+      ],
+      "pper": [
+        "18784809"
+      ],
+      "pmum": [
+        "103332267"
+      ],
+      "pavi": [
+        "110751778"
+      ],
+      "mdm": [
+        "103413018",
+        "103417626",
+        "103439296"
+      ],
+      "pxb": [
+        "103965897"
+      ],
+      "zju": [
+        "107424151",
+        "107429109",
+        "107429170"
+      ],
+      "csv": [
+        "101212037"
+      ],
+      "cmo": [
+        "103483208"
+      ],
+      "mcha": [
+        "111016355",
+        "111025068"
+      ],
+      "cmax": [
+        "111473333",
+        "111474902",
+        "111475727",
+        "111479304",
+        "111479305"
+      ],
+      "cmos": [
+        "111432047",
+        "111432219",
+        "111446696"
+      ],
+      "cpep": [
+        "111790647",
+        "111790648",
+        "111800387"
+      ],
+      "rcu": [
+        "8263567"
+      ],
+      "jcu": [
+        "105642878"
+      ],
+      "hbr": [
+        "110645079",
+        "110670437"
+      ],
+      "pop": [
+        "7494139",
+        "7497237"
+      ],
+      "jre": [
+        "108985239",
+        "108996457"
+      ],
+      "vvi": [
+        "100251627"
+      ],
+      "sly": [
+        "101248762",
+        "101250455",
+        "101251682",
+        "101262053",
+        "101262357",
+        "101262663",
+        "101268624",
+        "101268670",
+        "109118710"
+      ],
+      "spen": [
+        "107001869",
+        "107002523",
+        "107002524",
+        "107007864",
+        "107020374",
+        "107022768"
+      ],
+      "sot": [
+        "102578750",
+        "102600861",
+        "102603612"
+      ],
+      "cann": [
+        "107839284",
+        "107845604",
+        "107866049",
+        "107870595"
+      ],
+      "nta": [
+        "107761031",
+        "107769747",
+        "107772988",
+        "107774940",
+        "107798053",
+        "107798060",
+        "107806520",
+        "107811464"
+      ],
+      "nsy": [
+        "104209986",
+        "104228953",
+        "104230201",
+        "104236492",
+        "104248247"
+      ],
+      "nto": [
+        "104084467",
+        "104090951",
+        "104096608",
+        "104110129",
+        "104110130"
+      ],
+      "ini": [
+        "109180806"
+      ],
+      "sind": [
+        "105173100",
+        "105173433"
+      ],
+      "oeu": [
+        "111377782",
+        "111409949"
+      ],
+      "han": [
+        "110864821",
+        "110917855",
+        "110922359",
+        "110937608"
+      ],
+      "lsv": [
+        "111876787",
+        "111894588"
+      ],
+      "dcr": [
+        "108196757",
+        "108209455"
+      ],
+      "bvg": [
+        "104886569"
+      ],
+      "soe": [
+        "110775233",
+        "110775235",
+        "110790433"
+      ],
+      "nnu": [
+        "104600319",
+        "104603960"
+      ],
+      "osa": [
+        "4339756"
+      ],
+      "dosa": [
+        "Os05t0586200-01",
+        "Os11t0186500-00"
+      ],
+      "obr": [
+        "102716971",
+        "102719710"
+      ],
+      "bdi": [
+        "100821807",
+        "100844662"
+      ],
+      "ats": [
+        "109749018",
+        "109785424"
+      ],
+      "sbi": [
+        "8065295",
+        "8071821",
+        "8071823",
+        "8084842"
+      ],
+      "zma": [
+        "100193303",
+        "100280367",
+        "100381512",
+        "100384080",
+        "103649563"
+      ],
+      "sita": [
+        "101768804",
+        "101768975",
+        "101771047",
+        "101779619",
+        "101781042",
+        "111257465"
+      ],
+      "pda": [
+        "103708344",
+        "103708705",
+        "103716872"
+      ],
+      "egu": [
+        "105036519",
+        "105047558",
+        "105048226"
+      ],
+      "mus": [
+        "103980034",
+        "103980944",
+        "103981532",
+        "103992744",
+        "103996308"
+      ],
+      "dct": [
+        "110100668",
+        "110104139"
+      ],
+      "aof": [
+        "109828888",
+        "109847377",
+        "109847394",
+        "109847403"
+      ],
+      "atr": [
+        "18426859"
+      ],
+      "smo": [
+        "SELMODRAFT_124989",
+        "SELMODRAFT_125145",
+        "SELMODRAFT_128888",
+        "SELMODRAFT_234778",
+        "SELMODRAFT_31681",
+        "SELMODRAFT_31683",
+        "SELMODRAFT_416246",
+        "SELMODRAFT_427552"
+      ],
+      "ppp": [
+        "112287761"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "6.3.2.52"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "6.3.2.52"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "6.3.2.52"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "6.3.2.52"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Staswick PE",
+          "Tiryaki I"
+        ],
+        "title": "The oxylipin signal jasmonic acid is activated by an enzyme that conjugates it to isoleucine in Arabidopsis.",
+        "journal": "Plant Cell 16:2117-27 (2004) DOI:10.1105/tpc.104.023549",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:15258265]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kang JH",
+          "Wang L",
+          "Giri A",
+          "Baldwin IT"
+        ],
+        "title": "Silencing threonine deaminase and JAR4 in Nicotiana attenuata impairs jasmonic acid-isoleucine-mediated defenses against Manduca sexta.",
+        "journal": "Plant Cell 18:3303-20 (2006) DOI:10.1105/tpc.106.041103",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:17085687]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang L",
+          "Halitschke R",
+          "Kang JH",
+          "Berg A",
+          "Harnisch F",
+          "Baldwin IT"
+        ],
+        "title": "Independently silencing two JAR family members impairs levels of trypsin proteinase inhibitors but not nicotine.",
+        "journal": "Planta 226:159-67 (2007) DOI:10.1007/s00425-007-0477-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:17273867]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Guranowski A",
+          "Miersch O",
+          "Staswick PE",
+          "Suza W",
+          "Wasternack C."
+        ],
+        "title": "Substrate specificity and products of side-reactions catalyzed by jasmonate:amino acid synthetase (JAR1).",
+        "journal": "FEBS Lett 581:815-20 (2007) DOI:10.1016/j.febslet.2007.01.049",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:17291501]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Suza WP",
+          "Staswick PE"
+        ],
+        "title": "The role of JAR1 in Jasmonoyl-L: -isoleucine production during Arabidopsis wound response.",
+        "journal": "Planta 227:1221-32 (2008) DOI:10.1007/s00425-008-0694-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "5  [PMID:18247047]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

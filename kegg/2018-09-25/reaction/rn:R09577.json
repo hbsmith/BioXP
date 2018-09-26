@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R09577",
+    "name": "solavetivol,[reduced NADPH---hemoprotein reductase]:oxygen 2alpha-oxidoreductase",
+    "definition": "Solavetivol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Solavetivone + [Oxidized NADPH---hemoprotein reductase] + 2 H2O",
+    "equation": "C19711 + C03024 + C00007 <=> C09737 + C03161 + 2 C00001",
+    "comment": "the second step of two-step reaction (see R10073, R09576+R09577)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.151"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15472": "premnaspirodiene oxygenase [EC:1.14.14.151]"
+    }
+  }
+][
+  {
+    "entry_id": "R09577",
+    "name": "solavetivol,[reduced NADPH---hemoprotein reductase]:oxygen 2alpha-oxidoreductase",
+    "definition": "Solavetivol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Solavetivone + [Oxidized NADPH---hemoprotein reductase] + 2 H2O",
+    "equation": "C19711 + C03024 + C00007 <=> C09737 + C03161 + 2 C00001",
+    "comment": "the second step of two-step reaction (see R10073, R09576+R09577)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.151"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K15472": "premnaspirodiene oxygenase [EC:1.14.14.151]"
+    }
+  }
+]

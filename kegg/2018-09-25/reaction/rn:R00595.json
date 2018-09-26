@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00595",
+    "name": "S-adenosyl-L-methionine:tRNA (cytosine-C5)-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + tRNA cytosine <=> S-Adenosyl-L-homocysteine + tRNA containing 5-methylcytosine",
+    "equation": "C00019 + C17325 <=> C00021 + C04155",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.202",
+      "2.1.1.203",
+      "2.1.1.204"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

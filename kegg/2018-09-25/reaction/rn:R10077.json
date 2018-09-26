@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10077",
+    "name": "",
+    "definition": "Abietinol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Abieta-7,13-dien-18,18-diol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C11882 + C03024 + C00007 <=> C20329 + C03161 + C00001",
+    "comment": "the first step of three-step reaction (see R12122, R10077+R10078+R12123)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.145"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K14040": "abieta-7,13-dien-18-ol hydroxylase [EC:1.14.14.145]"
+    }
+  }
+]

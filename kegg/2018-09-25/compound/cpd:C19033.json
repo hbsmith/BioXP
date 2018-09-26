@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C19033",
+    "name": "Carbon disulfide",
+    "names": [
+      "Carbon disulfide"
+    ],
+    "formula": "CS2",
+    "exact_mass": 75.9441,
+    "mol_weight": 76.1407,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10534",
+      "R10538"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.13.1.5"
+    ],
+    "dblinks": {
+      "CAS": [
+        "75-15-0"
+      ],
+      "PubChem": [
+        "124489705"
+      ],
+      "ChEBI": [
+        "23012"
+      ],
+      "ChEMBL": [
+        "CHEMBL1365180"
+      ]
+    },
+    "kcf": "ATOM        3\n            1   C0  C    21.5600  -17.3600\n            2   S0  S    22.9600  -18.0600\n            3   S0  S    20.1600  -18.0600\nBOND        2\n            1     1   2 2\n            2     1   3 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "entry_id": "1.14.14.63",
+    "name": "beta-amyrin 16beta-monooxygenase",
+    "names": [
+      "beta-amyrin 16beta-monooxygenase",
+      "CYP716A141"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "beta-amyrin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (maniladiol forming)",
+    "reaction": "beta-amyrin + [reduced NADPH---hemoprotein reductase] + O2 = maniladiol + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R11975]",
+    "all_reac": "R11975",
+    "iubmb_reactions": [
+      "R11975"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "beta-amyrin [CPD:C08616]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "maniladiol [CPD:C21820]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein isolated from the plant Platycodon grandiflorus (baloon flower). The enzyme is also able to oxidize oleanolic acid to cochalic acid.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22620": "beta-amyrin 16beta-monooxygenase"
+    },
+    "genes": {
+      "han": [
+        "110899122"
+      ],
+      "lsv": [
+        "111881980"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.63"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.63"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.63"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.63"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Tamura K",
+          "Teranishi Y",
+          "Ueda S",
+          "Suzuki H",
+          "Kawano N",
+          "Yoshimatsu K",
+          "Saito K",
+          "Kawahara N",
+          "Muranaka T",
+          "Seki H"
+        ],
+        "title": "Cytochrome P450 Monooxygenase CYP716A141 is a Unique beta-Amyrin C-16beta Oxidase Involved in Triterpenoid Saponin Biosynthesis in Platycodon grandiflorus.",
+        "journal": "Plant Cell Physiol 58:874-884 (2017) DOI:10.1093/pcp/pcx043",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:28371833]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

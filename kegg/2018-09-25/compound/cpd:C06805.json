@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C06805",
+    "name": "Acetazolamide",
+    "names": [
+      "Acetazolamide"
+    ],
+    "formula": "C4H6N4O3S2",
+    "exact_mass": 221.9881,
+    "mol_weight": 222.2454,
+    "remark": "Same as: D00218",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "59-66-5"
+      ],
+      "PubChem": [
+        "9024"
+      ],
+      "ChEBI": [
+        "27690"
+      ],
+      "ChEMBL": [
+        "CHEMBL20"
+      ],
+      "PDB-CCD": [
+        "AZM"
+      ],
+      "NIKKAJI": [
+        "J1.395A"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    19.6602  -17.3655\n            2   S2x S    20.7952  -16.5406\n            3   N5x N    20.0991  -18.6934\n            4   S4a S    18.2620  -17.3595\n            5   C8y C    21.9303  -17.3655\n            6   N5x N    21.4973  -18.6934\n            7   N1a N    18.2503  -18.7579\n            8   O3c O    18.2503  -15.9613\n            9   O3c O    16.8579  -17.3595\n            10  N1b N    23.1354  -16.6517\n            11  C5a C    24.3464  -17.3538\n            12  C1a C    25.5574  -16.6459\n            13  O5a O    24.3464  -18.7519\nBOND        13\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     4   7 1\n            7     4   8 2\n            8     4   9 2\n            9     5  10 1\n            10   10  11 1\n            11   11  12 1\n            12   11  13 2\n            13    5   6 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

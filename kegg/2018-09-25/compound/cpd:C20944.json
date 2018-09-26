@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C20944",
+    "name": "Ipsdienone",
+    "names": [
+      "Ipsdienone",
+      "2-Methyl-6-methyleneocta-2,7-dien-4-one"
+    ],
+    "formula": "C10H14O",
+    "exact_mass": 150.1045,
+    "mol_weight": 150.2176,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10918",
+      "R10919"
+    ],
+    "pathways": {
+      "map00902": "Monoterpenoid biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.1.1.386"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741406"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1a C    14.3830  -17.2400\n            2   C2c C    15.5968  -16.5393\n            3   C2b C    16.8105  -17.2400\n            4   C5a C    18.0242  -16.5393\n            5   C1b C    19.2380  -17.2400\n            6   C2c C    20.4517  -16.5393\n            7   C2b C    21.6654  -17.2400\n            8   C1a C    15.5968  -15.1380\n            9   C2a C    20.4517  -15.1378\n            10  C2a C    22.8663  -16.5466\n            11  O5a O    18.0242  -15.1378\nBOND        10\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     2   8 1\n            8     6   9 2\n            9     7  10 2\n            10    4  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

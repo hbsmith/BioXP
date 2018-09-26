@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11672",
+    "name": "",
+    "definition": "(S)-3-Acetyloctanal + Amino acid <=> 2-Methyl-3-n-amyl-dihydropyrrole + 2-Oxo acid",
+    "equation": "C21139 + C00045 <=> C21571 + C00161",
+    "comment": "aminotransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.-"
+    ],
+    "pathways": {
+      "rn00333": "Prodigiosin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21778": "3-acetyloctanal aminotransferase [EC:2.6.1.-]"
+    }
+  }
+]

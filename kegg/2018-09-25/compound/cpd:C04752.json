@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C04752",
+    "name": "4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate",
+    "names": [
+      "4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate",
+      "4-Amino-2-methyl-5-(diphosphooxymethyl)pyrimidine"
+    ],
+    "formula": "C6H11N3O7P2",
+    "exact_mass": 299.0072,
+    "mol_weight": 299.115,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03223",
+      "R04509",
+      "R10712",
+      "R11312"
+    ],
+    "pathways": {
+      "map00730": "Thiamine metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "2.5.1.3",
+      "2.7.4.7"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7322"
+      ],
+      "ChEBI": [
+        "16629"
+      ],
+      "KNApSAcK": [
+        "C00007609"
+      ],
+      "3DMET": [
+        "B01785"
+      ],
+      "NIKKAJI": [
+        "J852.283I"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C8y C    20.2026  -17.2153\n            2   C1b C    18.9894  -17.9086\n            3   C8y C    21.4091  -17.9278\n            4   C8x C    20.2026  -15.8033\n            5   O2b O    17.7829  -17.2025\n            6   N5x N    22.6351  -17.2153\n            7   N1a N    21.4028  -19.3206\n            8   N5x N    21.4091  -15.1038\n            9   P1b P    16.3836  -17.1961\n            10  C8y C    22.6351  -15.8033\n            11  O2c O    14.9909  -17.2025\n            12  O1c O    16.3836  -15.8033\n            13  O1c O    16.3772  -18.5953\n            14  C1a C    23.8416  -15.1038\n            15  P1b P    13.5916  -17.1961\n            16  O1c O    12.1990  -17.1961\n            17  O1c O    13.5916  -15.8033\n            18  O1c O    13.5853  -18.5953\nBOND        18\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 1\n            5     3   6 2\n            6     3   7 1\n            7     4   8 1\n            8     5   9 1\n            9     6  10 1\n            10    9  11 1\n            11    9  12 1\n            12    9  13 2\n            13   10  14 1\n            14   11  15 1\n            15   15  16 1\n            16   15  17 1\n            17   15  18 2\n            18    8  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03605",
+    "name": "UDPglucose:coniferyl-alcohol 4'-beta-D-glucosyltransferase",
+    "definition": "UDP-glucose + Sinapyl alcohol <=> UDP + Syringin",
+    "equation": "C00029 + C02325 <=> C00015 + C01533",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.111"
+    ],
+    "pathways": {
+      "rn00940": "Phenylpropanoid biosynthesis"
+    },
+    "orthologs": {
+      "K12356": "coniferyl-alcohol glucosyltransferase [EC:2.4.1.111]"
+    }
+  }
+]

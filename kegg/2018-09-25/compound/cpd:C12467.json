@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C12467",
+    "name": "2-Hydroxy-beta-keto-L-tyrosyl-[pcp]",
+    "names": [
+      "2-Hydroxy-beta-keto-L-tyrosyl-[pcp]"
+    ],
+    "formula": "C9H8NO4SR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = PCP (peptidyl carrier protein)",
+    "reactions": [
+      "R06764",
+      "R06765"
+    ],
+    "pathways": {
+      "map00401": "Novobiocin biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "582857"
+      ],
+      "ChEBI": [
+        "31083"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   S2a S    24.5069  -19.4254\n            2   C5a C    25.7200  -18.7200\n            3   C1c C    26.9332  -19.4183\n            4   C5a C    28.1464  -18.7131\n            5   C8y C    29.3594  -19.4113\n            6   C8y C    29.3640  -20.8084\n            7   C8x C    30.5771  -21.4997\n            8   C8y C    31.7859  -20.8007\n            9   C8x C    31.7813  -19.4035\n            10  C8x C    30.5683  -18.7053\n            11  O1a O    33.0045  -21.4951\n            12  O5a O    28.1434  -17.3094\n            13  O5a O    25.7169  -17.3165\n            14  N1a N    26.9362  -20.8219\n            15  R   R    23.1033  -19.4183\n            16  O1a O    28.3692  -21.7800\nBOND        16\n            1     6   7 1\n            2     7   8 2\n            3     8   9 1\n            4     9  10 2\n            5    10   5 1\n            6     2   3 1\n            7     8  11 1\n            8     1   2 1\n            9     4  12 2\n            10    3   4 1\n            11    2  13 2\n            12    3  14 1 #Down\n            13    4   5 1\n            14    1  15 1\n            15    5   6 2\n            16    6  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

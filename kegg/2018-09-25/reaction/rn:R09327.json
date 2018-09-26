@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09327",
+    "name": "deoxynogalonate:oxygen oxidoreductase",
+    "definition": "Deoxynogalonate + Oxygen <=> Nogalonate + H2O",
+    "equation": "C18629 + C00007 <=> C12416 + C00001",
+    "comment": "cofactor-independent monooxygenase, snoaB",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.12.22"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15941": "deoxynogalonate / 12-deoxyaklanonic acid monooxygenase [EC:1.13.12.22 1.13.12.-]"
+    }
+  }
+]

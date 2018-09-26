@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R00768",
+    "name": "L-glutamine:D-fructose-6-phosphate isomerase (deaminating); L-glutamine:D-fructose-6-phosphate aminotransferase (hexose isomerizing)",
+    "definition": "L-Glutamine + D-Fructose 6-phosphate <=> L-Glutamate + D-Glucosamine 6-phosphate",
+    "equation": "C00064 + C00085 <=> C00025 + C00352",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.16"
+    ],
+    "pathways": {
+      "rn00250": "Alanine, aspartate and glutamate metabolism",
+      "rn00520": "Amino sugar and nucleotide sugar metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00820": "glucosamine---fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C14513",
+    "name": "Tetrachlorvinphos",
+    "names": [
+      "Tetrachlorvinphos",
+      "2-Chloro-1-(2,4,5-trichlorophenyl)vinyl dimethyl phosphate"
+    ],
+    "formula": "C10H9Cl4O4P",
+    "exact_mass": 363.8993,
+    "mol_weight": 365.9618,
+    "remark": "Same as: D05929",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "22248-79-9"
+      ],
+      "PubChem": [
+        "17395513"
+      ],
+      "ChEBI": [
+        "35005"
+      ],
+      "ChEMBL": [
+        "CHEMBL1452359"
+      ],
+      "NIKKAJI": [
+        "J87.299G"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   C8y C    21.3354  -15.5876\n            2   C8y C    21.3354  -16.9853\n            3   C8x C    22.5458  -17.6842\n            4   C8y C    23.7563  -16.9853\n            5   C8y C    23.7563  -15.5876\n            6   C8x C    22.5458  -14.8888\n            7   X   Cl   20.1250  -14.8888\n            8   X   Cl   20.1250  -17.6842\n            9   X   Cl   24.9854  -14.8778\n            10  C2c C    24.9854  -17.6952\n            11  O2b O    26.1887  -17.0006\n            12  C2b C    24.9851  -19.0818\n            13  P1b P    27.3991  -16.3017\n            14  O2b O    28.6095  -15.6029\n            15  O3b O    26.6977  -15.0871\n            16  O2b O    28.0953  -17.5077\n            17  C1a C    29.5116  -17.5080\n            18  C1a C    28.6095  -14.1899\n            19  X   Cl   26.1837  -19.7741\nBOND        19\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 1\n            8     2   8 1\n            9     5   9 1\n            10    4  10 1\n            11   10  11 1\n            12   10  12 2\n            13   11  13 1\n            14   13  14 1\n            15   13  15 2\n            16   13  16 1\n            17   16  17 1\n            18   14  18 1\n            19   12  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02948",
+    "name": "(S)-2-hydroxy-2-methyl-3-oxobutanoate carboxy-lyase",
+    "definition": "(S)-2-Acetolactate <=> (R)-Acetoin + CO2",
+    "equation": "C06010 <=> C00810 + C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.5"
+    ],
+    "pathways": {
+      "rn00650": "Butanoate metabolism",
+      "rn00660": "C5-Branched dibasic acid metabolism"
+    },
+    "orthologs": {
+      "K01575": "acetolactate decarboxylase [EC:4.1.1.5]"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00173",
+    "name": "pyridoxal-5'-phosphate phosphohydrolase",
+    "definition": "Pyridoxal phosphate + H2O <=> Pyridoxal + Orthophosphate",
+    "equation": "C00018 + C00001 <=> C00250 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.3.74"
+    ],
+    "pathways": {
+      "rn00750": "Vitamin B6 metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K07758": "pyridoxal phosphatase [EC:3.1.3.74]",
+      "K13248": "pyridoxal phosphate phosphatase PHOSPHO2 [EC:3.1.3.74]"
+    }
+  }
+]

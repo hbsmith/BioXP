@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R07177",
+    "name": "thiosulfate:6-decylubiquinone oxidoreductase",
+    "definition": "2 Thiosulfate + Decylubiquinone <=> Tetrathionate + Decylubiquinol",
+    "equation": "2 C00320 + C15494 <=> C02084 + C15495",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.8.5.2"
+    ],
+    "pathways": {
+      "rn00920": "Sulfur metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K16936": "thiosulfate dehydrogenase [quinone] small subunit [EC:1.8.5.2]",
+      "K16937": "thiosulfate dehydrogenase [quinone] large subunit [EC:1.8.5.2]"
+    }
+  }
+]

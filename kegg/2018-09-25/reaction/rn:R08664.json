@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08664",
+    "name": "L-leucine,NADPH:oxygen oxidoreductase (N-hydroxylating, decarboxylating)",
+    "definition": "L-Leucine + 2 Oxygen + 2 NADPH + 2 H+ <=> 3-Methylbutyraldehyde oxime + 3 H2O + 2 NADP+ + CO2",
+    "equation": "C00123 + 2 C00007 + 2 C00005 + 2 C00080 <=> C17255 + 3 C00001 + 2 C00006 + C00011",
+    "comment": "multi-step reaction (similar to R10671, R00730+R04460+R07190)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00966": "Glucosinolate biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01210": "2-Oxocarboxylic acid metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

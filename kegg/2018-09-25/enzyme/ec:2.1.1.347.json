@@ -1,0 +1,107 @@
+[
+  {
+    "entry_id": "2.1.1.347",
+    "name": "(+)-O-methylkolavelool synthase",
+    "names": [
+      "(+)-O-methylkolavelool synthase",
+      "Haur_2147 (locus name)"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring one-carbon groups;",
+      "Methyltransferases"
+    ],
+    "sysname": "S-adenosyl-L-methionine:(+)-kolavelool O-methyltransferase",
+    "reaction": "S-adenosyl-L-methionine + (+)-kolavelool = S-adenosyl-L-homocysteine + (+)-O-methylkolavelool [RN:R11954]",
+    "all_reac": "R11954",
+    "iubmb_reactions": [
+      "R11954"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "S-adenosyl-L-methionine [CPD:C00019]",
+      "(+)-kolavelool [CPD:C21653]"
+    ],
+    "products": [
+      "S-adenosyl-L-homocysteine [CPD:C00021]",
+      "(+)-O-methylkolavelool [CPD:C21800]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "Isolated from the bacterium Herpetosiphon aurantiacus.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22577": "(+)-O-methylkolavelool synthase"
+    },
+    "genes": {
+      "hau": [
+        "Haur_2147"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.1.1.347"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.1.1.347"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.1.1.347"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.1.1.347"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Nakano C",
+          "Oshima M",
+          "Kurashima N",
+          "Hoshino T"
+        ],
+        "title": "Identification of a new diterpene biosynthetic gene cluster that produces O-methylkolavelool in Herpetosiphon aurantiacus.",
+        "journal": "Chembiochem 16:772-81 (2015) DOI:10.1002/cbic.201402652",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:25694050]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

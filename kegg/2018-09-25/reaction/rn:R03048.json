@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03048",
+    "name": "11-cis-retinol:NAD+ oxidoreductase",
+    "definition": "11-cis-Retinol + NAD+ <=> 11-cis-Retinal + NADH + H+",
+    "equation": "C00899 + C00003 <=> C02110 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.315",
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00830": "Retinol metabolism"
+    },
+    "orthologs": {
+      "K00061": "11-cis-retinol dehydrogenase [EC:1.1.1.315]",
+      "K11151": "retinol dehydrogenase 10 [EC:1.1.1.-]"
+    }
+  }
+]

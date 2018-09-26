@@ -1,0 +1,85 @@
+[
+  {
+    "entry_id": "C12535",
+    "name": "Tranexamic acid",
+    "names": [
+      "Tranexamic acid"
+    ],
+    "formula": "C8H15NO2",
+    "exact_mass": 157.1103,
+    "mol_weight": 157.2102,
+    "remark": "Same as: D01136",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1197-18-8"
+      ],
+      "PubChem": [
+        "582925"
+      ],
+      "ChEMBL": [
+        "CHEMBL877"
+      ],
+      "PDB-CCD": [
+        "AMH"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1x C    17.4617  -15.5048\n            2   C1x C    17.4617  -16.9050\n            3   C1y C    18.6772  -17.6052\n            4   C1x C    19.8856  -16.9050\n            5   C1x C    19.8856  -15.5048\n            6   C1y C    18.6772  -14.8047\n            7   C6a C    18.6789  -13.4045\n            8   O6a O    19.8924  -12.7060\n            9   O6a O    17.4673  -12.7029\n            10  C1b C    18.6789  -19.0054\n            11  N1a N    19.8924  -19.7040\nBOND        11\n            1     5   6 1\n            2     6   1 1\n            3     6   7 1 #Up\n            4     1   2 1\n            5     7   8 1\n            6     2   3 1\n            7     7   9 2\n            8     3   4 1\n            9     3  10 1 #Down\n            10    4   5 1\n            11   10  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C12535",
+    "name": "Tranexamic acid",
+    "names": [
+      "Tranexamic acid"
+    ],
+    "formula": "C8H15NO2",
+    "exact_mass": 157.1103,
+    "mol_weight": 157.2102,
+    "remark": "Same as: D01136",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1197-18-8"
+      ],
+      "PubChem": [
+        "582925"
+      ],
+      "ChEMBL": [
+        "CHEMBL877"
+      ],
+      "PDB-CCD": [
+        "AMH"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1x C    17.4617  -15.5048\n            2   C1x C    17.4617  -16.9050\n            3   C1y C    18.6772  -17.6052\n            4   C1x C    19.8856  -16.9050\n            5   C1x C    19.8856  -15.5048\n            6   C1y C    18.6772  -14.8047\n            7   C6a C    18.6789  -13.4045\n            8   O6a O    19.8924  -12.7060\n            9   O6a O    17.4673  -12.7029\n            10  C1b C    18.6789  -19.0054\n            11  N1a N    19.8924  -19.7040\nBOND        11\n            1     5   6 1\n            2     6   1 1\n            3     6   7 1 #Up\n            4     1   2 1\n            5     7   8 1\n            6     2   3 1\n            7     7   9 2\n            8     3   4 1\n            9     3  10 1 #Down\n            10    4   5 1\n            11   10  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R07961",
+    "name": "theobromine:oxygen oxidoreductase (N3-demethylating)",
+    "definition": "Theobromine + NADH + H+ + Oxygen <=> 7-Methylxanthine + NAD+ + Formaldehyde + H2O",
+    "equation": "C07480 + C00004 + C00080 + C00007 <=> C16353 + C00003 + C00067 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.179"
+    ],
+    "pathways": {
+      "rn00232": "Caffeine metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K21723": "methylxanthine N3-demethylase [EC:1.14.13.179]"
+    }
+  }
+][
+  {
+    "entry_id": "R07961",
+    "name": "theobromine:oxygen oxidoreductase (N3-demethylating)",
+    "definition": "Theobromine + NADH + H+ + Oxygen <=> 7-Methylxanthine + NAD+ + Formaldehyde + H2O",
+    "equation": "C07480 + C00004 + C00080 + C00007 <=> C16353 + C00003 + C00067 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.179"
+    ],
+    "pathways": {
+      "rn00232": "Caffeine metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K21723": "methylxanthine N3-demethylase [EC:1.14.13.179]"
+    }
+  }
+]

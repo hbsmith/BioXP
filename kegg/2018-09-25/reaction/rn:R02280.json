@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02280",
+    "name": "1-pyrroline-4-hydroxy-2-carboxylate aminohydrolase (decyclizing)",
+    "definition": "1-Pyrroline-4-hydroxy-2-carboxylate + H2O <=> 2,5-Dioxopentanoate + Ammonia",
+    "equation": "C04282 + C00001 <=> C00433 + C00014",
+    "comment": "possibly two-step reaction (see R04446+R09253)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.4.22"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism"
+    },
+    "orthologs": {
+      "K21062": "1-pyrroline-4-hydroxy-2-carboxylate deaminase [EC:3.5.4.22]"
+    }
+  }
+]

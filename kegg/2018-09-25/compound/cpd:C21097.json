@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C21097",
+    "name": "Peptidyl-carrier protein",
+    "names": [
+      "Peptidyl-carrier protein",
+      "PCP",
+      "[Peptidyl-carrier protein]",
+      "[pcp]"
+    ],
+    "formula": "HSR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R06746",
+      "R06748",
+      "R06751",
+      "R11084",
+      "R11103",
+      "R11367",
+      "R11392",
+      "R11665",
+      "R12057"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.3.1.-",
+      "2.3.2.28",
+      "6.2.1.46",
+      "6.2.1.53",
+      "6.2.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "310920478"
+      ]
+    },
+    "kcf": "ATOM        2\n            1   R   R    17.9215  -16.1809\n            2   S1a S    19.3215  -16.1809\nBOND        1\n            1     1   2 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

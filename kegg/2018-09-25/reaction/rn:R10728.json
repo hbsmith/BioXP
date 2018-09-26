@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10728",
+    "name": "phylloquinone,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (omega-hydroxyphylloquinone forming)",
+    "definition": "Phylloquinone + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> omega-Hydroxyphylloquinone + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C02059 + C03024 + C00007 <=> C20806 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.78"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

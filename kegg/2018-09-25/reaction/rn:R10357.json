@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10357",
+    "name": "",
+    "definition": "12-Demethyl-11,12-dehydropaspaline + Oxygen + NADPH + H+ <=> beta-PC-M6 + NADP+ + H2O",
+    "equation": "C20534 + C00007 + C00005 + C00080 <=> C20535 + C00006 + C00001",
+    "comment": "cytochrome P450",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00403": "Indole diterpene alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K18388": "cytochrome P450 monooxygenase [EC:1.14.13.-]"
+    }
+  }
+]

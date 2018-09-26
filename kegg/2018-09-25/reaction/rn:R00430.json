@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00430",
+    "name": "GTP:pyruvate 2-O-phosphotransferase",
+    "definition": "GTP + Pyruvate <=> GDP + Phosphoenolpyruvate",
+    "equation": "C00044 + C00022 <=> C00035 + C00074",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.40"
+    ],
+    "pathways": {
+      "rn00230": "Purine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00873": "pyruvate kinase [EC:2.7.1.40]",
+      "K12406": "pyruvate kinase isozymes R/L [EC:2.7.1.40]"
+    }
+  }
+]

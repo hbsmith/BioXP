@@ -1,0 +1,80 @@
+[
+  {
+    "entry_id": "C00398",
+    "name": "Tryptamine",
+    "names": [
+      "Tryptamine",
+      "3-(2-Aminoethyl)indole"
+    ],
+    "formula": "C10H12N2",
+    "exact_mass": 160.1,
+    "mol_weight": 160.2157,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00685",
+      "R02173",
+      "R02174",
+      "R03738",
+      "R05895",
+      "R08481",
+      "R08482",
+      "R08483",
+      "R08484",
+      "R08604",
+      "R11912"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism",
+      "map00901": "Indole alkaloid biosynthesis",
+      "map01060": "Biosynthesis of plant secondary metabolites",
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites",
+      "map04080": "Neuroactive ligand-receptor interaction"
+    },
+    "enzymes": [
+      "1.4.3.4",
+      "1.4.3.22",
+      "1.14.13.-",
+      "1.14.99.59",
+      "2.1.1.49",
+      "4.1.1.28",
+      "4.1.1.105",
+      "4.3.3.2"
+    ],
+    "dblinks": {
+      "CAS": [
+        "61-54-1"
+      ],
+      "PubChem": [
+        "3688"
+      ],
+      "ChEBI": [
+        "16765"
+      ],
+      "ChEMBL": [
+        "CHEMBL6640"
+      ],
+      "KNApSAcK": [
+        "C00001434"
+      ],
+      "PDB-CCD": [
+        "TSS"
+      ],
+      "3DMET": [
+        "B00104"
+      ],
+      "NIKKAJI": [
+        "J4.816J"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8x C    15.8768  -16.1636\n            2   C8x C    15.8768  -17.5631\n            3   C8x C    17.0889  -18.2629\n            4   C8y C    18.3010  -17.5631\n            5   C8y C    18.3010  -16.1636\n            6   C8x C    17.0889  -15.4638\n            7   N4x N    19.6320  -17.9956\n            8   C8x C    20.4547  -16.8633\n            9   C8y C    19.6320  -15.7312\n            10  C1b C    20.0631  -14.4048\n            11  C1b C    21.4421  -14.1117\n            12  N1a N    22.3829  -15.1563\nBOND        13\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    9  10 1\n            12   10  11 1\n            13   11  12 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

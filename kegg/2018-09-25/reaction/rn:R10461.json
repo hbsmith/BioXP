@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R10461",
+    "name": "O-acetyl-L-serine:hydroxyurea 2-amino-2-carboxyethyltransferase",
+    "definition": "O-Acetyl-L-serine + Hydroxyurea <=> O-Ureido-L-serine + Acetate",
+    "equation": "C00979 + C07044 <=> C20639 + C00033",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.99.3"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19725": "O-ureido-L-serine/cysteine synthase [EC:2.6.99.3 2.5.1.47]"
+    }
+  }
+][
+  {
+    "entry_id": "R10461",
+    "name": "O-acetyl-L-serine:hydroxyurea 2-amino-2-carboxyethyltransferase",
+    "definition": "O-Acetyl-L-serine + Hydroxyurea <=> O-Ureido-L-serine + Acetate",
+    "equation": "C00979 + C07044 <=> C20639 + C00033",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.99.3"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19725": "O-ureido-L-serine/cysteine synthase [EC:2.6.99.3 2.5.1.47]"
+    }
+  }
+]

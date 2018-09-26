@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R02027",
+    "name": "Phosphatidylglycerol cholinephosphohydrolase",
+    "definition": "Phosphatidylglycerol + H2O <=> 1,2-Diacyl-sn-glycerol + sn-Glycerol 3-phosphate",
+    "equation": "C00344 + C00001 <=> C00641 + C00093",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.4.3",
+      "3.1.4.-"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism"
+    },
+    "orthologs": {
+      "K01114": "phospholipase C [EC:3.1.4.3]",
+      "K16619": "phospholipase C / alpha-toxin [EC:3.1.4.3]",
+      "K18694": "phosphatidylglycerol phospholipase C [EC:3.1.4.-]"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C19181",
+    "name": "Methyl methanesulfonate",
+    "names": [
+      "Methyl methanesulfonate",
+      "MMS"
+    ],
+    "formula": "C2H6O3S",
+    "exact_mass": 110.0038,
+    "mol_weight": 110.1322,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "66-27-3"
+      ],
+      "PubChem": [
+        "124489853"
+      ],
+      "ChEBI": [
+        "25255"
+      ],
+      "ChEMBL": [
+        "CHEMBL313493"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   S4a S    16.8000  -18.8300\n            2   O3c O    16.8000  -17.4300\n            3   O3c O    16.8000  -20.2300\n            4   O2a O    18.2000  -18.8300\n            5   C1a C    18.9000  -20.0424\n            6   C1a C    15.4000  -18.8300\nBOND        5\n            1     1   2 2\n            2     1   3 2\n            3     1   4 1\n            4     4   5 1\n            5     1   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

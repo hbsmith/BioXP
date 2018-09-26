@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R01923",
+    "name": "palmitoyl-CoA:L-carnitine O-palmitoyltransferase",
+    "definition": "Palmitoyl-CoA + L-Carnitine <=> CoA + L-Palmitoylcarnitine",
+    "equation": "C00154 + C00318 <=> C00010 + C02990",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.21"
+    ],
+    "pathways": {
+      "rn00071": "Fatty acid degradation",
+      "rn01212": "Fatty acid metabolism"
+    },
+    "orthologs": {
+      "K08765": "carnitine O-palmitoyltransferase 1, liver isoform [EC:2.3.1.21]",
+      "K08766": "carnitine O-palmitoyltransferase 2 [EC:2.3.1.21]",
+      "K19523": "carnitine O-palmitoyltransferase 1, muscle isoform [EC:2.3.1.21]",
+      "K19524": "carnitine O-palmitoyltransferase 1, brain isoform [EC:2.3.1.21]"
+    }
+  }
+]

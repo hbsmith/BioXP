@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R07020",
+    "name": "beta-Naphthol, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)",
+    "definition": "2-Naphthol + NADPH + Oxygen + H+ <=> Naphthalene-1,2-diol + NADP+ + H2O",
+    "equation": "C11713 + C00005 + C00007 + C00080 <=> C03012 + C00006 + C00001",
+    "comment": "cytochrome P450",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "orthologs": {
+    }
+  }
+]

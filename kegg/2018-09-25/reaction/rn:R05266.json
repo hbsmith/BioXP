@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R05266",
+    "name": "p-cymene,ferredoxin:oxygen oxidoreductase (methyl-hydroxylating)",
+    "definition": "p-Cymene + Oxygen + 2 Reduced ferredoxin + 2 H+ <=> p-Cumic alcohol + 2 Oxidized ferredoxin + H2O",
+    "equation": "C06575 + C00007 + 2 C00138 + 2 C00080 <=> C06576 + 2 C00139 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.25"
+    ],
+    "pathways": {
+      "rn00622": "Xylene degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K10616": "p-cymene methyl-monooxygenase [EC:1.14.15.25]",
+      "K18293": "p-cymene methyl-monooxygenase electron transfer component [EC:1.18.1.3]"
+    }
+  }
+]

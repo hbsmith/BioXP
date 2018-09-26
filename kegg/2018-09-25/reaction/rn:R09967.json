@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09967",
+    "name": "geranylgeranyl-diphosphate hydratase (copal-8-ol-diphosphate-forming); copal-8-ol-diphosphate hydro-lyase",
+    "definition": "Copal-8-ol diphosphate <=> Geranylgeranyl diphosphate + H2O",
+    "equation": "C20270 <=> C00353 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.133"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K20516": "copal-8-ol diphosphate hydratase [EC:4.2.1.133]",
+      "K20518": "copal-8-ol diphosphate hydratase / cis-abienol synthase [EC:4.2.1.133 4.2.3.140]"
+    }
+  }
+]

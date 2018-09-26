@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C20902",
+    "name": "3,6-Anhydro-alpha-L-galactopyranose",
+    "names": [
+      "3,6-Anhydro-alpha-L-galactopyranose"
+    ],
+    "formula": "C6H10O5",
+    "exact_mass": 162.0528,
+    "mol_weight": 162.1406,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10861",
+      "R10862"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.2.1.92"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741365"
+      ],
+      "PDB-CCD": [
+        "AAL"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1y C    17.9782  -14.7873\n            2   C1y C    17.9782  -16.1878\n            3   O2x O    19.1861  -14.0871\n            4   C1y C    19.1861  -16.8880\n            5   O1a O    16.7644  -16.8880\n            6   C1y C    20.4056  -14.7873\n            7   C1y C    20.4056  -16.1878\n            8   O1a O    21.6135  -14.0871\n            9   O1a O    21.6135  -16.8880\n            10  C1x C    19.3305  -14.7996\n            11  O2x O    19.7700  -15.7605\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1 #Down\n            5     3   6 1\n            6     4   7 1\n            7     6   8 1 #Up\n            8     7   9 1 #Up\n            9     6   7 1\n            10    1  10 1\n            11   10  11 1\n            12    4  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

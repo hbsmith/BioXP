@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C18262",
+    "name": "1-Methoxypyrene-6,7-oxide",
+    "names": [
+      "1-Methoxypyrene-6,7-oxide"
+    ],
+    "formula": "C17H12O2",
+    "exact_mass": 248.0837,
+    "mol_weight": 248.276,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09178",
+      "R09179"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.-.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "103061444"
+      ],
+      "ChEBI": [
+        "81613"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   C2x C    23.5900  -20.0900\n            2   C1y C    23.5900  -21.4900\n            3   C1y C    24.7800  -22.1200\n            4   C8y C    25.9700  -21.4900\n            5   C8y C    25.9700  -20.0900\n            6   C2y C    24.7800  -19.3900\n            7   C8y C    27.2300  -19.3900\n            8   C8y C    27.2300  -17.9200\n            9   C2x C    25.9700  -17.2200\n            10  C2x C    24.7800  -17.9200\n            11  C8x C    27.2300  -22.1200\n            12  C8x C    28.4200  -21.4900\n            13  C8y C    28.4200  -20.0900\n            14  C8x C    29.6100  -19.3900\n            15  C8x C    29.6100  -17.9200\n            16  C8y C    28.4200  -17.2200\n            17  O2a O    28.4200  -15.8200\n            18  C1a C    29.6100  -15.1200\n            19  O2x O    23.5900  -22.8900\nBOND        23\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 2\n            5     5   6 1\n            6     1   6 2\n            7     5   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    6  10 1\n            12    4  11 1\n            13   11  12 2\n            14   12  13 1\n            15    7  13 1\n            16   13  14 2\n            17   14  15 1\n            18   15  16 2\n            19    8  16 1\n            20   16  17 1\n            21   17  18 1\n            22    2  19 1\n            23    3  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

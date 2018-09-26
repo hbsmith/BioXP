@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10128",
+    "name": "chanoclavine-I:NAD+ oxidoreductase",
+    "definition": "Chanoclavine-I + NAD+ <=> Chanoclavine-I aldehyde + NADH + H+",
+    "equation": "C09131 + C00003 <=> C20379 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.332"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K17746": "chanoclavine-I dehydrogenase [EC:1.1.1.332]"
+    }
+  }
+]

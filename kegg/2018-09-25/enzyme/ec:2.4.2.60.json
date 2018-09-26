@@ -1,0 +1,861 @@
+[
+  {
+    "entry_id": "2.4.2.60",
+    "name": "cysteine-dependent adenosine diphosphate thiazole synthase",
+    "names": [
+      "cysteine-dependent adenosine diphosphate thiazole synthase",
+      "THI4 (gene name) (ambiguous)",
+      "THI1 (gene name)",
+      "ADP-thiazole synthase"
+    ],
+    "classes": [
+      "Transferases;",
+      "Glycosyltransferases;",
+      "Pentosyltransferases"
+    ],
+    "sysname": "NAD+:glycine ADP-D-ribosyltransferase (dehydroalanine-producing)",
+    "reaction": "NAD+ + glycine + [ADP-thiazole synthase]-L-cysteine = nicotinamide + ADP-5-ethyl-4-methylthiazole-2-carboxylate + [ADP-thiazole synthase]-dehydroalanine + 3 H2O [RN:R10685]",
+    "all_reac": "R10685",
+    "iubmb_reactions": [
+      "R10685"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "NAD+ [CPD:C00003]",
+      "glycine [CPD:C00037]",
+      "[ADP-thiazole synthase]-L-cysteine"
+    ],
+    "products": [
+      "nicotinamide [CPD:C00153]",
+      "ADP-5-ethyl-4-methylthiazole-2-carboxylate [CPD:C20784]",
+      "[ADP-thiazole synthase]-dehydroalanine",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "This iron dependent enzyme, found in fungi and plants, is involved in the thiamine phosphate biosynthesis pathway. It is a single turn-over enzyme since the cysteine residue is not regenerated in vivo [3]. The homologous enzyme in archaea (EC 2.4.2.59, sulfide-dependent adenosine diphosphate thiazole synthase) uses sulfide as sulfur donor.",
+    "pathways": {
+      "ec00730": "Thiamine metabolism",
+      "ec01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03146": "cysteine-dependent adenosine diphosphate thiazole synthase"
+    },
+    "genes": {
+      "rss": [
+        "109442182"
+      ],
+      "ath": [
+        "AT5G54770"
+      ],
+      "aly": [
+        "ARALYDRAFT_918614"
+      ],
+      "crb": [
+        "17876896"
+      ],
+      "csat": [
+        "104726000",
+        "104731059",
+        "104763460"
+      ],
+      "eus": [
+        "EUTSA_v10013978mg"
+      ],
+      "brp": [
+        "103844930",
+        "103851941",
+        "103857026"
+      ],
+      "bna": [
+        "106346007",
+        "106347311",
+        "106349644",
+        "106366413",
+        "106371241",
+        "106390546",
+        "106402237",
+        "106420919",
+        "106420920",
+        "106439989"
+      ],
+      "boe": [
+        "106318832",
+        "106327201",
+        "106335239"
+      ],
+      "thj": [
+        "104817652"
+      ],
+      "cpap": [
+        "110810965"
+      ],
+      "cit": [
+        "102626594",
+        "102629135"
+      ],
+      "cic": [
+        "CICLE_v10008765mg",
+        "CICLE_v10015727mg",
+        "CICLE_v10024231mg"
+      ],
+      "tcc": [
+        "18593644",
+        "18597097"
+      ],
+      "gra": [
+        "105769824",
+        "105773933",
+        "105780320"
+      ],
+      "ghi": [
+        "107901923",
+        "107917921",
+        "107928645",
+        "107958248",
+        "107961959"
+      ],
+      "dzi": [
+        "111280819",
+        "111301627",
+        "111318798"
+      ],
+      "egr": [
+        "104450213"
+      ],
+      "gmx": [
+        "100775614",
+        "100788953",
+        "100794288",
+        "547461",
+        "547462"
+      ],
+      "pvu": [
+        "PHAVU_007G052900g",
+        "PHAVU_011G139100g"
+      ],
+      "vra": [
+        "106754377",
+        "106755182"
+      ],
+      "var": [
+        "108325373",
+        "108339541"
+      ],
+      "ccaj": [
+        "109795024",
+        "109808173"
+      ],
+      "mtr": [
+        "MTR_1g105480",
+        "MTR_4g081130"
+      ],
+      "cam": [
+        "101491901",
+        "101507074",
+        "101511321",
+        "101512227"
+      ],
+      "lja": [
+        "Lj3g3v1010900.1",
+        "Lj5g3v2060670.1"
+      ],
+      "adu": [
+        "107477997",
+        "107488645"
+      ],
+      "aip": [
+        "107630145",
+        "107643278"
+      ],
+      "lang": [
+        "109331169",
+        "109332649",
+        "109348532",
+        "109351883"
+      ],
+      "fve": [
+        "101298688",
+        "101299651"
+      ],
+      "pper": [
+        "18780719"
+      ],
+      "pmum": [
+        "103342510"
+      ],
+      "pavi": [
+        "110747499"
+      ],
+      "mdm": [
+        "103400085",
+        "103429668",
+        "103448581"
+      ],
+      "pxb": [
+        "103948770",
+        "103967326"
+      ],
+      "zju": [
+        "107420469"
+      ],
+      "csv": [
+        "101211553"
+      ],
+      "cmo": [
+        "103501605"
+      ],
+      "mcha": [
+        "111022099"
+      ],
+      "cmax": [
+        "111483293",
+        "111487533"
+      ],
+      "cmos": [
+        "111438464",
+        "111448035"
+      ],
+      "cpep": [
+        "111783834",
+        "111785935",
+        "111788519"
+      ],
+      "rcu": [
+        "8280736"
+      ],
+      "jcu": [
+        "105632894"
+      ],
+      "hbr": [
+        "110647144"
+      ],
+      "pop": [
+        "7470933",
+        "7479083",
+        "7485534"
+      ],
+      "jre": [
+        "108983682",
+        "108990968",
+        "108993518",
+        "109015234",
+        "109016134",
+        "109022013"
+      ],
+      "vvi": [
+        "100260728",
+        "100265774"
+      ],
+      "sly": [
+        "101257192"
+      ],
+      "spen": [
+        "107025837"
+      ],
+      "sot": [
+        "102598996"
+      ],
+      "cann": [
+        "107856341"
+      ],
+      "nta": [
+        "107797059",
+        "107798781"
+      ],
+      "nsy": [
+        "104224143"
+      ],
+      "nto": [
+        "104087540"
+      ],
+      "ini": [
+        "109167290",
+        "109187908"
+      ],
+      "sind": [
+        "105167970",
+        "105175375"
+      ],
+      "oeu": [
+        "111383503",
+        "111389379"
+      ],
+      "han": [
+        "110890327",
+        "110912864"
+      ],
+      "lsv": [
+        "111877285",
+        "111914386"
+      ],
+      "dcr": [
+        "108199579",
+        "108204812",
+        "108211831"
+      ],
+      "bvg": [
+        "104887771",
+        "104887775"
+      ],
+      "soe": [
+        "110795721"
+      ],
+      "nnu": [
+        "104604883"
+      ],
+      "osa": [
+        "4343443"
+      ],
+      "dosa": [
+        "Os07t0529600-01"
+      ],
+      "obr": [
+        "102709384"
+      ],
+      "bdi": [
+        "100841709"
+      ],
+      "ats": [
+        "109771029"
+      ],
+      "sbi": [
+        "8063504",
+        "8078187"
+      ],
+      "zma": [
+        "542714",
+        "542715"
+      ],
+      "sita": [
+        "101752840",
+        "101774400"
+      ],
+      "pda": [
+        "103716822",
+        "103721429"
+      ],
+      "egu": [
+        "105046898",
+        "105051965"
+      ],
+      "mus": [
+        "103975582",
+        "103991030"
+      ],
+      "dct": [
+        "110108175"
+      ],
+      "aof": [
+        "109827745",
+        "109834756"
+      ],
+      "atr": [
+        "18435056"
+      ],
+      "smo": [
+        "SELMODRAFT_163429",
+        "SELMODRAFT_271002"
+      ],
+      "ppp": [
+        "112273035",
+        "112273481",
+        "112275550",
+        "112276032",
+        "112276579"
+      ],
+      "cre": [
+        "CHLREDRAFT_196899"
+      ],
+      "vcn": [
+        "VOLCADRAFT_74899",
+        "VOLCADRAFT_74900"
+      ],
+      "mng": [
+        "MNEG_15292",
+        "MNEG_7985"
+      ],
+      "csl": [
+        "COCSUDRAFT_14398"
+      ],
+      "cvr": [
+        "CHLNCDRAFT_22703"
+      ],
+      "apro": [
+        "F751_1708"
+      ],
+      "sce": [
+        "YGR144W"
+      ],
+      "ago": [
+        "AGOS_AAL137W"
+      ],
+      "erc": [
+        "Ecym_6012"
+      ],
+      "kla": [
+        "KLLA0_A00198g"
+      ],
+      "kmx": [
+        "KLMA_40625"
+      ],
+      "lth": [
+        "KLTH0B03916g"
+      ],
+      "vpo": [
+        "Kpol_1050p31"
+      ],
+      "zro": [
+        "ZYRO0G11726g"
+      ],
+      "cgr": [
+        "CAGL0M01166g"
+      ],
+      "ncs": [
+        "NCAS_0D01750"
+      ],
+      "ndi": [
+        "NDAI_0C02860"
+      ],
+      "tpf": [
+        "TPHA_0A04790"
+      ],
+      "tbl": [
+        "TBLA_0B09390",
+        "TBLA_0H00760"
+      ],
+      "tdl": [
+        "TDEL_0H00200"
+      ],
+      "ppa": [
+        "PAS_chr3_0648"
+      ],
+      "dha": [
+        "DEHA2F16654g"
+      ],
+      "pic": [
+        "PICST_50942"
+      ],
+      "pgu": [
+        "PGUG_04211"
+      ],
+      "spaa": [
+        "SPAPADRAFT_51398"
+      ],
+      "lel": [
+        "LELG_02871"
+      ],
+      "cal": [
+        "CAALFM_C305130CA"
+      ],
+      "ctp": [
+        "CTRG_02525"
+      ],
+      "cot": [
+        "CORT_0C04770"
+      ],
+      "cdu": [
+        "CD36_85100"
+      ],
+      "yli": [
+        "YALI0A09768g"
+      ],
+      "clu": [
+        "CLUG_04547"
+      ],
+      "clus": [
+        "A9F13_11g02431"
+      ],
+      "caur": [
+        "QG37_05249"
+      ],
+      "slb": [
+        "AWJ20_4223"
+      ],
+      "ncr": [
+        "NCU06110"
+      ],
+      "nte": [
+        "NEUTE1DRAFT95662"
+      ],
+      "smp": [
+        "SMAC_06409"
+      ],
+      "pan": [
+        "PODANSg1687"
+      ],
+      "ttt": [
+        "THITE_2117402"
+      ],
+      "mtm": [
+        "MYCTH_2315910"
+      ],
+      "cthr": [
+        "CTHT_0017160"
+      ],
+      "mgr": [
+        "MGG_03098"
+      ],
+      "tmn": [
+        "UCRPA7_2510"
+      ],
+      "ssck": [
+        "SPSK_07738"
+      ],
+      "fgr": [
+        "FGSG_02469"
+      ],
+      "fpu": [
+        "FPSE_01936"
+      ],
+      "fvr": [
+        "FVEG_09077"
+      ],
+      "fox": [
+        "FOXG_10428"
+      ],
+      "nhe": [
+        "NECHADRAFT_61890"
+      ],
+      "tre": [
+        "TRIREDRAFT_68608"
+      ],
+      "maw": [
+        "MAC_01186"
+      ],
+      "maj": [
+        "MAA_05549"
+      ],
+      "cmt": [
+        "CCM_01639"
+      ],
+      "plj": [
+        "VFPFJ_09336"
+      ],
+      "val": [
+        "VDBG_03908"
+      ],
+      "vda": [
+        "VDAG_01137"
+      ],
+      "cfj": [
+        "CFIO01_04759"
+      ],
+      "ela": [
+        "UCREL1_6105"
+      ],
+      "pfy": [
+        "PFICI_09188"
+      ],
+      "ssl": [
+        "SS1G_09727"
+      ],
+      "bfu": [
+        "BCIN_07g06010"
+      ],
+      "mbe": [
+        "MBM_01288"
+      ],
+      "psco": [
+        "LY89DRAFT_683526"
+      ],
+      "glz": [
+        "GLAREA_02091"
+      ],
+      "ani": [
+        "AN3928.2"
+      ],
+      "afm": [
+        "AFUA_6G08360"
+      ],
+      "aor": [
+        "AO090003000090"
+      ],
+      "ang": [
+        "ANI_1_228094"
+      ],
+      "afv": [
+        "AFLA_037160"
+      ],
+      "act": [
+        "ACLA_082310"
+      ],
+      "nfi": [
+        "NFIA_054010"
+      ],
+      "pcs": [
+        "Pc22g07960"
+      ],
+      "pdp": [
+        "PDIP_32520"
+      ],
+      "cim": [
+        "CIMG_01115"
+      ],
+      "cpw": [
+        "CPC735_052570"
+      ],
+      "pbl": [
+        "PAAG_01125",
+        "PAAG_03817"
+      ],
+      "pbn": [
+        "PADG_03708"
+      ],
+      "ure": [
+        "UREG_01058"
+      ],
+      "abe": [
+        "ARB_07940"
+      ],
+      "tve": [
+        "TRV_04098"
+      ],
+      "aje": [
+        "HCAG_05915"
+      ],
+      "pno": [
+        "SNOG_05965"
+      ],
+      "pte": [
+        "PTT_08482"
+      ],
+      "bze": [
+        "COCCADRAFT_27023"
+      ],
+      "bsc": [
+        "COCSADRAFT_38262"
+      ],
+      "bor": [
+        "COCMIDRAFT_30031"
+      ],
+      "aalt": [
+        "CC77DRAFT_1021441"
+      ],
+      "ztr": [
+        "MYCGRDRAFT_44262"
+      ],
+      "pfj": [
+        "MYCFIDRAFT_211863"
+      ],
+      "bcom": [
+        "BAUCODRAFT_62660"
+      ],
+      "npa": [
+        "UCRNP2_7340"
+      ],
+      "spo": [
+        "SPBC26H8.01"
+      ],
+      "tvs": [
+        "TRAVEDRAFT_71517"
+      ],
+      "dsq": [
+        "DICSQDRAFT_134894"
+      ],
+      "pco": [
+        "PHACADRAFT_177254"
+      ],
+      "shs": [
+        "STEHIDRAFT_111603"
+      ],
+      "hir": [
+        "HETIRDRAFT_440039"
+      ],
+      "psq": [
+        "PUNSTDRAFT_42416"
+      ],
+      "adl": [
+        "AURDEDRAFT_139075"
+      ],
+      "fme": [
+        "FOMMEDRAFT_23696"
+      ],
+      "gtr": [
+        "GLOTRDRAFT_77212"
+      ],
+      "mrr": [
+        "Moror_11852"
+      ],
+      "cci": [
+        "CC1G_04976"
+      ],
+      "scm": [
+        "SCHCODRAFT_84820"
+      ],
+      "abp": [
+        "AGABI1DRAFT40074"
+      ],
+      "abv": [
+        "AGABI2DRAFT72787"
+      ],
+      "cput": [
+        "CONPUDRAFT_104209"
+      ],
+      "sla": [
+        "SERLADRAFT_470126"
+      ],
+      "wse": [
+        "WALSEDRAFT_32181"
+      ],
+      "wic": [
+        "J056_001533"
+      ],
+      "uma": [
+        "UMAG_11400"
+      ],
+      "pfp": [
+        "PFL1_06351"
+      ],
+      "mgl": [
+        "MGL_1314"
+      ],
+      "pgr": [
+        "PGTG_01304"
+      ],
+      "mlr": [
+        "MELLADRAFT_53832"
+      ],
+      "smin": [
+        "v1.2.003820.t1"
+      ],
+      "spar": [
+        "SPRG_04526"
+      ],
+      "gtt": [
+        "GUITHDRAFT_93981"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.4.2.60"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.4.2.60"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.4.2.60"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.4.2.60"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Godoi PH",
+          "Galhardo RS",
+          "Luche DD",
+          "Van Sluys MA",
+          "Menck CF",
+          "Oliva G"
+        ],
+        "title": "Structure of the thiazole biosynthetic enzyme THI1 from Arabidopsis thaliana.",
+        "journal": "J Biol Chem 281:30957-66 (2006) DOI:10.1074/jbc.M604469200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:16912043]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chatterjee A",
+          "Abeydeera ND",
+          "Bale S",
+          "Pai PJ",
+          "Dorrestein PC",
+          "Russell DH",
+          "Ealick SE",
+          "Begley TP."
+        ],
+        "title": "Saccharomyces cerevisiae THI4p is a suicide thiamine thiazole synthase.",
+        "journal": "Nature 478:542-6 (2011) DOI:10.1038/nature10503",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:22031445]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang X",
+          "Eser BE",
+          "Chanani PK",
+          "Begley TP",
+          "Ealick SE"
+        ],
+        "title": "Structural Basis for Iron-Mediated Sulfur Transfer in Archael and Yeast Thiazole Synthases.",
+        "journal": "Biochemistry 55:1826-38 (2016) DOI:10.1021/acs.biochem.6b00030",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:26919468]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

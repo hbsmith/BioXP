@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01157",
+    "name": "Agmatine amidinohydrolase",
+    "definition": "Agmatine + H2O <=> Putrescine + Urea",
+    "equation": "C00179 + C00001 <=> C00134 + C00086",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.3.11"
+    ],
+    "pathways": {
+      "rn00330": "Arginine and proline metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K01480": "agmatinase [EC:3.5.3.11]"
+    }
+  }
+]

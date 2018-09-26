@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R05475",
+    "name": "",
+    "definition": "1,1-Dichloro-2,2-bis(4-chlorophenyl)ethylene + NADH + H+ + Oxygen <=> cis-3-[2,2-Dichloro-1-(4-chlorophenyl)vinyl]-6-chlorocyclohexa-3,5-diene-1,2-diol + NAD+",
+    "equation": "C04596 + C00004 + C00080 + C00007 <=> C21859 + C00003",
+    "comment": "DDE 2,3-dioxygenase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.12.-"
+    ],
+    "pathways": {
+      "rn00621": "Dioxin degradation",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K08689": "biphenyl 2,3-dioxygenase subunit alpha [EC:1.14.12.18]",
+      "K15750": "biphenyl 2,3-dioxygenase subunit beta [EC:1.14.12.18]",
+      "K18087": "biphenyl 2,3-dioxygenase ferredoxin component",
+      "K18088": "biphenyl 2,3-dioxygenase ferredoxin reductase component [EC:1.18.1.3]"
+    }
+  }
+]

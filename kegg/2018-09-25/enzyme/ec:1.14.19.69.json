@@ -1,0 +1,360 @@
+[
+  {
+    "entry_id": "1.14.19.69",
+    "name": "biflaviolin synthase",
+    "names": [
+      "biflaviolin synthase",
+      "CYP158A2 (gene name)",
+      "cytochrome P450 158A2"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With oxidation of a pair of donors resulting in the reduction of O2 to two molecules of water"
+    ],
+    "sysname": "flaviolin,reduced ferredoxin:oxygen oxidoreductase",
+    "reaction": "(1) 2 flaviolin + 2 reduced ferredoxin [iron-sulfur] cluster + 2 H+ + O2 = 3,3'-biflaviolin + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O [RN:R08912]; (2) 2 flaviolin + 2 reduced ferredoxin [iron-sulfur] cluster + 2 H+ + O2 = 3,8'-biflaviolin + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O [RN:R08913]",
+    "all_reac": "R08912 R08913",
+    "iubmb_reactions": [
+      "R08912 R08913"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "flaviolin [CPD:C18012]",
+      "reduced ferredoxin [iron-sulfur] cluster [CPD:C00138]",
+      "H+ [CPD:C00080]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "3,3'-biflaviolin [CPD:C18013]",
+      "oxidized ferredoxin [iron-sulfur] cluster [CPD:C00139]",
+      "H2O [CPD:C00001]",
+      "3,8'-biflaviolin [CPD:C18014]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "This cytochrome-P-450 (heme-thiolate) enzyme, from the soil-dwelling bacterium Streptomyces coelicolor A3(2), catalyses a phenol oxidation C-C coupling reaction, which results in the polymerization of flaviolin to form biflaviolin or triflaviolin without the incorporation of oxygen into the product [1,3]. The products are highly conjugated pigments that protect the bacterium from the deleterious effects of UV irradiation [1].",
+    "pathways": {
+    },
+    "orthologs": {
+      "K13074": "biflaviolin synthase",
+      "K19628": "biflaviolin synthase"
+    },
+    "genes": {
+      "sco": [
+        "SCO1207",
+        "SCO6998"
+      ],
+      "sma": [
+        "SAVERM_1171",
+        "SAVERM_7130"
+      ],
+      "sgr": [
+        "SGR_6619"
+      ],
+      "sgb": [
+        "WQO_01990"
+      ],
+      "sct": [
+        "SCAT_5028"
+      ],
+      "scy": [
+        "SCATT_50200"
+      ],
+      "shy": [
+        "SHJG_2265",
+        "SHJG_2646",
+        "SHJG_6732"
+      ],
+      "sho": [
+        "SHJGH_2030",
+        "SHJGH_2410",
+        "SHJGH_6492"
+      ],
+      "sve": [
+        "SVEN_0292",
+        "SVEN_5366"
+      ],
+      "sdv": [
+        "BN159_1508",
+        "BN159_7378"
+      ],
+      "salb": [
+        "XNR_5809"
+      ],
+      "sfi": [
+        "SFUL_521"
+      ],
+      "sci": [
+        "B446_00565",
+        "B446_03420",
+        "B446_06315",
+        "B446_31265",
+        "B446_34725"
+      ],
+      "salu": [
+        "DC74_5960"
+      ],
+      "sall": [
+        "SAZ_30880"
+      ],
+      "slv": [
+        "SLIV_04255",
+        "SLIV_31760"
+      ],
+      "stre": [
+        "GZL_02841"
+      ],
+      "scw": [
+        "TU94_22195"
+      ],
+      "sld": [
+        "T261_1659"
+      ],
+      "slc": [
+        "SL103_26610"
+      ],
+      "sxi": [
+        "SXIM_50930"
+      ],
+      "samb": [
+        "SAM23877_1287"
+      ],
+      "scz": [
+        "ABE83_32955"
+      ],
+      "srw": [
+        "TUE45_00226",
+        "TUE45_01598",
+        "TUE45_06139"
+      ],
+      "sle": [
+        "sle_24290"
+      ],
+      "srn": [
+        "A4G23_00271",
+        "A4G23_05455"
+      ],
+      "spav": [
+        "Spa2297_04360"
+      ],
+      "strt": [
+        "A8713_04010",
+        "A8713_28145"
+      ],
+      "sclf": [
+        "BB341_01085"
+      ],
+      "sgs": [
+        "AVL59_15725",
+        "AVL59_25275",
+        "AVL59_31510"
+      ],
+      "sls": [
+        "SLINC_1367",
+        "SLINC_7316"
+      ],
+      "snr": [
+        "SNOUR_12205"
+      ],
+      "splu": [
+        "LK06_002085",
+        "LK06_002215"
+      ],
+      "strd": [
+        "NI25_04195",
+        "NI25_33215"
+      ],
+      "snw": [
+        "BBN63_02145"
+      ],
+      "ssia": [
+        "A7J05_03050"
+      ],
+      "svu": [
+        "B1H20_01560"
+      ],
+      "spun": [
+        "BFF78_05845",
+        "BFF78_35590"
+      ],
+      "sgv": [
+        "B1H19_32660"
+      ],
+      "slau": [
+        "SLA_0187",
+        "SLA_5576",
+        "SLA_6075"
+      ],
+      "salj": [
+        "SMD11_3073"
+      ],
+      "stro": [
+        "STRMOE7_29075"
+      ],
+      "kab": [
+        "B7C62_01385"
+      ],
+      "kau": [
+        "B6264_20370",
+        "B6264_23220"
+      ],
+      "stri": [
+        "C7M71_025595"
+      ],
+      "fri": [
+        "FraEuI1c_2477"
+      ],
+      "fsy": [
+        "FsymDg_2599"
+      ],
+      "sen": [
+        "SACE_1242"
+      ],
+      "kphy": [
+        "AOZ06_26080",
+        "AOZ06_26100"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.19.69"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.19.69"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.19.69"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.19.69"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Zhao B",
+          "Guengerich FP",
+          "Bellamine A",
+          "Lamb DC",
+          "Izumikawa M",
+          "Lei L",
+          "Podust LM",
+          "Sundaramoorthy M",
+          "Kalaitzis JA",
+          "Reddy LM",
+          "Kelly SL",
+          "Moore BS",
+          "Stec D",
+          "Voehler M",
+          "Falck JR",
+          "Shimada T",
+          "Waterman MR"
+        ],
+        "title": "Binding of two flaviolin substrate molecules, oxidative coupling, and crystal structure of Streptomyces coelicolor A3(2) cytochrome P450 158A2.",
+        "journal": "J Biol Chem 280:11599-607 (2005) DOI:10.1074/jbc.M410933200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:15659395]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhao B",
+          "Guengerich FP",
+          "Voehler M",
+          "Waterman MR"
+        ],
+        "title": "Role of active site water molecules and substrate hydroxyl groups in oxygen activation by cytochrome P450 158A2: a new mechanism of proton transfer.",
+        "journal": "J Biol Chem 280:42188-97 (2005) DOI:10.1074/jbc.M509220200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:16239228]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhao B",
+          "Lamb DC",
+          "Lei L",
+          "Kelly SL",
+          "Yuan H",
+          "Hachey DL",
+          "Waterman MR"
+        ],
+        "title": "Different binding modes of two flaviolin substrate molecules in cytochrome P450 158A1 (CYP158A1) compared to CYP158A2.",
+        "journal": "Biochemistry 46:8725-33 (2007) DOI:10.1021/bi7006959",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:17614370]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "entry_id": "C01874",
+    "name": "2-Iodophenol",
+    "names": [
+      "2-Iodophenol"
+    ],
+    "formula": "C6H5IO",
+    "exact_mass": 219.9385,
+    "mol_weight": 220.0078,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03746"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.1.1.26"
+    ],
+    "dblinks": {
+      "CAS": [
+        "533-58-4"
+      ],
+      "PubChem": [
+        "4988"
+      ],
+      "ChEBI": [
+        "16706"
+      ],
+      "ChEMBL": [
+        "CHEMBL225564"
+      ],
+      "PDB-CCD": [
+        "6X8"
+      ],
+      "3DMET": [
+        "B00363"
+      ],
+      "NIKKAJI": [
+        "J53.758F"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C8y C    21.5332  -15.4344\n            2   C8y C    22.7540  -16.1309\n            3   C8x C    20.3316  -16.1309\n            4   O1a O    21.5332  -14.0410\n            5   C8x C    22.7540  -17.5373\n            6   X   I    23.9557  -15.4279\n            7   C8x C    20.3316  -17.5373\n            8   C8x C    21.5332  -18.2466\nBOND        8\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     5   8 1\n            8     7   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C01874",
+    "name": "2-Iodophenol",
+    "names": [
+      "2-Iodophenol"
+    ],
+    "formula": "C6H5IO",
+    "exact_mass": 219.9385,
+    "mol_weight": 220.0078,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03746"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.1.1.26"
+    ],
+    "dblinks": {
+      "CAS": [
+        "533-58-4"
+      ],
+      "PubChem": [
+        "4988"
+      ],
+      "ChEBI": [
+        "16706"
+      ],
+      "ChEMBL": [
+        "CHEMBL225564"
+      ],
+      "PDB-CCD": [
+        "6X8"
+      ],
+      "3DMET": [
+        "B00363"
+      ],
+      "NIKKAJI": [
+        "J53.758F"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C8y C    21.5332  -15.4344\n            2   C8y C    22.7540  -16.1309\n            3   C8x C    20.3316  -16.1309\n            4   O1a O    21.5332  -14.0410\n            5   C8x C    22.7540  -17.5373\n            6   X   I    23.9557  -15.4279\n            7   C8x C    20.3316  -17.5373\n            8   C8x C    21.5332  -18.2466\nBOND        8\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     5   8 1\n            8     7   8 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

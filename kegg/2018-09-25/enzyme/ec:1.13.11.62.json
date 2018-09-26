@@ -1,0 +1,186 @@
+[
+  {
+    "entry_id": "1.13.11.62",
+    "name": "linoleate 10R-lipoxygenase",
+    "names": [
+      "linoleate 10R-lipoxygenase",
+      "10R-DOX",
+      "(10R)-dioxygenase",
+      "10R-dioxygenase"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on single donors with incorporation of molecular oxygen (oxygenases);",
+      "With incorporation of two atoms of oxygen"
+    ],
+    "sysname": "linoleate:oxygen (10R)-oxidoreductase",
+    "reaction": "linoleate + O2 = (8E,10R,12Z)-10-hydroperoxy-8,12-octadecadienoate [RN:R09811]",
+    "all_reac": "R09811",
+    "iubmb_reactions": [
+      "R09811"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "linoleate [CPD:C01595]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "(8E,10R,12Z)-10-hydroperoxy-8,12-octadecadienoate [CPD:C19937]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme is involved in biosynthesis of oxylipins, which affect sporulation, development, and pathogenicity of Aspergillus spp.",
+    "pathways": {
+      "ec00591": "Linoleic acid metabolism"
+    },
+    "orthologs": {
+      "K17862": "linoleate 10R-lipoxygenase"
+    },
+    "genes": {
+      "nhe": [
+        "NECHADRAFT_40259"
+      ],
+      "ani": [
+        "AN5028.2"
+      ],
+      "afm": [
+        "AFUA_3G12120",
+        "AFUA_4G00180"
+      ],
+      "aor": [
+        "AO090003000772"
+      ],
+      "ang": [
+        "ANI_1_1118024"
+      ],
+      "afv": [
+        "AFLA_030430",
+        "AFLA_120760"
+      ],
+      "act": [
+        "ACLA_039980"
+      ],
+      "nfi": [
+        "NFIA_045480",
+        "NFIA_065200"
+      ],
+      "pcs": [
+        "Pc18g00240"
+      ],
+      "cim": [
+        "CIMG_00042"
+      ],
+      "cpw": [
+        "CPC735_060720"
+      ],
+      "pbl": [
+        "PAAG_03986"
+      ],
+      "pbn": [
+        "PADG_03472"
+      ],
+      "ure": [
+        "UREG_00168"
+      ],
+      "abe": [
+        "ARB_07881"
+      ],
+      "aje": [
+        "HCAG_01100"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.13.11.62"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.13.11.62"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.13.11.62"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.13.11.62"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Garscha U",
+          "Oliw EH"
+        ],
+        "title": "Leucine/valine residues direct oxygenation of linoleic acid by (10R)- and (8R)-dioxygenases: expression and site-directed mutagenesis oF (10R)-dioxygenase with epoxyalcohol synthase activity.",
+        "journal": "J Biol Chem 284:13755-65 (2009) DOI:10.1074/jbc.M808665200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:19289462]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jerneren F",
+          "Garscha U",
+          "Hoffmann I",
+          "Hamberg M",
+          "Oliw EH"
+        ],
+        "title": "Reaction mechanism of 5,8-linoleate diol synthase, 10R-dioxygenase, and 8,11-hydroperoxide isomerase of Aspergillus clavatus.",
+        "journal": "Biochim Biophys Acta 1801:503-7 (2010) DOI:10.1016/j.bbalip.2009.12.012",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:20045744]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

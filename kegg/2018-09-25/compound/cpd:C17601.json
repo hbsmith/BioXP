@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C17601",
+    "name": "2(5H)-Furanone",
+    "names": [
+      "2(5H)-Furanone",
+      "gamma-Crotonolactone",
+      "Butenolide"
+    ],
+    "formula": "C4H4O2",
+    "exact_mass": 84.0211,
+    "mol_weight": 84.0734,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "497-23-4"
+      ],
+      "PubChem": [
+        "96023946"
+      ],
+      "ChEBI": [
+        "38118"
+      ],
+      "ChEMBL": [
+        "CHEMBL166223"
+      ],
+      "NIKKAJI": [
+        "J82.323F"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C1x C    15.0276  -27.9770\n            2   C2x C    15.5007  -29.2946\n            3   C2x C    16.9000  -29.2518\n            4   C7x C    17.2918  -27.9078\n            5   O7x O    16.1345  -27.1198\n            6   O6a O    18.6007  -27.4379\nBOND        6\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     4   6 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

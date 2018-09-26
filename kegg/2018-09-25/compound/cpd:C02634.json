@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C02634",
+    "name": "3-Chloro-D-alanine",
+    "names": [
+      "3-Chloro-D-alanine"
+    ],
+    "formula": "C3H6ClNO2",
+    "exact_mass": 123.0087,
+    "mol_weight": 123.5382,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01031"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.5.1.2"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5614"
+      ],
+      "ChEBI": [
+        "17092"
+      ],
+      "ChEMBL": [
+        "CHEMBL295666"
+      ],
+      "PDB-CCD": [
+        "C2N"
+      ],
+      "3DMET": [
+        "B00470"
+      ],
+      "NIKKAJI": [
+        "J40.080G"
+      ]
+    },
+    "kcf": "ATOM        7\n            1   O6a O    29.6800  -17.5000\n            2   C6a C    30.8700  -16.8000\n            3   C1c C    32.1300  -17.5000\n            4   C1b C    33.3200  -16.8000\n            5   X   Cl   34.5100  -17.5000\n            6   O6a O    30.8700  -15.4000\n            7   N1a N    32.1300  -18.9000\nBOND        6\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     2   6 2\n            6     3   7 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

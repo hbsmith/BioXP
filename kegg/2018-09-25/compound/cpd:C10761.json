@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C10761",
+    "name": "p-Anisaldehyde",
+    "names": [
+      "p-Anisaldehyde"
+    ],
+    "formula": "C8H8O2",
+    "exact_mass": 136.0524,
+    "mol_weight": 136.1479,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "123-11-5"
+      ],
+      "PubChem": [
+        "12944"
+      ],
+      "ChEBI": [
+        "28235"
+      ],
+      "ChEMBL": [
+        "CHEMBL161598"
+      ],
+      "KNApSAcK": [
+        "C00002636"
+      ],
+      "3DMET": [
+        "B04114"
+      ],
+      "NIKKAJI": [
+        "J3.618H"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    28.0222  -20.9516\n            2   C8x C    29.2495  -20.2732\n            3   C8x C    29.2768  -18.8712\n            4   C8y C    28.0803  -18.1538\n            5   C8x C    26.7830  -18.8251\n            6   C8x C    26.8223  -20.2208\n            7   C4a C    28.0380  -16.7543\n            8   O4a O    26.9089  -16.0271\n            9   O2a O    27.9927  -22.3509\n            10  C1a C    29.1909  -23.0727\nBOND        10\n            1     4   5 1\n            2     5   6 2\n            3     6   1 1\n            4     4   7 1\n            5     1   2 2\n            6     7   8 2\n            7     2   3 1\n            8     1   9 1\n            9     3   4 2\n            10    9  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

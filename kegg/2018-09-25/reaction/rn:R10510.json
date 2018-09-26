@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10510",
+    "name": "protoheme,hydrogen-donor:oxygen oxidoreductase (beta-methene-oxidizing, hydroxylating)",
+    "definition": "Heme + 5 Reduced acceptor + 4 Oxygen <=> 15-Oxo-beta-bilirubin + Fe2+ + Formaldehyde + 5 Acceptor + 4 H2O",
+    "equation": "C00032 + 5 C00030 + 4 C00007 <=> C20667 + C14818 + C00067 + 5 C00028 + 4 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.48"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K07145": "heme oxygenase (staphylobilin-producing) [EC:1.14.99.48]"
+    }
+  }
+]

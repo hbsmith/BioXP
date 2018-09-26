@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02695",
+    "name": "4-Hydroxyphenylacetaldehyde:NAD+ oxidoreductase",
+    "definition": "4-Hydroxyphenylacetaldehyde + NAD+ + H2O <=> 4-Hydroxyphenylacetate + NADH + H+",
+    "equation": "C03765 + C00003 + C00001 <=> C00642 + C00004 + C00080",
+    "comment": "see R02697 (NADPH)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.5",
+      "1.2.1.29",
+      "1.2.1.53"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism"
+    },
+    "orthologs": {
+      "K00129": "aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]"
+    }
+  }
+]

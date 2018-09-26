@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R12049",
+    "name": "",
+    "definition": "Anthraniloyl-CoA + 2 Malonyl-CoA <=> 2-Methylquinolin-4-ol + 3 CO2 + 3 CoA",
+    "equation": "C02247 + 2 C00083 <=> C21873 + 3 C00011 + 3 C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.-"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K02078": "acyl carrier protein",
+      "K14245": "PKS ketosynthase (KS/KS alpha) [EC:2.3.1.-]",
+      "K14246": "PKS chain-length factor (CLF/KS beta) [EC:2.3.1.-]",
+      "K22798": "anthranilate-CoA-ACP transferase [EC:6.2.1.-]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10531",
+    "name": "ATP phosphohydrolase (tungstate-importing)",
+    "definition": "ATP + H2O + Tungstate <=> ADP + Orthophosphate + Tungstate",
+    "equation": "C00002 + C00001 + C20679 <=> C00008 + C00009 + C20679",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.3.55"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K06857": "tungstate transport system ATP-binding protein [EC:3.6.3.55]",
+      "K15497": "molybdate/tungstate transport system ATP-binding protein [EC:3.6.3.- 3.6.3.55]"
+    }
+  }
+]

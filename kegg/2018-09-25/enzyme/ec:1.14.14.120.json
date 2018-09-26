@@ -1,0 +1,107 @@
+[
+  {
+    "entry_id": "1.14.14.120",
+    "name": "dammarenediol 12-hydroxylase",
+    "names": [
+      "dammarenediol 12-hydroxylase",
+      "protopanaxadiol synthase",
+      "CYP716A47"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "dammarenediol-II,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (12beta-hydroxylating)",
+    "reaction": "dammarenediol-II + [reduced NADPH---hemoprotein reductase] + O2 = protopanaxadiol + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R10540]",
+    "all_reac": "R10540",
+    "iubmb_reactions": [
+      "R10540"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "dammarenediol II [CPD:C19829]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "protopanaxadiol [CPD:C20715]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein isolated from ginseng (Panax ginseng). Involved in the biosynthetic pathway of ginsenosides.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K20545": "dammarenediol 12-hydroxylase"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.120"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.120"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.120"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.120"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Han JY",
+          "Kim HJ",
+          "Kwon YS",
+          "Choi YE"
+        ],
+        "title": "The Cyt P450 enzyme CYP716A47 catalyzes the formation of protopanaxadiol from dammarenediol-II during ginsenoside biosynthesis in Panax ginseng.",
+        "journal": "Plant Cell Physiol 52:2062-73 (2011) DOI:10.1093/pcp/pcr150",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:22039120]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

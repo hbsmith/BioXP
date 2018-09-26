@@ -1,0 +1,81 @@
+[
+  {
+    "entry_id": "C05690",
+    "name": "Se-Methylselenomethionine",
+    "names": [
+      "Se-Methylselenomethionine"
+    ],
+    "formula": "C6H14NO2Se",
+    "exact_mass": 212.019,
+    "mol_weight": 211.1409,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04772"
+    ],
+    "pathways": {
+      "map00450": "Selenocompound metabolism"
+    },
+    "enzymes": [
+      "2.1.1.12"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7997"
+      ],
+      "3DMET": [
+        "B05097"
+      ],
+      "NIKKAJI": [
+        "J1.656.498B"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1c C    30.0300  -25.3400\n            2   C1b C    31.2900  -24.6400\n            3   C6a C    28.8400  -24.6400\n            4   N1a N    30.0300  -26.7400\n            5   C1b C    32.4800  -25.3400\n            6   O6a O    27.6500  -25.3400\n            7   O6a O    28.8400  -23.2400\n            8   Z   Se   33.6700  -24.6400 #+\n            9   C1a C    34.9300  -25.3400\n            10  C1a C    33.6700  -23.2400\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     2   5 1\n            5     3   6 1\n            6     3   7 2\n            7     5   8 1\n            8     8   9 1\n            9     8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C05690",
+    "name": "Se-Methylselenomethionine",
+    "names": [
+      "Se-Methylselenomethionine"
+    ],
+    "formula": "C6H14NO2Se",
+    "exact_mass": 212.019,
+    "mol_weight": 211.1409,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04772"
+    ],
+    "pathways": {
+      "map00450": "Selenocompound metabolism"
+    },
+    "enzymes": [
+      "2.1.1.12"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7997"
+      ],
+      "3DMET": [
+        "B05097"
+      ],
+      "NIKKAJI": [
+        "J1.656.498B"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1c C    30.0300  -25.3400\n            2   C1b C    31.2900  -24.6400\n            3   C6a C    28.8400  -24.6400\n            4   N1a N    30.0300  -26.7400\n            5   C1b C    32.4800  -25.3400\n            6   O6a O    27.6500  -25.3400\n            7   O6a O    28.8400  -23.2400\n            8   Z   Se   33.6700  -24.6400 #+\n            9   C1a C    34.9300  -25.3400\n            10  C1a C    33.6700  -23.2400\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     2   5 1\n            5     3   6 1\n            6     3   7 2\n            7     5   8 1\n            8     8   9 1\n            9     8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

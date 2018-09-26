@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R05874",
+    "name": "",
+    "definition": "19-epi-Cathenamine + NADPH + H+ <=> 19-epi-Ajmalicine + NADP+",
+    "equation": "C11681 + C00005 + C00080 <=> C11683 + C00006",
+    "comment": "cathenamine reductase",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

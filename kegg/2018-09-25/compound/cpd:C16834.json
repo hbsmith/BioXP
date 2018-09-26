@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C16834",
+    "name": "1-Pentanol",
+    "names": [
+      "1-Pentanol"
+    ],
+    "formula": "C5H12O",
+    "exact_mass": 88.0888,
+    "mol_weight": 88.1482,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08220"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.1.1"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "96023358"
+      ],
+      "ChEBI": [
+        "44884"
+      ],
+      "ChEMBL": [
+        "CHEMBL14568"
+      ],
+      "KNApSAcK": [
+        "C00035784"
+      ],
+      "PDB-CCD": [
+        "PE9"
+      ],
+      "NIKKAJI": [
+        "J1.423K"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   O1a O    17.5000  -16.1000\n            2   C1b C    18.7124  -15.4000\n            3   C1b C    19.9249  -16.1000\n            4   C1b C    21.1373  -15.4000\n            5   C1b C    22.3497  -16.1000\n            6   C1a C    23.5622  -15.4000\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

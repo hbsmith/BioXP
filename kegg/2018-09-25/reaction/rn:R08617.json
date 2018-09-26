@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08617",
+    "name": "D-glucose-6-phosphate phosphate-lyase (2-deoxy-scyllo-inosose-forming)",
+    "definition": "D-Glucose 6-phosphate <=> 2-Deoxy-scyllo-inosose + Orthophosphate",
+    "equation": "C00092 <=> C17209 + C00009",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.124"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13546": "2-deoxy-scyllo-inosose synthase [EC:4.2.3.124]"
+    }
+  }
+]

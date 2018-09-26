@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02289",
+    "name": "5-methyltetrahydrofolate:corrinoid/iron-sulfur protein methyltransferase",
+    "definition": "5-Methyltetrahydrofolate + Co(I) corrinoid protein + H+ <=> Methyl-Co(III) corrinoid protein + Tetrahydrofolate",
+    "equation": "C00440 + C06021 + C00080 <=> C06020 + C00101",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.258"
+    ],
+    "pathways": {
+      "rn00720": "Carbon fixation pathways in prokaryotes",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K15023": "5-methyltetrahydrofolate corrinoid/iron sulfur protein methyltransferase [EC:2.1.1.258]"
+    }
+  }
+]

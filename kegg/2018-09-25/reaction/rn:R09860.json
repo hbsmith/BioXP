@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R09860",
+    "name": "androsta-1,4-diene-3,17-dione,[reduced ferredoxin]:oxygen oxidoreductase (9alpha-hydroxylating)",
+    "definition": "Androsta-1,4-diene-3,17-dione + 2 Reduced ferredoxin + 2 H+ + Oxygen <=> 9alpha-Hydroxyandrosta-1,4-diene-3,17-dione + 2 Oxidized ferredoxin + H2O",
+    "equation": "C20144 + 2 C00138 + 2 C00080 + C00007 <=> C14909 + 2 C00139 + C00001",
+    "comment": "subsequently R09885",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.30"
+    ],
+    "pathways": {
+      "rn00984": "Steroid degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K15982": "3-ketosteroid 9alpha-monooxygenase subunit A [EC:1.14.15.30]",
+      "K15983": "3-ketosteroid 9alpha-monooxygenase subunit B [EC:1.14.15.30]"
+    }
+  }
+]

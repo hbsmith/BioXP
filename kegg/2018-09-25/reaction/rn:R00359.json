@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00359",
+    "name": "D-Aspartate:oxygen oxidoreductase (deaminating)",
+    "definition": "D-Aspartate + H2O + Oxygen <=> Oxaloacetate + Ammonia + Hydrogen peroxide",
+    "equation": "C00402 + C00001 + C00007 <=> C00036 + C00014 + C00027",
+    "comment": "see R00357",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.1",
+      "1.4.3.15"
+    ],
+    "pathways": {
+      "rn00250": "Alanine, aspartate and glutamate metabolism"
+    },
+    "orthologs": {
+      "K00272": "D-aspartate oxidase [EC:1.4.3.1]"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "R10205",
+    "name": "5-phospho-alpha-D-ribose 1,2-cyclic phosphate 2-phosphohydrolase (alpha-D-ribose 1,5-bisphosphate-forming)",
+    "definition": "alpha-D-Ribose 1,2-cyclic phosphate 5-phosphate + H2O <=> D-Ribose 1,5-bisphosphate",
+    "equation": "C20440 + C00001 <=> C01151",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.4.55"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism"
+    },
+    "orthologs": {
+      "K06167": "phosphoribosyl 1,2-cyclic phosphate phosphodiesterase [EC:3.1.4.55]"
+    }
+  }
+][
+  {
+    "entry_id": "R10205",
+    "name": "5-phospho-alpha-D-ribose 1,2-cyclic phosphate 2-phosphohydrolase (alpha-D-ribose 1,5-bisphosphate-forming)",
+    "definition": "alpha-D-Ribose 1,2-cyclic phosphate 5-phosphate + H2O <=> D-Ribose 1,5-bisphosphate",
+    "equation": "C20440 + C00001 <=> C01151",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.4.55"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism"
+    },
+    "orthologs": {
+      "K06167": "phosphoribosyl 1,2-cyclic phosphate phosphodiesterase [EC:3.1.4.55]"
+    }
+  }
+]

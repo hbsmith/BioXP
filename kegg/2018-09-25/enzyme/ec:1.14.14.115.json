@@ -1,0 +1,128 @@
+[
+  {
+    "entry_id": "1.14.14.115",
+    "name": "11-oxo-beta-amyrin 30-oxidase",
+    "names": [
+      "11-oxo-beta-amyrin 30-oxidase",
+      "CYP72A",
+      "CYP72A154",
+      "11-oxo-beta-amyrin 30-monooxygenase"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "11-oxo-beta-amyrin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (30-hydroxylating)",
+    "reaction": "11-oxo-beta-amyrin + 3 O2 + 3 [reduced NADPH---hemoprotein reductase] = glycyrrhetinate + 3 [oxidized NADPH---hemoprotein reductase] + 4 H2O (overall reaction) [RN:R10316]; (1a) 11-oxo-beta-amyrin + O2 + [reduced NADPH---hemoprotein reductase] = 30-hydroxy-11-oxo-beta-amyrin + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R10313]; (1b) 30-hydroxy-11-oxo-beta-amyrin + O2 + [reduced NADPH---hemoprotein reductase] = glycyrrhetaldehyde + [oxidized NADPH---hemoprotein reductase] + 2 H2O [RN:R10314]; (1c) glycyrrhetaldehyde + O2 + [reduced NADPH---hemoprotein reductase] = glycyrrhetinate + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R10315]",
+    "all_reac": "R10313 R10314 R10315 R10316",
+    "iubmb_reactions": [
+      "R10313 R10314 R10315 R10316"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "11-oxo-beta-amyrin [CPD:C19943]",
+      "O2 [CPD:C00007]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "30-hydroxy-11-oxo-beta-amyrin [CPD:C20510]",
+      "glycyrrhetaldehyde [CPD:C20511]"
+    ],
+    "products": [
+      "glycyrrhetinate [CPD:C02283]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]",
+      "30-hydroxy-11-oxo-beta-amyrin [CPD:C20510]",
+      "glycyrrhetaldehyde [CPD:C20511]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein. The enzyme from the plant Glycyrrhiza uralensis (licorice) is involved in the biosynthesis of the triterpenoid saponin glycyrrhizin. The enzyme from the plant Medicago truncatula can also hydroxylate beta-amyrin.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K17873": "11-oxo-beta-amyrin 30-oxidase"
+    },
+    "genes": {
+      "mtr": [
+        "MTR_8g042000",
+        "MTR_8g042020",
+        "MTR_8g042040",
+        "MTR_8g042060"
+      ],
+      "cam": [
+        "101495615"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.115"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.115"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.115"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.115"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Seki H",
+          "Sawai S",
+          "Ohyama K",
+          "Mizutani M",
+          "Ohnishi T",
+          "Sudo H",
+          "Fukushima EO",
+          "Akashi T",
+          "Aoki T",
+          "Saito K",
+          "Muranaka T"
+        ],
+        "title": "Triterpene functional genomics in licorice for identification of CYP72A154 involved in the biosynthesis of glycyrrhizin.",
+        "journal": "Plant Cell 23:4112-23 (2011) DOI:10.1105/tpc.110.082685",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:22128119]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

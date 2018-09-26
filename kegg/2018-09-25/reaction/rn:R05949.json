@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R05949",
+    "name": "",
+    "definition": "CMP-N-acetylneuraminate + GD1b <=> CMP + GT1b",
+    "equation": "G10616 + G00115 <=> G10621 + G00116",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.99.4"
+    ],
+    "pathways": {
+      "rn00604": "Glycosphingolipid biosynthesis - ganglio series",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00780": "beta-galactoside alpha-2,3-sialyltransferase (sialyltransferase 4A) [EC:2.4.99.4]",
+      "K03368": "beta-galactoside alpha-2,3-sialyltransferase (sialyltransferase 4B) [EC:2.4.99.4]"
+    }
+  }
+][
+  {
+    "entry_id": "R05949",
+    "name": "",
+    "definition": "CMP-N-acetylneuraminate + GD1b <=> CMP + GT1b",
+    "equation": "G10616 + G00115 <=> G10621 + G00116",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.99.4"
+    ],
+    "pathways": {
+      "rn00604": "Glycosphingolipid biosynthesis - ganglio series",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00780": "beta-galactoside alpha-2,3-sialyltransferase (sialyltransferase 4A) [EC:2.4.99.4]",
+      "K03368": "beta-galactoside alpha-2,3-sialyltransferase (sialyltransferase 4B) [EC:2.4.99.4]"
+    }
+  }
+]

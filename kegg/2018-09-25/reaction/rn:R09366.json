@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09366",
+    "name": "Se-methyl-L-selenocysteine methaneselenol-lyase (deaminating; pyruvate-forming)",
+    "definition": "Se-Methyl-L-selenocysteine + H2O <=> Pyruvate + Ammonia + Methaneselenol",
+    "equation": "C05689 + C00001 <=> C00022 + C00014 + C05703",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.1",
+      "4.4.1.13"
+    ],
+    "pathways": {
+      "rn00450": "Selenocompound metabolism"
+    },
+    "orthologs": {
+      "K00816": "kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase [EC:2.6.1.7 4.4.1.13 2.6.1.64]",
+      "K01758": "cystathionine gamma-lyase [EC:4.4.1.1]"
+    }
+  }
+]

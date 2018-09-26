@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C13697",
+    "name": "Fenamic acid",
+    "names": [
+      "Fenamic acid",
+      "Diphenylamine-2-carboxylic acid",
+      "DPC"
+    ],
+    "formula": "C13H11NO2",
+    "exact_mass": 213.079,
+    "mol_weight": 213.2319,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "91-40-7"
+      ],
+      "PubChem": [
+        "586286"
+      ],
+      "ChEBI": [
+        "34756"
+      ],
+      "ChEMBL": [
+        "CHEMBL23832"
+      ],
+      "NIKKAJI": [
+        "J4.339G"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8x C    21.1943  -15.7515\n            2   C8x C    21.1943  -17.1535\n            3   C8x C    22.4114  -17.8545\n            4   C8y C    23.6213  -17.1535\n            5   C8x C    23.6213  -15.7515\n            6   C8x C    22.4114  -15.0506\n            7   N1b N    24.8267  -17.8474\n            8   C8y C    26.0375  -17.1464\n            9   C8y C    27.2500  -17.8445\n            10  C8x C    28.4608  -17.1435\n            11  C8x C    28.4591  -15.7444\n            12  C8x C    27.2466  -15.0463\n            13  C8x C    26.0358  -15.7473\n            14  C6a C    27.2517  -19.2465\n            15  O6a O    26.0383  -19.9488\n            16  O6a O    28.4667  -19.9459\nBOND        17\n            1     7   8 1\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     6   1 1\n            7     8   9 2\n            8     9  10 1\n            9    10  11 2\n            10   11  12 1\n            11   12  13 2\n            12   13   8 1\n            13    9  14 1\n            14    4   7 1\n            15   14  15 1\n            16    1   2 2\n            17   14  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

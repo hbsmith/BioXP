@@ -1,0 +1,35 @@
+[
+  {
+    "entry_id": "R11986",
+    "name": "",
+    "definition": "ent-Cassa-12,15-diene-2beta,3beta-diol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> ent-3beta-Hydroxycassa-12,15-dien-2-one + [Oxidized NADPH---hemoprotein reductase] + 2 H2O",
+    "equation": "C21829 + C03024 + C00007 <=> C21826 + C03161 + 2 C00001",
+    "comment": "the last step of three-step reaction (see R11981, R11982+R11985+R11986)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.69"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+][
+  {
+    "entry_id": "R11986",
+    "name": "",
+    "definition": "ent-Cassa-12,15-diene-2beta,3beta-diol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> ent-3beta-Hydroxycassa-12,15-dien-2-one + [Oxidized NADPH---hemoprotein reductase] + 2 H2O",
+    "equation": "C21829 + C03024 + C00007 <=> C21826 + C03161 + 2 C00001",
+    "comment": "the last step of three-step reaction (see R11981, R11982+R11985+R11986)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.69"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "entry_id": "C02476",
+    "name": "alpha-L-Rhamnose",
+    "names": [
+      "alpha-L-Rhamnose",
+      "alpha-6-Deoxy-L-mannose",
+      "alpha-L-Mannomethylose",
+      "alpha-L-Rhamnopyranose"
+    ],
+    "formula": "C6H12O5",
+    "exact_mass": 164.0685,
+    "mol_weight": 164.1565,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10819"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "5.1.3.32"
+    ],
+    "dblinks": {
+      "CAS": [
+        "6014-42-2"
+      ],
+      "PubChem": [
+        "5491"
+      ],
+      "ChEBI": [
+        "27907"
+      ],
+      "KNApSAcK": [
+        "C00001129"
+      ],
+      "PDB-CCD": [
+        "RAM"
+      ],
+      "NIKKAJI": [
+        "J510.098D"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1y C    22.1142  -16.8911\n            2   C1y C    20.9086  -16.1889\n            3   C1y C    23.3372  -16.1889\n            4   O1a O    22.1142  -18.2956\n            5   C1y C    20.9086  -14.8020\n            6   O1a O    19.6915  -16.8911\n            7   C1y C    23.3372  -14.8020\n            8   O1a O    24.5485  -16.8911\n            9   O2x O    22.1142  -14.0997\n            10  C1a C    19.6915  -14.0997\n            11  O1a O    24.5485  -14.0997\nBOND        11\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     2   5 1\n            5     2   6 1 #Up\n            6     3   7 1\n            7     3   8 1 #Down\n            8     5   9 1\n            9     5  10 1 #Down\n            10    7  11 1 #Up\n            11    7   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

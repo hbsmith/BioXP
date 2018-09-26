@@ -1,0 +1,57 @@
+[
+  {
+    "entry_id": "C00966",
+    "name": "2-Dehydropantoate",
+    "names": [
+      "2-Dehydropantoate"
+    ],
+    "formula": "C6H10O4",
+    "exact_mass": 146.0579,
+    "mol_weight": 146.1412,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01216",
+      "R01226",
+      "R02472"
+    ],
+    "pathways": {
+      "map00770": "Pantothenate and CoA biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.1.1.169",
+      "2.1.2.11",
+      "4.1.2.12"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4217"
+      ],
+      "ChEBI": [
+        "11561",
+        "17094"
+      ],
+      "KNApSAcK": [
+        "C00007477"
+      ],
+      "PDB-CCD": [
+        "KPL"
+      ],
+      "3DMET": [
+        "B01362"
+      ],
+      "NIKKAJI": [
+        "J934.784D"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   O1a O    18.1524  -14.0000\n            2   C1b C    19.3649  -14.7000\n            3   C1d C    20.5773  -14.0000\n            4   C5a C    21.7897  -14.7000\n            5   C6a C    23.0022  -14.0000\n            6   O6a O    24.2146  -14.7000\n            7   O5a O    21.7897  -16.0999\n            8   O6a O    23.0022  -12.6003\n            9   C1a C    21.4973  -12.8701\n            10  C1a C    19.7260  -12.8906\nBOND        9\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     4   7 2\n            7     5   8 2\n            8     3   9 1\n            9     3  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

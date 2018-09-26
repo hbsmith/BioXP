@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10470",
+    "name": "O-ureido-D-serine cyclo-ligase (D-cycloserine-forming)",
+    "definition": "O-Ureido-D-serine + ATP + H2O <=> Cycloserine + CO2 + Ammonia + ADP + Orthophosphate",
+    "equation": "C20651 + C00002 + C00001 <=> C08057 + C00011 + C00014 + C00008 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.3.3.5"
+    ],
+    "pathways": {
+      "rn00999": "Biosynthesis of secondary metabolites - unclassified",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K19727": "O-ureido-D-serine cyclo-ligase [EC:6.3.3.5]"
+    }
+  }
+]

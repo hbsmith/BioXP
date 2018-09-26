@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11468",
+    "name": "dTDP-4-amino-4,6-dideoxy-D-glucose:reduced-ferredoxin:oxygen oxidoreductase",
+    "definition": "dTDP-4-amino-4,6-dideoxy-D-glucose + Reduced ferredoxin + Oxygen <=> dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose + Oxidized ferredoxin + H2O",
+    "equation": "C04268 + C00138 + C00007 <=> C21348 + C00139 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.-"
+    ],
+    "pathways": {
+      "rn00523": "Polyketide sugar unit biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21329": "aminosugar N-oxygenase [EC:1.14.15.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R11468",
+    "name": "dTDP-4-amino-4,6-dideoxy-D-glucose:reduced-ferredoxin:oxygen oxidoreductase",
+    "definition": "dTDP-4-amino-4,6-dideoxy-D-glucose + Reduced ferredoxin + Oxygen <=> dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose + Oxidized ferredoxin + H2O",
+    "equation": "C04268 + C00138 + C00007 <=> C21348 + C00139 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.15.-"
+    ],
+    "pathways": {
+      "rn00523": "Polyketide sugar unit biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21329": "aminosugar N-oxygenase [EC:1.14.15.-]"
+    }
+  }
+]

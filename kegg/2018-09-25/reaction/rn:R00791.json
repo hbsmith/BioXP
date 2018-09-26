@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R00791",
+    "name": "nitrite:ferredoxin oxidoreductase",
+    "definition": "Nitrite + H2O + 2 Oxidized ferredoxin <=> Nitrate + 2 Reduced ferredoxin",
+    "equation": "C00088 + C00001 + 2 C00139 <=> C00244 + 2 C00138",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.7.2"
+    ],
+    "pathways": {
+      "rn00910": "Nitrogen metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00367": "ferredoxin-nitrate reductase [EC:1.7.7.2]"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10016",
+    "name": "trimethylamine:[Co(I) corrinoid protein] Co-methyltransferase",
+    "definition": "Trimethylamine + Co(I) corrinoid protein <=> Dimethylamine + Methyl-Co(III) corrinoid protein",
+    "equation": "C00565 + C06021 <=> C00543 + C06020",
+    "comment": "subsequently R10000 specific for trimethylamine corrinoid protein [KO:K14084]",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.250"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K14083": "trimethylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.250]"
+    }
+  }
+]

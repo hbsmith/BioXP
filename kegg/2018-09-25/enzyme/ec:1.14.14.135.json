@@ -1,0 +1,108 @@
+[
+  {
+    "entry_id": "1.14.14.135",
+    "name": "glyceollin synthase",
+    "names": [
+      "glyceollin synthase",
+      "dimethylallyl-3,6a,9-trihydroxypterocarpan cyclase"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "2-dimethylallyl-(6aS,11aS)-3,6a,9-trihydroxypterocarpan,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (cyclizing)",
+    "reaction": "(1) 2-dimethylallyl-(6aS,11aS)-3,6a,9-trihydroxypterocarpan + [reduced NADPH---hemoprotein reductase] + O2 = glyceollin II + [oxidized NADPH---hemoprotein reductase] + 2 H2O [RN:R07195]; (2) 2-dimethylallyl-(6aS,11aS)-3,6a,9-trihydroxypterocarpan + [reduced NADPH---hemoprotein reductase] + O2 = glyceollin III + [oxidized NADPH---hemoprotein reductase] + 2 H2O [RN:R07196]; (3) 4-dimethylallyl-(6aS,11aS)-3,6a,9-trihydroxypterocarpan + [reduced NADPH---hemoprotein reductase] + O2 = glyceollin I + [oxidized NADPH---hemoprotein reductase] + 2 H2O [RN:R07197]",
+    "all_reac": "R07195 R07196 R07197; (other) R07356 R07357",
+    "iubmb_reactions": [
+      "R07195 R07196 R07197"
+    ],
+    "kegg_reactions": [
+      "R07356 R07357"
+    ],
+    "substrates": [
+      "2-dimethylallyl-(6aS,11aS)-3,6a,9-trihydroxypterocarpan [CPD:C15509]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]",
+      "4-dimethylallyl-(6aS,11aS)-3,6a,9-trihydroxypterocarpan [CPD:C15510]"
+    ],
+    "products": [
+      "glyceollin II",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]",
+      "glyceollin III [CPD:C15511]",
+      "glyceollin I"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein purified from soybean.",
+    "pathways": {
+      "ec00943": "Isoflavonoid biosynthesis",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.135"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.135"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.135"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.135"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Welle R",
+          "Grisebach H."
+        ],
+        "title": "Induction of phytoalexin synthesis in soybean: enzymatic cyclization of prenylated pterocarpans to glyceollin isomers.",
+        "journal": "Arch Biochem Biophys 263:191-8 (1988) DOI:10.1016/0003-9861(88)90627-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:3369863]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

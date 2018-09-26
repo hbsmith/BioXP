@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R00568",
+    "name": "CTP aminohydrolase",
+    "definition": "CTP + H2O <=> UTP + Ammonia",
+    "equation": "C00063 + C00001 <=> C00075 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.4.13"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+      "K01494": "dCTP deaminase [EC:3.5.4.13]"
+    }
+  }
+]

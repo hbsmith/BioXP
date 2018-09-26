@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02911",
+    "name": "acetyl-CoA:aralkylamine N-acetyltransferase",
+    "definition": "Acetyl-CoA + Serotonin <=> CoA + N-Acetylserotonin",
+    "equation": "C00024 + C00780 <=> C00010 + C00978",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.87"
+    ],
+    "pathways": {
+      "rn00380": "Tryptophan metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00669": "arylalkylamine N-acetyltransferase [EC:2.3.1.87]",
+      "K22450": "aralkylamine N-acetyltransferase [EC:2.3.1.87]"
+    }
+  }
+]

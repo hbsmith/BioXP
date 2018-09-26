@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C20897",
+    "name": "Glycerophosphoglycoglycerolipid",
+    "names": [
+      "Glycerophosphoglycoglycerolipid",
+      "(sn-Gro-1-P)->6Glc-alpha1->2Glc-alpha1->3acyl2Gro",
+      "(sn-Gro-1-P)->6Glcalpha1->2Glcalpha1->3acyl2Gro",
+      "1,2-Diacyl-3-[6''-(sn-glycero-1-phospho-)-alpha-D-kojibiosyl]-sn-glycerol"
+    ],
+    "formula": "C20H33O20PR2",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R10849",
+      "R10864"
+    ],
+    "pathways": {
+      "map00561": "Glycerolipid metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "2.7.8.20"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741360"
+      ]
+    },
+    "kcf": "ATOM        43\n            1   C1y C    21.7700  -20.6500\n            2   C1y C    23.0300  -21.2800\n            3   C1y C    24.2200  -20.6500\n            4   C1y C    24.2200  -19.1800\n            5   C1y C    23.0300  -18.4800\n            6   O2x O    21.7700  -19.2500\n            7   C1b C    20.6500  -21.3500\n            8   O1a O    25.4800  -21.2800\n            9   O1a O    23.1000  -22.6800\n            10  O1a O    25.4100  -18.4800\n            11  C1y C    19.3900  -14.9800\n            12  C1y C    19.3900  -16.3800\n            13  C1y C    20.5800  -17.0800\n            14  C1y C    21.8400  -16.3800\n            15  C1y C    21.8400  -14.9800\n            16  O2x O    20.5800  -14.2800\n            17  C1b C    18.2000  -14.2800\n            18  O1a O    20.5800  -18.4800\n            19  O1a O    18.2000  -17.0800\n            20  O2a O    23.0300  -14.2800\n            21  O2a O    23.0300  -17.0800\n            22  O1a O    17.0100  -14.9800\n            23  C1b C    24.2200  -14.9800\n            24  C1c C    25.4800  -14.2800\n            25  C1b C    26.6700  -14.9800\n            26  O7a O    27.8600  -14.2800\n            27  C7a C    29.1200  -14.9800\n            28  R   R    30.3100  -14.2800\n            29  O7a O    25.4800  -12.8800\n            30  C7a C    26.6700  -12.1800\n            31  R   R    27.8600  -12.8800\n            32  O6a O    26.6700  -10.7800\n            33  O6a O    29.1200  -16.3800\n            34  O2b O    19.3900  -20.7200\n            35  P1b P    17.9900  -20.7200\n            36  O1c O    17.9900  -19.3200\n            37  O1c O    17.9900  -22.1200\n            38  O2b O    16.5200  -20.7200\n            39  C1b C    15.3300  -21.4200\n            40  C1c C    14.0700  -20.7200\n            41  C1b C    12.8800  -21.4200\n            42  O1a O    11.6900  -20.7200\n            43  O1a O    14.0700  -19.3200\nBOND        44\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     1   7 1 #Up\n            8     3   8 1 #Up\n            9     2   9 1 #Down\n            10    4  10 1 #Down\n            11   11  12 1\n            12   12  13 1\n            13   13  14 1\n            14   14  15 1\n            15   15  16 1\n            16   11  16 1\n            17   11  17 1 #Up\n            18   13  18 1 #Up\n            19   12  19 1 #Down\n            20   15  20 1 #Down\n            21   14  21 1 #Down\n            22    5  21 1 #Down\n            23   17  22 1\n            24   20  23 1\n            25   23  24 1\n            26   24  25 1\n            27   25  26 1\n            28   26  27 1\n            29   27  28 1\n            30   24  29 1 #Down\n            31   29  30 1\n            32   30  31 1\n            33   30  32 2\n            34   27  33 2\n            35    7  34 1\n            36   34  35 1\n            37   35  36 2\n            38   35  37 1\n            39   38  39 1\n            40   39  40 1\n            41   40  43 1 #Down\n            42   35  38 1\n            43   40  41 1\n            44   41  42 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

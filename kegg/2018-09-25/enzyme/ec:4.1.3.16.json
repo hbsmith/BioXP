@@ -1,0 +1,1003 @@
+[
+  {
+    "entry_id": "4.1.3.16",
+    "name": "4-hydroxy-2-oxoglutarate aldolase",
+    "names": [
+      "4-hydroxy-2-oxoglutarate aldolase",
+      "2-oxo-4-hydroxyglutarate aldolase",
+      "hydroxyketoglutaric aldolase",
+      "4-hydroxy-2-ketoglutaric aldolase",
+      "2-keto-4-hydroxyglutaric aldolase",
+      "4-hydroxy-2-ketoglutarate aldolase",
+      "2-keto-4-hydroxyglutarate aldolase",
+      "2-oxo-4-hydroxyglutaric aldolase",
+      "DL-4-hydroxy-2-ketoglutarate aldolase",
+      "hydroxyketoglutarate aldolase",
+      "2-keto-4-hydroxybutyrate aldolase",
+      "4-hydroxy-2-oxoglutarate glyoxylate-lyase",
+      "KHGA"
+    ],
+    "classes": [
+      "Lyases;",
+      "Carbon-carbon lyases;",
+      "Oxo-acid-lyases"
+    ],
+    "sysname": "4-hydroxy-2-oxoglutarate glyoxylate-lyase (pyruvate-forming)",
+    "reaction": "4-hydroxy-2-oxoglutarate = pyruvate + glyoxylate [RN:R00470]",
+    "all_reac": "R00470 > R00471 R10283",
+    "iubmb_reactions": [
+      "R00470 > R00471 R10283"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "4-hydroxy-2-oxoglutarate [CPD:C01127]"
+    ],
+    "products": [
+      "pyruvate [CPD:C00022]",
+      "glyoxylate [CPD:C00048]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzymes from rat liver and bovine liver act on both enantiomers of 4-hydroxy-2-oxoglutarate. cf. EC 4.1.3.42, (4S)-4-hydroxy-2-oxoglutarate aldolase.",
+    "pathways": {
+      "ec00330": "Arginine and proline metabolism",
+      "ec00630": "Glyoxylate and dicarboxylate metabolism",
+      "ec01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K18123": "4-hydroxy-2-oxoglutarate aldolase"
+    },
+    "genes": {
+      "hsa": [
+        "112817"
+      ],
+      "ptr": [
+        "742884"
+      ],
+      "pps": [
+        "103782784"
+      ],
+      "ggo": [
+        "101154009"
+      ],
+      "pon": [
+        "100171598"
+      ],
+      "nle": [
+        "100589206"
+      ],
+      "mcc": [
+        "706661"
+      ],
+      "mcf": [
+        "102126728"
+      ],
+      "csab": [
+        "103216345"
+      ],
+      "rro": [
+        "104682808"
+      ],
+      "rbb": [
+        "108534698"
+      ],
+      "cjc": [
+        "103796777"
+      ],
+      "sbq": [
+        "104650492"
+      ],
+      "mmu": [
+        "67432"
+      ],
+      "rno": [
+        "293949"
+      ],
+      "cge": [
+        "100759109"
+      ],
+      "ngi": [
+        "103733196"
+      ],
+      "hgl": [
+        "101700602"
+      ],
+      "ccan": [
+        "109695304"
+      ],
+      "ocu": [
+        "100344505"
+      ],
+      "tup": [
+        "102486364"
+      ],
+      "cfa": [
+        "608755"
+      ],
+      "aml": [
+        "100478059"
+      ],
+      "umr": [
+        "103674087"
+      ],
+      "oro": [
+        "101385318"
+      ],
+      "fca": [
+        "101101417"
+      ],
+      "ptg": [
+        "102965487"
+      ],
+      "aju": [
+        "106966929"
+      ],
+      "bta": [
+        "506001"
+      ],
+      "bom": [
+        "102265621"
+      ],
+      "biu": [
+        "109552999"
+      ],
+      "phd": [
+        "102342808"
+      ],
+      "chx": [
+        "102173994"
+      ],
+      "oas": [
+        "101114573"
+      ],
+      "ssc": [
+        "100153961"
+      ],
+      "cfr": [
+        "102512614"
+      ],
+      "cdk": [
+        "105084288"
+      ],
+      "bacu": [
+        "103004258"
+      ],
+      "lve": [
+        "103077167",
+        "103089444"
+      ],
+      "oor": [
+        "101271753"
+      ],
+      "ecb": [
+        "100070689"
+      ],
+      "epz": [
+        "103558701"
+      ],
+      "eai": [
+        "106844960"
+      ],
+      "myb": [
+        "102246939"
+      ],
+      "myd": [
+        "102768587"
+      ],
+      "hai": [
+        "109379716"
+      ],
+      "rss": [
+        "109443910"
+      ],
+      "pale": [
+        "102884382"
+      ],
+      "lav": [
+        "100670230"
+      ],
+      "tmu": [
+        "101355404"
+      ],
+      "mdo": [
+        "100021876"
+      ],
+      "shr": [
+        "100929176"
+      ],
+      "oaa": [
+        "100088274"
+      ],
+      "gga": [
+        "770036"
+      ],
+      "mgp": [
+        "100548398"
+      ],
+      "cjo": [
+        "107316003"
+      ],
+      "acyg": [
+        "106036839"
+      ],
+      "tgu": [
+        "100231472"
+      ],
+      "gfr": [
+        "102042170"
+      ],
+      "fab": [
+        "101806953"
+      ],
+      "phi": [
+        "102112987"
+      ],
+      "pmaj": [
+        "107206698"
+      ],
+      "ccw": [
+        "104695887"
+      ],
+      "fpg": [
+        "101920952"
+      ],
+      "fch": [
+        "102052298"
+      ],
+      "clv": [
+        "102097409"
+      ],
+      "egz": [
+        "104132255"
+      ],
+      "asn": [
+        "102382587"
+      ],
+      "amj": [
+        "102563093"
+      ],
+      "cpic": [
+        "103307603"
+      ],
+      "acs": [
+        "100566929"
+      ],
+      "pvt": [
+        "110089167"
+      ],
+      "pbi": [
+        "103053263"
+      ],
+      "gja": [
+        "107114457"
+      ],
+      "xla": [
+        "495193"
+      ],
+      "xtr": [
+        "496669"
+      ],
+      "npr": [
+        "108792933"
+      ],
+      "dre": [
+        "405806"
+      ],
+      "srx": [
+        "107706114"
+      ],
+      "sanh": [
+        "107663482"
+      ],
+      "sgh": [
+        "107551368",
+        "107588470"
+      ],
+      "ccar": [
+        "109069442"
+      ],
+      "ipu": [
+        "108259603"
+      ],
+      "amex": [
+        "103023796"
+      ],
+      "tru": [
+        "101061435"
+      ],
+      "tng": [
+        "GSTEN00009068G001"
+      ],
+      "lco": [
+        "104930035"
+      ],
+      "ncc": [
+        "104953008"
+      ],
+      "mze": [
+        "101479315"
+      ],
+      "ola": [
+        "101161460"
+      ],
+      "xma": [
+        "102230783"
+      ],
+      "pret": [
+        "103470116"
+      ],
+      "nfu": [
+        "107382406"
+      ],
+      "csem": [
+        "103383203"
+      ],
+      "lcf": [
+        "108880833"
+      ],
+      "hcq": [
+        "109511381"
+      ],
+      "bpec": [
+        "110155940"
+      ],
+      "sasa": [
+        "106564335",
+        "106591168",
+        "106591313"
+      ],
+      "els": [
+        "105006876"
+      ],
+      "sfm": [
+        "108924852"
+      ],
+      "lcm": [
+        "102362318"
+      ],
+      "cmk": [
+        "103172525"
+      ],
+      "bfo": [
+        "BRAFLDRAFT_251336"
+      ],
+      "cin": [
+        "100181036"
+      ],
+      "spu": [
+        "579934"
+      ],
+      "aplc": [
+        "110981286"
+      ],
+      "sko": [
+        "100372772"
+      ],
+      "api": [
+        "100570569"
+      ],
+      "dnx": [
+        "107163989"
+      ],
+      "zne": [
+        "110831450"
+      ],
+      "fcd": [
+        "110856855"
+      ],
+      "dpx": [
+        "DAPPUDRAFT_52277"
+      ],
+      "isc": [
+        "IscW_ISCW017928"
+      ],
+      "hro": [
+        "HELRODRAFT_157064"
+      ],
+      "lgi": [
+        "LOTGIDRAFT_211287"
+      ],
+      "crg": [
+        "105328725"
+      ],
+      "myi": [
+        "110455405"
+      ],
+      "obi": [
+        "106884306"
+      ],
+      "lak": [
+        "106170963"
+      ],
+      "nve": [
+        "NEMVE_v1g82674"
+      ],
+      "epa": [
+        "110231654"
+      ],
+      "adf": [
+        "107337820"
+      ],
+      "hmg": [
+        "100199549"
+      ],
+      "ncr": [
+        "NCU05977"
+      ],
+      "nte": [
+        "NEUTE1DRAFT148948",
+        "NEUTE1DRAFT48910"
+      ],
+      "smp": [
+        "SMAC_03823",
+        "SMAC_07903"
+      ],
+      "pan": [
+        "PODANSg09878",
+        "PODANSg3113",
+        "PODANSg3131"
+      ],
+      "ttt": [
+        "THITE_2041371",
+        "THITE_2110019",
+        "THITE_2122366"
+      ],
+      "mtm": [
+        "MYCTH_82456"
+      ],
+      "cthr": [
+        "CTHT_0040680",
+        "CTHT_0055950"
+      ],
+      "mgr": [
+        "MGG_05159",
+        "MGG_07933"
+      ],
+      "tmn": [
+        "UCRPA7_1105",
+        "UCRPA7_1858",
+        "UCRPA7_4535",
+        "UCRPA7_6686",
+        "UCRPA7_7278",
+        "UCRPA7_729",
+        "UCRPA7_7973"
+      ],
+      "ssck": [
+        "SPSK_00143",
+        "SPSK_01848",
+        "SPSK_03433",
+        "SPSK_03475",
+        "SPSK_07785"
+      ],
+      "fgr": [
+        "FGSG_01813",
+        "FGSG_02063",
+        "FGSG_03069",
+        "FGSG_03647",
+        "FGSG_05048",
+        "FGSG_09521"
+      ],
+      "fpu": [
+        "FPSE_01888",
+        "FPSE_02157",
+        "FPSE_03347",
+        "FPSE_04939",
+        "FPSE_05154",
+        "FPSE_11340"
+      ],
+      "fvr": [
+        "FVEG_04070",
+        "FVEG_06008",
+        "FVEG_07522",
+        "FVEG_07725",
+        "FVEG_08807",
+        "FVEG_10721"
+      ],
+      "fox": [
+        "FOXG_04402",
+        "FOXG_04587",
+        "FOXG_06217",
+        "FOXG_08665",
+        "FOXG_09663",
+        "FOXG_12147"
+      ],
+      "nhe": [
+        "NECHADRAFT_103547",
+        "NECHADRAFT_41228",
+        "NECHADRAFT_51004",
+        "NECHADRAFT_53351",
+        "NECHADRAFT_55688",
+        "NECHADRAFT_73269",
+        "NECHADRAFT_75207",
+        "NECHADRAFT_82289",
+        "NECHADRAFT_99111"
+      ],
+      "tre": [
+        "TRIREDRAFT_122582",
+        "TRIREDRAFT_2036",
+        "TRIREDRAFT_3717",
+        "TRIREDRAFT_53123"
+      ],
+      "maw": [
+        "MAC_01236",
+        "MAC_04491",
+        "MAC_09455"
+      ],
+      "maj": [
+        "MAA_00627",
+        "MAA_07813",
+        "MAA_09251"
+      ],
+      "cmt": [
+        "CCM_05289",
+        "CCM_07759",
+        "CCM_07861"
+      ],
+      "plj": [
+        "VFPFJ_01790",
+        "VFPFJ_02536",
+        "VFPFJ_03142",
+        "VFPFJ_07463",
+        "VFPFJ_09031"
+      ],
+      "val": [
+        "VDBG_01853",
+        "VDBG_03325",
+        "VDBG_05072",
+        "VDBG_08158",
+        "VDBG_09109",
+        "VDBG_09557"
+      ],
+      "vda": [
+        "VDAG_01702",
+        "VDAG_02228",
+        "VDAG_04788",
+        "VDAG_07257",
+        "VDAG_10050",
+        "VDAG_10512"
+      ],
+      "cfj": [
+        "CFIO01_04102",
+        "CFIO01_04988",
+        "CFIO01_05142",
+        "CFIO01_05423",
+        "CFIO01_08392",
+        "CFIO01_08695",
+        "CFIO01_12712",
+        "CFIO01_13735"
+      ],
+      "ela": [
+        "UCREL1_1",
+        "UCREL1_10034",
+        "UCREL1_3023",
+        "UCREL1_4493",
+        "UCREL1_7875",
+        "UCREL1_8344",
+        "UCREL1_9767"
+      ],
+      "pfy": [
+        "PFICI_02155",
+        "PFICI_06710",
+        "PFICI_10660",
+        "PFICI_11183",
+        "PFICI_13580",
+        "PFICI_14195"
+      ],
+      "ssl": [
+        "SS1G_02917"
+      ],
+      "bfu": [
+        "BCIN_06g05360"
+      ],
+      "mbe": [
+        "MBM_05778"
+      ],
+      "psco": [
+        "LY89DRAFT_58302",
+        "LY89DRAFT_587194",
+        "LY89DRAFT_685858",
+        "LY89DRAFT_694995",
+        "LY89DRAFT_705574"
+      ],
+      "glz": [
+        "GLAREA_07669"
+      ],
+      "ani": [
+        "AN1503.2"
+      ],
+      "afm": [
+        "AFUA_2G01230",
+        "AFUA_8G05040"
+      ],
+      "aor": [
+        "AO090005000638",
+        "AO090701000399"
+      ],
+      "ang": [
+        "ANI_1_1986144",
+        "ANI_1_26174"
+      ],
+      "afv": [
+        "AFLA_058590",
+        "AFLA_078890"
+      ],
+      "act": [
+        "ACLA_048040",
+        "ACLA_058440",
+        "ACLA_072950",
+        "ACLA_094540"
+      ],
+      "nfi": [
+        "NFIA_033530",
+        "NFIA_089760",
+        "NFIA_097850",
+        "NFIA_107490"
+      ],
+      "pcs": [
+        "Pc20g10350",
+        "Pc22g00220"
+      ],
+      "pdp": [
+        "PDIP_02670",
+        "PDIP_46650"
+      ],
+      "cim": [
+        "CIMG_00151",
+        "CIMG_06885"
+      ],
+      "cpw": [
+        "CPC735_032800",
+        "CPC735_059910"
+      ],
+      "pbl": [
+        "PAAG_03143",
+        "PAAG_03793"
+      ],
+      "pbn": [
+        "PADG_03024",
+        "PADG_03296"
+      ],
+      "ure": [
+        "UREG_00255",
+        "UREG_03604"
+      ],
+      "abe": [
+        "ARB_01658",
+        "ARB_05761"
+      ],
+      "tve": [
+        "TRV_00049",
+        "TRV_04481"
+      ],
+      "aje": [
+        "HCAG_01713",
+        "HCAG_07219",
+        "HCAG_09247"
+      ],
+      "pno": [
+        "SNOG_03839",
+        "SNOG_04544",
+        "SNOG_15818"
+      ],
+      "pte": [
+        "PTT_08311",
+        "PTT_12228",
+        "PTT_17993"
+      ],
+      "bze": [
+        "COCCADRAFT_109610",
+        "COCCADRAFT_9535"
+      ],
+      "bsc": [
+        "COCSADRAFT_271752",
+        "COCSADRAFT_33387",
+        "COCSADRAFT_335849"
+      ],
+      "bor": [
+        "COCMIDRAFT_23190",
+        "COCMIDRAFT_26603",
+        "COCMIDRAFT_8673"
+      ],
+      "aalt": [
+        "CC77DRAFT_1017551",
+        "CC77DRAFT_1040104",
+        "CC77DRAFT_840448"
+      ],
+      "ztr": [
+        "MYCGRDRAFT_66153"
+      ],
+      "pfj": [
+        "MYCFIDRAFT_29231"
+      ],
+      "bcom": [
+        "BAUCODRAFT_150164",
+        "BAUCODRAFT_558779",
+        "BAUCODRAFT_573577",
+        "BAUCODRAFT_68239"
+      ],
+      "npa": [
+        "UCRNP2_1393",
+        "UCRNP2_68",
+        "UCRNP2_7892",
+        "UCRNP2_894"
+      ],
+      "tml": [
+        "GSTUM_00008462001"
+      ],
+      "cne": [
+        "CNC03990"
+      ],
+      "cnb": [
+        "CNBC3190"
+      ],
+      "cgi": [
+        "CGB_C6100W"
+      ],
+      "tms": [
+        "TREMEDRAFT_70222"
+      ],
+      "tvs": [
+        "TRAVEDRAFT_145691",
+        "TRAVEDRAFT_29711",
+        "TRAVEDRAFT_62801"
+      ],
+      "dsq": [
+        "DICSQDRAFT_129292",
+        "DICSQDRAFT_152921"
+      ],
+      "pco": [
+        "PHACADRAFT_166860",
+        "PHACADRAFT_201197",
+        "PHACADRAFT_252672",
+        "PHACADRAFT_255535",
+        "PHACADRAFT_257602"
+      ],
+      "shs": [
+        "STEHIDRAFT_119341",
+        "STEHIDRAFT_49383"
+      ],
+      "hir": [
+        "HETIRDRAFT_157267",
+        "HETIRDRAFT_412119",
+        "HETIRDRAFT_448998"
+      ],
+      "psq": [
+        "PUNSTDRAFT_52021",
+        "PUNSTDRAFT_70957"
+      ],
+      "adl": [
+        "AURDEDRAFT_110014",
+        "AURDEDRAFT_148009"
+      ],
+      "fme": [
+        "FOMMEDRAFT_131642"
+      ],
+      "gtr": [
+        "GLOTRDRAFT_116882",
+        "GLOTRDRAFT_57228"
+      ],
+      "lbc": [
+        "LACBIDRAFT_189233"
+      ],
+      "mrr": [
+        "Moror_14079",
+        "Moror_4689",
+        "Moror_8005"
+      ],
+      "cci": [
+        "CC1G_04219",
+        "CC1G_06285"
+      ],
+      "scm": [
+        "SCHCODRAFT_84616"
+      ],
+      "abp": [
+        "AGABI1DRAFT111212",
+        "AGABI1DRAFT114952"
+      ],
+      "abv": [
+        "AGABI2DRAFT190432",
+        "AGABI2DRAFT191181"
+      ],
+      "cput": [
+        "CONPUDRAFT_129595",
+        "CONPUDRAFT_51541"
+      ],
+      "sla": [
+        "SERLADRAFT_361556",
+        "SERLADRAFT_454235"
+      ],
+      "wse": [
+        "WALSEDRAFT_29927",
+        "WALSEDRAFT_61673"
+      ],
+      "wic": [
+        "J056_003032"
+      ],
+      "lir": [
+        "LAW_00107"
+      ],
+      "dor": [
+        "Desor_3029"
+      ],
+      "ibu": [
+        "IB211_03323c"
+      ],
+      "twi": [
+        "Thewi_1732"
+      ],
+      "tto": [
+        "Thethe_02138"
+      ],
+      "aba": [
+        "Acid345_2666"
+      ],
+      "trs": [
+        "Terro_1985",
+        "Terro_2351"
+      ],
+      "sus": [
+        "Acid_1067"
+      ],
+      "abac": [
+        "LuPra_06084"
+      ],
+      "tli": [
+        "Tlie_1310"
+      ],
+      "amo": [
+        "Anamo_0048"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "4.1.3.16"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "4.1.3.16"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "4.1.3.16"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "4.1.3.16"
+      ],
+      "CAS": [
+        "9030-81-3"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "KURATOMI K",
+          "FUKUNAGA K."
+        ],
+        "title": "THE METABOLISM OF GAMMA-HYDROXYGLUTAMATE IN RAT LIVER. I. ENZYMIC SYNTHESIS OF GAMMA-HYDROXY-ALPHA-KETOGLUTARATE FROM PYRUVATE AND GLYOXYLATE.",
+        "journal": "Biochim Biophys Acta 78:617-28 (1963) DOI:10.1016/0006-3002(63)91027-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:14089442]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kobes RD",
+          "Dekker EE"
+        ],
+        "title": "2-Keto-4-hydroxyglutarate aldolase of bovine liver. Purification, criteria of purity, and general properties.",
+        "journal": "J Biol Chem",
+        "volume": "244",
+        "issue": "",
+        "pages": "1919-25",
+        "year": "1969",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:5780845]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lane RS",
+          "Shapley A",
+          "Dekker EE."
+        ],
+        "title": "2-keto-4-hydroxybutyrate aldolase. Identification as 2-keto-4-hydroxyglutarate aldolase, catalytic properties, and role in the mammalian metabolism of L-homoserine.",
+        "journal": "Biochemistry",
+        "volume": "10",
+        "issue": "",
+        "pages": "1353-64",
+        "year": "1971",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:5580656]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Scholtz JM",
+          "Schuster SM"
+        ],
+        "title": "Regulation of rat liver 4-hydroxy-2-ketoglutarate aldolase.",
+        "journal": "Biochim Biophys Acta 869:192-6 (1986) DOI:10.1016/0167-4838(86)90294-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:3942759]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

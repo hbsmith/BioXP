@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11994",
+    "name": "",
+    "definition": "GDP-D-mannose + Triacylated phosphatidyl-myo-inositol dimannoside <=> GDP + Triacylated phosphatidyl-myo-inositol trimannoside",
+    "equation": "G10614 + G13108 <=> G10620 + G13103",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn00571": "Lipoarabinomannan (LAM) biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K14335": "alpha-1,6-mannosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

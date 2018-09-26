@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10771",
+    "name": "2-hydroxy-7-methoxy-5-methyl-1-naphthoate:CoA ligase",
+    "definition": "ATP + 2-Hydroxy-7-methoxy-5-methyl-1-naphthoate + CoA <=> AMP + Diphosphate + 2-Hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA",
+    "equation": "C00002 + C20841 + C00010 <=> C00020 + C00013 + C20842",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.43"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20423": "2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase [EC:6.2.1.43]"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C14456",
+    "name": "4-Chloronitrobenzene",
+    "names": [
+      "4-Chloronitrobenzene",
+      "1-Chloro-4-nitrobenzene"
+    ],
+    "formula": "C6H4ClNO2",
+    "exact_mass": 156.9931,
+    "mol_weight": 157.5545,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "100-00-5"
+      ],
+      "PubChem": [
+        "17395456"
+      ],
+      "ChEBI": [
+        "34399"
+      ],
+      "ChEMBL": [
+        "CHEMBL56970"
+      ],
+      "NIKKAJI": [
+        "J3.586F"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8x C    27.6436  -17.2835\n            2   C8x C    27.6436  -15.8840\n            3   C8y C    28.8332  -15.1843\n            4   C8x C    30.0927  -15.8840\n            5   C8x C    30.0927  -17.2835\n            6   C8y C    28.8332  -17.9832\n            7   N2b N    28.8332  -19.3827 #+\n            8   X   Cl   28.8332  -13.7848\n            9   O3a O    27.6436  -20.0824\n            10  O3a O    30.0227  -20.0824 #-\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     3   8 1\n            9     7   9 2\n            10    7  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

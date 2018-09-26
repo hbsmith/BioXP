@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R10107",
+    "name": "",
+    "definition": "L-Arginine + Oxygen + NADH + H+ <=> N(omega)-Hydroxyarginine + NAD+ + H2O",
+    "equation": "C00062 + C00007 + C00004 + C00080 <=> C05933 + C00003 + C00001",
+    "comment": "the former part of multi-step reaction (see R10106, R10107+R10108) NADPH (see R00558)",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

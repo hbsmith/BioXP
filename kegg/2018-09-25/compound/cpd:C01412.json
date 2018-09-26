@@ -1,0 +1,62 @@
+[
+  {
+    "entry_id": "C01412",
+    "name": "Butanal",
+    "names": [
+      "Butanal",
+      "Butyraldehyde"
+    ],
+    "formula": "C4H8O",
+    "exact_mass": 72.0575,
+    "mol_weight": 72.1057,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01172",
+      "R01173",
+      "R03544",
+      "R03545",
+      "R11343",
+      "R11344"
+    ],
+    "pathways": {
+      "map00650": "Butanoate metabolism",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.1.-",
+      "1.1.2.9",
+      "1.1.5.11",
+      "1.2.1.10",
+      "1.2.1.57",
+      "1.2.1.87"
+    ],
+    "dblinks": {
+      "CAS": [
+        "123-72-8"
+      ],
+      "PubChem": [
+        "4600"
+      ],
+      "ChEBI": [
+        "15743"
+      ],
+      "ChEMBL": [
+        "CHEMBL1478334"
+      ],
+      "3DMET": [
+        "B00287"
+      ],
+      "NIKKAJI": [
+        "J2.501A"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C1b C    27.9964  -20.5745\n            2   C1b C    26.7850  -19.8786\n            3   C4a C    29.2078  -19.8786\n            4   C1a C    25.5673  -20.5745\n            5   O4a O    30.4255  -20.5745\nBOND        4\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

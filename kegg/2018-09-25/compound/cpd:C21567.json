@@ -1,0 +1,75 @@
+[
+  {
+    "entry_id": "C21567",
+    "name": "Pyrrolyl-2-carboxyl-S-[acyl-carrier protein]",
+    "names": [
+      "Pyrrolyl-2-carboxyl-S-[acyl-carrier protein]",
+      "Pyrrolyl-2-carboxyl-S-[acp]"
+    ],
+    "formula": "C5H4NOSR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = acyl-carrier protein",
+    "reactions": [
+      "R11665",
+      "R11667"
+    ],
+    "pathways": {
+      "map00333": "Prodigiosin biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "2.3.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "340076548"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    21.2995  -17.8775\n            2   C8x C    21.7185  -16.5506\n            3   C8x C    20.6012  -15.7126\n            4   C8y C    19.4140  -16.5506\n            5   N4x N    19.9028  -17.8775\n            6   C5a C    18.2268  -15.8523\n            7   S2a S    17.0396  -16.5506\n            8   O5a O    18.2268  -14.4556\n            9   R   R    15.6430  -16.5506\nBOND        9\n            1     4   5 1\n            2     5   1 1\n            3     1   2 2\n            4     2   3 1\n            5     6   7 1\n            6     6   8 2\n            7     3   4 2\n            8     7   9 1\n            9     6   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C21567",
+    "name": "Pyrrolyl-2-carboxyl-S-[acyl-carrier protein]",
+    "names": [
+      "Pyrrolyl-2-carboxyl-S-[acyl-carrier protein]",
+      "Pyrrolyl-2-carboxyl-S-[acp]"
+    ],
+    "formula": "C5H4NOSR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = acyl-carrier protein",
+    "reactions": [
+      "R11665",
+      "R11667"
+    ],
+    "pathways": {
+      "map00333": "Prodigiosin biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "2.3.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "340076548"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    21.2995  -17.8775\n            2   C8x C    21.7185  -16.5506\n            3   C8x C    20.6012  -15.7126\n            4   C8y C    19.4140  -16.5506\n            5   N4x N    19.9028  -17.8775\n            6   C5a C    18.2268  -15.8523\n            7   S2a S    17.0396  -16.5506\n            8   O5a O    18.2268  -14.4556\n            9   R   R    15.6430  -16.5506\nBOND        9\n            1     4   5 1\n            2     5   1 1\n            3     1   2 2\n            4     2   3 1\n            5     6   7 1\n            6     6   8 2\n            7     3   4 2\n            8     7   9 1\n            9     6   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

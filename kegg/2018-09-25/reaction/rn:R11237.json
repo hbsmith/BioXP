@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11237",
+    "name": "",
+    "definition": "1-epi-Valienol 1-phosphate + Nucleoside triphosphate <=> NDP-1-epi-valienol + Diphosphate",
+    "equation": "C21209 + C00201 <=> C21210 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.91"
+    ],
+    "pathways": {
+      "rn00525": "Acarbose and validamycin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20427": "valienol-1-phosphate guanylyltransferase [EC:2.7.7.91]"
+    }
+  }
+][
+  {
+    "entry_id": "R11237",
+    "name": "",
+    "definition": "1-epi-Valienol 1-phosphate + Nucleoside triphosphate <=> NDP-1-epi-valienol + Diphosphate",
+    "equation": "C21209 + C00201 <=> C21210 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.91"
+    ],
+    "pathways": {
+      "rn00525": "Acarbose and validamycin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20427": "valienol-1-phosphate guanylyltransferase [EC:2.7.7.91]"
+    }
+  }
+]

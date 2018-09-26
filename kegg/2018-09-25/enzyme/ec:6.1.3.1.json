@@ -1,0 +1,981 @@
+[
+  {
+    "entry_id": "6.1.3.1",
+    "name": "olefin beta-lactone synthetase",
+    "names": [
+      "olefin beta-lactone synthetase",
+      "oleC (gene name)"
+    ],
+    "classes": [
+      "Ligases;",
+      "Forming carbon-oxygen bonds;",
+      "Cyclo-ligases"
+    ],
+    "sysname": "(2R,3S)-2-alkyl-3-hydroxyalkanoate ligase (beta-lactone,AMP-forming)",
+    "reaction": "ATP + a (2R,3S)-2-alkyl-3-hydroxyalkanoate = AMP + diphosphate + a cis-3-alkyl-4-alkyloxetan-2-one [RN:R11775]",
+    "all_reac": "R11775",
+    "iubmb_reactions": [
+      "R11775"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "ATP [CPD:C00002]",
+      "(2R,3S)-2-alkyl-3-hydroxyalkanoate [CPD:C21645]"
+    ],
+    "products": [
+      "AMP [CPD:C00020]",
+      "diphosphate [CPD:C00013]",
+      "cis-3-alkyl-4-alkyloxetan-2-one [CPD:C21657]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, found in certain bacterial species, participates in a pathway for the production of olefins. It forms a beta-lactone. The alkyl group at C2 of the substrate ends up as the 3-alkyl group of the product.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K22319": "olefin beta-lactone synthetase"
+    },
+    "genes": {
+      "kco": [
+        "BWI95_06495"
+      ],
+      "ptt": [
+        "VY86_10480"
+      ],
+      "xfa": [
+        "XF_2276"
+      ],
+      "xft": [
+        "PD_1311"
+      ],
+      "xfm": [
+        "Xfasm12_1468"
+      ],
+      "xfn": [
+        "XfasM23_1395"
+      ],
+      "xff": [
+        "XFLM_00650"
+      ],
+      "xfl": [
+        "P303_06255"
+      ],
+      "xfs": [
+        "D934_06110"
+      ],
+      "xfh": [
+        "XFHB_08780"
+      ],
+      "xcc": [
+        "XCC0218"
+      ],
+      "xcb": [
+        "XC_0228"
+      ],
+      "xca": [
+        "xcc-b100_0237"
+      ],
+      "xcp": [
+        "XCR_4305"
+      ],
+      "xcv": [
+        "XCV0243"
+      ],
+      "xax": [
+        "XACM_0223"
+      ],
+      "xac": [
+        "XAC0237"
+      ],
+      "xci": [
+        "XCAW_00635"
+      ],
+      "xct": [
+        "J151_00354"
+      ],
+      "xcj": [
+        "J158_00352"
+      ],
+      "xcu": [
+        "J159_00352"
+      ],
+      "xcn": [
+        "J169_00350"
+      ],
+      "xcw": [
+        "J162_00351"
+      ],
+      "xcr": [
+        "J163_00351"
+      ],
+      "xcm": [
+        "J164_00351"
+      ],
+      "xcf": [
+        "J172_00345"
+      ],
+      "xfu": [
+        "XFF4834R_chr02080"
+      ],
+      "xao": [
+        "XAC29_01220"
+      ],
+      "xoo": [
+        "XOO4215"
+      ],
+      "xom": [
+        "XOO3984"
+      ],
+      "xop": [
+        "PXO_03950"
+      ],
+      "xoy": [
+        "AZ54_02865"
+      ],
+      "xor": [
+        "XOC_0333"
+      ],
+      "xoz": [
+        "BE73_22755"
+      ],
+      "xal": [
+        "XALC_3069"
+      ],
+      "xsa": [
+        "SB85_13820"
+      ],
+      "xtn": [
+        "FD63_01120"
+      ],
+      "xfr": [
+        "BER92_17850"
+      ],
+      "xga": [
+        "BI317_23595"
+      ],
+      "xve": [
+        "BJD12_13760"
+      ],
+      "xpe": [
+        "BJD13_15865"
+      ],
+      "xhr": [
+        "XJ27_16870"
+      ],
+      "xph": [
+        "XppCFBP6546_10730"
+      ],
+      "xva": [
+        "C7V42_01020"
+      ],
+      "sml": [
+        "Smlt0208"
+      ],
+      "smt": [
+        "Smal_0170"
+      ],
+      "buj": [
+        "BurJV3_0162"
+      ],
+      "smz": [
+        "SMD_0178"
+      ],
+      "sacz": [
+        "AOT14_35100"
+      ],
+      "stek": [
+        "AXG53_15315"
+      ],
+      "srh": [
+        "BAY15_0301"
+      ],
+      "slm": [
+        "BIZ42_10300"
+      ],
+      "sten": [
+        "CCR98_00915"
+      ],
+      "stem": [
+        "CLM74_00925"
+      ],
+      "psu": [
+        "Psesu_0125"
+      ],
+      "psuw": [
+        "WQ53_07285"
+      ],
+      "psd": [
+        "DSC_15430"
+      ],
+      "lab": [
+        "LA76x_4682"
+      ],
+      "laq": [
+        "GLA29479_4477"
+      ],
+      "lcp": [
+        "LC55x_0359"
+      ],
+      "lgu": [
+        "LG3211_0384"
+      ],
+      "lez": [
+        "GLE_0202"
+      ],
+      "lem": [
+        "LEN_4733"
+      ],
+      "lmb": [
+        "C9I47_0307"
+      ],
+      "lum": [
+        "CNR27_02290"
+      ],
+      "lue": [
+        "DCD74_09630"
+      ],
+      "xba": [
+        "C7S18_19960",
+        "C7S18_19980"
+      ],
+      "vta": [
+        "A1844"
+      ],
+      "ppr": [
+        "PBPRA1464"
+      ],
+      "son": [
+        "SO_1744"
+      ],
+      "sdn": [
+        "Sden_1371"
+      ],
+      "sfr": [
+        "Sfri_1367"
+      ],
+      "saz": [
+        "Sama_1184"
+      ],
+      "sbl": [
+        "Sbal_1552"
+      ],
+      "sbm": [
+        "Shew185_1548"
+      ],
+      "sbn": [
+        "Sbal195_1582"
+      ],
+      "sbp": [
+        "Sbal223_2798"
+      ],
+      "sbt": [
+        "Sbal678_1619"
+      ],
+      "sbs": [
+        "Sbal117_1659"
+      ],
+      "sbb": [
+        "Sbal175_2780"
+      ],
+      "slo": [
+        "Shew_1715"
+      ],
+      "spc": [
+        "Sputcn32_1447"
+      ],
+      "shp": [
+        "Sput200_1460"
+      ],
+      "sse": [
+        "Ssed_1512"
+      ],
+      "spl": [
+        "Spea_2734"
+      ],
+      "she": [
+        "Shewmr4_2546"
+      ],
+      "shm": [
+        "Shewmr7_2613"
+      ],
+      "shn": [
+        "Shewana3_2713"
+      ],
+      "shw": [
+        "Sputw3181_2652"
+      ],
+      "shl": [
+        "Shal_2818"
+      ],
+      "swd": [
+        "Swoo_3157"
+      ],
+      "swp": [
+        "swp_3334"
+      ],
+      "svo": [
+        "SVI_3043"
+      ],
+      "shf": [
+        "CEQ32_07535"
+      ],
+      "sja": [
+        "SJ2017_1517"
+      ],
+      "spsw": [
+        "Sps_01975"
+      ],
+      "sbj": [
+        "CF168_07315"
+      ],
+      "smav": [
+        "CFF01_10785"
+      ],
+      "shew": [
+        "CKQ84_00025"
+      ],
+      "cps": [
+        "CPS_2155"
+      ],
+      "com": [
+        "CMT41_10375"
+      ],
+      "pin": [
+        "Ping_1999"
+      ],
+      "psy": [
+        "PCNPT3_05860"
+      ],
+      "mvs": [
+        "MVIS_1673"
+      ],
+      "mya": [
+        "MORIYA_1232"
+      ],
+      "wma": [
+        "WM2015_2415"
+      ],
+      "gai": [
+        "IMCC3135_24165"
+      ],
+      "oai": [
+        "OLEAN_C17450"
+      ],
+      "gsn": [
+        "YC6258_05097"
+      ],
+      "sva": [
+        "SVA_3744"
+      ],
+      "gur": [
+        "Gura_2008"
+      ],
+      "glo": [
+        "Glov_2271"
+      ],
+      "gbm": [
+        "Gbem_2100"
+      ],
+      "geo": [
+        "Geob_3151"
+      ],
+      "gem": [
+        "GM21_2118"
+      ],
+      "geb": [
+        "GM18_2132"
+      ],
+      "ppd": [
+        "Ppro_3117"
+      ],
+      "pace": [
+        "A6070_07235"
+      ],
+      "des": [
+        "DSOUD_2644",
+        "DSOUD_3292"
+      ],
+      "dps": [
+        "DP2631"
+      ],
+      "dpr": [
+        "Despr_2659"
+      ],
+      "deo": [
+        "CAY53_08365"
+      ],
+      "dsf": [
+        "UWK_02995"
+      ],
+      "dol": [
+        "Dole_2010"
+      ],
+      "dml": [
+        "Dmul_23320"
+      ],
+      "dat": [
+        "HRM2_21830"
+      ],
+      "dto": [
+        "TOL2_C24940"
+      ],
+      "vin": [
+        "AKJ08_2416"
+      ],
+      "samy": [
+        "DB32_004416"
+      ],
+      "bbw": [
+        "BDW_11560"
+      ],
+      "bmx": [
+        "BMS_1439"
+      ],
+      "bsto": [
+        "C0V70_08410"
+      ],
+      "bos": [
+        "BSY19_2101"
+      ],
+      "bvv": [
+        "BHK69_25825"
+      ],
+      "ceh": [
+        "CEW89_09480"
+      ],
+      "hat": [
+        "RC74_12640"
+      ],
+      "labr": [
+        "CHH27_07235"
+      ],
+      "rbg": [
+        "BG454_14940"
+      ],
+      "blr": [
+        "BRLA_c023870"
+      ],
+      "mva": [
+        "Mvan_1080"
+      ],
+      "nfa": [
+        "NFA_34570"
+      ],
+      "nfr": [
+        "ERS450000_00593"
+      ],
+      "ncy": [
+        "NOCYR_2360"
+      ],
+      "nbr": [
+        "O3I_027200"
+      ],
+      "nno": [
+        "NONO_c19430"
+      ],
+      "nsl": [
+        "BOX37_16880"
+      ],
+      "nsr": [
+        "NS506_01611",
+        "NS506_05575"
+      ],
+      "ntp": [
+        "CRH09_11565",
+        "CRH09_29055"
+      ],
+      "rhw": [
+        "BFN03_19170"
+      ],
+      "rrz": [
+        "CS378_18560"
+      ],
+      "git": [
+        "C6V83_16555"
+      ],
+      "samb": [
+        "SAM23877_7350"
+      ],
+      "spri": [
+        "SPRI_1062"
+      ],
+      "sgs": [
+        "AVL59_20220"
+      ],
+      "strd": [
+        "NI25_11220"
+      ],
+      "sgv": [
+        "B1H19_06240"
+      ],
+      "slx": [
+        "SLAV_09790"
+      ],
+      "kit": [
+        "CFP65_7006"
+      ],
+      "stri": [
+        "C7M71_028200"
+      ],
+      "cmi": [
+        "CMM_2154"
+      ],
+      "cms": [
+        "CMS1847"
+      ],
+      "cmc": [
+        "CMN_02121"
+      ],
+      "cmh": [
+        "VO01_10020"
+      ],
+      "ccap": [
+        "AES38_10520"
+      ],
+      "mts": [
+        "MTES_0536"
+      ],
+      "mcw": [
+        "A8L33_02695"
+      ],
+      "mpal": [
+        "BO218_00780"
+      ],
+      "mih": [
+        "BJP65_04545"
+      ],
+      "rtx": [
+        "TI83_10140"
+      ],
+      "rtc": [
+        "APU90_06920"
+      ],
+      "rtn": [
+        "A6122_2397"
+      ],
+      "cum": [
+        "NI26_13035"
+      ],
+      "cub": [
+        "BJK06_11650"
+      ],
+      "cart": [
+        "PA27867_0153"
+      ],
+      "cry": [
+        "B7495_00675"
+      ],
+      "malk": [
+        "MalAC0309_0666"
+      ],
+      "myl": [
+        "C3E77_02030"
+      ],
+      "arr": [
+        "ARUE_c21520"
+      ],
+      "arm": [
+        "ART_1189"
+      ],
+      "arl": [
+        "AFL94_04865"
+      ],
+      "are": [
+        "AL755_14780"
+      ],
+      "aaq": [
+        "AOC05_09355"
+      ],
+      "arw": [
+        "MB46_09740"
+      ],
+      "ary": [
+        "ATC04_12985"
+      ],
+      "arz": [
+        "AUT26_14380"
+      ],
+      "arq": [
+        "BWQ92_22595"
+      ],
+      "arx": [
+        "ARZXY2_751"
+      ],
+      "acry": [
+        "AC20117_20160"
+      ],
+      "aau": [
+        "AAur_1999"
+      ],
+      "ach": [
+        "Achl_0447"
+      ],
+      "aai": [
+        "AARI_10560"
+      ],
+      "gar": [
+        "AOZ07_05530"
+      ],
+      "krh": [
+        "KRH_10510"
+      ],
+      "kpl": [
+        "KPaMU14_04550"
+      ],
+      "kfv": [
+        "AS188_12305"
+      ],
+      "mlu": [
+        "Mlut_13240"
+      ],
+      "rmu": [
+        "RMDY18_08250"
+      ],
+      "rdn": [
+        "HMPREF0733_12128"
+      ],
+      "raj": [
+        "RA11412_2076",
+        "RA11412_2077"
+      ],
+      "satk": [
+        "SA2016_3972"
+      ],
+      "nae": [
+        "BHE16_01725"
+      ],
+      "bfa": [
+        "Bfae_17450"
+      ],
+      "brx": [
+        "BH708_04345"
+      ],
+      "brv": [
+        "CFK39_01160"
+      ],
+      "bgg": [
+        "CFK41_08045"
+      ],
+      "brz": [
+        "CFK38_10145"
+      ],
+      "dva": [
+        "DAD186_09750"
+      ],
+      "kse": [
+        "Ksed_07150"
+      ],
+      "iva": [
+        "Isova_0150"
+      ],
+      "ido": [
+        "I598_2611"
+      ],
+      "cet": [
+        "B8281_09845"
+      ],
+      "cceu": [
+        "CBR64_01280"
+      ],
+      "ske": [
+        "Sked_36600"
+      ],
+      "serj": [
+        "SGUI_1320"
+      ],
+      "orn": [
+        "DV701_15455"
+      ],
+      "bly": [
+        "A2T55_16615"
+      ],
+      "blin": [
+        "BLSMQ_3614"
+      ],
+      "dco": [
+        "SAMEA4475696_0223"
+      ],
+      "mph": [
+        "MLP_50960"
+      ],
+      "noa": [
+        "BKM31_21640",
+        "BKM31_45965"
+      ],
+      "nml": [
+        "Namu_4241"
+      ],
+      "gob": [
+        "Gobs_2462"
+      ],
+      "mmar": [
+        "MODMU_2228"
+      ],
+      "kra": [
+        "Krad_1681"
+      ],
+      "aym": [
+        "YM304_23880"
+      ],
+      "lep": [
+        "Lepto7376_3112"
+      ],
+      "let": [
+        "O77CONTIG1_02654"
+      ],
+      "oac": [
+        "Oscil6304_4088"
+      ],
+      "cau": [
+        "Caur_3531"
+      ],
+      "chl": [
+        "Chy400_3808"
+      ],
+      "cag": [
+        "Cagg_0550"
+      ],
+      "dmr": [
+        "Deima_1162"
+      ],
+      "ote": [
+        "Oter_0858"
+      ],
+      "obg": [
+        "Verru16b_01069"
+      ],
+      "obt": [
+        "OPIT5_15255"
+      ],
+      "caa": [
+        "Caka_2478"
+      ],
+      "vba": [
+        "IMCC26134_13705"
+      ],
+      "vbh": [
+        "CMV30_08290"
+      ],
+      "rba": [
+        "RB6755"
+      ],
+      "psl": [
+        "Psta_3186"
+      ],
+      "pir": [
+        "VN12_12860"
+      ],
+      "plm": [
+        "Plim_3597"
+      ],
+      "pbs": [
+        "Plabr_4645"
+      ],
+      "pls": [
+        "VT03_04305"
+      ],
+      "plh": [
+        "VT85_06220"
+      ],
+      "fmr": [
+        "Fuma_03576"
+      ],
+      "ges": [
+        "VT84_31315"
+      ],
+      "gog": [
+        "C1280_33740"
+      ],
+      "ipa": [
+        "Isop_1050"
+      ],
+      "saci": [
+        "Sinac_3642"
+      ],
+      "pbor": [
+        "BSF38_04650"
+      ],
+      "leo": [
+        "AMK43_00220"
+      ],
+      "leq": [
+        "BCB68_08890"
+      ],
+      "gba": [
+        "J421_1812"
+      ],
+      "fib": [
+        "A6C57_02925"
+      ],
+      "hym": [
+        "N008_12480"
+      ],
+      "hyp": [
+        "A0257_05740"
+      ],
+      "fbt": [
+        "D770_13490"
+      ],
+      "flu": [
+        "CHH17_07910"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "6.1.3.1"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "6.1.3.1"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "6.1.3.1"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "6.1.3.1"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Sukovich DJ",
+          "Seffernick JL",
+          "Richman JE",
+          "Hunt KA",
+          "Gralnick JA",
+          "Wackett LP"
+        ],
+        "title": "Structure, function, and insights into the biosynthesis of a head-to-head hydrocarbon in Shewanella oneidensis strain MR-1.",
+        "journal": "Appl Environ Microbiol 76:3842-9 (2010) DOI:10.1128/AEM.00433-10",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:20418444]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Frias JA",
+          "Goblirsch BR",
+          "Wackett LP",
+          "Wilmot CM"
+        ],
+        "title": "Cloning, purification, crystallization and preliminary X-ray diffraction of the OleC protein from Stenotrophomonas maltophilia involved in head-to-head hydrocarbon biosynthesis.",
+        "journal": "Acta Crystallogr Sect F Struct Biol Cryst Commun 66:1108-10 (2010) DOI:10.1107/S1744309110031751",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:20823539]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kancharla P",
+          "Bonnett SA",
+          "Reynolds KA"
+        ],
+        "title": "Stenotrophomonas maltophilia OleC-Catalyzed ATP-Dependent Formation of Long-Chain Z-Olefins from 2-Alkyl-3-hydroxyalkanoic Acids.",
+        "journal": "Chembiochem 17:1426-9 (2016) DOI:10.1002/cbic.201600063",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:27238740]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Christenson JK",
+          "Richman JE",
+          "Jensen MR",
+          "Neufeld JY",
+          "Wilmot CM",
+          "Wackett LP"
+        ],
+        "title": "beta-Lactone Synthetase Found in the Olefin Biosynthesis Pathway.",
+        "journal": "Biochemistry 56:348-351 (2017) DOI:10.1021/acs.biochem.6b01199",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:28029240]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

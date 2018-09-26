@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R11743",
+    "name": "formylmethanofuran:ferredoxin oxidoreductase",
+    "definition": "Formylmethanofuran + 2 Oxidized ferredoxin + H2O <=> Methanofuran + 2 Reduced ferredoxin + CO2 + 2 H+",
+    "equation": "C21629 + 2 C00139 + C00001 <=> C21621 + 2 C00138 + C00011 + 2 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.7.12"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K00202": "formylmethanofuran dehydrogenase subunit C [EC:1.2.7.12]",
+      "K00203": "formylmethanofuran dehydrogenase subunit D [EC:1.2.7.12]",
+      "K00204": "4Fe-4S ferredoxin",
+      "K00205": "4Fe-4S ferredoxin",
+      "K11260": "4Fe-4S ferredoxin",
+      "K11261": "formylmethanofuran dehydrogenase subunit E [EC:1.2.7.12]"
+    }
+  }
+]

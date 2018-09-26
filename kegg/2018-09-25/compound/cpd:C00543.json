@@ -1,0 +1,149 @@
+[
+  {
+    "entry_id": "C00543",
+    "name": "Dimethylamine",
+    "names": [
+      "Dimethylamine",
+      "(CH3)2NH"
+    ],
+    "formula": "C2H7N",
+    "exact_mass": 45.0578,
+    "mol_weight": 45.0837,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01588",
+      "R02509",
+      "R02511",
+      "R02512",
+      "R02513",
+      "R08346",
+      "R09124",
+      "R09999",
+      "R10015",
+      "R10016",
+      "R11805"
+    ],
+    "pathways": {
+      "map00680": "Methane metabolism",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01200": "Carbon metabolism"
+    },
+    "enzymes": [
+      "1.4.3.4",
+      "1.5.8.1",
+      "1.5.8.2",
+      "1.14.13.238",
+      "2.1.1.247",
+      "2.1.1.249",
+      "2.1.1.250",
+      "3.5.1.56",
+      "3.5.3.18",
+      "4.1.2.32"
+    ],
+    "dblinks": {
+      "CAS": [
+        "124-40-3"
+      ],
+      "PubChem": [
+        "3824"
+      ],
+      "ChEBI": [
+        "17170"
+      ],
+      "ChEMBL": [
+        "CHEMBL120433"
+      ],
+      "PDB-CCD": [
+        "DMN"
+      ],
+      "3DMET": [
+        "B00125"
+      ],
+      "NIKKAJI": [
+        "J2.933E"
+      ]
+    },
+    "kcf": "ATOM        3\n            1   N1b N    28.8186  -23.0322\n            2   C1a C    27.5651  -23.8543\n            3   C1a C    29.8723  -23.7952\nBOND        2\n            1     1   2 1\n            2     1   3 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C00543",
+    "name": "Dimethylamine",
+    "names": [
+      "Dimethylamine",
+      "(CH3)2NH"
+    ],
+    "formula": "C2H7N",
+    "exact_mass": 45.0578,
+    "mol_weight": 45.0837,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01588",
+      "R02509",
+      "R02511",
+      "R02512",
+      "R02513",
+      "R08346",
+      "R09124",
+      "R09999",
+      "R10015",
+      "R10016",
+      "R11805"
+    ],
+    "pathways": {
+      "map00680": "Methane metabolism",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01200": "Carbon metabolism"
+    },
+    "enzymes": [
+      "1.4.3.4",
+      "1.5.8.1",
+      "1.5.8.2",
+      "1.14.13.238",
+      "2.1.1.247",
+      "2.1.1.249",
+      "2.1.1.250",
+      "3.5.1.56",
+      "3.5.3.18",
+      "4.1.2.32"
+    ],
+    "dblinks": {
+      "CAS": [
+        "124-40-3"
+      ],
+      "PubChem": [
+        "3824"
+      ],
+      "ChEBI": [
+        "17170"
+      ],
+      "ChEMBL": [
+        "CHEMBL120433"
+      ],
+      "PDB-CCD": [
+        "DMN"
+      ],
+      "3DMET": [
+        "B00125"
+      ],
+      "NIKKAJI": [
+        "J2.933E"
+      ]
+    },
+    "kcf": "ATOM        3\n            1   N1b N    28.8186  -23.0322\n            2   C1a C    27.5651  -23.8543\n            3   C1a C    29.8723  -23.7952\nBOND        2\n            1     1   2 1\n            2     1   3 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

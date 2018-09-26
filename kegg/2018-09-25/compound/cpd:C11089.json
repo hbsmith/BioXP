@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C11089",
+    "name": "Dichloroacetylene",
+    "names": [
+      "Dichloroacetylene"
+    ],
+    "formula": "C2Cl2",
+    "exact_mass": 93.9377,
+    "mol_weight": 94.9274,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "7572-29-4"
+      ],
+      "PubChem": [
+        "13271"
+      ],
+      "ChEBI": [
+        "4503"
+      ],
+      "NIKKAJI": [
+        "J33.811G"
+      ]
+    },
+    "kcf": "ATOM        4\n            1   C3b C    28.1358  -16.9633\n            2   C3b C    29.5358  -16.9633\n            3   X   Cl   30.9358  -16.9633\n            4   X   Cl   26.7358  -16.9633\nBOND        3\n            1     2   3 1\n            2     1   2 3\n            3     1   4 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08139",
+    "name": "",
+    "definition": "3-Dehydro-2-deoxyecdysone <=> 3-Dehydroecdysone",
+    "equation": "C16497 <=> C02513",
+    "comment": "CYP315A1: 2-hydroxylase",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00981": "Insect hormone biosynthesis"
+    },
+    "orthologs": {
+      "K10722": "ecdysteroid 2-hydroxylase"
+    }
+  }
+]

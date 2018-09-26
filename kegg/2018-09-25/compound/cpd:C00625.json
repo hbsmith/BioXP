@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C00625",
+    "name": "N-Acyl-D-mannosamine",
+    "names": [
+      "N-Acyl-D-mannosamine"
+    ],
+    "formula": "C7H12NO6R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R02650",
+      "R02651",
+      "R02652"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.233",
+      "2.7.1.60",
+      "5.1.3.8"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3898"
+      ],
+      "ChEBI": [
+        "16062"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C1y C    23.6346  -16.7319\n            2   C1y C    22.4250  -17.4294\n            3   C1y C    23.6346  -15.3429\n            4   N1b N    24.9833  -17.5685\n            5   C1y C    21.2153  -16.7319\n            6   O1a O    22.4313  -18.8248\n            7   O2x O    22.4250  -14.6517\n            8   O1a O    24.8442  -14.6517\n            9   C1y C    21.2153  -15.3429\n            10  O1a O    20.0249  -17.4294\n            11  C1b C    20.0249  -14.6517\n            12  O1a O    18.9560  -15.5476\n            13  C5a C    26.2024  -16.8700\n            14  R   R    27.4149  -17.5700\n            15  O5a O    26.2024  -15.6100\nBOND        15\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Up\n            6     3   7 1\n            7     3   8 1 #Either\n            8     5   9 1\n            9     5  10 1 #Down\n            10    9  11 1 #Up\n            11   11  12 1\n            12    7   9 1\n            13    4  13 1\n            14   13  14 1\n            15   13  15 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

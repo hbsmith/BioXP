@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R00159",
+    "name": "UTP phosphohydrolase",
+    "definition": "UTP + H2O <=> UDP + Orthophosphate",
+    "equation": "C00075 + C00001 <=> C00015 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.5",
+      "3.6.1.39"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+      "K01510": "apyrase [EC:3.6.1.5]",
+      "K14641": "apyrase [EC:3.6.1.5]",
+      "K14642": "golgi apyrase [EC:3.6.1.5]"
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "entry_id": "C00318",
+    "name": "L-Carnitine",
+    "names": [
+      "L-Carnitine",
+      "L-gamma-Trimethyl-beta-hydroxybutyrobetaine",
+      "Vitamin BT",
+      "3-Carboxy-2-hydroxy-N,N,N-trimethyl-1-propanaminium hydroxide, inner salt",
+      "Levocarnitine",
+      "(R)-Carnitine"
+    ],
+    "formula": "C7H15NO3",
+    "exact_mass": 161.1052,
+    "mol_weight": 161.1989,
+    "remark": "Same as: D02176",
+    "comment": "",
+    "reactions": [
+      "R01922",
+      "R01923",
+      "R01924",
+      "R03779",
+      "R10643",
+      "R10644",
+      "R11632",
+      "R11875",
+      "R11911"
+    ],
+    "pathways": {
+      "map04714": "Thermogenesis",
+      "map04976": "Bile secretion"
+    },
+    "enzymes": [
+      "1.14.13.239",
+      "2.3.1.21",
+      "2.3.1.137",
+      "2.8.3.21",
+      "3.1.1.28",
+      "3.5.1.73",
+      "6.2.1.48"
+    ],
+    "dblinks": {
+      "CAS": [
+        "541-15-1"
+      ],
+      "PubChem": [
+        "3612"
+      ],
+      "ChEBI": [
+        "16347"
+      ],
+      "ChEMBL": [
+        "CHEMBL1149",
+        "CHEMBL1229656"
+      ],
+      "PDB-CCD": [
+        "152"
+      ],
+      "NIKKAJI": [
+        "J9.362I"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1b C    23.3100  -15.1200\n            2   N1d N    24.4709  -15.8958 #+\n            3   C1c C    22.0674  -15.7441\n            4   C1a C    24.5235  -17.2900\n            5   C1a C    25.8010  -16.3333\n            6   C1b C    20.8366  -15.1141\n            7   O1a O    22.0674  -17.2609\n            8   C6a C    19.6757  -15.8725\n            9   O6a O    18.3981  -15.2482 #-\n            10  O6a O    19.6698  -17.1792\n            11  C1a C    25.8233  -15.1958\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     2   5 1\n            5     3   6 1\n            6     3   7 1 #Down\n            7     6   8 1\n            8     8   9 1\n            9     8  10 2\n            10    2  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

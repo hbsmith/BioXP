@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C19715",
+    "name": "N,N-Dihydroxy-L-phenylalanine",
+    "names": [
+      "N,N-Dihydroxy-L-phenylalanine"
+    ],
+    "formula": "C9H11NO4",
+    "exact_mass": 197.0688,
+    "mol_weight": 197.1879,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09580",
+      "R09581"
+    ],
+    "pathways": {
+      "map00460": "Cyanoamino acid metabolism",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.14.40"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "135626183"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    22.0672  -17.7449\n            2   C8x C    22.0672  -19.1502\n            3   C8x C    23.2843  -19.8530\n            4   C8x C    24.5013  -19.1502\n            5   C8x C    24.5013  -17.7449\n            6   C8x C    23.2843  -17.0424\n            7   C1b C    20.8503  -17.0424\n            8   C1c C    19.6503  -17.7353\n            9   C6a C    18.4584  -17.0473\n            10  O6a O    17.2626  -17.7378\n            11  O6a O    18.4582  -15.6373\n            12  N1c N    19.6502  -19.1499\n            13  O1b O    18.4415  -19.8478\n            14  O1b O    20.8906  -19.8656\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    9  11 2\n            12    8  12 1 #Down\n            13   12  13 1\n            14   12  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

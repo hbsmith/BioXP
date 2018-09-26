@@ -1,0 +1,183 @@
+[
+  {
+    "entry_id": "1.14.19.54",
+    "name": "1,2-dehydroreticuline synthase",
+    "names": [
+      "1,2-dehydroreticuline synthase",
+      "STORR",
+      "CYP82Y2 (gene name)",
+      "DRS (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With oxidation of a pair of donors resulting in the reduction of O2 to two molecules of water"
+    ],
+    "sysname": "(S)-reticuline,[reduced NADPH---hemoprotein reductase]:oxygen 1,2-oxidoreductase",
+    "reaction": "(S)-reticuline + [reduced NADPH---hemoprotein reductase] + O2 = 1,2-dehydroreticuline + [oxidized NADPH---hemoprotein reductase] + 2 H2O [RN:R03833]",
+    "all_reac": "R03833",
+    "iubmb_reactions": [
+      "R03833"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "(S)-reticuline [CPD:C02105]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "1,2-dehydroreticuline [CPD:C06167]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A P-450 (heme-thiolate) cytochrome. The enzyme from Papaver rhoeas (field poppy) is specific for (S)-reticuline and does not act on the (R)-form. The enzyme from Papaver somniferum (opium poppy), which is involved in the biosynthesis of morphine and related alkaloids, forms a fusion protein with EC 1.5.1.27, 1,2-dehydroreticulinium reductase (NADPH), which catalyses the reduction of 1,2-dehydroreticuline to (R)-reticuline, thus forming an epimerase system that converts (S)-reticuline to (R)-reticuline.",
+    "pathways": {
+      "ec00950": "Isoquinoline alkaloid biosynthesis",
+      "ec01100": "Metabolic pathways",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22093": "1,2-dehydroreticuline synthase/reductase"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.19.54"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.19.54"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.19.54"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.19.54"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Hirata K",
+          "Poeaknapo C",
+          "Schmidt J",
+          "Zenk MH"
+        ],
+        "title": "1,2-Dehydroreticuline synthase, the branch point enzyme opening the morphinan biosynthetic pathway.",
+        "journal": "Phytochemistry 65:1039-46 (2004) DOI:10.1016/j.phytochem.2004.02.015",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:15110683]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Winzer T",
+          "Kern M",
+          "King AJ",
+          "Larson TR",
+          "Teodor RI",
+          "Donninger SL",
+          "Li Y",
+          "Dowle AA",
+          "Cartwright J",
+          "Bates R",
+          "Ashford D",
+          "Thomas J",
+          "Walker C",
+          "Bowser TA",
+          "Graham IA"
+        ],
+        "title": "Plant science. Morphinan biosynthesis in opium poppy requires a P450-oxidoreductase fusion protein.",
+        "journal": "Science 349:309-12 (2015) DOI:10.1126/science.aab1852",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:26113639]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Farrow SC",
+          "Hagel JM",
+          "Beaudoin GA",
+          "Burns DC",
+          "Facchini PJ."
+        ],
+        "title": "Stereochemical inversion of (S)-reticuline by a cytochrome P450 fusion in opium poppy.",
+        "journal": "Nat Chem Biol 11:728-32 (2015) DOI:10.1038/nchembio.1879",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:26147354]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

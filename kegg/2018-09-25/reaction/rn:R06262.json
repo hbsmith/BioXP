@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06262",
+    "name": "dolichyl beta-D-glucosyl phosphate:D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->6)]-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol alpha-1,3-glucosyltransferase",
+    "definition": "Dolichyl D-glucosyl phosphate + G00007 <=> Dolichyl phosphate + G10598",
+    "equation": "G10618 + G00007 <=> G10622 + G10598",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.267"
+    ],
+    "pathways": {
+      "rn00510": "N-Glycan biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03848": "alpha-1,3-glucosyltransferase [EC:2.4.1.267]"
+    }
+  }
+]

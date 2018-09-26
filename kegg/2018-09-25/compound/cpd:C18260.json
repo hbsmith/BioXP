@@ -1,0 +1,77 @@
+[
+  {
+    "entry_id": "C18260",
+    "name": "1,6-Dimethoxypyrene",
+    "names": [
+      "1,6-Dimethoxypyrene"
+    ],
+    "formula": "C18H14O2",
+    "exact_mass": 262.0994,
+    "mol_weight": 262.3026,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09180"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "103061442"
+      ],
+      "ChEBI": [
+        "81611"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C8x C    23.6037  -20.3812\n            2   C8x C    23.6037  -21.7820\n            3   C8y C    24.8168  -22.4824\n            4   C8y C    26.0300  -21.7820\n            5   C8y C    26.0300  -20.3812\n            6   C8y C    24.8168  -19.6808\n            7   C8y C    27.2431  -19.6808\n            8   C8y C    27.2431  -18.2800\n            9   C8x C    26.0300  -17.5796\n            10  C8x C    24.8168  -18.2800\n            11  C8x C    27.2431  -22.4824\n            12  C8x C    28.4562  -21.7820\n            13  C8y C    28.4562  -20.3812\n            14  C8x C    29.6694  -19.6808\n            15  C8x C    29.6694  -18.2800\n            16  C8y C    28.4562  -17.5796\n            17  O2a O    28.4561  -16.1789\n            18  C1a C    29.6545  -15.4869\n            19  O2a O    24.8171  -23.8696\n            20  C1a C    23.6295  -24.5558\nBOND        23\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     5   7 2\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    6  10 2\n            12    4  11 1\n            13   11  12 2\n            14   12  13 1\n            15    7  13 1\n            16   13  14 2\n            17   14  15 1\n            18   15  16 2\n            19    8  16 1\n            20   16  17 1\n            21   17  18 1\n            22    3  19 1\n            23   19  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C18260",
+    "name": "1,6-Dimethoxypyrene",
+    "names": [
+      "1,6-Dimethoxypyrene"
+    ],
+    "formula": "C18H14O2",
+    "exact_mass": 262.0994,
+    "mol_weight": 262.3026,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09180"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "103061442"
+      ],
+      "ChEBI": [
+        "81611"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C8x C    23.6037  -20.3812\n            2   C8x C    23.6037  -21.7820\n            3   C8y C    24.8168  -22.4824\n            4   C8y C    26.0300  -21.7820\n            5   C8y C    26.0300  -20.3812\n            6   C8y C    24.8168  -19.6808\n            7   C8y C    27.2431  -19.6808\n            8   C8y C    27.2431  -18.2800\n            9   C8x C    26.0300  -17.5796\n            10  C8x C    24.8168  -18.2800\n            11  C8x C    27.2431  -22.4824\n            12  C8x C    28.4562  -21.7820\n            13  C8y C    28.4562  -20.3812\n            14  C8x C    29.6694  -19.6808\n            15  C8x C    29.6694  -18.2800\n            16  C8y C    28.4562  -17.5796\n            17  O2a O    28.4561  -16.1789\n            18  C1a C    29.6545  -15.4869\n            19  O2a O    24.8171  -23.8696\n            20  C1a C    23.6295  -24.5558\nBOND        23\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     5   7 2\n            8     7   8 1\n            9     8   9 2\n            10    9  10 1\n            11    6  10 2\n            12    4  11 1\n            13   11  12 2\n            14   12  13 1\n            15    7  13 1\n            16   13  14 2\n            17   14  15 1\n            18   15  16 2\n            19    8  16 1\n            20   16  17 1\n            21   17  18 1\n            22    3  19 1\n            23   19  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

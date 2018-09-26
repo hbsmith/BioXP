@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "R00994",
+    "name": "(2R,3S)-3-methylmalate:NAD+ oxidoreductase",
+    "definition": "2-Oxobutanoate + CO2 + NADH + H+ <=> D-erythro-3-Methylmalate + NAD+",
+    "equation": "C00109 + C00011 + C00004 + C00080 <=> C06032 + C00003",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.85"
+    ],
+    "pathways": {
+      "rn00290": "Valine, leucine and isoleucine biosynthesis",
+      "rn00660": "C5-Branched dibasic acid metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01210": "2-Oxocarboxylic acid metabolism",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K00052": "3-isopropylmalate dehydrogenase [EC:1.1.1.85]"
+    }
+  }
+][
+  {
+    "entry_id": "R00994",
+    "name": "(2R,3S)-3-methylmalate:NAD+ oxidoreductase",
+    "definition": "2-Oxobutanoate + CO2 + NADH + H+ <=> D-erythro-3-Methylmalate + NAD+",
+    "equation": "C00109 + C00011 + C00004 + C00080 <=> C06032 + C00003",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.85"
+    ],
+    "pathways": {
+      "rn00290": "Valine, leucine and isoleucine biosynthesis",
+      "rn00660": "C5-Branched dibasic acid metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01210": "2-Oxocarboxylic acid metabolism",
+      "rn01230": "Biosynthesis of amino acids"
+    },
+    "orthologs": {
+      "K00052": "3-isopropylmalate dehydrogenase [EC:1.1.1.85]"
+    }
+  }
+]

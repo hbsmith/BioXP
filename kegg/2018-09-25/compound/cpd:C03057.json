@@ -1,0 +1,58 @@
+[
+  {
+    "entry_id": "C03057",
+    "name": "2-Carboxybenzaldehyde",
+    "names": [
+      "2-Carboxybenzaldehyde",
+      "Phthalaldehydic acid",
+      "o-Formylbenzoic acid",
+      "2-Formylbenzoic acid",
+      "2-Formylbenzoate"
+    ],
+    "formula": "C8H6O3",
+    "exact_mass": 150.0317,
+    "mol_weight": 150.1314,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03465",
+      "R05643",
+      "R07713"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.2.1.78",
+      "4.1.2.34"
+    ],
+    "dblinks": {
+      "CAS": [
+        "119-67-5"
+      ],
+      "PubChem": [
+        "5957"
+      ],
+      "ChEBI": [
+        "17605"
+      ],
+      "ChEMBL": [
+        "CHEMBL234213"
+      ],
+      "3DMET": [
+        "B00532"
+      ],
+      "NIKKAJI": [
+        "J95.028I"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C8y C    28.0486  -19.8842\n            2   C8y C    26.8141  -19.1797\n            3   C8x C    28.0486  -21.3064\n            4   C4a C    29.1932  -19.1797\n            5   C8x C    25.5988  -19.8842\n            6   C6a C    26.8075  -17.7065\n            7   C8x C    26.8141  -22.0238\n            8   C8x C    25.5988  -21.3064\n            9   O6a O    28.0291  -17.0018\n            10  O6a O    25.5859  -17.0083\n            11  O4a O    30.4225  -19.8441\nBOND        11\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     5   8 1\n            8     6   9 1\n            9     6  10 2\n            10    7   8 2\n            11    4  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

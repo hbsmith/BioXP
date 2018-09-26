@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C00703",
+    "name": "Mercury(2+)",
+    "names": [
+      "Mercury(2+)",
+      "Hg2+",
+      "Mercuric ion"
+    ],
+    "formula": "Hg",
+    "exact_mass": 201.9706,
+    "mol_weight": 200.59,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02807",
+      "R03529",
+      "R09339"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.16.1.1",
+      "4.99.1.2"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3970"
+      ],
+      "ChEBI": [
+        "16793"
+      ],
+      "PDB-CCD": [
+        "HG"
+      ],
+      "NIKKAJI": [
+        "J2.730.414A"
+      ]
+    },
+    "kcf": "ATOM        1\n            1   Z   Hg   27.5100  -18.5500 #2+\nBOND        0\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C14142",
+    "name": "sec-Butylbenzene",
+    "names": [
+      "sec-Butylbenzene",
+      "(1-Methylpropyl)benzene",
+      "2-Phenylbutane"
+    ],
+    "formula": "C10H14",
+    "exact_mass": 134.1096,
+    "mol_weight": 134.2182,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "135-98-8"
+      ],
+      "PubChem": [
+        "7846954"
+      ],
+      "ChEBI": [
+        "35097"
+      ],
+      "ChEMBL": [
+        "CHEMBL27516"
+      ],
+      "NIKKAJI": [
+        "J5.616B"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C8y C    27.4621  -19.5483\n            2   C8x C    27.4621  -20.9497\n            3   C8x C    26.2709  -21.6504\n            4   C8x C    25.0096  -20.9497\n            5   C8x C    25.0096  -19.5483\n            6   C8x C    26.2709  -18.8476\n            7   C1c C    28.6533  -18.8476\n            8   C1b C    29.8445  -19.5483\n            9   C1a C    28.6533  -17.4461\n            10  C1a C    31.0357  -18.8476\nBOND        10\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 1\n            8     7   8 1\n            9     7   9 1\n            10    8  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

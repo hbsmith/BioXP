@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05471",
+    "name": "clavulanate:NADP+ oxidoreductase",
+    "definition": "Clavulanate-9-aldehyde + NADPH + H+ <=> Clavulanic acid + NADP+",
+    "equation": "C06661 + C00005 + C00080 <=> C06662 + C00006",
+    "comment": "car, clavulanate-9-aldehyde reductase cad, clavulanic acid dehydrogenase",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00331": "Clavulanic acid biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12677": "clavulanate-9-aldehyde reducatase"
+    }
+  }
+]

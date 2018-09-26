@@ -1,0 +1,27 @@
+[
+  {
+    "entry_id": "R00750",
+    "name": "4-hydroxy-2-oxopentanoate pyruvate-lyase (acetaldehyde-forming)",
+    "definition": "Acetaldehyde + Pyruvate <=> 4-Hydroxy-2-oxopentanoate",
+    "equation": "C00084 + C00022 <=> C03589",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.3.39"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism",
+      "rn00362": "Benzoate degradation",
+      "rn00621": "Dioxin degradation",
+      "rn00622": "Xylene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K01666": "4-hydroxy 2-oxovalerate aldolase [EC:4.1.3.39]",
+      "K18365": "4-hydroxy-2-oxovalerate/4-hydroxy-2-oxohexanoate aldolase [EC:4.1.3.39 4.1.3.43]"
+    }
+  }
+]

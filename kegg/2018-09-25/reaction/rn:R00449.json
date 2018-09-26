@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R00449",
+    "name": "L-Lysine:oxygen 2-oxidoreductase (decarboxylating)",
+    "definition": "L-Lysine + Oxygen <=> 5-Aminopentanamide + CO2 + H2O",
+    "equation": "C00047 + C00007 <=> C00990 + C00011 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.12.2"
+    ],
+    "pathways": {
+      "rn00310": "Lysine degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R12007",
+    "name": "cucurbitadienol,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (11-oxocucurbitadienol forming)",
+    "definition": "Cucurbitadienol + 2 [Reduced NADPH---hemoprotein reductase] + 2 Oxygen <=> 11-Oxocucurbitadienol + 2 [Oxidized NADPH---hemoprotein reductase] + 3 H2O",
+    "equation": "C19819 + 2 C03024 + 2 C00007 <=> C21841 + 2 C03161 + 3 C00001",
+    "comment": "two-step reaction (see R12008+R12009)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.71"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

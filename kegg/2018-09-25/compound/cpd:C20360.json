@@ -1,0 +1,81 @@
+[
+  {
+    "entry_id": "C20360",
+    "name": "Sodium methallylsulfonate",
+    "names": [
+      "Sodium methallylsulfonate",
+      "Sodium methallyl sulfonate"
+    ],
+    "formula": "C4H7O3S. Na",
+    "exact_mass": 158.0014,
+    "mol_weight": 158.1513,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1561-92-8"
+      ],
+      "PubChem": [
+        "163312098"
+      ],
+      "ChEMBL": [
+        "CHEMBL3181810"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C2c C    17.2200  -19.8100\n            2   C1b C    18.4324  -20.5100\n            3   S4a S    19.6279  -19.8196\n            4   O1d O    20.8404  -19.1196 #-\n            5   O1d O    18.9279  -18.6072\n            6   O1d O    20.3279  -21.0320\n            7   C2a C    17.2200  -18.4100\n            8   C1a C    16.0076  -20.5100\n            9   Z   Na   22.5400  -19.8100 #+\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 2\n            5     3   6 2\n            6     1   7 2\n            7     1   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C20360",
+    "name": "Sodium methallylsulfonate",
+    "names": [
+      "Sodium methallylsulfonate",
+      "Sodium methallyl sulfonate"
+    ],
+    "formula": "C4H7O3S. Na",
+    "exact_mass": 158.0014,
+    "mol_weight": 158.1513,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1561-92-8"
+      ],
+      "PubChem": [
+        "163312098"
+      ],
+      "ChEMBL": [
+        "CHEMBL3181810"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C2c C    17.2200  -19.8100\n            2   C1b C    18.4324  -20.5100\n            3   S4a S    19.6279  -19.8196\n            4   O1d O    20.8404  -19.1196 #-\n            5   O1d O    18.9279  -18.6072\n            6   O1d O    20.3279  -21.0320\n            7   C2a C    17.2200  -18.4100\n            8   C1a C    16.0076  -20.5100\n            9   Z   Na   22.5400  -19.8100 #+\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 2\n            5     3   6 2\n            6     1   7 2\n            7     1   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

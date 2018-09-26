@@ -1,0 +1,81 @@
+[
+  {
+    "entry_id": "C14799",
+    "name": "(1R,2R)-3-[(1,2-Dihydro-2-hydroxy-1-naphthalenyl)thio]-2-oxopropanoic acid",
+    "names": [
+      "(1R,2R)-3-[(1,2-Dihydro-2-hydroxy-1-naphthalenyl)thio]-2-oxopropanoic acid"
+    ],
+    "formula": "C13H12O4S",
+    "exact_mass": 264.0456,
+    "mol_weight": 264.297,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07007"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17395797"
+      ],
+      "ChEBI": [
+        "33997"
+      ],
+      "NIKKAJI": [
+        "J2.789.421F"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C8x C    22.1009  -19.3770\n            2   C8x C    22.1009  -20.7897\n            3   C8x C    23.3018  -21.4962\n            4   C8y C    24.5733  -20.7897\n            5   C8y C    24.5733  -19.3770\n            6   C8x C    23.3018  -18.6706\n            7   C2x C    25.7742  -21.4962\n            8   C2x C    26.9751  -20.7897\n            9   C1y C    26.9751  -19.3770\n            10  C1y C    25.7742  -18.6706\n            11  S2a S    25.7742  -17.2591\n            12  O1a O    28.1759  -18.6706\n            13  C5a C    26.9751  -15.1399\n            14  C6a C    25.7035  -14.5042\n            15  O5a O    28.1759  -14.4336\n            16  C1b C    26.9751  -16.5527\n            17  O6a O    25.7042  -13.0914\n            18  O6a O    24.5027  -15.2106\nBOND        19\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 1\n            11    5  10 1\n            12   10  11 1 #Up\n            13    9  12 1 #Down\n            14   13  14 1\n            15   13  15 2\n            16   13  16 1\n            17   14  17 2\n            18   14  18 1\n            19   16  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C14799",
+    "name": "(1R,2R)-3-[(1,2-Dihydro-2-hydroxy-1-naphthalenyl)thio]-2-oxopropanoic acid",
+    "names": [
+      "(1R,2R)-3-[(1,2-Dihydro-2-hydroxy-1-naphthalenyl)thio]-2-oxopropanoic acid"
+    ],
+    "formula": "C13H12O4S",
+    "exact_mass": 264.0456,
+    "mol_weight": 264.297,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07007"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17395797"
+      ],
+      "ChEBI": [
+        "33997"
+      ],
+      "NIKKAJI": [
+        "J2.789.421F"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C8x C    22.1009  -19.3770\n            2   C8x C    22.1009  -20.7897\n            3   C8x C    23.3018  -21.4962\n            4   C8y C    24.5733  -20.7897\n            5   C8y C    24.5733  -19.3770\n            6   C8x C    23.3018  -18.6706\n            7   C2x C    25.7742  -21.4962\n            8   C2x C    26.9751  -20.7897\n            9   C1y C    26.9751  -19.3770\n            10  C1y C    25.7742  -18.6706\n            11  S2a S    25.7742  -17.2591\n            12  O1a O    28.1759  -18.6706\n            13  C5a C    26.9751  -15.1399\n            14  C6a C    25.7035  -14.5042\n            15  O5a O    28.1759  -14.4336\n            16  C1b C    26.9751  -16.5527\n            17  O6a O    25.7042  -13.0914\n            18  O6a O    24.5027  -15.2106\nBOND        19\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 1\n            11    5  10 1\n            12   10  11 1 #Up\n            13    9  12 1 #Down\n            14   13  14 1\n            15   13  15 2\n            16   13  16 1\n            17   14  17 2\n            18   14  18 1\n            19   16  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

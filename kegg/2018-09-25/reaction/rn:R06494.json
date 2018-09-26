@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06494",
+    "name": "",
+    "definition": "Avermectin A2b aglycone + dTDP-L-oleandrose <=> Avermectin A2b monosaccharide + dTDP",
+    "equation": "C11956 + C11921 <=> C11958 + C00363",
+    "comment": "glycosyl transferase,AveB1",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.-"
+    ],
+    "pathways": {
+      "rn00522": "Biosynthesis of 12-, 14- and 16-membered macrolides"
+    },
+    "orthologs": {
+      "K14375": "dTDP-L-oleandrosyltransferase [EC:2.4.1.-]"
+    }
+  }
+]

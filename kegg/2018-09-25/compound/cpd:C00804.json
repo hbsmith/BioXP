@@ -1,0 +1,117 @@
+[
+  {
+    "entry_id": "C00804",
+    "name": "Propynoate",
+    "names": [
+      "Propynoate",
+      "Propiolic acid",
+      "Acetylenecarboxylic acid",
+      "Acetylenemonocarboxylate"
+    ],
+    "formula": "C3H2O2",
+    "exact_mass": 70.0055,
+    "mol_weight": 70.0468,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01611",
+      "R02940",
+      "R03535"
+    ],
+    "pathways": {
+      "map00410": "beta-Alanine metabolism",
+      "map00640": "Propanoate metabolism"
+    },
+    "enzymes": [
+      "1.2.1.3",
+      "1.2.5.2",
+      "4.2.1.27"
+    ],
+    "dblinks": {
+      "CAS": [
+        "471-25-0"
+      ],
+      "PubChem": [
+        "4062"
+      ],
+      "ChEBI": [
+        "15364",
+        "33199"
+      ],
+      "ChEMBL": [
+        "CHEMBL1213530"
+      ],
+      "3DMET": [
+        "B00178"
+      ],
+      "NIKKAJI": [
+        "J5.941B"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C6a C    22.7428  -16.1731\n            2   C3b C    21.5324  -16.8684\n            3   O6a O    23.9597  -16.8684\n            4   O6a O    22.7428  -14.7696\n            5   C3a C    20.3221  -17.5703\nBOND        4\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C00804",
+    "name": "Propynoate",
+    "names": [
+      "Propynoate",
+      "Propiolic acid",
+      "Acetylenecarboxylic acid",
+      "Acetylenemonocarboxylate"
+    ],
+    "formula": "C3H2O2",
+    "exact_mass": 70.0055,
+    "mol_weight": 70.0468,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01611",
+      "R02940",
+      "R03535"
+    ],
+    "pathways": {
+      "map00410": "beta-Alanine metabolism",
+      "map00640": "Propanoate metabolism"
+    },
+    "enzymes": [
+      "1.2.1.3",
+      "1.2.5.2",
+      "4.2.1.27"
+    ],
+    "dblinks": {
+      "CAS": [
+        "471-25-0"
+      ],
+      "PubChem": [
+        "4062"
+      ],
+      "ChEBI": [
+        "15364",
+        "33199"
+      ],
+      "ChEMBL": [
+        "CHEMBL1213530"
+      ],
+      "3DMET": [
+        "B00178"
+      ],
+      "NIKKAJI": [
+        "J5.941B"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C6a C    22.7428  -16.1731\n            2   C3b C    21.5324  -16.8684\n            3   O6a O    23.9597  -16.8684\n            4   O6a O    22.7428  -14.7696\n            5   C3a C    20.3221  -17.5703\nBOND        4\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R02407",
+    "name": "succinyl-CoA:itaconate CoA-transferase",
+    "definition": "Succinyl-CoA + Itaconate <=> Succinate + Itaconyl-CoA",
+    "equation": "C00091 + C00490 <=> C00042 + C00531",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.-"
+    ],
+    "pathways": {
+      "rn00660": "C5-Branched dibasic acid metabolism"
+    },
+    "orthologs": {
+      "K18288": "itaconate CoA-transferase [EC:2.8.3.-]",
+      "K18289": "itaconate CoA-transferase [EC:2.8.3.- 2.8.3.22]"
+    }
+  }
+][
+  {
+    "entry_id": "R02407",
+    "name": "succinyl-CoA:itaconate CoA-transferase",
+    "definition": "Succinyl-CoA + Itaconate <=> Succinate + Itaconyl-CoA",
+    "equation": "C00091 + C00490 <=> C00042 + C00531",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.-"
+    ],
+    "pathways": {
+      "rn00660": "C5-Branched dibasic acid metabolism"
+    },
+    "orthologs": {
+      "K18288": "itaconate CoA-transferase [EC:2.8.3.-]",
+      "K18289": "itaconate CoA-transferase [EC:2.8.3.- 2.8.3.22]"
+    }
+  }
+]

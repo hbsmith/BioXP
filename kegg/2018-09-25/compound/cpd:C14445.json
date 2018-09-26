@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C14445",
+    "name": "Tris(2-chloroethyl)phosphate",
+    "names": [
+      "Tris(2-chloroethyl)phosphate"
+    ],
+    "formula": "C6H12Cl3O4P",
+    "exact_mass": 283.9539,
+    "mol_weight": 285.4898,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "115-96-8"
+      ],
+      "PubChem": [
+        "17395445"
+      ],
+      "ChEBI": [
+        "35037"
+      ],
+      "ChEMBL": [
+        "CHEMBL1413786"
+      ],
+      "NIKKAJI": [
+        "J4.095I"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   P1b P    28.2967  -14.8027\n            2   O3b O    28.2967  -13.4060\n            3   O2b O    26.9000  -14.8027\n            4   O2b O    28.2967  -16.1994\n            5   O2b O    29.6933  -14.8027\n            6   C1b C    30.9028  -14.1044\n            7   C1b C    32.1125  -14.8027\n            8   X   Cl   33.3220  -14.1044\n            9   C1b C    25.6905  -14.1044\n            10  C1b C    24.4809  -14.8027\n            11  C1b C    27.5983  -17.4089\n            12  C1b C    28.2967  -18.6185\n            13  X   Cl   23.2526  -14.0933\n            14  X   Cl   27.5874  -19.8466\nBOND        13\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     3   9 1\n            9     9  10 1\n            10    4  11 1\n            11   11  12 1\n            12   10  13 1\n            13   12  14 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

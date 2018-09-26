@@ -1,0 +1,153 @@
+[
+  {
+    "entry_id": "C00601",
+    "name": "Phenylacetaldehyde",
+    "names": [
+      "Phenylacetaldehyde",
+      "alpha-Tolualdehyde"
+    ],
+    "formula": "C8H8O",
+    "exact_mass": 120.0575,
+    "mol_weight": 120.1485,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01377",
+      "R02536",
+      "R02537",
+      "R02611",
+      "R02612",
+      "R02613",
+      "R02615",
+      "R10697",
+      "R11918"
+    ],
+    "pathways": {
+      "map00360": "Phenylalanine metabolism",
+      "map00643": "Styrene degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.1.90",
+      "1.2.1.5",
+      "1.2.1.39",
+      "1.4.3.4",
+      "1.4.3.21",
+      "1.4.9.2",
+      "4.1.1.43",
+      "4.1.1.109",
+      "4.1.1.-",
+      "5.3.99.7"
+    ],
+    "dblinks": {
+      "CAS": [
+        "122-78-1"
+      ],
+      "PubChem": [
+        "3876"
+      ],
+      "ChEBI": [
+        "16424"
+      ],
+      "ChEMBL": [
+        "CHEMBL1233464"
+      ],
+      "KNApSAcK": [
+        "C00007535"
+      ],
+      "PDB-CCD": [
+        "HY1"
+      ],
+      "3DMET": [
+        "B00145"
+      ],
+      "NIKKAJI": [
+        "J2.494E"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    14.9800  -23.8700\n            2   C8x C    14.9800  -25.2700\n            3   C8x C    16.1924  -25.9700\n            4   C8x C    17.4049  -25.2700\n            5   C8x C    17.4049  -23.8700\n            6   C8y C    16.1924  -23.1700\n            7   C1b C    16.1924  -21.7702\n            8   C4a C    17.3880  -21.0798\n            9   O4a O    18.5752  -21.7652\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     8   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C00601",
+    "name": "Phenylacetaldehyde",
+    "names": [
+      "Phenylacetaldehyde",
+      "alpha-Tolualdehyde"
+    ],
+    "formula": "C8H8O",
+    "exact_mass": 120.0575,
+    "mol_weight": 120.1485,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01377",
+      "R02536",
+      "R02537",
+      "R02611",
+      "R02612",
+      "R02613",
+      "R02615",
+      "R10697",
+      "R11918"
+    ],
+    "pathways": {
+      "map00360": "Phenylalanine metabolism",
+      "map00643": "Styrene degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.1.1.90",
+      "1.2.1.5",
+      "1.2.1.39",
+      "1.4.3.4",
+      "1.4.3.21",
+      "1.4.9.2",
+      "4.1.1.43",
+      "4.1.1.109",
+      "4.1.1.-",
+      "5.3.99.7"
+    ],
+    "dblinks": {
+      "CAS": [
+        "122-78-1"
+      ],
+      "PubChem": [
+        "3876"
+      ],
+      "ChEBI": [
+        "16424"
+      ],
+      "ChEMBL": [
+        "CHEMBL1233464"
+      ],
+      "KNApSAcK": [
+        "C00007535"
+      ],
+      "PDB-CCD": [
+        "HY1"
+      ],
+      "3DMET": [
+        "B00145"
+      ],
+      "NIKKAJI": [
+        "J2.494E"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    14.9800  -23.8700\n            2   C8x C    14.9800  -25.2700\n            3   C8x C    16.1924  -25.9700\n            4   C8x C    17.4049  -25.2700\n            5   C8x C    17.4049  -23.8700\n            6   C8y C    16.1924  -23.1700\n            7   C1b C    16.1924  -21.7702\n            8   C4a C    17.3880  -21.0798\n            9   O4a O    18.5752  -21.7652\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     6   7 1\n            8     7   8 1\n            9     8   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

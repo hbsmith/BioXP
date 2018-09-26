@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C15242",
+    "name": "8-Chloro-2,7-dibenzofurandiol",
+    "names": [
+      "8-Chloro-2,7-dibenzofurandiol",
+      "3,8-Dihydroxy-2-chlorodibenzofuran"
+    ],
+    "formula": "C12H7ClO3",
+    "exact_mass": 234.0084,
+    "mol_weight": 234.6352,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17396239"
+      ],
+      "ChEBI": [
+        "79744"
+      ],
+      "NIKKAJI": [
+        "J2.791.381D"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8y C    25.3084  -18.6551\n            2   C8y C    25.3084  -19.9935\n            3   O2x O    26.4674  -20.6627\n            4   C8y C    27.6266  -19.9935\n            5   C8y C    27.6266  -18.6551\n            6   C8x C    28.7856  -20.6627\n            7   C8y C    29.9444  -19.9935\n            8   C8y C    29.9444  -18.6551\n            9   C8x C    28.7856  -17.9860\n            10  C8x C    24.1494  -17.9860\n            11  C8y C    22.9903  -18.6551\n            12  C8x C    22.9903  -19.9935\n            13  C8x C    24.1494  -20.6627\n            14  O1a O    21.8135  -17.9755\n            15  O1a O    31.1451  -20.6864\n            16  X   Cl   31.1530  -17.9574\nBOND        18\n            1     1   2 2\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     4   6 2\n            7     6   7 1\n            8     7   8 2\n            9     8   9 1\n            10    5   9 2\n            11    1  10 1\n            12   10  11 2\n            13   11  12 1\n            14   12  13 2\n            15    2  13 1\n            16   11  14 1\n            17    7  15 1\n            18    8  16 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C14860",
+    "name": "2,2-Dichloro-1,1-ethanediol",
+    "names": [
+      "2,2-Dichloro-1,1-ethanediol"
+    ],
+    "formula": "C2H4Cl2O2",
+    "exact_mass": 129.9588,
+    "mol_weight": 130.958,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07095"
+    ],
+    "pathways": {
+      "map00980": "Metabolism of xenobiotics by cytochrome P450"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "16086-14-9"
+      ],
+      "PubChem": [
+        "17395858"
+      ],
+      "ChEBI": [
+        "34213"
+      ],
+      "NIKKAJI": [
+        "J286.813J"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   X   Cl   23.3793  -20.3151\n            2   C1c C    24.5881  -21.0130\n            3   C1c C    25.7975  -20.3147\n            4   O1a O    27.0277  -21.0252\n            5   O1a O    25.7977  -18.9276\n            6   X   Cl   24.5880  -22.3999\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     3   5 1\n            5     2   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R08571",
+    "name": "glyceraldehyde ferredoxin oxidoreductase",
+    "definition": "D-Glyceraldehyde + H2O + Oxidized ferredoxin <=> D-Glycerate + H+ + Reduced ferredoxin",
+    "equation": "C00577 + C00001 + C00139 <=> C00258 + C00080 + C00138",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.7.5"
+    ],
+    "pathways": {
+      "rn00030": "Pentose phosphate pathway",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01200": "Carbon metabolism"
+    },
+    "orthologs": {
+      "K03738": "aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]"
+    }
+  }
+]

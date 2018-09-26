@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06591",
+    "name": "phosphoenolpyruvate:imino-D-erythrose-4-phosphate C-(1-carboxyvinyl)transferase (phosphate hydrolysing, 2-carboxy-2-oxoethyl-forming)",
+    "definition": "Iminoerythrose 4-phosphate + Phosphoenolpyruvate + H2O <=> AminoDAHP + Orthophosphate",
+    "equation": "C12215 + C00074 + C00001 <=> C12106 + C00009",
+    "comment": "aminoDAHP synthase, RifH",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01051": "Biosynthesis of ansamycins",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K16019": "3,4-Dideoxy-4-amino-D-arabino-heptulosonate 7-phosphate synthase"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R07172",
+    "name": "NADPH:oxygen oxidoreductase",
+    "definition": "NADPH + H+ + Oxygen <=> NADP+ + Hydrogen peroxide",
+    "equation": "C00005 + C00080 + C00007 <=> C00006 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.6.3.1"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R09187",
+    "name": "",
+    "definition": "C-9 Reduced nonaketamide <=> Nonaketamide monocyclic intermediate + 2 H2O",
+    "equation": "C12442 <=> C18293 + 2 C00001",
+    "comment": "bifunctional cyclase/aromatase, OxyK (otcD1)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.-"
+    ],
+    "pathways": {
+      "rn00253": "Tetracycline biosynthesis",
+      "rn01056": "Biosynthesis of type II polyketide backbone",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K14249": "bifunctional cyclase/aromatase [EC:4.2.1.-]"
+    }
+  }
+]

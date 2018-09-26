@@ -1,0 +1,89 @@
+[
+  {
+    "entry_id": "C05714",
+    "name": "alpha-Aminopropiononitrile",
+    "names": [
+      "alpha-Aminopropiononitrile"
+    ],
+    "formula": "C3H6N2",
+    "exact_mass": 70.0531,
+    "mol_weight": 70.0931,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01410",
+      "R03542"
+    ],
+    "pathways": {
+      "map00460": "Cyanoamino acid metabolism"
+    },
+    "enzymes": [
+      "3.5.5.1"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8021"
+      ],
+      "ChEBI": [
+        "27959"
+      ],
+      "3DMET": [
+        "B05108"
+      ],
+      "NIKKAJI": [
+        "J27.747I"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C1c C    30.4557  -21.0700\n            2   C3b C    31.6664  -20.3676\n            3   C1a C    29.2452  -20.3709\n            4   N1a N    30.4524  -22.4715\n            5   N3a N    32.8804  -21.0666\nBOND        4\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C05714",
+    "name": "alpha-Aminopropiononitrile",
+    "names": [
+      "alpha-Aminopropiononitrile"
+    ],
+    "formula": "C3H6N2",
+    "exact_mass": 70.0531,
+    "mol_weight": 70.0931,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R01410",
+      "R03542"
+    ],
+    "pathways": {
+      "map00460": "Cyanoamino acid metabolism"
+    },
+    "enzymes": [
+      "3.5.5.1"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8021"
+      ],
+      "ChEBI": [
+        "27959"
+      ],
+      "3DMET": [
+        "B05108"
+      ],
+      "NIKKAJI": [
+        "J27.747I"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   C1c C    30.4557  -21.0700\n            2   C3b C    31.6664  -20.3676\n            3   C1a C    29.2452  -20.3709\n            4   N1a N    30.4524  -22.4715\n            5   N3a N    32.8804  -21.0666\nBOND        4\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

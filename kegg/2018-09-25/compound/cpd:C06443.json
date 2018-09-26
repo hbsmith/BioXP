@@ -1,0 +1,35 @@
+[
+  {
+    "entry_id": "C06443",
+    "name": "Hydroxamate",
+    "names": [
+      "Hydroxamate",
+      "Hydroxamic acid"
+    ],
+    "formula": "CH2NO2R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "8677"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   R   R    16.8000  -13.3000\n            2   C5a C    18.0124  -12.6000\n            3   N1b N    19.2249  -13.3000\n            4   O1b O    20.4373  -12.6000\n            5   O5a O    18.0124  -11.2002\nBOND        4\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     2   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11657",
+    "name": "ent-sandaracopimaradien-3beta-ol,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (oryzalexin E forming)",
+    "definition": "ent-Sandaracopimaradien-3beta-ol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Oryzalexin E + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C21560 + C03024 + C00007 <=> C21561 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.122"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K21718": "oryzalexin E synthase [EC:1.14.14.122]"
+    }
+  }
+]

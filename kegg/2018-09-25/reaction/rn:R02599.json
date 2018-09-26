@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R02599",
+    "name": "CTP:N-acylneuraminate cytidylyltransferase",
+    "definition": "CTP + N-Acylneuraminate <=> Diphosphate + CMP-N-acylneuraminate",
+    "equation": "C00063 + C00591 <=> C00013 + C01064",
+    "comment": "R= -CH3 or -CH2OH (see R01117 and R04215)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.7.43"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

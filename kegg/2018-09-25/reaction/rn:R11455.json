@@ -1,0 +1,35 @@
+[
+  {
+    "entry_id": "R11455",
+    "name": "ethylenediaminetetraacetate,FMNH2:O2 oxidoreductase (glyoxylate-forming)",
+    "definition": "Ethylenediaminetriacetic acid + Reduced FMN + Oxygen <=> Ethylenediamine-N,N'-diacetic acid + Glyoxylate + FMN + H2O",
+    "equation": "C21396 + C01847 + C00007 <=> C21397 + C00048 + C00061 + C00001",
+    "comment": "second step of two-step reaction (see R11456, R11454+R11455)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.33"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+][
+  {
+    "entry_id": "R11455",
+    "name": "ethylenediaminetetraacetate,FMNH2:O2 oxidoreductase (glyoxylate-forming)",
+    "definition": "Ethylenediaminetriacetic acid + Reduced FMN + Oxygen <=> Ethylenediamine-N,N'-diacetic acid + Glyoxylate + FMN + H2O",
+    "equation": "C21396 + C01847 + C00007 <=> C21397 + C00048 + C00061 + C00001",
+    "comment": "second step of two-step reaction (see R11456, R11454+R11455)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.33"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

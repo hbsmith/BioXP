@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06297",
+    "name": "ent-kaur-16-en-19-oate,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (hydroxylating)",
+    "definition": "Gibberellin A12 aldehyde + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Gibberellin A12 + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C06093 + C03024 + C00007 <=> C11857 + C03161 + C00001",
+    "comment": "the last step of three-step reaction (see R10067, R06294+R06295+R06297)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.107"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K04123": "ent-kaurenoic acid monooxygenase [EC:1.14.14.107]"
+    }
+  }
+]

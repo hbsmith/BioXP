@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "R03172",
+    "name": "(S)-2-methylbutanoyl-CoA:acceptor 2,3-oxidoreductase",
+    "definition": "(S)-2-Methylbutanoyl-CoA + Acceptor <=> 2-Methylbut-2-enoyl-CoA + Reduced acceptor",
+    "equation": "C15980 + C00028 <=> C03345 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.8.1",
+      "1.3.8.7",
+      "1.3.99.12"
+    ],
+    "pathways": {
+      "rn00280": "Valine, leucine and isoleucine degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00248": "butyryl-CoA dehydrogenase [EC:1.3.8.1]",
+      "K00249": "acyl-CoA dehydrogenase [EC:1.3.8.7]",
+      "K09478": "short/branched chain acyl-CoA dehydrogenase [EC:1.3.99.12]",
+      "K11410": "short/branched chain acyl-CoA dehydrogenase [EC:1.3.99.12]"
+    }
+  }
+][
+  {
+    "entry_id": "R03172",
+    "name": "(S)-2-methylbutanoyl-CoA:acceptor 2,3-oxidoreductase",
+    "definition": "(S)-2-Methylbutanoyl-CoA + Acceptor <=> 2-Methylbut-2-enoyl-CoA + Reduced acceptor",
+    "equation": "C15980 + C00028 <=> C03345 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.3.8.1",
+      "1.3.8.7",
+      "1.3.99.12"
+    ],
+    "pathways": {
+      "rn00280": "Valine, leucine and isoleucine degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K00248": "butyryl-CoA dehydrogenase [EC:1.3.8.1]",
+      "K00249": "acyl-CoA dehydrogenase [EC:1.3.8.7]",
+      "K09478": "short/branched chain acyl-CoA dehydrogenase [EC:1.3.99.12]",
+      "K11410": "short/branched chain acyl-CoA dehydrogenase [EC:1.3.99.12]"
+    }
+  }
+]

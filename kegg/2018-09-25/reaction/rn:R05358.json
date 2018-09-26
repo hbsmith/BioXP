@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05358",
+    "name": "Acrylonitrile aminohydrolase",
+    "definition": "Acrylonitrile + 2 H2O <=> Acrylic acid + Ammonia",
+    "equation": "C01998 + 2 C00001 <=> C00511 + C00014",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.5.7"
+    ],
+    "pathways": {
+      "rn00643": "Styrene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01502": "aliphatic nitrilase [EC:3.5.5.7]"
+    }
+  }
+]

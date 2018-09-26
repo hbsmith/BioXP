@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05510",
+    "name": "Protoanemonin lactonohydrolase",
+    "definition": "Protoanemonin + H2O <=> cis-Acetylacrylate",
+    "equation": "C07090 + C00001 <=> C07091",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.1.45"
+    ],
+    "pathways": {
+      "rn00361": "Chlorocyclohexane and chlorobenzene degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K01061": "carboxymethylenebutenolidase [EC:3.1.1.45]"
+    }
+  }
+]

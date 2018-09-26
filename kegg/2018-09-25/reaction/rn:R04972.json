@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "R04972",
+    "name": "Uroporphyrinogen I carboxy-lyase",
+    "definition": "Uroporphyrinogen I <=> Coproporphyrinogen I + 4 CO2",
+    "equation": "C05766 <=> C05768 + 4 C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.37"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K01599": "uroporphyrinogen decarboxylase [EC:4.1.1.37]"
+    }
+  }
+][
+  {
+    "entry_id": "R04972",
+    "name": "Uroporphyrinogen I carboxy-lyase",
+    "definition": "Uroporphyrinogen I <=> Coproporphyrinogen I + 4 CO2",
+    "equation": "C05766 <=> C05768 + 4 C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.37"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K01599": "uroporphyrinogen decarboxylase [EC:4.1.1.37]"
+    }
+  }
+]

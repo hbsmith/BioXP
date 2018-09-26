@@ -1,0 +1,81 @@
+[
+  {
+    "entry_id": "C20854",
+    "name": "Monacolin J acid",
+    "names": [
+      "Monacolin J acid",
+      "(3R,5R)-7-[(1S,2S,6R,8S,8aR)-8-Hydroxy-2,6-dimethyl-1,2,6,7,8,8a-hexahydronaphthalen-1-yl]-3,5-dihydroxyheptanoic acid"
+    ],
+    "formula": "C19H30O5",
+    "exact_mass": 338.2093,
+    "mol_weight": 338.4385,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10794",
+      "R11126"
+    ],
+    "pathways": {
+      "map00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "enzymes": [
+      "1.14.14.125",
+      "2.3.1.238"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741320"
+      ],
+      "PDB-CCD": [
+        "MJA"
+      ]
+    },
+    "kcf": "ATOM        24\n            1   C1y C    20.3731  -18.8329\n            2   C2x C    20.3731  -20.1631\n            3   C2x C    19.2530  -20.8632\n            4   C2y C    17.9928  -20.1631\n            5   C1y C    17.9928  -18.8329\n            6   C1y C    19.2530  -18.1328\n            7   C2x C    16.8026  -20.8632\n            8   C1y C    15.6824  -20.1631\n            9   C1x C    15.6824  -18.8329\n            10  C1y C    16.8026  -18.1328\n            11  C1a C    14.4922  -20.8632\n            12  C1a C    21.5633  -18.1328\n            13  C1b C    19.2530  -16.8026\n            14  C1b C    20.3731  -16.1025\n            15  C1c C    20.3731  -14.7023\n            16  C1b C    19.1830  -14.0022\n            17  C1c C    19.1830  -12.1819\n            18  O1a O    22.2634  -14.2122\n            19  O1a O    17.9928  -11.4818\n            20  C1b C    20.3731  -11.4818\n            21  C6a C    21.5633  -12.1819\n            22  O6a O    22.7535  -11.4818\n            23  O6a O    21.5633  -13.3721\n            24  O1a O    16.7838  -16.7301\nBOND        25\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     4   7 2\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    5  10 1\n            12    8  11 1 #Down\n            13    1  12 1 #Up\n            14    6  13 1 #Up\n            15   13  14 1\n            16   14  15 1\n            17   15  16 1\n            18   16  17 1\n            19   15  18 1 #Down\n            20   17  19 1 #Up\n            21   17  20 1\n            22   20  21 1\n            23   21  22 2\n            24   21  23 1\n            25   10  24 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C20854",
+    "name": "Monacolin J acid",
+    "names": [
+      "Monacolin J acid",
+      "(3R,5R)-7-[(1S,2S,6R,8S,8aR)-8-Hydroxy-2,6-dimethyl-1,2,6,7,8,8a-hexahydronaphthalen-1-yl]-3,5-dihydroxyheptanoic acid"
+    ],
+    "formula": "C19H30O5",
+    "exact_mass": 338.2093,
+    "mol_weight": 338.4385,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10794",
+      "R11126"
+    ],
+    "pathways": {
+      "map00999": "Biosynthesis of secondary metabolites - unclassified"
+    },
+    "enzymes": [
+      "1.14.14.125",
+      "2.3.1.238"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741320"
+      ],
+      "PDB-CCD": [
+        "MJA"
+      ]
+    },
+    "kcf": "ATOM        24\n            1   C1y C    20.3731  -18.8329\n            2   C2x C    20.3731  -20.1631\n            3   C2x C    19.2530  -20.8632\n            4   C2y C    17.9928  -20.1631\n            5   C1y C    17.9928  -18.8329\n            6   C1y C    19.2530  -18.1328\n            7   C2x C    16.8026  -20.8632\n            8   C1y C    15.6824  -20.1631\n            9   C1x C    15.6824  -18.8329\n            10  C1y C    16.8026  -18.1328\n            11  C1a C    14.4922  -20.8632\n            12  C1a C    21.5633  -18.1328\n            13  C1b C    19.2530  -16.8026\n            14  C1b C    20.3731  -16.1025\n            15  C1c C    20.3731  -14.7023\n            16  C1b C    19.1830  -14.0022\n            17  C1c C    19.1830  -12.1819\n            18  O1a O    22.2634  -14.2122\n            19  O1a O    17.9928  -11.4818\n            20  C1b C    20.3731  -11.4818\n            21  C6a C    21.5633  -12.1819\n            22  O6a O    22.7535  -11.4818\n            23  O6a O    21.5633  -13.3721\n            24  O1a O    16.7838  -16.7301\nBOND        25\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     4   7 2\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    5  10 1\n            12    8  11 1 #Down\n            13    1  12 1 #Up\n            14    6  13 1 #Up\n            15   13  14 1\n            16   14  15 1\n            17   15  16 1\n            18   16  17 1\n            19   15  18 1 #Down\n            20   17  19 1 #Up\n            21   17  20 1\n            22   20  21 1\n            23   21  22 2\n            24   21  23 1\n            25   10  24 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

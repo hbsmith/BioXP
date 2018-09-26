@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11807",
+    "name": "12-hydroxyjasmonoyl-L-amino acid,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (12-hydroxylating)",
+    "definition": "12-Hydroxyjasmonoyl-L-amino acid + 2 [Reduced NADPH---hemoprotein reductase] + 2 Oxygen <=> 12-Hydroxy-12-oxojasmonoyl-L-amino acid + 2 [Oxidized NADPH---hemoprotein reductase] + 3 H2O",
+    "equation": "C21696 + 2 C03024 + 2 C00007 <=> C21697 + 2 C03161 + 3 C00001",
+    "comment": "two-step reaction (see R11808+R11809)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.49"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

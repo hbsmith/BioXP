@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R05864",
+    "name": "4-Hydroxy-2-oxohexanoate hydro-lyase",
+    "definition": "2-Hydroxy-cis-hex-2,4-dienoate + H2O <=> 4-Hydroxy-2-oxohexanoic acid",
+    "equation": "C11354 + C00001 <=> C06762",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.132"
+    ],
+    "pathways": {
+      "rn00622": "Xylene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K18364": "2-oxopent-4-enoate/cis-2-oxohex-4-enoate hydratase [EC:4.2.1.80 4.2.1.132]"
+    }
+  }
+]

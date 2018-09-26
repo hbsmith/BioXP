@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R07270",
+    "name": "prephytoene diphosphate:geranylgeranyl-diphosphate geranylgeranyltransferase",
+    "definition": "Prephytoene diphosphate <=> all-trans-Phytoene + Diphosphate",
+    "equation": "C03427 <=> C05413 + C00013",
+    "comment": "see R07916",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.32"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K02291": "15-cis-phytoene synthase [EC:2.5.1.32]",
+      "K17841": "15-cis-phytoene synthase / lycopene beta-cyclase [EC:2.5.1.32 5.5.1.19]"
+    }
+  }
+]

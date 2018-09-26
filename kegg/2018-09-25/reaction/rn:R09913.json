@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09913",
+    "name": "(3S)-2,3-epoxy-2,3-dihydrosqualene mutase (cyclizing, marneral-forming)",
+    "definition": "(S)-2,3-Epoxysqualene <=> Marneral",
+    "equation": "C01054 <=> C20192",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.99.53"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K16207": "marneral synthase [EC:5.4.99.53]"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01582",
+    "name": "D-Phenylalanine:2-oxoglutarate aminotransferase",
+    "definition": "D-Phenylalanine + 2-Oxoglutarate <=> Phenylpyruvate + D-Glutamate",
+    "equation": "C02265 + C00026 <=> C00166 + C00217",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.21"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism"
+    },
+    "orthologs": {
+      "K00824": "D-alanine transaminase [EC:2.6.1.21]"
+    }
+  }
+]

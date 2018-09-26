@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10246",
+    "name": "L-tyrosine 4-methylphenol-lyase (2-iminoacetate-forming)",
+    "definition": "L-Tyrosine + S-Adenosyl-L-methionine + Reduced acceptor <=> Iminoglycine + 4-Cresol + 5'-Deoxyadenosine + L-Methionine + Acceptor",
+    "equation": "C00082 + C00019 + C00030 <=> C15809 + C01468 + C05198 + C00073 + C00028",
+    "comment": "radical SAM",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.99.19"
+    ],
+    "pathways": {
+      "rn00730": "Thiamine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K03150": "2-iminoacetate synthase [EC:4.1.99.19]"
+    }
+  }
+]

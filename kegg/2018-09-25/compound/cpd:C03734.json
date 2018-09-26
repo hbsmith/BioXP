@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C03734",
+    "name": "alpha-D-Glutamyl phosphate",
+    "names": [
+      "alpha-D-Glutamyl phosphate"
+    ],
+    "formula": "C5H10NO7P",
+    "exact_mass": 227.0195,
+    "mol_weight": 227.1092,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6497"
+      ],
+      "ChEBI": [
+        "28459"
+      ],
+      "3DMET": [
+        "B00629"
+      ],
+      "NIKKAJI": [
+        "J2.745.304J"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   O7a O    30.2797  -19.8670\n            2   P1b P    31.6732  -19.8601\n            3   O1c O    33.0732  -19.8601\n            4   O1c O    31.6732  -18.4665\n            5   O1c O    31.6732  -21.2601\n            6   C7a C    29.0484  -19.1923\n            7   C1c C    27.8350  -19.8928\n            8   C1b C    26.6217  -19.1923\n            9   C1b C    25.4084  -19.8928\n            10  C6a C    24.1950  -19.1923\n            11  O6a O    22.9816  -19.8928\n            12  O6a O    29.0329  -17.7918\n            13  O6a O    24.1950  -17.7913\n            14  N1a N    27.8350  -21.2937\nBOND        13\n            1     1   2 1\n            2     2   3 1\n            3     2   4 2\n            4     2   5 1\n            5     1   6 1\n            6     6   7 1\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10   10  11 1\n            11    6  12 2\n            12   10  13 2\n            13    7  14 1 #Down\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

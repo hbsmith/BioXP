@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11816",
+    "name": "protoheme,donor:oxygen oxidoreductase (biliverdin-IX-delta-forming)",
+    "definition": "Heme + 3 Reduced acceptor + 3 Oxygen <=> Biliverdin-IX-delta + CO + Fe2+ + 3 Acceptor + 3 H2O",
+    "equation": "C00032 + 3 C00030 + 3 C00007 <=> C21723 + C00237 + C14818 + 3 C00028 + 3 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.58"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

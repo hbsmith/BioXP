@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R03197",
+    "name": "Uroporphyrinogen-III carboxy-lyase",
+    "definition": "Uroporphyrinogen III <=> Coproporphyrinogen III + 4 CO2",
+    "equation": "C01051 <=> C03263 + 4 C00011",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.1.1.37"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K01599": "uroporphyrinogen decarboxylase [EC:4.1.1.37]"
+    }
+  }
+]

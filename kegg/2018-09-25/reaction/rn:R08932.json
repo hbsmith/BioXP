@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08932",
+    "name": "S-adenosyl-L-methionine:dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase",
+    "definition": "dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose + 2 S-Adenosyl-L-methionine <=> dTDP-D-forosamine + 2 S-Adenosyl-L-homocysteine",
+    "equation": "C18033 + 2 C00019 <=> C18034 + 2 C00021",
+    "comment": "two-step reaction (see R11452+R11453)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.324"
+    ],
+    "pathways": {
+      "rn00523": "Polyketide sugar unit biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13330": "dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase [EC:2.1.1.324]"
+    }
+  }
+]

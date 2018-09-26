@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "C03519",
+    "name": "N-Acetyl-L-phenylalanine",
+    "names": [
+      "N-Acetyl-L-phenylalanine"
+    ],
+    "formula": "C11H13NO3",
+    "exact_mass": 207.0895,
+    "mol_weight": 207.2258,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R00693"
+    ],
+    "pathways": {
+      "map00360": "Phenylalanine metabolism"
+    },
+    "enzymes": [
+      "2.3.1.53"
+    ],
+    "dblinks": {
+      "CAS": [
+        "2018-61-3"
+      ],
+      "PubChem": [
+        "6328"
+      ],
+      "ChEBI": [
+        "16259"
+      ],
+      "ChEMBL": [
+        "CHEMBL55743"
+      ],
+      "PDB-CCD": [
+        "5CR"
+      ],
+      "3DMET": [
+        "B00595"
+      ],
+      "NIKKAJI": [
+        "J27.562J"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8x C    11.0600  -17.1500\n            2   C8x C    11.0600  -18.5500\n            3   C8x C    12.2724  -19.2500\n            4   C8x C    13.4849  -18.5500\n            5   C8y C    13.4849  -17.1500\n            6   C8x C    12.2724  -16.4500\n            7   C1b C    14.7224  -16.4500\n            8   C1c C    15.9349  -17.1500\n            9   C6a C    17.1473  -16.4500\n            10  O6a O    18.3597  -17.1500\n            11  N1b N    15.9349  -18.5498\n            12  C5a C    17.1724  -19.2500\n            13  C1a C    18.3849  -18.5500\n            14  O5a O    17.1785  -20.6497\n            15  O6a O    17.1473  -15.0500\nBOND        15\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    8  11 1 #Up\n            12   11  12 1\n            13   12  13 1\n            14   12  14 2\n            15    9  15 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

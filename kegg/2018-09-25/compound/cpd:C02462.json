@@ -1,0 +1,111 @@
+[
+  {
+    "entry_id": "C02462",
+    "name": "Sabinene hydrate",
+    "names": [
+      "Sabinene hydrate"
+    ],
+    "formula": "C10H18O",
+    "exact_mass": 154.1358,
+    "mol_weight": 154.2493,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02006"
+    ],
+    "pathways": {
+      "map00902": "Monoterpenoid biosynthesis",
+      "map01062": "Biosynthesis of terpenoids and steroids",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "4.2.3.11"
+    ],
+    "dblinks": {
+      "CAS": [
+        "15537-55-0"
+      ],
+      "PubChem": [
+        "5479"
+      ],
+      "ChEBI": [
+        "16377"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0102120006"
+      ],
+      "KNApSAcK": [
+        "C00000830"
+      ],
+      "3DMET": [
+        "B01574"
+      ],
+      "NIKKAJI": [
+        "J321.027H"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1z C    18.4159  -15.5980\n            2   C1c C    18.3979  -16.9117\n            3   C1y C    19.5610  -13.6031\n            4   C1x C    17.2770  -14.9289\n            5   C1x C    19.5610  -14.9289\n            6   C1a C    17.2590  -17.5566\n            7   C1a C    19.5310  -17.5807\n            8   C1z C    18.4159  -12.9523\n            9   C1x C    17.2770  -13.6031\n            10  C1a C    19.3321  -12.0182\n            11  O1a O    17.4759  -12.0182\nBOND        12\n            1     1   2 1 #Down\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1 #Up\n            5     2   6 1\n            6     2   7 1\n            7     3   8 1\n            8     4   9 1\n            9     8  10 1 #Down\n            10    8  11 1 #Up\n            11    3   5 1 #Up\n            12    8   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C02462",
+    "name": "Sabinene hydrate",
+    "names": [
+      "Sabinene hydrate"
+    ],
+    "formula": "C10H18O",
+    "exact_mass": 154.1358,
+    "mol_weight": 154.2493,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02006"
+    ],
+    "pathways": {
+      "map00902": "Monoterpenoid biosynthesis",
+      "map01062": "Biosynthesis of terpenoids and steroids",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "4.2.3.11"
+    ],
+    "dblinks": {
+      "CAS": [
+        "15537-55-0"
+      ],
+      "PubChem": [
+        "5479"
+      ],
+      "ChEBI": [
+        "16377"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0102120006"
+      ],
+      "KNApSAcK": [
+        "C00000830"
+      ],
+      "3DMET": [
+        "B01574"
+      ],
+      "NIKKAJI": [
+        "J321.027H"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1z C    18.4159  -15.5980\n            2   C1c C    18.3979  -16.9117\n            3   C1y C    19.5610  -13.6031\n            4   C1x C    17.2770  -14.9289\n            5   C1x C    19.5610  -14.9289\n            6   C1a C    17.2590  -17.5566\n            7   C1a C    19.5310  -17.5807\n            8   C1z C    18.4159  -12.9523\n            9   C1x C    17.2770  -13.6031\n            10  C1a C    19.3321  -12.0182\n            11  O1a O    17.4759  -12.0182\nBOND        12\n            1     1   2 1 #Down\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1 #Up\n            5     2   6 1\n            6     2   7 1\n            7     3   8 1\n            8     4   9 1\n            9     8  10 1 #Down\n            10    8  11 1 #Up\n            11    3   5 1 #Up\n            12    8   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

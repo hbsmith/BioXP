@@ -1,0 +1,60 @@
+[
+  {
+    "entry_id": "C02804",
+    "name": "5-Hydroxypentanoate",
+    "names": [
+      "5-Hydroxypentanoate"
+    ],
+    "formula": "C5H10O3",
+    "exact_mass": 118.063,
+    "mol_weight": 118.1311,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04057",
+      "R10980",
+      "R10981"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.-",
+      "2.8.3.14",
+      "3.1.1.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "13392-69-3"
+      ],
+      "PubChem": [
+        "5754"
+      ],
+      "ChEBI": [
+        "16230",
+        "45564"
+      ],
+      "ChEMBL": [
+        "CHEMBL1205948"
+      ],
+      "LipidBank": [
+        "DFA0276"
+      ],
+      "PDB-CCD": [
+        "SHO"
+      ],
+      "3DMET": [
+        "B00504"
+      ],
+      "NIKKAJI": [
+        "J140.264A"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1b C    26.2500  -19.6700\n            2   C1b C    25.0600  -19.0400\n            3   C6a C    27.4400  -19.0400\n            4   C1b C    23.8000  -19.6700\n            5   O6a O    27.4400  -17.5700\n            6   O6a O    28.7000  -19.7400\n            7   C1b C    22.6100  -19.0400\n            8   O1a O    21.4200  -19.6700\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 2\n            5     3   6 1\n            6     4   7 1\n            7     7   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

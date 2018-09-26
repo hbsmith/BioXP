@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06299",
+    "name": "(+)-copalyl-diphosphate diphosphate-lyase (pimaradiene-forming)",
+    "definition": "Copalyl diphosphate <=> Pimaradiene + Diphosphate",
+    "equation": "C11901 <=> C06086 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.147"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K20515": "pimaradiene synthase [EC:4.2.3.147]"
+    }
+  }
+]

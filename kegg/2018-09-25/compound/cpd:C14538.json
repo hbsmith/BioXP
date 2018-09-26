@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C14538",
+    "name": "Trimethylolpropane trimethacrylate",
+    "names": [
+      "Trimethylolpropane trimethacrylate",
+      "2-Ethyl-2(hydroxymethyl)-1,3-propanediol trimethacrylate",
+      "TMPT"
+    ],
+    "formula": "C18H26O6",
+    "exact_mass": 338.1729,
+    "mol_weight": 338.3954,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "3290-92-4"
+      ],
+      "PubChem": [
+        "17395538"
+      ],
+      "ChEBI": [
+        "35029"
+      ],
+      "ChEMBL": [
+        "CHEMBL1901244"
+      ],
+      "NIKKAJI": [
+        "J64.284C"
+      ]
+    },
+    "kcf": "ATOM        24\n            1   C1b C    23.4134  -18.4565\n            2   C1d C    24.6234  -17.7578\n            3   C1b C    23.4062  -17.0522\n            4   C1b C    25.8266  -18.4493\n            5   O7a O    25.8294  -19.8464\n            6   O7a O    22.1950  -17.7486\n            7   O7a O    23.4088  -15.6550\n            8   C7a C    22.2001  -14.9541\n            9   C7a C    20.9831  -18.4439\n            10  C2c C    19.7752  -17.7420\n            11  O6a O    20.9792  -19.8410\n            12  C7a C    27.0408  -20.5427\n            13  C2c C    27.0437  -21.9399\n            14  C2c C    22.2028  -13.5570\n            15  O6a O    28.2496  -19.8417\n            16  O6a O    20.9888  -15.6506\n            17  C1b C    25.8407  -17.0804\n            18  C1a C    27.0334  -17.7931\n            19  C2a C    20.9817  -12.8489\n            20  C2a C    18.5458  -18.4475\n            21  C2a C    28.2733  -22.6470\n            22  C1a C    23.3970  -12.8707\n            23  C1a C    19.7782  -16.3104\n            24  C1a C    25.8284  -22.6449\nBOND        23\n            1    12  15 2\n            2     9  10 1\n            3     8  16 2\n            4     9  11 2\n            5     1   2 1\n            6     4   5 1\n            7     2   3 1\n            8     1   6 1\n            9     3   7 1\n            10    5  12 1\n            11    2  17 1\n            12    2   4 1\n            13   17  18 1\n            14   12  13 1\n            15    7   8 1\n            16    8  14 1\n            17    6   9 1\n            18   14  19 2\n            19   10  20 2\n            20   13  21 2\n            21   14  22 1\n            22   10  23 1\n            23   13  24 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

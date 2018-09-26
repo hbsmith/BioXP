@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10742",
+    "name": "epithienamycin-E,2-oxoglutarate:oxygen oxidoreductase (sulfoxidation)",
+    "definition": "Epithienamycin E + 2-Oxoglutarate + Oxygen <=> MM 4550 + Succinate + CO2",
+    "equation": "C11755 + C00026 + C00007 <=> C20815 + C00042 + C00011",
+    "comment": "proposed pathway not yet characterized sufficiently",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.20.-"
+    ],
+    "pathways": {
+      "rn00332": "Carbapenem biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K18565": "2-oxoglutarate-dependent dioxygenase [EC:1.14.20.-]"
+    }
+  }
+]

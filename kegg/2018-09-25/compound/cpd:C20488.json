@@ -1,0 +1,75 @@
+[
+  {
+    "entry_id": "C20488",
+    "name": "D-beta-Phenylalanine",
+    "names": [
+      "D-beta-Phenylalanine",
+      "(S)-3-Amino-3-phenylpropanoate"
+    ],
+    "formula": "C9H11NO2",
+    "exact_mass": 165.079,
+    "mol_weight": 165.1891,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10287"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "5.4.3.11"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "163312225"
+      ],
+      "PDB-CCD": [
+        "SFE"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    17.4539  -16.1449\n            2   C8x C    17.4539  -17.6060\n            3   C8x C    16.2014  -18.3018\n            4   C8x C    15.0186  -17.6060\n            5   C8x C    15.0186  -16.1449\n            6   C8x C    16.2014  -15.4490\n            7   C1c C    18.6367  -15.4490\n            8   C1b C    19.8195  -16.1449\n            9   C6a C    21.0024  -15.4490\n            10  O6a O    22.1852  -16.1449\n            11  O6a O    21.0024  -14.0575\n            12  N1a N    18.6367  -14.0623\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    9  11 2\n            12    7  12 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C20488",
+    "name": "D-beta-Phenylalanine",
+    "names": [
+      "D-beta-Phenylalanine",
+      "(S)-3-Amino-3-phenylpropanoate"
+    ],
+    "formula": "C9H11NO2",
+    "exact_mass": 165.079,
+    "mol_weight": 165.1891,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10287"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "5.4.3.11"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "163312225"
+      ],
+      "PDB-CCD": [
+        "SFE"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C8y C    17.4539  -16.1449\n            2   C8x C    17.4539  -17.6060\n            3   C8x C    16.2014  -18.3018\n            4   C8x C    15.0186  -17.6060\n            5   C8x C    15.0186  -16.1449\n            6   C8x C    16.2014  -15.4490\n            7   C1c C    18.6367  -15.4490\n            8   C1b C    19.8195  -16.1449\n            9   C6a C    21.0024  -15.4490\n            10  O6a O    22.1852  -16.1449\n            11  O6a O    21.0024  -14.0575\n            12  N1a N    18.6367  -14.0623\nBOND        12\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     1   7 1\n            8     7   8 1\n            9     8   9 1\n            10    9  10 1\n            11    9  11 2\n            12    7  12 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

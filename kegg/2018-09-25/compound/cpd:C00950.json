@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "C00950",
+    "name": "Dithioerythritol",
+    "names": [
+      "Dithioerythritol",
+      "erythro-1,4-Dimercapto-2,3-butanediol",
+      "DTE"
+    ],
+    "formula": "C4H10O2S2",
+    "exact_mass": 154.0122,
+    "mol_weight": 154.251,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05072"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "2.8.1.5"
+    ],
+    "dblinks": {
+      "CAS": [
+        "6892-68-8"
+      ],
+      "PubChem": [
+        "4201"
+      ],
+      "ChEBI": [
+        "17456"
+      ],
+      "ChEMBL": [
+        "CHEMBL1232391"
+      ],
+      "PDB-CCD": [
+        "DTU"
+      ],
+      "NIKKAJI": [
+        "J136.609B"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1c C    27.0213  -16.9918\n            2   C1c C    28.1330  -16.2955\n            3   C1b C    25.8576  -16.3775\n            4   O1a O    26.9907  -18.5409\n            5   C1b C    29.2915  -16.9071\n            6   O1a O    28.0811  -14.6093\n            7   S1a S    24.7484  -17.0823\n            8   S1a S    30.4030  -16.2105\nBOND        7\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     2   5 1\n            5     2   6 1 #Up\n            6     3   7 1\n            7     5   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

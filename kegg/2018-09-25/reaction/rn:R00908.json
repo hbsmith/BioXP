@@ -1,0 +1,26 @@
+[
+  {
+    "entry_id": "R00908",
+    "name": "beta-alanine:2-oxoglutarate aminotransferase",
+    "definition": "beta-Alanine + 2-Oxoglutarate <=> 3-Oxopropanoate + L-Glutamate",
+    "equation": "C00099 + C00026 <=> C00222 + C00025",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.19",
+      "2.6.1.55"
+    ],
+    "pathways": {
+      "rn00410": "beta-Alanine metabolism",
+      "rn00640": "Propanoate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00823": "4-aminobutyrate aminotransferase [EC:2.6.1.19]",
+      "K07250": "4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22]",
+      "K13524": "4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22]",
+      "K15372": "taurine---2-oxoglutarate transaminase [EC:2.6.1.55]"
+    }
+  }
+]

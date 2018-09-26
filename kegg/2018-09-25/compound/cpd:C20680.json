@@ -1,0 +1,87 @@
+[
+  {
+    "entry_id": "C20680",
+    "name": "2-Dehydro-3-deoxy-L-galactonate",
+    "names": [
+      "2-Dehydro-3-deoxy-L-galactonate",
+      "2-Keto-3-deoxy-L-galactonate",
+      "L-threo-3-Deoxy-hexulosonate"
+    ],
+    "formula": "C6H10O6",
+    "exact_mass": 178.0477,
+    "mol_weight": 178.14,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10532",
+      "R10550",
+      "R10900",
+      "R11035"
+    ],
+    "pathways": {
+      "map00040": "Pentose and glucuronate interconversions",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.1.1.389",
+      "4.1.2.54",
+      "4.2.1.146",
+      "5.5.1.25"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "172232400"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   O1a O    14.4204  -16.5208\n            2   C1b C    15.6329  -15.8208\n            3   C1c C    16.8454  -16.5208\n            4   C1c C    18.0579  -15.8208\n            5   C1b C    19.2703  -16.5208\n            6   C5a C    20.4829  -15.8208\n            7   C6a C    21.6953  -16.5208\n            8   O6a O    22.9078  -15.8208\n            9   O6a O    21.6953  -17.9209\n            10  O5a O    20.4829  -14.4211\n            11  O1a O    18.0579  -14.4208\n            12  O1a O    16.8454  -17.9207\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     7   9 2\n            9     6  10 2\n            10    4  11 1 #Up\n            11    3  12 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C20680",
+    "name": "2-Dehydro-3-deoxy-L-galactonate",
+    "names": [
+      "2-Dehydro-3-deoxy-L-galactonate",
+      "2-Keto-3-deoxy-L-galactonate",
+      "L-threo-3-Deoxy-hexulosonate"
+    ],
+    "formula": "C6H10O6",
+    "exact_mass": 178.0477,
+    "mol_weight": 178.14,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10532",
+      "R10550",
+      "R10900",
+      "R11035"
+    ],
+    "pathways": {
+      "map00040": "Pentose and glucuronate interconversions",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "1.1.1.389",
+      "4.1.2.54",
+      "4.2.1.146",
+      "5.5.1.25"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "172232400"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   O1a O    14.4204  -16.5208\n            2   C1b C    15.6329  -15.8208\n            3   C1c C    16.8454  -16.5208\n            4   C1c C    18.0579  -15.8208\n            5   C1b C    19.2703  -16.5208\n            6   C5a C    20.4829  -15.8208\n            7   C6a C    21.6953  -16.5208\n            8   O6a O    22.9078  -15.8208\n            9   O6a O    21.6953  -17.9209\n            10  O5a O    20.4829  -14.4211\n            11  O1a O    18.0579  -14.4208\n            12  O1a O    16.8454  -17.9207\nBOND        11\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 1\n            7     7   8 1\n            8     7   9 2\n            9     6  10 2\n            10    4  11 1 #Up\n            11    3  12 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

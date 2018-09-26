@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08996",
+    "name": "dimethylallyl-diphosphate:umbelliferone 6-dimethylallyltransferase",
+    "definition": "Umbelliferone + Dimethylallyl diphosphate <=> Demethylsuberosin + Diphosphate",
+    "equation": "C09315 + C00235 <=> C18083 + C00013",
+    "comment": "umbelliferone 6-prenyltransferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.139"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K21588": "umbelliferone 6-dimethylallyltransferase [EC:2.5.1.139]"
+    }
+  }
+]

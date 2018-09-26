@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C21396",
+    "name": "Ethylenediaminetriacetic acid",
+    "names": [
+      "Ethylenediaminetriacetic acid",
+      "Ethylenediaminetriacetate",
+      "ED3A"
+    ],
+    "formula": "C8H14N2O6",
+    "exact_mass": 234.0852,
+    "mol_weight": 234.2066,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11454",
+      "R11455"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.14.33"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "328082939"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   N1c N    16.8229  -16.5448\n            2   C1b C    18.0046  -15.8497\n            3   C1b C    15.5717  -15.8497\n            4   C1b C    16.8229  -17.9351\n            5   C1b C    19.2558  -16.5448\n            6   C6a C    15.5717  -14.4595\n            7   C6a C    15.5717  -18.6302\n            8   N1b N    20.4375  -15.8497\n            9   O6a O    14.3900  -13.6949\n            10  O6a O    16.8229  -13.6949\n            11  O6a O    15.5717  -20.0204\n            12  O6a O    14.3900  -17.9351\n            13  C1b C    21.6192  -16.5448\n            14  C6a C    21.6192  -17.9351\n            15  O6a O    22.8704  -18.6302\n            16  O6a O    20.4375  -18.6302\nBOND        15\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     3   6 1\n            6     4   7 1\n            7     5   8 1\n            8     6   9 1\n            9     6  10 2\n            10    7  11 1\n            11    7  12 2\n            12    8  13 1\n            13   13  14 1\n            14   14  15 1\n            15   14  16 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

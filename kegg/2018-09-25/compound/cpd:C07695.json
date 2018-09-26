@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C07695",
+    "name": "Sodium nitroprusside dihydrate",
+    "names": [
+      "Sodium nitroprusside dihydrate"
+    ],
+    "formula": "C5FeN6O. 2Na. 2H2O",
+    "exact_mass": 297.949,
+    "mol_weight": 297.9482,
+    "remark": "Same as: D00614",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "13755-38-9"
+      ],
+      "PubChem": [
+        "9897"
+      ],
+      "ChEBI": [
+        "9179"
+      ],
+      "NIKKAJI": [
+        "J138.834G"
+      ]
+    },
+    "kcf": "ATOM        17\n            1   Z   Fe   25.2324  -19.2673 #2-\n            2   C3b C    26.8859  -18.2563\n            3   C3b C    24.0462  -18.5076\n            4   C3b C    26.4126  -20.0444\n            5   C3b C    25.1681  -18.0986\n            6   C3b C    24.1104  -19.9860\n            7   N2b N    25.2324  -20.6347\n            8   N3a N    28.0079  -17.5551\n            9   N3a N    22.8717  -17.7363\n            10  N3a N    27.5931  -20.8099\n            11  N3a N    25.1741  -16.9358\n            12  N3a N    22.9826  -20.6931\n            13  O3a O    25.1681  -22.1772\n            14  O0  O    33.1384  -18.5778\n            15  O0  O    33.1384  -20.7165\n            16  Z   Na   30.1934  -18.7764 #+\n            17  Z   Na   30.1934  -20.8566 #+\nBOND        12\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1\n            5     1   6 1\n            6     1   7 1\n            7     2   8 3\n            8     3   9 3\n            9     4  10 3\n            10    5  11 3\n            11    6  12 3\n            12    7  13 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

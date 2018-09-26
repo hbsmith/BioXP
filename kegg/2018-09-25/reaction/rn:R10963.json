@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10963",
+    "name": "S-adenosyl-L-methionine:2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + 2,7-Dihydroxy-5-methyl-1-naphthoate <=> S-Adenosyl-L-homocysteine + 2-Hydroxy-7-methoxy-5-methyl-1-naphthoate",
+    "equation": "C00019 + C20857 <=> C00021 + C20841",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.303"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20421": "2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase [EC:2.1.1.303]"
+    }
+  }
+]

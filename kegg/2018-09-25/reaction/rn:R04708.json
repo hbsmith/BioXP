@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04708",
+    "name": "dihydrochelirubine,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (12-hydroxylating)",
+    "definition": "Dihydrochelirubine + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 12-Hydroxydihydrochelirubine + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C05194 + C03024 + C00007 <=> C05193 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.101"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

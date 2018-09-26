@@ -1,0 +1,107 @@
+[
+  {
+    "entry_id": "1.14.19.63",
+    "name": "pseudobaptigenin synthase",
+    "names": [
+      "pseudobaptigenin synthase"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With oxidation of a pair of donors resulting in the reduction of O2 to two molecules of water"
+    ],
+    "sysname": "calycosin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (methylenedioxy-bridge-forming)",
+    "reaction": "(1) calycosin + [reduced NADPH---hemoprotein reductase] + O2 = pseudobaptigenin + [oxidized NADPH---hemoprotein reductase] + 2 H2O [RN:R07745]; (2) pratensein + [reduced NADPH-hemoprotein reductase] + O2 = 5-hydroxypseudobaptigenin + [oxidized NADPH---hemoprotein reductase] + 2 H2O [RN:R09602]",
+    "all_reac": "R07745 R09602",
+    "iubmb_reactions": [
+      "R07745 R09602"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "calycosin [CPD:C01562]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]",
+      "pratensein [CPD:C10520]",
+      "[reduced NADPH-hemoprotein reductase]"
+    ],
+    "products": [
+      "pseudobaptigenin [CPD:C10522]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]",
+      "5-hydroxypseudobaptigenin [CPD:C19727]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) enzyme catalysing an oxidative reaction that does not incorporate oxygen into the product. Catalyses a step in the biosynthesis of (-)-maackiain, the main pterocarpan phytoalexin in chickpea (Cicer arietinum).",
+    "pathways": {
+      "ec00943": "Isoflavonoid biosynthesis",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.19.63"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.19.63"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.19.63"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.19.63"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Clemens S.",
+          "Barz W."
+        ],
+        "title": "Cytochrome P450-dependent methylenedioxy bridge formation in Cicer arietinum.",
+        "journal": "Phytochemistry",
+        "volume": "41",
+        "issue": "",
+        "pages": "457-460",
+        "year": "1996",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

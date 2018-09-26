@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10688",
+    "name": "",
+    "definition": "N-Acetylaspartylglutamylglutamate + H2O <=> N-Acetylaspartylglutamate + L-Glutamate",
+    "equation": "C20776 + C00001 <=> C12270 + C00025",
+    "comment": "Glutamate carboxypeptidase II",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.4.17.21"
+    ],
+    "pathways": {
+      "rn00250": "Alanine, aspartate and glutamate metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K14592": "glutamate carboxypeptidase II (folate hydrolase 1) [EC:3.4.17.21]"
+    }
+  }
+]

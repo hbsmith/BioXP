@@ -1,0 +1,680 @@
+[
+  {
+    "entry_id": "2.7.1.218",
+    "name": "fructoselysine 6-kinase",
+    "names": [
+      "fructoselysine 6-kinase",
+      "frlD (gene name)"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring phosphorus-containing groups;",
+      "Phosphotransferases with an alcohol group as acceptor"
+    ],
+    "sysname": "ATP:D-fructosyl-L-lysine 6-phosphotransferase",
+    "reaction": "ATP + N6-(D-fructosyl)-L-lysine = ADP + N6-(6-phospho-D-fructosyl)-L-lysine [RN:R08124]",
+    "all_reac": "R08124",
+    "iubmb_reactions": [
+      "R08124"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "ATP [CPD:C00002]",
+      "N6-(D-fructosyl)-L-lysine [CPD:C16488]"
+    ],
+    "products": [
+      "ADP [CPD:C00008]",
+      "N6-(6-phospho-D-fructosyl)-L-lysine"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme, characterized from the bacterium Escherichia coli, has very little activity with fructose.",
+    "pathways": {
+    },
+    "orthologs": {
+      "K10710": "fructoselysine 6-kinase"
+    },
+    "genes": {
+      "eco": [
+        "b3374"
+      ],
+      "ecj": [
+        "JW3337"
+      ],
+      "ecd": [
+        "ECDH10B_3549"
+      ],
+      "ebw": [
+        "BWG_3065"
+      ],
+      "ecok": [
+        "ECMDS42_2820"
+      ],
+      "ece": [
+        "Z4735"
+      ],
+      "ecs": [
+        "ECs4224"
+      ],
+      "elx": [
+        "CDCO157_3965"
+      ],
+      "eoj": [
+        "ECO26_4462"
+      ],
+      "eoi": [
+        "ECO111_4183"
+      ],
+      "eoh": [
+        "ECO103_4092"
+      ],
+      "eso": [
+        "O3O_23450"
+      ],
+      "esm": [
+        "O3M_02245"
+      ],
+      "esl": [
+        "O3K_02200"
+      ],
+      "ecw": [
+        "EcE24377A_3843"
+      ],
+      "elh": [
+        "ETEC_3624"
+      ],
+      "eun": [
+        "UMNK88_4139"
+      ],
+      "ecx": [
+        "EcHS_A3569"
+      ],
+      "ecy": [
+        "ECSE_3635"
+      ],
+      "ecr": [
+        "ECIAI1_3512"
+      ],
+      "eck": [
+        "EC55989_3779"
+      ],
+      "elo": [
+        "EC042_3635"
+      ],
+      "ecl": [
+        "EcolC_0339"
+      ],
+      "ebr": [
+        "ECB_03224"
+      ],
+      "ebd": [
+        "ECBD_0375"
+      ],
+      "eko": [
+        "EKO11_0371"
+      ],
+      "ekf": [
+        "KO11_05930"
+      ],
+      "edh": [
+        "EcDH1_0339"
+      ],
+      "edj": [
+        "ECDH1ME8569_3253"
+      ],
+      "elw": [
+        "ECW_m3629"
+      ],
+      "ell": [
+        "WFL_17725"
+      ],
+      "elp": [
+        "P12B_c3472"
+      ],
+      "ebl": [
+        "ECD_03224"
+      ],
+      "ebe": [
+        "B21_03176"
+      ],
+      "ecoa": [
+        "APECO78_20660"
+      ],
+      "ecol": [
+        "LY180_17300"
+      ],
+      "sfl": [
+        "SF3392"
+      ],
+      "sfx": [
+        "S4370"
+      ],
+      "sfv": [
+        "SFV_3379"
+      ],
+      "sfe": [
+        "SFxv_3703"
+      ],
+      "sfn": [
+        "SFy_4820"
+      ],
+      "sfs": [
+        "SFyv_4895"
+      ],
+      "sft": [
+        "NCTC1_03673"
+      ],
+      "ssn": [
+        "SSON_3505"
+      ],
+      "sbo": [
+        "SBO_3361"
+      ],
+      "sbc": [
+        "SbBS512_E3751"
+      ],
+      "shq": [
+        "A0259_20615"
+      ],
+      "esa": [
+        "ESA_04362"
+      ],
+      "csk": [
+        "ES15_0289"
+      ],
+      "csz": [
+        "CSSP291_20090"
+      ],
+      "csj": [
+        "CSK29544_01247"
+      ],
+      "ccon": [
+        "AFK62_18485"
+      ],
+      "cdm": [
+        "AFK67_19050"
+      ],
+      "csi": [
+        "P262_00432"
+      ],
+      "cmj": [
+        "AFK66_001490"
+      ],
+      "cui": [
+        "AFK65_18220"
+      ],
+      "cmw": [
+        "AFK63_00180"
+      ],
+      "ctu": [
+        "CTU_38900"
+      ],
+      "kqv": [
+        "B8P98_28500"
+      ],
+      "cfar": [
+        "CI104_01830"
+      ],
+      "kin": [
+        "AB182_27495"
+      ],
+      "ebc": [
+        "C2U52_10300"
+      ],
+      "sfw": [
+        "WN53_23555"
+      ],
+      "sera": [
+        "Ser39006_005305"
+      ],
+      "pant": [
+        "PSNIH1_p00420"
+      ],
+      "pagc": [
+        "BEE12_20910"
+      ],
+      "woc": [
+        "BA177_05455"
+      ],
+      "bum": [
+        "AXG89_20480"
+      ],
+      "mam": [
+        "Mesau_02913"
+      ],
+      "smk": [
+        "Sinme_3010"
+      ],
+      "smq": [
+        "SinmeB_2784"
+      ],
+      "smx": [
+        "SM11_chr3126"
+      ],
+      "smi": [
+        "BN406_02811"
+      ],
+      "smeg": [
+        "C770_GR4Chr3084"
+      ],
+      "smel": [
+        "SM2011_c03138"
+      ],
+      "smer": [
+        "DU99_16275"
+      ],
+      "smd": [
+        "Smed_2845"
+      ],
+      "rhi": [
+        "NGR_b21930"
+      ],
+      "sfd": [
+        "USDA257_c23170"
+      ],
+      "six": [
+        "BSY16_5367"
+      ],
+      "same": [
+        "SAMCFNEI73_pC0439"
+      ],
+      "sino": [
+        "SS05631_b62630"
+      ],
+      "ead": [
+        "OV14_b0619"
+      ],
+      "eah": [
+        "FA04_29325"
+      ],
+      "esj": [
+        "SJ05684_b42990"
+      ],
+      "atf": [
+        "Ach5_51770"
+      ],
+      "ops": [
+        "A8A54_22965"
+      ],
+      "bvv": [
+        "BHK69_06580"
+      ],
+      "rsq": [
+        "Rsph17025_3647"
+      ],
+      "rcp": [
+        "RCAP_rcp00007"
+      ],
+      "daa": [
+        "AKL17_2269"
+      ],
+      "bsr": [
+        "I33_3361"
+      ],
+      "bsl": [
+        "A7A1_2473"
+      ],
+      "bsh": [
+        "BSU6051_32570"
+      ],
+      "bsy": [
+        "I653_15710"
+      ],
+      "bsut": [
+        "BSUB_03476"
+      ],
+      "bsul": [
+        "BSUA_03476"
+      ],
+      "bsus": [
+        "Q433_17825"
+      ],
+      "bss": [
+        "BSUW23_15905"
+      ],
+      "bst": [
+        "GYO_3557"
+      ],
+      "bso": [
+        "BSNT_09743"
+      ],
+      "bsn": [
+        "BSn5_07185"
+      ],
+      "bsq": [
+        "B657_32570"
+      ],
+      "bsx": [
+        "C663_3116"
+      ],
+      "bsp": [
+        "U712_16250"
+      ],
+      "baq": [
+        "BACAU_2990"
+      ],
+      "bya": [
+        "BANAU_3149"
+      ],
+      "bamp": [
+        "B938_15170"
+      ],
+      "baml": [
+        "BAM5036_2876"
+      ],
+      "bama": [
+        "RBAU_3092"
+      ],
+      "bamn": [
+        "BASU_2880"
+      ],
+      "bamb": [
+        "BAPNAU_3140"
+      ],
+      "bamt": [
+        "AJ82_16770"
+      ],
+      "bamy": [
+        "V529_32240"
+      ],
+      "bmp": [
+        "NG74_03111"
+      ],
+      "bao": [
+        "BAMF_3052"
+      ],
+      "baz": [
+        "BAMTA208_16450"
+      ],
+      "bql": [
+        "LL3_03329"
+      ],
+      "bxh": [
+        "BAXH7_03356"
+      ],
+      "bqy": [
+        "MUS_3551"
+      ],
+      "bami": [
+        "KSO_004340"
+      ],
+      "bamc": [
+        "U471_30700"
+      ],
+      "bamf": [
+        "U722_15945"
+      ],
+      "bae": [
+        "BATR1942_14215"
+      ],
+      "batr": [
+        "TD68_13265"
+      ],
+      "bvm": [
+        "B9C48_15130"
+      ],
+      "bjs": [
+        "MY9_3292"
+      ],
+      "bif": [
+        "N288_22675"
+      ],
+      "bacp": [
+        "SB24_13925"
+      ],
+      "bacb": [
+        "OY17_18135"
+      ],
+      "bacy": [
+        "QF06_14605"
+      ],
+      "bacl": [
+        "BS34A_35540"
+      ],
+      "balm": [
+        "BsLM_3254"
+      ],
+      "beo": [
+        "BEH_13920"
+      ],
+      "bsj": [
+        "UP17_08925"
+      ],
+      "bgy": [
+        "BGLY_3826"
+      ],
+      "bgi": [
+        "BGM20_10395"
+      ],
+      "bacs": [
+        "AUL54_14855"
+      ],
+      "bit": [
+        "BIS30_05865"
+      ],
+      "apak": [
+        "AP3564_15310"
+      ],
+      "ppm": [
+        "PPSC2_02775"
+      ],
+      "ppo": [
+        "PPM_0496"
+      ],
+      "ppq": [
+        "PPSQR21_005290"
+      ],
+      "ppoy": [
+        "RE92_09170"
+      ],
+      "pms": [
+        "KNP414_07065"
+      ],
+      "pmq": [
+        "PM3016_6656"
+      ],
+      "pmw": [
+        "B2K_33630"
+      ],
+      "pgm": [
+        "PGRAT_06025",
+        "PGRAT_06570",
+        "PGRAT_32010"
+      ],
+      "pri": [
+        "PRIO_1384",
+        "PRIO_6652"
+      ],
+      "pib": [
+        "BBD41_28615"
+      ],
+      "efu": [
+        "HMPREF0351_12786"
+      ],
+      "esr": [
+        "ES1_09720"
+      ],
+      "esu": [
+        "EUS_03950"
+      ],
+      "ral": [
+        "Rumal_2339"
+      ],
+      "rch": [
+        "RUM_11890"
+      ],
+      "cct": [
+        "CC1_07220"
+      ],
+      "byl": [
+        "A4V09_17710"
+      ],
+      "lacy": [
+        "A4V08_03760",
+        "A4V08_11195",
+        "A4V08_11255"
+      ],
+      "csh": [
+        "Closa_1463",
+        "Closa_1470",
+        "Closa_3643"
+      ],
+      "cso": [
+        "CLS_33560"
+      ],
+      "cbol": [
+        "CGC65_24955"
+      ],
+      "cst": [
+        "CLOST_1206"
+      ],
+      "ibu": [
+        "IB211_00949c"
+      ],
+      "shy": [
+        "SHJG_1054"
+      ],
+      "sho": [
+        "SHJGH_0887"
+      ],
+      "mip": [
+        "AXH82_02795"
+      ],
+      "mcw": [
+        "A8L33_05035"
+      ],
+      "maur": [
+        "BOH66_14855"
+      ],
+      "cphy": [
+        "B5808_17065"
+      ],
+      "hum": [
+        "DVJ78_03895"
+      ],
+      "mph": [
+        "MLP_21790"
+      ],
+      "mgg": [
+        "MPLG2_2639"
+      ],
+      "ols": [
+        "Olsu_1405",
+        "Olsu_1406"
+      ],
+      "cgo": [
+        "Corgl_0708"
+      ],
+      "abao": [
+        "BEQ56_11695"
+      ],
+      "ddr": [
+        "Deide_3p00190"
+      ],
+      "dmr": [
+        "Deima_0079"
+      ],
+      "epo": [
+        "Epro_0778"
+      ],
+      "kos": [
+        "KORDIASMS9_03201"
+      ],
+      "mib": [
+        "UY43_C0001G0083"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.7.1.218"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.7.1.218"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.7.1.218"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.7.1.218"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Wiame E",
+          "Delpierre G",
+          "Collard F",
+          "Van Schaftingen E."
+        ],
+        "title": "Identification of a pathway for the utilization of the Amadori product fructoselysine in Escherichia coli.",
+        "journal": "J Biol Chem 277:42523-9 (2002) DOI:10.1074/jbc.M200863200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:12147680]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wiame E",
+          "Van Schaftingen E"
+        ],
+        "title": "Fructoselysine 3-epimerase, an enzyme involved in the metabolism of the unusual Amadori compound psicoselysine in Escherichia coli.",
+        "journal": "Biochem J 378:1047-52 (2004) DOI:10.1042/BJ20031527",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:14641112]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

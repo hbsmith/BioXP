@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10307",
+    "name": "S-adenosyl-L-methionine:dihydrosterigmatocystin 8-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Dihydrosterigmatocystin <=> S-Adenosyl-L-homocysteine + Dihydro-O-methylsterigmatocystin",
+    "equation": "C00019 + C20445 <=> C00021 + C03944",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.110"
+    ],
+    "pathways": {
+      "rn00254": "Aflatoxin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K17650": "sterigmatocystin 8-O-methyltransferase [EC:2.1.1.110]"
+    }
+  }
+]

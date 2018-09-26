@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10748",
+    "name": "pantetheine-4'-phosphate phosphohydrolase",
+    "definition": "Pantetheine 4'-phosphate + H2O <=> Pantetheine + Orthophosphate",
+    "equation": "C01134 + C00001 <=> C00831 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.3.-"
+    ],
+    "pathways": {
+      "rn00332": "Carbapenem biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K18569": "hydrolase [EC:3.1.3.-]"
+    }
+  }
+]

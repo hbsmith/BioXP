@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09782",
+    "name": "torulene:oxygen 4',5'-oxidoreductase (bond-cleaving)",
+    "definition": "Torulene + Oxygen <=> 4'-Apo-beta,psi-caroten-4'-al + 3-Methyl-2-butenal",
+    "equation": "C08613 + C00007 <=> C19892 + C07330",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.11.59"
+    ],
+    "pathways": {
+      "rn00906": "Carotenoid biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K17842": "torulene dioxygenase [EC:1.13.11.59]"
+    }
+  }
+]

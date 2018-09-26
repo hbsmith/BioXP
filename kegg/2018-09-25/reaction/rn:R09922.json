@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R09922",
+    "name": "(+)-linalool,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (8-hydroxylating)",
+    "definition": "(+)-Linalool + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> (E)-3,7-Dimethylocta-1,6-diene-3,8-diol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C11389 + C03024 + C00007 <=> C04433 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.84"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K05525": "linalool 8-monooxygenase [EC:1.14.14.84]"
+    }
+  }
+]

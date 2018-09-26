@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R08890",
+    "name": "L-glutamine:2-deoxy-scyllo-inosose aminotransferase",
+    "definition": "2-Deoxy-scyllo-inosose + L-Glutamine <=> 2-Deoxy-scyllo-inosamine + 2-Oxoglutaramate",
+    "equation": "C17209 + C00064 <=> C17580 + C00940",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.100"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13547": "L-glutamine:2-deoxy-scyllo-inosose/3-amino-2,3-dideoxy-scyllo-inosose aminotransferase [EC:2.6.1.100 2.6.1.101]"
+    }
+  }
+][
+  {
+    "entry_id": "R08890",
+    "name": "L-glutamine:2-deoxy-scyllo-inosose aminotransferase",
+    "definition": "2-Deoxy-scyllo-inosose + L-Glutamine <=> 2-Deoxy-scyllo-inosamine + 2-Oxoglutaramate",
+    "equation": "C17209 + C00064 <=> C17580 + C00940",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.6.1.100"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K13547": "L-glutamine:2-deoxy-scyllo-inosose/3-amino-2,3-dideoxy-scyllo-inosose aminotransferase [EC:2.6.1.100 2.6.1.101]"
+    }
+  }
+]

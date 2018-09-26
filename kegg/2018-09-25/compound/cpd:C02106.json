@@ -1,0 +1,66 @@
+[
+  {
+    "entry_id": "C02106",
+    "name": "(S)-Scoulerine",
+    "names": [
+      "(S)-Scoulerine",
+      "(13aS)-5,8,13,13a-Tetrahydro-3,10-dimethoxy-6H-dibenzo[a,g]quinolizine-2,9-diol"
+    ],
+    "formula": "C19H21NO4",
+    "exact_mass": 327.1471,
+    "mol_weight": 327.3743,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03831",
+      "R03834",
+      "R03835",
+      "R11405"
+    ],
+    "pathways": {
+      "map00950": "Isoquinoline alkaloid biosynthesis",
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway",
+      "map01100": "Metabolic pathways",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "1.14.19.65",
+      "1.14.19.73",
+      "1.21.3.3",
+      "2.1.1.117"
+    ],
+    "dblinks": {
+      "CAS": [
+        "6451-73-6"
+      ],
+      "PubChem": [
+        "5188"
+      ],
+      "ChEBI": [
+        "17129"
+      ],
+      "ChEMBL": [
+        "CHEMBL1235966"
+      ],
+      "KNApSAcK": [
+        "C00026092"
+      ],
+      "PDB-CCD": [
+        "SLX"
+      ],
+      "3DMET": [
+        "B01533"
+      ],
+      "NIKKAJI": [
+        "J92.838K"
+      ]
+    },
+    "kcf": "ATOM        24\n            1   C1y C    28.8572  -17.6522\n            2   C8y C    27.6423  -18.3472\n            3   N1y N    30.0781  -18.3355\n            4   C1x C    28.8455  -16.2562\n            5   C8y C    27.6481  -19.7491\n            6   C8x C    26.4390  -17.6462\n            7   C1x C    31.2813  -17.6288\n            8   C1x C    30.0838  -19.7433\n            9   C8y C    30.0547  -15.5435\n            10  C1x C    28.8689  -20.4500\n            11  C8x C    26.4390  -20.4560\n            12  C8y C    25.2181  -18.3472\n            13  C8y C    31.2696  -16.2328\n            14  C8x C    30.0430  -14.1474\n            15  C8y C    25.2181  -19.7491\n            16  O1a O    24.0090  -17.6462\n            17  C8y C    32.4729  -15.5202\n            18  C8x C    31.2404  -13.4464\n            19  O2a O    24.0090  -20.4560\n            20  C8y C    32.4553  -14.1240\n            21  O1a O    33.6878  -16.2094\n            22  C1a C    22.7882  -19.7550\n            23  O2a O    33.6587  -13.4173\n            24  C1a C    34.8853  -14.1006\nBOND        27\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     2   5 1\n            5     2   6 2\n            6     3   7 1\n            7     3   8 1\n            8     4   9 1\n            9     5  10 1\n            10    5  11 2\n            11    6  12 1\n            12    7  13 1\n            13    9  14 1\n            14   11  15 1\n            15   12  16 1\n            16   13  17 1\n            17   14  18 2\n            18   15  19 1\n            19   17  20 2\n            20   17  21 1\n            21   19  22 1\n            22   20  23 1\n            23   23  24 1\n            24    8  10 1\n            25    9  13 2\n            26   12  15 2\n            27   18  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

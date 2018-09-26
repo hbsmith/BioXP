@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11084",
+    "name": "L-allo-isoleucine:[peptidyl-carrier protein] ligase (AMP-forming)",
+    "definition": "ATP + L-allo-Isoleucine + Peptidyl-carrier protein <=> AMP + Diphosphate + L-allo-Isoleucyl-[peptidyl-carrier protein]",
+    "equation": "C00002 + C21096 + C21097 <=> C00020 + C00013 + C21098",
+    "comment": "Peptidyl-carrier protein is pcp domain of the enzyme itself [KO:K15646].",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.46"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K15646": "coronamic acid synthetase CmaA, adenylation and thiolation didomain protein [EC:6.2.1.46]"
+    }
+  }
+]

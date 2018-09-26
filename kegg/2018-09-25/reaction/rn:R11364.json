@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11364",
+    "name": "",
+    "definition": "3,4-Dihydro-7-hydroxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate <=> 3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylic acid",
+    "equation": "C21307 <=> C11468",
+    "comment": "methyltransferase incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21178": "O-methyltransferase [EC:2.1.1.-]"
+    }
+  }
+]

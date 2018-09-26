@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R07682",
+    "name": "naphthalene disulfonate 1,2-dioxygenase",
+    "definition": "1,6-Naphthalenedisulfonic acid + Oxygen <=> 1,2-Dihydroxynaphthalene-6-sulfonate + Sulfite",
+    "equation": "C16193 + C00007 <=> C16196 + C00094",
+    "comment": "incomplete reaction (unidentified donor)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.99.-"
+    ],
+    "pathways": {
+      "rn00626": "Naphthalene degradation"
+    },
+    "orthologs": {
+    }
+  }
+]

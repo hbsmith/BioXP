@@ -1,0 +1,26 @@
+[
+  {
+    "entry_id": "R03236",
+    "name": "ATP:D-tagatose-6-phosphate 1-phosphotransferase",
+    "definition": "D-Tagatose 6-phosphate + ATP <=> D-Tagatose 1,6-bisphosphate + ADP",
+    "equation": "C01097 + C00002 <=> C03785 + C00008",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.11",
+      "2.7.1.56",
+      "2.7.1.144"
+    ],
+    "pathways": {
+      "rn00052": "Galactose metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00850": "6-phosphofructokinase 1 [EC:2.7.1.11]",
+      "K00917": "tagatose 6-phosphate kinase [EC:2.7.1.144]",
+      "K16370": "6-phosphofructokinase 2 [EC:2.7.1.11]",
+      "K21071": "ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase [EC:2.7.1.11 2.7.1.90]"
+    }
+  }
+]

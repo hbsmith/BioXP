@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10640",
+    "name": "succinyl-CoA:(R)-citramalate CoA-transferase",
+    "definition": "Succinyl-CoA + (R)-2-Methylmalate <=> Succinate + (3R)-Citramalyl-CoA",
+    "equation": "C00091 + C02612 <=> C00042 + C20746",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.20"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K18313": "succinyl-CoA---D-citramalate CoA-transferase [EC:2.8.3.20]"
+    }
+  }
+]

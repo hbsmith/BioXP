@@ -1,0 +1,99 @@
+[
+  {
+    "entry_id": "C12033",
+    "name": "4-Aminophenylalanine",
+    "names": [
+      "4-Aminophenylalanine",
+      "p-Aminophenylalanine"
+    ],
+    "formula": "C9H12N2O2",
+    "exact_mass": 180.0899,
+    "mol_weight": 180.2038,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "2410-24-4"
+      ],
+      "PubChem": [
+        "14188"
+      ],
+      "ChEBI": [
+        "29737"
+      ],
+      "ChEMBL": [
+        "CHEMBL231389"
+      ],
+      "PDB-CCD": [
+        "HOX"
+      ],
+      "NIKKAJI": [
+        "J310.961E"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    24.9900  -20.9300\n            2   N1a N    23.8000  -21.6300\n            3   C8x C    26.2500  -21.6300\n            4   C8x C    24.9900  -19.5300\n            5   C8x C    27.4400  -20.9300\n            6   C8x C    26.2500  -18.8300\n            7   C8y C    27.4400  -19.5300\n            8   C1b C    28.6300  -18.8300\n            9   C1c C    29.8900  -19.5300\n            10  C6a C    31.0800  -18.8300\n            11  N1a N    29.8900  -20.9300\n            12  O6a O    32.2700  -19.5300\n            13  O6a O    31.0800  -17.4300\nBOND        13\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     3   5 1\n            5     4   6 2\n            6     5   7 2\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10    9  11 1 #Up\n            11   10  12 1\n            12   10  13 2\n            13    6   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C12033",
+    "name": "4-Aminophenylalanine",
+    "names": [
+      "4-Aminophenylalanine",
+      "p-Aminophenylalanine"
+    ],
+    "formula": "C9H12N2O2",
+    "exact_mass": 180.0899,
+    "mol_weight": 180.2038,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "2410-24-4"
+      ],
+      "PubChem": [
+        "14188"
+      ],
+      "ChEBI": [
+        "29737"
+      ],
+      "ChEMBL": [
+        "CHEMBL231389"
+      ],
+      "PDB-CCD": [
+        "HOX"
+      ],
+      "NIKKAJI": [
+        "J310.961E"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   C8y C    24.9900  -20.9300\n            2   N1a N    23.8000  -21.6300\n            3   C8x C    26.2500  -21.6300\n            4   C8x C    24.9900  -19.5300\n            5   C8x C    27.4400  -20.9300\n            6   C8x C    26.2500  -18.8300\n            7   C8y C    27.4400  -19.5300\n            8   C1b C    28.6300  -18.8300\n            9   C1c C    29.8900  -19.5300\n            10  C6a C    31.0800  -18.8300\n            11  N1a N    29.8900  -20.9300\n            12  O6a O    32.2700  -19.5300\n            13  O6a O    31.0800  -17.4300\nBOND        13\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     3   5 1\n            5     4   6 2\n            6     5   7 2\n            7     7   8 1\n            8     8   9 1\n            9     9  10 1\n            10    9  11 1 #Up\n            11   10  12 1\n            12   10  13 2\n            13    6   7 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

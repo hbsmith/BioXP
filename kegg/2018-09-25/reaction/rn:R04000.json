@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04000",
+    "name": "(E)-Glutaconate CoA-transferase",
+    "definition": "Acetyl-CoA + 2-Hydroxyglutarate <=> Acetate + 2-Hydroxyglutaryl-CoA",
+    "equation": "C00024 + C02630 <=> C00033 + C03058",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.8.3.12"
+    ],
+    "pathways": {
+      "rn00650": "Butanoate metabolism"
+    },
+    "orthologs": {
+      "K01039": "glutaconate CoA-transferase, subunit A [EC:2.8.3.12]",
+      "K01040": "glutaconate CoA-transferase, subunit B [EC:2.8.3.12]"
+    }
+  }
+]

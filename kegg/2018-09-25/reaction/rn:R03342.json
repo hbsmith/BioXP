@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03342",
+    "name": "3-(4-Hydroxyphenyl)pyruvate keto-enol-isomerase",
+    "definition": "3-(4-Hydroxyphenyl)pyruvate <=> 2-Hydroxy-3-(4-hydroxyphenyl)propenoate",
+    "equation": "C01179 <=> C05350",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.2.1"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism"
+    },
+    "orthologs": {
+      "K07253": "phenylpyruvate tautomerase [EC:5.3.2.1]"
+    }
+  }
+]

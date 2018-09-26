@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C02759",
+    "name": "alpha-Pinene-oxide",
+    "names": [
+      "alpha-Pinene-oxide"
+    ],
+    "formula": "C10H16O",
+    "exact_mass": 152.1201,
+    "mol_weight": 152.2334,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R04040",
+      "R06406"
+    ],
+    "pathways": {
+      "map00903": "Limonene and pinene degradation"
+    },
+    "enzymes": [
+      "1.14.13.-",
+      "5.5.1.10"
+    ],
+    "dblinks": {
+      "CAS": [
+        "72936-74-4"
+      ],
+      "PubChem": [
+        "5716"
+      ],
+      "ChEBI": [
+        "29060"
+      ],
+      "LIPIDMAPS": [
+        "LMPR0102120007"
+      ],
+      "KNApSAcK": [
+        "C00034794"
+      ],
+      "3DMET": [
+        "B04864"
+      ],
+      "NIKKAJI": [
+        "J909.024J"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C1y C    17.8017  -14.1216\n            2   C1z C    19.0118  -13.4199\n            3   C1z C    17.8017  -15.5375\n            4   C1x C    18.9860  -14.7974\n            5   C1y C    20.2411  -14.1216\n            6   O2x O    20.2347  -12.7892\n            7   C1a C    17.8855  -12.5897\n            8   C1y C    19.0118  -16.2520\n            9   C1a C    16.5853  -14.8359\n            10  C1a C    17.8017  -16.9342\n            11  C1x C    20.2411  -15.5375\nBOND        13\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     2   5 1\n            5     2   6 1\n            6     2   7 1\n            7     3   8 1\n            8     3   9 1\n            9     3  10 1\n            10    5  11 1\n            11    8   4 1 #Down\n            12    5   6 1\n            13    8  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

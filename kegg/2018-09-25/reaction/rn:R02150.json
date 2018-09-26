@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R02150",
+    "name": "1H-Imidazole-4-ethanamine:oxygen oxidoreductase (deaminating) (copper-containing)",
+    "definition": "Histamine + Oxygen + H2O <=> Imidazole-4-acetaldehyde + Ammonia + Hydrogen peroxide",
+    "equation": "C00388 + C00007 + C00001 <=> C05130 + C00014 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.4.3.22"
+    ],
+    "pathways": {
+      "rn00340": "Histidine metabolism"
+    },
+    "orthologs": {
+      "K11182": "diamine oxidase [EC:1.4.3.22]"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05532",
+    "name": "S-adenosyl-L-methionine:erythromycin-D 3''-O-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Erythromycin D <=> S-Adenosyl-L-homocysteine + Erythromycin B",
+    "equation": "C00019 + C06633 <=> C00021 + C06653",
+    "comment": "EryG: O-methyl transferase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.254"
+    ],
+    "pathways": {
+      "rn00522": "Biosynthesis of 12-, 14- and 16-membered macrolides",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K14369": "erythromycin 3''-O-methyltransferase [EC:2.1.1.254]"
+    }
+  }
+]

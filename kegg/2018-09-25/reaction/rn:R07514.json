@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R07514",
+    "name": "6-hydroxypseudooxynicotinemonooxygenase",
+    "definition": "6-Hydroxypseudooxynicotine + Acceptor + H2O <=> 2,6-Dihydroxypseudooxynicotine + Reduced acceptor",
+    "equation": "C01297 + C00028 + C00001 <=> C15986 + C00030",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.99.14"
+    ],
+    "pathways": {
+      "rn00760": "Nicotinate and nicotinamide metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K19185": "6-hydroxypseudooxynicotine dehydrogenase subunit alpha [EC:1.5.99.14]",
+      "K19186": "6-hydroxypseudooxynicotine dehydrogenase subunit beta [EC:1.5.99.14]",
+      "K19187": "6-hydroxypseudooxynicotine dehydrogenase subunit gamma [EC:1.5.99.14]"
+    }
+  }
+]

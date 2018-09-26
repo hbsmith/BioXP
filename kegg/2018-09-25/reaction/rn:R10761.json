@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10761",
+    "name": "hydroperoxyicosatetraenoate hydro-lyase (oxoicosatetraenoate-forming)",
+    "definition": "Hydroperoxyicosatetraenoate <=> Oxoicosatetraenoate + H2O",
+    "equation": "C20832 <=> C20833 + C00001",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.152"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K18684": "hydroperoxy icosatetraenoate dehydratase/isomerase [EC:4.2.1.152 5.4.4.7]"
+    }
+  }
+]

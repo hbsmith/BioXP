@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10918",
+    "name": "(R)-ipsdienol:NAD+ oxidoreductase",
+    "definition": "(R)-Ipsdienol + NAD+ <=> Ipsdienone + NADH + H+",
+    "equation": "C20943 + C00003 <=> C20944 + C00004 + C00080",
+    "comment": "NADP+ (see R10919)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.386"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K20142": "ipsdienol dehydrogenase [EC:1.1.1.386]"
+    }
+  }
+]

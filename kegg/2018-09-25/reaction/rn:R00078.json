@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R00078",
+    "name": "Fe(II):oxygen oxidoreductase; Fe2+:oxygen oxidoreductase",
+    "definition": "Oxygen + 4 Fe2+ + 4 H+ <=> 4 Fe3+ + 2 H2O",
+    "equation": "C00007 + 4 C14818 + 4 C00080 <=> 4 C14819 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.16.3.1"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism"
+    },
+    "orthologs": {
+      "K03594": "bacterioferritin [EC:1.16.3.1]",
+      "K13624": "ceruloplasmin [EC:1.16.3.1]",
+      "K14735": "hephaestin [EC:1.16.3.1]",
+      "K19054": "frataxin [EC:1.16.3.1]",
+      "K22336": "bacterioferritin B [EC:1.16.3.1]",
+      "K22552": "multicopper oxidase [EC:1.16.3.1]"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R05805",
+    "name": "ADP:D-fructose-6-phosphate 1-phosphotransferase",
+    "definition": "ADP + D-Fructose 6-phosphate <=> AMP + D-Fructose 1,6-bisphosphate",
+    "equation": "C00008 + C00085 <=> C00020 + C00354",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.146"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00918": "ADP-dependent phosphofructokinase/glucokinase [EC:2.7.1.146 2.7.1.147]"
+    }
+  }
+][
+  {
+    "entry_id": "R05805",
+    "name": "ADP:D-fructose-6-phosphate 1-phosphotransferase",
+    "definition": "ADP + D-Fructose 6-phosphate <=> AMP + D-Fructose 1,6-bisphosphate",
+    "equation": "C00008 + C00085 <=> C00020 + C00354",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.146"
+    ],
+    "pathways": {
+      "rn00680": "Methane metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00918": "ADP-dependent phosphofructokinase/glucokinase [EC:2.7.1.146 2.7.1.147]"
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C21430",
+    "name": "Malonamoyl-[acyl-carrier protein]",
+    "names": [
+      "Malonamoyl-[acyl-carrier protein]",
+      "Malonamoyl-[acp]"
+    ],
+    "formula": "C3H4NO2SR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy R = acyl-carrier protein",
+    "reactions": [
+      "R11515",
+      "R11516"
+    ],
+    "pathways": {
+      "map00253": "Tetracycline biosynthesis",
+      "map01056": "Biosynthesis of type II polyketide backbone",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "2.3.1.260",
+      "6.3.5.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "329728053"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   N1a N    10.6400  -14.9800\n            2   C5a C    11.8524  -14.2800\n            3   C1b C    13.0649  -14.9800\n            4   C5a C    14.2773  -14.2800\n            5   S2a S    15.4897  -14.9800\n            6   O5a O    11.8524  -12.8802\n            7   O5a O    14.2773  -12.8800\n            8   R   R    16.8897  -14.9800\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     2   6 2\n            6     4   7 2\n            7     5   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

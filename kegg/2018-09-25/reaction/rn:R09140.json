@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R09140",
+    "name": "(2E,6E)-farnesyl-diphosphate diphosphate-lyase (8-epi-cedrol-forming)",
+    "definition": "trans,trans-Farnesyl diphosphate + H2O <=> 8-epi-Cedrol + Diphosphate",
+    "equation": "C00448 + C00001 <=> C18245 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.39"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K14176": "epi-cedrol synthase [EC:4.2.3.39]"
+    }
+  }
+][
+  {
+    "entry_id": "R09140",
+    "name": "(2E,6E)-farnesyl-diphosphate diphosphate-lyase (8-epi-cedrol-forming)",
+    "definition": "trans,trans-Farnesyl diphosphate + H2O <=> 8-epi-Cedrol + Diphosphate",
+    "equation": "C00448 + C00001 <=> C18245 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.3.39"
+    ],
+    "pathways": {
+      "rn00909": "Sesquiterpenoid and triterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K14176": "epi-cedrol synthase [EC:4.2.3.39]"
+    }
+  }
+]

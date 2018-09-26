@@ -1,0 +1,60 @@
+[
+  {
+    "entry_id": "C06454",
+    "name": "Fosfomycin",
+    "names": [
+      "Fosfomycin",
+      "Phosphonomycin",
+      "(1R,2S)-Epoxypropylphosphonate"
+    ],
+    "formula": "C3H7O4P",
+    "exact_mass": 138.0082,
+    "mol_weight": 138.059,
+    "remark": "Same as: D04253",
+    "comment": "",
+    "reactions": [
+      "R08863"
+    ],
+    "pathways": {
+      "map00440": "Phosphonate and phosphinate metabolism",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "1.1.3.-",
+      "1.11.1.23"
+    ],
+    "dblinks": {
+      "CAS": [
+        "23155-02-4"
+      ],
+      "PubChem": [
+        "8687"
+      ],
+      "ChEBI": [
+        "28915"
+      ],
+      "ChEMBL": [
+        "CHEMBL1757"
+      ],
+      "KNApSAcK": [
+        "C00000789"
+      ],
+      "PDB-CCD": [
+        "FCN"
+      ],
+      "3DMET": [
+        "B02030"
+      ],
+      "NIKKAJI": [
+        "J34.117G"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1y C    31.2200  -15.2600\n            2   C1y C    32.6200  -15.2600\n            3   O2x O    31.9200  -14.0700\n            4   P1b P    30.0300  -15.9600\n            5   C1a C    33.8100  -15.9600\n            6   O1c O    28.7700  -16.6600\n            7   O1c O    29.3300  -14.7700\n            8   O1c O    30.7300  -17.1500\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   1 1\n            4     1   4 1 #Up\n            5     2   5 1 #Up\n            6     4   6 2\n            7     4   7 1\n            8     4   8 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

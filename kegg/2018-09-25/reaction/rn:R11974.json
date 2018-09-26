@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11974",
+    "name": "ferruginol,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (salviol forming)",
+    "definition": "Ferruginol + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Salviol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C09092 + C03024 + C00007 <=> C21819 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.62"
+    ],
+    "pathways": {
+      "rn00904": "Diterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22634": "salviol synthase [EC:1.14.14.62]"
+    }
+  }
+]

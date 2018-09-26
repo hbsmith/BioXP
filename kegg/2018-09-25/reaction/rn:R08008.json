@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08008",
+    "name": "2',4,4',6'-tetrahydroxychalcone 4'-O-glucoside:oxygen oxidoreductase",
+    "definition": "2',4,4',6'-Tetrahydroxychalcone 4'-O-glucoside + Oxygen <=> Aureusidin 6-O-glucoside + H2O",
+    "equation": "C16407 + C00007 <=> C16409 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.21.3.6"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis"
+    },
+    "orthologs": {
+      "K13079": "aureusidin synthase [EC:1.21.3.6]"
+    }
+  }
+]

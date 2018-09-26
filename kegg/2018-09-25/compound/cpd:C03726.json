@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "C03726",
+    "name": "S-Alkyl-L-cysteine S-oxide",
+    "names": [
+      "S-Alkyl-L-cysteine S-oxide"
+    ],
+    "formula": "C3H6NO3SR",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R03901"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.4.1.4"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "6491"
+      ],
+      "ChEBI": [
+        "28133"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   S4a S    15.7500  -16.1000\n            2   C1b C    16.9624  -15.4000\n            3   C1c C    18.1749  -16.1000\n            4   C6a C    19.3873  -15.4000\n            5   O6a O    20.5997  -16.1000\n            6   R   R    14.5376  -15.4000\n            7   O3c O    15.7500  -17.5000\n            8   O6a O    19.3873  -14.0000\n            9   N1a N    18.1749  -17.4998\nBOND        8\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   6 1\n            6     1   7 2\n            7     4   8 2\n            8     3   9 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11609",
+    "name": "dimethylallyl-diphosphate:2-acylphloroglucinol 4-dimethylallyltransferase",
+    "definition": "Dimethylallyl diphosphate + 2-Acylphloroglucinol <=> Diphosphate + 2-Acyl-4-prenylphloroglucinol",
+    "equation": "C00235 + C21498 <=> C00013 + C21499",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.136"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K21590": "2-acylphloroglucinol 4-prenyltransferase [EC:2.5.1.136]"
+    }
+  }
+]

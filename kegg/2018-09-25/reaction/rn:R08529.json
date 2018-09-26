@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08529",
+    "name": "Monoterpenyl-diphosphate pyrophosphohydrolase",
+    "definition": "(+)-Bornyl diphosphate + H2O <=> (+)-Borneol + Diphosphate",
+    "equation": "C03190 + C00001 <=> C01765 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.7.3"
+    ],
+    "pathways": {
+      "rn00902": "Monoterpenoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

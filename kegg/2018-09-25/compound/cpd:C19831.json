@@ -1,0 +1,75 @@
+[
+  {
+    "entry_id": "C19831",
+    "name": "(1R,6S)-6-Amino-5-oxocyclohex-2-ene-1-carboxylate",
+    "names": [
+      "(1R,6S)-6-Amino-5-oxocyclohex-2-ene-1-carboxylate"
+    ],
+    "formula": "C7H9NO3",
+    "exact_mass": 155.0582,
+    "mol_weight": 155.1513,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09707",
+      "R11493",
+      "R11568"
+    ],
+    "pathways": {
+      "map00405": "Phenazine biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "5.3.3.17"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "135626298"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C2x C    23.5586  -21.7927\n            2   C2x C    23.5586  -23.1888\n            3   C1x C    24.7676  -23.8869\n            4   C5x C    25.9767  -23.1888\n            5   C1y C    25.9767  -21.7927\n            6   C1y C    24.7676  -21.0947\n            7   C6a C    24.7676  -19.6988\n            8   O6a O    23.5419  -18.9909\n            9   O6a O    25.9599  -19.0104\n            10  N1a N    27.2044  -21.0837\n            11  O5x O    27.2044  -23.8978\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     6   7 1\n            8     7   8 2\n            9     7   9 1\n            10    5  10 1 #Down\n            11    4  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C19831",
+    "name": "(1R,6S)-6-Amino-5-oxocyclohex-2-ene-1-carboxylate",
+    "names": [
+      "(1R,6S)-6-Amino-5-oxocyclohex-2-ene-1-carboxylate"
+    ],
+    "formula": "C7H9NO3",
+    "exact_mass": 155.0582,
+    "mol_weight": 155.1513,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09707",
+      "R11493",
+      "R11568"
+    ],
+    "pathways": {
+      "map00405": "Phenazine biosynthesis",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+      "5.3.3.17"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "135626298"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   C2x C    23.5586  -21.7927\n            2   C2x C    23.5586  -23.1888\n            3   C1x C    24.7676  -23.8869\n            4   C5x C    25.9767  -23.1888\n            5   C1y C    25.9767  -21.7927\n            6   C1y C    24.7676  -21.0947\n            7   C6a C    24.7676  -19.6988\n            8   O6a O    23.5419  -18.9909\n            9   O6a O    25.9599  -19.0104\n            10  N1a N    27.2044  -21.0837\n            11  O5x O    27.2044  -23.8978\nBOND        11\n            1     1   2 2\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     1   6 1\n            7     6   7 1\n            8     7   8 2\n            9     7   9 1\n            10    5  10 1 #Down\n            11    4  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

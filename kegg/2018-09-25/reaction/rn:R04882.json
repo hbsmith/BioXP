@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R04882",
+    "name": "3,4-Dihydroxymandelaldehyde:NAD+ oxidoreductase",
+    "definition": "3,4-Dihydroxymandelaldehyde + NAD+ + H2O <=> 3,4-Dihydroxymandelate + NADH + H+",
+    "equation": "C05577 + C00003 + C00001 <=> C05580 + C00004 + C00080",
+    "comment": "see R04883 (NADPH)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.5"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00129": "aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]"
+    }
+  }
+][
+  {
+    "entry_id": "R04882",
+    "name": "3,4-Dihydroxymandelaldehyde:NAD+ oxidoreductase",
+    "definition": "3,4-Dihydroxymandelaldehyde + NAD+ + H2O <=> 3,4-Dihydroxymandelate + NADH + H+",
+    "equation": "C05577 + C00003 + C00001 <=> C05580 + C00004 + C00080",
+    "comment": "see R04883 (NADPH)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.5"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00129": "aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]"
+    }
+  }
+]

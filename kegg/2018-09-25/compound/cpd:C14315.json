@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C14315",
+    "name": "Anthracene",
+    "names": [
+      "Anthracene"
+    ],
+    "formula": "C14H10",
+    "exact_mass": 178.0783,
+    "mol_weight": 178.2292,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R07687",
+      "R07704"
+    ],
+    "pathways": {
+      "map00624": "Polycyclic aromatic hydrocarbon degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.12.12",
+      "1.14.-.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "120-12-7"
+      ],
+      "PubChem": [
+        "17395315"
+      ],
+      "ChEBI": [
+        "35298"
+      ],
+      "ChEMBL": [
+        "CHEMBL333179"
+      ],
+      "PDB-CCD": [
+        "AN3"
+      ],
+      "NIKKAJI": [
+        "J2.916E"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8x C    25.2202  -16.2366\n            2   C8x C    25.2202  -17.6385\n            3   C8x C    26.4373  -18.3394\n            4   C8x C    26.4373  -15.5356\n            5   C8y C    27.6471  -16.2366\n            6   C8y C    27.6412  -17.6385\n            7   C8x C    28.8523  -18.3446\n            8   C8x C    28.8644  -15.5409\n            9   C8y C    30.0755  -16.2469\n            10  C8y C    30.1327  -17.6453\n            11  C8x C    31.2674  -18.3552\n            12  C8x C    32.4846  -17.6672\n            13  C8x C    32.4973  -16.2688\n            14  C8x C    31.2927  -15.5589\nBOND        16\n            1     9   8 2\n            2     8   5 1\n            3     5   4 2\n            4     4   1 1\n            5     1   2 2\n            6     2   3 1\n            7     3   6 2\n            8     9  10 1\n            9    10  11 1\n            10   11  12 2\n            11   12  13 1\n            12   13  14 2\n            13   14   9 1\n            14    5   6 1\n            15    6   7 1\n            16    7  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R06072",
+    "name": "UDP-D-galacturonate:1,4-alpha-poly-D-galacturonate 4-alpha-D-galacturonosyltransferase",
+    "definition": "Pectic acid(n) + UDP-D-galacturonate <=> Pectic acid(n+1) + UDP",
+    "equation": "G10506(n) + G11110 <=> G10506(n+1) + G10619",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.43"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

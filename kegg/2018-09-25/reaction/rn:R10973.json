@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R10973",
+    "name": "D-ribose-2,5-bisphosphate 2-phosphohydrolase",
+    "definition": "D-Ribose 2,5-bisphosphate + H2O <=> D-Ribose 5-phosphate + Orthophosphate",
+    "equation": "C20986 + C00001 <=> C00117 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.1.4.57"
+    ],
+    "pathways": {
+      "rn00440": "Phosphonate and phosphinate metabolism"
+    },
+    "orthologs": {
+      "K20859": "phosphoribosyl 1,2-cyclic phosphate 1,2-diphosphodiesterase [EC:3.1.4.57]"
+    }
+  }
+]

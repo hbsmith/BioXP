@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R02769",
+    "name": "phosphoenolpyruvate:N-acyl-D-mannosamine-6-phosphate C-(1-carboxyvinyl)transferase (phosphate-hydrolysing, 2-carboxy-2-oxoethyl-forming); N-acylneuraminate 9-phosphate pyruvate-lyase (pyruvate-phosphorylating)",
+    "definition": "N-Acylneuraminate 9-phosphate + Orthophosphate <=> N-Acyl-D-mannosamine 6-phosphate + Phosphoenolpyruvate + H2O",
+    "equation": "C01200 + C00009 <=> C00686 + C00074 + C00001",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.57"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

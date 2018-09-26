@@ -1,0 +1,26 @@
+[
+  {
+    "entry_id": "R00155",
+    "name": "UDP phosphohydrolase",
+    "definition": "UDP + H2O <=> UMP + Orthophosphate",
+    "equation": "C00015 + C00001 <=> C00105 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.5",
+      "3.6.1.6"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+      "K01510": "apyrase [EC:3.6.1.5]",
+      "K01511": "ectonucleoside triphosphate diphosphohydrolase 5/6 [EC:3.6.1.6]",
+      "K12304": "soluble calcium-activated nucleotidase 1 [EC:3.6.1.6]",
+      "K12305": "ectonucleoside triphosphate diphosphohydrolase 4 [EC:3.6.1.6]",
+      "K14641": "apyrase [EC:3.6.1.5]",
+      "K14642": "golgi apyrase [EC:3.6.1.5]"
+    }
+  }
+]

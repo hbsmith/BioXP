@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R11896",
+    "name": "5-fluorodeoxyuridine-triphosphate diphosphohydrolase",
+    "definition": "5-Fluorodeoxyuridine triphosphate + H2O <=> 5-Fluorodeoxyuridine monophosphate + Diphosphate",
+    "equation": "C21751 + C00001 <=> C04242 + C00013",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.6.1.23"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K01520": "dUTP pyrophosphatase [EC:3.6.1.23]"
+    }
+  }
+]

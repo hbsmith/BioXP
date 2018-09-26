@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C16596",
+    "name": "5-Phenyl-1,3-oxazinane-2,4-dione",
+    "names": [
+      "5-Phenyl-1,3-oxazinane-2,4-dione"
+    ],
+    "formula": "C10H9NO3",
+    "exact_mass": 191.0582,
+    "mol_weight": 191.1834,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08310",
+      "R08311"
+    ],
+    "pathways": {
+      "map00982": "Drug metabolism - cytochrome P450"
+    },
+    "enzymes": [
+      "1.1.1.1"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "51090923"
+      ],
+      "ChEBI": [
+        "80594"
+      ],
+      "NIKKAJI": [
+        "J1.287.315H"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C1y C    24.3093  -20.1980\n            2   C8y C    24.3209  -18.8023\n            3   C8x C    23.1064  -18.0959\n            4   C8x C    25.5355  -18.1016\n            5   C8x C    23.1064  -16.6889\n            6   C8x C    25.5413  -16.6946\n            7   C8x C    24.3268  -15.9939\n            8   C1x C    23.1019  -20.8816\n            9   O7x O    23.0901  -22.2829\n            10  C7x C    24.2978  -22.9938\n            11  N1x N    25.5752  -22.3101\n            12  C5x C    25.5170  -20.9088\n            13  O6a O    24.2863  -24.3843\n            14  O5x O    26.7400  -20.2164\nBOND        15\n            1     1   2 1\n            2     2   3 2\n            3     2   4 1\n            4     3   5 1\n            5     4   6 2\n            6     5   7 2\n            7     6   7 1\n            8     1   8 1\n            9     8   9 1\n            10    9  10 1\n            11   10  11 1\n            12   11  12 1\n            13    1  12 1\n            14   10  13 2\n            15   12  14 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

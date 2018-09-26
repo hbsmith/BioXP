@@ -1,0 +1,32 @@
+[
+  {
+    "entry_id": "R00162",
+    "name": "ATP:protein phosphotransferase; ATP:protein phosphotransferase (Ca2+/calmodulin-dependent)",
+    "definition": "ATP + Protein <=> ADP + Phosphoprotein",
+    "equation": "C00002 + C00017 <=> C00008 + C00562",
+    "comment": "general reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.11.1",
+      "2.7.11.8",
+      "2.7.11.9",
+      "2.7.11.10",
+      "2.7.11.11",
+      "2.7.11.12",
+      "2.7.11.13",
+      "2.7.11.17",
+      "2.7.11.21",
+      "2.7.11.22",
+      "2.7.11.24",
+      "2.7.11.25",
+      "2.7.11.30",
+      "2.7.12.1",
+      "2.7.12.2"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

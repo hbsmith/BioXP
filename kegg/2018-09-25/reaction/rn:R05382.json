@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R05382",
+    "name": "triethanolamine diethanolamine-lyase (acetaldehyde-forming)",
+    "definition": "Triethanolamine <=> Diethanolamine + Acetaldehyde",
+    "equation": "C06771 <=> C06772 + C00084",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.3.3.-"
+    ],
+    "pathways": {
+      "rn00564": "Glycerophospholipid metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

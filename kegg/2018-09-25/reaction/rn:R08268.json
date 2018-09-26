@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08268",
+    "name": "",
+    "definition": "Tamoxifen <=> N-Desmethyltamoxifen",
+    "equation": "C07108 <=> C16546",
+    "comment": "CYP3A4: N-demethylation incomplete reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00982": "Drug metabolism - cytochrome P450"
+    },
+    "orthologs": {
+      "K17689": "cytochrome P450 family 3 subfamily A polypeptide 4 [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.13.-]"
+    }
+  }
+]

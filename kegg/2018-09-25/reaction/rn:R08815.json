@@ -1,0 +1,24 @@
+[
+  {
+    "entry_id": "R08815",
+    "name": "cinnamoyl-CoA,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (4-hydroxylating)",
+    "definition": "Cinnamoyl-CoA + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> p-Coumaroyl-CoA + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C00540 + C03024 + C00007 <=> C00223 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.91"
+    ],
+    "pathways": {
+      "rn00940": "Phenylpropanoid biosynthesis",
+      "rn00941": "Flavonoid biosynthesis",
+      "rn00945": "Stilbenoid, diarylheptanoid and gingerol biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites",
+      "rn01220": "Degradation of aromatic compounds"
+    },
+    "orthologs": {
+      "K00487": "trans-cinnamate 4-monooxygenase [EC:1.14.13.11]"
+    }
+  }
+]

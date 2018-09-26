@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R01548",
+    "name": "dATP:cytidine 5'-phosphotransferase",
+    "definition": "dATP + Cytidine <=> dADP + CMP",
+    "equation": "C00131 + C00475 <=> C00206 + C00055",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.1.48"
+    ],
+    "pathways": {
+      "rn00240": "Pyrimidine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00876": "uridine kinase [EC:2.7.1.48]"
+    }
+  }
+]

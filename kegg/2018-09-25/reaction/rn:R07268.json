@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R07268",
+    "name": "ATP:cobinamide Cobeta-adenosyltransferase",
+    "definition": "ATP + Cobinamide <=> Triphosphate + Adenosyl cobinamide",
+    "equation": "C00002 + C05774 <=> C00536 + C06508",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.17"
+    ],
+    "pathways": {
+      "rn00860": "Porphyrin and chlorophyll metabolism"
+    },
+    "orthologs": {
+      "K00798": "cob(I)alamin adenosyltransferase [EC:2.5.1.17]",
+      "K19221": "cob(I)alamin adenosyltransferase [EC:2.5.1.17]"
+    }
+  }
+]

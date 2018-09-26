@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R08960",
+    "name": "5alpha-pregnane-3alpha,20alpha-diol:NADP+ oxidoreductase (A-specific)",
+    "definition": "5alpha-Pregnan-20alpha-ol-3-one + NADPH + H+ <=> 5alpha-Pregnane-3alpha,20alpha-diol + NADP+",
+    "equation": "C18041 + C00005 + C00080 <=> C18042 + C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.213"
+    ],
+    "pathways": {
+      "rn00140": "Steroid hormone biosynthesis"
+    },
+    "orthologs": {
+      "K00089": "3alpha-hydroxysteroid 3-dehydrogenase [EC:1.1.1.213 1.1.1.357]",
+      "K04119": "aldo-keto reductase family 1 member C3 [EC:1.1.1.51 1.1.1.188 1.1.1.213 1.1.1.357]"
+    }
+  }
+]

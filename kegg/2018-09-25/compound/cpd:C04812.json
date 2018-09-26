@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C04812",
+    "name": "1D-1-Guanidino-3-amino-1,3-dideoxy-scyllo-inositol 4-phosphate",
+    "names": [
+      "1D-1-Guanidino-3-amino-1,3-dideoxy-scyllo-inositol 4-phosphate"
+    ],
+    "formula": "C7H17N4O7P",
+    "exact_mass": 300.0835,
+    "mol_weight": 300.2062,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7374"
+      ],
+      "ChEBI": [
+        "27695"
+      ],
+      "NIKKAJI": [
+        "J2.754.650A"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   C1y C    27.7843  -17.5586\n            2   C1y C    27.7843  -18.8766\n            3   C1y C    28.9098  -16.9055\n            4   N1b N    26.3556  -16.7305\n            5   C1y C    28.9098  -19.5414\n            6   O1a O    26.6529  -19.5238\n            7   C1y C    30.0530  -17.5586\n            8   O1a O    28.9041  -15.6107\n            9   C2c C    24.9209  -17.5527\n            10  C1y C    30.0530  -18.8766\n            11  N1a N    28.9041  -20.8477\n            12  O1a O    31.1785  -16.9055\n            13  N1a N    23.4922  -16.7247\n            14  N2a N    24.9152  -19.2089\n            15  O2b O    31.1785  -19.5238\n            16  P1b P    32.5785  -19.5238\n            17  O1c O    33.9785  -19.5238\n            18  O1c O    32.5785  -20.9238\n            19  O1c O    32.5785  -18.1238\nBOND        19\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Down\n            6     3   7 1\n            7     3   8 1 #Down\n            8     4   9 1\n            9     5  10 1\n            10    5  11 1 #Up\n            11    7  12 1 #Up\n            12    9  13 1\n            13    9  14 2\n            14   10  15 1 #Down\n            15    7  10 1\n            16   15  16 1\n            17   16  17 1\n            18   16  18 2\n            19   16  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

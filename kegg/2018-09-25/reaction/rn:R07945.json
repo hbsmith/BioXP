@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "R07945",
+    "name": "",
+    "definition": "1,7-Dimethylxanthine <=> 1,7-Dimethyluric acid",
+    "equation": "C13747 <=> C16356",
+    "comment": "CYP2A6, CYP1A2",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-",
+      "1.14.14.1"
+    ],
+    "pathways": {
+      "rn00232": "Caffeine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K07409": "cytochrome P450 family 1 subfamily A polypeptide 2 [EC:1.14.14.1]",
+      "K17683": "cytochrome P450 family 2 subfamily A polypeptide 6 [EC:1.14.13.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R07945",
+    "name": "",
+    "definition": "1,7-Dimethylxanthine <=> 1,7-Dimethyluric acid",
+    "equation": "C13747 <=> C16356",
+    "comment": "CYP2A6, CYP1A2",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-",
+      "1.14.14.1"
+    ],
+    "pathways": {
+      "rn00232": "Caffeine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K07409": "cytochrome P450 family 1 subfamily A polypeptide 2 [EC:1.14.14.1]",
+      "K17683": "cytochrome P450 family 2 subfamily A polypeptide 6 [EC:1.14.13.-]"
+    }
+  }
+]

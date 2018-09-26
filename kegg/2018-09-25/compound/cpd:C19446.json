@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C19446",
+    "name": "Methyl chloride",
+    "names": [
+      "Methyl chloride"
+    ],
+    "formula": "CH3Cl",
+    "exact_mass": 49.9923,
+    "mol_weight": 50.4875,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "74-87-3"
+      ],
+      "PubChem": [
+        "124490118"
+      ],
+      "ChEBI": [
+        "36014"
+      ],
+      "ChEMBL": [
+        "CHEMBL117545"
+      ],
+      "PDB-CCD": [
+        "0QE"
+      ]
+    },
+    "kcf": "ATOM        2\n            1   C1a C    16.3100  -17.5000\n            2   X   Cl   17.7100  -17.5000\nBOND        1\n            1     1   2 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

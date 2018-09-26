@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10373",
+    "name": "paspaline,NADPH:oxygen oxidoreductase",
+    "definition": "Paspaline + Oxygen + NADPH + H+ <=> Terpendole E + NADP+ + H2O",
+    "equation": "C20530 + C00007 + C00005 + C00080 <=> C20536 + C00006 + C00001",
+    "comment": "cytochrome P450 monooxygenase, TerQ",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.-"
+    ],
+    "pathways": {
+      "rn00403": "Indole diterpene alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K18393": "cytochrome P450 monooxygenase [EC:1.14.13.-]"
+    }
+  }
+]

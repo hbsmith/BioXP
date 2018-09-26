@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R00674",
+    "name": "L-serine hydro-lyase (adding indole; L-tryptophan-forming)",
+    "definition": "L-Serine + Indole <=> L-Tryptophan + H2O",
+    "equation": "C00065 + C00463 <=> C00078 + C00001",
+    "comment": "multi-step reaction intermediate (2-aminoacrylate Schiff base with PLP)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.20",
+      "4.2.1.122"
+    ],
+    "pathways": {
+      "rn00400": "Phenylalanine, tyrosine and tryptophan biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K01695": "tryptophan synthase alpha chain [EC:4.2.1.20]",
+      "K01696": "tryptophan synthase beta chain [EC:4.2.1.20]",
+      "K06001": "tryptophan synthase beta chain [EC:4.2.1.20]"
+    }
+  }
+]

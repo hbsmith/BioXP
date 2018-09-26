@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04121",
+    "name": "Fatty acid,reduced-flaboprotein:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)",
+    "definition": "[Reduced NADPH---hemoprotein reductase] + Fatty acid + Oxygen <=> alpha-Hydroxy fatty acid + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C03024 + C00162 + C00007 <=> C05102 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.1"
+    ],
+    "pathways": {
+      "rn00071": "Fatty acid degradation"
+    },
+    "orthologs": {
+      "K00493": "unspecific monooxygenase [EC:1.14.14.1]",
+      "K14338": "cytochrome P450 / NADPH-cytochrome P450 reductase [EC:1.14.14.1 1.6.2.4]"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "C05645",
+    "name": "4-(2-Amino-3-hydroxyphenyl)-2,4-dioxobutanoate",
+    "names": [
+      "4-(2-Amino-3-hydroxyphenyl)-2,4-dioxobutanoate"
+    ],
+    "formula": "C10H9NO5",
+    "exact_mass": 223.0481,
+    "mol_weight": 223.1822,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03954",
+      "R04171"
+    ],
+    "pathways": {
+      "map00380": "Tryptophan metabolism"
+    },
+    "enzymes": [
+      "2.6.1.7"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7956"
+      ],
+      "3DMET": [
+        "B00823"
+      ],
+      "NIKKAJI": [
+        "J2.756.639A"
+      ]
+    },
+    "kcf": "ATOM        16\n            1   C8y C    23.2905  -16.5613\n            2   C8y C    23.2905  -17.9677\n            3   C5a C    24.5048  -15.8513\n            4   C8x C    22.0728  -15.8546\n            5   C8y C    22.0728  -18.6743\n            6   N1a N    24.2990  -18.7567\n            7   C1b C    25.7260  -16.5545\n            8   O5a O    24.5014  -14.4414\n            9   C8x C    20.8550  -16.5613\n            10  C8x C    20.8550  -17.9677\n            11  O1a O    22.0660  -20.0841\n            12  C5a C    26.9437  -15.8478\n            13  C6a C    28.1614  -16.5510\n            14  O5a O    26.9403  -14.4380\n            15  O6a O    28.1614  -17.9574\n            16  O6a O    29.3826  -15.8478\nBOND        16\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     2   5 2\n            5     2   6 1\n            6     3   7 1\n            7     3   8 2\n            8     4   9 1\n            9     5  10 1\n            10    5  11 1\n            11    7  12 1\n            12   12  13 1\n            13   12  14 2\n            14   13  15 2\n            15   13  16 1\n            16    9  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

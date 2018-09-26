@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C04794",
+    "name": "3-(4-Deoxy-beta-D-gluc-4-enuronosyl)-N-acetyl-D-glucosamine",
+    "names": [
+      "3-(4-Deoxy-beta-D-gluc-4-enuronosyl)-N-acetyl-D-glucosamine",
+      "3-(4-Deoxy-alpha-L-threo-hex-4-enopyranosyluronic acid)-2-acetamido-2-deoxy-D-glucose"
+    ],
+    "formula": "C14H21NO11",
+    "exact_mass": 379.1115,
+    "mol_weight": 379.3166,
+    "remark": "Same as: G02170",
+    "comment": "",
+    "reactions": [
+      "R02465"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "4.2.2.1"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7357"
+      ],
+      "ChEBI": [
+        "16126"
+      ],
+      "NIKKAJI": [
+        "J2.751.688B"
+      ]
+    },
+    "kcf": "ATOM        26\n            1   C1y C    24.4514  -19.0719\n            2   C1y C    25.6521  -18.3679\n            3   O2a O    24.4452  -20.5752\n            4   C1y C    23.2698  -18.3679\n            5   C1y C    25.6521  -16.9850\n            6   N1b N    26.8337  -19.0530\n            7   C1y C    23.1937  -21.2604\n            8   C1y C    23.2698  -16.9850\n            9   O1a O    22.0817  -19.0468\n            10  O2x O    24.4514  -16.3061\n            11  O1a O    26.8337  -16.1599\n            12  C5a C    28.3061  -18.2656\n            13  O2x O    21.9994  -20.5752\n            14  C1y C    23.1937  -22.6432\n            15  C1b C    22.0817  -16.3061\n            16  C1a C    29.4876  -18.9505\n            17  O5a O    28.2994  -16.9648\n            18  C2y C    20.8115  -21.2604\n            19  C1y C    21.9994  -23.3411\n            20  O1a O    24.3816  -23.3221\n            21  O1a O    22.0817  -14.9359\n            22  C2x C    20.8115  -22.6432\n            23  C6a C    19.6297  -20.5752\n            24  O1a O    21.9932  -24.7050\n            25  O6a O    19.6297  -19.2114\n            26  O6a O    18.4481  -21.2604\nBOND        27\n            1     1   2 1\n            2     1   3 1 #Up\n            3     1   4 1\n            4     2   5 1\n            5     2   6 1 #Down\n            6     7   3 1 #Up\n            7     4   8 1\n            8     4   9 1 #Down\n            9     5  10 1\n            10    5  11 1 #Up\n            11    6  12 1\n            12    7  13 1\n            13    7  14 1\n            14    8  15 1 #Up\n            15   12  16 1\n            16   12  17 2\n            17   13  18 1\n            18   14  19 1\n            19   14  20 1 #Down\n            20   15  21 1\n            21   18  22 2\n            22   18  23 1\n            23   19  24 1 #Up\n            24   23  25 1\n            25   23  26 2\n            26    8  10 1\n            27   19  22 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

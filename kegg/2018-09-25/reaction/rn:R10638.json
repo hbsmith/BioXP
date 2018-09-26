@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10638",
+    "name": "UDP-D-glucose:(R)-mandelonitrile beta-D-glucosyltransferase",
+    "definition": "Mandelonitrile + UDP-glucose <=> Prunasin + UDP",
+    "equation": "C00561 + C00029 <=> C00844 + C00015",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.354"
+    ],
+    "pathways": {
+      "rn00460": "Cyanoamino acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22706": "(R)-mandelonitrile beta-glucosyltransferase [EC:2.4.1.354]"
+    }
+  }
+]

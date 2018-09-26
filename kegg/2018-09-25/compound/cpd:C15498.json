@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "C15498",
+    "name": "ROOH",
+    "names": [
+      "ROOH",
+      "Hydroperoxide"
+    ],
+    "formula": "HO2R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "Generic compound in reaction hierarchy",
+    "reactions": [
+      "R07180",
+      "R08360",
+      "R08362"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.11.1.15",
+      "1.11.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "17396490"
+      ],
+      "ChEBI": [
+        "79974"
+      ]
+    },
+    "kcf": "ATOM        3\n            1   R   R    10.5700  -12.1800\n            2   O2a O    11.9700  -12.1800\n            3   O1a O    13.3700  -12.1800\nBOND        2\n            1     1   2 1\n            2     2   3 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

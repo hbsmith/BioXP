@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R10506",
+    "name": "",
+    "definition": "(S)-2-Acetolactate + Acceptor <=> Diacetyl + CO2 + Reduced acceptor",
+    "equation": "C06010 + C00028 <=> C00741 + C00011 + C00030",
+    "comment": "non-enzymatic flavin, nicotinamide and quinone coenzymes act as acceptor",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn00650": "Butanoate metabolism"
+    },
+    "orthologs": {
+    }
+  }
+]

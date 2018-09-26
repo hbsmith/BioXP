@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08384",
+    "name": "retinal:oxygen oxidoreductase",
+    "definition": "9-cis-Retinal + Oxygen + H2O <=> 9-cis-Retinoic acid + Hydrogen peroxide",
+    "equation": "C16681 + C00007 + C00001 <=> C15493 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.3.1"
+    ],
+    "pathways": {
+      "rn00830": "Retinol metabolism"
+    },
+    "orthologs": {
+      "K00157": "aldehyde oxidase [EC:1.2.3.1]"
+    }
+  }
+]

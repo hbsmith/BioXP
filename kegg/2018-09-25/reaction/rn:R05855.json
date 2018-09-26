@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R05855",
+    "name": "tabersonine,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (16-hydroxylating)",
+    "definition": "Tabersonine + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> 16-Hydroxytabersonine + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C09244 + C03024 + C00007 <=> C11643 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.103"
+    ],
+    "pathways": {
+      "rn00901": "Indole alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K12696": "tabersonine 16-hydroxylase [EC:1.14.14.103]"
+    }
+  }
+]

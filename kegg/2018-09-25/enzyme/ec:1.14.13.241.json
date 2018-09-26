@@ -1,0 +1,168 @@
+[
+  {
+    "entry_id": "1.14.13.241",
+    "name": "5-pyridoxate monooxygenase",
+    "names": [
+      "5-pyridoxate monooxygenase",
+      "5-pyridoxate,NADPH:oxygen oxidoreductase (decyclizing)",
+      "5-pyridoxate oxidase (misleading)",
+      "5-pyridoxate dioxygenase (incorrect)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With NADH or NADPH as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "5-pyridoxate,NADPH:oxygen oxidoreductase (ring-opening)",
+    "reaction": "3-hydroxy-4-hydroxymethyl-2-methylpyridine-5-carboxylate + NADPH + H+ + O2 = 2-(acetamidomethylene)-3-(hydroxymethyl)succinate + NADP+ [RN:R04570]",
+    "all_reac": "R04570",
+    "iubmb_reactions": [
+      "R04570"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "3-hydroxy-4-hydroxymethyl-2-methylpyridine-5-carboxylate [CPD:C04773]",
+      "NADPH [CPD:C00005]",
+      "H+ [CPD:C00080]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "2-(acetamidomethylene)-3-(hydroxymethyl)succinate [CPD:C04690]",
+      "NADP+ [CPD:C00006]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "Contains FAD. The enzyme, characterized from the bacterium Arthrobacter sp. Cr-7, participates in the degradation of pyridoxine (vitamin B6). Although the enzyme was initially thought to be a dioxygenase, oxygen-tracer experiments have suggested that it is a monooxygenase, incorporating only one oxygen atom from molecular oxygen into the product. The second oxygen atom originates from a water molecule, which is regenerated during the reaction and thus does not show up in the reaction equation.",
+    "pathways": {
+      "ec00750": "Vitamin B6 metabolism"
+    },
+    "orthologs": {
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.13.241"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.13.241"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.13.241"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.13.241"
+      ],
+      "CAS": [
+        "37256-70-5"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Sparrow LG",
+          "Ho PP",
+          "Sundaram TK",
+          "Zach D",
+          "Nyns EJ",
+          "Snell EE."
+        ],
+        "title": "The bacterial oxidation of vitamin B6. VII. Purification, properties, and mechanism of action of an oxygenase which cleaves the 3-hydroxypyridine ring.",
+        "journal": "J Biol Chem",
+        "volume": "244",
+        "issue": "",
+        "pages": "2590-600",
+        "year": "1969",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:4306031]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nelson MJ",
+          "Snell EE"
+        ],
+        "title": "Enzymes of vitamin B6 degradation. Purification and properties of 5-pyridoxic-acid oxygenase from Arthrobacter sp.",
+        "journal": "J Biol Chem",
+        "volume": "261",
+        "issue": "",
+        "pages": "15115-20",
+        "year": "1986",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:3771566]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chaiyen P"
+        ],
+        "title": "Flavoenzymes catalyzing oxidative aromatic ring-cleavage reactions.",
+        "journal": "Arch Biochem Biophys 493:62-70 (2010) DOI:10.1016/j.abb.2009.08.021",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:19728986]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R09631",
+    "name": "acetyl-CoA:(3Z)-hex-3-en-1-ol acetyltransferase",
+    "definition": "Acetyl-CoA + 3-Hexenol <=> (Z)-3-Hexen-1-ol acetate + CoA",
+    "equation": "C00024 + C08492 <=> C19757 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.195"
+    ],
+    "pathways": {
+      "rn00592": "alpha-Linolenic acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K18858": "(Z)-3-hexen-1-ol acetyltransferase [EC:2.3.1.195]"
+    }
+  }
+][
+  {
+    "entry_id": "R09631",
+    "name": "acetyl-CoA:(3Z)-hex-3-en-1-ol acetyltransferase",
+    "definition": "Acetyl-CoA + 3-Hexenol <=> (Z)-3-Hexen-1-ol acetate + CoA",
+    "equation": "C00024 + C08492 <=> C19757 + C00010",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.195"
+    ],
+    "pathways": {
+      "rn00592": "alpha-Linolenic acid metabolism",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K18858": "(Z)-3-hexen-1-ol acetyltransferase [EC:2.3.1.195]"
+    }
+  }
+]

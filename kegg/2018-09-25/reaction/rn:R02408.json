@@ -1,0 +1,51 @@
+[
+  {
+    "entry_id": "R02408",
+    "name": "L-cystine thiocysteine-lyase (deaminating; pyruvate-forming)",
+    "definition": "L-Cystine + H2O <=> Pyruvate + Ammonia + Thiocysteine",
+    "equation": "C00491 + C00001 <=> C00022 + C00014 + C01962",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.1",
+      "4.4.1.8",
+      "4.4.1.35"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism"
+    },
+    "orthologs": {
+      "K01758": "cystathionine gamma-lyase [EC:4.4.1.1]",
+      "K01760": "cystathionine beta-lyase [EC:4.4.1.8]",
+      "K14155": "cystathione beta-lyase [EC:4.4.1.8]",
+      "K17217": "cystathionine gamma-lyase / homocysteine desulfhydrase [EC:4.4.1.1 4.4.1.2]",
+      "K21623": "L-cystine beta-lyase [EC:4.4.1.35]"
+    }
+  }
+][
+  {
+    "entry_id": "R02408",
+    "name": "L-cystine thiocysteine-lyase (deaminating; pyruvate-forming)",
+    "definition": "L-Cystine + H2O <=> Pyruvate + Ammonia + Thiocysteine",
+    "equation": "C00491 + C00001 <=> C00022 + C00014 + C01962",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.1",
+      "4.4.1.8",
+      "4.4.1.35"
+    ],
+    "pathways": {
+      "rn00270": "Cysteine and methionine metabolism"
+    },
+    "orthologs": {
+      "K01758": "cystathionine gamma-lyase [EC:4.4.1.1]",
+      "K01760": "cystathionine beta-lyase [EC:4.4.1.8]",
+      "K14155": "cystathione beta-lyase [EC:4.4.1.8]",
+      "K17217": "cystathionine gamma-lyase / homocysteine desulfhydrase [EC:4.4.1.1 4.4.1.2]",
+      "K21623": "L-cystine beta-lyase [EC:4.4.1.35]"
+    }
+  }
+]

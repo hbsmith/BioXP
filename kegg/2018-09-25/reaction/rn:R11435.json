@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11435",
+    "name": "",
+    "definition": "8 Malonyl-CoA + 7 NADPH + 7 H+ + Acyl-carrier protein <=> 3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp] + 8 CoA + 8 CO2 + 6 H2O + 7 NADP+",
+    "equation": "8 C00083 + 7 C00005 + 7 C00080 + C00229 <=> C21357 + 8 C00010 + 8 C00011 + 6 C00001 + 7 C00006",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+
+    ],
+    "pathways": {
+      "rn01059": "Biosynthesis of enediyne antibiotics",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15314": "enediyne polyketide synthase"
+    }
+  }
+]

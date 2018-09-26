@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "C08383",
+    "name": "Methyl allyl disulfide",
+    "names": [
+      "Methyl allyl disulfide",
+      "Allyl methyl disulfide"
+    ],
+    "formula": "C4H8S2",
+    "exact_mass": 120.0067,
+    "mol_weight": 120.2363,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "2179-58-0"
+      ],
+      "PubChem": [
+        "10579"
+      ],
+      "ChEBI": [
+        "6854"
+      ],
+      "KNApSAcK": [
+        "C00001257"
+      ],
+      "NIKKAJI": [
+        "J45.899F"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   C1b C    27.3937  -19.1802\n            2   S3a S    28.6063  -19.8798\n            3   C2b C    26.1810  -19.8798\n            4   S3a S    29.8190  -19.1802\n            5   C2a C    24.9684  -19.1802\n            6   C1a C    31.0316  -19.8798\nBOND        5\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 2\n            5     4   6 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

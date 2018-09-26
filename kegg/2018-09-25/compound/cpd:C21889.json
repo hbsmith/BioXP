@@ -1,0 +1,34 @@
+[
+  {
+    "entry_id": "C21889",
+    "name": "(2S)-3-(4-Hydroxyphenyl)-2-isocyanopropanoate",
+    "names": [
+      "(2S)-3-(4-Hydroxyphenyl)-2-isocyanopropanoate",
+      "L-Tyrosine isonitrile"
+    ],
+    "formula": "C10H9NO3",
+    "exact_mass": 191.0582,
+    "mol_weight": 191.1834,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R12076",
+      "R12081"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.14.20.9",
+      "1.14.20.10"
+    ],
+    "dblinks": {
+    },
+    "kcf": "ATOM        14\n            1   C8x C    13.7900  -17.5700\n            2   C8y C    13.7900  -18.9700\n            3   C8x C    15.0024  -19.6700\n            4   C8x C    16.2149  -18.9700\n            5   C8y C    16.2149  -17.5700\n            6   C8x C    15.0024  -16.8700\n            7   O1a O    12.5776  -19.6700\n            8   C1c C    18.6397  -17.5700\n            9   C1b C    17.4273  -16.8700\n            10  O6a O    21.0646  -17.5700\n            11  C6a C    19.8522  -16.8700\n            12  O6a O    19.8522  -15.4700\n            13  N3a N    18.6397  -18.9700 #+\n            14  C3a C    18.6397  -20.7900 #-\nBOND        14\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     2   7 1\n            8     8   9 1\n            9     5   9 1\n            10   10  11 1\n            11    8  11 1\n            12   11  12 2\n            13    8  13 1 #Up\n            14   13  14 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

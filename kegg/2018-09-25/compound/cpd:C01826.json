@@ -1,0 +1,58 @@
+[
+  {
+    "entry_id": "C01826",
+    "name": "L-Norvaline",
+    "names": [
+      "L-Norvaline",
+      "L-2-Aminovaleric acid",
+      "L-2-Aminopentanoic acid",
+      "(S)-2-Aminopentanoic acid"
+    ],
+    "formula": "C5H11NO2",
+    "exact_mass": 117.079,
+    "mol_weight": 117.1463,
+    "remark": "",
+    "comment": "D-Norvaline [CPD:C01799]",
+    "reactions": [
+      "R03732"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.5.1.28"
+    ],
+    "dblinks": {
+      "CAS": [
+        "6600-40-4"
+      ],
+      "PubChem": [
+        "4949"
+      ],
+      "ChEBI": [
+        "18314"
+      ],
+      "ChEMBL": [
+        "CHEMBL55612"
+      ],
+      "LIPIDMAPS": [
+        "LMFA01100041"
+      ],
+      "PDB-CCD": [
+        "NVA"
+      ],
+      "3DMET": [
+        "B00355"
+      ],
+      "NIKKAJI": [
+        "J9.213D"
+      ]
+    },
+    "kcf": "ATOM        8\n            1   C1a C    18.2000  -21.9100\n            2   C1b C    19.4124  -22.6100\n            3   C1b C    20.6249  -21.9100\n            4   C1c C    21.8373  -22.6100\n            5   C6a C    23.0497  -21.9100\n            6   O6a O    24.2622  -22.6100\n            7   O6a O    23.0497  -20.5101\n            8   N1a N    21.8373  -24.0100\nBOND        7\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     5   7 2\n            7     4   8 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

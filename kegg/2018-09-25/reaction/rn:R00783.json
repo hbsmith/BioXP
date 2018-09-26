@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00783",
+    "name": "nitric-oxide:ferricytochrome-c oxidoreductase",
+    "definition": "Nitric oxide + H2O + Ferricytochrome c <=> Nitrite + Ferrocytochrome c + H+",
+    "equation": "C00533 + C00001 + C00125 <=> C00088 + C00126 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.7.2.1"
+    ],
+    "pathways": {
+      "rn00910": "Nitrogen metabolism",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00368": "nitrite reductase (NO-forming) [EC:1.7.2.1]",
+      "K15864": "nitrite reductase (NO-forming) / hydroxylamine reductase [EC:1.7.2.1 1.7.99.1]"
+    }
+  }
+]

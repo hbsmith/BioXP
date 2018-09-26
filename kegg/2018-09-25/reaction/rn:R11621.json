@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R11621",
+    "name": "CDP-ribitol:4-O-di[(2R)-1-glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol ribitolphosphotransferase",
+    "definition": "4-O-Di[(2R)-1-glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol + n CDP-ribitol <=> 4-O-(D-Ribitylphospho)n-di[(2R)-1-glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol + n CMP",
+    "equation": "C21502 + n C00789 <=> C21508 + n C00055",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.7.8.14"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+      "K18704": "CDP-ribitol ribitolphosphotransferase / teichoic acid ribitol-phosphate polymerase [EC:2.7.8.14 2.7.8.47]"
+    }
+  }
+]

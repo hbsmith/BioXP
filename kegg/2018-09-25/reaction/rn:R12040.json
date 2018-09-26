@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R12040",
+    "name": "GDP-D-mannose:phosphatidyl-myo-inositol-monomannoside 6-alpha-D-mannosyltransferase",
+    "definition": "GDP-D-mannose + Phosphatidyl-myo-inositol monomannoside <=> GDP + Phosphatidyl-myo-inositol dimannoside",
+    "equation": "G10614 + G11291 <=> G10620 + G13102",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.346"
+    ],
+    "pathways": {
+      "rn00571": "Lipoarabinomannan (LAM) biosynthesis",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K13668": "phosphatidyl-myo-inositol dimannoside synthase [EC:2.4.1.346]"
+    }
+  }
+]

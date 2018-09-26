@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R01741",
+    "name": "D-Gluconate:(acceptor) 2-oxidoreductase",
+    "definition": "D-Gluconic acid + FAD <=> 2-Keto-D-gluconic acid + FADH2",
+    "equation": "C00257 + C00016 <=> C06473 + C01352",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.99.3"
+    ],
+    "pathways": {
+      "rn00030": "Pentose phosphate pathway",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K06151": "gluconate 2-dehydrogenase alpha chain [EC:1.1.99.3]",
+      "K06152": "gluconate 2-dehydrogenase gamma chain [EC:1.1.99.3]"
+    }
+  }
+]

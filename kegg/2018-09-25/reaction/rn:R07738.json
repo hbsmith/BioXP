@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07738",
+    "name": "4'-methoxyisoflavan-2',4,7-triol hydro-lyase [(-)-medicarpin-forming]",
+    "definition": "7,2'-Dihydroxy-4'-methoxy-isoflavanol <=> Medicarpin + H2O",
+    "equation": "C16187 <=> C10503 + C00001",
+    "comment": "7,2'-dihydroxy-4'-methoxy-isoflavonol (DMI) dehydratase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.2.1.139"
+    ],
+    "pathways": {
+      "rn00943": "Isoflavonoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

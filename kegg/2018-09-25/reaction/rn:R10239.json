@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R10239",
+    "name": "malonyl-CoA:hexanoate malonyltransferase (norsolorinic acid anthrone-forming)",
+    "definition": "7 Malonyl-CoA + Hexanoyl-[acp] <=> 7 CoA + Norsolorinic acid anthrone + Acyl-carrier protein + 7 CO2 + 2 H2O",
+    "equation": "7 C00083 + C05749 <=> 7 C00010 + C20453 + C00229 + 7 C00011 + 2 C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.221"
+    ],
+    "pathways": {
+      "rn00254": "Aflatoxin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15316": "noranthrone synthase [EC:2.3.1.221]"
+    }
+  }
+]

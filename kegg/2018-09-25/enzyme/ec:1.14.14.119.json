@@ -1,0 +1,123 @@
+[
+  {
+    "entry_id": "1.14.14.119",
+    "name": "fumitremorgin C monooxygenase",
+    "names": [
+      "fumitremorgin C monooxygenase",
+      "ftmG (gene name)"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "fumitremorgin C,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (12alpha,13alpha-dihydroxyfumitremorgin C-forming)",
+    "reaction": "fumitremorgin C + 2 [reduced NADPH---hemoprotein reductase] + 2 O2 = 12alpha,13alpha-dihydroxyfumitremorgin C + 2 [oxidized NADPH---hemoprotein reductase] + 2 H2O [RN:R10414]",
+    "all_reac": "R10414",
+    "iubmb_reactions": [
+      "R10414"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "fumitremorgin C [CPD:C20604]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "12alpha,13alpha-dihydroxyfumitremorgin C [CPD:C20605]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein. Involved in the biosynthetic pathway of the indole alkaloid verruculogen.",
+    "pathways": {
+      "ec00404": "Staurosporine biosynthesis",
+      "ec01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K17826": "fumitremorgin C monooxygenase"
+    },
+    "genes": {
+      "afm": [
+        "AFUA_8G00240"
+      ],
+      "nfi": [
+        "NFIA_093750"
+      ],
+      "pcs": [
+        "Pc21g15450"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.119"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.119"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.119"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.119"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Kato N",
+          "Suzuki H",
+          "Takagi H",
+          "Asami Y",
+          "Kakeya H",
+          "Uramoto M",
+          "Usui T",
+          "Takahashi S",
+          "Sugimoto Y",
+          "Osada H"
+        ],
+        "title": "Identification of cytochrome P450s required for fumitremorgin biosynthesis in Aspergillus fumigatus.",
+        "journal": "Chembiochem 10:920-8 (2009) DOI:10.1002/cbic.200800787",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:19226505]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

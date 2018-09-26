@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08095",
+    "name": "3-methylcrotonyl-CoA:acetyl-CoA C-acyltransferase",
+    "definition": "5-Methyl-3-oxo-4-hexenoyl-CoA + CoA <=> 3-Methylcrotonyl-CoA + Acetyl-CoA",
+    "equation": "C16471 + C00010 <=> C03069 + C00024",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.16"
+    ],
+    "pathways": {
+      "rn00281": "Geraniol degradation"
+    },
+    "orthologs": {
+      "K00632": "acetyl-CoA acyltransferase [EC:2.3.1.16]"
+    }
+  }
+]

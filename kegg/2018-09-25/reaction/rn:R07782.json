@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07782",
+    "name": "",
+    "definition": "3,5-Dibromo-4-hydroxybenzamide + H2O <=> 3,5-Dibromo-4-hydroxybenzoate + Ammonia",
+    "equation": "C16246 + C00001 <=> C03925 + C00014",
+    "comment": "amidase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.5.1.-"
+    ],
+    "pathways": {
+      "rn00364": "Fluorobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+    }
+  }
+]

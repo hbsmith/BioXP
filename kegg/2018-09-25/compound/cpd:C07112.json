@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C07112",
+    "name": "1-Phenylethanol",
+    "names": [
+      "1-Phenylethanol",
+      "Methylphenyl carbinol",
+      "alpha-Methylbenzyl alcohol"
+    ],
+    "formula": "C8H10O",
+    "exact_mass": 122.0732,
+    "mol_weight": 122.1644,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05495"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.17.-.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "98-85-1"
+      ],
+      "PubChem": [
+        "9323"
+      ],
+      "ChEBI": [
+        "669"
+      ],
+      "ChEMBL": [
+        "CHEMBL508917"
+      ],
+      "NIKKAJI": [
+        "J3.224G"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8y C    28.0000  -19.1516\n            2   C8x C    26.7841  -19.8497\n            3   C8x C    29.2100  -19.8497\n            4   C1c C    28.0000  -17.7497\n            5   C8x C    26.7841  -21.2459\n            6   C8x C    29.2100  -21.2459\n            7   C1a C    29.2159  -17.0515\n            8   O1a O    26.7900  -17.0458\n            9   C8x C    28.0000  -21.9499\nBOND        9\n            1     1   2 1\n            2     1   3 2\n            3     1   4 1\n            4     2   5 2\n            5     3   6 1\n            6     4   7 1\n            7     4   8 1\n            8     5   9 1\n            9     6   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

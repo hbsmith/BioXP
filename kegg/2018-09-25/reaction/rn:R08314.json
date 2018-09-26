@@ -1,0 +1,19 @@
+[
+  {
+    "entry_id": "R08314",
+    "name": "",
+    "definition": "Carbamazepine-10,11-epoxide + H2O <=> Dihydroxycarbazepine",
+    "equation": "C07496 + C00001 <=> C07495",
+    "comment": "epoxide hydratase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.3.2.-"
+    ],
+    "pathways": {
+      "rn00982": "Drug metabolism - cytochrome P450"
+    },
+    "orthologs": {
+    }
+  }
+]

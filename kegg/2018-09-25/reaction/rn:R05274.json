@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05274",
+    "name": "vanillate:oxygen oxidoreductase (demethylating)",
+    "definition": "Vanillate + Oxygen + NADH + H+ <=> 3,4-Dihydroxybenzoate + NAD+ + H2O + Formaldehyde",
+    "equation": "C06672 + C00007 + C00004 + C00080 <=> C00230 + C00003 + C00001 + C00067",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.13.82"
+    ],
+    "pathways": {
+      "rn00627": "Aminobenzoate degradation",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K03862": "vanillate monooxygenase [EC:1.14.13.82]",
+      "K03863": "vanillate monooxygenase ferredoxin subunit"
+    }
+  }
+]

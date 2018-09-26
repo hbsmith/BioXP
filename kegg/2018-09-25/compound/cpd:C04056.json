@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "C04056",
+    "name": "Rumenic acid",
+    "names": [
+      "Rumenic acid",
+      "9-cis,11-trans-Octadecadienoate",
+      "(9Z,11E)-Octadecadienoic acid"
+    ],
+    "formula": "C18H32O2",
+    "exact_mass": 280.2402,
+    "mol_weight": 280.4455,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03627"
+    ],
+    "pathways": {
+      "map00591": "Linoleic acid metabolism"
+    },
+    "enzymes": [
+      "5.2.1.5"
+    ],
+    "dblinks": {
+      "CAS": [
+        "2540-56-9"
+      ],
+      "PubChem": [
+        "6756"
+      ],
+      "ChEBI": [
+        "32798"
+      ],
+      "LIPIDMAPS": [
+        "LMFA01030118"
+      ],
+      "LipidBank": [
+        "DFA0156"
+      ],
+      "3DMET": [
+        "B00672"
+      ],
+      "NIKKAJI": [
+        "J604.211B"
+      ]
+    },
+    "kcf": "ATOM        20\n            1   C1b C    23.3222  -22.3789\n            2   C1b C    22.1062  -23.0609\n            3   C1b C    24.5318  -23.0801\n            4   C2b C    22.1062  -24.4635\n            5   C1b C    25.7478  -22.3789\n            6   C2b C    23.3158  -25.1649\n            7   C1b C    26.9575  -23.0801\n            8   C2b C    24.5382  -24.4571\n            9   C1b C    28.1735  -22.3789\n            10  C2b C    25.7350  -25.1777\n            11  C1b C    29.3831  -23.0801\n            12  C1b C    26.9575  -24.5021\n            13  C6a C    30.5928  -22.3789\n            14  C1b C    28.1543  -25.2227\n            15  O6a O    31.8088  -23.0801\n            16  O6a O    30.5928  -20.9827\n            17  C1b C    29.3831  -24.5471\n            18  C1b C    30.5799  -25.2677\n            19  C1b C    31.8022  -24.5922\n            20  C1a C    33.0055  -25.3192\nBOND        19\n            1     1   2 1\n            2     1   3 1\n            3     2   4 1\n            4     3   5 1\n            5     4   6 2\n            6     5   7 1\n            7     6   8 1\n            8     7   9 1\n            9     8  10 2\n            10    9  11 1\n            11   10  12 1\n            12   11  13 1\n            13   12  14 1\n            14   13  15 1\n            15   13  16 2\n            16   14  17 1\n            17   17  18 1\n            18   18  19 1\n            19   19  20 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

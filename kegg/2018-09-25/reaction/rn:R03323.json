@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R03323",
+    "name": "1-O-Sinapoyl-beta-D-glucose:(S)-malate O-sinapoyltransferase",
+    "definition": "1-O-Sinapoyl-beta-D-glucose + (S)-Malate <=> D-Glucose + Sinapoyl malate",
+    "equation": "C01175 + C00149 <=> C00031 + C02887",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.92"
+    ],
+    "pathways": {
+      "rn00940": "Phenylpropanoid biosynthesis"
+    },
+    "orthologs": {
+      "K09757": "serine carboxypeptidase-like 8 [EC:3.4.16.- 2.3.1.92]"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R06715",
+    "name": "S-adenosyl-L-methionine:4-demethylpremithramycinone O-methyltransferase",
+    "definition": "4-Demethylpremithramycinone + S-Adenosyl-L-methionine <=> Premithramycinone + S-Adenosyl-L-homocysteine",
+    "equation": "C12382 + C00019 <=> C12383 + C00021",
+    "comment": "O-methyltransferase, mtmMI",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15959": "O-methyltransferase [EC:2.1.1.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R06715",
+    "name": "S-adenosyl-L-methionine:4-demethylpremithramycinone O-methyltransferase",
+    "definition": "4-Demethylpremithramycinone + S-Adenosyl-L-methionine <=> Premithramycinone + S-Adenosyl-L-homocysteine",
+    "equation": "C12382 + C00019 <=> C12383 + C00021",
+    "comment": "O-methyltransferase, mtmMI",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn01057": "Biosynthesis of type II polyketide products",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K15959": "O-methyltransferase [EC:2.1.1.-]"
+    }
+  }
+]

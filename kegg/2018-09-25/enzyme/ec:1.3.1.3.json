@@ -1,0 +1,1245 @@
+[
+  {
+    "entry_id": "1.3.1.3",
+    "name": "Delta4-3-oxosteroid 5beta-reductase",
+    "names": [
+      "Delta4-3-oxosteroid 5beta-reductase",
+      "3-oxo-Delta4-steroid 5beta-reductase",
+      "5beta-reductase",
+      "androstenedione 5beta-reductase",
+      "cholestenone 5beta-reductase",
+      "cortisone 5beta-reductase",
+      "cortisone beta-reductase",
+      "cortisone Delta4-5beta-reductase",
+      "steroid 5beta-reductase",
+      "testosterone 5beta-reductase",
+      "Delta4-3-ketosteroid 5beta-reductase",
+      "Delta4-5beta-reductase",
+      "Delta4-hydrogenase",
+      "4,5beta-dihydrocortisone:NADP+ Delta4-oxidoreductase",
+      "3-oxo-5beta-steroid:NADP+ Delta4-oxidoreductase"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on the CH-CH group of donors;",
+      "With NAD+ or NADP+ as acceptor"
+    ],
+    "sysname": "5beta-cholestan-3-one:NADP+ 4,5-oxidoreductase",
+    "reaction": "(1) 5beta-cholestan-3-one + NADP+ = cholest-4-en-3-one + NADPH + H+ [RN:R02609]; (2) 17,21-dihydroxy-5beta-pregnane-3,11,20-trione + NADP+ = cortisone + NADPH + H+ [RN:R02893]",
+    "all_reac": "R02609 R02893; (other) R01835 R02219 R02498 R02841 R03713 R03850 R04817 R04823",
+    "iubmb_reactions": [
+      "R02609 R02893"
+    ],
+    "kegg_reactions": [
+      "R01835 R02219 R02498 R02841 R03713 R03850 R04817 R04823"
+    ],
+    "substrates": [
+      "5beta-cholestan-3-one [CPD:C03091]",
+      "NADP+ [CPD:C00006]",
+      "17,21-dihydroxy-5beta-pregnane-3,11,20-trione"
+    ],
+    "products": [
+      "cholest-4-en-3-one [CPD:C00599]",
+      "NADPH [CPD:C00005]",
+      "H+ [CPD:C00080]",
+      "cortisone [CPD:C00762]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The enzyme from human efficiently catalyses the reduction of progesterone, androstenedione, 17alpha-hydroxyprogesterone and testosterone to 5beta-reduced metabolites; it can also act on aldosterone, corticosterone and cortisol, but to a lesser extent [8]. The bile acid intermediates 7alpha,12alpha-dihydroxy-4-cholesten-3-one and 7alpha-hydroxy-4-cholesten-3-one can also act as substrates [9].",
+    "pathways": {
+      "ec00120": "Primary bile acid biosynthesis",
+      "ec00140": "Steroid hormone biosynthesis",
+      "ec01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00251": "3-oxo-5-beta-steroid 4-dehydrogenase",
+      "K22419": "Delta4-3-oxosteroid 5beta-reductase"
+    },
+    "genes": {
+      "hsa": [
+        "6718"
+      ],
+      "ptr": [
+        "472607"
+      ],
+      "pps": [
+        "100985077"
+      ],
+      "ggo": [
+        "101127761"
+      ],
+      "pon": [
+        "100456267"
+      ],
+      "nle": [
+        "100596284"
+      ],
+      "mcc": [
+        "709863"
+      ],
+      "mcf": [
+        "102146771"
+      ],
+      "csab": [
+        "103226977"
+      ],
+      "rro": [
+        "104656621"
+      ],
+      "rbb": [
+        "108530143"
+      ],
+      "cjc": [
+        "100409275"
+      ],
+      "sbq": [
+        "101047690"
+      ],
+      "mmu": [
+        "208665"
+      ],
+      "rno": [
+        "192242"
+      ],
+      "cge": [
+        "100770348"
+      ],
+      "ngi": [
+        "103726081"
+      ],
+      "hgl": [
+        "101716388"
+      ],
+      "ccan": [
+        "109700596"
+      ],
+      "ocu": [
+        "100008612",
+        "100343388"
+      ],
+      "tup": [
+        "102473225"
+      ],
+      "cfa": [
+        "482711",
+        "491379"
+      ],
+      "aml": [
+        "100483237"
+      ],
+      "umr": [
+        "103669050"
+      ],
+      "oro": [
+        "101385978"
+      ],
+      "fca": [
+        "101100551"
+      ],
+      "ptg": [
+        "102949203"
+      ],
+      "aju": [
+        "106970424"
+      ],
+      "bta": [
+        "513855"
+      ],
+      "bom": [
+        "102264964"
+      ],
+      "biu": [
+        "109557677"
+      ],
+      "phd": [
+        "102322934"
+      ],
+      "chx": [
+        "102170484"
+      ],
+      "oas": [
+        "101103641"
+      ],
+      "ssc": [
+        "100520813"
+      ],
+      "cfr": [
+        "102510401"
+      ],
+      "cdk": [
+        "105091623"
+      ],
+      "bacu": [
+        "102998601"
+      ],
+      "lve": [
+        "103071980"
+      ],
+      "oor": [
+        "101283232"
+      ],
+      "ecb": [
+        "100066919"
+      ],
+      "epz": [
+        "103541705"
+      ],
+      "eai": [
+        "106829989"
+      ],
+      "myb": [
+        "102243036",
+        "102246475"
+      ],
+      "myd": [
+        "102756994",
+        "102775075",
+        "102775514"
+      ],
+      "hai": [
+        "109388534"
+      ],
+      "rss": [
+        "109441506",
+        "109457600"
+      ],
+      "pale": [
+        "102882463"
+      ],
+      "lav": [
+        "100665738"
+      ],
+      "tmu": [
+        "101348700"
+      ],
+      "mdo": [
+        "100022753"
+      ],
+      "shr": [
+        "100926677"
+      ],
+      "oaa": [
+        "100076664"
+      ],
+      "gga": [
+        "418107"
+      ],
+      "mgp": [
+        "100547967"
+      ],
+      "cjo": [
+        "107316041"
+      ],
+      "apla": [
+        "101802488"
+      ],
+      "acyg": [
+        "106031015"
+      ],
+      "tgu": [
+        "100228769"
+      ],
+      "gfr": [
+        "102038244"
+      ],
+      "fab": [
+        "101820121"
+      ],
+      "phi": [
+        "102107003"
+      ],
+      "pmaj": [
+        "107204921"
+      ],
+      "ccw": [
+        "104696483"
+      ],
+      "fpg": [
+        "101910289"
+      ],
+      "fch": [
+        "102047333"
+      ],
+      "clv": [
+        "102085311"
+      ],
+      "egz": [
+        "104135569"
+      ],
+      "aam": [
+        "106488268"
+      ],
+      "asn": [
+        "102377874"
+      ],
+      "amj": [
+        "102564670"
+      ],
+      "pss": [
+        "102453451"
+      ],
+      "cmy": [
+        "102942570"
+      ],
+      "cpic": [
+        "101950885"
+      ],
+      "acs": [
+        "100555605"
+      ],
+      "pvt": [
+        "110082711"
+      ],
+      "pbi": [
+        "103055499",
+        "103060010"
+      ],
+      "gja": [
+        "107115496"
+      ],
+      "xla": [
+        "399023",
+        "734699"
+      ],
+      "xtr": [
+        "594997"
+      ],
+      "npr": [
+        "108799286"
+      ],
+      "ipu": [
+        "100528314"
+      ],
+      "amex": [
+        "103027718",
+        "103036813"
+      ],
+      "tru": [
+        "101070818"
+      ],
+      "lco": [
+        "104921014",
+        "104933494"
+      ],
+      "ncc": [
+        "104955509",
+        "104966316"
+      ],
+      "mze": [
+        "101470353",
+        "101485185",
+        "106675749",
+        "112430079"
+      ],
+      "ola": [
+        "101170970",
+        "101175316"
+      ],
+      "xma": [
+        "102229839",
+        "102235761"
+      ],
+      "pret": [
+        "103459507",
+        "103465917"
+      ],
+      "nfu": [
+        "107383989",
+        "107388423"
+      ],
+      "csem": [
+        "103380316",
+        "103382893"
+      ],
+      "lcf": [
+        "108883064",
+        "108890588"
+      ],
+      "hcq": [
+        "109523861",
+        "109529813"
+      ],
+      "bpec": [
+        "110164799",
+        "110168059"
+      ],
+      "sasa": [
+        "100286547"
+      ],
+      "els": [
+        "105018484",
+        "105020260"
+      ],
+      "sfm": [
+        "108923648",
+        "108935900"
+      ],
+      "lcm": [
+        "102361835"
+      ],
+      "cmk": [
+        "103171668",
+        "103172804"
+      ],
+      "ath": [
+        "AT4G24220"
+      ],
+      "aly": [
+        "ARALYDRAFT_914168"
+      ],
+      "crb": [
+        "17877518",
+        "17879957"
+      ],
+      "csat": [
+        "104722573",
+        "104726453",
+        "104731036",
+        "104761974"
+      ],
+      "eus": [
+        "EUTSA_v10015494mg",
+        "EUTSA_v10025425mg"
+      ],
+      "brp": [
+        "103834914",
+        "103845306",
+        "103861471",
+        "103861849"
+      ],
+      "bna": [
+        "106352270",
+        "106376025",
+        "106415732",
+        "106420450",
+        "106427862",
+        "106430897",
+        "106442665",
+        "106442739"
+      ],
+      "boe": [
+        "106306475",
+        "106306528",
+        "106312412",
+        "106317261"
+      ],
+      "thj": [
+        "104799795",
+        "104800325",
+        "104807087",
+        "104825749",
+        "104825751"
+      ],
+      "cpap": [
+        "110813653",
+        "110818782"
+      ],
+      "cit": [
+        "102615505",
+        "102615692",
+        "102615812",
+        "102616181",
+        "102616203",
+        "102620547",
+        "102623230",
+        "102624573",
+        "102627045",
+        "102627336",
+        "102627624",
+        "102628308",
+        "102629281",
+        "107178373",
+        "112499560"
+      ],
+      "cic": [
+        "CICLE_v10001370mg",
+        "CICLE_v10001374mg",
+        "CICLE_v10001388mg",
+        "CICLE_v10001393mg",
+        "CICLE_v10001412mg",
+        "CICLE_v10001414mg",
+        "CICLE_v10001420mg",
+        "CICLE_v10001422mg",
+        "CICLE_v10001445mg",
+        "CICLE_v100016291m",
+        "CICLE_v100016292m",
+        "CICLE_v10003867mg",
+        "CICLE_v10003925mg",
+        "CICLE_v10006945mg",
+        "CICLE_v10013989mg",
+        "CICLE_v10020568mg",
+        "CICLE_v10020613mg",
+        "CICLE_v10023804mg"
+      ],
+      "tcc": [
+        "18590501",
+        "18592015",
+        "18594816",
+        "18608051"
+      ],
+      "gra": [
+        "105764694",
+        "105769314",
+        "105769315",
+        "105795195",
+        "105797302",
+        "105798882"
+      ],
+      "ghi": [
+        "107886961",
+        "107890248",
+        "107892104",
+        "107892105",
+        "107905623",
+        "107905624",
+        "107908857",
+        "107910310",
+        "107942462",
+        "107951244",
+        "107958170",
+        "107958171"
+      ],
+      "dzi": [
+        "111275787",
+        "111276648",
+        "111286541",
+        "111307509",
+        "111308999",
+        "111315455"
+      ],
+      "egr": [
+        "104447829"
+      ],
+      "gmx": [
+        "100779347",
+        "100805959",
+        "100812240",
+        "100813467"
+      ],
+      "pvu": [
+        "PHAVU_003G111200g",
+        "PHAVU_003G111300g",
+        "PHAVU_003G142200g",
+        "PHAVU_006G067800g",
+        "PHAVU_009G070100g"
+      ],
+      "vra": [
+        "106759746",
+        "106766992",
+        "106774777"
+      ],
+      "var": [
+        "108330564",
+        "108334102",
+        "108338368",
+        "108339724",
+        "108342636"
+      ],
+      "ccaj": [
+        "109792624",
+        "109798087",
+        "109800151",
+        "109808719"
+      ],
+      "mtr": [
+        "MTR_1g018580",
+        "MTR_1g018590",
+        "MTR_1g018610",
+        "MTR_3g013890",
+        "MTR_3g102730",
+        "MTR_3g102760",
+        "MTR_3g102770",
+        "MTR_3g463660",
+        "MTR_4g073090",
+        "MTR_4g121570",
+        "MTR_4g121590"
+      ],
+      "cam": [
+        "101488561",
+        "101490393",
+        "101499383",
+        "101510608",
+        "105852198"
+      ],
+      "lja": [
+        "Lj0g3v0358119.1",
+        "Lj4g3v2270830.1"
+      ],
+      "adu": [
+        "107463067",
+        "107463074",
+        "107463082",
+        "107463092",
+        "107463101",
+        "107473150",
+        "107491418",
+        "107495841",
+        "107495842"
+      ],
+      "aip": [
+        "107616262",
+        "107620095",
+        "107620105",
+        "107633274",
+        "107639022",
+        "107639031",
+        "107639039",
+        "107643987",
+        "107647756",
+        "107647759"
+      ],
+      "lang": [
+        "109326718",
+        "109328348",
+        "109329148",
+        "109338953",
+        "109343868"
+      ],
+      "fve": [
+        "101293643",
+        "101299678",
+        "101305374"
+      ],
+      "pper": [
+        "18768093",
+        "18772200",
+        "18789471",
+        "18789486",
+        "18789508"
+      ],
+      "pmum": [
+        "103320398",
+        "103320460",
+        "103321121"
+      ],
+      "pavi": [
+        "110744881",
+        "110744883",
+        "110744884",
+        "110744886",
+        "110747742",
+        "110748783",
+        "110758646",
+        "110761998",
+        "110767981"
+      ],
+      "mdm": [
+        "103400141",
+        "103410710",
+        "103415423",
+        "103420085",
+        "103424664",
+        "103431404",
+        "103441058",
+        "103443938",
+        "103447399",
+        "103455922",
+        "103455923"
+      ],
+      "pxb": [
+        "103939226",
+        "103945296",
+        "103950796",
+        "103950843",
+        "103950858",
+        "103960747"
+      ],
+      "zju": [
+        "107415767",
+        "107416244",
+        "107420554",
+        "107433168",
+        "107433216",
+        "107433676"
+      ],
+      "csv": [
+        "101204090"
+      ],
+      "cmo": [
+        "103489839"
+      ],
+      "mcha": [
+        "111018952",
+        "111026111"
+      ],
+      "cmax": [
+        "111469437",
+        "111477228",
+        "111480841",
+        "111492905"
+      ],
+      "cmos": [
+        "111442928",
+        "111445997",
+        "111452342",
+        "111464842"
+      ],
+      "cpep": [
+        "111782542",
+        "111787529",
+        "111797206"
+      ],
+      "rcu": [
+        "8280990",
+        "8288518"
+      ],
+      "jcu": [
+        "105630425",
+        "105630879",
+        "105650747"
+      ],
+      "hbr": [
+        "110645296",
+        "110648142",
+        "110654516",
+        "110656806",
+        "110658141",
+        "110666418"
+      ],
+      "pop": [
+        "18104808",
+        "18106924",
+        "18106925",
+        "18109150",
+        "18109482",
+        "18109483",
+        "7472673",
+        "7481479",
+        "7497815"
+      ],
+      "jre": [
+        "108996072",
+        "109001182",
+        "109001183",
+        "109002045",
+        "109002732",
+        "109002733",
+        "109014722",
+        "109016078",
+        "109017840"
+      ],
+      "vvi": [
+        "100247199",
+        "100257108",
+        "100260215",
+        "100264565",
+        "100265432"
+      ],
+      "sly": [
+        "101055557",
+        "101257813",
+        "101259882"
+      ],
+      "spen": [
+        "107002486",
+        "107028301",
+        "107032160"
+      ],
+      "sot": [
+        "102581216",
+        "102585153",
+        "102589154",
+        "102593127"
+      ],
+      "cann": [
+        "107848268",
+        "107854378",
+        "107854386",
+        "107873625",
+        "107877750"
+      ],
+      "nta": [
+        "107759409",
+        "107769538",
+        "107770580",
+        "107779985",
+        "107792196",
+        "107805824",
+        "107816081",
+        "107828810",
+        "107828819"
+      ],
+      "nsy": [
+        "104214621",
+        "104221871",
+        "104221872",
+        "104235526"
+      ],
+      "nto": [
+        "104090341",
+        "104095344",
+        "104098588"
+      ],
+      "ini": [
+        "109161500",
+        "109163523",
+        "109165002",
+        "109165003",
+        "109170079",
+        "109170080",
+        "109170081"
+      ],
+      "sind": [
+        "105155583",
+        "105155584",
+        "105169475",
+        "105169477",
+        "105169487",
+        "105172681"
+      ],
+      "oeu": [
+        "111375829",
+        "111379316",
+        "111393291",
+        "111394633",
+        "111411979",
+        "111411981"
+      ],
+      "han": [
+        "110873280",
+        "110885341",
+        "110904078",
+        "110904079",
+        "110904080",
+        "110904101",
+        "110908254",
+        "110908754",
+        "110910469",
+        "110918315"
+      ],
+      "lsv": [
+        "111877205",
+        "111880072",
+        "111884723",
+        "111894475",
+        "111904831",
+        "111904832",
+        "111907136"
+      ],
+      "dcr": [
+        "108198789",
+        "108203561",
+        "108207447",
+        "108207939",
+        "108228116"
+      ],
+      "bvg": [
+        "104888399",
+        "104888608",
+        "104889979",
+        "104899963",
+        "104901635"
+      ],
+      "soe": [
+        "110776964",
+        "110777898",
+        "110801569",
+        "110803039"
+      ],
+      "nnu": [
+        "104598817",
+        "104607744",
+        "104608495",
+        "104611667"
+      ],
+      "osa": [
+        "107275612"
+      ],
+      "dosa": [
+        "Os03t0422600-00",
+        "Os03t0436400-01",
+        "Os07t0601600-00",
+        "Os11t0351555-01"
+      ],
+      "obr": [
+        "102714167",
+        "102722456"
+      ],
+      "bdi": [
+        "100833464"
+      ],
+      "ats": [
+        "109748315",
+        "109748316",
+        "109766846",
+        "109768392"
+      ],
+      "sbi": [
+        "110432343",
+        "8057144",
+        "8063222",
+        "8063223"
+      ],
+      "zma": [
+        "100272352",
+        "100381428",
+        "103636683"
+      ],
+      "sita": [
+        "101767985",
+        "101768386"
+      ],
+      "pda": [
+        "103707365",
+        "103707777"
+      ],
+      "egu": [
+        "105032501",
+        "105032502",
+        "105058029",
+        "109506055"
+      ],
+      "mus": [
+        "103979849",
+        "103981863",
+        "103986123",
+        "103989009"
+      ],
+      "dct": [
+        "110107732",
+        "110115669"
+      ],
+      "aof": [
+        "109841275",
+        "109844891",
+        "109847720"
+      ],
+      "atr": [
+        "18431400",
+        "18437608",
+        "18437954"
+      ],
+      "smo": [
+        "SELMODRAFT_160458",
+        "SELMODRAFT_186462",
+        "SELMODRAFT_234421",
+        "SELMODRAFT_235888",
+        "SELMODRAFT_402259",
+        "SELMODRAFT_444825",
+        "SELMODRAFT_448625",
+        "SELMODRAFT_448626",
+        "SELMODRAFT_74145",
+        "SELMODRAFT_74346",
+        "SELMODRAFT_86439",
+        "SELMODRAFT_86462",
+        "SELMODRAFT_92604"
+      ],
+      "ppp": [
+        "112274793"
+      ],
+      "fvr": [
+        "FVEG_16288"
+      ],
+      "vda": [
+        "VDAG_07323"
+      ],
+      "cfj": [
+        "CFIO01_02613"
+      ],
+      "pdp": [
+        "PDIP_17770",
+        "PDIP_29920"
+      ],
+      "npa": [
+        "UCRNP2_501"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.3.1.3"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.3.1.3"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.3.1.3"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.3.1.3"
+      ],
+      "CAS": [
+        "9029-08-7"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "DORFMAN RI",
+          "FORCHIELLI E."
+        ],
+        "title": "Separation of delta 4-5 alpha-hydrogenases from rat liver homogenates.",
+        "journal": "J Biol Chem",
+        "volume": "223",
+        "issue": "",
+        "pages": "443-8",
+        "year": "1956",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:13376613]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "BROWN-GRANT K",
+          "FORCHIELLI E",
+          "DORFMAN RI."
+        ],
+        "title": "The delta4-hydrogenases of guinea pig adrenal gland.",
+        "journal": "J Biol Chem",
+        "volume": "235",
+        "issue": "",
+        "pages": "1317-20",
+        "year": "1960",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:13805063]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Levy",
+          "H.R. and Talalay",
+          "P."
+        ],
+        "title": "Enzymatic introduction of double bonds into steroid ring A.",
+        "journal": "J Am Chem Soc",
+        "volume": "79",
+        "issue": "",
+        "pages": "2658-2659",
+        "year": "1957",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "TOMKINS GM."
+        ],
+        "title": "The enzymatic reduction of delta 4-3-ketosteroids.",
+        "journal": "J Biol Chem",
+        "volume": "225",
+        "issue": "",
+        "pages": "13-24",
+        "year": "1957",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "4  [PMID:13416214]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sugimoto Y",
+          "Yoshida M",
+          "Tamaoki B."
+        ],
+        "title": "Purification of 5 beta-reductase from hepatic cytosol fraction of chicken.",
+        "journal": "J Steroid Biochem Mol Biol",
+        "volume": "37",
+        "issue": "",
+        "pages": "717-24",
+        "year": "1990",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "5  [PMID:2278855]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Furuebisu M",
+          "Deguchi S",
+          "Okuda K."
+        ],
+        "title": "Identification of cortisone 5 beta-reductase as delta 4-3-ketosteroid 5 beta-reductase.",
+        "journal": "Biochim Biophys Acta 912:110-4 (1987) DOI:10.1016/0167-4838(87)90253-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "6  [PMID:3828348]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Okuda A",
+          "Okuda K."
+        ],
+        "title": "Purification and characterization of delta 4-3-ketosteroid 5 beta-reductase.",
+        "journal": "J Biol Chem",
+        "volume": "259",
+        "issue": "",
+        "pages": "7519-24",
+        "year": "1984",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "7  [PMID:6736016]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Charbonneau A",
+          "The VL."
+        ],
+        "title": "Genomic organization of a human 5beta-reductase and its pseudogene and substrate selectivity of the expressed enzyme.",
+        "journal": "Biochim Biophys Acta 1517:228-35 (2001) DOI:10.1016/S0167-4781(00)00278-5",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "8  [PMID:11342103]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kondo KH",
+          "Kai MH",
+          "Setoguchi Y",
+          "Eggertsen G",
+          "Sjoblom P",
+          "Setoguchi T",
+          "Okuda KI",
+          "Bjorkhem I."
+        ],
+        "title": "Cloning and expression of cDNA of human delta 4-3-oxosteroid 5 beta-reductase and substrate specificity of the expressed enzyme.",
+        "journal": "Eur J Biochem",
+        "volume": "219",
+        "issue": "",
+        "pages": "357-63",
+        "year": "1994",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "9  [PMID:7508385]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

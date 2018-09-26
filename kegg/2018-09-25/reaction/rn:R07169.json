@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R07169",
+    "name": "(R)-tetrahydroberberine:NADP+ oxidoreductase",
+    "definition": "(R)-Canadine + 2 NADP+ <=> Berberine + 2 NADPH + 2 H+",
+    "equation": "C11818 + 2 C00006 <=> C00757 + 2 C00005 + 2 C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.5.1.31"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    }
+  }
+]

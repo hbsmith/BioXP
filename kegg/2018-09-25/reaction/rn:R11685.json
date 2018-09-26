@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11685",
+    "name": "S-adenosyl-L-methionine:7'-O-demethylcephaeline 7'-O-methyltransferase",
+    "definition": "7'-O-Dmethylcephaeline + S-Adenosyl-L-methionine <=> Cephaeline + S-Adenosyl-L-homocysteine",
+    "equation": "C21584 + C00019 <=> C09390 + C00021",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.-"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22091": "O-methyltransferase [EC:2.1.1.-]"
+    }
+  }
+]

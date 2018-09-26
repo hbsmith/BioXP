@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R06759",
+    "name": "",
+    "definition": "3-Dimethylallyl-4-hydroxymandelic acid + Oxygen <=> 3-Dimethylallyl-4-hydroxybenzoate + CO2 + H2O",
+    "equation": "C12457 + C00007 <=> C12458 + C00011 + C00001",
+    "comment": "putative aldolase, NovR CloR",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.13.12.23"
+    ],
+    "pathways": {
+      "rn00401": "Novobiocin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12708": "4-hydroxy-3-prenylphenylpyruvate oxygenase / 4-hydroxy-3-prenylbenzoate synthase [EC:1.13.11.83 1.13.12.23]"
+    }
+  }
+]

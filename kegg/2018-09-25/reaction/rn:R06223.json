@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R06223",
+    "name": "squalene synthase",
+    "definition": "2 trans,trans-Farnesyl diphosphate + NADPH + H+ <=> Squalene + 2 Diphosphate + NADP+",
+    "equation": "2 C00448 + C00005 + C00080 <=> C00751 + 2 C00013 + C00006",
+    "comment": "two-step reaction (see R00702+R02872)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.21"
+    ],
+    "pathways": {
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00801": "farnesyl-diphosphate farnesyltransferase [EC:2.5.1.21]"
+    }
+  }
+]

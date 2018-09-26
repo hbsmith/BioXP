@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R09245",
+    "name": "(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units)",
+    "definition": "trans,trans-Farnesyl diphosphate + 3 Isopentenyl diphosphate <=> all-trans-Hexaprenyl diphosphate + 3 Diphosphate",
+    "equation": "C00448 + 3 C00129 <=> C01230 + 3 C00013",
+    "comment": "3-step reaction see R02061+R07475+R05613",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.5.1.83"
+    ],
+    "pathways": {
+      "rn00900": "Terpenoid backbone biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K05355": "hexaprenyl-diphosphate synthase [EC:2.5.1.82 2.5.1.83]",
+      "K21274": "hexaprenyl-diphosphate synthase small subunit [EC:2.5.1.83]",
+      "K21275": "hexaprenyl-diphosphate synthase large subunit [EC:2.5.1.83]"
+    }
+  }
+]

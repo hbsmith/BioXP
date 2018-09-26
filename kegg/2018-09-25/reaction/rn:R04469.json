@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R04469",
+    "name": "UDP-alpha-D-galactose:1,2-diacyl-3-beta-D-galactosyl-sn-glycerol 6-alpha-D-galactosyltransferase",
+    "definition": "1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol + UDP-alpha-D-galactose <=> Digalactosyl-diacylglycerol + UDP",
+    "equation": "C03692 + C00052 <=> C06037 + C00015",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.1.241"
+    ],
+    "pathways": {
+      "rn00561": "Glycerolipid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K09480": "digalactosyldiacylglycerol synthase [EC:2.4.1.241]"
+    }
+  }
+]

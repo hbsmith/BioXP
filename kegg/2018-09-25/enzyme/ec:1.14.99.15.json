@@ -1,0 +1,537 @@
+[
+  {
+    "entry_id": "1.14.99.15",
+    "name": "4-methoxybenzoate monooxygenase (O-demethylating)",
+    "names": [
+      "4-methoxybenzoate monooxygenase (O-demethylating)",
+      "4-methoxybenzoate 4-monooxygenase (O-demethylating)",
+      "4-methoxybenzoate O-demethylase",
+      "p-anisic O-demethylase",
+      "piperonylate-4-O-demethylase"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "Miscellaneous"
+    ],
+    "sysname": "4-methoxybenzoate,hydrogen-donor:oxygen oxidoreductase (O-demethylating)",
+    "reaction": "4-methoxybenzoate + reduced acceptor + O2 = 4-hydroxybenzoate + formaldehyde + acceptor + H2O [RN:R01306]",
+    "all_reac": "R01306",
+    "iubmb_reactions": [
+      "R01306"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "4-methoxybenzoate [CPD:C02519]",
+      "reduced acceptor [CPD:C00030]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "4-hydroxybenzoate [CPD:C00156]",
+      "formaldehyde [CPD:C00067]",
+      "acceptor [CPD:C00028]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "The bacterial enzyme consists of a ferredoxin-type protein and an iron-sulfur flavoprotein (FMN). Also acts on 4-ethoxybenzoate, N-methyl-4-aminobenzoate and toluate. The fungal enzyme acts best on veratrate.",
+    "pathways": {
+      "ec00362": "Benzoate degradation"
+    },
+    "orthologs": {
+      "K22553": "4-methoxybenzoate monooxygenase (O-demethylating)"
+    },
+    "genes": {
+      "xcv": [
+        "XCV2181"
+      ],
+      "xax": [
+        "XACM_2263"
+      ],
+      "xal": [
+        "XALC_1851"
+      ],
+      "xpe": [
+        "BJD13_05030"
+      ],
+      "ppu": [
+        "PP_1950"
+      ],
+      "byi": [
+        "BYI23_D004940"
+      ],
+      "buo": [
+        "BRPE64_ECDS01410"
+      ],
+      "bue": [
+        "BRPE67_DCDS06740"
+      ],
+      "bhz": [
+        "ACR54_04430"
+      ],
+      "hyr": [
+        "BSY239_2681"
+      ],
+      "hyl": [
+        "LPB072_21880"
+      ],
+      "mamo": [
+        "A6B35_30200"
+      ],
+      "amih": [
+        "CO731_02618"
+      ],
+      "avi": [
+        "Avi_7683"
+      ],
+      "ngg": [
+        "RG540_PA03940"
+      ],
+      "bja": [
+        "blr1048"
+      ],
+      "bju": [
+        "BJ6T_10730",
+        "BJ6T_28510"
+      ],
+      "bjp": [
+        "RN69_05235",
+        "RN69_13925"
+      ],
+      "bra": [
+        "BRADO6810"
+      ],
+      "bbt": [
+        "BBta_0729"
+      ],
+      "brs": [
+        "S23_29990",
+        "S23_67580"
+      ],
+      "aol": [
+        "S58_06520"
+      ],
+      "brc": [
+        "BCCGELA001_10110",
+        "BCCGELA001_34415"
+      ],
+      "brad": [
+        "BF49_6347"
+      ],
+      "bic": [
+        "LMTR13_36460"
+      ],
+      "bro": [
+        "BRAD285_6957"
+      ],
+      "brk": [
+        "CWS35_02050"
+      ],
+      "bot": [
+        "CIT37_09060",
+        "CIT37_21735"
+      ],
+      "rpa": [
+        "RPA1871"
+      ],
+      "rpb": [
+        "RPB_3613"
+      ],
+      "rpt": [
+        "Rpal_2077"
+      ],
+      "rpx": [
+        "Rpdx1_3652"
+      ],
+      "vgo": [
+        "GJW-30_1_04086"
+      ],
+      "psin": [
+        "CAK95_08700"
+      ],
+      "spse": [
+        "SULPSESMR1_04506"
+      ],
+      "paby": [
+        "Ga0080574_TMP462"
+      ],
+      "nre": [
+        "BES08_14180"
+      ],
+      "swi": [
+        "Swit_3269",
+        "Swit_3393"
+      ],
+      "sphd": [
+        "HY78_07345",
+        "HY78_09210"
+      ],
+      "sphj": [
+        "BSL82_02220"
+      ],
+      "sjp": [
+        "SJA_C2-04160"
+      ],
+      "sch": [
+        "Sphch_2545",
+        "Sphch_3292"
+      ],
+      "ssy": [
+        "SLG_20150"
+      ],
+      "sphb": [
+        "EP837_03852"
+      ],
+      "sfla": [
+        "SPHFLASMR4Y_02994"
+      ],
+      "sphy": [
+        "CHN51_15135"
+      ],
+      "rdi": [
+        "CMV14_14515",
+        "CMV14_19755"
+      ],
+      "aay": [
+        "WYH_02150"
+      ],
+      "phr": [
+        "C6569_17635"
+      ],
+      "msa": [
+        "Mycsm_02398"
+      ],
+      "mye": [
+        "AB431_02270"
+      ],
+      "myn": [
+        "MyAD_02410"
+      ],
+      "mdx": [
+        "BTO20_24705"
+      ],
+      "mne": [
+        "D174_02470"
+      ],
+      "mgo": [
+        "AFA91_19850"
+      ],
+      "mll": [
+        "B1R94_01975"
+      ],
+      "mrh": [
+        "MycrhN_3137",
+        "MycrhN_5738"
+      ],
+      "asd": [
+        "AS9A_2864"
+      ],
+      "cgs": [
+        "C624_06170"
+      ],
+      "cgg": [
+        "C629_06170"
+      ],
+      "chn": [
+        "A605_02885"
+      ],
+      "cmd": [
+        "B841_02855",
+        "B841_09435"
+      ],
+      "cmq": [
+        "B840_02145"
+      ],
+      "nfr": [
+        "ERS450000_01153"
+      ],
+      "nbr": [
+        "O3I_021235"
+      ],
+      "nno": [
+        "NONO_c50050",
+        "NONO_c62080"
+      ],
+      "rha": [
+        "RHA1_ro02948"
+      ],
+      "rop": [
+        "ROP_26710"
+      ],
+      "roa": [
+        "Pd630_LPD07185",
+        "Pd630_LPD07730"
+      ],
+      "rhb": [
+        "NY08_3115"
+      ],
+      "rav": [
+        "AAT18_16735"
+      ],
+      "rfa": [
+        "A3L23_01319"
+      ],
+      "rhs": [
+        "A3Q41_02048"
+      ],
+      "rrz": [
+        "CS378_04375",
+        "CS378_16665"
+      ],
+      "rhu": [
+        "A3Q40_02983",
+        "A3Q40_03723"
+      ],
+      "gpo": [
+        "GPOL_c45240"
+      ],
+      "diz": [
+        "CT688_05465"
+      ],
+      "dpc": [
+        "A6048_05425"
+      ],
+      "scb": [
+        "SCAB_90271",
+        "SCAB_90301",
+        "SCAB_90701"
+      ],
+      "ssx": [
+        "SACTE_0587"
+      ],
+      "sbh": [
+        "SBI_09731"
+      ],
+      "sals": [
+        "SLNWT_0027"
+      ],
+      "scx": [
+        "AS200_04225"
+      ],
+      "sle": [
+        "sle_61820"
+      ],
+      "snw": [
+        "BBN63_32895"
+      ],
+      "smal": [
+        "SMALA_8135"
+      ],
+      "salf": [
+        "SMD44_p10130"
+      ],
+      "kit": [
+        "CFP65_2791"
+      ],
+      "mio": [
+        "AOA12_16380"
+      ],
+      "agy": [
+        "ATC03_10810"
+      ],
+      "art": [
+        "Arth_1727"
+      ],
+      "arh": [
+        "AHiyo8_06310"
+      ],
+      "ary": [
+        "ATC04_12915"
+      ],
+      "arz": [
+        "AUT26_19685"
+      ],
+      "acry": [
+        "AC20117_03845",
+        "AC20117_06110",
+        "AC20117_16210"
+      ],
+      "ach": [
+        "Achl_0767"
+      ],
+      "ica": [
+        "Intca_0838"
+      ],
+      "psim": [
+        "KR76_01035"
+      ],
+      "aer": [
+        "AERYTH_14525"
+      ],
+      "tfu": [
+        "Tfu_1225"
+      ],
+      "bsd": [
+        "BLASA_2994",
+        "BLASA_3126"
+      ],
+      "mmar": [
+        "MODMU_2722",
+        "MODMU_2987"
+      ],
+      "aoi": [
+        "AORI_1561"
+      ],
+      "amq": [
+        "AMETH_2741"
+      ],
+      "pdx": [
+        "Psed_0220",
+        "Psed_3265"
+      ],
+      "psea": [
+        "WY02_26855"
+      ],
+      "psee": [
+        "FRP1_19740"
+      ],
+      "pseh": [
+        "XF36_06300",
+        "XF36_15935"
+      ],
+      "pseq": [
+        "AD006_27155",
+        "AD006_30685",
+        "AD006_31285"
+      ],
+      "pecq": [
+        "AD017_06750",
+        "AD017_29950",
+        "AD017_30555"
+      ],
+      "sesp": [
+        "BN6_54730",
+        "BN6_55130"
+      ],
+      "ams": [
+        "AMIS_8190"
+      ]
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.99.15"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.99.15"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.99.15"
+      ],
+      "UM-BBD (Biocatalysis/Biodegradation Database)": [
+        "1.14.99.15"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.99.15"
+      ],
+      "CAS": [
+        "37256-78-3"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Bernhardt FH",
+          "Nastainczyk W",
+          "Seydewitz V."
+        ],
+        "title": "Kinetic studies on a 4-methoxybenzoate O-demethylase from Pseudomonas putida.",
+        "journal": "Eur J Biochem 72:107-15 (1977) DOI:10.1111/j.1432-1033.1977.tb11230.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:188654]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Paszczynski A",
+          "Trojanowski J."
+        ],
+        "title": "An affinity-column procedure for the purification of veratrate O-demethylase from fungi.",
+        "journal": "Microbios",
+        "volume": "18",
+        "issue": "",
+        "pages": "111-21",
+        "year": "1977",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "2  [PMID:25369]"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Twilfer H",
+          "Bernhardt FH",
+          "Gersonde K."
+        ],
+        "title": "An electron-spin-resonance study on the redox-active centers of the 4-methoxybenzoate monooxygenase from Pseudomonas putida.",
+        "journal": "Eur J Biochem 119:595-602 (1981) DOI:10.1111/j.1432-1033.1981.tb05649.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "3  [PMID:6273164]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C20782",
+    "name": "(S)-2-Phenyloxirane",
+    "names": [
+      "(S)-2-Phenyloxirane",
+      "(S)-Styrene oxide"
+    ],
+    "formula": "C8H8O",
+    "exact_mass": 120.0575,
+    "mol_weight": 120.1485,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05488",
+      "R10697"
+    ],
+    "pathways": {
+      "map00643": "Styrene degradation",
+      "map01100": "Metabolic pathways",
+      "map01120": "Microbial metabolism in diverse environments"
+    },
+    "enzymes": [
+      "1.14.14.11",
+      "5.3.99.7"
+    ],
+    "dblinks": {
+      "CAS": [
+        "20780-54-5"
+      ],
+      "PubChem": [
+        "254741249"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1y C    18.6135  -14.7167\n            2   C8y C    18.6198  -16.1052\n            3   C1x C    19.3044  -13.5074\n            4   O2x O    17.9160  -13.5074\n            5   C8x C    17.4105  -16.8026\n            6   C8x C    19.8418  -16.8026\n            7   C8x C    17.4105  -18.2101\n            8   C8x C    19.8418  -18.2101\n            9   C8x C    18.6198  -18.9204\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Down\n            4     2   5 2\n            5     2   6 1\n            6     5   7 1\n            7     6   8 2\n            8     7   9 2\n            9     3   4 1\n            10    8   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

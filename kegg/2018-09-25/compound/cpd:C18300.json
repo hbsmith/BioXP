@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C18300",
+    "name": "2,4-Dichlorotoluene",
+    "names": [
+      "2,4-Dichlorotoluene"
+    ],
+    "formula": "C7H6Cl2",
+    "exact_mass": 159.9847,
+    "mol_weight": 161.0285,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R09201"
+    ],
+    "pathways": {
+      "map00623": "Toluene degradation",
+      "map01120": "Microbial metabolism in diverse environments",
+      "map01220": "Degradation of aromatic compounds"
+    },
+    "enzymes": [
+      "1.14.12.-"
+    ],
+    "dblinks": {
+      "CAS": [
+        "95-73-8"
+      ],
+      "PubChem": [
+        "103061482"
+      ],
+      "ChEBI": [
+        "81651"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    22.8900  -18.6200\n            2   C8y C    22.8900  -20.0200\n            3   C8x C    24.1024  -20.7200\n            4   C8x C    25.3149  -20.0200\n            5   C8y C    25.3149  -18.6200\n            6   C8y C    24.1024  -17.9200\n            7   C1a C    26.5460  -17.9090\n            8   X   Cl   24.1024  -16.5202\n            9   X   Cl   21.6776  -20.7200\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     5   7 1\n            8     6   8 1\n            9     2   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

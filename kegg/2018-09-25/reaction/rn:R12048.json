@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R12048",
+    "name": "",
+    "definition": "Stearoyl-CoA + NADPH + H+ + Oxygen <=> Oleoyl-CoA + NADP+ + 2 H2O",
+    "equation": "C00412 + C00005 + C00080 + C00007 <=> C00510 + C00006 + 2 C00001",
+    "comment": "NADPH-dependent stearoyl-CoA 9-desaturase",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.19.-"
+    ],
+    "pathways": {
+      "rn01040": "Biosynthesis of unsaturated fatty acids"
+    },
+    "orthologs": {
+      "K22769": "NADPH-dependent stearoyl-CoA 9-desaturase [EC:1.14.19.-]",
+      "K22770": "stearoyl-CoA 9-desaturase NADPH oxidoreductase"
+    }
+  }
+]

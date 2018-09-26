@@ -1,0 +1,101 @@
+[
+  {
+    "entry_id": "C07294",
+    "name": "Methylarsonate",
+    "names": [
+      "Methylarsonate",
+      "Methylarsonic acid",
+      "MAA"
+    ],
+    "formula": "CH5AsO3",
+    "exact_mass": 139.9455,
+    "mol_weight": 139.9702,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05748",
+      "R05755"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.20.4.2",
+      "2.1.1.137"
+    ],
+    "dblinks": {
+      "CAS": [
+        "124-58-3"
+      ],
+      "PubChem": [
+        "9503"
+      ],
+      "ChEBI": [
+        "16005",
+        "29852"
+      ],
+      "ChEMBL": [
+        "CHEMBL1743208"
+      ],
+      "NIKKAJI": [
+        "J3.259J"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   Z   As   28.8400  -16.9400\n            2   C1a C    28.8342  -18.3356\n            3   O1a O    30.5332  -16.9400\n            4   O1a O    27.4444  -16.9400\n            5   O0  O    28.8342  -15.5444\nBOND        4\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C07294",
+    "name": "Methylarsonate",
+    "names": [
+      "Methylarsonate",
+      "Methylarsonic acid",
+      "MAA"
+    ],
+    "formula": "CH5AsO3",
+    "exact_mass": 139.9455,
+    "mol_weight": 139.9702,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R05748",
+      "R05755"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.20.4.2",
+      "2.1.1.137"
+    ],
+    "dblinks": {
+      "CAS": [
+        "124-58-3"
+      ],
+      "PubChem": [
+        "9503"
+      ],
+      "ChEBI": [
+        "16005",
+        "29852"
+      ],
+      "ChEMBL": [
+        "CHEMBL1743208"
+      ],
+      "NIKKAJI": [
+        "J3.259J"
+      ]
+    },
+    "kcf": "ATOM        5\n            1   Z   As   28.8400  -16.9400\n            2   C1a C    28.8342  -18.3356\n            3   O1a O    30.5332  -16.9400\n            4   O1a O    27.4444  -16.9400\n            5   O0  O    28.8342  -15.5444\nBOND        4\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

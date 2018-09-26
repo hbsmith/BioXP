@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "C05680",
+    "name": "N-Dimethyl-2-aminoethylphosphonate",
+    "names": [
+      "N-Dimethyl-2-aminoethylphosphonate",
+      "2-Dimethylaminoethylphosphonate"
+    ],
+    "formula": "C4H12NO3P",
+    "exact_mass": 153.0555,
+    "mol_weight": 153.1167,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02592",
+      "R04925"
+    ],
+    "pathways": {
+      "map00440": "Phosphonate and phosphinate metabolism"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "7987"
+      ],
+      "ChEBI": [
+        "7265"
+      ],
+      "3DMET": [
+        "B00835"
+      ],
+      "NIKKAJI": [
+        "J431.382H"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   P1b P    14.1400  -16.5200\n            2   C1b C    15.5400  -16.5200\n            3   O1c O    12.7400  -16.5200\n            4   O1c O    14.1400  -15.1200\n            5   O1c O    14.1400  -17.9200\n            6   C1b C    16.2400  -17.7324\n            7   N1c N    17.6398  -17.7324\n            8   C1a C    18.3303  -18.9280\n            9   C1a C    18.3496  -16.5032\nBOND        8\n            1     1   2 1\n            2     1   3 1\n            3     1   4 2\n            4     1   5 1\n            5     2   6 1\n            6     6   7 1\n            7     7   8 1\n            8     7   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

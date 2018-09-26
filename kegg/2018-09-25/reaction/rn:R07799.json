@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": "R07799",
+    "name": "",
+    "definition": "Fluoren-9-one + Oxygen + H+ + NADH <=> 1-Hydro-1,1a-dihydroxy-9-fluorenone + NAD+",
+    "equation": "C06712 + C00007 + C00080 + C00004 <=> C16262 + C00003",
+    "comment": "9-fluorenone-3,4-dioxygenase: DbfA",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.12.-"
+    ],
+    "pathways": {
+      "rn00624": "Polycyclic aromatic hydrocarbon degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K14599": "dibenzofuran dioxygenase subunit alpha [EC:1.14.12.-]",
+      "K14600": "dibenzofuran dioxygenase subunit beta [EC:1.14.12.-]"
+    }
+  }
+]

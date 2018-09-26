@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03973",
+    "name": "",
+    "definition": "Hydroiodic acid + 3,5-Diiodo-L-tyrosine <=> 3-Iodo-L-tyrosine + Iodine",
+    "equation": "C05590 + C01060 <=> C02515 + C01382",
+    "comment": "thyroid peroxidase, TPO reaction on thyroglobulin [KO:K10809] (see R08521)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.11.1.8"
+    ],
+    "pathways": {
+      "rn00350": "Tyrosine metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00431": "thyroid peroxidase [EC:1.11.1.8]"
+    }
+  }
+]

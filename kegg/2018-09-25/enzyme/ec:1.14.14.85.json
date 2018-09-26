@@ -1,0 +1,110 @@
+[
+  {
+    "entry_id": "1.14.14.85",
+    "name": "7-deoxyloganin 7-hydroxylase",
+    "names": [
+      "7-deoxyloganin 7-hydroxylase"
+    ],
+    "classes": [
+      "Oxidoreductases;",
+      "Acting on paired donors, with incorporation or reduction of molecular oxygen;",
+      "With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor"
+    ],
+    "sysname": "7-deoxyloganin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (7alpha-hydroxylating)",
+    "reaction": "7-deoxyloganin + [reduced NADPH---hemoprotein reductase] + O2 = loganin + [oxidized NADPH---hemoprotein reductase] + H2O [RN:R03556]",
+    "all_reac": "R03556; (other) R05832",
+    "iubmb_reactions": [
+      "R03556"
+    ],
+    "kegg_reactions": [
+      "R05832"
+    ],
+    "substrates": [
+      "7-deoxyloganin [CPD:C06071]",
+      "[reduced NADPH---hemoprotein reductase] [CPD:C03024]",
+      "O2 [CPD:C00007]"
+    ],
+    "products": [
+      "loganin [CPD:C01433]",
+      "[oxidized NADPH---hemoprotein reductase] [CPD:C03161]",
+      "H2O [CPD:C00001]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "A cytochrome P-450 (heme-thiolate) protein found in plants.",
+    "pathways": {
+      "ec00902": "Monoterpenoid biosynthesis",
+      "ec01100": "Metabolic pathways",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "1.14.14.85"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "1.14.14.85"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "1.14.14.85"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "1.14.14.85"
+      ],
+      "CAS": [
+        "335305-40-3"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Katano N",
+          "Yamamoto H",
+          "Iio R",
+          "Inoue K."
+        ],
+        "title": "7-Deoxyloganin 7-hydroxylase in Lonicera japonica cell cultures.",
+        "journal": "Phytochemistry 58:53-8 (2001) DOI:10.1016/S0031-9422(01)00181-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:11524113]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R11696",
+    "name": "narcotoline hemiacetal:NAD+ oxidoreductase",
+    "definition": "Narcotoline hemiacetal + NAD+ <=> Narcotoline + NADH + H+",
+    "equation": "C21600 + C00003 <=> C09593 + C00004 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.-"
+    ],
+    "pathways": {
+      "rn00950": "Isoquinoline alkaloid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22098": "noscapine synthase [EC:1.1.1.-]"
+    }
+  }
+]

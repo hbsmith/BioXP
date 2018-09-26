@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11273",
+    "name": "lividamine:oxygen 6'-oxidoreductase",
+    "definition": "Lividamine + Oxygen <=> 6'-Oxolividamine + Hydrogen peroxide",
+    "equation": "C21255 + C00007 <=> C21256 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.3.-"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20577": "paromamine/lividamine 6'-oxidase [EC:1.1.3.43 1.1.3.-]"
+    }
+  }
+][
+  {
+    "entry_id": "R11273",
+    "name": "lividamine:oxygen 6'-oxidoreductase",
+    "definition": "Lividamine + Oxygen <=> 6'-Oxolividamine + Hydrogen peroxide",
+    "equation": "C21255 + C00007 <=> C21256 + C00027",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.3.-"
+    ],
+    "pathways": {
+      "rn00524": "Neomycin, kanamycin and gentamicin biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K20577": "paromamine/lividamine 6'-oxidase [EC:1.1.3.43 1.1.3.-]"
+    }
+  }
+]

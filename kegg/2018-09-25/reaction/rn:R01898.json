@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R01898",
+    "name": "D-lyxose aldose-ketose-isomerase",
+    "definition": "D-Xylulose <=> D-Lyxose",
+    "equation": "C00310 <=> C00476",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.3.1.15"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions"
+    },
+    "orthologs": {
+      "K09988": "D-lyxose ketol-isomerase [EC:5.3.1.15]"
+    }
+  }
+]

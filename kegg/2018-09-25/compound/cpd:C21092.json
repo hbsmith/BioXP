@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C21092",
+    "name": "D-allo-Isoleucine",
+    "names": [
+      "D-allo-Isoleucine"
+    ],
+    "formula": "C6H13NO2",
+    "exact_mass": 131.0946,
+    "mol_weight": 131.1729,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11078"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "5.1.1.21"
+    ],
+    "dblinks": {
+      "CAS": [
+        "1509-35-9"
+      ],
+      "PubChem": [
+        "310920473"
+      ],
+      "ChEMBL": [
+        "CHEMBL1869615"
+      ],
+      "PDB-CCD": [
+        "28J"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C1c C    18.0133  -16.5806\n            2   C1c C    19.2008  -15.8438\n            3   C6a C    16.7791  -15.9198\n            4   N1a N    17.9902  -17.9787\n            5   C1b C    20.4349  -16.5046\n            6   C1a C    19.1599  -14.4457\n            7   O6a O    15.6211  -16.7151\n            8   O6a O    16.8025  -14.5217\n            9   C1a C    21.6282  -15.7677\nBOND        8\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     2   6 1 #Up\n            6     3   7 1\n            7     3   8 2\n            8     5   9 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

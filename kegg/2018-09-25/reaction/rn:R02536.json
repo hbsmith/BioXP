@@ -1,0 +1,25 @@
+[
+  {
+    "entry_id": "R02536",
+    "name": "Phenylacetaldehyde:NAD+ oxidoreductase",
+    "definition": "Phenylacetaldehyde + NAD+ + H2O <=> Phenylacetic acid + NADH + H+",
+    "equation": "C00601 + C00003 + C00001 <=> C07086 + C00004 + C00080",
+    "comment": "NADP+ (see R02537)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.2.1.5",
+      "1.2.1.39"
+    ],
+    "pathways": {
+      "rn00360": "Phenylalanine metabolism",
+      "rn00643": "Styrene degradation",
+      "rn01100": "Metabolic pathways",
+      "rn01120": "Microbial metabolism in diverse environments"
+    },
+    "orthologs": {
+      "K00129": "aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5]",
+      "K00146": "phenylacetaldehyde dehydrogenase [EC:1.2.1.39]"
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "entry_id": "2.1.1.345",
+    "name": "psilocybin synthase",
+    "names": [
+      "psilocybin synthase",
+      "PsiM"
+    ],
+    "classes": [
+      "Transferases;",
+      "Transferring one-carbon groups;",
+      "Methyltransferases"
+    ],
+    "sysname": "S-adenosyl-L-methionine:4-hydroxytryptamine-4-phosphate N,N-dimethyltransferase",
+    "reaction": "2 S-adenosyl-L-methionine + 4-hydroxytryptamine 4-phosphate = 2 S-adenosyl-L-homocysteine + psilocybin (overall reaction) [RN:R11934]; (1a) S-adenosyl-L-methionine + 4-hydroxytryptamine 4-phosphate = S-adenosyl-L-homocysteine + 4-hydroxy-N-methyltryptamine 4-phosphate [RN:R11935]; (1b) S-adenosyl-L-methionine + 4-hydroxy-N-methyltryptamine 4-phosphate = S-adenosyl-L-homocysteine + psilocybin [RN:R11936]",
+    "all_reac": "R11934 R11935 R11936",
+    "iubmb_reactions": [
+      "R11934 R11935 R11936"
+    ],
+    "kegg_reactions": [
+
+    ],
+    "substrates": [
+      "S-adenosyl-L-methionine [CPD:C00019]",
+      "4-hydroxytryptamine 4-phosphate [CPD:C21778]",
+      "4-hydroxy-N-methyltryptamine 4-phosphate [CPD:C21779]"
+    ],
+    "products": [
+      "S-adenosyl-L-homocysteine [CPD:C00021]",
+      "psilocybin [CPD:C07576]",
+      "4-hydroxy-N-methyltryptamine 4-phosphate [CPD:C21779]"
+    ],
+    "cofactors": [
+
+    ],
+    "efectors": [
+
+    ],
+    "inhibitors": [
+
+    ],
+    "comment": "Isolated from the fungus Psilocybe cubensis. The product, psilocybin, is a psychoactive compound.",
+    "pathways": {
+      "ec00901": "Indole alkaloid biosynthesis",
+      "ec01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K22436": "psilocybin synthase"
+    },
+    "genes": {
+    },
+    "dblinks": {
+      "ExplorEnz - The Enzyme Database": [
+        "2.1.1.345"
+      ],
+      "IUBMB Enzyme Nomenclature": [
+        "2.1.1.345"
+      ],
+      "ExPASy - ENZYME nomenclature database": [
+        "2.1.1.345"
+      ],
+      "BRENDA, the Enzyme Database": [
+        "2.1.1.345"
+      ]
+    },
+    "diseases": [
+
+    ],
+    "motifs": [
+
+    ],
+    "structures": [
+
+    ],
+    "references": [
+      {
+        "authors": [
+          "Fricke J",
+          "Blei F",
+          "Hoffmeister D"
+        ],
+        "title": "Enzymatic Synthesis of Psilocybin.",
+        "journal": "Angew Chem Int Ed Engl 56:12352-12355 (2017) DOI:10.1002/anie.201705489",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "1  [PMID:28763571]"
+        ],
+        "affiliations": [
+
+        ]
+      }
+    ]
+  }
+]

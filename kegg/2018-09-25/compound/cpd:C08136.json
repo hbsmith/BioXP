@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C08136",
+    "name": "Tricalcium phosphate",
+    "names": [
+      "Tricalcium phosphate",
+      "Calcium phosphate tribasic",
+      "Synthos"
+    ],
+    "formula": "Ca3(PO4)2",
+    "exact_mass": 309.7946,
+    "mol_weight": 310.1767,
+    "remark": "Same as: D00938",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "7758-87-4"
+      ],
+      "PubChem": [
+        "10336"
+      ],
+      "ChEBI": [
+        "9679"
+      ],
+      "ChEMBL": [
+        "CHEMBL2106566"
+      ],
+      "NIKKAJI": [
+        "J203.596K",
+        "J399.762F"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   P1b P    28.5796   -7.6799\n            2   O1c O    28.5738   -6.2815\n            3   O1c O    27.1812   -7.6740 #-\n            4   O1c O    29.9782   -7.6799 #-\n            5   O1c O    28.5738   -9.0843 #-\n            6   Z   Ca   33.3545   -7.7131 #2+\n            7   P1b P    28.5796   -7.6799\n            8   O1c O    28.5738   -6.2815\n            9   O1c O    27.1812   -7.6740 #-\n            10  O1c O    29.9782   -7.6799 #-\n            11  O1c O    28.5738   -9.0843 #-\n            12  Z   Ca   33.3545   -7.7131 #2+\n            13  Z   Ca   33.3545   -7.7131 #2+\nBOND        8\n            1     1   2 2\n            2     1   3 1\n            3     1   4 1\n            4     1   5 1\n            5     7   8 2\n            6     7   9 1\n            7     7  10 1\n            8     7  11 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

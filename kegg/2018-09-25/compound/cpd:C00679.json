@@ -1,0 +1,61 @@
+[
+  {
+    "entry_id": "C00679",
+    "name": "5-Dehydro-4-deoxy-D-glucarate",
+    "names": [
+      "5-Dehydro-4-deoxy-D-glucarate",
+      "(2R,3S)-2,3-Dihydroxy-5-oxohexanedioate"
+    ],
+    "formula": "C6H8O7",
+    "exact_mass": 192.027,
+    "mol_weight": 192.1235,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R02279",
+      "R02752",
+      "R02754",
+      "R05608",
+      "R10847",
+      "R11075",
+      "R11083"
+    ],
+    "pathways": {
+      "map00053": "Ascorbate and aldarate metabolism",
+      "map01100": "Metabolic pathways"
+    },
+    "enzymes": [
+      "4.1.2.20",
+      "4.2.1.40",
+      "4.2.1.41",
+      "4.2.1.42",
+      "4.2.1.156",
+      "5.5.1.27"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "3948"
+      ],
+      "ChEBI": [
+        "16369",
+        "42819"
+      ],
+      "PDB-CCD": [
+        "GLR"
+      ],
+      "3DMET": [
+        "B01308"
+      ],
+      "NIKKAJI": [
+        "J913.057H"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   O6a O    23.3261  -18.9177\n            2   C6a C    24.5385  -18.2199\n            3   C1c C    25.7508  -18.9177\n            4   C1c C    26.9633  -18.2199\n            5   C1b C    28.1757  -18.9177\n            6   C5a C    29.3811  -18.2199\n            7   C6a C    30.5934  -18.9177\n            8   O6a O    31.8058  -18.2199\n            9   O6a O    24.5385  -16.8171\n            10  O5a O    29.3811  -16.8171\n            11  O6a O    30.5934  -20.3205\n            12  O1a O    25.7508  -20.3205\n            13  O1a O    26.9633  -16.8171\nBOND        12\n            1     6   7 1\n            2     3   4 1\n            3     7   8 1\n            4     2   9 2\n            5     4   5 1\n            6     6  10 2\n            7     2   3 1\n            8     7  11 2\n            9     5   6 1\n            10    3  12 1 #Up\n            11    1   2 1\n            12    4  13 1 #Up\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

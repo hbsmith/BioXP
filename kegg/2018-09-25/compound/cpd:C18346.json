@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C18346",
+    "name": "4-Methoxy potassium salicylate",
+    "names": [
+      "4-Methoxy potassium salicylate",
+      "4MSK"
+    ],
+    "formula": "C8H8O4. K",
+    "exact_mass": 207.006,
+    "mol_weight": 207.245,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "124489020"
+      ],
+      "ChEBI": [
+        "81692"
+      ]
+    },
+    "kcf": "ATOM        13\n            1   Z   K    19.7020  -25.7093\n            2   C8x C    14.6300  -22.1900\n            3   C8x C    14.6300  -23.5900\n            4   C8y C    15.8424  -24.2900\n            5   C8x C    17.0549  -23.5900\n            6   C8y C    17.0549  -22.1900\n            7   C8y C    15.8424  -21.4900\n            8   C6a C    15.8424  -20.0902\n            9   O6a O    14.6132  -19.3803\n            10  O6a O    17.0380  -19.3998\n            11  O1a O    18.2860  -21.4790\n            12  O2a O    15.8424  -25.6898\n            13  C1a C    14.6132  -26.3997\nBOND        12\n            1     2   3 1\n            2     3   4 2\n            3     4   5 1\n            4     5   6 2\n            5     6   7 1\n            6     2   7 2\n            7     7   8 1\n            8     8   9 2\n            9     8  10 1\n            10    6  11 1\n            11    4  12 1\n            12   12  13 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

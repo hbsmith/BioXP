@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R02505",
+    "name": "Malonyl-CoA:cinnamoyl-CoA malonyltransferase (cyclizing)",
+    "definition": "3 Malonyl-CoA + Cinnamoyl-CoA <=> 4 CoA + Pinosylvin + 4 CO2",
+    "equation": "3 C00083 + C00540 <=> 4 C00010 + C01745 + 4 C00011",
+    "comment": "multi-step reaction",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.3.1.146"
+    ],
+    "pathways": {
+      "rn00945": "Stilbenoid, diarylheptanoid and gingerol biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K13231": "pinosylvin synthase [EC:2.3.1.146]"
+    }
+  }
+]

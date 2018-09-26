@@ -1,0 +1,105 @@
+[
+  {
+    "entry_id": "C08312",
+    "name": "Psilocin",
+    "names": [
+      "Psilocin"
+    ],
+    "formula": "C12H16N2O",
+    "exact_mass": 204.1263,
+    "mol_weight": 204.2682,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08480",
+      "R12142"
+    ],
+    "pathways": {
+      "map00901": "Indole alkaloid biosynthesis",
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "2.7.1.222"
+    ],
+    "dblinks": {
+      "CAS": [
+        "520-53-6"
+      ],
+      "PubChem": [
+        "10510"
+      ],
+      "ChEBI": [
+        "8613"
+      ],
+      "ChEMBL": [
+        "CHEMBL65547"
+      ],
+      "KNApSAcK": [
+        "C00001427"
+      ],
+      "NIKKAJI": [
+        "J12.982H"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8x C    15.3397  -17.1603\n            2   C8x C    15.3397  -18.5612\n            3   C8x C    16.5305  -19.2616\n            4   C8y C    17.7212  -18.5612\n            5   C8y C    17.7212  -17.1603\n            6   C8y C    16.5305  -16.4599\n            7   N4x N    19.0521  -18.9815\n            8   C8x C    19.8926  -17.8608\n            9   C8y C    19.0521  -16.7401\n            10  C1b C    19.5424  -15.3391\n            11  C1b C    20.8732  -15.0590\n            12  N1c N    21.8539  -16.1096\n            13  O1a O    16.5305  -15.0590\n            14  C1a C    23.2116  -15.7956\n            15  C1a C    21.4466  -17.4436\nBOND        16\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    9  10 1\n            12   10  11 1\n            13   11  12 1\n            14    6  13 1\n            15   12  14 1\n            16   12  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C08312",
+    "name": "Psilocin",
+    "names": [
+      "Psilocin"
+    ],
+    "formula": "C12H16N2O",
+    "exact_mass": 204.1263,
+    "mol_weight": 204.2682,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R08480",
+      "R12142"
+    ],
+    "pathways": {
+      "map00901": "Indole alkaloid biosynthesis",
+      "map01063": "Biosynthesis of alkaloids derived from shikimate pathway",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "2.7.1.222"
+    ],
+    "dblinks": {
+      "CAS": [
+        "520-53-6"
+      ],
+      "PubChem": [
+        "10510"
+      ],
+      "ChEBI": [
+        "8613"
+      ],
+      "ChEMBL": [
+        "CHEMBL65547"
+      ],
+      "KNApSAcK": [
+        "C00001427"
+      ],
+      "NIKKAJI": [
+        "J12.982H"
+      ]
+    },
+    "kcf": "ATOM        15\n            1   C8x C    15.3397  -17.1603\n            2   C8x C    15.3397  -18.5612\n            3   C8x C    16.5305  -19.2616\n            4   C8y C    17.7212  -18.5612\n            5   C8y C    17.7212  -17.1603\n            6   C8y C    16.5305  -16.4599\n            7   N4x N    19.0521  -18.9815\n            8   C8x C    19.8926  -17.8608\n            9   C8y C    19.0521  -16.7401\n            10  C1b C    19.5424  -15.3391\n            11  C1b C    20.8732  -15.0590\n            12  N1c N    21.8539  -16.1096\n            13  O1a O    16.5305  -15.0590\n            14  C1a C    23.2116  -15.7956\n            15  C1a C    21.4466  -17.4436\nBOND        16\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    9  10 1\n            12   10  11 1\n            13   11  12 1\n            14    6  13 1\n            15   12  14 1\n            16   12  15 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

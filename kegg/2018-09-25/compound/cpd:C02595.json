@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "C02595",
+    "name": "Thien-2-ylacetate",
+    "names": [
+      "Thien-2-ylacetate",
+      "2-Thiopheneacetic acid",
+      "2-Thienylacetic acid"
+    ],
+    "formula": "C6H6O2S",
+    "exact_mass": 142.0089,
+    "mol_weight": 142.1756,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1918-77-0"
+      ],
+      "PubChem": [
+        "5586"
+      ],
+      "ChEBI": [
+        "45807"
+      ],
+      "PDB-CCD": [
+        "SPA"
+      ],
+      "NIKKAJI": [
+        "J86.569I"
+      ]
+    },
+    "kcf": "ATOM        9\n            1   C8x C    21.1240  -16.0407\n            2   C8x C    21.5633  -17.3700\n            3   C8x C    22.9633  -17.3630\n            4   C8y C    23.3892  -16.0293\n            5   S2x S    22.2525  -15.2122\n            6   C1b C    24.5924  -15.3300\n            7   C6a C    25.8049  -16.0300\n            8   O6a O    27.0173  -15.3300\n            9   O6a O    25.8049  -17.4298\nBOND        9\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     1   5 1\n            6     4   6 1\n            7     6   7 1\n            8     7   8 1\n            9     7   9 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

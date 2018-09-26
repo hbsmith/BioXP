@@ -1,0 +1,38 @@
+[
+  {
+    "entry_id": "C21323",
+    "name": "3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoate",
+    "names": [
+      "3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoate",
+      "3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoic acid"
+    ],
+    "formula": "C16H18O6",
+    "exact_mass": 306.1103,
+    "mol_weight": 306.3105,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11389",
+      "R11390"
+    ],
+    "pathways": {
+      "map01059": "Biosynthesis of enediyne antibiotics",
+      "map01130": "Biosynthesis of antibiotics"
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "PubChem": [
+        "319902570"
+      ]
+    },
+    "kcf": "ATOM        22\n            1   C8y C    16.2162  -14.3887\n            2   C8y C    16.2162  -15.7932\n            3   C8y C    17.4324  -16.4955\n            4   C8y C    18.6487  -15.7932\n            5   C8y C    18.6487  -14.3887\n            6   C8x C    17.4324  -13.6865\n            7   C8x C    19.8650  -16.4955\n            8   C8y C    21.0812  -15.7932\n            9   C8y C    21.0812  -14.3887\n            10  C8x C    19.8650  -13.6865\n            11  O1a O    22.2827  -13.6950\n            12  C6a C    22.2827  -16.4869\n            13  O6a O    23.4748  -15.7987\n            14  O6a O    22.2828  -17.8995\n            15  O2a O    14.9999  -13.6865\n            16  O2a O    14.9916  -16.5007\n            17  C1c C    13.7933  -14.3831\n            18  C1a C    14.9921  -17.8757\n            19  O2a O    17.4327  -17.8755\n            20  C1a C    18.6627  -18.5855\n            21  C1a C    12.5641  -13.6738\n            22  C1a C    13.7934  -15.7500\nBOND        23\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 2\n            9     8   9 1\n            10    9  10 2\n            11    5  10 1\n            12    9  11 1\n            13    8  12 1\n            14   12  13 1\n            15   12  14 2\n            16    1  15 1\n            17    2  16 1\n            18   15  17 1\n            19   16  18 1\n            20    3  19 1\n            21   19  20 1\n            22   17  21 1\n            23   17  22 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

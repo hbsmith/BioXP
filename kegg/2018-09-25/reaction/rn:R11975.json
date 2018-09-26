@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R11975",
+    "name": "beta-amyrin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (maniladiol forming)",
+    "definition": "beta-Amyrin + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Maniladiol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C08616 + C03024 + C00007 <=> C21820 + C03161 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.63"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "entry_id": "C20904",
+    "name": "2-Iminopropanoate",
+    "names": [
+      "2-Iminopropanoate"
+    ],
+    "formula": "C3H5NO2",
+    "exact_mass": 87.032,
+    "mol_weight": 87.0773,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11099",
+      "R11100"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.5.99.10",
+      "4.3.1.17"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741367"
+      ],
+      "PDB-CCD": [
+        "NAK"
+      ]
+    },
+    "kcf": "ATOM        6\n            1   O6a O    16.8002  -16.5207\n            2   C6a C    18.0126  -15.8206\n            3   C2c C    19.2252  -16.5207\n            4   C1a C    20.4377  -15.8206\n            5   O6a O    18.0126  -14.4208\n            6   N2a N    19.2252  -17.9206\nBOND        5\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     2   5 2\n            5     3   6 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

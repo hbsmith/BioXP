@@ -1,0 +1,40 @@
+[
+  {
+    "entry_id": "C20950",
+    "name": "LysW-L-glutamate 5-semialdehyde",
+    "names": [
+      "LysW-L-glutamate 5-semialdehyde"
+    ],
+    "formula": "C10H15N2O6R",
+    "exact_mass": 0.0,
+    "mol_weight": 0.0,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R10931",
+      "R10932"
+    ],
+    "pathways": {
+      "map00220": "Arginine biosynthesis",
+      "map01100": "Metabolic pathways",
+      "map01210": "2-Oxocarboxylic acid metabolism",
+      "map01230": "Biosynthesis of amino acids"
+    },
+    "enzymes": [
+      "1.2.1.-",
+      "2.6.1.-"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "254741412"
+      ]
+    },
+    "kcf": "ATOM        19\n            1   O6a O    14.9101  -13.3705\n            2   C6a C    16.1225  -12.6705\n            3   C1c C    17.3350  -13.3705\n            4   C1b C    18.5476  -12.6705\n            5   C1b C    19.7600  -13.3705\n            6   C4a C    20.9725  -12.6705\n            7   O4a O    22.1849  -13.3705\n            8   O6a O    16.1225  -11.2705\n            9   N1b N    17.3350  -14.7702\n            10  C5a C    16.1225  -15.4703\n            11  C1b C    16.1225  -16.8702\n            12  O5a O    14.8935  -14.7604\n            13  C1b C    14.9101  -17.5702\n            14  C1c C    14.9101  -18.9703\n            15  C6a C    16.1225  -19.6703\n            16  N1b N    13.6977  -19.6703\n            17  O6a O    16.1225  -21.0703\n            18  O6a O    17.3179  -18.9799\n            19  R   R    12.2977  -19.6703\nBOND        18\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     5   6 1\n            6     6   7 2\n            7     2   8 2\n            8     3   9 1 #Down\n            9     9  10 1\n            10   10  11 1\n            11   10  12 2\n            12   11  13 1\n            13   14  13 1 #Up\n            14   14  15 1\n            15   14  16 1\n            16   15  17 2\n            17   15  18 1\n            18   16  19 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

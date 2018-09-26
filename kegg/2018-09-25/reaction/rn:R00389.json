@@ -1,0 +1,18 @@
+[
+  {
+    "entry_id": "R00389",
+    "name": "carboxylic acid:CoA ligase (AMP-forming)",
+    "definition": "ATP + Carboxylate + CoA <=> AMP + Diphosphate + Acyl-CoA",
+    "equation": "C00002 + C00060 + C00010 <=> C00020 + C00013 + C00040",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "6.2.1.2"
+    ],
+    "pathways": {
+    },
+    "orthologs": {
+    }
+  }
+]

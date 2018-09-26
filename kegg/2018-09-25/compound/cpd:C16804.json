@@ -1,0 +1,43 @@
+[
+  {
+    "entry_id": "C16804",
+    "name": "Penicillic acid",
+    "names": [
+      "Penicillic acid"
+    ],
+    "formula": "C8H10O4",
+    "exact_mass": 170.0579,
+    "mol_weight": 170.1626,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "17397-87-4"
+      ],
+      "PubChem": [
+        "96023328"
+      ],
+      "ChEMBL": [
+        "CHEMBL495778"
+      ],
+      "NIKKAJI": [
+        "J3.919E"
+      ]
+    },
+    "kcf": "ATOM        12\n            1   C1z C    20.1041  -17.7145\n            2   C2y C    20.5078  -19.0851\n            3   C2x C    21.9077  -19.1107\n            4   C7x C    22.3693  -17.7558\n            5   O7x O    21.2546  -16.8929\n            6   O6a O    23.7311  -17.3462\n            7   O2a O    19.6477  -20.2129\n            8   C1a C    18.2833  -20.0377\n            9   C2c C    18.7666  -17.2532\n            10  O1a O    19.0867  -18.9665\n            11  C1a C    17.7222  -18.1596\n            12  C2a C    18.4940  -15.8455\nBOND        12\n            1     1   2 1\n            2     2   3 2\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     4   6 2\n            7     2   7 1\n            8     7   8 1\n            9     1   9 1\n            10    1  10 1\n            11    9  11 1\n            12    9  12 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

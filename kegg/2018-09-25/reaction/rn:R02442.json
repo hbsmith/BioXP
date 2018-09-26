@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "R02442",
+    "name": "naringenin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (3'-hydroxylating)",
+    "definition": "Naringenin + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Eriodictyol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C00509 + C03024 + C00007 <=> C05631 + C03161 + C00001",
+    "comment": "flavonoid 3'-hydroxylase flavonoid 3'-monooxygenase first step of two-step reaction (see R02443, R02442+R04902)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.81",
+      "1.14.14.82"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K05280": "flavonoid 3'-monooxygenase [EC:1.14.14.82]",
+      "K13083": "flavonoid 3',5'-hydroxylase [EC:1.14.14.81]"
+    }
+  }
+][
+  {
+    "entry_id": "R02442",
+    "name": "naringenin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (3'-hydroxylating)",
+    "definition": "Naringenin + [Reduced NADPH---hemoprotein reductase] + Oxygen <=> Eriodictyol + [Oxidized NADPH---hemoprotein reductase] + H2O",
+    "equation": "C00509 + C03024 + C00007 <=> C05631 + C03161 + C00001",
+    "comment": "flavonoid 3'-hydroxylase flavonoid 3'-monooxygenase first step of two-step reaction (see R02443, R02442+R04902)",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.14.81",
+      "1.14.14.82"
+    ],
+    "pathways": {
+      "rn00941": "Flavonoid biosynthesis",
+      "rn01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+      "K05280": "flavonoid 3'-monooxygenase [EC:1.14.14.82]",
+      "K13083": "flavonoid 3',5'-hydroxylase [EC:1.14.14.81]"
+    }
+  }
+]

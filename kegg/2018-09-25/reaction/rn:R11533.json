@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R11533",
+    "name": "S-adenosyl-L-methionine:phenazine-1-carboxylate 5-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Phenazine-1-carboxylate + H+ <=> S-Adenosyl-L-homocysteine + 5-Methylphenazine-1-carboxylate",
+    "equation": "C00019 + C21442 + C00080 <=> C00021 + C21295",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.327"
+    ],
+    "pathways": {
+      "rn00405": "Phenazine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21103": "phenazine-1-carboxylate N-methyltransferase [EC:2.1.1.327]"
+    }
+  }
+][
+  {
+    "entry_id": "R11533",
+    "name": "S-adenosyl-L-methionine:phenazine-1-carboxylate 5-methyltransferase",
+    "definition": "S-Adenosyl-L-methionine + Phenazine-1-carboxylate + H+ <=> S-Adenosyl-L-homocysteine + 5-Methylphenazine-1-carboxylate",
+    "equation": "C00019 + C21442 + C00080 <=> C00021 + C21295",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.1.1.327"
+    ],
+    "pathways": {
+      "rn00405": "Phenazine biosynthesis",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K21103": "phenazine-1-carboxylate N-methyltransferase [EC:2.1.1.327]"
+    }
+  }
+]

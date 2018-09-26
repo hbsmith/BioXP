@@ -1,0 +1,73 @@
+[
+  {
+    "entry_id": "C21514",
+    "name": "D-Proline betaine",
+    "names": [
+      "D-Proline betaine"
+    ],
+    "formula": "C7H13NO2",
+    "exact_mass": 143.0946,
+    "mol_weight": 143.1836,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11631"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "5.1.1.22"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "336445152"
+      ],
+      "ChEMBL": [
+        "CHEMBL3559614"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1x C    16.3725  -16.6420\n            2   C1x C    16.7750  -17.9769\n            3   C1x C    18.1690  -18.0063\n            4   C1y C    18.6279  -16.6898\n            5   N2y N    17.5175  -15.8467 #+\n            6   C6a C    19.8190  -15.9712\n            7   O6a O    21.0264  -16.6682 #-\n            8   O6a O    19.8055  -14.5770\n            9   C1a C    17.4786  -14.4283\n            10  C1a C    16.2570  -15.1703\nBOND        10\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     4   6 1 #Up\n            7     6   7 1\n            8     6   8 2\n            9     5   9 1\n            10    5  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C21514",
+    "name": "D-Proline betaine",
+    "names": [
+      "D-Proline betaine"
+    ],
+    "formula": "C7H13NO2",
+    "exact_mass": 143.0946,
+    "mol_weight": 143.1836,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11631"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "5.1.1.22"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "336445152"
+      ],
+      "ChEMBL": [
+        "CHEMBL3559614"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1x C    16.3725  -16.6420\n            2   C1x C    16.7750  -17.9769\n            3   C1x C    18.1690  -18.0063\n            4   C1y C    18.6279  -16.6898\n            5   N2y N    17.5175  -15.8467 #+\n            6   C6a C    19.8190  -15.9712\n            7   O6a O    21.0264  -16.6682 #-\n            8   O6a O    19.8055  -14.5770\n            9   C1a C    17.4786  -14.4283\n            10  C1a C    16.2570  -15.1703\nBOND        10\n            1     1   2 1\n            2     2   3 1\n            3     3   4 1\n            4     4   5 1\n            5     1   5 1\n            6     4   6 1 #Up\n            7     6   7 1\n            8     6   8 2\n            9     5   9 1\n            10    5  10 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

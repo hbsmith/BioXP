@@ -1,0 +1,41 @@
+[
+  {
+    "entry_id": "R01430",
+    "name": "D-xylose:NADP+ 1-oxidoreductase",
+    "definition": "D-Xylose + NADP+ <=> D-Xylonolactone + NADPH + H+",
+    "equation": "C00181 + C00006 <=> C02266 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.179"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions"
+    },
+    "orthologs": {
+      "K00078": "dihydrodiol dehydrogenase / D-xylose 1-dehydrogenase (NADP) [EC:1.3.1.20 1.1.1.179]",
+      "K14273": "D-xylose 1-dehydrogenase (NADP+) [EC:1.1.1.179]"
+    }
+  }
+][
+  {
+    "entry_id": "R01430",
+    "name": "D-xylose:NADP+ 1-oxidoreductase",
+    "definition": "D-Xylose + NADP+ <=> D-Xylonolactone + NADPH + H+",
+    "equation": "C00181 + C00006 <=> C02266 + C00005 + C00080",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.1.1.179"
+    ],
+    "pathways": {
+      "rn00040": "Pentose and glucuronate interconversions"
+    },
+    "orthologs": {
+      "K00078": "dihydrodiol dehydrogenase / D-xylose 1-dehydrogenase (NADP) [EC:1.3.1.20 1.1.1.179]",
+      "K14273": "D-xylose 1-dehydrogenase (NADP+) [EC:1.1.1.179]"
+    }
+  }
+]

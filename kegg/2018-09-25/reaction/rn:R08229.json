@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "R08229",
+    "name": "5-fluorouridine:phosphate alpha-D-ribosyltransferase",
+    "definition": "5-FU + alpha-D-Ribose 1-phosphate <=> 5-Fluorouridine + Orthophosphate",
+    "equation": "C07649 + C00620 <=> C16633 + C00009",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "2.4.2.3"
+    ],
+    "pathways": {
+      "rn00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+      "K00757": "uridine phosphorylase [EC:2.4.2.3]"
+    }
+  }
+]

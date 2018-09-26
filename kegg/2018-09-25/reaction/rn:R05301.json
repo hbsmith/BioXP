@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R05301",
+    "name": "penicillin-N,2-oxoglutarate:oxygen oxidoreductase (ring-expanding)",
+    "definition": "Penicillin N + 2-Oxoglutarate + Oxygen <=> Deacetoxycephalosporin C + Succinate + CO2 + H2O",
+    "equation": "C06564 + C00026 + C00007 <=> C06565 + C00042 + C00011 + C00001",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "1.14.20.1"
+    ],
+    "pathways": {
+      "rn00311": "Penicillin and cephalosporin biosynthesis",
+      "rn01100": "Metabolic pathways",
+      "rn01130": "Biosynthesis of antibiotics"
+    },
+    "orthologs": {
+      "K12744": "deacetoxycephalosporin-C synthase [EC:1.14.20.1]"
+    }
+  }
+]

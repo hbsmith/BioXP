@@ -1,0 +1,54 @@
+[
+  {
+    "entry_id": "C01087",
+    "name": "(R)-2-Hydroxyglutarate",
+    "names": [
+      "(R)-2-Hydroxyglutarate",
+      "(R)-Hydroxyglutarate"
+    ],
+    "formula": "C5H8O5",
+    "exact_mass": 148.0372,
+    "mol_weight": 148.114,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R03225",
+      "R10575",
+      "R11337",
+      "R11593"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "1.1.1.399",
+      "1.1.99.24",
+      "1.1.99.39",
+      "1.1.99.40"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "4322"
+      ],
+      "ChEBI": [
+        "15801",
+        "32796"
+      ],
+      "ChEMBL": [
+        "CHEMBL1614745"
+      ],
+      "PDB-CCD": [
+        "2HG"
+      ],
+      "NIKKAJI": [
+        "J1.280.876C"
+      ]
+    },
+    "kcf": "ATOM        10\n            1   C1c C    30.0787  -16.6147\n            2   C1b C    28.8772  -17.3078\n            3   C6a C    31.2738  -17.3078\n            4   O1a O    30.0787  -15.1598\n            5   C1b C    27.6820  -16.6147\n            6   O6a O    31.2674  -18.7565\n            7   O6a O    32.3999  -16.6085\n            8   C6a C    26.4805  -17.3078\n            9   O6a O    25.2853  -16.6085\n            10  O6a O    26.4867  -18.7565\nBOND        9\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1 #Up\n            4     2   5 1\n            5     3   6 2\n            6     3   7 1\n            7     5   8 1\n            8     8   9 1\n            9     8  10 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

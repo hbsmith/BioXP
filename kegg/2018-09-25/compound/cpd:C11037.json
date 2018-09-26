@@ -1,0 +1,49 @@
+[
+  {
+    "entry_id": "C11037",
+    "name": "Chlorothalonil",
+    "names": [
+      "Chlorothalonil",
+      "Tetrachloroisophthalonitrile",
+      "Daconil",
+      "TPN"
+    ],
+    "formula": "C8Cl4N2",
+    "exact_mass": 263.8816,
+    "mol_weight": 265.911,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+
+    ],
+    "dblinks": {
+      "CAS": [
+        "1897-45-6"
+      ],
+      "PubChem": [
+        "13220"
+      ],
+      "ChEBI": [
+        "3639"
+      ],
+      "ChEMBL": [
+        "CHEMBL468167"
+      ],
+      "NIKKAJI": [
+        "J2.133D"
+      ]
+    },
+    "kcf": "ATOM        14\n            1   C8y C    27.7570  -17.2844\n            2   C8y C    26.5463  -17.9802\n            3   C8y C    26.5448  -19.3844\n            4   C8y C    27.7570  -20.0830\n            5   C8y C    28.9677  -19.3802\n            6   C8y C    28.9663  -17.9857\n            7   X   Cl   30.1851  -17.2914\n            8   C3b C    30.1822  -20.0869\n            9   X   Cl   27.7551  -21.4848\n            10  X   Cl   25.3349  -20.0889\n            11  X   Cl   25.3315  -17.2856\n            12  C3b C    27.8243  -15.8862\n            13  N3a N    31.3958  -20.7830\n            14  N3a N    27.7578  -14.4845\nBOND        14\n            1     6   7 1\n            2     1   2 2\n            3     5   8 1\n            4     2   3 1\n            5     4   9 1\n            6     3   4 2\n            7     3  10 1\n            8     4   5 1\n            9     2  11 1\n            10    5   6 2\n            11    1  12 1\n            12    6   1 1\n            13    8  13 3\n            14   12  14 3\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

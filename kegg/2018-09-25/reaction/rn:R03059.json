@@ -1,0 +1,21 @@
+[
+  {
+    "entry_id": "R03059",
+    "name": "(7E,9E,11Z,14Z)-(5S,6S)-5,6-Epoxyicosa-7,9,11,14-tetraenoate:glutathione leukotriene-transferase (epoxide-ring-opening)",
+    "definition": "Leukotriene A4 + Glutathione <=> Leukotriene C4",
+    "equation": "C00909 + C00051 <=> C02166",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "4.4.1.20"
+    ],
+    "pathways": {
+      "rn00590": "Arachidonic acid metabolism",
+      "rn01100": "Metabolic pathways"
+    },
+    "orthologs": {
+      "K00807": "leukotriene-C4 synthase [EC:4.4.1.20]"
+    }
+  }
+]

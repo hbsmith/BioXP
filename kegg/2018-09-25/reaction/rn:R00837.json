@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R00837",
+    "name": "alpha,alpha-Trehalose-6-phosphate phosphoglucohydrolase",
+    "definition": "H2O + alpha,alpha'-Trehalose 6-phosphate <=> D-Glucose + D-Glucose 6-phosphate",
+    "equation": "C00001 + C00689 <=> C00031 + C00092",
+    "comment": "",
+    "rpairs": {
+    },
+    "enzymes": [
+      "3.2.1.93",
+      "3.2.1.122"
+    ],
+    "pathways": {
+      "rn00500": "Starch and sucrose metabolism"
+    },
+    "orthologs": {
+      "K01226": "trehalose-6-phosphate hydrolase [EC:3.2.1.93]",
+      "K01232": "maltose-6'-phosphate glucosidase [EC:3.2.1.122]"
+    }
+  }
+]

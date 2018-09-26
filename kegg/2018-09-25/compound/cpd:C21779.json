@@ -1,0 +1,81 @@
+[
+  {
+    "entry_id": "C21779",
+    "name": "Baeocystin",
+    "names": [
+      "Baeocystin",
+      "4-Hydroxy-N-methyltryptamine 4-phosphate"
+    ],
+    "formula": "C11H15N2O4P",
+    "exact_mass": 270.0769,
+    "mol_weight": 270.2216,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11935",
+      "R11936"
+    ],
+    "pathways": {
+      "map00901": "Indole alkaloid biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "2.1.1.345"
+    ],
+    "dblinks": {
+      "CAS": [
+        "21420-58-6"
+      ],
+      "PubChem": [
+        "354339122"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C8x C    16.0357  -17.1560\n            2   C8x C    16.0357  -18.5565\n            3   C8x C    17.2262  -19.2568\n            4   C8y C    18.4166  -18.5565\n            5   C8y C    18.4166  -17.1560\n            6   C8y C    17.2262  -16.4558\n            7   N4x N    19.7471  -18.9767\n            8   C8x C    20.5874  -17.8563\n            9   C8y C    19.7471  -16.7359\n            10  C1b C    20.2373  -15.3353\n            11  C1b C    21.5678  -15.0552\n            12  N1b N    22.5482  -16.1056\n            13  O2b O    17.2262  -15.0552\n            14  P1b P    16.0133  -14.3550\n            15  O1c O    14.8004  -13.6547\n            16  O1c O    16.7136  -13.1421\n            17  O1c O    15.3131  -15.5678\n            18  C1a C    23.9056  -15.7916\nBOND        19\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    9  10 1\n            12   10  11 1\n            13   11  12 1\n            14    6  13 1\n            15   13  14 1\n            16   14  15 1\n            17   14  16 1\n            18   14  17 2\n            19   12  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+][
+  {
+    "entry_id": "C21779",
+    "name": "Baeocystin",
+    "names": [
+      "Baeocystin",
+      "4-Hydroxy-N-methyltryptamine 4-phosphate"
+    ],
+    "formula": "C11H15N2O4P",
+    "exact_mass": 270.0769,
+    "mol_weight": 270.2216,
+    "remark": "",
+    "comment": "",
+    "reactions": [
+      "R11935",
+      "R11936"
+    ],
+    "pathways": {
+      "map00901": "Indole alkaloid biosynthesis",
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "enzymes": [
+      "2.1.1.345"
+    ],
+    "dblinks": {
+      "CAS": [
+        "21420-58-6"
+      ],
+      "PubChem": [
+        "354339122"
+      ]
+    },
+    "kcf": "ATOM        18\n            1   C8x C    16.0357  -17.1560\n            2   C8x C    16.0357  -18.5565\n            3   C8x C    17.2262  -19.2568\n            4   C8y C    18.4166  -18.5565\n            5   C8y C    18.4166  -17.1560\n            6   C8y C    17.2262  -16.4558\n            7   N4x N    19.7471  -18.9767\n            8   C8x C    20.5874  -17.8563\n            9   C8y C    19.7471  -16.7359\n            10  C1b C    20.2373  -15.3353\n            11  C1b C    21.5678  -15.0552\n            12  N1b N    22.5482  -16.1056\n            13  O2b O    17.2262  -15.0552\n            14  P1b P    16.0133  -14.3550\n            15  O1c O    14.8004  -13.6547\n            16  O1c O    16.7136  -13.1421\n            17  O1c O    15.3131  -15.5678\n            18  C1a C    23.9056  -15.7916\nBOND        19\n            1     1   2 2\n            2     2   3 1\n            3     3   4 2\n            4     4   5 1\n            5     5   6 2\n            6     1   6 1\n            7     4   7 1\n            8     7   8 1\n            9     8   9 2\n            10    5   9 1\n            11    9  10 1\n            12   10  11 1\n            13   11  12 1\n            14    6  13 1\n            15   13  14 1\n            16   14  15 1\n            17   14  16 1\n            18   14  17 2\n            19   12  18 1\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "C02532",
+    "name": "O-Phospho-D-serine",
+    "names": [
+      "O-Phospho-D-serine",
+      "D-O-Phosphoserine"
+    ],
+    "formula": "C3H8NO6P",
+    "exact_mass": 185.0089,
+    "mol_weight": 185.0725,
+    "remark": "",
+    "comment": "O-phospho-L-serine [CPD:C01005]",
+    "reactions": [
+      "R02853"
+    ],
+    "pathways": {
+    },
+    "enzymes": [
+      "3.1.3.3"
+    ],
+    "dblinks": {
+      "PubChem": [
+        "5539"
+      ],
+      "ChEBI": [
+        "37713"
+      ],
+      "ChEMBL": [
+        "CHEMBL1418244"
+      ],
+      "NIKKAJI": [
+        "J257.488H"
+      ]
+    },
+    "kcf": "ATOM        11\n            1   P1b P    16.0468  -15.0035\n            2   O2b O    17.4170  -15.0035\n            3   O1c O    14.6831  -14.9971\n            4   O1c O    15.9957  -16.3701\n            5   O1c O    15.9957  -13.5829\n            6   C1b C    18.5923  -14.3246\n            7   C1c C    19.7801  -15.0035\n            8   C6a C    20.9679  -14.3246\n            9   N1a N    19.7801  -16.3798\n            10  O6a O    22.1559  -15.0097\n            11  O6a O    20.9679  -12.9671\nBOND        10\n            1     1   2 1\n            2     1   3 1\n            3     1   4 1\n            4     1   5 2\n            5     2   6 1\n            6     6   7 1\n            7     7   8 1\n            8     7   9 1 #Down\n            9     8  10 1\n            10    8  11 2\n",
+    "glycans": [
+
+    ],
+    "rpairs": [
+
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "entry_id": "R02749",
+    "name": "2-deoxy-D-ribose 1-phosphate 1,5-phosphomutase",
+    "definition": "2-Deoxy-D-ribose 1-phosphate <=> 2-Deoxy-D-ribose 5-phosphate",
+    "equation": "C00672 <=> C00673",
+    "comment": "intermediate (see [CPD:C04175])",
+    "rpairs": {
+    },
+    "enzymes": [
+      "5.4.2.7"
+    ],
+    "pathways": {
+      "rn00030": "Pentose phosphate pathway"
+    },
+    "orthologs": {
+      "K01839": "phosphopentomutase [EC:5.4.2.7]",
+      "K15779": "phosphoglucomutase / phosphopentomutase [EC:5.4.2.2 5.4.2.7]",
+      "K22199": "phosphopentomutase [EC:5.4.2.7]"
+    }
+  }
+]
