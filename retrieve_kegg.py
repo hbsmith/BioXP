@@ -283,27 +283,24 @@ def write_kegg_link_mappings_jsons(keggdir):
 
             if sourcedb != targetdb:
 
-                with open(keggdir+sourcedb+".json") as data_file:    
-                    source_dict = json.load(data_file)#[0]
+                links_raw = REST.kegg_link(targetdb, sourcedb)
+                links = [s.split('\t') for s in links_raw.read().splitlines()]
 
-        link_raw = REST.kegg_link(target_db, "map00010")
+                d = dict()
+                for i in links:
+                    if i[0] in d:
+                        d[i[0]].append(i[1])
+                    else:
+                        d[i[0]] = [i[1]]
 
-
-
-
-
-        
-        ## Retreive all entry ids and names
-        id_name_dict = dict()
-        raw_list = REST.kegg_list(kegg_type)
-        id_name_list = [s.split('\t') for s in raw_list.read().splitlines()]
-        for i in id_name_list:
-            id_name_dict[i[0]] = i[1]
-
-        ## Write json of all entry ids and names
-        outpath = keggdir+kegg_type+'.json'
-        with open(outpath, 'w') as outfile:   
-            json.dump(id_name_dict, outfile, indent=2)
+                ## Write json of all entry ids and names
+                link_fname = sourcedb+"_"+targetdb
+                outdir = keggdir+'links/' 
+                if not os.path.exists(outdir):
+                    os.makedirs(outdir)
+                outpath = outdir+link_fname+'.json'
+                with open(outpath, 'w') as outfile:   
+                    json.dump(d, outfile, indent=2)
 
 
 ###### one-off functions #######
@@ -325,8 +322,9 @@ def main():
     # write_kegg_entry_jsons(keggdir)
     # write_kegg_reaction_detail(keggdir)
     # test_parsing(keggdir)
+    write_kegg_link_mappings_jsons(keggdir)
 
-    
+
 if __name__ == '__main__':
     main()
 
