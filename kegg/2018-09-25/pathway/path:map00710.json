@@ -1,0 +1,53 @@
+[
+  {
+    "entry_id": "map00710",
+    "name": "Carbon fixation in photosynthetic organisms",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Energy metabolism"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00710": "Carbon fixation in photosynthetic organisms"
+    },
+    "orthologs": {
+    },
+    "references": [
+
+    ],
+    "modules": {
+      "M00165": "Reductive pentose phosphate cycle (Calvin cycle) [PATH:map00710]",
+      "M00166": "Reductive pentose phosphate cycle, ribulose-5P => glyceraldehyde-3P [PATH:map00710]",
+      "M00167": "Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P [PATH:map00710]",
+      "M00168": "CAM (Crassulacean acid metabolism), dark [PATH:map00710]",
+      "M00169": "CAM (Crassulacean acid metabolism), light [PATH:map00710]",
+      "M00170": "C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type [PATH:map00710]",
+      "M00171": "C4-dicarboxylic acid cycle, NAD - malic enzyme type [PATH:map00710]",
+      "M00172": "C4-dicarboxylic acid cycle, NADP - malic enzyme type [PATH:map00710]",
+      "M00173": "Reductive citrate cycle (Arnon-Buchanan cycle) [PATH:map00710]",
+      "M00374": "Dicarboxylate-hydroxybutyrate cycle [PATH:map00710]",
+      "M00375": "Hydroxypropionate-hydroxybutylate cycle [PATH:map00710]",
+      "M00376": "3-Hydroxypropionate bi-cycle [PATH:map00710]",
+      "M00377": "Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway) [PATH:map00710]",
+      "M00579": "Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate [PATH:map00710]",
+      "M00620": "Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate [PATH:map00710]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00710"
+  }
+]

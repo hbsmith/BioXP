@@ -1,0 +1,240 @@
+[
+  {
+    "entry_id": "map00902",
+    "name": "Monoterpenoid biosynthesis",
+    "description": "Monoterpenoids (C10 terpenoids) are a group of terpenoids consisting of two isoprene units. They are derived from geranyl diphosphate (GPP). Most monoterpenoids are volatile oils with highly distinctive aromas and flavors, such as essential oils, turpentine, and oleoresins of coniferous plants. This map shows some examples. The monoterpene ketone l-menthone is specifically converted to l-menthol and d-neomenthol in mature peppermint leaves. The iridoids constitute a family of highly oxygenated monoterpenes, mixtures of which are present in many medicinal plants, such as valerian. They are derived from geraniol or nerol via oxidation of a terminal methyl group. The cyclopentane ring of loganin can itself be cleaved in a further P450-dependent step, leading to secologanin, which provides the carbon skeleton for many powerfully bioactive secondary metabolites of indole alkaloids.",
+    "classes": [
+      "Metabolism",
+      "Metabolism of terpenoids and polyketides"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0016099"
+      ]
+    },
+    "pathways": {
+      "map00902": "Monoterpenoid biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Davis EM",
+          "Ringer KL",
+          "McConkey ME",
+          "Croteau R"
+        ],
+        "title": "Monoterpene metabolism. Cloning, expression, and characterization of menthone reductases from peppermint.",
+        "journal": "Plant Physiol 137:873-81 (2005) DOI:10.1104/pp.104.053306",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15728344",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Duetz WA",
+          "Fjallman AH",
+          "Ren S",
+          "Jourdat C",
+          "Witholt B"
+        ],
+        "title": "Biotransformation of D-limonene to (+) trans-carveol by toluene-grown Rhodococcus opacus PWD4 cells.",
+        "journal": "Appl Environ Microbiol 67:2829-32 (2001) DOI:10.1128/AEM.67.6.2829-2832.2001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11375201",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chen F",
+          "Ro DK",
+          "Petri J",
+          "Gershenzon J",
+          "Bohlmann J",
+          "Pichersky E",
+          "Tholl D"
+        ],
+        "title": "Characterization of a root-specific Arabidopsis terpene synthase responsible for the formation of the volatile monoterpene 1,8-cineole.",
+        "journal": "Plant Physiol 135:1956-66 (2004) DOI:10.1104/pp.104.044388",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15299125",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Trudgill PW"
+        ],
+        "title": "Microbial metabolism of monoterpenes--recent developments.",
+        "journal": "Biodegradation 1:93-105 (1990) DOI:10.1007/BF00058829",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "1368150",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ikeda H",
+          "Esaki N",
+          "Nakai S",
+          "Hashimoto K",
+          "Uesato S",
+          "Soda K",
+          "Fujita T"
+        ],
+        "title": "Acyclic monoterpene primary alcohol:NADP+ oxidoreductase of Rauwolfia serpentina cells: the key enzyme in biosynthesis of monoterpene alcohols.",
+        "journal": "J Biochem",
+        "volume": "109",
+        "issue": "",
+        "pages": "341-7",
+        "year": "1991",
+        "pubmed": "1864846",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yamamoto H",
+          "Katano N",
+          "Ooi A",
+          "Inoue K."
+        ],
+        "title": "Secologanin synthase which catalyzes the oxidative cleavage of loganin into secologanin is a cytochrome P450.",
+        "journal": "Phytochemistry 53:7-12 (2000) DOI:10.1016/S0031-9422(99)00471-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10656401",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Katano N",
+          "Yamamoto H",
+          "Iio R",
+          "Inoue K."
+        ],
+        "title": "7-Deoxyloganin 7-hydroxylase in Lonicera japonica cell cultures.",
+        "journal": "Phytochemistry 58:53-8 (2001) DOI:10.1016/S0031-9422(01)00181-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11524113",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00902"
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "entry_id": "map00460",
+    "name": "Cyanoamino acid metabolism",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Metabolism of other amino acids"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0033052",
+        "0019756"
+      ]
+    },
+    "pathways": {
+      "map00460": "Cyanoamino acid metabolism"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Maruyama A",
+          "Saito K",
+          "Ishizawa K"
+        ],
+        "title": "Beta-cyanoalanine synthase and cysteine synthase from potato: molecular cloning, biochemical characterization, and spatial and hormonal regulation.",
+        "journal": "Plant Mol Biol 46:749-60 (2001) DOI:10.1023/A:1011629703784",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11575729",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Andersen MD",
+          "Busk PK",
+          "Svendsen I",
+          "Moller BL"
+        ],
+        "title": "Cytochromes P-450 from cassava (Manihot esculenta Crantz) catalyzing the first steps in the biosynthesis of the cyanogenic glucosides linamarin and lotaustralin. Cloning, functional expression in Pichia pastoris, and substrate specificity of the isolated recombinant enzymes.",
+        "journal": "J Biol Chem 275:1966-75 (2000) DOI:10.1074/jbc.275.3.1966",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10636899",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hickel A",
+          "Hasslacher M",
+          "Griengl H."
+        ],
+        "title": "Hydroxynitrile lyases: Functions and properties",
+        "journal": "Physiologia Plantarum 98(4):891-898 (2006) DOI:10.1111/j.1399-3054.1996.tb06700.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00369": "Cyanogenic glycoside biosynthesis, tyrosine => dhurrin [PATH:map00460]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00460"
+  }
+]

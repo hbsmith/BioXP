@@ -1,0 +1,699 @@
+[
+  {
+    "entry_id": "map05132",
+    "name": "Salmonella infection",
+    "description": "Salmonella infection usually presents as a self-limiting gastroenteritis or the more severe typhoid fever and bacteremia. The common disease-causing Salmonella species in human is a single species, Salmonella enterica, which has numerous serovars. Following intestinal colonization Salmonella inject effector proteins into the host cells using a type III secretion system (T3SS), T3SS1. Then a small group of effector proteins induce rearrangement of the actin cytoskeleton resulting in membrane ruffles and rapid internalization of the bacteria.The T3SS2 is responsible for translocating effector proteins that direct Salmonella-containing vacuole (SCV) maturation. The majority of the bacteria are known to survive and replicate in SCV.",
+    "classes": [
+      "Human Diseases",
+      "Infectious diseases: Bacterial"
+    ],
+    "diseases": {
+      "H00111": "Typhoid fever"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05132": "Salmonella infection"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Trebichavsky I",
+          "Splichal I",
+          "Splichalova A"
+        ],
+        "title": "Innate immune response in the gut against Salmonella - review.",
+        "journal": "Folia Microbiol (Praha) 55:295-300 (2010) DOI:10.1007/s12223-010-0044-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20526845",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Talbot S",
+          "Totemeyer S",
+          "Yamamoto M",
+          "Akira S",
+          "Hughes K",
+          "Gray D",
+          "Barr T",
+          "Mastroeni P",
+          "Maskell DJ",
+          "Bryant CE"
+        ],
+        "title": "Toll-like receptor 4 signalling through MyD88 is essential to control Salmonella enterica serovar typhimurium infection, but not for the initiation of bacterial clearance.",
+        "journal": "Immunology 128:472-83 (2009) DOI:10.1111/j.1365-2567.2009.03146.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19930040",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ibarra JA",
+          "Steele-Mortimer O"
+        ],
+        "title": "Salmonella--the ultimate insider. Salmonella virulence factors that modulate intracellular survival.",
+        "journal": "Cell Microbiol 11:1579-86 (2009) DOI:10.1111/j.1462-5822.2009.01368.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19775254",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gewirtz AT",
+          "Navas TA",
+          "Lyons S",
+          "Godowski PJ",
+          "Madara JL"
+        ],
+        "title": "Cutting edge: bacterial flagellin activates basolaterally expressed TLR5 to induce epithelial proinflammatory gene expression.",
+        "journal": "J Immunol 167:1882-5 (2001) DOI:10.4049/jimmunol.167.4.1882",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11489966",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vijay-Kumar M",
+          "Wu H",
+          "Jones R",
+          "Grant G",
+          "Babbin B",
+          "King TP",
+          "Kelly D",
+          "Gewirtz AT",
+          "Neish AS"
+        ],
+        "title": "Flagellin suppresses epithelial apoptosis and limits disease during enteric infection.",
+        "journal": "Am J Pathol 169:1686-700 (2006) DOI:10.2353/ajpath.2006.060345",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17071592",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Miao EA",
+          "Andersen-Nissen E",
+          "Warren SE",
+          "Aderem A"
+        ],
+        "title": "TLR5 and Ipaf: dual sensors of bacterial flagellin in the innate immune system.",
+        "journal": "Semin Immunopathol 29:275-88 (2007) DOI:10.1007/s00281-007-0078-z",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17690885",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bueno SM",
+          "Riedel CA",
+          "Carreno LJ",
+          "Kalergis AM"
+        ],
+        "title": "Virulence mechanisms displayed by Salmonella to impair dendritic cell function.",
+        "journal": "Curr Med Chem 17:1156-66 (2010) DOI:10.2174/092986710790827825",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20158475",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Haraga A",
+          "Ohlson MB",
+          "Miller SI"
+        ],
+        "title": "Salmonellae interplay with host cells.",
+        "journal": "Nat Rev Microbiol 6:53-66 (2008) DOI:10.1038/nrmicro1788",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18026123",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kimbrough TG",
+          "Miller SI"
+        ],
+        "title": "Assembly of the type III secretion needle complex of Salmonella typhimurium.",
+        "journal": "Microbes Infect 4:75-82 (2002) DOI:10.1016/S1286-4579(01)01512-X",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11825778",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Patel JC",
+          "Galan JE"
+        ],
+        "title": "Differential activation and function of Rho GTPases during Salmonella-host cell interactions.",
+        "journal": "J Cell Biol 175:453-63 (2006) DOI:10.1083/jcb.200605144",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17074883",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bulgin R",
+          "Raymond B",
+          "Garnett JA",
+          "Frankel G",
+          "Crepin VF",
+          "Berger CN",
+          "Arbeloa A"
+        ],
+        "title": "Bacterial guanine nucleotide exchange factors SopE-like and WxxxE effectors.",
+        "journal": "Infect Immun 78:1417-25 (2010) DOI:10.1128/IAI.01250-09",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20123714",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bakowski MA",
+          "Braun V",
+          "Brumell JH"
+        ],
+        "title": "Salmonella-containing vacuoles: directing traffic and nesting to grow.",
+        "journal": "Traffic 9:2022-31 (2008) DOI:10.1111/j.1600-0854.2008.00827.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18778407",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wasylnka JA",
+          "Bakowski MA",
+          "Szeto J",
+          "Ohlson MB",
+          "Trimble WS",
+          "Miller SI",
+          "Brumell JH"
+        ],
+        "title": "Role for myosin II in regulating positioning of Salmonella-containing vacuoles and intracellular replication.",
+        "journal": "Infect Immun 76:2722-35 (2008) DOI:10.1128/IAI.00152-08",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18411289",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nikolaus T",
+          "Deiwick J",
+          "Rappl C",
+          "Freeman JA",
+          "Schroder W",
+          "Miller SI",
+          "Hensel M"
+        ],
+        "title": "SseBCD proteins are secreted by the type III secretion system of Salmonella pathogenicity island 2 and function as a translocon.",
+        "journal": "J Bacteriol 183:6036-45 (2001) DOI:10.1128/JB.183.20.6036-6045.2001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11567004",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Eckmann L",
+          "Kagnoff MF"
+        ],
+        "title": "Cytokines in host defense against Salmonella.",
+        "journal": "Microbes Infect 3:1191-200 (2001) DOI:10.1016/S1286-4579(01)01479-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11755407",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fu Y",
+          "Galan JE"
+        ],
+        "title": "A salmonella protein antagonizes Rac-1 and Cdc42 to mediate host-cell recovery after bacterial invasion.",
+        "journal": "Nature 401:293-7 (1999) DOI:10.1038/45829",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10499590",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Du F",
+          "Galan JE"
+        ],
+        "title": "Selective inhibition of type III secretion activated signaling by the Salmonella effector AvrA.",
+        "journal": "PLoS Pathog 5:e1000595 (2009) DOI:10.1371/journal.ppat.1000595",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19779561",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jones RM",
+          "Wu H",
+          "Wentworth C",
+          "Luo L",
+          "Collier-Hyams L",
+          "Neish AS"
+        ],
+        "title": "Salmonella AvrA Coordinates Suppression of Host Immune and Apoptotic Defenses via JNK Pathway Blockade.",
+        "journal": "Cell Host Microbe 3:233-44 (2008) DOI:10.1016/j.chom.2008.02.016",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18407067",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Haraga A",
+          "Miller SI"
+        ],
+        "title": "A Salmonella type III secretion effector interacts with the mammalian serine/threonine protein kinase PKN1.",
+        "journal": "Cell Microbiol 8:837-46 (2006) DOI:10.1111/j.1462-5822.2005.00670.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16611232",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Abrahams GL",
+          "Muller P",
+          "Hensel M"
+        ],
+        "title": "Functional dissection of SseF, a type III effector protein involved in positioning the salmonella-containing vacuole.",
+        "journal": "Traffic 7:950-65 (2006) DOI:10.1111/j.1600-0854.2006.00454.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16800847",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Henry T",
+          "Couillault C",
+          "Rockenfeller P",
+          "Boucrot E",
+          "Dumont A",
+          "Schroeder N",
+          "Hermant A",
+          "Knodler LA",
+          "Lecine P",
+          "Steele-Mortimer O",
+          "Borg JP",
+          "Gorvel JP",
+          "Meresse S"
+        ],
+        "title": "The Salmonella effector protein PipB2 is a linker for kinesin-1.",
+        "journal": "Proc Natl Acad Sci U S A 103:13497-502 (2006) DOI:10.1073/pnas.0605443103",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16938850",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Miao EA",
+          "Brittnacher M",
+          "Haraga A",
+          "Jeng RL",
+          "Welch MD",
+          "Miller SI"
+        ],
+        "title": "Salmonella effectors translocated across the vacuolar membrane interact with the actin cytoskeleton.",
+        "journal": "Mol Microbiol 48:401-15 (2003) DOI:10.1046/j.1365-2958.2003.t01-1-03456.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12675800",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Prior K",
+          "Hautefort I",
+          "Hinton JC",
+          "Richardson DJ",
+          "Rowley G"
+        ],
+        "title": "All stressed out. Salmonella pathogenesis and reactive nitrogen species.",
+        "journal": "Adv Microb Physiol 56:1-28 (2009) DOI:10.1016/S0065-2911(09)05601-X",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20943123",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05132"
+  }
+]

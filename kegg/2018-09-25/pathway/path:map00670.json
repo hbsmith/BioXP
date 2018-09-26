@@ -1,0 +1,47 @@
+[
+  {
+    "entry_id": "map00670",
+    "name": "One carbon pool by folate",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Metabolism of cofactors and vitamins"
+    ],
+    "diseases": {
+      "H00183": "Homocystinuria",
+      "H00262": "Spina bifida",
+      "H00966": "AICA-ribosiduria",
+      "H01197": "Dihydrofolate reductase deficiency",
+      "H01262": "Formiminotransferase deficiency",
+      "H01285": "Methylcobalamin deficiency type G"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00670": "One carbon pool by folate"
+    },
+    "orthologs": {
+    },
+    "references": [
+
+    ],
+    "modules": {
+      "M00126": "Tetrahydrofolate biosynthesis, GTP => THF [PATH:map00670]",
+      "M00140": "C1-unit interconversion, prokaryotes [PATH:map00670]",
+      "M00141": "C1-unit interconversion, eukaryotes [PATH:map00670]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00670"
+  }
+]

@@ -1,0 +1,558 @@
+[
+  {
+    "entry_id": "map05206",
+    "name": "MicroRNAs in cancer",
+    "description": "MicroRNA (miRNA) is a cluster of small non-encoding RNA molecules of 21 - 23 nucleotides in length, which controls gene expression post-transcriptionally either via the degradation of target mRNAs or the inhibition of protein translation. Using high-throughput profiling, dysregulation of miRNAs has been widely observed in different stages of cancer. The upregulation (overexpression) of specific miRNAs could lead to the repression of tumor suppressor gene expression, and conversely the downregulation of specific miRNAs could result in an increase of oncogene expression; both these situations induce subsequent malignant effects on cell proliferation, differentiation, and apoptosis that lead to tumor growth and progress. The miRNA signatures of cancer observed in various studies differ significantly. These inconsistencies occur due to the differences in the study populations and methodologies used. This pathway map shows the summarized results from various studies in 9 cancers, each of which is presented in a review article.",
+    "classes": [
+      "Human Diseases",
+      "Cancers: Overview"
+    ],
+    "diseases": {
+      "H00013": "Small cell lung cancer",
+      "H00014": "Non-small cell lung cancer",
+      "H00017": "Esophageal cancer",
+      "H00020": "Colorectal cancer",
+      "H00022": "Bladder cancer",
+      "H00024": "Prostate cancer",
+      "H00027": "Ovarian cancer",
+      "H00031": "Breast cancer",
+      "H00042": "Glioma",
+      "H00048": "Hepatocellular carcinoma"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05206": "MicroRNAs in cancer"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Lee YS",
+          "Dutta A"
+        ],
+        "title": "MicroRNAs in cancer.",
+        "journal": "Annu Rev Pathol 4:199-227 (2009) DOI:10.1146/annurev.pathol.4.110807.092222",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18817506",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Babashah S",
+          "Soleimani M"
+        ],
+        "title": "The oncogenic and tumour suppressive roles of microRNAs in cancer and apoptosis.",
+        "journal": "Eur J Cancer 47:1127-37 (2011) DOI:10.1016/j.ejca.2011.02.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21402473",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Garzon R",
+          "Calin GA",
+          "Croce CM"
+        ],
+        "title": "MicroRNAs in Cancer.",
+        "journal": "Annu Rev Med 60:167-79 (2009) DOI:10.1146/annurev.med.59.053006.104707",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19630570",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chen PS",
+          "Su JL",
+          "Hung MC"
+        ],
+        "title": "Dysregulation of microRNAs in cancer.",
+        "journal": "J Biomed Sci 19:90 (2012) DOI:10.1186/1423-0127-19-90",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23075324",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ling H",
+          "Zhang W",
+          "Calin GA"
+        ],
+        "title": "Principles of microRNA involvement in human cancers.",
+        "journal": "Chin J Cancer 30:739-48 (2011) DOI:10.5732/cjc.011.10243",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22035854",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Iorio MV",
+          "Croce CM"
+        ],
+        "title": "MicroRNA dysregulation in cancer: diagnostics, monitoring and therapeutics. A comprehensive review.",
+        "journal": "EMBO Mol Med 4:143-59 (2012) DOI:10.1002/emmm.201100209",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22351564",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sayed D",
+          "Abdellatif M"
+        ],
+        "title": "MicroRNAs in development and disease.",
+        "journal": "Physiol Rev 91:827-87 (2011) DOI:10.1152/physrev.00006.2010",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21742789",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang Q",
+          "Wang S",
+          "Wang H",
+          "Li P",
+          "Ma Z"
+        ],
+        "title": "MicroRNAs: novel biomarkers for lung cancer diagnosis, prediction and treatment.",
+        "journal": "Exp Biol Med (Maywood) 237:227-35 (2012) DOI:10.1258/ebm.2011.011192",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22345301",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Song JH",
+          "Meltzer SJ"
+        ],
+        "title": "MicroRNAs in pathogenesis, diagnosis, and treatment of gastroesophageal cancers.",
+        "journal": "Gastroenterology 143:35-47.e2 (2012) DOI:10.1053/j.gastro.2012.05.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22580099",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chu Y",
+          "Zhu H",
+          "Lv L",
+          "Zhou Y",
+          "Huo J"
+        ],
+        "title": "MiRNA s in oesophageal squamous cancer.",
+        "journal": "Neth J Med",
+        "volume": "71",
+        "issue": "",
+        "pages": "69-75",
+        "year": "2013",
+        "pubmed": "23462054",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kan T",
+          "Meltzer SJ"
+        ],
+        "title": "MicroRNAs in Barrett's esophagus and esophageal adenocarcinoma.",
+        "journal": "Curr Opin Pharmacol 9:727-32 (2009) DOI:10.1016/j.coph.2009.08.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19773200",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Smith CM",
+          "Watson DI",
+          "Michael MZ",
+          "Hussey DJ"
+        ],
+        "title": "MicroRNAs, development of Barrett's esophagus, and progression to esophageal adenocarcinoma.",
+        "journal": "World J Gastroenterol 16:531-7 (2010) DOI:10.3748/wjg.v16.i5.531",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20128019",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Song S",
+          "Ajani JA"
+        ],
+        "title": "The role of microRNAs in cancers of the upper gastrointestinal tract.",
+        "journal": "Nat Rev Gastroenterol Hepatol 10:109-18 (2013) DOI:10.1038/nrgastro.2012.210",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23165235",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Liu WH",
+          "Yeh SH",
+          "Chen PJ"
+        ],
+        "title": "Role of microRNAs in hepatitis B virus replication and pathogenesis.",
+        "journal": "Biochim Biophys Acta 1809:678-85 (2011) DOI:10.1016/j.bbagrm.2011.04.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21565290",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hrasovec S",
+          "Glavac D"
+        ],
+        "title": "MicroRNAs as Novel Biomarkers in Colorectal Cancer.",
+        "journal": "Front Genet 3:180 (2012) DOI:10.3389/fgene.2012.00180",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23091478",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Liu H"
+        ],
+        "title": "MicroRNAs in breast cancer initiation and progression.",
+        "journal": "Cell Mol Life Sci 69:3587-99 (2012) DOI:10.1007/s00018-012-1128-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22926415",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Li SD",
+          "Zhang JR",
+          "Wang YQ",
+          "Wan XP"
+        ],
+        "title": "The role of microRNAs in ovarian cancer initiation and progression.",
+        "journal": "J Cell Mol Med 14:2240-9 (2010) DOI:10.1111/j.1582-4934.2010.01058.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20345848",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zabolotneva AA",
+          "Zhavoronkov A",
+          "Garazha AV",
+          "Roumiantsev SA",
+          "Buzdin AA"
+        ],
+        "title": "Characteristic patterns of microRNA expression in human bladder cancer.",
+        "journal": "Front Genet 3:310 (2012) DOI:10.3389/fgene.2012.00310",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23316212",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Saini S",
+          "Majid S",
+          "Dahiya R"
+        ],
+        "title": "Diet, microRNAs and prostate cancer.",
+        "journal": "Pharm Res 27:1014-26 (2010) DOI:10.1007/s11095-010-0086-x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20221895",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05206"
+  }
+]

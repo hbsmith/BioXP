@@ -1,0 +1,885 @@
+[
+  {
+    "entry_id": "map04064",
+    "name": "NF-kappa B signaling pathway",
+    "description": "Nuclear factor-kappa B (NF-kappa B) is the generic name of a family of transcription factors that function as dimers and regulate genes involved in immunity, inflammation and cell survival. There are several pathways leading to NF-kappa B-activation. The canonical pathway is induced by tumour necrosis factor-alpha (TNF-alpha), interleukin-1 (IL-1) or byproducts of bacterial and viral infections. This pathway relies on IKK- mediated IkappaB-alpha phosphorylation on Ser32 and 36, leading to its degradation, which allows the p50/p65 NF-kappa B dimer to enter the nucleus and activate gene transcription. Atypical pathways are IKK-independent and rely on phosphorylation of IkappaB-alpha on Tyr42 or on Ser residues in IkappaB-alpha PEST domain. The non-canonical pathway is triggered by particular members of the TNFR superfamily, such as lymphotoxin-beta (LT-beta) or BAFF. It involves NIK and IKK-alpha-mediated p100 phosphorylation and processing to p52, resulting in nuclear translocation of p52/RelB heterodimers.",
+    "classes": [
+      "Environmental Information Processing",
+      "Signal transduction"
+    ],
+    "diseases": {
+      "H01743": "Autoinflammation and PLCG2-associated antibody deficiency and immune dysregulation",
+      "H02042": "Familial expansile osteolysis"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map04064": "NF-kappa B signaling pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Oeckinghaus A",
+          "Hayden MS",
+          "Ghosh S"
+        ],
+        "title": "Crosstalk in NF-kappaB signaling pathways.",
+        "journal": "Nat Immunol 12:695-708 (2011) DOI:10.1038/ni.2065",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21772278",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gloire G",
+          "Piette J"
+        ],
+        "title": "Redox regulation of nuclear post-translational modifications during NF-kappaB activation.",
+        "journal": "Antioxid Redox Signal 11:2209-22 (2009) DOI:10.1089/ARS.2009.2463",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19203223",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Perkins ND"
+        ],
+        "title": "Integrating cell-signalling pathways with NF-kappaB and IKK function.",
+        "journal": "Nat Rev Mol Cell Biol 8:49-62 (2007) DOI:10.1038/nrm2083",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17183360",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lindstrom TM",
+          "Bennett PR"
+        ],
+        "title": "The role of nuclear factor kappa B in human labour.",
+        "journal": "Reproduction 130:569-81 (2005) DOI:10.1530/rep.1.00197",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16264088",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Razani B",
+          "Reichardt AD",
+          "Cheng G"
+        ],
+        "title": "Non-canonical NF-kappaB signaling activation and regulation: principles and perspectives.",
+        "journal": "Immunol Rev 244:44-54 (2011) DOI:10.1111/j.1600-065X.2011.01059.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22017430",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sun SC"
+        ],
+        "title": "Non-canonical NF-kappaB signaling pathway.",
+        "journal": "Cell Res 21:71-85 (2011) DOI:10.1038/cr.2010.177",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21173796",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Neumann M",
+          "Naumann M"
+        ],
+        "title": "Beyond IkappaBs: alternative regulation of NF-kappaB activity.",
+        "journal": "FASEB J 21:2642-54 (2007) DOI:10.1096/fj.06-7615rev",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17431096",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Verhelst K",
+          "Carpentier I",
+          "Beyaert R"
+        ],
+        "title": "Regulation of TNF-induced NF-kappaB activation by different cytoplasmic ubiquitination events.",
+        "journal": "Cytokine Growth Factor Rev 22:277-86 (2011) DOI:10.1016/j.cytogfr.2011.11.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22119011",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rickert RC",
+          "Jellusova J",
+          "Miletic AV"
+        ],
+        "title": "Signaling by the tumor necrosis factor receptor superfamily in B-cell biology and disease.",
+        "journal": "Immunol Rev 244:115-33 (2011) DOI:10.1111/j.1600-065X.2011.01067.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22017435",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Naude PJ",
+          "den Boer JA",
+          "Luiten PG",
+          "Eisel UL"
+        ],
+        "title": "Tumor necrosis factor receptor cross-talk.",
+        "journal": "FEBS J 278:888-98 (2011) DOI:10.1111/j.1742-4658.2011.08017.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21232019",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Grivennikov SI",
+          "Kuprash DV",
+          "Liu ZG",
+          "Nedospasov SA"
+        ],
+        "title": "Intracellular signals and events activated by cytokines of the tumor necrosis factor superfamily: From simple paradigms to complex mechanisms.",
+        "journal": "Int Rev Cytol 252:129-61 (2006) DOI:10.1016/S0074-7696(06)52002-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16984817",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wada T",
+          "Nakashima T",
+          "Hiroshi N",
+          "Penninger JM"
+        ],
+        "title": "RANKL-RANK signaling in osteoclastogenesis and bone disease.",
+        "journal": "Trends Mol Med 12:17-25 (2006) DOI:10.1016/j.molmed.2005.11.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16356770",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schulze-Luehrmann J",
+          "Ghosh S"
+        ],
+        "title": "Antigen-receptor signaling to nuclear factor kappa B.",
+        "journal": "Immunity 25:701-15 (2006) DOI:10.1016/j.immuni.2006.10.010",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17098202",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Weil R",
+          "Israel A"
+        ],
+        "title": "T-cell-receptor- and B-cell-receptor-mediated activation of NF-kappaB in lymphocytes.",
+        "journal": "Curr Opin Immunol 16:374-81 (2004) DOI:10.1016/j.coi.2004.03.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15134788",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Siebenlist U",
+          "Brown K",
+          "Claudio E"
+        ],
+        "title": "Control of lymphocyte development by nuclear factor-kappaB.",
+        "journal": "Nat Rev Immunol 5:435-45 (2005) DOI:10.1038/nri1629",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15905862",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lucas PC",
+          "McAllister-Lucas LM",
+          "Nunez G"
+        ],
+        "title": "NF-kappaB signaling in lymphocytes: a new cast of characters.",
+        "journal": "J Cell Sci 117:31-9 (2004) DOI:10.1242/jcs.00904",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14657271",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Khan WN"
+        ],
+        "title": "B cell receptor and BAFF receptor signaling regulation of B cell homeostasis.",
+        "journal": "J Immunol 183:3561-7 (2009) DOI:10.4049/jimmunol.0800933",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19726767",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vallabhapurapu S",
+          "Karin M"
+        ],
+        "title": "Regulation and function of NF-kappaB transcription factors in the immune system.",
+        "journal": "Annu Rev Immunol 27:693-733 (2009) DOI:10.1146/annurev.immunol.021908.132641",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19302050",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hacker H",
+          "Karin M"
+        ],
+        "title": "Regulation and function of IKK and IKK-related kinases.",
+        "journal": "Sci STKE 2006:re13 (2006) DOI:10.1126/stke.3572006re13",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17047224",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sabatel H",
+          "Pirlot C",
+          "Piette J",
+          "Habraken Y"
+        ],
+        "title": "Importance of PIKKs in NF-kappaB activation by genotoxic stress.",
+        "journal": "Biochem Pharmacol 82:1371-83 (2011) DOI:10.1016/j.bcp.2011.07.105",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21872579",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Miyamoto S"
+        ],
+        "title": "Nuclear initiated NF-kappaB signaling: NEMO and ATM take center stage.",
+        "journal": "Cell Res 21:116-30 (2011) DOI:10.1038/cr.2010.179",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21187855",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Brzoska K",
+          "Szumiel I"
+        ],
+        "title": "Signalling loops and linear pathways: NF-kappaB activation in response to genotoxic stress.",
+        "journal": "Mutagenesis 24:1-8 (2009) DOI:10.1093/mutage/gen056",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18832076",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wu ZH",
+          "Miyamoto S"
+        ],
+        "title": "Many faces of NF-kappaB signaling induced by genotoxic stress.",
+        "journal": "J Mol Med (Berl) 85:1187-202 (2007) DOI:10.1007/s00109-007-0227-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17607554",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Maelfait J",
+          "Beyaert R"
+        ],
+        "title": "Emerging role of ubiquitination in antiviral RIG-I signaling.",
+        "journal": "Microbiol Mol Biol Rev 76:33-45 (2012) DOI:10.1128/MMBR.05012-11",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22390971",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ware CF"
+        ],
+        "title": "Targeting lymphocyte activation through the lymphotoxin and LIGHT pathways.",
+        "journal": "Immunol Rev 223:186-201 (2008) DOI:10.1111/j.1600-065X.2008.00629.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18613837",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schneider K",
+          "Potter KG",
+          "Ware CF"
+        ],
+        "title": "Lymphotoxin and LIGHT signaling pathways and target genes.",
+        "journal": "Immunol Rev 202:49-66 (2004) DOI:10.1111/j.0105-2896.2004.00206.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15546385",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Remouchamps C",
+          "Boutaffala L",
+          "Ganeff C",
+          "Dejardin E"
+        ],
+        "title": "Biology and signal transduction pathways of the Lymphotoxin-alphabeta/LTbetaR system.",
+        "journal": "Cytokine Growth Factor Rev 22:301-10 (2011) DOI:10.1016/j.cytogfr.2011.11.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22152226",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Liu S",
+          "Chen ZJ"
+        ],
+        "title": "Expanding role of ubiquitination in NF-kappaB signaling.",
+        "journal": "Cell Res 21:6-21 (2011) DOI:10.1038/cr.2010.170",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21135871",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Skaug B",
+          "Jiang X",
+          "Chen ZJ"
+        ],
+        "title": "The role of ubiquitin in NF-kappaB regulatory pathways.",
+        "journal": "Annu Rev Biochem 78:769-96 (2009) DOI:10.1146/annurev.biochem.78.070907.102750",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19489733",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wertz IE",
+          "Dixit VM"
+        ],
+        "title": "Signaling to NF-kappaB: regulation by ubiquitination.",
+        "journal": "Cold Spring Harb Perspect Biol 2:a003350 (2010) DOI:10.1101/cshperspect.a003350",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20300215",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Karin M",
+          "Lin A"
+        ],
+        "title": "NF-kappaB at the crossroads of life and death.",
+        "journal": "Nat Immunol 3:221-7 (2002) DOI:10.1038/ni0302-221",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11875461",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lin A",
+          "Karin M"
+        ],
+        "title": "NF-kappaB in cancer: a marked target.",
+        "journal": "Semin Cancer Biol 13:107-14 (2003) DOI:10.1016/S1044-579X(02)00128-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12654254",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00686": "Toll-like receptor signaling [PATH:map04064]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04064"
+  }
+]

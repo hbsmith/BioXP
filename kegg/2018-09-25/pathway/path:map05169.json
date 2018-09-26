@@ -1,0 +1,752 @@
+[
+  {
+    "entry_id": "map05169",
+    "name": "Epstein-Barr virus infection",
+    "description": "Epstein-Barr virus (EBV) is a ubiquitous human herpesvirus that is associated with oncogenesis. EBV infection to primary human B lymphocytes leads to induction of EBV-specific HLA-restricted cytotoxic T cells, causing infectious mononucleosis during adolescence. Primary infection with EBV is followed by latent infection in which the reservoir B cells are immortalized. EBV tumorigenic potential in Burkitt lymphoma, nasopharyngeal carcinoma, Hodgkin lymphoma, and post-transplant B cell lymphomas has been well-documented. Distinct forms of EBV latency and patterns of latent gene expression can contribute to the different tumours.",
+    "classes": [
+      "Human Diseases",
+      "Infectious diseases: Viral"
+    ],
+    "diseases": {
+      "H00007": "Hodgkin lymphoma",
+      "H00008": "Burkitt lymphoma",
+      "H00054": "Nasopharyngeal cancer",
+      "H00367": "Infectious mononucleosis"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05169": "Epstein-Barr virus infection"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Kieff E",
+          "Rickinson AB."
+        ],
+        "title": "Epstein-Barr virus and its replication.",
+        "journal": "Fields Virology. New York, Lippincott-Raven",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Young LS",
+          "Rickinson AB."
+        ],
+        "title": "Epstein-Barr virus: 40 years on.",
+        "journal": "Nat Rev Cancer 4:757-68 (2004) DOI:10.1038/nrc1452",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15510157",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Young LS",
+          "Murray PG"
+        ],
+        "title": "Epstein-Barr virus and oncogenesis: from latent genes to tumours.",
+        "journal": "Oncogene 22:5108-21 (2003) DOI:10.1038/sj.onc.1206556",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12910248",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Haan KM",
+          "Kwok WW",
+          "Longnecker R",
+          "Speck P"
+        ],
+        "title": "Epstein-Barr virus entry utilizing HLA-DP or HLA-DQ as a coreceptor.",
+        "journal": "J Virol 74:2451-4 (2000) DOI:10.1128/JVI.74.5.2451-2454.2000",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10666279",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Knight JS",
+          "Sharma N",
+          "Robertson ES"
+        ],
+        "title": "Epstein-Barr virus latent antigen 3C can mediate the degradation of the retinoblastoma protein through an SCF cellular ubiquitin ligase.",
+        "journal": "Proc Natl Acad Sci U S A 102:18562-6 (2005) DOI:10.1073/pnas.0503886102",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16352731",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Knight JS",
+          "Sharma N",
+          "Kalman DE",
+          "Robertson ES"
+        ],
+        "title": "A cyclin-binding motif within the amino-terminal homology domain of EBNA3C binds cyclin A and modulates cyclin A-dependent kinase activity in Epstein-Barr virus-infected cells.",
+        "journal": "J Virol 78:12857-67 (2004) DOI:10.1128/JVI.78.23.12857-12867.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15542638",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cotter MA 2nd",
+          "Robertson ES"
+        ],
+        "title": "Modulation of histone acetyltransferase activity through interaction of epstein-barr nuclear antigen 3C with prothymosin alpha.",
+        "journal": "Mol Cell Biol 20:5722-35 (2000) DOI:10.1128/MCB.20.15.5722-5735.2000",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10891508",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Eliopoulos AG",
+          "Caamano JH",
+          "Flavell J",
+          "Reynolds GM",
+          "Murray PG",
+          "Poyet JL",
+          "Young LS"
+        ],
+        "title": "Epstein-Barr virus-encoded latent infection membrane protein 1 regulates the processing of p100 NF-kappaB2 to p52 via an IKKgamma/NEMO-independent signalling pathway.",
+        "journal": "Oncogene 22:7557-69 (2003) DOI:10.1038/sj.onc.1207120",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14576817",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ikeda M",
+          "Ikeda A",
+          "Longan LC",
+          "Longnecker R"
+        ],
+        "title": "The Epstein-Barr virus latent membrane protein 2A PY motif recruits WW domain-containing ubiquitin-protein ligases.",
+        "journal": "Virology 268:178-91 (2000) DOI:10.1006/viro.1999.0166",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10683340",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Masucci MG"
+        ],
+        "title": "Epstein-Barr virus oncogenesis and the ubiquitin-proteasome system.",
+        "journal": "Oncogene 23:2107-15 (2004) DOI:10.1038/sj.onc.1207372",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15021898",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Luftig M",
+          "Prinarakis E",
+          "Yasui T",
+          "Tsichritzis T",
+          "Cahir-McFarland E",
+          "Inoue J",
+          "Nakano H",
+          "Mak TW",
+          "Yeh WC",
+          "Li X",
+          "Akira S",
+          "Suzuki N",
+          "Suzuki S",
+          "Mosialos G",
+          "Kieff E"
+        ],
+        "title": "Epstein-Barr virus latent membrane protein 1 activation of NF-kappaB through IRAK1 and TRAF6.",
+        "journal": "Proc Natl Acad Sci U S A 100:15595-600 (2003) DOI:10.1073/pnas.2136756100",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14673102",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mainou BA",
+          "Everly DN Jr",
+          "Raab-Traub N"
+        ],
+        "title": "Epstein-Barr virus latent membrane protein 1 CTAR1 mediates rodent and human fibroblast transformation through activation of PI3K.",
+        "journal": "Oncogene 24:6917-24 (2005) DOI:10.1038/sj.onc.1208846",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16007144",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Young KA",
+          "Herbert AP",
+          "Barlow PN",
+          "Holers VM",
+          "Hannan JP"
+        ],
+        "title": "Molecular basis of the interaction between complement receptor type 2 (CR2/CD21) and Epstein-Barr virus glycoprotein gp350.",
+        "journal": "J Virol 82:11217-27 (2008) DOI:10.1128/JVI.01673-08",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18786993",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Portal D",
+          "Rosendorff A",
+          "Kieff E"
+        ],
+        "title": "Epstein-Barr nuclear antigen leader protein coactivates transcription through interaction with histone deacetylase 4.",
+        "journal": "Proc Natl Acad Sci U S A 103:19278-83 (2006) DOI:10.1073/pnas.0609320103",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17159145",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Portal D",
+          "Zhao B",
+          "Calderwood MA",
+          "Sommermann T",
+          "Johannsen E",
+          "Kieff E"
+        ],
+        "title": "EBV nuclear antigen EBNALP dismisses transcription repressors NCoR and RBPJ from enhancers and EBNA2 increases NCoR-deficient RBPJ DNA binding.",
+        "journal": "Proc Natl Acad Sci U S A 108:7808-13 (2011) DOI:10.1073/pnas.1104991108",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21518914",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhou S",
+          "Fujimuro M",
+          "Hsieh JJ",
+          "Chen L",
+          "Hayward SD"
+        ],
+        "title": "A role for SKIP in EBNA2 activation of CBF1-repressed promoters.",
+        "journal": "J Virol 74:1939-47 (2000) DOI:10.1128/JVI.74.4.1939-1947.2000",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10644367",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Brinkmann MM",
+          "Schulz TF"
+        ],
+        "title": "Regulation of intracellular signalling by the terminal membrane proteins of members of the Gammaherpesvirinae.",
+        "journal": "J Gen Virol 87:1047-74 (2006) DOI:10.1099/vir.0.81598-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16603506",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Anderson LJ",
+          "Longnecker R"
+        ],
+        "title": "EBV LMP2A provides a surrogate pre-B cell receptor signal through constitutive activation of the ERK/MAPK pathway.",
+        "journal": "J Gen Virol 89:1563-8 (2008) DOI:10.1099/vir.0.2008/001461-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18559925",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Flemington EK",
+          "Goldfeld AE",
+          "Speck SH"
+        ],
+        "title": "Efficient transcription of the Epstein-Barr virus immediate-early BZLF1 and BRLF1 genes requires protein synthesis.",
+        "journal": "J Virol",
+        "volume": "65",
+        "issue": "",
+        "pages": "7073-7",
+        "year": "1991",
+        "pubmed": "1658397",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mauser A",
+          "Saito S",
+          "Appella E",
+          "Anderson CW",
+          "Seaman WT",
+          "Kenney S"
+        ],
+        "title": "The Epstein-Barr virus immediate-early protein BZLF1 regulates p53 function through multiple mechanisms.",
+        "journal": "J Virol 76:12503-12 (2002) DOI:10.1128/JVI.76.24.12503-12512.2002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12438576",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sato Y",
+          "Shirata N",
+          "Kudoh A",
+          "Iwahori S",
+          "Nakayama S",
+          "Murata T",
+          "Isomura H",
+          "Nishiyama Y",
+          "Tsurumi T"
+        ],
+        "title": "Expression of Epstein-Barr virus BZLF1 immediate-early protein induces p53 degradation independent of MDM2, leading to repression of p53-mediated transcription.",
+        "journal": "Virology 388:204-11 (2009) DOI:10.1016/j.virol.2009.03.017",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19375142",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Miller CL",
+          "Burkhardt AL",
+          "Lee JH",
+          "Stealey B",
+          "Longnecker R",
+          "Bolen JB",
+          "Kieff E"
+        ],
+        "title": "Integral membrane protein 2 of Epstein-Barr virus regulates reactivation from latency through dominant negative effects on protein-tyrosine kinases.",
+        "journal": "Immunity 2:155-66 (1995) DOI:10.1016/S1074-7613(95)80040-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "7895172",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Boyle SM",
+          "Ruvolo V",
+          "Gupta AK",
+          "Swaminathan S"
+        ],
+        "title": "Association with the cellular export receptor CRM 1 mediates function and intracellular localization of Epstein-Barr virus SM protein, a regulator of gene expression.",
+        "journal": "J Virol",
+        "volume": "73",
+        "issue": "",
+        "pages": "6872-81",
+        "year": "1999",
+        "pubmed": "10400785",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Callan MF",
+          "Tan L",
+          "Annels N",
+          "Ogg GS",
+          "Wilson JD",
+          "O'Callaghan CA",
+          "Steven N",
+          "McMichael AJ",
+          "Rickinson AB"
+        ],
+        "title": "Direct visualization of antigen-specific CD8+ T cells during the primary immune response to Epstein-Barr virus In vivo.",
+        "journal": "J Exp Med 187:1395-402 (1998) DOI:10.1084/jem.187.9.1395",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9565632",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Isobe Y."
+        ],
+        "title": "EB virus and oncogenesis. [Japanese]",
+        "journal": "Genomu Igaku. Tokyo, Medical Review Co. Ltd.",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05169"
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "entry_id": "map00030",
+    "name": "Pentose phosphate pathway",
+    "description": "The pentose phosphate pathway is a process of glucose turnover that produces NADPH as reducing equivalents and pentoses as essential parts of nucleotides. There are two different phases in the pathway. One is irreversible oxidative phase in which glucose-6P is converted to ribulose-5P by oxidative decarboxylation, and NADPH is generated [MD:M00006]. The other is reversible non-oxidative phase in which phosphorylated sugars are interconverted to generate xylulose-5P, ribulose-5P, and ribose-5P [MD:M00007]. Phosphoribosyl pyrophosphate (PRPP) formed from ribose-5P [MD:M00005] is an activated compound used in the biosynthesis of histidine and purine/pyrimidine nucleotides. This pathway map also shows the Entner-Doudoroff pathway where 6-P-gluconate is dehydrated and then cleaved into pyruvate and glyceraldehyde-3P [MD:M00008].",
+    "classes": [
+      "Metabolism",
+      "Carbohydrate metabolism"
+    ],
+    "diseases": {
+      "H00196": "Phosphoribosylpyrophosphate synthetase superactivity",
+      "H00668": "Anemia due to disorders of glutathione metabolism",
+      "H00946": "Arts syndrome",
+      "H01111": "Cortisone reductase deficiency",
+      "H01135": "Ribose 5-phosphate isomerase deficiency",
+      "H01189": "Transaldolase deficiency",
+      "H01375": "Glucose 6-phosphate dehydrogenase deficiency",
+      "H01952": "Glycogen storage disease type XII"
+    },
+    "dblinks": {
+      "GO": [
+        "0006098"
+      ]
+    },
+    "pathways": {
+      "map00030": "Pentose phosphate pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Nishizuka Y (ed)."
+        ],
+        "title": "[Metabolic Maps] (In Japanese)",
+        "journal": "Tokyo Kagaku Dojin",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1980",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "(map 3)"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nishizuka Y",
+          "Seyama Y",
+          "Ikai A",
+          "Ishimura Y",
+          "Kawaguchi A (eds)."
+        ],
+        "title": "[Cellular Functions and Metabolic Maps] (In Japanese)",
+        "journal": "Tokyo Kagaku Dojin",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1997",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "(map 4)"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Michal G."
+        ],
+        "title": "Biochemical Pathways",
+        "journal": "Wiley",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1999",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hove-Jensen B",
+          "Rosenkrantz TJ",
+          "Haldimann A",
+          "Wanner BL."
+        ],
+        "title": "Escherichia coli phnN, encoding ribose 1,5-bisphosphokinase activity (phosphoribosyl diphosphate forming): dual role in phosphonate degradation and NAD biosynthesis pathways.",
+        "journal": "J Bacteriol 185:2793-801 (2003) DOI:10.1128/JB.185.9.2793-2801.2003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12700258",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Orita I",
+          "Sato T",
+          "Yurimoto H",
+          "Kato N",
+          "Atomi H",
+          "Imanaka T",
+          "Sakai Y"
+        ],
+        "title": "The ribulose monophosphate pathway substitutes for the missing pentose phosphate pathway in the archaeon Thermococcus kodakaraensis.",
+        "journal": "J Bacteriol 188:4698-704 (2006) DOI:10.1128/JB.00492-06",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16788179",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kato N",
+          "Yurimoto H",
+          "Thauer RK"
+        ],
+        "title": "The physiological role of the ribulose monophosphate pathway in bacteria and archaea.",
+        "journal": "Biosci Biotechnol Biochem 70:10-21 (2006) DOI:10.1271/bbb.70.10",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16428816",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kouril T",
+          "Wieloch P",
+          "Reimann J",
+          "Wagner M",
+          "Zaparty M",
+          "Albers SV",
+          "Schomburg D",
+          "Ruoff P",
+          "Siebers B"
+        ],
+        "title": "Unraveling the function of the two Entner-Doudoroff branches in the thermoacidophilic Crenarchaeon Sulfolobus solfataricus P2.",
+        "journal": "FEBS J 280:1126-38 (2013) DOI:10.1111/febs.12106",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23279921",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Reher M",
+          "Schonheit P"
+        ],
+        "title": "Glyceraldehyde dehydrogenases from the thermoacidophilic euryarchaeota Picrophilus torridus and Thermoplasma acidophilum, key enzymes of the non-phosphorylative Entner-Doudoroff pathway, constitute a novel enzyme family within the aldehyde dehydrogenase superfamily.",
+        "journal": "FEBS Lett 580:1198-204 (2006) DOI:10.1016/j.febslet.2006.01.029",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16458304",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Reher M",
+          "Fuhrer T",
+          "Bott M",
+          "Schonheit P"
+        ],
+        "title": "The nonphosphorylative Entner-Doudoroff pathway in the thermoacidophilic euryarchaeon Picrophilus torridus involves a novel 2-keto-3-deoxygluconate- specific aldolase.",
+        "journal": "J Bacteriol 192:964-74 (2010) DOI:10.1128/JB.01281-09",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20023024",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00004": "Pentose phosphate pathway (Pentose phosphate cycle) [PATH:map00030]",
+      "M00005": "PRPP biosynthesis, ribose 5P => PRPP [PATH:map00030]",
+      "M00006": "Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P [PATH:map00030]",
+      "M00007": "Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P [PATH:map00030]",
+      "M00008": "Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate [PATH:map00030]",
+      "M00061": "D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P [PATH:map00030]",
+      "M00308": "Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P [PATH:map00030]",
+      "M00309": "Non-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate [PATH:map00030]",
+      "M00580": "Pentose phosphate pathway, archaea, fructose 6P => ribose 5P [PATH:map00030]",
+      "M00631": "D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P [PATH:map00030]",
+      "M00633": "Semi-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate-3P [PATH:map00030]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00030"
+  }
+]

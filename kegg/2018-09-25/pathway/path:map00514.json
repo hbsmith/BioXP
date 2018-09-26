@@ -1,0 +1,94 @@
+[
+  {
+    "entry_id": "map00514",
+    "name": "Other types of O-glycan biosynthesis",
+    "description": "O-linked glycosylation is the attachment of monosaccharides to the hydroxyl groups of amino acids, mostly serine and threonine, and is found in eukaryotes, archaea and bacteria. O-glycans exhibit diverse types of modifications where the innermost monosaccharide is N-acetylgalactosamine (map00512), mannose in mammals (map00515), and others (this map) including N-acetylglucosamine, fucose, glucose, galactose, mannose in yeast and arabinose in plants.",
+    "classes": [
+      "Metabolism",
+      "Glycan biosynthesis and metabolism"
+    ],
+    "diseases": {
+      "H00590": "Congenital muscular dystrophies (CMD/MDC)",
+      "H00593": "Limb-girdle muscular dystrophy",
+      "H00944": "Dowling-Degos disease",
+      "H01075": "Peters anomaly",
+      "H01192": "Lysyl hydroxylase 3 deficiency"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00514": "Other types of O-glycan biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Kizuka Y",
+          "Oka S"
+        ],
+        "title": "Regulated expression and neural functions of human natural killer-1 (HNK-1) carbohydrate.",
+        "journal": "Cell Mol Life Sci 69:4135-47 (2012) DOI:10.1007/s00018-012-1036-z",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22669261",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lommel M",
+          "Strahl S"
+        ],
+        "title": "Protein O-mannosylation: conserved from bacteria to humans.",
+        "journal": "Glycobiology 19:816-28 (2009) DOI:10.1093/glycob/cwp066",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19429925",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00514"
+  }
+]

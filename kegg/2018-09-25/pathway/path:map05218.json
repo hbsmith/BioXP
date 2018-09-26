@@ -1,0 +1,400 @@
+[
+  {
+    "entry_id": "map05218",
+    "name": "Melanoma",
+    "description": "Melanoma is a form of skin cancer that has a poor prognosis and which is on the rise in Western populations. Melanoma arises from the malignant transformation of pigment-producing cells, melanocytes. The only known environmental risk factor is exposure to ultraviolet (UV) light and in people with fair skin the risk is greatly increased. Melanoma pathogenesis is also driven by genetic factors. Oncogenic NRAS mutations activate both effector pathways Raf-MEK-ERK and PI3K-Akt. The Raf-MEK-ERK pathway may also be activated via mutations in the BRAF gene. The PI3K-Akt pathway may be activated through loss or mutation of the inhibitory tumor suppressor gene PTEN. These mutations arise early during melanoma pathogenesis and are preserved throughout tumor progression. Melanoma development has been shown to be strongly associated with inactivation of the p16INK4a/cyclin dependent kinases 4 and 6/retinoblastoma protein (p16INK4a/CDK4,6/pRb) and p14ARF/human double minute 2/p53 (p14ARF/HMD2/p53) tumor suppressor pathways. MITF and TP53 are implicated in further melanoma progression.",
+    "classes": [
+      "Human Diseases",
+      "Cancers: Specific types"
+    ],
+    "diseases": {
+      "H00038": "Melanoma"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05218": "Melanoma"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Miller AJ",
+          "Mihm MC Jr."
+        ],
+        "title": "Melanoma.",
+        "journal": "N Engl J Med 355:51-65 (2006) DOI:10.1056/NEJMra052166",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16822996",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chin L."
+        ],
+        "title": "The genetics of malignant melanoma: lessons from mouse and man.",
+        "journal": "Nat Rev Cancer 3:559-70 (2003) DOI:10.1038/nrc1145",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12894244",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Takata M",
+          "Saida T."
+        ],
+        "title": "Genetic alterations in melanocytic tumors.",
+        "journal": "J Dermatol Sci 43:1-10 (2006) DOI:10.1016/j.jdermsci.2006.05.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16750612",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chudnovsky Y",
+          "Khavari PA",
+          "Adams AE."
+        ],
+        "title": "Melanoma genetics and the development of rational therapeutics.",
+        "journal": "J Clin Invest 115:813-24 (2005) DOI:10.1172/JCI24808",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15841168",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Merlino G."
+        ],
+        "title": "Cancer biology: the weakest link?",
+        "journal": "Nature 436:33-5 (2005) DOI:10.1038/436033a",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16001050",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Garraway LA",
+          "Widlund HR",
+          "Rubin MA",
+          "Getz G",
+          "Berger AJ",
+          "Ramaswamy S",
+          "Beroukhim R",
+          "Milner DA",
+          "Granter SR",
+          "Du J",
+          "Lee C",
+          "Wagner SN",
+          "Li C",
+          "Golub TR",
+          "Rimm DL",
+          "Meyerson ML",
+          "Fisher DE",
+          "Sellers WR."
+        ],
+        "title": "Integrative genomic analyses identify MITF as a lineage survival oncogene amplified in malignant melanoma.",
+        "journal": "Nature 436:117-22 (2005) DOI:10.1038/nature03664",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16001072",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Levy C",
+          "Khaled M",
+          "Fisher DE."
+        ],
+        "title": "MITF: master regulator of melanocyte development and melanoma oncogene.",
+        "journal": "Trends Mol Med 12:406-14 (2006) DOI:10.1016/j.molmed.2006.07.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16899407",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tsao H",
+          "Goel V",
+          "Wu H",
+          "Yang G",
+          "Haluska FG."
+        ],
+        "title": "Genetic interaction between NRAS and BRAF mutations and PTEN/MMAC1 inactivation in melanoma.",
+        "journal": "J Invest Dermatol 122:337-41 (2004) DOI:10.1046/j.0022-202X.2004.22243.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15009714",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gruss C",
+          "Herlyn M."
+        ],
+        "title": "Role of cadherins and matrixins in melanoma.",
+        "journal": "Curr Opin Oncol",
+        "volume": "13",
+        "issue": "",
+        "pages": "117-23",
+        "year": "2001",
+        "pubmed": "11224709",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Thompson JF",
+          "Scolyer RA",
+          "Kefford RF."
+        ],
+        "title": "Cutaneous melanoma.",
+        "journal": "Lancet 365:687-701 (2005) DOI:10.1016/S0140-6736(05)17951-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15721476",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Omholt K",
+          "Platz A",
+          "Kanter L",
+          "Ringborg U",
+          "Hansson J."
+        ],
+        "title": "NRAS and BRAF mutations arise early during melanoma pathogenesis and are preserved throughout tumor progression.",
+        "journal": "Clin Cancer Res",
+        "volume": "9",
+        "issue": "",
+        "pages": "6483-8",
+        "year": "2003",
+        "pubmed": "14695152",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hussein MR."
+        ],
+        "title": "The TP53 tumor suppressor gene and melanoma tumorigenesis: is there a relationship?",
+        "journal": "Tumour Biol 25:200-7 (2004) DOI:10.1159/000081103",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15557758",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lazar-Molnar E",
+          "Hegyesi H",
+          "Toth S",
+          "Falus A."
+        ],
+        "title": "Autocrine and paracrine regulation by cytokines and growth factors in melanoma.",
+        "journal": "Cytokine 12:547-54 (2000) DOI:10.1006/cyto.1999.0614",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10843728",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05218"
+  }
+]

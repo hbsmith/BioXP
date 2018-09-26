@@ -1,0 +1,662 @@
+[
+  {
+    "entry_id": "map04110",
+    "name": "Cell cycle",
+    "description": "Mitotic cell cycle progression is accomplished through a reproducible sequence of events, DNA replication (S phase) and mitosis (M phase) separated temporally by gaps known as G1 and G2 phases. Cyclin-dependent kinases (CDKs) are key regulatory enzymes, each consisting of a catalytic CDK subunit and an activating cyclin subunit. CDKs regulate the cell's progression through the phases of the cell cycle by modulating the activity of key substrates. Downstream targets of CDKs include transcription factor E2F and its regulator Rb. Precise activation and inactivation of CDKs at specific points in the cell cycle are required for orderly cell division. Cyclin-CDK inhibitors (CKIs), such as p16Ink4a, p15Ink4b, p27Kip1, and p21Cip1, are involved in the negative regulation of CDK activities, thus providing a pathway through which the cell cycle is negatively regulated. Eukaryotic cells respond to DNA damage by activating signaling pathways that promote cell cycle arrest and DNA repair. In response to DNA damage, the checkpoint kinase ATM phosphorylates and activates Chk2, which in turn directly phosphorylates and activates p53 tumor suppressor protein. p53 and its transcriptional targets play an important role in both G1 and G2 checkpoints. ATR-Chk1-mediated protein degradation of Cdc25A protein phosphatase is also a mechanism conferring intra-S-phase checkpoint activation.",
+    "classes": [
+      "Cellular Processes",
+      "Cell growth and death"
+    ],
+    "diseases": {
+      "H00064": "Ataxia telangiectasia",
+      "H00409": "Type 2 diabetes mellitus",
+      "H00631": "Cornelia de Lange syndrome",
+      "H00713": "Beckwith-Wiedemann syndrome",
+      "H00881": "Li-Fraumeni syndrome",
+      "H00992": "Seckel syndrome",
+      "H01007": "Choroid plexus papilloma",
+      "H01023": "Juvenile polyposis syndrome",
+      "H01102": "Pituitary adenomas",
+      "H01288": "Mosaic variegated aneuploidy syndrome",
+      "H01385": "Rienhoff syndrome",
+      "H01509": "Tonsillar cancer",
+      "H01513": "Retinoblastoma",
+      "H01889": "Meier-Gorlin syndrome",
+      "H02102": "Myhre syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0000278"
+      ]
+    },
+    "pathways": {
+      "map04110": "Cell cycle"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Matsuoka S",
+          "Yamaguchi M",
+          "Matsukage A"
+        ],
+        "title": "D-type cyclin-binding regions of proliferating cell nuclear antigen.",
+        "journal": "J Biol Chem",
+        "volume": "269",
+        "issue": "",
+        "pages": "11030-6",
+        "year": "1994",
+        "pubmed": "7908906",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Welch PJ",
+          "Wang JY"
+        ],
+        "title": "A C-terminal protein-binding domain in the retinoblastoma protein regulates nuclear c-Abl tyrosine kinase in the cell cycle.",
+        "journal": "Cell 75:779-90 (1993) DOI:10.1016/0092-8674(93)90497-E",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "8242749",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Macaluso M",
+          "Montanari M",
+          "Giordano A"
+        ],
+        "title": "Rb family proteins as modulators of gene expression and new aspects regarding the interaction with chromatin remodeling enzymes.",
+        "journal": "Oncogene 25:5263-7 (2006) DOI:10.1038/sj.onc.1209680",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16936746",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cobrinik D"
+        ],
+        "title": "Pocket proteins and cell cycle control.",
+        "journal": "Oncogene 24:2796-809 (2005) DOI:10.1038/sj.onc.1208619",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15838516",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Boutros R",
+          "Lobjois V",
+          "Ducommun B"
+        ],
+        "title": "CDC25 phosphatases in cancer cells: key players? Good targets?",
+        "journal": "Nat Rev Cancer 7:495-507 (2007) DOI:10.1038/nrc2169",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17568790",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Diehl JA",
+          "Cheng M",
+          "Roussel MF",
+          "Sherr CJ"
+        ],
+        "title": "Glycogen synthase kinase-3beta regulates cyclin D1 proteolysis and subcellular localization.",
+        "journal": "Genes Dev 12:3499-511 (1998) DOI:10.1101/gad.12.22.3499",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9832503",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Klein EA",
+          "Assoian RK"
+        ],
+        "title": "Transcriptional regulation of the cyclin D1 gene at a glance.",
+        "journal": "J Cell Sci 121:3853-7 (2008) DOI:10.1242/jcs.039131",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19020303",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sherr CJ",
+          "Roberts JM"
+        ],
+        "title": "CDK inhibitors: positive and negative regulators of G1-phase progression.",
+        "journal": "Genes Dev 13:1501-12 (1999) DOI:10.1101/gad.13.12.1501",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10385618",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shi Y",
+          "Massague J."
+        ],
+        "title": "Mechanisms of TGF-beta signaling from cell membrane to the nucleus.",
+        "journal": "Cell 113:685-700 (2003) DOI:10.1016/S0092-8674(03)00432-X",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12809600",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kamura T",
+          "Hara T",
+          "Kotoshiba S",
+          "Yada M",
+          "Ishida N",
+          "Imaki H",
+          "Hatakeyama S",
+          "Nakayama K",
+          "Nakayama KI"
+        ],
+        "title": "Degradation of p57Kip2 mediated by SCFSkp2-dependent ubiquitylation.",
+        "journal": "Proc Natl Acad Sci U S A 100:10231-6 (2003) DOI:10.1073/pnas.1831009100",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12925736",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bond M",
+          "Sala-Newby GB",
+          "Wu YJ",
+          "Newby AC"
+        ],
+        "title": "Biphasic effect of p21Cip1 on smooth muscle cell proliferation: role of PI 3-kinase and Skp2-mediated degradation.",
+        "journal": "Cardiovasc Res 69:198-206 (2006) DOI:10.1016/j.cardiores.2005.08.020",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16212951",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Harris SL",
+          "Levine AJ."
+        ],
+        "title": "The p53 pathway: positive and negative feedback loops.",
+        "journal": "Oncogene 24:2899-908 (2005) DOI:10.1038/sj.onc.1208615",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15838523",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vogelstein B",
+          "Lane D",
+          "Levine AJ"
+        ],
+        "title": "Surfing the p53 network.",
+        "journal": "Nature 408:307-10 (2000) DOI:10.1038/35042675",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11099028",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Smith ML",
+          "Chen IT",
+          "Zhan Q",
+          "Bae I",
+          "Chen CY",
+          "Gilmer TM",
+          "Kastan MB",
+          "O'Connor PM",
+          "Fornace AJ Jr"
+        ],
+        "title": "Interaction of the p53-regulated protein Gadd45 with proliferating cell nuclear antigen.",
+        "journal": "Science 266:1376-80 (1994) DOI:10.1126/science.7973727",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "7973727",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Petersen BO",
+          "Lukas J",
+          "Sorensen CS",
+          "Bartek J",
+          "Helin K"
+        ],
+        "title": "Phosphorylation of mammalian CDC6 by cyclin A/CDK2 regulates its subcellular localization.",
+        "journal": "EMBO J 18:396-410 (1999) DOI:10.1093/emboj/18.2.396",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9889196",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sheu YJ",
+          "Stillman B"
+        ],
+        "title": "Cdc7-Dbf4 phosphorylates MCM proteins via a docking site-mediated mechanism to promote S phase progression.",
+        "journal": "Mol Cell 24:101-13 (2006) DOI:10.1016/j.molcel.2006.07.033",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17018296",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Martinez AM",
+          "Afshar M",
+          "Martin F",
+          "Cavadore JC",
+          "Labbe JC",
+          "Doree M"
+        ],
+        "title": "Dual phosphorylation of the T-loop in cdk7: its role in controlling cyclin H binding and CAK activity.",
+        "journal": "EMBO J 16:343-54 (1997) DOI:10.1093/emboj/16.2.343",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9029154",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lolli G",
+          "Johnson LN"
+        ],
+        "title": "CAK-Cyclin-dependent Activating Kinase: a key kinase in cell cycle control and a target for drugs?",
+        "journal": "Cell Cycle 4:572-7 (2005) DOI:10.4161/cc.4.4.1607",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15876871",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Musacchio A",
+          "Salmon ED"
+        ],
+        "title": "The spindle-assembly checkpoint in space and time.",
+        "journal": "Nat Rev Mol Cell Biol 8:379-93 (2007) DOI:10.1038/nrm2163",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17426725",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Uhlmann F"
+        ],
+        "title": "Chromosome cohesion and separation: from men and molecules.",
+        "journal": "Curr Biol 13:R104-14 (2003) DOI:10.1016/S0960-9822(03)00039-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12573239",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Stegmeier F",
+          "Amon A"
+        ],
+        "title": "Closing mitosis: the functions of the Cdc14 phosphatase and its regulation.",
+        "journal": "Annu Rev Genet 38:203-32 (2004) DOI:10.1146/annurev.genet.38.072902.093051",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15568976",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Moustakas A",
+          "Kardassis D"
+        ],
+        "title": "Regulation of the human p21/WAF1/Cip1 promoter in hepatic cells by functional interactions between Sp1 and Smad family members.",
+        "journal": "Proc Natl Acad Sci U S A 95:6733-8 (1998) DOI:10.1073/pnas.95.12.6733",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9618481",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00284": "Origin recognition complex [PATH:map04110]",
+      "M00285": "MCM complex [PATH:map04110]",
+      "M00297": "DNA-PK complex [PATH:map04110]",
+      "M00381": "SCF-SKP2 complex [PATH:map04110]",
+      "M00389": "APC/C complex [PATH:map04110]",
+      "M00691": "DNA damage-induced cell cycle checkpoints [PATH:map04110]",
+      "M00692": "Cell cycle - G1/S transition [PATH:map04110]",
+      "M00693": "Cell cycle - G2/M transition [PATH:map04110]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04110"
+  }
+]

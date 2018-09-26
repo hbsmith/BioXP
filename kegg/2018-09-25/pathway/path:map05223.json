@@ -1,0 +1,697 @@
+[
+  {
+    "entry_id": "map05223",
+    "name": "Non-small cell lung cancer",
+    "description": "Lung cancer is a leading cause of cancer death among men and women in industrialized countries. Non-small-cell lung cancer (NSCLC) accounts for approximately 85% of lung cancer and represents a heterogeneous group of cancers, consisting mainly of squamous cell (SCC), adeno (AC) and large-cell carcinoma. Molecular mechanisms altered in NSCLC include activation of oncogenes, such as K-RAS, EGFR and EML4-ALK, and inactivation of tumorsuppressor genes, such as p53, p16INK4a, RAR-beta, and RASSF1. Point mutations within the K-RAS gene inactivate GTPase activity and the p21-RAS protein continuously transmits growth signals to the nucleus. Mutations or overexpression of EGFR leads to a proliferative advantage. EML4-ALK fusion leads to constitutive ALK activation, which causes cell proliferation, invasion, and inhibition of apoptosis. Inactivating mutation of p53 can lead to more rapid proliferation and reduced apoptosis. The protein encoded by the p16INK4a inhibits formation of CDK-cyclin-D complexes by competitive binding of CDK4 and CDK6. Loss of p16INK4a expression is a common feature of NSCLC. RAR-beta is a nuclear receptor that bears vitamin-A-dependent transcriptional activity. RASSF1A is able to form heterodimers with Nore-1, an RAS effector.Therefore loss of RASSF1A might shift the balance of RAS activity towards a growth-promoting effect.",
+    "classes": [
+      "Human Diseases",
+      "Cancers: Specific types"
+    ],
+    "diseases": {
+      "H00014": "Non-small cell lung cancer"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05223": "Non-small cell lung cancer"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Osada H",
+          "Takahashi T."
+        ],
+        "title": "Genetic alterations of multiple tumor suppressors and oncogenes in the carcinogenesis and progression of lung cancer.",
+        "journal": "Oncogene 21:7421-34 (2002) DOI:10.1038/sj.onc.1205802",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12379883",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yokota J",
+          "Nishioka M",
+          "Tani M",
+          "Kohno T."
+        ],
+        "title": "Genetic alterations responsible for metastatic phenotypes of lung cancer cells.",
+        "journal": "Clin Exp Metastasis",
+        "volume": "20",
+        "issue": "",
+        "pages": "189-93",
+        "year": "2003",
+        "pubmed": "12741677",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Aviel-Ronen S",
+          "Blackhall FH",
+          "Shepherd FA",
+          "Tsao MS."
+        ],
+        "title": "K-ras mutations in non-small-cell lung carcinoma: a review.",
+        "journal": "Clin Lung Cancer 8:30-8 (2006) DOI:10.3816/CLC.2006.n.030",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16870043",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pfeifer GP",
+          "Dammann R."
+        ],
+        "title": "Methylation of the tumor suppressor gene RASSF1A in human tumors.",
+        "journal": "Biochemistry (Mosc)",
+        "volume": "70",
+        "issue": "",
+        "pages": "576-83",
+        "year": "2005",
+        "pubmed": "15948711",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Altucci L",
+          "Gronemeyer H."
+        ],
+        "title": "The promise of retinoids to fight against cancer.",
+        "journal": "Nat Rev Cancer 1:181-93 (2001) DOI:10.1038/35106036",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11902573",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Virmani AK",
+          "Rathi A",
+          "Zochbauer-Muller S",
+          "Sacchi N",
+          "Fukuyama Y",
+          "Bryant D",
+          "Maitra A",
+          "Heda S",
+          "Fong KM",
+          "Thunnissen F",
+          "Minna JD",
+          "Gazdar AF."
+        ],
+        "title": "Promoter methylation and silencing of the retinoic acid receptor-beta gene in lung carcinomas.",
+        "journal": "J Natl Cancer Inst 92:1303-7 (2000) DOI:10.1093/jnci/92.16.1303",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10944551",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hirsch FR",
+          "Scagliotti GV",
+          "Langer CJ",
+          "Varella-Garcia M",
+          "Franklin WA."
+        ],
+        "title": "Epidermal growth factor family of receptors in preneoplasia and lung cancer: perspectives for targeted therapies.",
+        "journal": "Lung Cancer 41 Suppl 1:S29-42 (2003) DOI:10.1016/S0169-5002(03)00137-5",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12867060",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Panani AD",
+          "Roussos C."
+        ],
+        "title": "Cytogenetic and molecular aspects of lung cancer.",
+        "journal": "Cancer Lett 239:1-9 (2006) DOI:10.1016/j.canlet.2005.06.030",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16112428",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mitsuuchi Y",
+          "Testa JR."
+        ],
+        "title": "Cytogenetics and molecular genetics of lung cancer.",
+        "journal": "Am J Med Genet 115:183-8 (2002) DOI:10.1002/ajmg.10692",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12407699",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Breuer RH",
+          "Postmus PE",
+          "Smit EF."
+        ],
+        "title": "Molecular pathology of non-small-cell lung cancer.",
+        "journal": "Respiration 72:313-30 (2005) DOI:10.1159/000085376",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15942304",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Piyathilake CJ",
+          "Frost AR",
+          "Manne U",
+          "Weiss H",
+          "Bell WC",
+          "Heimburger DC",
+          "Grizzle WE."
+        ],
+        "title": "Differential expression of growth factors in squamous cell carcinoma and precancerous lesions of the lung.",
+        "journal": "Clin Cancer Res",
+        "volume": "8",
+        "issue": "",
+        "pages": "734-44",
+        "year": "2002",
+        "pubmed": "11895903",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Awaya H",
+          "Takeshima Y",
+          "Furonaka O",
+          "Kohno N",
+          "Inai K."
+        ],
+        "title": "Gene amplification and protein expression of EGFR and HER2 by chromogenic in situ hybridisation and immunohistochemistry in atypical adenomatous hyperplasia and adenocarcinoma of the lung.",
+        "journal": "J Clin Pathol 58:1076-80 (2005) DOI:10.1136/jcp.2004.025585",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16189154",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Soda M",
+          "Choi YL",
+          "Enomoto M",
+          "Takada S",
+          "Yamashita Y",
+          "Ishikawa S",
+          "Fujiwara S",
+          "Watanabe H",
+          "Kurashina K",
+          "Hatanaka H",
+          "Bando M",
+          "Ohno S",
+          "Ishikawa Y",
+          "Aburatani H",
+          "Niki T",
+          "Sohara Y",
+          "Sugiyama Y",
+          "Mano H"
+        ],
+        "title": "Identification of the transforming EML4-ALK fusion gene in non-small-cell lung cancer.",
+        "journal": "Nature 448:561-6 (2007) DOI:10.1038/nature05945",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17625570",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Choi YL",
+          "Takeuchi K",
+          "Soda M",
+          "Inamura K",
+          "Togashi Y",
+          "Hatano S",
+          "Enomoto M",
+          "Hamada T",
+          "Haruta H",
+          "Watanabe H",
+          "Kurashina K",
+          "Hatanaka H",
+          "Ueno T",
+          "Takada S",
+          "Yamashita Y",
+          "Sugiyama Y",
+          "Ishikawa Y",
+          "Mano H"
+        ],
+        "title": "Identification of novel isoforms of the EML4-ALK transforming gene in non-small cell lung cancer.",
+        "journal": "Cancer Res 68:4971-6 (2008) DOI:10.1158/0008-5472.CAN-07-6158",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18593892",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Janne PA",
+          "Gray N",
+          "Settleman J"
+        ],
+        "title": "Factors underlying sensitivity of cancers to small-molecule kinase inhibitors.",
+        "journal": "Nat Rev Drug Discov 8:709-23 (2009) DOI:10.1038/nrd2871",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19629074",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Roskoski R Jr"
+        ],
+        "title": "Anaplastic lymphoma kinase (ALK): structure, oncogenic activation, and pharmacological inhibition.",
+        "journal": "Pharmacol Res 68:68-94 (2013) DOI:10.1016/j.phrs.2012.11.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23201355",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Reungwetwattana T",
+          "Weroha SJ",
+          "Molina JR"
+        ],
+        "title": "Oncogenic pathways, molecularly targeted therapies, and highlighted clinical trials in non-small-cell lung cancer (NSCLC).",
+        "journal": "Clin Lung Cancer 13:252-66 (2012) DOI:10.1016/j.cllc.2011.09.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22154278",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Popat S",
+          "Gonzalez D",
+          "Min T",
+          "Swansbury J",
+          "Dainton M",
+          "Croud JG",
+          "Rice AJ",
+          "Nicholson AG"
+        ],
+        "title": "ALK translocation is associated with ALK immunoreactivity and extensive signet-ring morphology in primary lung adenocarcinoma.",
+        "journal": "Lung Cancer 75:300-5 (2012) DOI:10.1016/j.lungcan.2011.07.017",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21855164",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yoshida A",
+          "Tsuta K",
+          "Nakamura H",
+          "Kohno T",
+          "Takahashi F",
+          "Asamura H",
+          "Sekine I",
+          "Fukayama M",
+          "Shibata T",
+          "Furuta K",
+          "Tsuda H"
+        ],
+        "title": "Comprehensive histologic analysis of ALK-rearranged lung carcinomas.",
+        "journal": "Am J Surg Pathol 35:1226-34 (2011) DOI:10.1097/PAS.0b013e3182233e06",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21753699",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shaozhang Z",
+          "Xiaomei L",
+          "Aiping Z",
+          "Jianbo H",
+          "Xiangqun S",
+          "Qitao Y"
+        ],
+        "title": "Detection of EML4-ALK fusion genes in non-small cell lung cancer patients with clinical features associated with EGFR mutations.",
+        "journal": "Genes Chromosomes Cancer 51:925-32 (2012) DOI:10.1002/gcc.21976",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22736493",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Toyooka S",
+          "Mitsudomi T",
+          "Soh J",
+          "Aokage K",
+          "Yamane M",
+          "Oto T",
+          "Kiura K",
+          "Miyoshi S"
+        ],
+        "title": "Molecular oncology of lung cancer.",
+        "journal": "Gen Thorac Cardiovasc Surg 59:527-37 (2011) DOI:10.1007/s11748-010-0743-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21850578",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Koudelakova V",
+          "Kneblova M",
+          "Trojanec R",
+          "Drabek J",
+          "Hajduch M"
+        ],
+        "title": "Non-small cell lung cancer--genetic predictors.",
+        "journal": "Biomed Pap Med Fac Univ Palacky Olomouc Czech Repub 157:125-36 (2013) DOI:10.5507/bp.2013.034",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23733083",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05223"
+  }
+]

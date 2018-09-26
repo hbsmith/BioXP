@@ -1,0 +1,500 @@
+[
+  {
+    "entry_id": "map00253",
+    "name": "Tetracycline biosynthesis",
+    "description": "Tetracyclines are aromatic polyketide antibiotics produced by Streptomyces species via type II polyketide synthases (PKSs). Tetracyclines contain a linear tetracyclic skeleton, which is formed from a malonamate starter unit and malonyl-CoA extender units through a common polyketide pathway [MD:M00778]. This diagram shows biosynthesis of naturally occurring tetracyclines (tetracycline, oxytetracycline and chlortetracycline) via a common intermediate anhydrotetracycline [MD:M00780 M00823].",
+    "classes": [
+      "Metabolism",
+      "Metabolism of terpenoids and polyketides"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0043644"
+      ]
+    },
+    "pathways": {
+      "map00253": "Tetracycline biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Petkovic H",
+          "Cullum J",
+          "Hranueli D",
+          "Hunter IS",
+          "Peric-Concha N",
+          "Pigac J",
+          "Thamchaipenet A",
+          "Vujaklija D",
+          "Long PF"
+        ],
+        "title": "Genetics of Streptomyces rimosus, the oxytetracycline producer.",
+        "journal": "Microbiol Mol Biol Rev 70:704-28 (2006) DOI:10.1128/MMBR.00004-06",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16959966",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pickens LB",
+          "Tang Y"
+        ],
+        "title": "Oxytetracycline biosynthesis.",
+        "journal": "J Biol Chem 285:27509-15 (2010) DOI:10.1074/jbc.R110.130419",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20522541",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang W",
+          "Ames BD",
+          "Tsai SC",
+          "Tang Y"
+        ],
+        "title": "Engineered biosynthesis of a novel amidated polyketide, using the malonamyl-specific initiation module from the oxytetracycline polyketide synthase.",
+        "journal": "Appl Environ Microbiol 72:2573-80 (2006) DOI:10.1128/AEM.72.4.2573-2580.2006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16597959",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dewick PM."
+        ],
+        "title": "Medicinal Natural Products: A Biosynthetic Approach, Second Edition",
+        "journal": "John Wiley and Sons",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2001",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Miller PA",
+          "Hash JH"
+        ],
+        "title": "S-adenosylmethionine:dedimethylamino-4-aminoanhydrotetracycline N-methyltransferase.",
+        "journal": "Methods Enzymol 43:603-6 (1975) DOI:10.1016/0076-6879(75)43122-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "1134373",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Miller PA",
+          "Hash JH"
+        ],
+        "title": "ADP; tetracyclin 5a(11a)dehydrogenase.",
+        "journal": "Methods Enzymol 43:606-7 (1975) DOI:10.1016/0076-6879(75)43123-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "1134374",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang P",
+          "Zhang W",
+          "Zhan J",
+          "Tang Y"
+        ],
+        "title": "Identification of OxyE as an ancillary oxygenase during tetracycline biosynthesis.",
+        "journal": "Chembiochem 10:1544-50 (2009) DOI:10.1002/cbic.200900122",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19472250",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang W",
+          "Watanabe K",
+          "Cai X",
+          "Jung ME",
+          "Tang Y",
+          "Zhan J"
+        ],
+        "title": "Identifying the minimal enzymes required for anhydrotetracycline biosynthesis.",
+        "journal": "J Am Chem Soc 130:6068-9 (2008) DOI:10.1021/ja800951e",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18422316",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Petkovic H",
+          "Thamchaipenet A",
+          "Zhou LH",
+          "Hranueli D",
+          "Raspor P",
+          "Waterman PG",
+          "Hunter IS"
+        ],
+        "title": "Disruption of an aromatase/cyclase from the oxytetracycline gene cluster of Streptomyces rimosus results in production of novel polyketides with shorter chain lengths.",
+        "journal": "J Biol Chem",
+        "volume": "274",
+        "issue": "",
+        "pages": "32829-34",
+        "year": "1999",
+        "pubmed": "10551844",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Peric-Concha N",
+          "Borovicka B",
+          "Long PF",
+          "Hranueli D",
+          "Waterman PG",
+          "Hunter IS"
+        ],
+        "title": "Ablation of the otcC gene encoding a post-polyketide hydroxylase from the oxytetracyline biosynthetic pathway in Streptomyces rimosus results in novel polyketides with altered chain length.",
+        "journal": "J Biol Chem 280:37455-60 (2005) DOI:10.1074/jbc.M503191200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16148009",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang W",
+          "Watanabe K",
+          "Wang CC",
+          "Tang Y"
+        ],
+        "title": "Investigation of early tailoring reactions in the oxytetracycline biosynthetic pathway.",
+        "journal": "J Biol Chem 282:25717-25 (2007) DOI:10.1074/jbc.M703437200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17631493",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kim ES",
+          "Bibb MJ",
+          "Butler MJ",
+          "Hopwood DA",
+          "Sherman DH."
+        ],
+        "title": "Sequences of the oxytetracycline polyketide synthase-encoding otc genes from Streptomyces rimosus.",
+        "journal": "Gene 141:141-2 (1994) DOI:10.1016/0378-1119(94)90144-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "8163168",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dairi T",
+          "Nakano T",
+          "Aisaka K",
+          "Katsumata R",
+          "Hasegawa M."
+        ],
+        "title": "Cloning and nucleotide sequence of the gene responsible for chlorination of tetracycline.",
+        "journal": "Biosci Biotechnol Biochem 59:1099-106 (1995) DOI:10.1271/bbb.59.1099",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "7612997",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang P",
+          "Bashiri G",
+          "Gao X",
+          "Sawaya MR",
+          "Tang Y"
+        ],
+        "title": "Uncovering the enzymes that catalyze the final steps in oxytetracycline biosynthesis.",
+        "journal": "J Am Chem Soc 135:7138-41 (2013) DOI:10.1021/ja403516u",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23621493",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhu T",
+          "Cheng X",
+          "Liu Y",
+          "Deng Z",
+          "You D"
+        ],
+        "title": "Deciphering and engineering of the final step halogenase for improved chlortetracycline biosynthesis in industrial Streptomyces aureofaciens.",
+        "journal": "Metab Eng 19:69-78 (2013) DOI:10.1016/j.ymben.2013.06.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23800859",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yang W",
+          "Moore IF",
+          "Koteva KP",
+          "Bareich DC",
+          "Hughes DW",
+          "Wright GD"
+        ],
+        "title": "TetX is a flavin-dependent monooxygenase conferring resistance to tetracycline antibiotics.",
+        "journal": "J Biol Chem 279:52346-52 (2004) DOI:10.1074/jbc.M409573200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15452119",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00778": "Type II polyketide backbone biosynthesis, acyl-CoA + malonyl-CoA => polyketide [PATH:map00253]",
+      "M00780": "Tetracycline/oxytetracycline biosynthesis, pretetramide => tetracycline/oxytetracycline [PATH:map00253]",
+      "M00823": "Chlortetracycline biosynthesis, pretetramide => chlortetracycline [PATH:map00253]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00253"
+  }
+]

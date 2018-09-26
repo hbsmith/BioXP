@@ -1,0 +1,672 @@
+[
+  {
+    "entry_id": "map04214",
+    "name": "Apoptosis - fly",
+    "description": "Apoptosis, or programmed cell death, is a critical factor in homeostasis in all multicellular organisms, playing a crucial role in removing excess unwanted cells without stimulation of an immune response. Caspases are the central components of the apoptotic response. In Drosophila, Dark promotes activation of the initiator caspase Dronc. Drosophila inhibitor of apoptosis protein 1 (DIAP1) inhibits Dronc and the effector caspases Drice and Dcp-1. RHG family proteins such as Rpr, Hid, Grim, Sickle, and Jafrac-2 promote cell death, in part by disrupting DIAP1's ability to inhibit caspase activity. Proapoptotic proteins such as caspases and RHG proteins are regulated through multiple pathways. The Drosophila steroid hormone ecdysone mediates cell death by controling the up-regulation of a number of proapoptotic genes. Cytotoxic stress such as DNA damage can activate P53, which in turn induces the expression of RHG genes. Eiger can initiate cell death through an IAP-sensitive cell death pathway via JNK signaling. Hid, a member of the RHG family, is negatively regulated by the epidermal growth factor (EGF) receptor-dependent survival signaling and positively regulated by the tumor suppressors Hippo, Salvador, and Warts.",
+    "classes": [
+      "Cellular Processes",
+      "Cell growth and death"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map04214": "Apoptosis - fly"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Hay BA",
+          "Guo M"
+        ],
+        "title": "Caspase-dependent cell death in Drosophila.",
+        "journal": "Annu Rev Cell Dev Biol 22:623-50 (2006) DOI:10.1146/annurev.cellbio.21.012804.093845",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16842034",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hay BA",
+          "Huh JR",
+          "Guo M"
+        ],
+        "title": "The genetics of cell death: approaches, insights and opportunities in Drosophila.",
+        "journal": "Nat Rev Genet 5:911-22 (2004) DOI:10.1038/nrg1491",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15573123",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kumar S",
+          "Cakouros D"
+        ],
+        "title": "Transcriptional control of the core cell-death machinery.",
+        "journal": "Trends Biochem Sci 29:193-9 (2004) DOI:10.1016/j.tibs.2004.02.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15082313",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fuchs Y",
+          "Steller H"
+        ],
+        "title": "Live to die another way: modes of programmed cell death and the signals emanating from dying cells.",
+        "journal": "Nat Rev Mol Cell Biol 16:329-44 (2015) DOI:10.1038/nrm3999",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25991373",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Arya R",
+          "White K"
+        ],
+        "title": "Cell death in development: Signaling pathways and core mechanisms.",
+        "journal": "Semin Cell Dev Biol 39:12-9 (2015) DOI:10.1016/j.semcdb.2015.02.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25668151",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Danial NN",
+          "Korsmeyer SJ"
+        ],
+        "title": "Cell death: critical control points.",
+        "journal": "Cell 116:205-19 (2004) DOI:10.1016/S0092-8674(04)00046-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14744432",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gorski S",
+          "Marra M"
+        ],
+        "title": "Programmed cell death takes flight: genetic and genomic approaches to gene discovery in Drosophila.",
+        "journal": "Physiol Genomics 9:59-69 (2002) DOI:10.1152/physiolgenomics.00114.2001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12006672",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Richardson H",
+          "Kumar S"
+        ],
+        "title": "Death to flies: Drosophila as a model system to study programmed cell death.",
+        "journal": "J Immunol Methods 265:21-38 (2002) DOI:10.1016/S0022-1759(02)00068-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12072176",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kuranaga E"
+        ],
+        "title": "Caspase signaling in animal development.",
+        "journal": "Dev Growth Differ 53:137-48 (2011) DOI:10.1111/j.1440-169X.2010.01237.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21338340",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bergmann A",
+          "Steller H"
+        ],
+        "title": "Apoptosis, stem cells, and tissue regeneration.",
+        "journal": "Sci Signal 3:re8 (2010) DOI:10.1126/scisignal.3145re8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20978240",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Riedl SJ",
+          "Shi Y"
+        ],
+        "title": "Molecular mechanisms of caspase regulation during apoptosis.",
+        "journal": "Nat Rev Mol Cell Biol 5:897-907 (2004) DOI:10.1038/nrm1496",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15520809",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Igaki T",
+          "Miura M"
+        ],
+        "title": "Role of Bcl-2 family members in invertebrates.",
+        "journal": "Biochim Biophys Acta 1644:73-81 (2004) DOI:10.1016/j.bbamcr.2003.09.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14996492",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Clavier A",
+          "Rincheval-Arnold A",
+          "Colin J",
+          "Mignotte B",
+          "Guenal I"
+        ],
+        "title": "Apoptosis in Drosophila: which role for mitochondria?",
+        "journal": "Apoptosis 21:239-51 (2016) DOI:10.1007/s10495-015-1209-y",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26679112",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Abdelwahid E",
+          "Rolland S",
+          "Teng X",
+          "Conradt B",
+          "Hardwick JM",
+          "White K"
+        ],
+        "title": "Mitochondrial involvement in cell death of non-mammalian eukaryotes.",
+        "journal": "Biochim Biophys Acta 1813:597-607 (2011) DOI:10.1016/j.bbamcr.2010.10.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20950655",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Demay Y",
+          "Perochon J",
+          "Szuplewski S",
+          "Mignotte B",
+          "Gaumer S"
+        ],
+        "title": "The PERK pathway independently triggers apoptosis and a Rac1/Slpr/JNK/Dilp8 signaling favoring tissue homeostasis in a chronic ER stress Drosophila model.",
+        "journal": "Cell Death Dis 5:e1452 (2014) DOI:10.1038/cddis.2014.403",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25299777",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kilpatrick ZE",
+          "Cakouros D",
+          "Kumar S"
+        ],
+        "title": "Ecdysone-mediated up-regulation of the effector caspase DRICE is required for hormone-dependent apoptosis in Drosophila cells.",
+        "journal": "J Biol Chem 280:11981-6 (2005) DOI:10.1074/jbc.M413971200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15657059",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yu SY",
+          "Yoo SJ",
+          "Yang L",
+          "Zapata C",
+          "Srinivasan A",
+          "Hay BA",
+          "Baker NE"
+        ],
+        "title": "A pathway of signals regulating effector and initiator caspases in the developing Drosophila eye.",
+        "journal": "Development",
+        "volume": "129",
+        "issue": "",
+        "pages": "3269-78",
+        "year": "2002",
+        "pubmed": "12070100",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "McNeill H",
+          "Downward J"
+        ],
+        "title": "Apoptosis: Ras to the rescue in the fly eye.",
+        "journal": "Curr Biol 9:R176-9 (1999) DOI:10.1016/S0960-9822(99)80107-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10074440",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Narasimamurthy R",
+          "Geuking P",
+          "Ingold K",
+          "Willen L",
+          "Schneider P",
+          "Basler K"
+        ],
+        "title": "Structure-function analysis of Eiger, the Drosophila TNF homolog.",
+        "journal": "Cell Res 19:392-4 (2009) DOI:10.1038/cr.2009.16",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19223855",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Liu B",
+          "Behura SK",
+          "Clem RJ",
+          "Schneemann A",
+          "Becnel J",
+          "Severson DW",
+          "Zhou L"
+        ],
+        "title": "P53-mediated rapid induction of apoptosis conveys resistance to viral infection in Drosophila melanogaster.",
+        "journal": "PLoS Pathog 9:e1003137 (2013) DOI:10.1371/journal.ppat.1003137",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23408884",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kuranaga E",
+          "Kanuka H",
+          "Igaki T",
+          "Sawamoto K",
+          "Ichijo H",
+          "Okano H",
+          "Miura M"
+        ],
+        "title": "Reaper-mediated inhibition of DIAP1-induced DTRAF1 degradation results in activation of JNK in Drosophila.",
+        "journal": "Nat Cell Biol 4:705-10 (2002) DOI:10.1038/ncb842",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12198495",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Creagh EM",
+          "Brumatti G",
+          "Sheridan C",
+          "Duriez PJ",
+          "Taylor RC",
+          "Cullen SP",
+          "Adrain C",
+          "Martin SJ"
+        ],
+        "title": "Bicaudal is a conserved substrate for Drosophila and mammalian caspases and is essential for cell survival.",
+        "journal": "PLoS One 4:e5055 (2009) DOI:10.1371/journal.pone.0005055",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19330035",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bilak A",
+          "Su TT"
+        ],
+        "title": "Regulation of Drosophila melanogaster pro-apoptotic gene hid.",
+        "journal": "Apoptosis 14:943-9 (2009) DOI:10.1007/s10495-009-0374-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19554451",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00685": "Apoptotic machinery [PATH:map04214]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04214"
+  }
+]

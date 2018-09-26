@@ -1,0 +1,476 @@
+[
+  {
+    "entry_id": "map04611",
+    "name": "Platelet activation",
+    "description": "Platelets play a key and beneficial role for primary hemostasis on the disruption of the integrity of vessel wall. Platelet adhesion and activation at sites of vascular wall injury is initiated by adhesion to adhesive macromolecules, such as collagen and von Willebrand factor (vWF), or by soluble platelet agonists, such as ADP, thrombin, and thromboxane A2. Different receptors are stimulated by various agonists, almost converging in increasing intracellular Ca2+ concentration that stimulate platelet shape change and granule secretion and ultimately induce the \"inside-out\" signaling process leading to activation of the ligand-binding function of integrin alpha IIb beta 3. Binding of alpha IIb beta 3 to its ligands, mainly fibrinogen, mediates platelet adhesion and aggregation and triggers \"outside-in\" signaling, resulting in platelet spreading, additional granule secretion, stabilization of platelet adhesion and aggregation, and clot retraction.",
+    "classes": [
+      "Organismal Systems",
+      "Immune system"
+    ],
+    "diseases": {
+      "H01740": "Macrothrombocytopenia",
+      "H02092": "von Willebrand disease",
+      "H02093": "Platelet-type von Willebrand disease",
+      "H02191": "Noonan-like syndrome with loose anagen hair"
+    },
+    "dblinks": {
+      "GO": [
+        "0030168"
+      ]
+    },
+    "pathways": {
+      "map04611": "Platelet activation"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Li Z",
+          "Delaney MK",
+          "O'Brien KA",
+          "Du X"
+        ],
+        "title": "Signaling during platelet adhesion and activation.",
+        "journal": "Arterioscler Thromb Vasc Biol 30:2341-9 (2010) DOI:10.1161/ATVBAHA.110.207522",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21071698",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Broos K",
+          "De Meyer SF",
+          "Feys HB",
+          "Vanhoorelbeke K",
+          "Deckmyn H"
+        ],
+        "title": "Blood platelet biochemistry.",
+        "journal": "Thromb Res 129:245-9 (2012) DOI:10.1016/j.thromres.2011.11.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22119499",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jurk K",
+          "Kehrel BE"
+        ],
+        "title": "Platelets: physiology and biochemistry.",
+        "journal": "Semin Thromb Hemost 31:381-92 (2005) DOI:10.1055/s-2005-916671",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16149014",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Offermanns S"
+        ],
+        "title": "Activation of platelet function through G protein-coupled receptors.",
+        "journal": "Circ Res 99:1293-304 (2006) DOI:10.1161/01.RES.0000251742.71301.16",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17158345",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Varga-Szabo D",
+          "Pleines I",
+          "Nieswandt B"
+        ],
+        "title": "Cell adhesion mechanisms in platelets.",
+        "journal": "Arterioscler Thromb Vasc Biol 28:403-12 (2008) DOI:10.1161/ATVBAHA.107.150474",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18174460",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yin H",
+          "Liu J",
+          "Li Z",
+          "Berndt MC",
+          "Lowell CA",
+          "Du X"
+        ],
+        "title": "Src family tyrosine kinase Lyn mediates VWF/GPIb-IX-induced platelet activation via the cGMP signaling pathway.",
+        "journal": "Blood 112:1139-46 (2008) DOI:10.1182/blood-2008-02-140970",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18550847",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bergmeier W",
+          "Stefanini L"
+        ],
+        "title": "Novel molecules in calcium signaling in platelets.",
+        "journal": "J Thromb Haemost 7 Suppl 1:187-90 (2009) DOI:10.1111/j.1538-7836.2009.03379.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19630797",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cifuni SM",
+          "Wagner DD",
+          "Bergmeier W"
+        ],
+        "title": "CalDAG-GEFI and protein kinase C represent alternative pathways leading to activation of integrin alphaIIbbeta3 in platelets.",
+        "journal": "Blood 112:1696-703 (2008) DOI:10.1182/blood-2008-02-139733",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18544684",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Heemskerk JW",
+          "Mattheij NJ",
+          "Cosemans JM"
+        ],
+        "title": "Platelet-based coagulation: different populations, different functions.",
+        "journal": "J Thromb Haemost 11:2-16 (2013) DOI:10.1111/jth.12045",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23106920",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rivera J",
+          "Lozano ML",
+          "Navarro-Nunez L",
+          "Vicente V"
+        ],
+        "title": "Platelet receptors and signaling in the dynamics of thrombus formation.",
+        "journal": "Haematologica 94:700-11 (2009) DOI:10.3324/haematol.2008.003178",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19286885",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Banno A",
+          "Ginsberg MH"
+        ],
+        "title": "Integrin activation.",
+        "journal": "Biochem Soc Trans 36:229-34 (2008) DOI:10.1042/BST0360229",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18363565",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Angiolillo DJ",
+          "Ferreiro JL"
+        ],
+        "title": "Platelet adenosine diphosphate P2Y12 receptor antagonism: benefits and limitations of current treatment strategies and future directions.",
+        "journal": "Rev Esp Cardiol",
+        "volume": "63",
+        "issue": "",
+        "pages": "60-76",
+        "year": "2010",
+        "pubmed": "20089227",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Joo SJ"
+        ],
+        "title": "Mechanisms of Platelet Activation and Integrin alphaIIbeta3.",
+        "journal": "Korean Circ J 42:295-301 (2012) DOI:10.4070/kcj.2012.42.5.295",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22701130",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Harper MT",
+          "Poole AW"
+        ],
+        "title": "Diverse functions of protein kinase C isoforms in platelet activation and thrombus formation.",
+        "journal": "J Thromb Haemost 8:454-62 (2010) DOI:10.1111/j.1538-7836.2009.03722.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20002545",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fitch-Tewfik JL",
+          "Flaumenhaft R"
+        ],
+        "title": "Platelet granule exocytosis: a comparison with chromaffin cells.",
+        "journal": "Front Endocrinol (Lausanne) 4:77 (2013) DOI:10.3389/fendo.2013.00077",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23805129",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Boylan B",
+          "Gao C",
+          "Rathore V",
+          "Gill JC",
+          "Newman DK",
+          "Newman PJ"
+        ],
+        "title": "Identification of FcgammaRIIa as the ITAM-bearing receptor mediating alphaIIbbeta3 outside-in integrin signaling in human platelets.",
+        "journal": "Blood 112:2780-6 (2008) DOI:10.1182/blood-2008-02-142125",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18641368",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04611"
+  }
+]

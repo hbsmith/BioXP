@@ -1,0 +1,173 @@
+[
+  {
+    "entry_id": "map00515",
+    "name": "Mannose type O-glycan biosynthesis",
+    "description": "Biosynthesis of mammalian O-mannosyl glycans is initiated by the transfer of mannose from mannose-P-Dol to serine or threonine residue, followed by extensions with N-acetylglucosamine (GlcNAc) and galactose (Gal) to generate core M1, M2 and M3 glycans. Core M1 and M2 glycans can then be further attached by fucose residues, sialic acid terminals and sulfatded glucuroinc acid terminals. Core M3 glycan is involved in the synthesis of alpha-dystroglycan, a heavily glycosylated protein found in muscle and brain tissues. Core M3 glycan contains a tandem repeat of ribitol 5-phosphate (Rbo5P) and -alpha3-GlcA-beta3-Xyl- repeating structures. Defects of genes encoding core glycans and modified core M3 glycans are associated with various congenital diseases, such as muscular dystrophies caused by reduced O-mannosylation of alpha-dystroglycan in skeletal muscles [DS:H00120].",
+    "classes": [
+      "Metabolism",
+      "Glycan biosynthesis and metabolism"
+    ],
+    "diseases": {
+      "H00120": "Muscular dystrophy-dystroglycanopathy type A",
+      "H00593": "Limb-girdle muscular dystrophy",
+      "H01957": "Fukuyama congenital muscular dystrophy",
+      "H01959": "Muscular dystrophy-dystroglycanopathy type C",
+      "H01960": "Muscular dystrophy-dystroglycanopathy type B",
+      "H01961": "Congenital muscular dystrophy type 1C",
+      "H01962": "Congenital muscular dystrophy type 1D"
+    },
+    "dblinks": {
+      "GO": [
+        "0006493"
+      ]
+    },
+    "pathways": {
+      "map00515": "Mannose type O-glycan biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Praissman JL",
+          "Wells L"
+        ],
+        "title": "Mammalian O-mannosylation pathway: glycan structures, enzymes, and protein substrates.",
+        "journal": "Biochemistry 53:3066-78 (2014) DOI:10.1021/bi500153y",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24786756",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Stalnaker SH",
+          "Stuart R",
+          "Wells L"
+        ],
+        "title": "Mammalian O-mannosylation: unsolved questions of structure/function.",
+        "journal": "Curr Opin Struct Biol 21:603-9 (2011) DOI:10.1016/j.sbi.2011.09.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21945038",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kanagawa M",
+          "Kobayashi K",
+          "Tajiri M",
+          "Manya H",
+          "Kuga A",
+          "Yamaguchi Y",
+          "Akasaka-Manya K",
+          "Furukawa J",
+          "Mizuno M",
+          "Kawakami H",
+          "Shinohara Y",
+          "Wada Y",
+          "Endo T",
+          "Toda T"
+        ],
+        "title": "Identification of a Post-translational Modification with Ribitol-Phosphate and Its Defect in Muscular Dystrophy.",
+        "journal": "Cell Rep 14:2209-23 (2016) DOI:10.1016/j.celrep.2016.02.017",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26923585",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Manya H",
+          "Yamaguchi Y",
+          "Kanagawa M",
+          "Kobayashi K",
+          "Tajiri M",
+          "Akasaka-Manya K",
+          "Kawakami H",
+          "Mizuno M",
+          "Wada Y",
+          "Toda T",
+          "Endo T"
+        ],
+        "title": "The Muscular Dystrophy Gene TMEM5 Encodes a Ribitol beta1,4-Xylosyltransferase Required for the Functional Glycosylation of Dystroglycan.",
+        "journal": "J Biol Chem 291:24618-24627 (2016) DOI:10.1074/jbc.M116.751917",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27733679",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00515"
+  }
+]

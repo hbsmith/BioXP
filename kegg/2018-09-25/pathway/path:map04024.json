@@ -1,0 +1,779 @@
+[
+  {
+    "entry_id": "map04024",
+    "name": "cAMP signaling pathway",
+    "description": "cAMP is one of the most common and universal second messengers, and its formation is promoted by adenylyl cyclase (AC) activation after ligation of G protein-coupled receptors (GPCRs) by ligands including hormones, neurotransmitters, and other signaling molecules. cAMP regulates pivotal physiologic processes including metabolism, secretion, calcium homeostasis, muscle contraction, cell fate, and gene transcription. cAMP acts directly on three main targets: protein kinase A (PKA), the exchange protein activated by cAMP (Epac), and cyclic nucleotide-gated ion channels (CNGCs). PKA modulates, via phosphorylation, a number of cellular substrates, including transcription factors, ion channels, transporters, exchangers, intracellular Ca2+ -handling proteins, and the contractile machinery. Epac proteins function as guanine nucleotide exchange factors (GEFs) for both Rap1 and Rap2. Various effector proteins, including adaptor proteins implicated in modulation of the actin cytoskeleton, regulators of G proteins of the Rho family, and phospholipases, relay signaling downstream from Rap.",
+    "classes": [
+      "Environmental Information Processing",
+      "Signal transduction"
+    ],
+    "diseases": {
+      "H00773": "Autosomal dominant mental retardation",
+      "H01703": "Eating Disorders"
+    },
+    "dblinks": {
+      "GO": [
+        "0019933"
+      ]
+    },
+    "pathways": {
+      "map04024": "cAMP signaling pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Fimia GM",
+          "Sassone-Corsi P"
+        ],
+        "title": "Cyclic AMP signalling.",
+        "journal": "J Cell Sci",
+        "volume": "114",
+        "issue": "",
+        "pages": "1971-2",
+        "year": "2001",
+        "pubmed": "11493633",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Serezani CH",
+          "Ballinger MN",
+          "Aronoff DM",
+          "Peters-Golden M"
+        ],
+        "title": "Cyclic AMP: master regulator of innate immune cell function.",
+        "journal": "Am J Respir Cell Mol Biol 39:127-32 (2008) DOI:10.1165/rcmb.2008-0091TR",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18323530",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Oldenburger A",
+          "Maarsingh H",
+          "Schmidt M"
+        ],
+        "title": "Multiple facets of cAMP signalling and physiological impact: cAMP compartmentalization in the lung.",
+        "journal": "Pharmaceuticals (Basel) 5:1291-331 (2012) DOI:10.3390/ph5121291",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24281338",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ahuja M",
+          "Jha A",
+          "Maleth J",
+          "Park S",
+          "Muallem S"
+        ],
+        "title": "cAMP and Ca signaling in secretory epithelia: Crosstalk and synergism.",
+        "journal": "Cell Calcium 55:385-393 (2014) DOI:10.1016/j.ceca.2014.01.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24613710",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shirshev SV"
+        ],
+        "title": "Role of Epac proteins in mechanisms of cAMP-dependent immunoregulation.",
+        "journal": "Biochemistry (Mosc) 76:981-98 (2011) DOI:10.1134/S000629791109001X",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22082266",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Roscioni SS",
+          "Elzinga CR",
+          "Schmidt M"
+        ],
+        "title": "Epac: effectors and biological functions.",
+        "journal": "Naunyn Schmiedebergs Arch Pharmacol 377:345-57 (2008) DOI:10.1007/s00210-007-0246-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18176800",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Roberts OL",
+          "Dart C"
+        ],
+        "title": "cAMP signalling in the vasculature: the role of Epac (exchange protein directly activated by cAMP).",
+        "journal": "Biochem Soc Trans 42:89-97 (2014) DOI:10.1042/BST20130253",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24450633",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schaub MC",
+          "Hefti MA",
+          "Zaugg M"
+        ],
+        "title": "Integration of calcium with the signaling network in cardiac myocytes.",
+        "journal": "J Mol Cell Cardiol 41:183-214 (2006) DOI:10.1016/j.yjmcc.2006.04.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16765984",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Triposkiadis F",
+          "Karayannis G",
+          "Giamouzis G",
+          "Skoularigis J",
+          "Louridas G",
+          "Butler J"
+        ],
+        "title": "The sympathetic nervous system in heart failure physiology, pathophysiology, and clinical implications.",
+        "journal": "J Am Coll Cardiol 54:1747-62 (2009) DOI:10.1016/j.jacc.2009.05.015",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19874988",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Saucerman JJ",
+          "McCulloch AD"
+        ],
+        "title": "Mechanistic systems models of cell signaling networks: a case study of myocyte adrenergic regulation.",
+        "journal": "Prog Biophys Mol Biol 85:261-78 (2004) DOI:10.1016/j.pbiomolbio.2004.01.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15142747",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yang JH",
+          "Saucerman JJ"
+        ],
+        "title": "Computational models reduce complexity and accelerate insight into cardiac signaling networks.",
+        "journal": "Circ Res 108:85-97 (2011) DOI:10.1161/CIRCRESAHA.110.223602",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21212391",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Taggart P",
+          "Boyett MR",
+          "Logantha S",
+          "Lambiase PD"
+        ],
+        "title": "Anger, emotion, and arrhythmias: from brain to heart.",
+        "journal": "Front Physiol 2:67 (2011) DOI:10.3389/fphys.2011.00067",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22022314",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bozzi Y",
+          "Dunleavy M",
+          "Henshall DC"
+        ],
+        "title": "Cell signaling underlying epileptic behavior.",
+        "journal": "Front Behav Neurosci 5:45 (2011) DOI:10.3389/fnbeh.2011.00045",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21852968",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lizcano JM",
+          "Morrice N",
+          "Cohen P"
+        ],
+        "title": "Regulation of BAD by cAMP-dependent protein kinase is mediated via phosphorylation of a novel site, Ser155.",
+        "journal": "Biochem J 349:547-57 (2000) DOI:10.1042/bj3490547",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10880354",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gerlo S",
+          "Kooijman R",
+          "Beck IM",
+          "Kolmus K",
+          "Spooren A",
+          "Haegeman G"
+        ],
+        "title": "Cyclic AMP: a selective modulator of NF-kappaB action.",
+        "journal": "Cell Mol Life Sci 68:3823-41 (2011) DOI:10.1007/s00018-011-0757-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21744067",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lauder JM"
+        ],
+        "title": "Neurotransmitters as growth regulatory signals: role of receptors and second messengers.",
+        "journal": "Trends Neurosci 16:233-40 (1993) DOI:10.1016/0166-2236(93)90162-F",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "7688165",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Voglis G",
+          "Tavernarakis N"
+        ],
+        "title": "The role of synaptic ion channels in synaptic plasticity.",
+        "journal": "EMBO Rep 7:1104-10 (2006) DOI:10.1038/sj.embor.7400830",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17077866",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Altarejos JY",
+          "Montminy M"
+        ],
+        "title": "CREB and the CRTC co-activators: sensors for hormonal and metabolic signals.",
+        "journal": "Nat Rev Mol Cell Biol 12:141-51 (2011) DOI:10.1038/nrm3072",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21346730",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bozzi Y",
+          "Borrelli E"
+        ],
+        "title": "The role of dopamine signaling in epileptogenesis.",
+        "journal": "Front Cell Neurosci 7:157 (2013) DOI:10.3389/fncel.2013.00157",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24062645",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ceulemans H",
+          "Bollen M"
+        ],
+        "title": "Functional diversity of protein phosphatase-1, a cellular economizer and reset button.",
+        "journal": "Physiol Rev 84:1-39 (2004) DOI:10.1152/physrev.00013.2003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14715909",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lipinski RJ",
+          "Gipp JJ",
+          "Zhang J",
+          "Doles JD",
+          "Bushman W"
+        ],
+        "title": "Unique and complimentary activities of the Gli transcription factors in Hedgehog signaling.",
+        "journal": "Exp Cell Res 312:1925-38 (2006) DOI:10.1016/j.yexcr.2006.02.019",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16571352",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lasala C",
+          "Schteingart HF",
+          "Arouche N",
+          "Bedecarras P",
+          "Grinspon RP",
+          "Picard JY",
+          "Josso N",
+          "di Clemente N",
+          "Rey RA"
+        ],
+        "title": "SOX9 and SF1 are involved in cyclic AMP-mediated upregulation of anti-Mullerian gene expression in the testicular prepubertal Sertoli cell line SMAT1.",
+        "journal": "Am J Physiol Endocrinol Metab 301:E539-47 (2011) DOI:10.1152/ajpendo.00187.2011",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21693691",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rosenkranz AC",
+          "Rauch BH",
+          "Freidel K",
+          "Schror K"
+        ],
+        "title": "Regulation of protease-activated receptor-1 by vasodilatory prostaglandins via NFAT.",
+        "journal": "Cardiovasc Res 83:778-84 (2009) DOI:10.1093/cvr/cvp163",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19460777",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lazennec G",
+          "Canaple L",
+          "Saugy D",
+          "Wahli W"
+        ],
+        "title": "Activation of peroxisome proliferator-activated receptors (PPARs) by their ligands and protein kinase A activators.",
+        "journal": "Mol Endocrinol 14:1962-75 (2000) DOI:10.1210/mend.14.12.0575",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11117527",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Murthy KS"
+        ],
+        "title": "Signaling for contraction and relaxation in smooth muscle of the gut.",
+        "journal": "Annu Rev Physiol 68:345-74 (2006) DOI:10.1146/annurev.physiol.68.040504.094707",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16460276",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Birukova AA",
+          "Zagranichnaya T",
+          "Alekseeva E",
+          "Bokoch GM",
+          "Birukov KG"
+        ],
+        "title": "Epac/Rap and PKA are novel mechanisms of ANP-induced Rac-mediated pulmonary endothelial barrier protection.",
+        "journal": "J Cell Physiol 215:715-24 (2008) DOI:10.1002/jcp.21354",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18064650",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Houslay MD",
+          "Milligan G"
+        ],
+        "title": "Tailoring cAMP-signalling responses through isoform multiplicity.",
+        "journal": "Trends Biochem Sci 22:217-24 (1997) DOI:10.1016/S0968-0004(97)01050-5",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9204709",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00695": "cAMP signaling [PATH:map04024]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04024"
+  }
+]

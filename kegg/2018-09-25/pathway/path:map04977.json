@@ -1,0 +1,394 @@
+[
+  {
+    "entry_id": "map04977",
+    "name": "Vitamin digestion and absorption",
+    "description": "Vitamins are a diverse and chemically unrelated group of organic substances that share a common feature of being essential for normal health and well-being. They catalyze numerous biochemical reactions. Because humans and other mammals cannot synthesize these compounds (except for some synthesis of niacin), they must obtain them from exogenous sources via intestinal absorption. Vitamins are classified based on their solubility in water or fat. Most of the water-soluble vitamins are transported across the small intestinal membrane by carrier-mediated mechanisms, but vitamin B12, cobalamin, is transported by a receptor-mediated mechanism. Intestinal absorption of fat-soluble vitamins requires all of the processes needed for fat absorption. After digestion, these vitamins and the products of pancreatic hydrolysis of triglycerides (TG) are emulsified by bile salts to form mixed micelles which are taken up by intestinal enterocytes and incorporated into chylomicrons (CM). CM are then secreted into the lymphatic system, and finally moves into the plasma.",
+    "classes": [
+      "Organismal Systems",
+      "Digestive system"
+    ],
+    "diseases": {
+      "H00845": "Familial amyloidosis",
+      "H00930": "Hypoalphalipoproteinemia",
+      "H01182": "Biotinidase deficiency",
+      "H01190": "Transcobalamin II deficiency",
+      "H01231": "Biotin-responsive basal ganglia disease",
+      "H01252": "Hereditary folate malabsorption",
+      "H01270": "Familial hypobetalipoproteinemia",
+      "H01277": "Vitamin B12 deficiency anaemia",
+      "H01565": "Wernicke encephalopathy",
+      "H01903": "Brown-Vialetto-Van Laere syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0051180"
+      ]
+    },
+    "pathways": {
+      "map04977": "Vitamin digestion and absorption"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Said HM",
+          "Mohammed ZM"
+        ],
+        "title": "Intestinal absorption of water-soluble vitamins: an update.",
+        "journal": "Curr Opin Gastroenterol 22:140-6 (2006) DOI:10.1097/01.mog.0000203870.22706.52",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16462170",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Basu TK",
+          "Donaldson D"
+        ],
+        "title": "Intestinal absorption in health and disease: micronutrients.",
+        "journal": "Best Pract Res Clin Gastroenterol 17:957-79 (2003) DOI:10.1016/S1521-6918(03)00084-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14642860",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Said HM"
+        ],
+        "title": "Recent advances in carrier-mediated intestinal absorption of water-soluble vitamins.",
+        "journal": "Annu Rev Physiol 66:419-46 (2004) DOI:10.1146/annurev.physiol.66.032102.144611",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14977409",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Reidling JC",
+          "Nabokina SM",
+          "Balamurugan K",
+          "Said HM"
+        ],
+        "title": "Developmental maturation of intestinal and renal thiamin uptake: studies in wild-type and transgenic mice carrying human THTR-1 and 2 promoters.",
+        "journal": "J Cell Physiol 206:371-7 (2006) DOI:10.1002/jcp.20492",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16206251",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fujimura M",
+          "Yamamoto S",
+          "Murata T",
+          "Yasujima T",
+          "Inoue K",
+          "Ohta KY",
+          "Yuasa H"
+        ],
+        "title": "Functional characteristics of the human ortholog of riboflavin transporter 2 and riboflavin-responsive expression of its rat ortholog in the small intestine indicate its involvement in riboflavin absorption.",
+        "journal": "J Nutr 140:1722-7 (2010) DOI:10.3945/jn.110.128330",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20724488",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Said HM"
+        ],
+        "title": "Cell and molecular aspects of human intestinal biotin absorption.",
+        "journal": "J Nutr 139:158-62 (2009) DOI:10.3945/jn.108.092023",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19056639",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Green R"
+        ],
+        "title": "Ins and outs of cellular cobalamin transport.",
+        "journal": "Blood 115:1476-7 (2010) DOI:10.1182/blood-2009-12-254037",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20185591",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhao R",
+          "Matherly LH",
+          "Goldman ID"
+        ],
+        "title": "Membrane transporters and folate homeostasis: intestinal absorption and transport into systemic compartments and tissues.",
+        "journal": "Expert Rev Mol Med 11:e4 (2009) DOI:10.1017/S1462399409000969",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19173758",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hediger MA"
+        ],
+        "title": "New view at C.",
+        "journal": "Nat Med 8:445-6 (2002) DOI:10.1038/nm0502-445",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11984580",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Harrison EH",
+          "Hussain MM"
+        ],
+        "title": "Mechanisms involved in the intestinal digestion and absorption of dietary vitamin A.",
+        "journal": "J Nutr 131:1405-8 (2001) DOI:10.1093/jn/131.5.1405",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11340090",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Blomhoff R",
+          "Blomhoff HK."
+        ],
+        "title": "Overview of retinoid metabolism and function.",
+        "journal": "J Neurobiol 66:606-30 (2006) DOI:10.1002/neu.20242",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16688755",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lemaire-Ewing S",
+          "Desrumaux C",
+          "Neel D",
+          "Lagrost L"
+        ],
+        "title": "Vitamin E transport, membrane incorporation and cell metabolism: Is alpha-tocopherol in lipid rafts an oar in the lifeboat?",
+        "journal": "Mol Nutr Food Res 54:631-40 (2010) DOI:10.1002/mnfr.200900445",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20166147",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shearer MJ",
+          "Newman P"
+        ],
+        "title": "Metabolism and cell biology of vitamin K.",
+        "journal": "Thromb Haemost 100:530-47 (2008) DOI:10.1160/TH08-03-0147",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18841274",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04977"
+  }
+]

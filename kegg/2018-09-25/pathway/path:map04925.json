@@ -1,0 +1,386 @@
+[
+  {
+    "entry_id": "map04925",
+    "name": "Aldosterone synthesis and secretion",
+    "description": "Aldosterone is a steroid hormone synthesized in and secreted from the outer layer of the adrenal cortex, the zona glomerulosa. Aldosterone plays an important role in the regulation of systemic blood pressure through the absorption of sodium and water. Angiotensin II (Ang II), potassium (K+) and adrenocorticotropin (ACTH) are the main extracellular stimuli which regulate aldosterone secretion. These physiological agonists all converge on two major intracellular signaling pathways: calcium (Ca2+) mobilization and an increase in cAMP production. The increase in cytosolic calcium levels activates calcium/calmodulin- dependent protein kinases (CaMK), and the increased cAMP levels stimulate the activity of cAMP-dependent protein kinase, or protein kinase A (PKA). The activated CaMK, and possibly PKA, activates transcription factors (NURR1 and NGF1B, CREB) to induce StAR and CYP11B2 expression, the early and late rate- limiting steps in aldosterone biosynthesis, respectively, thereby stimulating aldosterone secretion.",
+    "classes": [
+      "Organismal Systems",
+      "Endocrine system"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0035932"
+      ]
+    },
+    "pathways": {
+      "map04925": "Aldosterone synthesis and secretion"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Hattangady NG",
+          "Olala LO",
+          "Bollag WB",
+          "Rainey WE"
+        ],
+        "title": "Acute and chronic regulation of aldosterone production.",
+        "journal": "Mol Cell Endocrinol 350:151-62 (2012) DOI:10.1016/j.mce.2011.07.034",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21839803",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bollag WB"
+        ],
+        "title": "Regulation of aldosterone synthesis and secretion.",
+        "journal": "Compr Physiol 4:1017-55 (2014) DOI:10.1002/cphy.c130037",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24944029",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Spat A",
+          "Hunyady L"
+        ],
+        "title": "Control of aldosterone secretion: a model for convergence in cellular signaling pathways.",
+        "journal": "Physiol Rev 84:489-539 (2004) DOI:10.1152/physrev.00030.2003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15044681",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Boon WC",
+          "Coghlan JP",
+          "Curnow KM",
+          "McDougall JG"
+        ],
+        "title": "Aldosterone secretion: a molecular perspective.",
+        "journal": "Trends Endocrinol Metab 8:346-54 (1997) DOI:10.1016/S1043-2760(97)00136-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18406824",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bassett MH",
+          "Suzuki T",
+          "Sasano H",
+          "White PC",
+          "Rainey WE"
+        ],
+        "title": "The orphan nuclear receptors NURR1 and NGFIB regulate adrenal aldosterone production.",
+        "journal": "Mol Endocrinol 18:279-90 (2004) DOI:10.1210/me.2003-0005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14645496",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Guagliardo NA",
+          "Yao J",
+          "Hu C",
+          "Barrett PQ"
+        ],
+        "title": "Minireview: aldosterone biosynthesis: electrically gated for our protection.",
+        "journal": "Endocrinology 153:3579-86 (2012) DOI:10.1210/en.2012-1339",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22689262",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Spat A",
+          "Fulop L",
+          "Szanda G"
+        ],
+        "title": "The role of mitochondrial Ca(2+) and NAD(P)H in the control of aldosterone secretion.",
+        "journal": "Cell Calcium 52:64-72 (2012) DOI:10.1016/j.ceca.2012.01.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22364774",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Spat A",
+          "Szanda G"
+        ],
+        "title": "Special features of mitochondrial Ca(2)(+) signalling in adrenal glomerulosa cells.",
+        "journal": "Pflugers Arch 464:43-50 (2012) DOI:10.1007/s00424-012-1086-y",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22395411",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tsai LC",
+          "Beavo JA"
+        ],
+        "title": "The roles of cyclic nucleotide phosphodiesterases (PDEs) in steroidogenesis.",
+        "journal": "Curr Opin Pharmacol 11:670-5 (2011) DOI:10.1016/j.coph.2011.09.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21962440",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Delcayre C",
+          "Silvestre JS"
+        ],
+        "title": "Aldosterone and the heart: towards a physiological function?",
+        "journal": "Cardiovasc Res 43:7-12 (1999) DOI:10.1016/S0008-6363(99)00088-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10536682",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lisurek M",
+          "Bernhardt R"
+        ],
+        "title": "Modulation of aldosterone and cortisol synthesis on the molecular level.",
+        "journal": "Mol Cell Endocrinol 215:149-59 (2004) DOI:10.1016/j.mce.2003.11.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15026188",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Miller WL"
+        ],
+        "title": "Steroid hormone synthesis in mitochondria.",
+        "journal": "Mol Cell Endocrinol 379:62-73 (2013) DOI:10.1016/j.mce.2013.04.014",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23628605",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Martinez-Arguelles DB",
+          "Papadopoulos V"
+        ],
+        "title": "Mechanisms mediating environmental chemical-induced endocrine disruption in the adrenal gland.",
+        "journal": "Front Endocrinol (Lausanne) 6:29 (2015) DOI:10.3389/fendo.2015.00029",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25788893",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04925"
+  }
+]

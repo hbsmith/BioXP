@@ -1,0 +1,621 @@
+[
+  {
+    "entry_id": "map04614",
+    "name": "Renin-angiotensin system",
+    "description": "The renin-angiotensin system (RAS) is a peptidergic system with endocrine characteristics regarding to the regulation of the blood pressure and hydro-electrolytic balance. In the classical RAS, the enzyme renin cleaves its substrate angiotensinogen (Agt) forming the decapeptide angiotensin I that is in turn cleaved by angiotensin-converting enzyme (ACE) to produce the angiotensin II (Ang II), a key player of this system. Ang II activates its AT1 receptor (AT1R), the principal receptor that mediates the majority of the known actions of Ang II in the kidney, including vasoconstriction, renal sodium (Na+) reabsorption, and aldosterone secretion, increasing blood pressure and contributing to the development of hypertension. In addition to (ACE)/Ang II/AT1R and AT2R axis, other signaling pathways in the RAS, such as ACE2/angiotensin-(1-7)/Mas and Ang IV/IRAP, and other active peptide of the RAS, with physiological relevance as Ang III, Ang A and alamandine, are now widely recognized.",
+    "classes": [
+      "Organismal Systems",
+      "Endocrine system"
+    ],
+    "diseases": {
+      "H00541": "Autosomal dominant tubulointerstitial kidney disease",
+      "H00575": "Renal tubular dysgenesis",
+      "H01456": "Diabetic nephropathy",
+      "H01457": "Diabetic retinopathy",
+      "H02011": "Familial juvenile hyperuricemic nephropathy"
+    },
+    "dblinks": {
+      "GO": [
+        "0002003"
+      ]
+    },
+    "pathways": {
+      "map04614": "Renin-angiotensin system"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Kramkowski K",
+          "Mogielnicki A",
+          "Buczko W."
+        ],
+        "title": "The physiological significance of the alternative pathways of angiotensin II production.",
+        "journal": "J Physiol Pharmacol",
+        "volume": "57",
+        "issue": "",
+        "pages": "529-39",
+        "year": "2006",
+        "pubmed": "17229979",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Danilczyk U",
+          "Eriksson U",
+          "Oudit GY",
+          "Penninger JM."
+        ],
+        "title": "Physiological roles of angiotensin-converting enzyme 2.",
+        "journal": "Cell Mol Life Sci 61:2714-9 (2004) DOI:10.1007/s00018-004-4241-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15549172",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Warner FJ",
+          "Smith AI",
+          "Hooper NM",
+          "Turner AJ."
+        ],
+        "title": "Angiotensin-converting enzyme-2: a molecular and cellular perspective.",
+        "journal": "Cell Mol Life Sci 61:2704-13 (2004) DOI:10.1007/s00018-004-4240-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15549171",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kurdi M",
+          "De Mello WC",
+          "Booz GW."
+        ],
+        "title": "Working outside the system: an update on the unconventional behavior of the renin-angiotensin system components.",
+        "journal": "Int J Biochem Cell Biol 37:1357-67 (2005) DOI:10.1016/j.biocel.2005.01.012",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15833268",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Burrell LM",
+          "Johnston CI",
+          "Tikellis C",
+          "Cooper ME."
+        ],
+        "title": "ACE2, a new regulator of the renin-angiotensin system.",
+        "journal": "Trends Endocrinol Metab 15:166-9 (2004) DOI:10.1016/j.tem.2004.03.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15109615",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "von Bohlen und Halbach O",
+          "Albrecht D."
+        ],
+        "title": "The CNS renin-angiotensin system.",
+        "journal": "Cell Tissue Res 326:599-616 (2006) DOI:10.1007/s00441-006-0190-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16555051",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schmaier AH"
+        ],
+        "title": "The kallikrein-kinin and the renin-angiotensin systems have a multilayered interaction.",
+        "journal": "Am J Physiol Regul Integr Comp Physiol 285:R1-13 (2003) DOI:10.1152/ajpregu.00535.2002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12793984",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Eriksson U",
+          "Danilczyk U",
+          "Penninger JM."
+        ],
+        "title": "Just the beginning: novel functions for angiotensin-converting enzymes.",
+        "journal": "Curr Biol 12:R745-52 (2002) DOI:10.1016/S0960-9822(02)01255-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12419208",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dielis AW",
+          "Smid M",
+          "Spronk HM",
+          "Hamulyak K",
+          "Kroon AA",
+          "ten Cate H",
+          "de Leeuw PW."
+        ],
+        "title": "The prothrombotic paradox of hypertension: role of the renin-angiotensin and kallikrein-kinin systems.",
+        "journal": "Hypertension 46:1236-42 (2005) DOI:10.1161/01.HYP.0000193538.20705.23",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16286563",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kuba K",
+          "Imai Y",
+          "Penninger JM."
+        ],
+        "title": "Angiotensin-converting enzyme 2 in lung diseases.",
+        "journal": "Curr Opin Pharmacol 6:271-6 (2006) DOI:10.1016/j.coph.2006.03.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16581295",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Erdos EG",
+          "Jackman HL",
+          "Brovkovych V",
+          "Tan F",
+          "Deddish PA."
+        ],
+        "title": "Products of angiotensin I hydrolysis by human cardiac enzymes potentiate bradykinin.",
+        "journal": "J Mol Cell Cardiol 34:1569-76 (2002) DOI:10.1006/jmcc.2002.2080",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12505055",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shrimpton CN",
+          "Smith AI",
+          "Lew RA."
+        ],
+        "title": "Soluble metalloendopeptidases and neuroendocrine signaling.",
+        "journal": "Endocr Rev 23:647-64 (2002) DOI:10.1210/er.2001-0032",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12372844",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jackman HL",
+          "Massad MG",
+          "Sekosan M",
+          "Tan F",
+          "Brovkovych V",
+          "Marcic BM",
+          "Erdos EG."
+        ],
+        "title": "Angiotensin 1-9 and 1-7 release in human heart: role of cathepsin A.",
+        "journal": "Hypertension 39:976-81 (2002) DOI:10.1161/01.HYP.0000017283.67962.02",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12019279",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lundequist A",
+          "Tchougounova E",
+          "Abrink M",
+          "Pejler G."
+        ],
+        "title": "Cooperation between mast cell carboxypeptidase A and the chymase mouse mast cell protease 4 in the formation and degradation of angiotensin II.",
+        "journal": "J Biol Chem 279:32339-44 (2004) DOI:10.1074/jbc.M405576200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15173164",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kehoe PG",
+          "Wilcock GK."
+        ],
+        "title": "Is inhibition of the renin-angiotensin system a new treatment option for Alzheimer's disease?",
+        "journal": "Lancet Neurol 6:373-8 (2007) DOI:10.1016/S1474-4422(07)70077-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17362841",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ferrao FM",
+          "Lara LS",
+          "Lowe J"
+        ],
+        "title": "Renin-angiotensin system in the kidney: What is new?",
+        "journal": "World J Nephrol 3:64-76 (2014) DOI:10.5527/wjn.v3.i3.64",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25332897",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhuo JL",
+          "Ferrao FM",
+          "Zheng Y",
+          "Li XC"
+        ],
+        "title": "New frontiers in the intrarenal Renin-Angiotensin system: a critical review of classical and new paradigms.",
+        "journal": "Front Endocrinol (Lausanne) 4:166 (2013) DOI:10.3389/fendo.2013.00166",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24273531",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Unger T",
+          "Paulis L",
+          "Sica DA"
+        ],
+        "title": "Therapeutic perspectives in hypertension: novel means for renin-angiotensin-aldosterone system modulation and emerging device-based approaches.",
+        "journal": "Eur Heart J 32:2739-47 (2011) DOI:10.1093/eurheartj/ehr253",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21951628",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fyhrquist F",
+          "Saijonmaa O"
+        ],
+        "title": "Renin-angiotensin system revisited.",
+        "journal": "J Intern Med 264:224-36 (2008) DOI:10.1111/j.1365-2796.2008.01981.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18793332",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yugandhar VG",
+          "Clark MA"
+        ],
+        "title": "Angiotensin III: a physiological relevant peptide of the renin angiotensin system.",
+        "journal": "Peptides 46:26-32 (2013) DOI:10.1016/j.peptides.2013.04.014",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23692861",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Etelvino GM",
+          "Peluso AA",
+          "Santos RA"
+        ],
+        "title": "New components of the renin-angiotensin system: alamandine and the MAS-related G protein-coupled receptor D.",
+        "journal": "Curr Hypertens Rep 16:433 (2014) DOI:10.1007/s11906-014-0433-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24760442",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04614"
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "entry_id": "map04620",
+    "name": "Toll-like receptor signaling pathway",
+    "description": "Specific families of pattern recognition receptors are responsible for detecting microbial pathogens and generating innate immune responses. Toll-like receptors (TLRs) are membrane-bound receptors identified as homologs of Toll in Drosophila. Mammalian TLRs are expressed on innate immune cells, such as macrophages and dendritic cells, and respond to the membrane components of Gram-positive or Gram-negative bacteria. Pathogen recognition by TLRs provokes rapid activation of innate immunity by inducing production of proinflammatory cytokines and upregulation of costimulatory molecules. TLR signaling pathways are separated into two groups: a MyD88-dependent pathway that leads to the production of proinflammatory cytokines with quick activation of NF-{kappa}B and MAPK, and a MyD88-independent pathway associated with the induction of IFN-beta and IFN-inducible genes, and maturation of dendritic cells with slow activation of NF-{kappa}B and MAPK.",
+    "classes": [
+      "Organismal Systems",
+      "Immune system"
+    ],
+    "diseases": {
+      "H00096": "Defects of toll-like receptor signaling",
+      "H00273": "Pycnodysostosis",
+      "H00344": "Leprosy",
+      "H00425": "Lysosomal cysteine protease deficiencies",
+      "H00721": "Pyogenic bacterial infections, recurrent, due to MYD88 deficiency",
+      "H00882": "Cocoon syndrome",
+      "H01109": "Chronic mucocutaneous candidiasis",
+      "H01502": "Sjogren syndrome"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map04620": "Toll-like receptor signaling pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Kawai T",
+          "Akira S."
+        ],
+        "title": "TLR signaling.",
+        "journal": "Semin Immunol 19:24-32 (2007) DOI:10.1016/j.smim.2006.12.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17275323",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "O'Neill LA",
+          "Bowie AG."
+        ],
+        "title": "The family of five: TIR-domain-containing adaptors in Toll-like receptor signalling.",
+        "journal": "Nat Rev Immunol 7:353-64 (2007) DOI:10.1038/nri2079",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17457343",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Honda K",
+          "Taniguchi T."
+        ],
+        "title": "IRFs: master regulators of signalling by Toll-like receptors and cytosolic pattern-recognition receptors.",
+        "journal": "Nat Rev Immunol 6:644-58 (2006) DOI:10.1038/nri1900",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16932750",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Uematsu S",
+          "Akira S."
+        ],
+        "title": "Toll-like receptors and Type I interferons.",
+        "journal": "J Biol Chem 282:15319-23 (2007) DOI:10.1074/jbc.R700009200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17395581",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Akira S",
+          "Uematsu S",
+          "Takeuchi O."
+        ],
+        "title": "Pathogen recognition and innate immunity.",
+        "journal": "Cell 124:783-801 (2006) DOI:10.1016/j.cell.2006.02.015",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16497588",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yamamoto M",
+          "Takeda K",
+          "Akira S."
+        ],
+        "title": "TIR domain-containing adaptors define the specificity of TLR signaling.",
+        "journal": "Mol Immunol 40:861-8 (2004) DOI:10.1016/j.molimm.2003.10.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14698224",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Means TK",
+          "Hayashi F",
+          "Smith KD",
+          "Aderem A",
+          "Luster AD."
+        ],
+        "title": "The Toll-like receptor 5 stimulus bacterial flagellin induces maturation and chemokine production in human dendritic cells.",
+        "journal": "J Immunol 170:5165-75 (2003) DOI:10.4049/jimmunol.170.10.5165",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12734364",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Aderem A",
+          "Smith KD."
+        ],
+        "title": "A systems approach to dissecting immunity and inflammation.",
+        "journal": "Semin Immunol 16:55-67 (2004) DOI:10.1016/j.smim.2003.10.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14751764",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Banerjee A",
+          "Gerondakis S."
+        ],
+        "title": "Coordinating TLR-activated signaling pathways in cells of the immune system.",
+        "journal": "Immunol Cell Biol 85:420-4 (2007) DOI:10.1038/sj.icb.7100098",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17637696",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Loniewski KJ",
+          "Patial S",
+          "Parameswaran N."
+        ],
+        "title": "Sensitivity of TLR4- and -7-induced NF kappa B1 p105-TPL2-ERK pathway to TNF-receptor-associated-factor-6 revealed by RNAi in mouse macrophages.",
+        "journal": "Mol Immunol 44:3715-23 (2007) DOI:10.1016/j.molimm.2007.04.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17507094",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Arbibe L",
+          "Mira JP",
+          "Teusch N",
+          "Kline L",
+          "Guha M",
+          "Mackman N",
+          "Godowski PJ",
+          "Ulevitch RJ",
+          "Knaus UG."
+        ],
+        "title": "Toll-like receptor 2-mediated NF-kappa B activation requires a Rac1-dependent pathway.",
+        "journal": "Nat Immunol 1:533-40 (2000) DOI:10.1038/82797",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11101877",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Uematsu S",
+          "Akira S."
+        ],
+        "title": "Toll-like receptors and innate immunity.",
+        "journal": "J Mol Med 84:712-25 (2006) DOI:10.1007/s00109-006-0084-y",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16924467",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00686": "Toll-like receptor signaling [PATH:map04620]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04620"
+  }
+]

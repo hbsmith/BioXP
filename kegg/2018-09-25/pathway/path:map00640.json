@@ -1,0 +1,46 @@
+[
+  {
+    "entry_id": "map00640",
+    "name": "Propanoate metabolism",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Carbohydrate metabolism"
+    ],
+    "diseases": {
+      "H00174": "Methylmalonic aciduria",
+      "H00175": "Propionic acidemia",
+      "H01283": "Malonyl-CoA decarboxylase deficiency"
+    },
+    "dblinks": {
+      "GO": [
+        "0019541"
+      ]
+    },
+    "pathways": {
+      "map00640": "Propanoate metabolism"
+    },
+    "orthologs": {
+    },
+    "references": [
+
+    ],
+    "modules": {
+      "M00013": "Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA [PATH:map00640]",
+      "M00741": "Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA [PATH:map00640]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00640"
+  }
+]

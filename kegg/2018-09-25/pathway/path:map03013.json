@@ -1,0 +1,294 @@
+[
+  {
+    "entry_id": "map03013",
+    "name": "RNA transport",
+    "description": "RNA transport from the nucleus to the cytoplasm is fundamental for gene expression. The different RNA species that are produced in the nucleus are exported through the nuclear pore complexes (NPCs) via mobile export receptors. The majority of RNAs, such as tRNAs, rRNAs, and U snRNAs, are transported by specific export receptors, which belong to the karyopherin-beta family proteins. A feature of karyopherins is their regulation by the small GTPase Ran. However, general mRNA export is mechanistically different. Nuclear export of mRNAs is functionally coupled to different steps in gene expression processes, such as transcription, splicing, 3'-end formation and even translation.",
+    "classes": [
+      "Genetic Information Processing",
+      "Translation"
+    ],
+    "diseases": {
+      "H00455": "Spinal muscular atrophy",
+      "H00465": "Fragile X syndrome",
+      "H00869": "Leukoencephalopathy with vanishing white matter",
+      "H01177": "Infantile bilateral striatal necrosis",
+      "H01731": "Fragile X tremor/ataxia syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0050658"
+      ]
+    },
+    "pathways": {
+      "map03013": "RNA transport"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Rodriguez MS",
+          "Dargemont C",
+          "Stutz F"
+        ],
+        "title": "Nuclear export of RNA.",
+        "journal": "Biol Cell 96:639-55 (2004) DOI:10.1016/j.biolcel.2004.04.014",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15519698",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Suzuki T",
+          "Izumi H",
+          "Ohno M"
+        ],
+        "title": "Cajal body surveillance of U snRNA export complex assembly.",
+        "journal": "J Cell Biol 190:603-12 (2010) DOI:10.1083/jcb.201004109",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20733056",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Palancade B",
+          "Doye V"
+        ],
+        "title": "Sumoylating and desumoylating enzymes at nuclear pores: underpinning their unexpected duties?",
+        "journal": "Trends Cell Biol 18:174-83 (2008) DOI:10.1016/j.tcb.2008.02.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18313922",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pellizzoni L"
+        ],
+        "title": "Chaperoning ribonucleoprotein biogenesis in health and disease.",
+        "journal": "EMBO Rep 8:340-5 (2007) DOI:10.1038/sj.embor.7400941",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17401408",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gingras AC",
+          "Raught B",
+          "Sonenberg N"
+        ],
+        "title": "eIF4 initiation factors: effectors of mRNA recruitment to ribosomes and regulators of translation.",
+        "journal": "Annu Rev Biochem 68:913-63 (1999) DOI:10.1146/annurev.biochem.68.1.913",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10872469",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Asano K",
+          "Clayton J",
+          "Shalev A",
+          "Hinnebusch AG"
+        ],
+        "title": "A multifactor complex of eukaryotic initiation factors, eIF1, eIF2, eIF3, eIF5, and initiator tRNA(Met) is an important translation initiation intermediate in vivo.",
+        "journal": "Genes Dev 14:2534-46 (2000) DOI:10.1101/gad.831800",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11018020",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Craig AW",
+          "Haghighat A",
+          "Yu AT",
+          "Sonenberg N"
+        ],
+        "title": "Interaction of polyadenylate-binding protein with the eIF4G homologue PAIP enhances translation.",
+        "journal": "Nature 392:520-3 (1998) DOI:10.1038/33198",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9548260",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Reed R",
+          "Cheng H"
+        ],
+        "title": "TREX, SR proteins and export of mRNA.",
+        "journal": "Curr Opin Cell Biol 17:269-73 (2005) DOI:10.1016/j.ceb.2005.04.011",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15901496",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tange TO",
+          "Shibuya T",
+          "Jurica MS",
+          "Moore MJ"
+        ],
+        "title": "Biochemical analysis of the EJC reveals two new factors and a stable tetrameric protein core.",
+        "journal": "RNA 11:1869-83 (2005) DOI:10.1261/rna.2155905",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16314458",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00399": "Cap binding complex [PATH:map03013]",
+      "M00405": "THC complex [PATH:map03013]",
+      "M00406": "TREX complex [PATH:map03013]",
+      "M00426": "Survival motor neuron (SMN) complex [PATH:map03013]",
+      "M00427": "Nuclear pore complex [PATH:map03013]",
+      "M00428": "eIF4F complex [PATH:map03013]",
+      "M00430": "Exon junction complex (EJC) [PATH:map03013]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko03013"
+  }
+]

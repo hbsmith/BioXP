@@ -1,0 +1,546 @@
+[
+  {
+    "entry_id": "map05145",
+    "name": "Toxoplasmosis",
+    "description": "Toxoplasma gondii is an obligate intracellular parasite that is prevalent worldwide. The tachyzoite form acquired by oral ingestion downmodulates proinflammatory signaling pathways via various mechanisms. During early infection, nuclear translocation of NFkB is temporally blocked and p38 MAPK phosphorylation is prevented, suppressing IL-12 production. Another pathway for IL-12 induction occurs through CCR5 dependent pathway, but parasitic induction of an eicosanoid LXA4 contributes to the downregulation of IL-12. Direct activation of STAT3 by the parasite enhance anti-inflammatory function of IL-10 and TGF beta. T. gondii can cause lifelong chronic infection by establishing an anti-apoptotic environment through induction of bcl-2 or IAPs and by redirecting LDL-mediated cholesterol transport to scavenge nutrients from the host.",
+    "classes": [
+      "Human Diseases",
+      "Infectious diseases: Parasitic"
+    ],
+    "diseases": {
+      "H00435": "Toxoplasmosis"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05145": "Toxoplasmosis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Denkers EY",
+          "Butcher BA"
+        ],
+        "title": "Sabotage and exploitation in macrophages parasitized by intracellular protozoans.",
+        "journal": "Trends Parasitol 21:35-41 (2005) DOI:10.1016/j.pt.2004.10.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15639739",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Denkers EY"
+        ],
+        "title": "From cells to signaling cascades: manipulation of innate immunity by Toxoplasma gondii.",
+        "journal": "FEMS Immunol Med Microbiol 39:193-203 (2003) DOI:10.1016/S0928-8244(03)00279-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14642303",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pollard AM",
+          "Knoll LJ",
+          "Mordue DG"
+        ],
+        "title": "The role of specific Toxoplasma gondii molecules in manipulation of innate immunity.",
+        "journal": "Trends Parasitol 25:491-4 (2009) DOI:10.1016/j.pt.2009.07.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19744886",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Leng J",
+          "Butcher BA",
+          "Denkers EY"
+        ],
+        "title": "Dysregulation of macrophage signal transduction by Toxoplasma gondii: past progress and recent advances.",
+        "journal": "Parasite Immunol 31:717-28 (2009) DOI:10.1111/j.1365-3024.2009.01122.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19891610",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Miller CM",
+          "Boulter NR",
+          "Ikin RJ",
+          "Smith NC"
+        ],
+        "title": "The immunobiology of the innate response to Toxoplasma gondii.",
+        "journal": "Int J Parasitol 39:23-39 (2009) DOI:10.1016/j.ijpara.2008.08.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18775432",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Denkers EY",
+          "Kim L",
+          "Butcher BA"
+        ],
+        "title": "In the belly of the beast: subversion of macrophage proinflammatory signalling cascades during Toxoplasma gondii infection.",
+        "journal": "Cell Microbiol 5:75-83 (2003) DOI:10.1046/j.1462-5822.2003.00258.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12580944",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gazzinelli RT",
+          "Denkers EY"
+        ],
+        "title": "Protozoan encounters with Toll-like receptor signalling pathways: implications for host parasitism.",
+        "journal": "Nat Rev Immunol 6:895-906 (2006) DOI:10.1038/nri1978",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17110955",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lang C",
+          "Gross U",
+          "Luder CG"
+        ],
+        "title": "Subversion of innate and adaptive immune responses by Toxoplasma gondii.",
+        "journal": "Parasitol Res 100:191-203 (2007) DOI:10.1007/s00436-006-0306-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17024357",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Blader IJ",
+          "Saeij JP"
+        ],
+        "title": "Communication between Toxoplasma gondii and its host: impact on parasite growth, development, immune evasion, and virulence.",
+        "journal": "APMIS 117:458-76 (2009) DOI:10.1111/j.1600-0463.2009.02453.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19400868",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Boothroyd JC",
+          "Dubremetz JF"
+        ],
+        "title": "Kiss and spit: the dual roles of Toxoplasma rhoptries.",
+        "journal": "Nat Rev Microbiol 6:79-88 (2008) DOI:10.1038/nrmicro1800",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18059289",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Denkers EY",
+          "Butcher BA",
+          "Del Rio L",
+          "Kim L"
+        ],
+        "title": "Manipulation of mitogen-activated protein kinase/nuclear factor-kappaB-signaling cascades during intracellular Toxoplasma gondii infection.",
+        "journal": "Immunol Rev 201:191-205 (2004) DOI:10.1111/j.0105-2896.2004.00180.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15361242",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yarovinsky F"
+        ],
+        "title": "Toll-like receptors and their role in host resistance to Toxoplasma gondii.",
+        "journal": "Immunol Lett 119:17-21 (2008) DOI:10.1016/j.imlet.2008.05.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18617274",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Coppens I",
+          "Joiner KA"
+        ],
+        "title": "Parasitehost cell interactions in toxoplasmosis: new avenues for intervention?",
+        "journal": "Expert Rev Mol Med 2001:1-20 (2001) DOI:10.1017/S1462399401002277",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14987366",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Aliberti J",
+          "Sher A"
+        ],
+        "title": "Role of G-protein-coupled signaling in the induction and regulation of dendritic cell function by Toxoplasma gondii.",
+        "journal": "Microbes Infect 4:991-7 (2002) DOI:10.1016/S1286-4579(02)01618-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12106793",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sher A",
+          "Collazzo C",
+          "Scanga C",
+          "Jankovic D",
+          "Yap G",
+          "Aliberti J"
+        ],
+        "title": "Induction and regulation of IL-12-dependent host resistance to Toxoplasma gondii.",
+        "journal": "Immunol Res 27:521-8 (2003) DOI:10.1385/IR:27:2-3:521",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12857995",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bonhomme A",
+          "Bouchot A",
+          "Pezzella N",
+          "Gomez J",
+          "Le Moal H",
+          "Pinon JM"
+        ],
+        "title": "Signaling during the invasion of host cells by Toxoplasma gondii.",
+        "journal": "FEMS Microbiol Rev 23:551-61 (1999) DOI:10.1111/j.1574-6976.1999.tb00413.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10525166",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Laliberte J",
+          "Carruthers VB"
+        ],
+        "title": "Host cell manipulation by the human pathogen Toxoplasma gondii.",
+        "journal": "Cell Mol Life Sci 65:1900-15 (2008) DOI:10.1007/s00018-008-7556-x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18327664",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bogdan C",
+          "Rollinghoff M"
+        ],
+        "title": "How do protozoan parasites survive inside macrophages?",
+        "journal": "Parasitol Today 15:22-8 (1999) DOI:10.1016/S0169-4758(98)01362-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10234174",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Molestina RE",
+          "Sinai AP"
+        ],
+        "title": "Host and parasite-derived IKK activities direct distinct temporal phases of NF-kappaB activation and target gene expression following Toxoplasma gondii infection.",
+        "journal": "J Cell Sci 118:5785-96 (2005) DOI:10.1242/jcs.02709",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16339966",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05145"
+  }
+]

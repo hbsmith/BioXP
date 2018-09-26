@@ -1,0 +1,498 @@
+[
+  {
+    "entry_id": "map00532",
+    "name": "Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate",
+    "description": "Glycosaminoglycans (GAGs) are linear polysaccharide chains consisting of repeating disaccharide units and form proteglycans by covalently attaching to their core proteins. Chondroitin sulfate (CS) is a glycosaminoglycan with the disaccharide unit of beta-D-galactosamine (GalNAc) and beta-D-glucuronic acid (GlcA), and often modified with ester-linked sulfate at certain positions. Dermatan sulfate (DS) is a modified form of CS, in which a portion of D-glucuronate residues is epimerized to L-iduronates (IdoA). CS and DS are linked to serine residues in core proteins via a linkage tetrasaccharide formed by the transfer of xylose and three more residues [MD:M00057]. The assembly process of CS is initiated by transferring GalNAc residue to the linkage tetrasaccharide. The polymerization is catalyzed by bifunctional enzymes (chondroitin synthases) possessing both beta 1,3 glucuronosyltransferase and beta 1,4 N-acetylgalactosaminyltransferase activities [MD:M00058]. Chondroitin polymerization also requires the action of the chondroitin polymerizing factor. There are various O-sulfation patterns in CS and DS, where 4-O sulfation and 6-O sulfation of GalNAc and 2-O-sulfation of the uronic acids (GlcA / IdoA) are mainly found.",
+    "classes": [
+      "Metabolism",
+      "Glycan biosynthesis and metabolism"
+    ],
+    "diseases": {
+      "H00494": "Desbuquois syndrome",
+      "H00762": "Spondyloepiphyseal dysplasia with congenital joint dislocations",
+      "H00802": "Ehlers-Danlos syndrome",
+      "H01494": "SEMD with joint laxity type",
+      "H01496": "Spondyloocular syndrome",
+      "H01497": "Temtamy preaxial brachydactyly syndrome",
+      "H01498": "Multiple joint dislocations, short stature, craniofacial dysmorphism, and congenital heart defects"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00532": "Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Sugahara K",
+          "Kitagawa H."
+        ],
+        "title": "Recent advances in the study of the biosynthesis and functions of sulfated glycosaminoglycans.",
+        "journal": "Curr Opin Struct Biol 10:518-27 (2000) DOI:10.1016/S0959-440X(00)00125-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11042448",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Li JP",
+          "Gong F",
+          "El Darwish K",
+          "Jalkanen M",
+          "Lindahl U."
+        ],
+        "title": "Characterization of the D-glucuronyl C5-epimerase involved in the biosynthesis of heparin and heparan sulfate.",
+        "journal": "J Biol Chem 276:20069-77 (2001) DOI:10.1074/jbc.M011783200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11274177",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gotting C",
+          "Kuhn J",
+          "Zahn R",
+          "Brinkmann T",
+          "Kleesiek K"
+        ],
+        "title": "Molecular cloning and expression of human UDP-d-Xylose:proteoglycan core protein beta-d-xylosyltransferase and its first isoform XT-II.",
+        "journal": "J Mol Biol 304:517-28 (2000) DOI:10.1006/jmbi.2000.4261",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11099377",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Almeida R",
+          "Levery SB",
+          "Mandel U",
+          "Kresse H",
+          "Schwientek T",
+          "Bennett EP",
+          "Clausen H"
+        ],
+        "title": "Cloning and expression of a proteoglycan UDP-galactose:beta-xylose beta1,4-galactosyltransferase I. A seventh member of the human beta4-galactosyltransferase gene family.",
+        "journal": "J Biol Chem 274:26165-71 (1999) DOI:10.1074/jbc.274.37.26165",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10473568",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bai X",
+          "Zhou D",
+          "Brown JR",
+          "Crawford BE",
+          "Hennet T",
+          "Esko JD"
+        ],
+        "title": "Biosynthesis of the linkage region of glycosaminoglycans: cloning and activity of galactosyltransferase II, the sixth member of the beta 1,3-galactosyltransferase family (beta 3GalT6).",
+        "journal": "J Biol Chem 276:48189-95 (2001) DOI:10.1074/jbc.M107339200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11551958",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kitagawa H",
+          "Tone Y",
+          "Tamura J",
+          "Neumann KW",
+          "Ogawa T",
+          "Oka S",
+          "Kawasaki T",
+          "Sugahara K"
+        ],
+        "title": "Molecular cloning and expression of glucuronyltransferase I involved in the biosynthesis of the glycosaminoglycan-protein linkage region of proteoglycans.",
+        "journal": "J Biol Chem 273:6615-8 (1998) DOI:10.1074/jbc.273.12.6615",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9506957",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Silbert JE",
+          "Sugumaran G"
+        ],
+        "title": "Biosynthesis of chondroitin/dermatan sulfate.",
+        "journal": "IUBMB Life 54:177-86 (2002) DOI:10.1080/15216540214923",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12512856",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Izumikawa T",
+          "Uyama T",
+          "Okuura Y",
+          "Sugahara K",
+          "Kitagawa H"
+        ],
+        "title": "Involvement of chondroitin sulfate synthase-3 (chondroitin synthase-2) in chondroitin polymerization through its interaction with chondroitin synthase-1 or chondroitin-polymerizing factor.",
+        "journal": "Biochem J 403:545-52 (2007) DOI:10.1042/BJ20061876",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17253960",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kitagawa H",
+          "Izumikawa T",
+          "Uyama T",
+          "Sugahara K"
+        ],
+        "title": "Molecular cloning of a chondroitin polymerizing factor that cooperates with chondroitin synthase for chondroitin polymerization.",
+        "journal": "J Biol Chem 278:23666-71 (2003) DOI:10.1074/jbc.M302493200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12716890",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Izumikawa T",
+          "Okuura Y",
+          "Koike T",
+          "Sakoda N",
+          "Kitagawa H"
+        ],
+        "title": "Chondroitin 4-O-sulfotransferase-1 regulates the chain length of chondroitin sulfate in co-operation with chondroitin N-acetylgalactosaminyltransferase-2.",
+        "journal": "Biochem J 434:321-31 (2011) DOI:10.1042/BJ20101456",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21138417",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Malmstrom A",
+          "Bartolini B",
+          "Thelin MA",
+          "Pacheco B",
+          "Maccarana M"
+        ],
+        "title": "Iduronic Acid in chondroitin/dermatan sulfate: biosynthesis and biological function.",
+        "journal": "J Histochem Cytochem 60:916-25 (2012) DOI:10.1369/0022155412459857",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22899863",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sugahara K",
+          "Mikami T"
+        ],
+        "title": "Chondroitin/dermatan sulfate in the central nervous system.",
+        "journal": "Curr Opin Struct Biol 17:536-45 (2007) DOI:10.1016/j.sbi.2007.08.015",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17928217",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kusche-Gullberg M",
+          "Kjellen L"
+        ],
+        "title": "Sulfotransferases in glycosaminoglycan biosynthesis.",
+        "journal": "Curr Opin Struct Biol 13:605-11 (2003) DOI:10.1016/j.sbi.2003.08.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14568616",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pacheco B",
+          "Maccarana M",
+          "Malmstrom A"
+        ],
+        "title": "Dermatan 4-O-sulfotransferase 1 is pivotal in the formation of iduronic acid blocks in dermatan sulfate.",
+        "journal": "Glycobiology 19:1197-203 (2009) DOI:10.1093/glycob/cwp110",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19661164",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Prabhakar V",
+          "Sasisekharan R"
+        ],
+        "title": "The biosynthesis and catabolism of galactosaminoglycans.",
+        "journal": "Adv Pharmacol 53:69-115 (2006) DOI:10.1016/S1054-3589(05)53005-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17239763",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mikami T",
+          "Mizumoto S",
+          "Kago N",
+          "Kitagawa H",
+          "Sugahara K"
+        ],
+        "title": "Specificities of three distinct human chondroitin/dermatan N-acetylgalactosamine 4-O-sulfotransferases demonstrated using partially desulfated dermatan sulfate as an acceptor: implication of differential roles in dermatan sulfate biosynthesis.",
+        "journal": "J Biol Chem 278:36115-27 (2003) DOI:10.1074/jbc.M306044200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12847091",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00057": "Glycosaminoglycan biosynthesis, linkage tetrasaccharide [PATH:map00532]",
+      "M00058": "Glycosaminoglycan biosynthesis, chondroitin sulfate backbone [PATH:map00532]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00532"
+  }
+]

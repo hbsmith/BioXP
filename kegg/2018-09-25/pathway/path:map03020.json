@@ -1,0 +1,179 @@
+[
+  {
+    "entry_id": "map03020",
+    "name": "RNA polymerase",
+    "description": "",
+    "classes": [
+      "Genetic Information Processing",
+      "Transcription"
+    ],
+    "diseases": {
+      "H00610": "Treacher Collins syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0000428"
+      ]
+    },
+    "pathways": {
+      "map03020": "RNA polymerase"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Zhang G",
+          "Campbell EA",
+          "Minakhin L",
+          "Richter C",
+          "Severinov K",
+          "Darst SA."
+        ],
+        "title": "Crystal structure of Thermus aquaticus core RNA polymerase at 3.3 A resolution.",
+        "journal": "Cell 98:811-824 (1999) DOI:10.1016/S0092-8674(00)81515-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10499798",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cramer P",
+          "Bushnell DA",
+          "Fu J",
+          "Gnatt AL",
+          "Maier-Davis B",
+          "Thompson NE",
+          "Burgess RR",
+          "Edwards AM",
+          "David PR",
+          "Kornberg RD."
+        ],
+        "title": "Architecture of RNA polymerase II and implications for the transcription mechanism.",
+        "journal": "Science 288:640-649 (2000) DOI:10.1126/science.288.5466.640",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10784442",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hirata A",
+          "Murakami KS"
+        ],
+        "title": "Archaeal RNA polymerase.",
+        "journal": "Curr Opin Struct Biol 19:724-31 (2009) DOI:10.1016/j.sbi.2009.10.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19880312",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cramer P",
+          "Armache KJ",
+          "Baumli S",
+          "Benkert S",
+          "Brueckner F",
+          "Buchen C",
+          "Damsma GE",
+          "Dengl S",
+          "Geiger SR",
+          "Jasiak AJ",
+          "Jawhari A",
+          "Jennebach S",
+          "Kamenski T",
+          "Kettenberger H",
+          "Kuhn CD",
+          "Lehmann E",
+          "Leike K",
+          "Sydow JF",
+          "Vannini A"
+        ],
+        "title": "Structure of eukaryotic RNA polymerases.",
+        "journal": "Annu Rev Biophys 37:337-52 (2008) DOI:10.1146/annurev.biophys.37.032807.130008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18573085",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00180": "RNA polymerase II, eukaryotes [PATH:map03020]",
+      "M00181": "RNA polymerase III, eukaryotes [PATH:map03020]",
+      "M00182": "RNA polymerase I, eukaryotes [PATH:map03020]",
+      "M00183": "RNA polymerase, bacteria [PATH:map03020]",
+      "M00184": "RNA polymerase, archaea [PATH:map03020]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko03020"
+  }
+]

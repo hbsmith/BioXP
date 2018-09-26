@@ -1,0 +1,637 @@
+[
+  {
+    "entry_id": "map04660",
+    "name": "T cell receptor signaling pathway",
+    "description": "Activation of T lymphocytes is a key event for an efficient response of the immune system. It requires the involvement of the T-cell receptor (TCR) as well as costimulatory molecules such as CD28. Engagement of these receptors through the interaction with a foreign antigen associated with major histocompatibility complex molecules and CD28 counter-receptors B7.1/B7.2, respectively, results in a series of signaling cascades. These cascades comprise an array of protein-tyrosine kinases, phosphatases, GTP-binding proteins and adaptor proteins that regulate generic and specialised functions, leading to T-cell proliferation, cytokine production and differentiation into effector cells.",
+    "classes": [
+      "Organismal Systems",
+      "Immune system"
+    ],
+    "diseases": {
+      "H00408": "Type 1 diabetes mellitus",
+      "H00540": "Osteoporosis, lymphedema, anhydrotic ectodermal dysplasia with immunodeficiency (OLEDAID)",
+      "H00645": "Incontinentia pigmenti",
+      "H00882": "Cocoon syndrome",
+      "H01387": "Activated PI3K-delta syndrome",
+      "H01812": "Rasmussen encephalitis",
+      "H01970": "Lymphoproliferative syndrome 1"
+    },
+    "dblinks": {
+      "GO": [
+        "0050852"
+      ]
+    },
+    "pathways": {
+      "map04660": "T cell receptor signaling pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Chen L."
+        ],
+        "title": "Co-inhibitory molecules of the B7-CD28 family in the control of T-cell immunity.",
+        "journal": "Nat Rev Immunol 4:336-47 (2004) DOI:10.1038/nri1349",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15122199",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Macian F."
+        ],
+        "title": "NFAT proteins: key regulators of T-cell development and function.",
+        "journal": "Nat Rev Immunol 5:472-84 (2005) DOI:10.1038/nri1632",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15928679",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Berg LJ",
+          "Finkelstein LD",
+          "Lucas JA",
+          "Schwartzberg PL."
+        ],
+        "title": "Tec family kinases in T lymphocyte development and function.",
+        "journal": "Annu Rev Immunol 23:549-600 (2005) DOI:10.1146/annurev.immunol.22.012703.104743",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15771581",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Huang Y",
+          "Wange RL."
+        ],
+        "title": "T cell receptor signaling: beyond complex complexes.",
+        "journal": "J Biol Chem 279:28827-30 (2004) DOI:10.1074/jbc.R400012200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15084594",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schmitz ML",
+          "Bacher S",
+          "Dienz O."
+        ],
+        "title": "NF-kappaB activation pathways induced by T cell costimulation.",
+        "journal": "FASEB J 17:2187-93 (2003) DOI:10.1096/fj.02-1100rev",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14656980",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Alegre ML",
+          "Frauwirth KA",
+          "Thompson CB."
+        ],
+        "title": "T-cell regulation by CD28 and CTLA-4.",
+        "journal": "Nat Rev Immunol 1:220-8 (2001) DOI:10.1038/35105024",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11905831",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Horejsi V",
+          "Zhang W",
+          "Schraven B."
+        ],
+        "title": "Transmembrane adaptor proteins: organizers of immunoreceptor signalling.",
+        "journal": "Nat Rev Immunol 4:603-16 (2004) DOI:10.1038/nri1414",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15286727",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Baniyash M."
+        ],
+        "title": "TCR zeta-chain downregulation: curtailing an excessive inflammatory immune response.",
+        "journal": "Nat Rev Immunol 4:675-87 (2004) DOI:10.1038/nri1434",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15343367",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sechi AS",
+          "Wehland J."
+        ],
+        "title": "Interplay between TCR signalling and actin cytoskeleton dynamics.",
+        "journal": "Trends Immunol 25:257-65 (2004) DOI:10.1016/j.it.2004.03.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15099566",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Okkenhaug K",
+          "Vanhaesebroeck B."
+        ],
+        "title": "PI3K in lymphocyte development, differentiation and activation.",
+        "journal": "Nat Rev Immunol 3:317-30 (2003) DOI:10.1038/nri1056",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12669022",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Palacios EH",
+          "Weiss A."
+        ],
+        "title": "Function of the Src-family kinases, Lck and Fyn, in T-cell development and activation.",
+        "journal": "Oncogene 23:7990-8000 (2004) DOI:10.1038/sj.onc.1208074",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15489916",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kane LP",
+          "Lin J",
+          "Weiss A."
+        ],
+        "title": "It's all Rel-ative: NF-kappaB and CD28 costimulation of T-cell activation.",
+        "journal": "Trends Immunol 23:413-20 (2002) DOI:10.1016/S1471-4906(02)02264-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12133805",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Acuto O",
+          "Michel F."
+        ],
+        "title": "CD28-mediated co-stimulation: a quantitative support for TCR signalling.",
+        "journal": "Nat Rev Immunol 3:939-51 (2003) DOI:10.1038/nri1248",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14647476",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Finkelstein LD",
+          "Schwartzberg PL."
+        ],
+        "title": "Tec kinases: shaping T-cell activation through actin.",
+        "journal": "Trends Cell Biol 14:443-51 (2004) DOI:10.1016/j.tcb.2003.07.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15308211",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Duan L",
+          "Reddi AL",
+          "Ghosh A",
+          "Dimri M",
+          "Band H."
+        ],
+        "title": "The Cbl family and other ubiquitin ligases: destructive forces in control of antigen receptor signaling.",
+        "journal": "Immunity 21:7-17 (2004) DOI:10.1016/j.immuni.2004.06.012",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15345216",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schrum AG",
+          "Turka LA",
+          "Palmer E."
+        ],
+        "title": "Surface T-cell antigen receptor expression and availability for long-term antigenic signaling.",
+        "journal": "Immunol Rev 196:7-24 (2003) DOI:10.1046/j.1600-065X.2003.00083.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14617194",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Smith-Garvin JE",
+          "Koretzky GA",
+          "Jordan MS"
+        ],
+        "title": "T cell activation.",
+        "journal": "Annu Rev Immunol 27:591-619 (2009) DOI:10.1146/annurev.immunol.021908.132706",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19132916",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Diehn M",
+          "Alizadeh AA",
+          "Rando OJ",
+          "Liu CL",
+          "Stankunas K",
+          "Botstein D",
+          "Crabtree GR",
+          "Brown PO"
+        ],
+        "title": "Genomic expression programs and the integration of the CD28 costimulatory signal in T cell activation.",
+        "journal": "Proc Natl Acad Sci U S A 99:11796-801 (2002) DOI:10.1073/pnas.092284399",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12195013",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Blonska M",
+          "Lin X"
+        ],
+        "title": "CARMA1-mediated NF-kappaB and JNK activation in lymphocytes.",
+        "journal": "Immunol Rev 228:199-211 (2009) DOI:10.1111/j.1600-065X.2008.00749.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19290929",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rebeaud F",
+          "Hailfinger S",
+          "Thome M"
+        ],
+        "title": "Dlgh1 and Carma1 MAGUK proteins contribute to signal specificity downstream of TCR activation.",
+        "journal": "Trends Immunol 28:196-200 (2007) DOI:10.1016/j.it.2007.03.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17395537",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ashwell JD"
+        ],
+        "title": "The many paths to p38 mitogen-activated protein kinase activation in the immune system.",
+        "journal": "Nat Rev Immunol 6:532-40 (2006) DOI:10.1038/nri1865",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16799472",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Round JL",
+          "Humphries LA",
+          "Tomassian T",
+          "Mittelstadt P",
+          "Zhang M",
+          "Miceli MC"
+        ],
+        "title": "Scaffold protein Dlgh1 coordinates alternative p38 kinase activation, directing T cell receptor signals toward NFAT but not NF-kappaB transcription factors.",
+        "journal": "Nat Immunol 8:154-61 (2007) DOI:10.1038/ni1422",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17187070",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04660"
+  }
+]

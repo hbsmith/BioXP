@@ -1,0 +1,199 @@
+[
+  {
+    "entry_id": "map07039",
+    "name": "Opioid analgesics",
+    "description": "",
+    "classes": [
+
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map07039": "Opioid analgesics"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Sano T",
+          "Naito T",
+          "Kubo T (eds)."
+        ],
+        "title": "[Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)",
+        "journal": "Nankodo",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2002",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "David AW",
+          "Thomas LL",
+          "William OF."
+        ],
+        "title": "Foye's Principles of Medicinal Chemistry (5th ed)",
+        "journal": "Lippincott Williams & Wilkins",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2002",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Japan Pharmaceutical Association (ed)."
+        ],
+        "title": "[Face of Medecine: Structure Activity Relationship] (In Japanese)",
+        "journal": "Yakuji Nippo",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1999",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Brownstein MJ."
+        ],
+        "title": "A brief history of opiates, opioid peptides, and opioid receptors.",
+        "journal": "Proc Natl Acad Sci U S A 90:5391-3 (1993) DOI:10.1073/pnas.90.12.5391",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "8390660",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+      "C06173": "Thebaine",
+      "C11790": "Phenazocine",
+      "C11791": "Bremazocine",
+      "D00195": "Codeine (USP)",
+      "D00320": "Fentanyl (JAN/USAN/INN)",
+      "D00482": "Propoxyphene hydrochloride (USP)",
+      "D00498": "Pentazocine (JP17/USP/INN)",
+      "D00835": "Alfentanil hydrochloride (USP)",
+      "D00836": "Buprenorphine hydrochloride (JP17/USP)",
+      "D00837": "Butorphanol tartrate (JAN/USP)",
+      "D00839": "Hydromorphone hydrochloride (JAN/USP)",
+      "D00840": "Levomethadyl acetate hydrochloride (USAN)",
+      "D00841": "Levorphanol tartrate (USP)",
+      "D00842": "Morphine sulfate (USP)",
+      "D00843": "Nalbuphine hydrochloride (USAN)",
+      "D00844": "Oxymorphone hydrochloride (USP)",
+      "D00845": "Sufentanil citrate (USP)",
+      "D00847": "Oxycodone hydrochloride (USP)",
+      "D01340": "Naloxone hydrochloride (JP17/USP)",
+      "D01383": "Meperidine hydrochloride (USP)",
+      "D01399": "Fentanyl citrate (JP17/USP)",
+      "D02095": "Naltrexone hydrochloride (USP)",
+      "D02101": "Codeine phosphate (USP)",
+      "D02102": "Methadone hydrochloride (JAN/USP)",
+      "D02111": "Pentazocine lactate (USP)",
+      "D02227": "Pentazocine hydrochloride (JAN/USP)",
+      "D02238": "Levallorphan tartrate (JP17)",
+      "D02271": "Morphine hydrochloride hydrate (JP17)",
+      "D03197": "Butorphanol (USAN/INN)",
+      "D03580": "Codeine sulfate (USP)",
+      "D03725": "Hydrocodone bitartrate (USP)",
+      "D03783": "Oxycodone terephthalate (USP)",
+      "D04716": "Levomethadyl acetate (USAN)",
+      "D05113": "Naltrexone (USAN/INN)",
+      "D05312": "Oxycodone (USAN/INN)",
+      "D05462": "Oxycodone hydrochloride hydrate (JP17)",
+      "D05632": "Propoxyphene napsylate (USAN)",
+      "D05938": "Sufentanil (USAN/INN)",
+      "D06268": "Trimeperidine (INN)",
+      "D07122": "Alfentanil (INN)",
+      "D07132": "Buprenorphine (JAN/INN)",
+      "D07286": "Diamorphine (BAN)",
+      "D07740": "Codeine hydrochloride",
+      "D07809": "Dextropropoxyphene (INN)",
+      "D07810": "Diacetylmorphine hydrochloride",
+      "D07863": "Diprenorphine (INN)",
+      "D07864": "Diprenorphine hydrochloride",
+      "D08045": "Hydrocodone (INN)",
+      "D08046": "Hydrocodone hydrochloride",
+      "D08047": "Hydromorphone (INN)",
+      "D08123": "Levorphanol (INN)",
+      "D08195": "Methadone (BAN)",
+      "D08233": "Morphine (BAN)",
+      "D08246": "Nalbuphine (INN)",
+      "D08247": "Nalorphine (INN)",
+      "D08248": "Nalorphine hydrochloride (USP)",
+      "D08249": "Naloxone (INN)",
+      "D08323": "Oxymorphone (INN)",
+      "D08343": "Pethidine (INN)"
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": ""
+  }
+]

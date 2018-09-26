@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "map00220",
+    "name": "Arginine biosynthesis",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Amino acid metabolism"
+    ],
+    "diseases": {
+      "H00164": "Carbamoyl phosphate synthetase I deficiency",
+      "H00185": "Citrullinemia",
+      "H00186": "Hyperargininemia",
+      "H00187": "Ornithine transcarbamylase deficiency",
+      "H00923": "Congenital systemic glutamine deficiency",
+      "H01028": "Argininosuccinic aciduria",
+      "H01032": "N-acetylglutamate synthase (NAGS) deficiency",
+      "H01146": "Aminoacylase 1 deficiency",
+      "H01398": "Primary hyperammonemic disorders (Urea cycle disorders)"
+    },
+    "dblinks": {
+      "GO": [
+        "0006525"
+      ]
+    },
+    "pathways": {
+      "map00220": "Arginine biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+
+    ],
+    "modules": {
+      "M00028": "Ornithine biosynthesis, glutamate => ornithine [PATH:map00220]",
+      "M00029": "Urea cycle [PATH:map00220]",
+      "M00763": "Ornithine biosynthesis, mediated by LysW, glutamate => ornithine [PATH:map00220]",
+      "M00844": "Arginine biosynthesis, ornithine => arginine [PATH:map00220]",
+      "M00845": "Arginine biosynthesis, glutamate => acetylcitrulline => arginine [PATH:map00220]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00220"
+  }
+]

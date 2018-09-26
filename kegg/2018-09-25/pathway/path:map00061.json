@@ -1,0 +1,148 @@
+[
+  {
+    "entry_id": "map00061",
+    "name": "Fatty acid biosynthesis",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Lipid metabolism"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00061": "Fatty acid biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Salas JJ",
+          "Ohlrogge JB."
+        ],
+        "title": "Characterization of substrate specificity of plant FatA and FatB acyl-ACP thioesterases.",
+        "journal": "Arch Biochem Biophys 403:25-34 (2002) DOI:10.1016/S0003-9861(02)00017-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12061798",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang YM",
+          "Marrakchi H",
+          "White SW",
+          "Rock CO."
+        ],
+        "title": "The application of computational methods to explore the diversity and structure of bacterial fatty acid synthase.",
+        "journal": "J Lipid Res 44:1-10 (2003) DOI:10.1194/jlr.R200016-JLR200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12518017",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Voelker T",
+          "Kinney AJ."
+        ],
+        "title": "VARIATIONS IN THE BIOSYNTHESIS OF SEED-STORAGE LIPIDS.",
+        "journal": "Annu Rev Plant Physiol Plant Mol Biol 52:335-361 (2001) DOI:10.1146/annurev.arplant.52.1.335",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11337402",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Barker GC",
+          "Larson TR",
+          "Graham IA",
+          "Lynn JR",
+          "King GJ."
+        ],
+        "title": "Novel insights into seed fatty acid synthesis and modification pathways from genetic diversity and quantitative trait Loci analysis of the Brassica C genome.",
+        "journal": "Plant Physiol 144:1827-42 (2007) DOI:10.1104/pp.107.096172",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17573542",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00082": "Fatty acid biosynthesis, initiation [PATH:map00061]",
+      "M00083": "Fatty acid biosynthesis, elongation [PATH:map00061]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00061"
+  }
+]

@@ -1,0 +1,679 @@
+[
+  {
+    "entry_id": "map05140",
+    "name": "Leishmaniasis",
+    "description": "Leishmania is an intracellular protozoan parasite of macrophages that causes visceral, mucosal, and cutaneous diseases. The parasite is transmitted to humans by sandflies, where they survive and proliferate intracellularly by deactivating the macrophage. Successful infection of Leishmania is achieved by alteration of signaling events in the host cell, leading to enhanced production of the autoinhibitory molecules like TGF-beta and decreased induction of cytokines such as IL12 for protective immunity. Nitric oxide production is also inhibited. In addition, defective expression of major histocompatibility complex (MHC) genes silences subsequent T cell activation mediated by macrophages, resulting in abnormal immune responses.",
+    "classes": [
+      "Human Diseases",
+      "Infectious diseases: Parasitic"
+    ],
+    "diseases": {
+      "H00359": "Leishmaniasis"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05140": "Leishmaniasis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Cunningham AC"
+        ],
+        "title": "Parasitic adaptive mechanisms in infection by leishmania.",
+        "journal": "Exp Mol Pathol 72:132-41 (2002) DOI:10.1006/exmp.2002.2418",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11890722",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nandan D",
+          "Knutson KL",
+          "Lo R",
+          "Reiner NE"
+        ],
+        "title": "Exploitation of host cell signaling machinery: activation of macrophage phosphotyrosine phosphatases as a novel mechanism of molecular microbial pathogenesis.",
+        "journal": "J Leukoc Biol 67:464-70 (2000) DOI:10.1002/jlb.67.4.464",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10770277",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nandan D",
+          "Reiner NE"
+        ],
+        "title": "Attenuation of gamma interferon-induced tyrosine phosphorylation in mononuclear phagocytes infected with Leishmania donovani: selective inhibition of signaling through Janus kinases and Stat1.",
+        "journal": "Infect Immun",
+        "volume": "63",
+        "issue": "",
+        "pages": "4495-500",
+        "year": "1995",
+        "pubmed": "7591091",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nandan D",
+          "Lo R",
+          "Reiner NE"
+        ],
+        "title": "Activation of phosphotyrosine phosphatase activity attenuates mitogen-activated protein kinase signaling and inhibits c-FOS and nitric oxide synthase expression in macrophages infected with Leishmania donovani.",
+        "journal": "Infect Immun",
+        "volume": "67",
+        "issue": "",
+        "pages": "4055-63",
+        "year": "1999",
+        "pubmed": "10417174",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Reiner NE"
+        ],
+        "title": "Altered cell signaling and mononuclear phagocyte deactivation during intracellular infection.",
+        "journal": "Immunol Today 15:374-81 (1994) DOI:10.1016/0167-5699(94)90176-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "7916951",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nandan D",
+          "Reiner NE"
+        ],
+        "title": "Leishmania donovani engages in regulatory interference by targeting macrophage protein tyrosine phosphatase SHP-1.",
+        "journal": "Clin Immunol 114:266-77 (2005) DOI:10.1016/j.clim.2004.07.017",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15721837",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kima PE"
+        ],
+        "title": "The amastigote forms of Leishmania are experts at exploiting host cell processes to establish infection and persist.",
+        "journal": "Int J Parasitol 37:1087-96 (2007) DOI:10.1016/j.ijpara.2007.04.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17543969",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Forget G",
+          "Gregory DJ",
+          "Olivier M"
+        ],
+        "title": "Proteasome-mediated degradation of STAT1alpha following infection of macrophages with Leishmania donovani.",
+        "journal": "J Biol Chem 280:30542-9 (2005) DOI:10.1074/jbc.M414126200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15983048",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cameron P",
+          "McGachy A",
+          "Anderson M",
+          "Paul A",
+          "Coombs GH",
+          "Mottram JC",
+          "Alexander J",
+          "Plevin R"
+        ],
+        "title": "Inhibition of lipopolysaccharide-induced macrophage IL-12 production by Leishmania mexicana amastigotes: the role of cysteine peptidases and the NF-kappaB signaling pathway.",
+        "journal": "J Immunol 173:3297-304 (2004) DOI:10.4049/jimmunol.173.5.3297",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15322192",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tuon FF",
+          "Amato VS",
+          "Bacha HA",
+          "Almusawi T",
+          "Duarte MI",
+          "Amato Neto V"
+        ],
+        "title": "Toll-like receptors and leishmaniasis.",
+        "journal": "Infect Immun 76:866-72 (2008) DOI:10.1128/IAI.01090-07",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18070909",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kropf P",
+          "Freudenberg N",
+          "Kalis C",
+          "Modolell M",
+          "Herath S",
+          "Galanos C",
+          "Freudenberg M",
+          "Muller I"
+        ],
+        "title": "Infection of C57BL/10ScCr and C57BL/10ScNCr mice with Leishmania major reveals a role for Toll-like receptor 4 in the control of parasite replication.",
+        "journal": "J Leukoc Biol 76:48-57 (2004) DOI:10.1189/jlb.1003484",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15039466",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Feng GJ",
+          "Goodridge HS",
+          "Harnett MM",
+          "Wei XQ",
+          "Nikolaev AV",
+          "Higson AP",
+          "Liew FY"
+        ],
+        "title": "Extracellular signal-related kinase (ERK) and p38 mitogen-activated protein (MAP) kinases differentially regulate the lipopolysaccharide-mediated induction of inducible nitric oxide synthase and IL-12 in macrophages: Leishmania phosphoglycans subvert macrophage IL-12 production by targeting ERK MAP kinase.",
+        "journal": "J Immunol",
+        "volume": "163",
+        "issue": "",
+        "pages": "6403-12",
+        "year": "1999",
+        "pubmed": "10586030",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Olivier M",
+          "Gregory DJ",
+          "Forget G"
+        ],
+        "title": "Subversion mechanisms by which Leishmania parasites can escape the host immune response: a signaling point of view.",
+        "journal": "Clin Microbiol Rev 18:293-305 (2005) DOI:10.1128/CMR.18.2.293-305.2005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15831826",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Matte C",
+          "Maion G",
+          "Mourad W",
+          "Olivier M"
+        ],
+        "title": "Leishmania donovani-induced macrophages cyclooxygenase-2 and prostaglandin E2 synthesis.",
+        "journal": "Parasite Immunol 23:177-84 (2001) DOI:10.1046/j.1365-3024.2001.00372.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11298294",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ghosh S",
+          "Bhattacharyya S",
+          "Sirkar M",
+          "Sa GS",
+          "Das T",
+          "Majumdar D",
+          "Roy S",
+          "Majumdar S"
+        ],
+        "title": "Leishmania donovani suppresses activated protein 1 and NF-kappaB activation in host macrophages via ceramide generation: involvement of extracellular signal-regulated kinase.",
+        "journal": "Infect Immun 70:6828-38 (2002) DOI:10.1128/IAI.70.12.6828-6838.2002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12438359",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bogdan C",
+          "Rollinghoff M"
+        ],
+        "title": "The immune response to Leishmania: mechanisms of parasite control and evasion.",
+        "journal": "Int J Parasitol 28:121-34 (1998) DOI:10.1016/S0020-7519(97)00169-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9504340",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Blanchette J",
+          "Abu-Dayyeh I",
+          "Hassani K",
+          "Whitcombe L",
+          "Olivier M"
+        ],
+        "title": "Regulation of macrophage nitric oxide production by the protein tyrosine phosphatase Src homology 2 domain phosphotyrosine phosphatase 1 (SHP-1).",
+        "journal": "Immunology 127:123-33 (2009) DOI:10.1111/j.1365-2567.2008.02929.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18793215",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Alexander J",
+          "Satoskar AR",
+          "Russell DG"
+        ],
+        "title": "Leishmania species: models of intracellular parasitism.",
+        "journal": "J Cell Sci 112 Pt",
+        "volume": "18",
+        "issue": "",
+        "pages": "2993-3002",
+        "year": "1999",
+        "pubmed": "10462516",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Denkers EY",
+          "Butcher BA"
+        ],
+        "title": "Sabotage and exploitation in macrophages parasitized by intracellular protozoans.",
+        "journal": "Trends Parasitol 21:35-41 (2005) DOI:10.1016/j.pt.2004.10.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15639739",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lodge R",
+          "Diallo TO",
+          "Descoteaux A"
+        ],
+        "title": "Leishmania donovani lipophosphoglycan blocks NADPH oxidase assembly at the phagosome membrane.",
+        "journal": "Cell Microbiol 8:1922-31 (2006) DOI:10.1111/j.1462-5822.2006.00758.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16848789",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "de Freitas Balanco JM",
+          "Moreira ME",
+          "Bonomo A",
+          "Bozza PT",
+          "Amarante-Mendes G",
+          "Pirmez C",
+          "Barcinski MA"
+        ],
+        "title": "Apoptotic mimicry by an obligate intracellular parasite downregulates macrophage microbicidal activity.",
+        "journal": "Curr Biol 11:1870-3 (2001) DOI:10.1016/S0960-9822(01)00563-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11728310",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kane MM",
+          "Mosser DM"
+        ],
+        "title": "Leishmania parasites and their ploys to disrupt macrophage activation.",
+        "journal": "Curr Opin Hematol",
+        "volume": "7",
+        "issue": "",
+        "pages": "26-31",
+        "year": "2000",
+        "pubmed": "10608501",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "de Almeida MC",
+          "Vilhena V",
+          "Barral A",
+          "Barral-Netto M"
+        ],
+        "title": "Leishmanial infection: analysis of its first steps. A review.",
+        "journal": "Mem Inst Oswaldo Cruz 98:861-70 (2003) DOI:10.1590/S0074-02762003000700001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14762510",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05140"
+  }
+]

@@ -1,0 +1,484 @@
+[
+  {
+    "entry_id": "map04913",
+    "name": "Ovarian steroidogenesis",
+    "description": "The ovarian steroids, 17-beta estradiol (E2) and progesterone (P4), are critical for normal uterine function, establishment and maintenance of pregnancy, and mammary gland development. Furthermore, the local effects that are essential for normal ovarian physiology are dependent on the endocrine, paracrine, and autocrine actions of E2, P4, and androgens. In most mammals (including humans and mice), ovarian steroidogenesis occurs according to the two-cell/two-gonadotropin theory. This theory describes how granulosa and theca cells work together to make the ovarian steroids. Theca cells respond to LH signaling by increasing the expression of enzymes necessary for the conversion of cholesterol to androgens, such as androstenedione (A) and testosterone (T). Granulosa cells respond to FSH signaling by increasing the expression of enzymes necessary for the conversion of theca-derived androgens into estrogens (E2 and estrone).",
+    "classes": [
+      "Organismal Systems",
+      "Endocrine system"
+    ],
+    "diseases": {
+      "H00599": "46,XX gonadal dysgenesis",
+      "H01383": "Hyperlipoproteinemia type IIa",
+      "H01973": "Fertile eunuch syndrome",
+      "H02020": "Aromatase deficiency"
+    },
+    "dblinks": {
+      "GO": [
+        "0050810"
+      ]
+    },
+    "pathways": {
+      "map04913": "Ovarian steroidogenesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Havelock JC",
+          "Rainey WE",
+          "Carr BR"
+        ],
+        "title": "Ovarian granulosa cell lines.",
+        "journal": "Mol Cell Endocrinol 228:67-78 (2004) DOI:10.1016/j.mce.2004.04.018",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15541573",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Stocco DM",
+          "Wang X",
+          "Jo Y",
+          "Manna PR"
+        ],
+        "title": "Multiple signaling pathways regulating steroidogenesis and steroidogenic acute regulatory protein expression: more complicated than we thought.",
+        "journal": "Mol Endocrinol 19:2647-59 (2005) DOI:10.1210/me.2004-0532",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15831519",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wen X",
+          "Li D",
+          "Tozer AJ",
+          "Docherty SM",
+          "Iles RK"
+        ],
+        "title": "Estradiol, progesterone, testosterone profiles in human follicular fluid and cultured granulosa cells from luteinized pre-ovulatory follicles.",
+        "journal": "Reprod Biol Endocrinol 8:117 (2010) DOI:10.1186/1477-7827-8-117",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20937107",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Erickson GF",
+          "Shimasaki S"
+        ],
+        "title": "The physiology of folliculogenesis: the role of novel growth factors.",
+        "journal": "Fertil Steril 76:943-9 (2001) DOI:10.1016/S0015-0282(01)02859-X",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11704115",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wood JR",
+          "Strauss JF 3rd"
+        ],
+        "title": "Multiple signal transduction pathways regulate ovarian steroidogenesis.",
+        "journal": "Rev Endocr Metab Disord 3:33-46 (2002) DOI:10.1023/A:1012748718150",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11883103",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Drummond AE"
+        ],
+        "title": "The role of steroids in follicular growth.",
+        "journal": "Reprod Biol Endocrinol 4:16 (2006) DOI:10.1186/1477-7827-4-16",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16603089",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Craig ZR",
+          "Wang W",
+          "Flaws JA"
+        ],
+        "title": "Endocrine-disrupting chemicals in ovarian function: effects on steroidogenesis, metabolism and nuclear receptor signaling.",
+        "journal": "Reproduction 142:633-46 (2011) DOI:10.1530/REP-11-0136",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21862696",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Young JM",
+          "McNeilly AS"
+        ],
+        "title": "Theca: the forgotten cell of the ovarian follicle.",
+        "journal": "Reproduction 140:489-504 (2010) DOI:10.1530/REP-10-0094",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20628033",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Diamanti-Kandarakis E",
+          "Argyrakopoulou G",
+          "Economou F",
+          "Kandaraki E",
+          "Koutsilieris M"
+        ],
+        "title": "Defects in insulin signaling pathways in ovarian steroidogenesis and other tissues in polycystic ovary syndrome (PCOS).",
+        "journal": "J Steroid Biochem Mol Biol 109:242-6 (2008) DOI:10.1016/j.jsbmb.2008.03.014",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18440223",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Spicer LJ"
+        ],
+        "title": "Receptors for insulin-like growth factor-I and tumor necrosis factor-alpha are hormonally regulated in bovine granulosa and thecal cells.",
+        "journal": "Anim Reprod Sci 67:45-58 (2001) DOI:10.1016/S0378-4320(01)00114-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11408113",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang X",
+          "Stocco DM"
+        ],
+        "title": "Cyclic AMP and arachidonic acid: a tale of two pathways.",
+        "journal": "Mol Cell Endocrinol 158:7-12 (1999) DOI:10.1016/S0303-7207(99)00130-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10630400",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang X",
+          "Shen CL",
+          "Dyson MT",
+          "Yin X",
+          "Schiffer RB",
+          "Grammas P",
+          "Stocco DM"
+        ],
+        "title": "The involvement of epoxygenase metabolites of arachidonic acid in cAMP-stimulated steroidogenesis and steroidogenic acute regulatory protein gene expression.",
+        "journal": "J Endocrinol 190:871-8 (2006) DOI:10.1677/joe.1.06933",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17003287",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Miyoshi T",
+          "Otsuka F",
+          "Inagaki K",
+          "Otani H",
+          "Takeda M",
+          "Suzuki J",
+          "Goto J",
+          "Ogura T",
+          "Makino H"
+        ],
+        "title": "Differential regulation of steroidogenesis by bone morphogenetic proteins in granulosa cells: involvement of extracellularly regulated kinase signaling and oocyte actions in follicle-stimulating hormone-induced estrogen production.",
+        "journal": "Endocrinology 148:337-45 (2007) DOI:10.1210/en.2006-0966",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17008391",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Otsuka F",
+          "Moore RK",
+          "Shimasaki S"
+        ],
+        "title": "Biological function and cellular mechanism of bone morphogenetic protein-6 in the ovary.",
+        "journal": "J Biol Chem 276:32889-95 (2001) DOI:10.1074/jbc.M103212200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11447221",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shimasaki S",
+          "Moore RK",
+          "Otsuka F",
+          "Erickson GF."
+        ],
+        "title": "The bone morphogenetic protein system in mammalian reproduction.",
+        "journal": "Endocr Rev 25:72-101 (2004) DOI:10.1210/er.2003-0007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14769828",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lukacik P",
+          "Kavanagh KL",
+          "Oppermann U"
+        ],
+        "title": "Structure and function of human 17beta-hydroxysteroid dehydrogenases.",
+        "journal": "Mol Cell Endocrinol 248:61-71 (2006) DOI:10.1016/j.mce.2005.12.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16414178",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04913"
+  }
+]

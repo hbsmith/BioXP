@@ -1,0 +1,328 @@
+[
+  {
+    "entry_id": "map04740",
+    "name": "Olfactory transduction",
+    "description": "Within the compact cilia of the olfactory receptor neurons (ORNs) a cascade of enzymatic activity transduces the binding of an odorant molecule to a receptor into an electrical signal that can be transmitted to the brain. Odorant molecules bind to a receptor protein (R) coupled to an olfactory specific Gs-protein (G) and activate a type III adenylyl cyclase (AC), increasing intracellular cAMP levels. cAMP targets an olfactory-specific cyclic-nucleotide gated ion channel (CNG), allowing cations, particularly Na and Ca, to flow down their electrochemical gradients into the cell, depolarizing the ORN. Furthermore, the Ca entering the cell is able to activate a Ca-activated Cl channel, which would allow Cl to flow out of the cell, thus further increasing the depolarization. Elevated intracellular Ca causes adaptation by at least two different molecular steps: inhibition of the activity of adenylyl cyclase via CAMKII-dependent phosphorylation and down-regulation of the affinity of the CNG channel to cAMP.",
+    "classes": [
+      "Organismal Systems",
+      "Sensory system"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0007608"
+      ]
+    },
+    "pathways": {
+      "map04740": "Olfactory transduction"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Kaupp UB"
+        ],
+        "title": "Olfactory signalling in vertebrates and insects: differences and commonalities.",
+        "journal": "Nat Rev Neurosci 11:188-200 (2010) DOI:10.1038/nrn2789",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20145624",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Peterlin Z",
+          "Firestein S",
+          "Rogers ME"
+        ],
+        "title": "The state of the art of odorant receptor deorphanization: a report from the orphanage.",
+        "journal": "J Gen Physiol 143:527-42 (2014) DOI:10.1085/jgp.201311151",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24733839",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kato A",
+          "Touhara K"
+        ],
+        "title": "Mammalian olfactory receptors: pharmacology, G protein coupling and desensitization.",
+        "journal": "Cell Mol Life Sci 66:3743-53 (2009) DOI:10.1007/s00018-009-0111-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19652915",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Firestein S."
+        ],
+        "title": "How the olfactory system makes sense of scents.",
+        "journal": "Nature 413:211-8 (2001) DOI:10.1038/35093026",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11557990",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ache BW",
+          "Young JM."
+        ],
+        "title": "Olfaction: diverse species, conserved principles.",
+        "journal": "Neuron 48:417-30 (2005) DOI:10.1016/j.neuron.2005.10.022",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16269360",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zufall F",
+          "Leinders-Zufall T."
+        ],
+        "title": "The cellular and molecular basis of odor adaptation.",
+        "journal": "Chem Senses 25:473-81 (2000) DOI:10.1093/chemse/25.4.473",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10944513",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lodovichi C",
+          "Belluscio L"
+        ],
+        "title": "Odorant receptors in the formation of the olfactory bulb circuitry.",
+        "journal": "Physiology (Bethesda) 27:200-12 (2012) DOI:10.1152/physiol.00015.2012",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22875451",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kohout TA",
+          "Lefkowitz RJ."
+        ],
+        "title": "Regulation of G protein-coupled receptor kinases and arrestins during receptor desensitization.",
+        "journal": "Mol Pharmacol 63:9-18 (2003) DOI:10.1124/mol.63.1.9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12488531",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "De Palo G",
+          "Boccaccio A",
+          "Miri A",
+          "Menini A",
+          "Altafini C"
+        ],
+        "title": "A dynamical feedback model for adaptation in the olfactory transduction pathway.",
+        "journal": "Biophys J 102:2677-86 (2012) DOI:10.1016/j.bpj.2012.04.040",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22735517",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zufall F",
+          "Munger SD"
+        ],
+        "title": "Receptor guanylyl cyclases in mammalian olfactory function.",
+        "journal": "Mol Cell Biochem 334:191-7 (2010) DOI:10.1007/s11010-009-0325-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19941039",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Duda T",
+          "Sharma RK"
+        ],
+        "title": "Ca2+-modulated ONE-GC odorant signal transduction.",
+        "journal": "FEBS Lett 583:1327-30 (2009) DOI:10.1016/j.febslet.2009.03.036",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19306880",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04740"
+  }
+]

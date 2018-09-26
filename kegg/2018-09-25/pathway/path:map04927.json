@@ -1,0 +1,529 @@
+[
+  {
+    "entry_id": "map04927",
+    "name": "Cortisol synthesis and secretion",
+    "description": "Cortisol is the main endogenous glucocorticoid, which affects a plethora of physiological functions, e.g., lipid and glucose metabolism, metabolic homeostasis and adaptation to stress. Cortisol production is primarily regulated by corticotropin (ACTH) in zona fasciculata. The stimulatory effect of ACTH on cortisol synthesis depends on cAMP dependent signaling, but also involves membrane depolarization and increased cytosolic Ca2+. Each of cAMP and Ca2+ induces the expression of StAR, stimulating intramitochondrial cholesterol transfer, as well as the steroidogenic enzymes in the pathway from cholesterol to cortisol (e.g., CHE, CYP17A1, CYP11B1).",
+    "classes": [
+      "Organismal Systems",
+      "Endocrine system"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0043400"
+      ]
+    },
+    "pathways": {
+      "map04927": "Cortisol synthesis and secretion"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Gallo-Payet N",
+          "Battista MC"
+        ],
+        "title": "Steroidogenesis-adrenal cell signal transduction.",
+        "journal": "Compr Physiol 4:889-964 (2014) DOI:10.1002/cphy.c130050",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24944026",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Enyeart JJ"
+        ],
+        "title": "Biochemical and Ionic signaling mechanisms for ACTH-stimulated cortisol production.",
+        "journal": "Vitam Horm 70:265-79 (2005) DOI:10.1016/S0083-6729(05)70008-X",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15727807",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bandulik S",
+          "Tauber P",
+          "Lalli E",
+          "Barhanin J",
+          "Warth R"
+        ],
+        "title": "Two-pore domain potassium channels in the adrenal cortex.",
+        "journal": "Pflugers Arch 467:1027-42 (2015) DOI:10.1007/s00424-014-1628-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25339223",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Liu H",
+          "Enyeart JA",
+          "Enyeart JJ"
+        ],
+        "title": "Angiotensin II inhibits native bTREK-1 K+ channels through a PLC-, kinase C-, and PIP2-independent pathway requiring ATP hydrolysis.",
+        "journal": "Am J Physiol Cell Physiol 293:C682-95 (2007) DOI:10.1152/ajpcell.00087.2007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17494631",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Enyeart JJ",
+          "Danthi SJ",
+          "Liu H",
+          "Enyeart JA"
+        ],
+        "title": "Angiotensin II inhibits bTREK-1 K+ channels in adrenocortical cells by separate Ca2+- and ATP hydrolysis-dependent mechanisms.",
+        "journal": "J Biol Chem 280:30814-28 (2005) DOI:10.1074/jbc.M504283200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15994319",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shen WJ",
+          "Azhar S",
+          "Kraemer FB"
+        ],
+        "title": "ACTH Regulation of Adrenal SR-B1.",
+        "journal": "Front Endocrinol (Lausanne) 7:42 (2016) DOI:10.3389/fendo.2016.00042",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27242666",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ruggiero C",
+          "Lalli E"
+        ],
+        "title": "Impact of ACTH Signaling on Transcriptional Regulation of Steroidogenic Genes.",
+        "journal": "Front Endocrinol (Lausanne) 7:24 (2016) DOI:10.3389/fendo.2016.00024",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27065945",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Margioris AN",
+          "Tsatsanis C"
+        ],
+        "title": "ACTH Action on the Adrenals",
+        "journal": "(2000)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25905342",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Spiga F",
+          "Lightman SL"
+        ],
+        "title": "Dynamics of adrenal glucocorticoid steroidogenesis in health and disease.",
+        "journal": "Mol Cell Endocrinol 408:227-34 (2015) DOI:10.1016/j.mce.2015.02.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25662280",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tsai LC",
+          "Beavo JA"
+        ],
+        "title": "The roles of cyclic nucleotide phosphodiesterases (PDEs) in steroidogenesis.",
+        "journal": "Curr Opin Pharmacol 11:670-5 (2011) DOI:10.1016/j.coph.2011.09.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21962440",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Odermatt A",
+          "Strajhar P",
+          "Engeli RT"
+        ],
+        "title": "Disruption of steroidogenesis: Cell models for mechanistic investigations and as screening tools.",
+        "journal": "J Steroid Biochem Mol Biol 158:9-21 (2016) DOI:10.1016/j.jsbmb.2016.01.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26807866",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Manna PR",
+          "Stetson CL",
+          "Slominski AT",
+          "Pruitt K"
+        ],
+        "title": "Role of the steroidogenic acute regulatory protein in health and disease.",
+        "journal": "Endocrine 51:7-21 (2016) DOI:10.1007/s12020-015-0715-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26271515",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jackson DS",
+          "Ramachandrappa S",
+          "Clark AJ",
+          "Chan LF"
+        ],
+        "title": "Melanocortin receptor accessory proteins in adrenal disease and obesity.",
+        "journal": "Front Neurosci 9:213 (2015) DOI:10.3389/fnins.2015.00213",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26113808",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cerda-Reverter JM",
+          "Agulleiro MJ",
+          "Cortes R",
+          "Sanchez E",
+          "Guillot R",
+          "Leal E",
+          "Fernandez-Duran B",
+          "Puchol S",
+          "Eley M"
+        ],
+        "title": "Involvement of melanocortin receptor accessory proteins (MRAPs) in the function of melanocortin receptors.",
+        "journal": "Gen Comp Endocrinol 188:133-6 (2013) DOI:10.1016/j.ygcen.2013.01.017",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23410915",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Enyeart JJ",
+          "Enyeart JA"
+        ],
+        "title": "Ca2+ and K+ channels of normal human adrenal zona fasciculata cells: properties and modulation by ACTH and AngII.",
+        "journal": "J Gen Physiol 142:137-55 (2013) DOI:10.1085/jgp.201310964",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23858003",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Midzak A",
+          "Papadopoulos V"
+        ],
+        "title": "Adrenal Mitochondria and Steroidogenesis: From Individual Proteins to Functional Protein Assemblies.",
+        "journal": "Front Endocrinol (Lausanne) 7:106 (2016) DOI:10.3389/fendo.2016.00106",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27524977",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Calebiro D",
+          "Di Dalmazi G",
+          "Bathon K",
+          "Ronchi CL",
+          "Beuschlein F"
+        ],
+        "title": "cAMP signaling in cortisol-producing adrenal adenoma.",
+        "journal": "Eur J Endocrinol 173:M99-106 (2015) DOI:10.1530/EJE-15-0353",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26139209",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Turcu AF",
+          "Auchus RJ"
+        ],
+        "title": "Adrenal steroidogenesis and congenital adrenal hyperplasia.",
+        "journal": "Endocrinol Metab Clin North Am 44:275-96 (2015) DOI:10.1016/j.ecl.2015.02.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26038201",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04927"
+  }
+]

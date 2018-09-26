@@ -1,0 +1,42 @@
+[
+  {
+    "entry_id": "map00072",
+    "name": "Synthesis and degradation of ketone bodies",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Lipid metabolism"
+    ],
+    "diseases": {
+      "H01076": "Alpha-methylacetoacetic aciduria",
+      "H01121": "Succinyl CoA:3-oxoacid CoA transferase (SCOT) deficiency",
+      "H01123": "HMG-CoA synthase deficiency"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00072": "Synthesis and degradation of ketone bodies"
+    },
+    "orthologs": {
+    },
+    "references": [
+
+    ],
+    "modules": {
+      "M00088": "Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone [PATH:map00072]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00072"
+  }
+]

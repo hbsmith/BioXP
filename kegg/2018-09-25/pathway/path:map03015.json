@@ -1,0 +1,176 @@
+[
+  {
+    "entry_id": "map03015",
+    "name": "mRNA surveillance pathway",
+    "description": "The mRNA surveillance pathway is a quality control mechanism that detects and degrades abnormal mRNAs. These pathways include nonsense-mediated mRNA decay (NMD), nonstop mRNA decay (NSD), and no-go decay (NGD). NMD is a mechanism that eliminates mRNAs containing premature translation-termination codons (PTCs). In vertebrates, PTCs trigger efficient NMD when located upstream of an exon junction complex (EJC). Upf3, together with Upf1 and Upf2, may signal the presence of the PTC to the 5'end of the transcript, resulting in decapping and rapid exonucleolytic digestion of the mRNA. In the NSD pathway, which targets mRNAs lacking termination codons, the ribosome is believed to translate through the 3' untranslated region and stall at the end of the poly(A) tail. NSD involves an eRF3-like protein, Ski7p, which is hypothesized to bind the empty A site of the ribosome and recruit the exosome to degrade the mRNA from the 3' end. NGD targets mRNAs with stalls in translation elongation for endonucleolytic cleavage in a process involving the Dom34 and Hbs1 proteins.",
+    "classes": [
+      "Genetic Information Processing",
+      "Translation"
+    ],
+    "diseases": {
+      "H00704": "Oculopharyngeal muscular dystrophy",
+      "H00897": "Pontocerebellar hypoplasia"
+    },
+    "dblinks": {
+      "GO": [
+        "0071028"
+      ]
+    },
+    "pathways": {
+      "map03015": "mRNA surveillance pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Maquat LE"
+        ],
+        "title": "Nonsense-mediated mRNA decay: splicing, translation and mRNP dynamics.",
+        "journal": "Nat Rev Mol Cell Biol 5:89-99 (2004) DOI:10.1038/nrm1310",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15040442",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Amrani N",
+          "Sachs MS",
+          "Jacobson A"
+        ],
+        "title": "Early nonsense: mRNA decay solves a translational problem.",
+        "journal": "Nat Rev Mol Cell Biol 7:415-25 (2006) DOI:10.1038/nrm1942",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16723977",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Eulalio A",
+          "Behm-Ansmant I",
+          "Izaurralde E"
+        ],
+        "title": "P bodies: at the crossroads of post-transcriptional pathways.",
+        "journal": "Nat Rev Mol Cell Biol 8:9-22 (2007) DOI:10.1038/nrm2080",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17183357",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mandel CR",
+          "Bai Y",
+          "Tong L"
+        ],
+        "title": "Protein factors in pre-mRNA 3'-end processing.",
+        "journal": "Cell Mol Life Sci 65:1099-122 (2008) DOI:10.1007/s00018-007-7474-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18158581",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Clement SL",
+          "Lykke-Andersen J"
+        ],
+        "title": "No mercy for messages that mess with the ribosome.",
+        "journal": "Nat Struct Mol Biol 13:299-301 (2006) DOI:10.1038/nsmb0406-299",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16715045",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00399": "Cap binding complex [PATH:map03015]",
+      "M00430": "Exon junction complex (EJC) [PATH:map03015]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko03015"
+  }
+]

@@ -1,0 +1,588 @@
+[
+  {
+    "entry_id": "map00780",
+    "name": "Biotin metabolism",
+    "description": "Biotin (vitamin H or vitamin B7) is the essential cofactor of biotin-dependent carboxylases, such as pyruvate carboxylase and acetyl-CoA carboxylase. Mammals cannot synthesize biotin, while in bacteria, fungi, and plants it is synthesized from pimelate thioester through different pathways. In E. coli and many organisms, pimelate thioester is derived from malonyl-ACP. The pathway starts with the methylation to malonyl-ACP methyl ester, followed by the fatty acid chain elongation cycle to form pimeloyl-ACP methyl ester, which is then demethylated to form pimeloyl-ACP [MD:M00572]. Pimeloyl-ACP is converted to biotin through the final four steps in the biotin bicyclic ring assembly, which are conserved among biotin-producing organisms [MD:M00123]. In B. subtilis, biotin is derived from pimeloyl-ACP formed by oxidative cleavage of long-chain acyl-ACPs [MD:M00573]. Some bacteria synthesize biotin from pimeloyl-CoA derived from pimelate [MD:M00577]. Biotin is covalently attached to biotin-dependent carboxylase by biotin protein ligase, also known as holocarboxylase synthase in mammals, to form an active holocarboxylase. After degradation of the biotinylated carboxylase into biocytin, it is further degraded by biotinidase to release free biotin, which is recycled in holocarboxylase synthesis. Biotin is catabolized by beta-oxidation of the valeric acid side chain or oxidation of sulfur in the heterocyclic ring.",
+    "classes": [
+      "Metabolism",
+      "Metabolism of cofactors and vitamins"
+    ],
+    "diseases": {
+      "H00180": "Holocarboxylase synthetase deficiency",
+      "H00548": "Brunner syndrome",
+      "H01182": "Biotinidase deficiency"
+    },
+    "dblinks": {
+      "GO": [
+        "0006768"
+      ]
+    },
+    "pathways": {
+      "map00780": "Biotin metabolism"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Lin S",
+          "Cronan JE"
+        ],
+        "title": "Closing in on complete pathways of biotin biosynthesis.",
+        "journal": "Mol Biosyst 7:1811-21 (2011) DOI:10.1039/c1mb05022b",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21437340",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lin S",
+          "Cronan JE"
+        ],
+        "title": "The BioC O-methyltransferase catalyzes methyl esterification of malonyl-acyl carrier protein, an essential step in biotin synthesis.",
+        "journal": "J Biol Chem 287:37010-20 (2012) DOI:10.1074/jbc.M112.410290",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22965231",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lin S",
+          "Hanson RE",
+          "Cronan JE"
+        ],
+        "title": "Biotin synthesis begins by hijacking the fatty acid synthetic pathway.",
+        "journal": "Nat Chem Biol 6:682-8 (2010) DOI:10.1038/nchembio.420",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20693992",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cronan JE",
+          "Lin S"
+        ],
+        "title": "Synthesis of the alpha,omega-dicarboxylic acid precursor of biotin by the canonical fatty acid biosynthetic pathway.",
+        "journal": "Curr Opin Chem Biol 15:407-13 (2011) DOI:10.1016/j.cbpa.2011.03.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21435937",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Stok JE",
+          "De Voss J"
+        ],
+        "title": "Expression, purification, and characterization of BioI: a carbon-carbon bond cleaving cytochrome P450 involved in biotin biosynthesis in Bacillus subtilis.",
+        "journal": "Arch Biochem Biophys 384:351-60 (2000) DOI:10.1006/abbi.2000.2067",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11368323",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cryle MJ",
+          "Schlichting I"
+        ],
+        "title": "Structural insights from a P450 Carrier Protein complex reveal how specificity is achieved in the P450(BioI) ACP complex.",
+        "journal": "Proc Natl Acad Sci U S A 105:15696-701 (2008) DOI:10.1073/pnas.0805983105",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18838690",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bower S",
+          "Perkins JB",
+          "Yocum RR",
+          "Howitt CL",
+          "Rahaim P",
+          "Pero J"
+        ],
+        "title": "Cloning, sequencing, and characterization of the Bacillus subtilis biotin biosynthetic operon.",
+        "journal": "J Bacteriol 178:4122-30 (1996) DOI:10.1128/JB.178.14.4122-4130.1996",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "8763940",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ploux O",
+          "Soularue P",
+          "Marquet A",
+          "Gloeckler R",
+          "Lemoine Y"
+        ],
+        "title": "Investigation of the first step of biotin biosynthesis in Bacillus sphaericus. Purification and characterization of the pimeloyl-CoA synthase, and uptake of pimelate.",
+        "journal": "Biochem J 287 ( Pt 3):685-90 (1992) DOI:10.1042/bj2870685",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "1445232",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rodionov DA",
+          "Mironov AA",
+          "Gelfand MS"
+        ],
+        "title": "Conservation of the biotin regulon and the BirA regulatory signal in Eubacteria and Archaea.",
+        "journal": "Genome Res 12:1507-16 (2002) DOI:10.1101/gr.314502",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12368242",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sullivan JT",
+          "Brown SD",
+          "Yocum RR",
+          "Ronson CW"
+        ],
+        "title": "The bio operon on the acquired symbiosis island of Mesorhizobium sp. strain R7A includes a novel gene involved in pimeloyl-CoA synthesis.",
+        "journal": "Microbiology 147:1315-22 (2001) DOI:10.1099/00221287-147-5-1315",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11320134",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Entcheva P",
+          "Phillips DA",
+          "Streit WR"
+        ],
+        "title": "Functional analysis of Sinorhizobium meliloti genes involved in biotin synthesis and transport.",
+        "journal": "Appl Environ Microbiol 68:2843-8 (2002) DOI:10.1128/AEM.68.6.2843-2848.2002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12039741",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zempleni J",
+          "Wijeratne SS",
+          "Hassan YI"
+        ],
+        "title": "Biotin.",
+        "journal": "Biofactors 35:36-46 (2009) DOI:10.1002/biof.8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19319844",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zempleni J",
+          "McCormick DB",
+          "Mock DM"
+        ],
+        "title": "Identification of biotin sulfone, bisnorbiotin methyl ketone, and tetranorbiotin-l-sulfoxide in human urine.",
+        "journal": "Am J Clin Nutr 65:508-11 (1997) DOI:10.1093/ajcn/65.2.508",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9022537",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Iwahara S",
+          "McCormick DB",
+          "Wright LD",
+          "Li HC"
+        ],
+        "title": "Bacterial degradation of biotin. 3. Metabolism of 14C-carbonyl-labeled biotin.",
+        "journal": "J Biol Chem",
+        "volume": "244",
+        "issue": "",
+        "pages": "1393-8",
+        "year": "1969",
+        "pubmed": "5775781",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pierson DE",
+          "Campbell A"
+        ],
+        "title": "Cloning and nucleotide sequence of bisC, the structural gene for biotin sulfoxide reductase in Escherichia coli.",
+        "journal": "J Bacteriol 172:2194-8 (1990) DOI:10.1128/JB.172.4.2194-2198.1990",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "2180922",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ezraty B",
+          "Bos J",
+          "Barras F",
+          "Aussel L"
+        ],
+        "title": "Methionine sulfoxide reduction and assimilation in Escherichia coli: new role for the biotin sulfoxide reductase BisC.",
+        "journal": "J Bacteriol 187:231-7 (2005) DOI:10.1128/JB.187.1.231-237.2005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15601707",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "del Campillo-Campbell A",
+          "Dykhuizen D",
+          "Cleary PP"
+        ],
+        "title": "Enzymic reduction of d-biotin d-sulfoxide to d-biotin.",
+        "journal": "Methods Enzymol",
+        "volume": "62",
+        "issue": "",
+        "pages": "379-85",
+        "year": "1979",
+        "pubmed": "374979",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pollock VV",
+          "Barber MJ"
+        ],
+        "title": "Biotin sulfoxide reductase. Heterologous expression and characterization of a functional molybdopterin guanine dinucleotide-containing enzyme.",
+        "journal": "J Biol Chem 272:3355-62 (1997) DOI:10.1074/jbc.272.6.3355",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9013576",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nelson KJ",
+          "Rajagopalan KV"
+        ],
+        "title": "Studies on the interaction of NADPH with Rhodobacter sphaeroides biotin sulfoxide reductase.",
+        "journal": "Biochemistry 43:11226-37 (2004) DOI:10.1021/bi0490845",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15366932",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pinon V",
+          "Ravanel S",
+          "Douce R",
+          "Alban C"
+        ],
+        "title": "Biotin synthesis in plants. The first committed step of the pathway is catalyzed by a cytosolic 7-keto-8-aminopelargonic acid synthase.",
+        "journal": "Plant Physiol 139:1666-76 (2005) DOI:10.1104/pp.105.070144",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16299174",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00123": "Biotin biosynthesis, pimeloyl-ACP/CoA => biotin [PATH:map00780]",
+      "M00572": "Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP [PATH:map00780]",
+      "M00573": "Biotin biosynthesis, BioI pathway, long-chain-acyl-ACP => pimeloyl-ACP => biotin [PATH:map00780]",
+      "M00577": "Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin [PATH:map00780]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00780"
+  }
+]

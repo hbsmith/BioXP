@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "map00770",
+    "name": "Pantothenate and CoA biosynthesis",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Metabolism of cofactors and vitamins"
+    ],
+    "diseases": {
+      "H00832": "Core neuroacanthocytosis syndromes",
+      "H00833": "Neurodegeneration with brain iron accumulation",
+      "H01002": "Generalized arterial calcification of infancy",
+      "H01394": "Cole disease"
+    },
+    "dblinks": {
+      "GO": [
+        "0015940",
+        "0015937"
+      ]
+    },
+    "pathways": {
+      "map00770": "Pantothenate and CoA biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+
+    ],
+    "modules": {
+      "M00119": "Pantothenate biosynthesis, valine/L-aspartate => pantothenate [PATH:map00770]",
+      "M00120": "Coenzyme A biosynthesis, pantothenate => CoA [PATH:map00770]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00770"
+  }
+]

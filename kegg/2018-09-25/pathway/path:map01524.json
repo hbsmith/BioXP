@@ -1,0 +1,539 @@
+[
+  {
+    "entry_id": "map01524",
+    "name": "Platinum drug resistance",
+    "description": "Platinum-based drugs cisplatin, carboplatin and oxaliplatin are widely used in the therapy of solid malignancies, including testicular, ovarian, head and neck, colorectal, bladder and lung cancers. The mechanism of action of Platinum-based drugs involves covalent binding to purine DNA bases, which primarily leads to cellular apoptosis. Their clinical success is, however, limited due to severe side effects and intrinsic or acquired resistance to the treatment. Platinum resistance could arise from decreased drug influx, increased drug efflux, intracellular detoxification by glutathione, etc., decreased binding (e.g., due to high intracellular pH), increased DNA repair, decreased mismatch repair, defective apoptosis, and altered oncogene expression.",
+    "classes": [
+      "Human Diseases",
+      "Drug resistance: Antineoplastic"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map01524": "Platinum drug resistance"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Siddik ZH"
+        ],
+        "title": "Cisplatin: mode of cytotoxic action and molecular basis of resistance.",
+        "journal": "Oncogene 22:7265-79 (2003) DOI:10.1038/sj.onc.1206933",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14576837",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Martinez-Balibrea E",
+          "Martinez-Cardus A",
+          "Gines A",
+          "Ruiz de Porras V",
+          "Moutinho C",
+          "Layos L",
+          "Manzano JL",
+          "Buges C",
+          "Bystrup S",
+          "Esteller M",
+          "Abad A"
+        ],
+        "title": "Tumor-Related Molecular Mechanisms of Oxaliplatin Resistance.",
+        "journal": "Mol Cancer Ther 14:1767-76 (2015) DOI:10.1158/1535-7163.MCT-14-0636",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26184483",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kelland L"
+        ],
+        "title": "The resurgence of platinum-based cancer chemotherapy.",
+        "journal": "Nat Rev Cancer 7:573-84 (2007) DOI:10.1038/nrc2167",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17625587",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dilruba S",
+          "Kalayda GV"
+        ],
+        "title": "Platinum-based drugs: past, present and future.",
+        "journal": "Cancer Chemother Pharmacol 77:1103-24 (2016) DOI:10.1007/s00280-016-2976-z",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26886018",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lu HP",
+          "Chao CC"
+        ],
+        "title": "Cancer cells acquire resistance to anticancer drugs: an update.",
+        "journal": "Biomed J 35:464-72 (2012) DOI:10.4103/2319-4170.104411",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23442359",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Koster R",
+          "van Vugt MA",
+          "Timmer-Bosscha H",
+          "Gietema JA",
+          "de Jong S"
+        ],
+        "title": "Unravelling mechanisms of cisplatin sensitivity and resistance in testicular cancer.",
+        "journal": "Expert Rev Mol Med 15:e12 (2013) DOI:10.1017/erm.2013.13",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24074238",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Galluzzi L",
+          "Senovilla L",
+          "Vitale I",
+          "Michels J",
+          "Martins I",
+          "Kepp O",
+          "Castedo M",
+          "Kroemer G"
+        ],
+        "title": "Molecular mechanisms of cisplatin resistance.",
+        "journal": "Oncogene 31:1869-83 (2012) DOI:10.1038/onc.2011.384",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21892204",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Stewart DJ"
+        ],
+        "title": "Mechanisms of resistance to cisplatin and carboplatin.",
+        "journal": "Crit Rev Oncol Hematol 63:12-31 (2007) DOI:10.1016/j.critrevonc.2007.02.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17336087",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Koberle B",
+          "Tomicic MT",
+          "Usanova S",
+          "Kaina B"
+        ],
+        "title": "Cisplatin resistance: preclinical findings and clinical implications.",
+        "journal": "Biochim Biophys Acta 1806:172-82 (2010) DOI:10.1016/j.bbcan.2010.07.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20647037",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jacobsen C",
+          "Honecker F"
+        ],
+        "title": "Cisplatin resistance in germ cell tumours: models and mechanisms.",
+        "journal": "Andrology 3:111-21 (2015) DOI:10.1111/andr.299",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25546083",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fraser M",
+          "Leung B",
+          "Jahani-Asl A",
+          "Yan X",
+          "Thompson WE",
+          "Tsang BK"
+        ],
+        "title": "Chemoresistance in human ovarian cancer: the role of apoptotic regulators.",
+        "journal": "Reprod Biol Endocrinol 1:66 (2003) DOI:10.1186/1477-7827-1-66",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14609433",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sousa GF",
+          "Wlodarczyk SR",
+          "Monteiro G."
+        ],
+        "title": "Carboplatin: molecular mechanisms of action associated with chemoresistance.",
+        "journal": "Brazillian Journal of Pharmaceutical Sciences 50 (2014) DOI:10.1590/S1984-82502014000400004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Galluzzi L",
+          "Vitale I",
+          "Michels J",
+          "Brenner C",
+          "Szabadkai G",
+          "Harel-Bellan A",
+          "Castedo M",
+          "Kroemer G"
+        ],
+        "title": "Systems biology of cisplatin resistance: past, present and future.",
+        "journal": "Cell Death Dis 5:e1257 (2014) DOI:10.1038/cddis.2013.428",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24874729",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dasari S",
+          "Tchounwou PB"
+        ],
+        "title": "Cisplatin in cancer therapy: molecular mechanisms of action.",
+        "journal": "Eur J Pharmacol 740:364-78 (2014) DOI:10.1016/j.ejphar.2014.07.025",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25058905",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Basu A",
+          "Krishnamurthy S"
+        ],
+        "title": "Cellular responses to Cisplatin-induced DNA damage.",
+        "journal": "J Nucleic Acids 2010:201367 (2010) DOI:10.4061/2010/201367",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20811617",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chaudhry P",
+          "Asselin E"
+        ],
+        "title": "Resistance to chemotherapy and hormone therapy in endometrial cancer.",
+        "journal": "Endocr Relat Cancer 16:363-80 (2009) DOI:10.1677/ERC-08-0266",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19190080",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Li X",
+          "Lin Z",
+          "Zhang B",
+          "Guo L",
+          "Liu S",
+          "Li H",
+          "Zhang J",
+          "Ye Q"
+        ],
+        "title": "beta-elemene sensitizes hepatocellular carcinoma cells to oxaliplatin by preventing oxaliplatin-induced degradation of copper transporter 1.",
+        "journal": "Sci Rep 6:21010 (2016) DOI:10.1038/srep21010",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26867799",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Safaei R",
+          "Howell SB"
+        ],
+        "title": "Copper transporters regulate the cellular pharmacology and sensitivity to Pt drugs.",
+        "journal": "Crit Rev Oncol Hematol 53:13-23 (2005) DOI:10.1016/j.critrevonc.2004.09.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15607932",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko01524"
+  }
+]

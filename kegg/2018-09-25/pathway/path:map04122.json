@@ -1,0 +1,120 @@
+[
+  {
+    "entry_id": "map04122",
+    "name": "Sulfur relay system",
+    "description": "Ubiquitin and ubiquitin-like proteins (Ubls) are signalling messengers that control many cellular functions, such as cell proliferation, apoptosis, and DNA repair. It is suggested that Ub-protein modification evolved from prokaryotic sulfurtransfer systems. Molybdenum cofactor (Moco) and thiamin are sulfur-containing cofactors whose biosynthesis includes a key sulfur transfer step that uses unique sulfur carrier proteins, MoaD and ThiS. Ubiquitin, MoaD, and ThiS are all structurally related proteins whose C-termini are activated through adenylation by homologous E1-like enzymes. s2T biosynthesis may share similar chemistry with Moco and thiamin synthesis. In Saccharomyces cerevisiae, Urm1 and Uba4 function as part of a ubl protein conjugation system, though they have sequence homology to bacterial sulfur-transfer enzymes and the ability to function in sulfur transfer.",
+    "classes": [
+      "Genetic Information Processing",
+      "Folding, sorting and degradation"
+    ],
+    "diseases": {
+      "H00192": "Xanthinuria",
+      "H01367": "Infantile liver failure"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map04122": "Sulfur relay system"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Noma A",
+          "Sakaguchi Y",
+          "Suzuki T"
+        ],
+        "title": "Mechanistic characterization of the sulfur-relay system for eukaryotic 2-thiouridine biogenesis at tRNA wobble positions.",
+        "journal": "Nucleic Acids Res 37:1335-52 (2009) DOI:10.1093/nar/gkn1023",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19151091",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Iyer LM",
+          "Burroughs AM",
+          "Aravind L"
+        ],
+        "title": "The prokaryotic antecedents of the ubiquitin-signaling system and the early evolution of ubiquitin-like beta-grasp domains.",
+        "journal": "Genome Biol 7:R60 (2006) DOI:10.1186/gb-2006-7-7-r60",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16859499",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schwarz G",
+          "Mendel RR",
+          "Ribbe MW"
+        ],
+        "title": "Molybdenum cofactors, enzymes and pathways.",
+        "journal": "Nature 460:839-47 (2009) DOI:10.1038/nature08302",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19675644",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04122"
+  }
+]

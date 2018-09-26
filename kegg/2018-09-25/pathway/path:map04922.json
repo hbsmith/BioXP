@@ -1,0 +1,508 @@
+[
+  {
+    "entry_id": "map04922",
+    "name": "Glucagon signaling pathway",
+    "description": "Glucagon is conventionally regarded as a counterregulatory hormone for insulin and plays a critical anti-hypoglycemic role by maintaining glucose homeostasis in both animals and humans. To increase blood glucose, glucagon promotes hepatic glucose output by increasing glycogenolysis and gluconeogenesis and by decreasing glycogenesis and glycolysis in a concerted fashion via multiple mechanisms. Glucagon also stimulates hepatic mitochondrial beta-oxidation to supply energy for glucose production. Glucagon performs its main effect via activation of adenylate cyclase. The adenylate-cyclase-derived cAMP activates protein kinase A (PKA), which then phosphorylates downstream targets, such as cAMP response element binding protein (CREB) and the bifunctional enzyme 6-phosphofructo-2-kinase/ fructose-2,6-bisphosphatase (one of the isoforms being PFK/FBPase 1, encoded by PFKFB1).",
+    "classes": [
+      "Organismal Systems",
+      "Endocrine system"
+    ],
+    "diseases": {
+      "H01762": "Muscle glycogen storage disease",
+      "H01944": "Glycogen storage disease type VI",
+      "H01948": "Glycogen storage disease type IX",
+      "H01951": "Glycogen storage disease type X",
+      "H01956": "Glycogen storage disease of heart"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map04922": "Glucagon signaling pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Jiang G",
+          "Zhang BB"
+        ],
+        "title": "Glucagon and regulation of glucose metabolism.",
+        "journal": "Am J Physiol Endocrinol Metab 284:E671-8 (2003) DOI:10.1152/ajpendo.00492.2002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12626323",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rui L"
+        ],
+        "title": "Energy metabolism in the liver.",
+        "journal": "Compr Physiol 4:177-97 (2014) DOI:10.1002/cphy.c130024",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24692138",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jitrapakdee S"
+        ],
+        "title": "Transcription factors and coactivators controlling nutrient and hormonal regulation of hepatic gluconeogenesis.",
+        "journal": "Int J Biochem Cell Biol 44:33-45 (2012) DOI:10.1016/j.biocel.2011.10.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22004992",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Desvergne B",
+          "Michalik L",
+          "Wahli W."
+        ],
+        "title": "Transcriptional regulation of metabolism.",
+        "journal": "Physiol Rev 86:465-514 (2006) DOI:10.1152/physrev.00025.2005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16601267",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hardie DG"
+        ],
+        "title": "Organismal carbohydrate and lipid homeostasis.",
+        "journal": "Cold Spring Harb Perspect Biol 4:a006031 (2012) DOI:10.1101/cshperspect.a006031",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22550228",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hasenour CM",
+          "Berglund ED",
+          "Wasserman DH"
+        ],
+        "title": "Emerging role of AMP-activated protein kinase in endocrine control of metabolism in the liver.",
+        "journal": "Mol Cell Endocrinol 366:152-62 (2013) DOI:10.1016/j.mce.2012.06.018",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22796337",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Quesada I",
+          "Tuduri E",
+          "Ripoll C",
+          "Nadal A"
+        ],
+        "title": "Physiology of the pancreatic alpha-cell and glucagon secretion: role in glucose homeostasis and diabetes.",
+        "journal": "J Endocrinol 199:5-19 (2008) DOI:10.1677/JOE-08-0290",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18669612",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Oh KJ",
+          "Han HS",
+          "Kim MJ",
+          "Koo SH"
+        ],
+        "title": "CREB and FoxO1: two transcription factors for the regulation of hepatic gluconeogenesis.",
+        "journal": "BMB Rep 46:567-74 (2013) DOI:10.5483/BMBRep.2013.46.12.248",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24238363",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cheng A",
+          "Saltiel AR"
+        ],
+        "title": "More TORC for the gluconeogenic engine.",
+        "journal": "Bioessays 28:231-4 (2006) DOI:10.1002/bies.20375",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16479585",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Altarejos JY",
+          "Montminy M"
+        ],
+        "title": "CREB and the CRTC co-activators: sensors for hormonal and metabolic signals.",
+        "journal": "Nat Rev Mol Cell Biol 12:141-51 (2011) DOI:10.1038/nrm3072",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21346730",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pernicova I",
+          "Korbonits M"
+        ],
+        "title": "Metformin--mode of action and clinical implications for diabetes and cancer.",
+        "journal": "Nat Rev Endocrinol 10:143-56 (2014) DOI:10.1038/nrendo.2013.256",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24393785",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hirota K",
+          "Fukamizu A"
+        ],
+        "title": "Transcriptional regulation of energy metabolism in the liver.",
+        "journal": "J Recept Signal Transduct Res 30:403-9 (2010) DOI:10.3109/10799893.2010.509730",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20735177",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chalkiadaki A",
+          "Guarente L"
+        ],
+        "title": "Metabolic signals regulate SIRT1 expression.",
+        "journal": "EMBO Rep 12:985-6 (2011) DOI:10.1038/embor.2011.179",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21941300",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chalkiadaki A",
+          "Guarente L"
+        ],
+        "title": "Sirtuins mediate mammalian metabolic responses to nutrient availability.",
+        "journal": "Nat Rev Endocrinol 8:287-96 (2012) DOI:10.1038/nrendo.2011.225",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22249520",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tang BL",
+          "Chua CE"
+        ],
+        "title": "Is systemic activation of Sirt1 beneficial for ageing-associated metabolic disorders?",
+        "journal": "Biochem Biophys Res Commun 391:6-10 (2010) DOI:10.1016/j.bbrc.2009.11.016",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19912989",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ozcan L",
+          "Wong CC",
+          "Li G",
+          "Xu T",
+          "Pajvani U",
+          "Park SK",
+          "Wronska A",
+          "Chen BX",
+          "Marks AR",
+          "Fukamizu A",
+          "Backs J",
+          "Singer HA",
+          "Yates JR 3rd",
+          "Accili D",
+          "Tabas I"
+        ],
+        "title": "Calcium signaling through CaMKII regulates hepatic glucose production in fasting and obesity.",
+        "journal": "Cell Metab 15:739-51 (2012) DOI:10.1016/j.cmet.2012.03.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22503562",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang Y",
+          "Li G",
+          "Goode J",
+          "Paz JC",
+          "Ouyang K",
+          "Screaton R",
+          "Fischer WH",
+          "Chen J",
+          "Tabas I",
+          "Montminy M"
+        ],
+        "title": "Inositol-1,4,5-trisphosphate receptor regulates hepatic gluconeogenesis in fasting and diabetes.",
+        "journal": "Nature 485:128-32 (2012) DOI:10.1038/nature10988",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22495310",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04922"
+  }
+]

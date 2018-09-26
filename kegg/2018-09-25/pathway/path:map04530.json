@@ -1,0 +1,787 @@
+[
+  {
+    "entry_id": "map04530",
+    "name": "Tight junction",
+    "description": "Tight junctions (TJs) are essential for establishing a selectively permeable barrier to diffusion through the paracellular space between neighboring cells. TJs are composed of at least three types of transmembrane protein -occludin, claudin and junctional adhesion molecules (JAMs)- and a cytoplasmic 'plaque' consisting of many different proteins that form large complexes. These are proposed to be involved in junction assembly, barrier regulation, cell polarity, gene transcription, and other pathways.",
+    "classes": [
+      "Cellular Processes",
+      "Cellular community - eukaryotes"
+    ],
+    "diseases": {
+      "H00233": "MYH9-related disease",
+      "H00578": "Epstein syndrome",
+      "H00593": "Limb-girdle muscular dystrophy",
+      "H00594": "Distal myopathy",
+      "H00624": "Progressive familial intrahepatic cholestasis",
+      "H00656": "Scapuloperoneal myopathy",
+      "H00703": "Myosin storage myopathy",
+      "H00742": "Neonatal ichthyosis-sclerosing cholangitis (NISCH) syndrome",
+      "H00801": "Familial thoracic aortic aneurysm and dissection",
+      "H00811": "Distal arthrogryposis",
+      "H00840": "Band-like calcification with simplified gyration and polymicrogyria",
+      "H00872": "Trismus-pseudocamptodactyly syndrome",
+      "H00894": "FG syndrome",
+      "H00947": "Pilomatricoma",
+      "H00978": "Thrombocytopenia (THC)",
+      "H01195": "VACTERL/VATER association",
+      "H01210": "Hypomagnesemia",
+      "H01229": "Inclusion body myopathy 3",
+      "H01255": "Juvenile-onset dystonia",
+      "H01301": "Hemorrhagic destruction of the brain, subependymal calcification, and cataracts",
+      "H01677": "Congenital hydrocephalus",
+      "H02051": "May-Hegglin anomaly",
+      "H02053": "Fechtner syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0005923"
+      ]
+    },
+    "pathways": {
+      "map04530": "Tight junction"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Zihni C",
+          "Mills C",
+          "Matter K",
+          "Balda MS"
+        ],
+        "title": "Tight junctions: from simple barriers to multifunctional molecular gates.",
+        "journal": "Nat Rev Mol Cell Biol 17:564-80 (2016) DOI:10.1038/nrm.2016.80",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27353478",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Martin-Belmonte F",
+          "Perez-Moreno M"
+        ],
+        "title": "Epithelial cell polarity, stem cells and cancer.",
+        "journal": "Nat Rev Cancer 12:23-38 (2011) DOI:10.1038/nrc3169",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22169974",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Weber C",
+          "Fraemohs L",
+          "Dejana E"
+        ],
+        "title": "The role of junctional adhesion molecules in vascular inflammation.",
+        "journal": "Nat Rev Immunol 7:467-77 (2007) DOI:10.1038/nri2096",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17525755",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Miyoshi J",
+          "Takai Y"
+        ],
+        "title": "Molecular perspective on tight-junction assembly and epithelial polarity.",
+        "journal": "Adv Drug Deliv Rev 57:815-55 (2005) DOI:10.1016/j.addr.2005.01.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15820555",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mertens AE",
+          "Pegtel DM",
+          "Collard JG"
+        ],
+        "title": "Tiam1 takes PARt in cell polarity.",
+        "journal": "Trends Cell Biol 16:308-16 (2006) DOI:10.1016/j.tcb.2006.04.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16650994",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shin K",
+          "Fogg VC",
+          "Margolis B"
+        ],
+        "title": "Tight junctions and cell polarity.",
+        "journal": "Annu Rev Cell Dev Biol 22:207-35 (2006) DOI:10.1146/annurev.cellbio.22.010305.104219",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16771626",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kooistra MR",
+          "Dube N",
+          "Bos JL"
+        ],
+        "title": "Rap1: a key regulator in cell-cell junction formation.",
+        "journal": "J Cell Sci 120:17-22 (2007) DOI:10.1242/jcs.03306",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17182900",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gonzalez-Mariscal L",
+          "Tapia R",
+          "Chamorro D"
+        ],
+        "title": "Crosstalk of tight junction components with signaling pathways.",
+        "journal": "Biochim Biophys Acta 1778:729-56 (2008) DOI:10.1016/j.bbamem.2007.08.018",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17950242",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Assemat E",
+          "Bazellieres E",
+          "Pallesi-Pocachard E",
+          "Le Bivic A",
+          "Massey-Harroche D"
+        ],
+        "title": "Polarity complex proteins.",
+        "journal": "Biochim Biophys Acta 1778:614-30 (2008) DOI:10.1016/j.bbamem.2007.08.029",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18005931",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Iden S",
+          "Collard JG"
+        ],
+        "title": "Crosstalk between small GTPases and polarity proteins in cell polarization.",
+        "journal": "Nat Rev Mol Cell Biol 9:846-59 (2008) DOI:10.1038/nrm2521",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18946474",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rosse C",
+          "Linch M",
+          "Kermorgant S",
+          "Cameron AJ",
+          "Boeckeler K",
+          "Parker PJ"
+        ],
+        "title": "PKC and the control of localized signal dynamics.",
+        "journal": "Nat Rev Mol Cell Biol 11:103-12 (2010) DOI:10.1038/nrm2847",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20094051",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Terry S",
+          "Nie M",
+          "Matter K",
+          "Balda MS"
+        ],
+        "title": "Rho signaling and tight junction functions.",
+        "journal": "Physiology (Bethesda) 25:16-26 (2010) DOI:10.1152/physiol.00034.2009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20134025",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Russ PK",
+          "Pino CJ",
+          "Williams CS",
+          "Bader DM",
+          "Haselton FR",
+          "Chang MS"
+        ],
+        "title": "Bves modulates tight junction associated signaling.",
+        "journal": "PLoS One 6:e14563 (2011) DOI:10.1371/journal.pone.0014563",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21283798",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Citi S",
+          "Spadaro D",
+          "Schneider Y",
+          "Stutz J",
+          "Pulimeno P"
+        ],
+        "title": "Regulation of small GTPases at epithelial cell-cell junctions.",
+        "journal": "Mol Membr Biol 28:427-44 (2011) DOI:10.3109/09687688.2011.603101",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21781017",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lickert H",
+          "Van Campenhout CA"
+        ],
+        "title": "Evolution of the Discs large gene family provides new insights into the establishment of apical epithelial polarity and the etiology of mental retardation.",
+        "journal": "Commun Integr Biol 5:287-90 (2012) DOI:10.4161/cib.19792",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22896795",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Spadaro D",
+          "Tapia R",
+          "Pulimeno P",
+          "Citi S"
+        ],
+        "title": "The control of gene expression and cell proliferation by the epithelial apical junctional complex.",
+        "journal": "Essays Biochem 53:83-93 (2012) DOI:10.1042/bse0530083",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22928510",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Moleirinho S",
+          "Guerrant W",
+          "Kissil JL"
+        ],
+        "title": "The Angiomotins--from discovery to function.",
+        "journal": "FEBS Lett 588:2693-703 (2014) DOI:10.1016/j.febslet.2014.02.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24548561",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rodriguez-Boulan E",
+          "Macara IG"
+        ],
+        "title": "Organization and execution of the epithelial polarity programme.",
+        "journal": "Nat Rev Mol Cell Biol 15:225-42 (2014) DOI:10.1038/nrm3775",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24651541",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gonzalez-Mariscal L",
+          "Dominguez-Calderon A",
+          "Raya-Sandino A",
+          "Ortega-Olvera JM",
+          "Vargas-Sierra O",
+          "Martinez-Revollar G"
+        ],
+        "title": "Tight junctions and the regulation of gene expression.",
+        "journal": "Semin Cell Dev Biol 36:213-23 (2014) DOI:10.1016/j.semcdb.2014.08.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25152334",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mack NA",
+          "Georgiou M"
+        ],
+        "title": "The interdependence of the Rho GTPases and apicobasal cell polarity.",
+        "journal": "Small GTPases 5:10 (2014) DOI:10.4161/21541248.2014.973768",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25469537",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Citi S",
+          "Guerrera D",
+          "Spadaro D",
+          "Shah J"
+        ],
+        "title": "Epithelial junctions and Rho family GTPases: the zonular signalosome.",
+        "journal": "Small GTPases 5:1-15 (2014) DOI:10.4161/21541248.2014.973760",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25483301",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zihni C",
+          "Terry SJ"
+        ],
+        "title": "RhoGTPase signalling at epithelial tight junctions: Bridging the GAP between polarity and cancer.",
+        "journal": "Int J Biochem Cell Biol 64:120-5 (2015) DOI:10.1016/j.biocel.2015.02.020",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25757376",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nakano A",
+          "Takashima S"
+        ],
+        "title": "LKB1 and AMP-activated protein kinase: regulators of cell polarity.",
+        "journal": "Genes Cells 17:737-47 (2012) DOI:10.1111/j.1365-2443.2012.01629.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22892070",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Patrie KM",
+          "Drescher AJ",
+          "Welihinda A",
+          "Mundel P",
+          "Margolis B"
+        ],
+        "title": "Interaction of two actin-binding proteins, synaptopodin and alpha-actinin-4, with the tight junction protein MAGI-1.",
+        "journal": "J Biol Chem 277:30183-90 (2002) DOI:10.1074/jbc.M203072200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12042308",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yamamura R",
+          "Nishimura N",
+          "Nakatsuji H",
+          "Arase S",
+          "Sasaki T"
+        ],
+        "title": "The interaction of JRAB/MICAL-L2 with Rab8 and Rab13 coordinates the assembly of tight junctions and adherens junctions.",
+        "journal": "Mol Biol Cell 19:971-83 (2008) DOI:10.1091/mbc.E07-06-0551",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18094055",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Monteiro AC",
+          "Sumagin R",
+          "Rankin CR",
+          "Leoni G",
+          "Mina MJ",
+          "Reiter DM",
+          "Stehle T",
+          "Dermody TS",
+          "Schaefer SA",
+          "Hall RA",
+          "Nusrat A",
+          "Parkos CA"
+        ],
+        "title": "JAM-A associates with ZO-2, afadin, and PDZ-GEF1 to activate Rap2c and regulate epithelial barrier function.",
+        "journal": "Mol Biol Cell 24:2849-60 (2013) DOI:10.1091/mbc.E13-06-0298",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23885123",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04530"
+  }
+]

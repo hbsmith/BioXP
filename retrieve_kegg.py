@@ -37,7 +37,7 @@ def write_kegg_entry_jsons(keggdir):
     """
 
     ## Get entries on all kegg types
-    kegg_types = ["pathway","enzyme","reaction","compound"]
+    kegg_types = ["pathway"]#,"enzyme","reaction","compound"]
     for kegg_type in kegg_types:
 
         ## Read list of all kegg ids
@@ -66,7 +66,7 @@ def write_kegg_entry_jsons(keggdir):
                 except:
                     pass
 
-            break
+            
 
 
 

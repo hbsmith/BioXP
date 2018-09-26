@@ -1,0 +1,761 @@
+[
+  {
+    "entry_id": "map05230",
+    "name": "Central carbon metabolism in cancer",
+    "description": "Malignant transformation of cells requires specific adaptations of cellular metabolism to support growth and survival. In the early twentieth century, Otto Warburg established that there are fundamental differences in the central metabolic pathways operating in malignant tissue. He showed that cancer cells consume a large amount of glucose, maintain high rate of glycolysis and convert a majority of glucose into lactic acid even under normal oxygen concentrations (Warburg's Effects). More recently, it has been recognized that the 'Warburg effect' encompasses a similarly increased utilization of glutamine. From the intermediate molecules provided by enhanced glycolysis and glutaminolysis, cancer cells synthesize most of the macromolecules required for the duplication of their biomass and genome. These cancer-specific alterations represent a major consequence of genetic mutations and the ensuing changes of signalling pathways in cancer cells. Three transcription factors, c-MYC, HIF-1 and p53, are key regulators and coordinate regulation of cancer metabolism in different ways, and many other oncogenes and tumor suppressor genes cluster along the signaling pathways that regulate c-MYC, HIF-1 and p53.",
+    "classes": [
+      "Human Diseases",
+      "Cancers: Overview"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05230": "Central carbon metabolism in cancer"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Soga T"
+        ],
+        "title": "Cancer metabolism: key players in metabolic reprogramming.",
+        "journal": "Cancer Sci 104:275-81 (2013) DOI:10.1111/cas.12085",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23279446",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vander Heiden MG",
+          "Cantley LC",
+          "Thompson CB"
+        ],
+        "title": "Understanding the Warburg effect: the metabolic requirements of cell proliferation.",
+        "journal": "Science 324:1029-33 (2009) DOI:10.1126/science.1160809",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19460998",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Teicher BA",
+          "Linehan WM",
+          "Helman LJ"
+        ],
+        "title": "Targeting cancer metabolism.",
+        "journal": "Clin Cancer Res 18:5537-45 (2012) DOI:10.1158/1078-0432.CCR-12-2587",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23071355",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Levine AJ",
+          "Puzio-Kuter AM"
+        ],
+        "title": "The control of the metabolic switch in cancers by oncogenes and tumor suppressor genes.",
+        "journal": "Science 330:1340-4 (2010) DOI:10.1126/science.1193494",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21127244",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Amoedo ND",
+          "Valencia JP",
+          "Rodrigues MF",
+          "Galina A",
+          "Rumjanek FD"
+        ],
+        "title": "How does the metabolism of tumour cells differ from that of normal cells.",
+        "journal": "Biosci Rep 33:e00080 (2013) DOI:10.1042/BSR20130066",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24079832",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cairns RA",
+          "Harris IS",
+          "Mak TW"
+        ],
+        "title": "Regulation of cancer cell metabolism.",
+        "journal": "Nat Rev Cancer 11:85-95 (2011) DOI:10.1038/nrc2981",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21258394",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Munoz-Pinedo C",
+          "El Mjiyad N",
+          "Ricci JE"
+        ],
+        "title": "Cancer metabolism: current perspectives and future directions.",
+        "journal": "Cell Death Dis 3:e248 (2012) DOI:10.1038/cddis.2011.123",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22237205",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cairns RA",
+          "Harris I",
+          "McCracken S",
+          "Mak TW"
+        ],
+        "title": "Cancer cell metabolism.",
+        "journal": "Cold Spring Harb Symp Quant Biol 76:299-311 (2011) DOI:10.1101/sqb.2011.76.012856",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22156302",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kroemer G",
+          "Pouyssegur J"
+        ],
+        "title": "Tumor cell metabolism: cancer's Achilles' heel.",
+        "journal": "Cancer Cell 13:472-82 (2008) DOI:10.1016/j.ccr.2008.05.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18538731",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "DeBerardinis RJ",
+          "Lum JJ",
+          "Hatzivassiliou G",
+          "Thompson CB"
+        ],
+        "title": "The biology of cancer: metabolic reprogramming fuels cell growth and proliferation.",
+        "journal": "Cell Metab 7:11-20 (2008) DOI:10.1016/j.cmet.2007.10.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18177721",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Koppenol WH",
+          "Bounds PL",
+          "Dang CV"
+        ],
+        "title": "Otto Warburg's contributions to current concepts of cancer metabolism.",
+        "journal": "Nat Rev Cancer 11:325-37 (2011) DOI:10.1038/nrc3038",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21508971",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fogg VC",
+          "Lanning NJ",
+          "Mackeigan JP"
+        ],
+        "title": "Mitochondria in cancer: at the crossroads of life and death.",
+        "journal": "Chin J Cancer 30:526-39 (2011) DOI:10.5732/cjc.011.10018",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21801601",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kim JW",
+          "Dang CV"
+        ],
+        "title": "Cancer's molecular sweet tooth and the Warburg effect.",
+        "journal": "Cancer Res 66:8927-30 (2006) DOI:10.1158/0008-5472.CAN-06-1501",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16982728",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yeung SJ",
+          "Pan J",
+          "Lee MH"
+        ],
+        "title": "Roles of p53, MYC and HIF-1 in regulating glycolysis - the seventh hallmark of cancer.",
+        "journal": "Cell Mol Life Sci 65:3981-99 (2008) DOI:10.1007/s00018-008-8224-x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18766298",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Li B",
+          "Simon MC"
+        ],
+        "title": "Molecular Pathways: Targeting MYC-induced metabolic reprogramming and oncogenic stress in cancer.",
+        "journal": "Clin Cancer Res 19:5835-41 (2013) DOI:10.1158/1078-0432.CCR-12-3629",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23897900",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shen L",
+          "Sun X",
+          "Fu Z",
+          "Yang G",
+          "Li J",
+          "Yao L"
+        ],
+        "title": "The fundamental role of the p53 pathway in tumor metabolism and its implication in tumor therapy.",
+        "journal": "Clin Cancer Res 18:1561-7 (2012) DOI:10.1158/1078-0432.CCR-11-3040",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22307140",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jones RG",
+          "Thompson CB"
+        ],
+        "title": "Tumor suppressors and cell metabolism: a recipe for cancer growth.",
+        "journal": "Genes Dev 23:537-48 (2009) DOI:10.1101/gad.1756509",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19270154",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Maddocks OD",
+          "Vousden KH"
+        ],
+        "title": "Metabolic regulation by p53.",
+        "journal": "J Mol Med (Berl) 89:237-45 (2011) DOI:10.1007/s00109-011-0735-5",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21340684",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chen JQ",
+          "Russo J"
+        ],
+        "title": "Dysregulation of glucose transport, glycolysis, TCA cycle and glutaminolysis by oncogenes and tumor suppressors in cancer cells.",
+        "journal": "Biochim Biophys Acta 1826:370-84 (2012) DOI:10.1016/j.bbcan.2012.06.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22750268",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kaelin WG Jr",
+          "Thompson CB"
+        ],
+        "title": "Q&amp;A: Cancer: clues from cell metabolism.",
+        "journal": "Nature 465:562-4 (2010) DOI:10.1038/465562a",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20520704",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Galluzzi L",
+          "Kepp O",
+          "Vander Heiden MG",
+          "Kroemer G"
+        ],
+        "title": "Metabolic targets for cancer therapy.",
+        "journal": "Nat Rev Drug Discov 12:829-46 (2013) DOI:10.1038/nrd4145",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24113830",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Phan LM",
+          "Yeung SC",
+          "Lee MH"
+        ],
+        "title": "Cancer metabolic reprogramming: importance, main features, and potentials for precise targeted anti-cancer therapies.",
+        "journal": "Cancer Biol Med 11:1-19 (2014) DOI:10.7497/j.issn.2095-3941.2014.01.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24738035",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Icard P",
+          "Poulain L",
+          "Lincet H"
+        ],
+        "title": "Understanding the central role of citrate in the metabolism of cancer cells.",
+        "journal": "Biochim Biophys Acta 1825:111-6 (2012) DOI:10.1016/j.bbcan.2011.10.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22101401",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Daye D",
+          "Wellen KE"
+        ],
+        "title": "Metabolic reprogramming in cancer: unraveling the role of glutamine in tumorigenesis.",
+        "journal": "Semin Cell Dev Biol 23:362-9 (2012) DOI:10.1016/j.semcdb.2012.02.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22349059",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chiarugi A",
+          "Dolle C",
+          "Felici R",
+          "Ziegler M"
+        ],
+        "title": "The NAD metabolome--a key determinant of cancer cell biology.",
+        "journal": "Nat Rev Cancer 12:741-52 (2012) DOI:10.1038/nrc3340",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23018234",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Guarente L"
+        ],
+        "title": "The many faces of sirtuins: Sirtuins and the Warburg effect.",
+        "journal": "Nat Med 20:24-5 (2014) DOI:10.1038/nm.3438",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24398961",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fuchs BC",
+          "Bode BP"
+        ],
+        "title": "Amino acid transporters ASCT2 and LAT1 in cancer: partners in crime?",
+        "journal": "Semin Cancer Biol 15:254-66 (2005) DOI:10.1016/j.semcancer.2005.04.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15916903",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05230"
+  }
+]

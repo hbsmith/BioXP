@@ -1,0 +1,444 @@
+[
+  {
+    "entry_id": "map05110",
+    "name": "Vibrio cholerae infection",
+    "description": "Cholera toxin (CTX) is one of the main virulence factors of Vibrio cholerae. Once secreted, CTX B-chain (CTXB) binds to ganglioside GM1 on the surface of the host's cells. After binding takes place, the entire CTX complex is carried from plasma membrane (PM) to endoplasmic reticulum (ER). In the ER, the A-chain (CTXA) is recognized by protein disulfide isomerase (PDI), unfolded, and delivered to the membrane where the membrane-associated ER-oxidase, Ero1, oxidizes PDI to release the CTXA into the protein-conducting channel, Sec61. CTXA is then retro-translocated to the cytosol and induces water and electrolyte secretion by increasing cAMP levels via adenylate cyclase (AC) to exert toxicity. Other than CTX, Vibrio cholerae generates several toxins that are perilous to eukaryotic cells. Zonula occludens toxin (ZOT) causes tight junction disruption through protein kinase C-dependent actin polymerization. RTX toxin (RtxA) causes actin depolymerization by covalently cross-linking actin monomers into dimers, trimers, and higher multimers. Vibrio cholerae cytolysin (VCC) is an important pore-forming toxin. The assembly of VCC anion channels in cells cause vacuolization and lysis.",
+    "classes": [
+      "Human Diseases",
+      "Infectious diseases: Bacterial"
+    ],
+    "diseases": {
+      "H00110": "Cholera"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05110": "Vibrio cholerae infection"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Trucksis M",
+          "Conn TL",
+          "Wasserman SS",
+          "Sears CL."
+        ],
+        "title": "Vibrio cholerae ACE stimulates Ca(2+)-dependent Cl(-)/HCO(3)(-) secretion in T84 cells in vitro.",
+        "journal": "Am J Physiol Cell Physiol 279:C567-77 (2000) DOI:10.1152/ajpcell.2000.279.3.C567",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10942706",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fullner KJ",
+          "Mekalanos JJ."
+        ],
+        "title": "In vivo covalent cross-linking of cellular actin by the Vibrio cholerae RTX toxin.",
+        "journal": "EMBO J 19:5315-23 (2000) DOI:10.1093/emboj/19.20.5315",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11032799",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lencer WI."
+        ],
+        "title": "Microbes and microbial Toxins: paradigms for microbial-mucosal toxins. V. Cholera: invasion of the intestinal epithelial barrier by a stably folded protein toxin.",
+        "journal": "Am J Physiol Gastrointest Liver Physiol 280:G781-6 (2001) DOI:10.1152/ajpgi.2001.280.5.G781",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11292584",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Moschioni M",
+          "Tombola F",
+          "de Bernard M",
+          "Coelho A",
+          "Zitzer A",
+          "Zoratti M",
+          "Montecucco C."
+        ],
+        "title": "The Vibrio cholerae haemolysin anion channel is required for cell vacuolation and death.",
+        "journal": "Cell Microbiol 4:397-409 (2002) DOI:10.1046/j.1462-5822.2002.00199.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12102686",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tsai B",
+          "Rapoport TA."
+        ],
+        "title": "Unfolded cholera toxin is transferred to the ER membrane and released from protein disulfide isomerase upon oxidation by Ero1.",
+        "journal": "J Cell Biol 159:207-16 (2002) DOI:10.1083/jcb.200207120",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12403808",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fujinaga Y",
+          "Wolf AA",
+          "Rodighiero C",
+          "Wheeler H",
+          "Tsai B",
+          "Allen L",
+          "Jobling MG",
+          "Rapoport T",
+          "Holmes RK",
+          "Lencer WI."
+        ],
+        "title": "Gangliosides that associate with lipid rafts mediate transport of cholera and related toxins from the plasma membrane to endoplasmic reticulm.",
+        "journal": "Mol Biol Cell 14:4783-93 (2003) DOI:10.1091/mbc.E03-06-0354",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "13679513",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fasano A."
+        ],
+        "title": "Toxins and the gut: role in human disease.",
+        "journal": "Gut 50 Suppl 3:III9-14 (2002) DOI:10.1136/gut.50.suppl_3.iii9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11953326",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Uzzau S",
+          "Fasano A."
+        ],
+        "title": "Cross-talk between enteric pathogens and the intestine.",
+        "journal": "Cell Microbiol 2:83-9 (2000) DOI:10.1046/j.1462-5822.2000.00041.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11207565",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sandkvist M."
+        ],
+        "title": "Type II secretion and pathogenesis.",
+        "journal": "Infect Immun 69:3523-35 (2001) DOI:10.1128/IAI.69.6.3523-3535.2001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11349009",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Field M."
+        ],
+        "title": "Intestinal ion transport and the pathophysiology of diarrhea.",
+        "journal": "J Clin Invest 111:931-43 (2003) DOI:10.1172/JCI18326",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12671039",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lencer WI",
+          "Tsai B."
+        ],
+        "title": "The intracellular voyage of cholera toxin: going retro.",
+        "journal": "Trends Biochem Sci 28:639-45 (2003) DOI:10.1016/j.tibs.2003.10.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14659695",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "De Haan L",
+          "Hirst TR."
+        ],
+        "title": "Cholera toxin: a paradigm for multi-functional engagement of cellular mechanisms (Review).",
+        "journal": "Mol Membr Biol 21:77-92 (2004) DOI:10.1080/09687680410001663267",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15204437",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chinnapen DJ",
+          "Chinnapen H",
+          "Saslowsky D",
+          "Lencer WI."
+        ],
+        "title": "Rafting with cholera toxin: endocytosis and trafficking from plasma membrane to ER.",
+        "journal": "FEMS Microbiol Lett 266:129-37 (2007) DOI:10.1111/j.1574-6968.2006.00545.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17156122",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sheahan KL",
+          "Cordero CL",
+          "Satchell KJ."
+        ],
+        "title": "Autoprocessing of the Vibrio cholerae RTX toxin by the cysteine protease domain.",
+        "journal": "EMBO J 26:2552-61 (2007) DOI:10.1038/sj.emboj.7601700",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17464284",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fasano A."
+        ],
+        "title": "Intestinal zonulin: open sesame!",
+        "journal": "Gut 49:159-62 (2001) DOI:10.1136/gut.49.2.159",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11454785",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00401": "Sec61 complex [PATH:map05110]",
+      "M00850": "Vibrio cholerae pathogenicity signature, cholera toxins [PATH:map05110]",
+      "M00852": "Vibrio cholerae pathogenicity signature, toxin coregulated pilus [PATH:map05110]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05110"
+  }
+]

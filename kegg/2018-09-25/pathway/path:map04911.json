@@ -1,0 +1,564 @@
+[
+  {
+    "entry_id": "map04911",
+    "name": "Insulin secretion",
+    "description": "Pancreatic beta cells are specialised endocrine cells that continuously sense the levels of blood sugar and other fuels and, in response, secrete insulin to maintain normal fuel homeostasis. Glucose-induced insulin secretion and its potentiation constitute the principal mechanism of insulin release. Glucose is transported by the glucose transporter (GLUT) into the pancreatic beta-cell. Metabolism of glucose generates ATP, which inhibits ATP-sensitive K+ channels and causes voltage-dependent Ca2+ influx. Elevation of [Ca2+]i triggers exocytotic release of insulin granules. Insulin secretion is further regulated by several hormones and neurotransmitters. Peptide hormones, such as glucagon-like peptide 1 (GLP-1), increase cAMP levels and thereby potentiate insulin secretion via the combined action of PKA and Epac2. Achetylcholine (ACh), a major parasympathetic neurotransmitter, binds to Gq-coupled receptors and activates phospholipase C- (PLC-), and the stimulatory effects involve activation of protein kinase C (PKC), which stimulates exocytosis. In addition, ACh mobilizes intracellular Ca2+ by activation of IP3 receptors.",
+    "classes": [
+      "Organismal Systems",
+      "Endocrine system"
+    ],
+    "diseases": {
+      "H00409": "Type 2 diabetes mellitus",
+      "H00426": "Gangliosidosis",
+      "H01947": "Fanconi-Bickel syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0030073"
+      ]
+    },
+    "pathways": {
+      "map04911": "Insulin secretion"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Seino S",
+          "Shibasaki T",
+          "Minami K"
+        ],
+        "title": "Pancreatic beta-cell signaling: toward better understanding of diabetes and its treatment.",
+        "journal": "Proc Jpn Acad Ser B Phys Biol Sci 86:563-77 (2010) DOI:10.2183/pjab.86.563",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20551594",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jitrapakdee S",
+          "Wutthisathapornchai A",
+          "Wallace JC",
+          "MacDonald MJ"
+        ],
+        "title": "Regulation of insulin secretion: role of mitochondrial signalling.",
+        "journal": "Diabetologia 53:1019-32 (2010) DOI:10.1007/s00125-010-1685-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20225132",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rorsman P",
+          "Braun M"
+        ],
+        "title": "Regulation of insulin secretion in human pancreatic islets.",
+        "journal": "Annu Rev Physiol 75:155-79 (2013) DOI:10.1146/annurev-physiol-030212-183754",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22974438",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jones PM",
+          "Persaud SJ"
+        ],
+        "title": "Protein kinases, protein phosphorylation, and the regulation of insulin secretion from pancreatic beta-cells.",
+        "journal": "Endocr Rev 19:429-61 (1998) DOI:10.1210/edrv.19.4.0339",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9715374",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "MacDonald PE"
+        ],
+        "title": "Signal integration at the level of ion channel and exocytotic function in pancreatic beta-cells.",
+        "journal": "Am J Physiol Endocrinol Metab 301:E1065-9 (2011) DOI:10.1152/ajpendo.00426.2011",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21934040",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lang J"
+        ],
+        "title": "Molecular mechanisms and regulation of insulin exocytosis as a paradigm of endocrine secretion.",
+        "journal": "Eur J Biochem 259:3-17 (1999) DOI:10.1046/j.1432-1327.1999.00043.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9914469",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kieffer TJ",
+          "Habener JF"
+        ],
+        "title": "The glucagon-like peptides.",
+        "journal": "Endocr Rev 20:876-913 (1999) DOI:10.1210/edrv.20.6.0385",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10605628",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Girard J"
+        ],
+        "title": "The incretins: from the concept to their use in the treatment of type 2 diabetes. Part A: incretins: concept and physiological functions.",
+        "journal": "Diabetes Metab 34:550-9 (2008) DOI:10.1016/j.diabet.2008.09.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19036624",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Holz GG"
+        ],
+        "title": "New insights concerning the glucose-dependent insulin secretagogue action of glucagon-like peptide-1 in pancreatic beta-cells.",
+        "journal": "Horm Metab Res 36:787-94 (2004) DOI:10.1055/s-2004-826165",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15655710",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Holst JJ",
+          "Gromada J"
+        ],
+        "title": "Role of incretin hormones in the regulation of insulin secretion in diabetic and nondiabetic humans.",
+        "journal": "Am J Physiol Endocrinol Metab 287:E199-206 (2004) DOI:10.1152/ajpendo.00545.2003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15271645",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Doyle ME",
+          "Egan JM"
+        ],
+        "title": "Mechanisms of action of glucagon-like peptide 1 in the pancreas.",
+        "journal": "Pharmacol Ther 113:546-93 (2007) DOI:10.1016/j.pharmthera.2006.11.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17306374",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kim W",
+          "Egan JM"
+        ],
+        "title": "The role of incretins in glucose homeostasis and diabetes treatment.",
+        "journal": "Pharmacol Rev 60:470-512 (2008) DOI:10.1124/pr.108.000604",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19074620",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Seino S",
+          "Takahashi H",
+          "Fujimoto W",
+          "Shibasaki T"
+        ],
+        "title": "Roles of cAMP signalling in insulin granule exocytosis.",
+        "journal": "Diabetes Obes Metab 11 Suppl 4:180-8 (2009) DOI:10.1111/j.1463-1326.2009.01108.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19817800",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tengholm A"
+        ],
+        "title": "Cyclic AMP dynamics in the pancreatic beta-cell.",
+        "journal": "Ups J Med Sci 117:355-69 (2012) DOI:10.3109/03009734.2012.724732",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22970724",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Holz GG"
+        ],
+        "title": "Epac: A new cAMP-binding protein in support of glucagon-like peptide-1 receptor-mediated signal transduction in the pancreatic beta-cell.",
+        "journal": "Diabetes 53:5-13 (2004) DOI:10.2337/diabetes.53.1.5",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14693691",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gloerich M",
+          "Bos JL"
+        ],
+        "title": "Epac: defining a new mechanism for cAMP action.",
+        "journal": "Annu Rev Pharmacol Toxicol 50:355-75 (2010) DOI:10.1146/annurev.pharmtox.010909.105714",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20055708",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bos JL"
+        ],
+        "title": "Epac proteins: multi-purpose cAMP targets.",
+        "journal": "Trends Biochem Sci 31:680-6 (2006) DOI:10.1016/j.tibs.2006.10.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17084085",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Filipsson K",
+          "Kvist-Reimer M",
+          "Ahren B"
+        ],
+        "title": "The neuropeptide pituitary adenylate cyclase-activating polypeptide and islet function.",
+        "journal": "Diabetes 50:1959-69 (2001) DOI:10.2337/diabetes.50.9.1959",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11522660",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kebede MA",
+          "Alquier T",
+          "Latour MG",
+          "Poitout V"
+        ],
+        "title": "Lipid receptors and islet function: therapeutic implications?",
+        "journal": "Diabetes Obes Metab 11 Suppl 4:10-20 (2009) DOI:10.1111/j.1463-1326.2009.01114.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19817784",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Morgan NG",
+          "Dhayal S"
+        ],
+        "title": "G-protein coupled receptors mediating long chain fatty acid signalling in the pancreatic beta-cell.",
+        "journal": "Biochem Pharmacol 78:1419-27 (2009) DOI:10.1016/j.bcp.2009.07.020",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19660440",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04911"
+  }
+]

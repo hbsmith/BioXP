@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "map00240",
+    "name": "Pyrimidine metabolism",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Nucleotide metabolism"
+    ],
+    "diseases": {
+      "H00193": "Dihydropyrimidine dehydrogenase deficiency",
+      "H00198": "Orotic aciduria",
+      "H00199": "Dihydropyrimidinase deficiency",
+      "H00200": "Beta-ureidopropionase deficiency",
+      "H00469": "Mitochondrial DNA depletion syndrome",
+      "H00494": "Desbuquois syndrome",
+      "H00674": "Anemia due to disorders of nucleotide metabolism",
+      "H00824": "Calcification of joints and arteries",
+      "H01376": "Acrofacial dysostosis",
+      "H01390": "Mitochondrial neurogastrointestinal encephalomyopathy"
+    },
+    "dblinks": {
+      "GO": [
+        "0006220"
+      ]
+    },
+    "pathways": {
+      "map00240": "Pyrimidine metabolism"
+    },
+    "orthologs": {
+    },
+    "references": [
+
+    ],
+    "modules": {
+      "M00046": "Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate [PATH:map00240]",
+      "M00051": "Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP [PATH:map00240]",
+      "M00052": "Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP [PATH:map00240]",
+      "M00053": "Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP [PATH:map00240]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00240"
+  }
+]

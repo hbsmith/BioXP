@@ -1,0 +1,699 @@
+[
+  {
+    "entry_id": "map04621",
+    "name": "NOD-like receptor signaling pathway",
+    "description": "Specific families of pattern recognition receptors are responsible for detecting various pathogens and generating innate immune responses. The intracellular NOD-like receptor (NLR) family contains more than 20 members in mammals and plays a pivotal role in the recognition of intracellular ligands. NOD1 and NOD2, two prototypic NLRs, sense the cytosolic presence of the bacterial peptidoglycan fragments that escaped from endosomal compartments, driving the activation of NF-{kappa}B and MAPK, cytokine production and apoptosis. On the other hand, a different set of NLRs induces caspase-1 activation through the assembly of multiprotein complexes called inflammasomes. The activated of caspase-1 regulates maturation of the pro-inflammatory cytokines IL-1B, IL-18 and drives pyroptosis.",
+    "classes": [
+      "Organismal Systems",
+      "Immune system"
+    ],
+    "diseases": {
+      "H00282": "Cryopyrin associated periodic syndrome",
+      "H00285": "Blau syndrome",
+      "H00286": "Crohn disease",
+      "H00287": "Pyogenic sterile arthritis, pyoderma gangrenosum, and acne syndrome",
+      "H00288": "Familial Mediterranean fever",
+      "H00882": "Cocoon syndrome",
+      "H01109": "Chronic mucocutaneous candidiasis",
+      "H01309": "Sarcoidosis, early-onset",
+      "H01372": "Vitiligo",
+      "H01744": "Autoinflammatory syndrome with pyogenic bacterial infection and amylopectinosis",
+      "H01746": "STING-associated vasculopathy with onset in infancy",
+      "H01748": "Autoinflammation with infantile enterocolitis",
+      "H01900": "Encephalopathy due to defective mitochondrial and peroxisomal fission"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map04621": "NOD-like receptor signaling pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Vandenabeele P",
+          "Bertrand MJ"
+        ],
+        "title": "The role of the IAP E3 ubiquitin ligases in regulating pattern-recognition receptor signalling.",
+        "journal": "Nat Rev Immunol 12:833-44 (2012) DOI:10.1038/nri3325",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23124073",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Strober W",
+          "Murray PJ",
+          "Kitani A",
+          "Watanabe T"
+        ],
+        "title": "Signalling pathways and molecular interactions of NOD1 and NOD2.",
+        "journal": "Nat Rev Immunol 6:9-20 (2006) DOI:10.1038/nri1747",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16493424",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Estornes Y",
+          "Bertrand MJ"
+        ],
+        "title": "IAPs, regulators of innate immunity and inflammation.",
+        "journal": "Semin Cell Dev Biol 39:106-14 (2015) DOI:10.1016/j.semcdb.2014.03.035",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24718315",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jakopin Z"
+        ],
+        "title": "Nucleotide-binding oligomerization domain (NOD) inhibitors: a rational approach toward inhibition of NOD signaling pathway.",
+        "journal": "J Med Chem 57:6897-918 (2014) DOI:10.1021/jm401841p",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24707857",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Caruso R",
+          "Warner N",
+          "Inohara N",
+          "Nunez G"
+        ],
+        "title": "NOD1 and NOD2: signaling, host defense, and inflammatory disease.",
+        "journal": "Immunity 41:898-908 (2014) DOI:10.1016/j.immuni.2014.12.010",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25526305",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Murray PJ"
+        ],
+        "title": "Beyond peptidoglycan for Nod2.",
+        "journal": "Nat Immunol 10:1053-4 (2009) DOI:10.1038/ni1009-1053",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19767725",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lecat A",
+          "Piette J",
+          "Legrand-Poels S"
+        ],
+        "title": "The protein Nod2: an innate receptor more complex than previously assumed.",
+        "journal": "Biochem Pharmacol 80:2021-31 (2010) DOI:10.1016/j.bcp.2010.07.016",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20643110",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Man SM",
+          "Kanneganti TD"
+        ],
+        "title": "Converging roles of caspases in inflammasome activation, cell death and innate immunity.",
+        "journal": "Nat Rev Immunol 16:7-21 (2016) DOI:10.1038/nri.2015.7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26655628",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Broz P",
+          "Dixit VM"
+        ],
+        "title": "Inflammasomes: mechanism of assembly, regulation and signalling.",
+        "journal": "Nat Rev Immunol 16:407-20 (2016) DOI:10.1038/nri.2016.58",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27291964",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Man SM",
+          "Kanneganti TD"
+        ],
+        "title": "Regulation of inflammasome activation.",
+        "journal": "Immunol Rev 265:6-21 (2015) DOI:10.1111/imr.12296",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25879280",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jo EK",
+          "Kim JK",
+          "Shin DM",
+          "Sasakawa C"
+        ],
+        "title": "Molecular mechanisms regulating NLRP3 inflammasome activation.",
+        "journal": "Cell Mol Immunol 13:148-59 (2016) DOI:10.1038/cmi.2015.95",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26549800",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Broz P",
+          "Monack DM"
+        ],
+        "title": "Newly described pattern recognition receptors team up against intracellular pathogens.",
+        "journal": "Nat Rev Immunol 13:551-65 (2013) DOI:10.1038/nri3479",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23846113",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rathinam VA",
+          "Vanaja SK",
+          "Fitzgerald KA"
+        ],
+        "title": "Regulation of inflammasome signaling.",
+        "journal": "Nat Immunol 13:333-42 (2012) DOI:10.1038/ni.2237",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22430786",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sutterwala FS",
+          "Haasken S",
+          "Cassel SL"
+        ],
+        "title": "Mechanism of NLRP3 inflammasome activation.",
+        "journal": "Ann N Y Acad Sci 1319:82-95 (2014) DOI:10.1111/nyas.12458",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24840700",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Latz E",
+          "Xiao TS",
+          "Stutz A"
+        ],
+        "title": "Activation and regulation of the inflammasomes.",
+        "journal": "Nat Rev Immunol 13:397-411 (2013) DOI:10.1038/nri3452",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23702978",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Blander JM"
+        ],
+        "title": "A long-awaited merger of the pathways mediating host defence and programmed cell death.",
+        "journal": "Nat Rev Immunol 14:601-18 (2014) DOI:10.1038/nri3720",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25145756",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "von Moltke J",
+          "Ayres JS",
+          "Kofoed EM",
+          "Chavarria-Smith J",
+          "Vance RE"
+        ],
+        "title": "Recognition of bacteria by inflammasomes.",
+        "journal": "Annu Rev Immunol 31:73-106 (2013) DOI:10.1146/annurev-immunol-032712-095944",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23215645",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Abais JM",
+          "Xia M",
+          "Zhang Y",
+          "Boini KM",
+          "Li PL"
+        ],
+        "title": "Redox regulation of NLRP3 inflammasomes: ROS as trigger or effector?",
+        "journal": "Antioxid Redox Signal 22:1111-29 (2015) DOI:10.1089/ars.2014.5994",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25330206",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Storek KM",
+          "Monack DM"
+        ],
+        "title": "Bacterial recognition pathways that lead to inflammasome activation.",
+        "journal": "Immunol Rev 265:112-29 (2015) DOI:10.1111/imr.12289",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25879288",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hu H",
+          "Sun SC"
+        ],
+        "title": "Ubiquitin signaling in immune responses.",
+        "journal": "Cell Res 26:457-83 (2016) DOI:10.1038/cr.2016.40",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27012466",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Guo H",
+          "Callaway JB",
+          "Ting JP"
+        ],
+        "title": "Inflammasomes: mechanism of action, role in disease, and therapeutics.",
+        "journal": "Nat Med 21:677-87 (2015) DOI:10.1038/nm.3893",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26121197",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Man SM",
+          "Kanneganti TD"
+        ],
+        "title": "Gasdermin D: the long-awaited executioner of pyroptosis.",
+        "journal": "Cell Res 25:1183-4 (2015) DOI:10.1038/cr.2015.124",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26482951",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rathinam VA",
+          "Vanaja SK",
+          "Waggoner L",
+          "Sokolovska A",
+          "Becker C",
+          "Stuart LM",
+          "Leong JM",
+          "Fitzgerald KA"
+        ],
+        "title": "TRIF licenses caspase-11-dependent NLRP3 inflammasome activation by gram-negative bacteria.",
+        "journal": "Cell 150:606-19 (2012) DOI:10.1016/j.cell.2012.07.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22819539",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kerur N",
+          "Veettil MV",
+          "Sharma-Walia N",
+          "Bottero V",
+          "Sadagopan S",
+          "Otageri P",
+          "Chandran B"
+        ],
+        "title": "IFI16 acts as a nuclear pathogen sensor to induce the inflammasome in response to Kaposi Sarcoma-associated herpesvirus infection.",
+        "journal": "Cell Host Microbe 9:363-75 (2011) DOI:10.1016/j.chom.2011.04.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21575908",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04621"
+  }
+]

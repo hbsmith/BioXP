@@ -1,0 +1,598 @@
+[
+  {
+    "entry_id": "map04659",
+    "name": "Th17 cell differentiation",
+    "description": "Interleukin (IL)-17-producing helper T (Th17) cells serve as a subset of CD4+ T cells involved in epithelial cell- and neutrophil mediated immune responses against extracellular microbes and in the pathogenesis of autoimmune diseases. In vivo, Th17 differentiation requires antigen presentation and co-stimulation, and activation of antigen presenting-cells (APCs) to produce TGF-beta, IL-6, IL-1, IL-23 and IL-21. This initial activation results in the activation and up-regulation of STAT3, ROR(gamma)t and other transcriptional factors in CD4+ T cells, which bind to the promoter regions of the IL-17, IL-21 and IL-22 genes and induce IL-17, IL-21 and IL-22. In contrast, the differentiation of Th17 cells and their IL-17 expression are negatively regulated by IL-2, Th2 cytokine IL-4, IL-27 and Th1 cytokine IFN-gamma through STAT5, STAT6 and STAT1 activation, respectively. Retinoid acid and the combination of IL-2 and TGF-beta upregulate Foxp3, which also downregulates cytokines like IL-17 and IL-21. The inhibition of Th17 differentiation may serve as a protective strategy to 'fine-tune' the expression IL-17 so it does not cause excessive inflammation. Thus, balanced differentiation of Th cells is crucial for immunity and host protection.",
+    "classes": [
+      "Organismal Systems",
+      "Immune system"
+    ],
+    "diseases": {
+      "H01971": "IPEX syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0072539"
+      ]
+    },
+    "pathways": {
+      "map04659": "Th17 cell differentiation"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Muranski P",
+          "Restifo NP"
+        ],
+        "title": "Essentials of Th17 cell commitment and plasticity.",
+        "journal": "Blood 121:2402-14 (2013) DOI:10.1182/blood-2012-09-378653",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23325835",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "O'Shea JJ",
+          "Steward-Tharp SM",
+          "Laurence A",
+          "Watford WT",
+          "Wei L",
+          "Adamson AS",
+          "Fan S"
+        ],
+        "title": "Signal transduction and Th17 cell differentiation.",
+        "journal": "Microbes Infect 11:599-611 (2009) DOI:10.1016/j.micinf.2009.04.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19379825",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hirahara K",
+          "Ghoreschi K",
+          "Laurence A",
+          "Yang XP",
+          "Kanno Y",
+          "O'Shea JJ"
+        ],
+        "title": "Signal transduction pathways and transcriptional regulation in Th17 cell differentiation.",
+        "journal": "Cytokine Growth Factor Rev 21:425-34 (2010) DOI:10.1016/j.cytogfr.2010.10.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21084214",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chen Z",
+          "Laurence A",
+          "O'Shea JJ"
+        ],
+        "title": "Signal transduction pathways and transcriptional regulation in the control of Th17 differentiation.",
+        "journal": "Semin Immunol 19:400-8 (2007) DOI:10.1016/j.smim.2007.10.015",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18166487",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Maddur MS",
+          "Miossec P",
+          "Kaveri SV",
+          "Bayry J"
+        ],
+        "title": "Th17 cells: biology, pathogenesis of autoimmune and inflammatory diseases, and therapeutic strategies.",
+        "journal": "Am J Pathol 181:8-18 (2012) DOI:10.1016/j.ajpath.2012.03.044",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22640807",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hemdan NY",
+          "Birkenmeier G",
+          "Wichmann G"
+        ],
+        "title": "Key molecules in the differentiation and commitment program of T helper 17 (Th17) cells up-to-date.",
+        "journal": "Immunol Lett 148:97-109 (2012) DOI:10.1016/j.imlet.2012.09.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23036716",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dong C"
+        ],
+        "title": "TH17 cells in development: an updated view of their molecular identity and genetic programming.",
+        "journal": "Nat Rev Immunol 8:337-48 (2008) DOI:10.1038/nri2295",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18408735",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Torchinsky MB",
+          "Blander JM"
+        ],
+        "title": "T helper 17 cells: discovery, function, and physiological trigger.",
+        "journal": "Cell Mol Life Sci 67:1407-21 (2010) DOI:10.1007/s00018-009-0248-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20054607",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jetten AM"
+        ],
+        "title": "Retinoid-related orphan receptors (RORs): critical roles in development, immunity, circadian rhythm, and cellular metabolism.",
+        "journal": "Nucl Recept Signal 7:e003 (2009) DOI:10.1621/nrs.07003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19381306",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Oestreich KJ",
+          "Weinmann AS"
+        ],
+        "title": "T-bet employs diverse regulatory mechanisms to repress transcription.",
+        "journal": "Trends Immunol 33:78-83 (2012) DOI:10.1016/j.it.2011.10.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22133865",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Manni ML",
+          "Robinson KM",
+          "Alcorn JF"
+        ],
+        "title": "A tale of two cytokines: IL-17 and IL-22 in asthma and infection.",
+        "journal": "Expert Rev Respir Med 8:25-42 (2014) DOI:10.1586/17476348.2014.854167",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24325586",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sha Y",
+          "Markovic-Plese S"
+        ],
+        "title": "A role of IL-1R1 signaling in the differentiation of Th17 cells and the development of autoimmune diseases.",
+        "journal": "Self Nonself 2:35-42 (2011) DOI:10.4161/self.2.1.15639",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21776333",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nakayama T",
+          "Yamashita M"
+        ],
+        "title": "The TCR-mediated signaling pathways that control the direction of helper T cell differentiation.",
+        "journal": "Semin Immunol 22:303-9 (2010) DOI:10.1016/j.smim.2010.04.010",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20488727",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lazarevic V",
+          "Chen X",
+          "Shim JH",
+          "Hwang ES",
+          "Jang E",
+          "Bolm AN",
+          "Oukka M",
+          "Kuchroo VK",
+          "Glimcher LH"
+        ],
+        "title": "T-bet represses T(H)17 differentiation by preventing Runx1-mediated activation of the gene encoding RORgammat.",
+        "journal": "Nat Immunol 12:96-104 (2011) DOI:10.1038/ni.1969",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21151104",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pan F",
+          "Barbi J",
+          "Pardoll DM"
+        ],
+        "title": "Hypoxia-inducible factor 1: A link between metabolism and T cell differentiation and a potential therapeutic target.",
+        "journal": "Oncoimmunology",
+        "volume": "1",
+        "issue": "",
+        "pages": "510-515",
+        "year": "2012",
+        "pubmed": "22754770",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Veldhoen M",
+          "Hirota K",
+          "Westendorf AM",
+          "Buer J",
+          "Dumoutier L",
+          "Renauld JC",
+          "Stockinger B"
+        ],
+        "title": "The aryl hydrocarbon receptor links TH17-cell-mediated autoimmunity to environmental toxins.",
+        "journal": "Nature 453:106-9 (2008) DOI:10.1038/nature06881",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18362914",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Deenick EK",
+          "Tangye SG"
+        ],
+        "title": "Autoimmunity: IL-21: a new player in Th17-cell differentiation.",
+        "journal": "Immunol Cell Biol 85:503-5 (2007) DOI:10.1038/sj.icb.7100114",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17768419",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Meka RR",
+          "Venkatesha SH",
+          "Dudics S",
+          "Acharya B",
+          "Moudgil KD"
+        ],
+        "title": "IL-27-induced modulation of autoimmunity and its therapeutic potential.",
+        "journal": "Autoimmun Rev 14:1131-41 (2015) DOI:10.1016/j.autrev.2015.08.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26253381",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Park H",
+          "Li Z",
+          "Yang XO",
+          "Chang SH",
+          "Nurieva R",
+          "Wang YH",
+          "Wang Y",
+          "Hood L",
+          "Zhu Z",
+          "Tian Q",
+          "Dong C"
+        ],
+        "title": "A distinct lineage of CD4 T cells regulates tissue inflammation by producing interleukin 17.",
+        "journal": "Nat Immunol 6:1133-41 (2005) DOI:10.1038/ni1261",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16200068",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhu S",
+          "Qian Y"
+        ],
+        "title": "IL-17/IL-17 receptor system in autoimmune disease: mechanisms and therapeutic potential.",
+        "journal": "Clin Sci (Lond) 122:487-511 (2012) DOI:10.1042/CS20110496",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22324470",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04659"
+  }
+]

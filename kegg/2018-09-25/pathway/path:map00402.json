@@ -1,0 +1,311 @@
+[
+  {
+    "entry_id": "map00402",
+    "name": "Benzoxazinoid biosynthesis",
+    "description": "Benzoxazinoids (hydroxamic acids) are plant secondary metabolites that serve as important factors for host resistance against microbial pathogens and insects and for allelopathic effects. They are found in grass family and some eudicot families. The predominant benzoxazinoids are DIBOA and its 7-methoxy derivative DIMBOA, which are stored as glucosides in vacuoles. In maize, benzoxazinoid biosynthesis branches off from tryptophan biosynthesis at indole-3-glycerol phosphate, which is converted to indole by indole-3-glycerol phosphate lyase, BX1. Subsequently four cytochrome P450 monooxygenases (BX2-BX5) catalyze the introduction of four oxygen atoms into the indole moiety, yielding DIBOA. After glucosylation by UDP-glucosyltransferase (BX8/BX9), the glucoside is further modified by hydroxylation and O-methylation at C-7 to form DIMBOA-glucoside.",
+    "classes": [
+      "Metabolism",
+      "Biosynthesis of other secondary metabolites"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00402": "Benzoxazinoid biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Frey M",
+          "Stettner C",
+          "Pare PW",
+          "Schmelz EA",
+          "Tumlinson JH",
+          "Gierl A."
+        ],
+        "title": "An herbivore elicitor activates the gene for indole emission in maize.",
+        "journal": "Proc Natl Acad Sci U S A 97:14801-6 (2000) DOI:10.1073/pnas.260499897",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11106389",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gierl A",
+          "Frey M."
+        ],
+        "title": "Evolution of benzoxazinone biosynthesis and indole production in maize.",
+        "journal": "Planta 213:493-8 (2001) DOI:10.1007/s004250100594",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11556781",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nomura T",
+          "Ishihara A",
+          "Yanagita RC",
+          "Endo TR",
+          "Iwamura H."
+        ],
+        "title": "Three genomes differentially contribute to the biosynthesis of benzoxazinones in hexaploid wheat.",
+        "journal": "Proc Natl Acad Sci U S A 102:16490-5 (2005) DOI:10.1073/pnas.0505156102",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16260753",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Frey M",
+          "Chomet P",
+          "Glawischnig E",
+          "Stettner C",
+          "Grun S",
+          "Winklmair A",
+          "Eisenreich W",
+          "Bacher A",
+          "Meeley RB",
+          "Briggs SP",
+          "Simcox K",
+          "Gierl A."
+        ],
+        "title": "Analysis of a chemical plant defense mechanism in grasses.",
+        "journal": "Science 277:696-9 (1997) DOI:10.1126/science.277.5326.696",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9235894",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Frey M",
+          "Huber K",
+          "Park WJ",
+          "Sicker D",
+          "Lindberg P",
+          "Meeley RB",
+          "Simmons CR",
+          "Yalpani N",
+          "Gierl A."
+        ],
+        "title": "A 2-oxoglutarate-dependent dioxygenase is integrated in DIMBOA-biosynthesis.",
+        "journal": "Phytochemistry 62:371-6 (2003) DOI:10.1016/S0031-9422(02)00556-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12620350",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "von Rad U",
+          "Huttl R",
+          "Lottspeich F",
+          "Gierl A",
+          "Frey M."
+        ],
+        "title": "Two glucosyltransferases are involved in detoxification of benzoxazinoids in maize.",
+        "journal": "Plant J 28:633-42 (2001) DOI:10.1046/j.1365-313x.2001.01161.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11851909",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bailey BA",
+          "Larson RL"
+        ],
+        "title": "Hydroxamic Acid glucosyltransferases from maize seedlings.",
+        "journal": "Plant Physiol 90:1071-6 (1989) DOI:10.1104/pp.90.3.1071",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16666853",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jonczyk R",
+          "Schmidt H",
+          "Osterrieder A",
+          "Fiesselmann A",
+          "Schullehner K",
+          "Haslbeck M",
+          "Sicker D",
+          "Hofmann D",
+          "Yalpani N",
+          "Simmons C",
+          "Frey M",
+          "Gierl A"
+        ],
+        "title": "Elucidation of the final reactions of DIMBOA-glucoside biosynthesis in maize: characterization of Bx6 and Bx7.",
+        "journal": "Plant Physiol 146:1053-63 (2008) DOI:10.1104/pp.107.111237",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18192444",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Frey M",
+          "Schullehner K",
+          "Dick R",
+          "Fiesselmann A",
+          "Gierl A"
+        ],
+        "title": "Benzoxazinoid biosynthesis, a model for evolution of secondary metabolic pathways in plants.",
+        "journal": "Phytochemistry 70:1645-51 (2009) DOI:10.1016/j.phytochem.2009.05.012",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19577780",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00402"
+  }
+]

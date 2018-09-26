@@ -1,0 +1,48 @@
+[
+  {
+    "entry_id": "map00340",
+    "name": "Histidine metabolism",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Amino acid metabolism"
+    ],
+    "diseases": {
+      "H00171": "Histidinemia",
+      "H00548": "Brunner syndrome",
+      "H00862": "Tourette syndrome",
+      "H01233": "Urocanase deficiency",
+      "H01262": "Formiminotransferase deficiency"
+    },
+    "dblinks": {
+      "GO": [
+        "0006547"
+      ]
+    },
+    "pathways": {
+      "map00340": "Histidine metabolism"
+    },
+    "orthologs": {
+    },
+    "references": [
+
+    ],
+    "modules": {
+      "M00026": "Histidine biosynthesis, PRPP => histidine [PATH:map00340]",
+      "M00045": "Histidine degradation, histidine => N-formiminoglutamate => glutamate [PATH:map00340]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00340"
+  }
+]

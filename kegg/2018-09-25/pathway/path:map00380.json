@@ -1,0 +1,79 @@
+[
+  {
+    "entry_id": "map00380",
+    "name": "Tryptophan metabolism",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Amino acid metabolism"
+    ],
+    "diseases": {
+      "H00178": "Glutaric acidemia",
+      "H00203": "Acatalasemia",
+      "H00548": "Brunner syndrome",
+      "H00689": "Delayed sleep phase syndrome",
+      "H01075": "Peters anomaly",
+      "H01161": "Aromatic L-amino acid decarboxylase deficiency",
+      "H01203": "Primary congenital glaucoma",
+      "H01364": "3-Hydroxyacyl-CoA dehydrogenase deficiency",
+      "H01583": "Hydroxykynureninuria",
+      "H02087": "Vertebral, cardiac, renal, and limb defects syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0006568",
+        "0009851"
+      ]
+    },
+    "pathways": {
+      "map00380": "Tryptophan metabolism"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Woodward AW",
+          "Bartel B"
+        ],
+        "title": "Auxin: regulation, action, and interaction.",
+        "journal": "Ann Bot 95:707-35 (2005) DOI:10.1093/aob/mci083",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15749753",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00037": "Melatonin biosynthesis, tryptophan => serotonin => melatonin [PATH:map00380]",
+      "M00038": "Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate [PATH:map00380]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00380"
+  }
+]

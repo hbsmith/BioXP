@@ -1,0 +1,169 @@
+[
+  {
+    "entry_id": "map00512",
+    "name": "Mucin type O-glycan biosynthesis",
+    "description": "O-glycans are a class of glycans that modify serine or threonine residues of proteins. Biosynthesis of O-glycans starts from the transfer of N-acetylgalactosamine (GalNAc) to serine or threonine. The first GalNAc may be extended with sugars including galactose, N-acetylglucosamine, fucose, or sialic acid, but not mannose, glucose, or xylose. Depending on the sugars added, there are four common O-glycan core structures, cores 1 through 4, and an additional four, cores 5 though 8. Mucins are highly O-glycosylated glycoproteins ubiquitous in mucous secretions on cell surfaces and in body fluids. Mucin O-glycans can be branched, and many sugars or groups of sugars are antigenic. Important modifications of mucin O-glycans include O-acetylation of sialic acid and O-sulfation of galactose and N-acetylglucosamine.",
+    "classes": [
+      "Metabolism",
+      "Glycan biosynthesis and metabolism"
+    ],
+    "diseases": {
+      "H00020": "Colorectal cancer",
+      "H01188": "Tn syndrome",
+      "H01193": "Familial tumoral calcinosis"
+    },
+    "dblinks": {
+      "GO": [
+        "0006493"
+      ]
+    },
+    "pathways": {
+      "map00512": "Mucin type O-glycan biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Brockhausen I."
+        ],
+        "title": "Pathways of O-glycan biosynthesis in cancer cells.",
+        "journal": "Biochim Biophys Acta 1473:67-95 (1999) DOI:10.1016/S0304-4165(99)00170-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10580130",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Iwai T",
+          "Inaba N",
+          "Naundorf A",
+          "Zhang Y",
+          "Gotoh M",
+          "Iwasaki H",
+          "Kudo T",
+          "Togayachi A",
+          "Ishizuka Y",
+          "Nakanishi H",
+          "Narimatsu H."
+        ],
+        "title": "Molecular cloning and characterization of a novel UDP-GlcNAc:GalNAc-peptide beta1,3-N-acetylglucosaminyltransferase (beta 3Gn-T6), an enzyme synthesizing the core 3 structure of O-glycans.",
+        "journal": "J Biol Chem 277:12802-9 (2002) DOI:10.1074/jbc.M112457200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11821425",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Korekane H",
+          "Taguchi T",
+          "Sakamoto Y",
+          "Honke K",
+          "Dohmae N",
+          "Salminen H",
+          "Toivonen S",
+          "Helin J",
+          "Takio K",
+          "Renkonen O",
+          "Taniguchi N."
+        ],
+        "title": "Purification and cDNA cloning of UDP-GlcNAc:GlcNAcbeta1-3Galbeta1-4Glc(NAc)-R [GlcNAc to Gal]beta1,6N-acetylglucosaminyltransferase from rat small intestine: a major carrier of dIGnT activity in rat small intestine.",
+        "journal": "Glycobiology 13:387-400 (2003) DOI:10.1093/glycob/cwg044",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12626393",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "van Die I",
+          "van Tetering A",
+          "Schiphorst WE",
+          "Sato T",
+          "Furukawa K",
+          "van den Eijnden DH."
+        ],
+        "title": "The acceptor substrate specificity of human beta4-galactosyltransferase V indicates its potential function in O-glycosylation.",
+        "journal": "FEBS Lett 450:52-6 (1999) DOI:10.1016/S0014-5793(99)00462-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10350056",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00056": "O-glycan biosynthesis, mucin type core [PATH:map00512]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00512"
+  }
+]

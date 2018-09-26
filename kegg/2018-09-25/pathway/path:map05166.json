@@ -1,0 +1,573 @@
+[
+  {
+    "entry_id": "map05166",
+    "name": "Human T-cell leukemia virus 1 infection",
+    "description": "Human T-cell leukemia virus type 1 (HTLV-1) is a pathogenic retrovirus that is associated with adult T-cell leukemia/lymphoma (ATL). It is also strongly implicated in non-neoplastic chronic inflammatory diseases such as HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP). Expression of Tax, a viral regulatory protein is critical to the pathogenesis. Tax is a transcriptional co-factor that interfere several signaling pathways related to anti-apoptosis or cell proliferation. The modulation of the signaling by Tax involve its binding to transcription factors like CREB/ATF, NF-kappa B, SRF, and NFAT.",
+    "classes": [
+      "Human Diseases",
+      "Infectious diseases: Viral"
+    ],
+    "diseases": {
+      "H00009": "Adult T-cell leukemia",
+      "H01724": "HTLV1-associated myelopathy"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05166": "Human T-cell leukemia virus 1 infection"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Yoshida M"
+        ],
+        "title": "Multiple viral strategies of HTLV-1 for dysregulation of cell growth control.",
+        "journal": "Annu Rev Immunol 19:475-96 (2001) DOI:10.1146/annurev.immunol.19.1.475",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11244044",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gatza ML",
+          "Watt JC",
+          "Marriott SJ"
+        ],
+        "title": "Cellular transformation by the HTLV-I Tax protein, a jack-of-all-trades.",
+        "journal": "Oncogene 22:5141-9 (2003) DOI:10.1038/sj.onc.1206549",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12910251",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ghez D",
+          "Lepelletier Y",
+          "Jones KS",
+          "Pique C",
+          "Hermine O"
+        ],
+        "title": "Current concepts regarding the HTLV-1 receptor complex.",
+        "journal": "Retrovirology 7:99 (2010) DOI:10.1186/1742-4690-7-99",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21114861",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Boxus M",
+          "Willems L"
+        ],
+        "title": "Mechanisms of HTLV-1 persistence and transformation.",
+        "journal": "Br J Cancer 101:1497-501 (2009) DOI:10.1038/sj.bjc.6605345",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19861996",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Matsuoka M",
+          "Jeang KT"
+        ],
+        "title": "Human T-cell leukaemia virus type 1 (HTLV-1) infectivity and cellular transformation.",
+        "journal": "Nat Rev Cancer 7:270-80 (2007) DOI:10.1038/nrc2111",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17384582",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yasunaga J",
+          "Matsuoka M"
+        ],
+        "title": "[HTLV-I and leukemogenesis].",
+        "journal": "Uirusu 56:241-9 (2006) DOI:10.2222/jsv.56.241",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17446673",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Boxus M",
+          "Twizere JC",
+          "Legros S",
+          "Dewulf JF",
+          "Kettmann R",
+          "Willems L"
+        ],
+        "title": "The HTLV-1 Tax interactome.",
+        "journal": "Retrovirology 5:76 (2008) DOI:10.1186/1742-4690-5-76",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18702816",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Harhaj EW",
+          "Harhaj NS"
+        ],
+        "title": "Mechanisms of persistent NF-kappaB activation by HTLV-I tax.",
+        "journal": "IUBMB Life 57:83-91 (2005) DOI:10.1080/15216540500078715",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16036567",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Peloponese JM Jr",
+          "Jeang KT"
+        ],
+        "title": "Role for Akt/protein kinase B and activator protein-1 in cellular proliferation induced by the human T-cell leukemia virus type 1 tax oncoprotein.",
+        "journal": "J Biol Chem 281:8927-38 (2006) DOI:10.1074/jbc.M510598200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16436385",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Marriott SJ",
+          "Semmes OJ"
+        ],
+        "title": "Impact of HTLV-I Tax on cell cycle progression and the cellular DNA damage repair response.",
+        "journal": "Oncogene 24:5986-95 (2005) DOI:10.1038/sj.onc.1208976",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16155605",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jeang KT"
+        ],
+        "title": "Functional activities of the human T-cell leukemia virus type I Tax oncoprotein: cellular signaling through NF-kappa B.",
+        "journal": "Cytokine Growth Factor Rev 12:207-17 (2001) DOI:10.1016/S1359-6101(00)00028-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11325603",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bouzar AB",
+          "Willems L"
+        ],
+        "title": "How HTLV-1 may subvert miRNAs for persistence and transformation.",
+        "journal": "Retrovirology 5:101 (2008) DOI:10.1186/1742-4690-5-101",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19014483",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sun SC",
+          "Yamaoka S"
+        ],
+        "title": "Activation of NF-kappaB by HTLV-I and implications for cell transformation.",
+        "journal": "Oncogene 24:5952-64 (2005) DOI:10.1038/sj.onc.1208969",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16155602",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Manel N",
+          "Battini JL",
+          "Taylor N",
+          "Sitbon M"
+        ],
+        "title": "HTLV-1 tropism and envelope receptor.",
+        "journal": "Oncogene 24:6016-25 (2005) DOI:10.1038/sj.onc.1208972",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16155608",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sun SC",
+          "Ballard DW"
+        ],
+        "title": "Persistent activation of NF-kappaB by the tax transforming protein of HTLV-1: hijacking cellular IkappaB kinases.",
+        "journal": "Oncogene 18:6948-58 (1999) DOI:10.1038/sj.onc.1203220",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10602469",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Taylor GP",
+          "Matsuoka M"
+        ],
+        "title": "Natural history of adult T-cell leukemia/lymphoma and approaches to therapy.",
+        "journal": "Oncogene 24:6047-57 (2005) DOI:10.1038/sj.onc.1208979",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16155611",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Franchini G",
+          "Fukumoto R",
+          "Fullen JR"
+        ],
+        "title": "T-cell control by human T-cell leukemia/lymphoma virus type 1.",
+        "journal": "Int J Hematol 78:280-96 (2003) DOI:10.1007/BF02983552",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14686485",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Baydoun HH",
+          "Bellon M",
+          "Nicot C"
+        ],
+        "title": "HTLV-1 Yin and Yang: Rex and p30 master regulators of viral mRNA trafficking.",
+        "journal": "AIDS Rev",
+        "volume": "10",
+        "issue": "",
+        "pages": "195-204",
+        "year": "2008",
+        "pubmed": "19092975",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jin DY",
+          "Teramoto H",
+          "Giam CZ",
+          "Chun RF",
+          "Gutkind JS",
+          "Jeang KT"
+        ],
+        "title": "A human suppressor of c-Jun N-terminal kinase 1 activation by tumor necrosis factor alpha.",
+        "journal": "J Biol Chem 272:25816-23 (1997) DOI:10.1074/jbc.272.41.25816",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9325311",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pise-Masison CA",
+          "Brady JN"
+        ],
+        "title": "Setting the stage for transformation: HTLV-1 Tax inhibition of p53 function.",
+        "journal": "Front Biosci 10:919-30 (2005) DOI:10.2741/1586",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15569630",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05166"
+  }
+]

@@ -1,0 +1,3025 @@
+[
+  {
+    "entry_id": "map05203",
+    "name": "Viral carcinogenesis",
+    "description": "There is a strong association between viruses and the development of human malignancies. We now know that at least six human viruses, Epstein-Barr virus (EBV), hepatitis B virus (HBV), hepatitis C virus (HCV), human papilloma virus (HPV), human T-cell lymphotropic virus (HTLV-1) and Kaposi's associated sarcoma virus (KSHV) contribute to 10-15% of the cancers worldwide. Via expression of many potent oncoproteins, these tumor viruses promote an aberrant cell-proliferation via modulating cellular cell-signaling pathways and escape from cellular defense system such as blocking apoptosis. Human tumor virus oncoproteins can also disrupt pathways that are necessary for the maintenance of the integrity of host cellular genome. Viruses that encode such activities can contribute to initiation as well as progression of human cancers.",
+    "classes": [
+      "Human Diseases",
+      "Cancers: Overview"
+    ],
+    "diseases": {
+      "H00007": "Hodgkin lymphoma",
+      "H00008": "Burkitt lymphoma",
+      "H00009": "Adult T-cell leukemia",
+      "H00025": "Penile cancer",
+      "H00030": "Cervical cancer",
+      "H00041": "Kaposi sarcoma",
+      "H00044": "Cancer of the anal canal",
+      "H00048": "Hepatocellular carcinoma",
+      "H00054": "Nasopharyngeal cancer"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05203": "Viral carcinogenesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "McLaughlin-Drubin ME",
+          "Munger K"
+        ],
+        "title": "Viruses associated with human cancer.",
+        "journal": "Biochim Biophys Acta 1782:127-50 (2008) DOI:10.1016/j.bbadis.2007.12.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18201576",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Moore PS",
+          "Chang Y"
+        ],
+        "title": "Why do viruses cause cancer? Highlights of the first century of human tumour virology.",
+        "journal": "Nat Rev Cancer 10:878-89 (2010) DOI:10.1038/nrc2961",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21102637",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kalland KH",
+          "Ke XS",
+          "Oyan AM"
+        ],
+        "title": "Tumour virology--history, status and future challenges.",
+        "journal": "APMIS 117:382-99 (2009) DOI:10.1111/j.1600-0463.2009.02452.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19400863",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Boccardo E",
+          "Villa LL"
+        ],
+        "title": "Viral origins of human cancer.",
+        "journal": "Curr Med Chem 14:2526-39 (2007) DOI:10.2174/092986707782023316",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17979705",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Saha A",
+          "Kaul R",
+          "Murakami M",
+          "Robertson ES"
+        ],
+        "title": "Tumor viruses and cancer biology: Modulating signaling pathways for therapeutic intervention.",
+        "journal": "Cancer Biol Ther 10:961-78 (2010) DOI:10.4161/cbt.10.10.13923",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21084867",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zheng ZM"
+        ],
+        "title": "Viral oncogenes, noncoding RNAs, and RNA splicing in human tumor viruses.",
+        "journal": "Int J Biol Sci 6:730-55 (2010) DOI:10.7150/ijbs.6.730",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21152115",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Martin D",
+          "Gutkind JS"
+        ],
+        "title": "Human tumor-associated viruses and new insights into the molecular mechanisms of cancer.",
+        "journal": "Oncogene 27 Suppl 2:S31-42 (2008) DOI:10.1038/onc.2009.351",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19956178",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang X",
+          "Zhang H",
+          "Ye L"
+        ],
+        "title": "Effects of hepatitis B virus X protein on the development of liver cancer.",
+        "journal": "J Lab Clin Med 147:58-66 (2006) DOI:10.1016/j.lab.2005.10.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16459163",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Panteva M",
+          "Korkaya H",
+          "Jameel S"
+        ],
+        "title": "Hepatitis viruses and the MAPK pathway: is this a survival strategy?",
+        "journal": "Virus Res 92:131-40 (2003) DOI:10.1016/S0168-1702(02)00356-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12686421",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ng SA",
+          "Lee C"
+        ],
+        "title": "Hepatitis B virus X gene and hepatocarcinogenesis.",
+        "journal": "J Gastroenterol 46:974-90 (2011) DOI:10.1007/s00535-011-0415-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21647825",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nishida N",
+          "Goel A"
+        ],
+        "title": "Genetic and epigenetic signatures in human hepatocellular carcinoma: a systematic review.",
+        "journal": "Curr Genomics 12:130-7 (2011) DOI:10.2174/138920211795564359",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21966251",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Benhenda S",
+          "Cougot D",
+          "Buendia MA",
+          "Neuveut C"
+        ],
+        "title": "Hepatitis B virus X protein molecular functions and its role in virus life cycle and pathogenesis.",
+        "journal": "Adv Cancer Res 103:75-109 (2009) DOI:10.1016/S0065-230X(09)03004-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19854353",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tan A",
+          "Yeh SH",
+          "Liu CJ",
+          "Cheung C",
+          "Chen PJ"
+        ],
+        "title": "Viral hepatocarcinogenesis: from infection to cancer.",
+        "journal": "Liver Int 28:175-88 (2008) DOI:10.1111/j.1478-3231.2007.01652.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18251977",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Klein NP",
+          "Schneider RJ"
+        ],
+        "title": "Activation of Src family kinases by hepatitis B virus HBx protein and coupled signaling to Ras.",
+        "journal": "Mol Cell Biol 17:6427-36 (1997) DOI:10.1128/MCB.17.11.6427",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9343405",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ding Q",
+          "Xia W",
+          "Liu JC",
+          "Yang JY",
+          "Lee DF",
+          "Xia J",
+          "Bartholomeusz G",
+          "Li Y",
+          "Pan Y",
+          "Li Z",
+          "Bargou RC",
+          "Qin J",
+          "Lai CC",
+          "Tsai FJ",
+          "Tsai CH",
+          "Hung MC"
+        ],
+        "title": "Erk associates with and primes GSK-3beta for its inactivation resulting in upregulation of beta-catenin.",
+        "journal": "Mol Cell 19:159-70 (2005) DOI:10.1016/j.molcel.2005.06.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16039586",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Benhenda S",
+          "Cougot D",
+          "Neuveut C",
+          "Buendia MA"
+        ],
+        "title": "Liver cell transformation in chronic HBV infection.",
+        "journal": "Viruses 1:630-46 (2009) DOI:10.3390/v1030630",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21994562",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Diao J",
+          "Khine AA",
+          "Sarangi F",
+          "Hsu E",
+          "Iorio C",
+          "Tibbles LA",
+          "Woodgett JR",
+          "Penninger J",
+          "Richardson CD"
+        ],
+        "title": "X protein of hepatitis B virus inhibits Fas-mediated apoptosis and is associated with up-regulation of the SAPK/JNK pathway.",
+        "journal": "J Biol Chem 276:8328-40 (2001) DOI:10.1074/jbc.M006026200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11099494",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Arbuthnot P",
+          "Capovilla A",
+          "Kew M"
+        ],
+        "title": "Putative role of hepatitis B virus X protein in hepatocarcinogenesis: effects on apoptosis, DNA repair, mitogen-activated protein kinase and JAK/STAT pathways.",
+        "journal": "J Gastroenterol Hepatol 15:357-68 (2000) DOI:10.1046/j.1440-1746.2000.02069.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10824878",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gottlob K",
+          "Fulco M",
+          "Levrero M",
+          "Graessmann A"
+        ],
+        "title": "The hepatitis B virus HBx protein inhibits caspase 3 activity.",
+        "journal": "J Biol Chem 273:33347-53 (1998) DOI:10.1074/jbc.273.50.33347",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9837909",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang JL",
+          "Zhao WG",
+          "Wu KL",
+          "Wang K",
+          "Zhang X",
+          "Gu CF",
+          "Li Y",
+          "Zhu Y",
+          "Wu JG"
+        ],
+        "title": "Human hepatitis B virus X protein promotes cell proliferation and inhibits cell apoptosis through interacting with a serine protease Hepsin.",
+        "journal": "Arch Virol 150:721-41 (2005) DOI:10.1007/s00705-004-0446-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15614436",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cooray S"
+        ],
+        "title": "The pivotal role of phosphatidylinositol 3-kinase-Akt signal transduction in virus survival.",
+        "journal": "J Gen Virol 85:1065-76 (2004) DOI:10.1099/vir.0.19771-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15105524",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mukherji A",
+          "Janbandhu VC",
+          "Kumar V"
+        ],
+        "title": "HBx-dependent cell cycle deregulation involves interaction with cyclin E/A-cdk2 complex and destabilization of p27Kip1.",
+        "journal": "Biochem J 401:247-56 (2007) DOI:10.1042/BJ20061091",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16939421",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yoo YG",
+          "Lee MO"
+        ],
+        "title": "Hepatitis B virus X protein induces expression of Fas ligand gene through enhancing transcriptional activity of early growth response factor.",
+        "journal": "J Biol Chem 279:36242-9 (2004) DOI:10.1074/jbc.M401290200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15173177",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Waris G",
+          "Huh KW",
+          "Siddiqui A"
+        ],
+        "title": "Mitochondrially associated hepatitis B virus X protein constitutively activates transcription factors STAT-3 and NF-kappa B via oxidative stress.",
+        "journal": "Mol Cell Biol 21:7721-30 (2001) DOI:10.1128/MCB.21.22.7721-7730.2001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11604508",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kasprzak A",
+          "Adamek A"
+        ],
+        "title": "Role of hepatitis C virus proteins (C, NS3, NS5A) in hepatic oncogenesis.",
+        "journal": "Hepatol Res 38:1-26 (2008) DOI:10.1111/j.1872-034X.2007.00261.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17894800",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "You LR",
+          "Chen CM",
+          "Lee YH"
+        ],
+        "title": "Hepatitis C virus core protein enhances NF-kappaB signal pathway triggering by lymphotoxin-beta receptor ligand and tumor necrosis factor alpha.",
+        "journal": "J Virol",
+        "volume": "73",
+        "issue": "",
+        "pages": "1672-81",
+        "year": "1999",
+        "pubmed": "9882379",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sato Y",
+          "Kato J",
+          "Takimoto R",
+          "Takada K",
+          "Kawano Y",
+          "Miyanishi K",
+          "Kobune M",
+          "Sato Y",
+          "Takayama T",
+          "Matunaga T",
+          "Niitsu Y"
+        ],
+        "title": "Hepatitis C virus core protein promotes proliferation of human hepatoma cells through enhancement of transforming growth factor alpha expression via activation of nuclear factor-kappaB.",
+        "journal": "Gut 55:1801-8 (2006) DOI:10.1136/gut.2005.070417",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16581947",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Watashi K",
+          "Hijikata M",
+          "Tagawa A",
+          "Doi T",
+          "Marusawa H",
+          "Shimotohno K"
+        ],
+        "title": "Modulation of retinoid signaling by a cytoplasmic viral protein via sequestration of Sp110b, a potent transcriptional corepressor of retinoic acid receptor, from the nucleus.",
+        "journal": "Mol Cell Biol 23:7498-509 (2003) DOI:10.1128/MCB.23.21.7498-7509.2003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14559998",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hsieh TY",
+          "Matsumoto M",
+          "Chou HC",
+          "Schneider R",
+          "Hwang SB",
+          "Lee AS",
+          "Lai MM"
+        ],
+        "title": "Hepatitis C virus core protein interacts with heterogeneous nuclear ribonucleoprotein K.",
+        "journal": "J Biol Chem 273:17651-9 (1998) DOI:10.1074/jbc.273.28.17651",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9651361",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang F",
+          "Yoshida I",
+          "Takamatsu M",
+          "Ishido S",
+          "Fujita T",
+          "Oka K",
+          "Hotta H"
+        ],
+        "title": "Complex formation between hepatitis C virus core protein and p21Waf1/Cip1/Sdi1.",
+        "journal": "Biochem Biophys Res Commun 273:479-84 (2000) DOI:10.1006/bbrc.2000.2970",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10873631",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "You LR",
+          "Chen CM",
+          "Yeh TS",
+          "Tsai TY",
+          "Mai RT",
+          "Lin CH",
+          "Lee YH"
+        ],
+        "title": "Hepatitis C virus core protein interacts with cellular putative RNA helicase.",
+        "journal": "J Virol",
+        "volume": "73",
+        "issue": "",
+        "pages": "2841-53",
+        "year": "1999",
+        "pubmed": "10074132",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Aoki H",
+          "Hayashi J",
+          "Moriyama M",
+          "Arakawa Y",
+          "Hino O"
+        ],
+        "title": "Hepatitis C virus core protein interacts with 14-3-3 protein and activates the kinase Raf-1.",
+        "journal": "J Virol 74:1736-41 (2000) DOI:10.1128/JVI.74.4.1736-1741.2000",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10644344",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yan XB",
+          "Battaglia S",
+          "Boucreux D",
+          "Chen Z",
+          "Brechot C",
+          "Pavio N"
+        ],
+        "title": "Mapping of the interacting domains of hepatitis C virus core protein and the double-stranded RNA-activated protein kinase PKR.",
+        "journal": "Virus Res 125:79-87 (2007) DOI:10.1016/j.virusres.2006.12.010",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17267064",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Borowski P",
+          "Oehlmann K",
+          "Heiland M",
+          "Laufs R"
+        ],
+        "title": "Nonstructural protein 3 of hepatitis C virus blocks the distribution of the free catalytic subunit of cyclic AMP-dependent protein kinase.",
+        "journal": "J Virol",
+        "volume": "71",
+        "issue": "",
+        "pages": "2838-43",
+        "year": "1997",
+        "pubmed": "9060639",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Borowski P",
+          "Kuhl R",
+          "Laufs R",
+          "Schulze zur Wiesch J",
+          "Heiland M"
+        ],
+        "title": "Identification and characterization of a histone binding site of the non-structural protein 3 of hepatitis C virus.",
+        "journal": "J Clin Virol 13:61-9 (1999) DOI:10.1016/S1386-6532(99)00007-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10405893",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lan KH",
+          "Sheu ML",
+          "Hwang SJ",
+          "Yen SH",
+          "Chen SY",
+          "Wu JC",
+          "Wang YJ",
+          "Kato N",
+          "Omata M",
+          "Chang FY",
+          "Lee SD"
+        ],
+        "title": "HCV NS5A interacts with p53 and inhibits p53-mediated apoptosis.",
+        "journal": "Oncogene 21:4801-11 (2002) DOI:10.1038/sj.onc.1205589",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12101418",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chung YL",
+          "Sheu ML",
+          "Yen SH"
+        ],
+        "title": "Hepatitis C virus NS5A as a potential viral Bcl-2 homologue interacts with Bax and inhibits apoptosis in hepatocellular carcinoma.",
+        "journal": "Int J Cancer 107:65-73 (2003) DOI:10.1002/ijc.11303",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12925958",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gale M Jr",
+          "Kwieciszewski B",
+          "Dossett M",
+          "Nakao H",
+          "Katze MG"
+        ],
+        "title": "Antiapoptotic and oncogenic potentials of hepatitis C virus are linked to interferon resistance by viral repression of the PKR protein kinase.",
+        "journal": "J Virol",
+        "volume": "73",
+        "issue": "",
+        "pages": "6506-16",
+        "year": "1999",
+        "pubmed": "10400746",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "He Y",
+          "Nakao H",
+          "Tan SL",
+          "Polyak SJ",
+          "Neddermann P",
+          "Vijaysri S",
+          "Jacobs BL",
+          "Katze MG"
+        ],
+        "title": "Subversion of cell signaling pathways by hepatitis C virus nonstructural 5A protein via interaction with Grb2 and P85 phosphatidylinositol 3-kinase.",
+        "journal": "J Virol 76:9207-17 (2002) DOI:10.1128/JVI.76.18.9207-9217.2002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12186904",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Street A",
+          "Macdonald A",
+          "McCormick C",
+          "Harris M"
+        ],
+        "title": "Hepatitis C virus NS5A-mediated activation of phosphoinositide 3-kinase results in stabilization of cellular beta-catenin and stimulation of beta-catenin-responsive transcription.",
+        "journal": "J Virol 79:5006-16 (2005) DOI:10.1128/JVI.79.8.5006-5016.2005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15795286",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Majumder M",
+          "Ghosh AK",
+          "Steele R",
+          "Zhou XY",
+          "Phillips NJ",
+          "Ray R",
+          "Ray RB"
+        ],
+        "title": "Hepatitis C virus NS5A protein impairs TNF-mediated hepatic apoptosis, but not by an anti-FAS antibody, in transgenic mice.",
+        "journal": "Virology 294:94-105 (2002) DOI:10.1006/viro.2001.1309",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11886269",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Arima N",
+          "Kao CY",
+          "Licht T",
+          "Padmanabhan R",
+          "Sasaguri Y",
+          "Padmanabhan R"
+        ],
+        "title": "Modulation of cell growth by the hepatitis C virus nonstructural protein NS5A.",
+        "journal": "J Biol Chem 276:12675-84 (2001) DOI:10.1074/jbc.M008329200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11278402",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "He Y",
+          "Staschke KA",
+          "Tan SL"
+        ],
+        "title": "HCV NS5A: A Multifunctional Regulator of Cellular Pathways and Virus Replication",
+        "journal": "Hepatitis C Viruses: Genomes and Molecular Biology",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2006",
+        "pubmed": "21250384",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Qadri I",
+          "Iwahashi M",
+          "Simon F"
+        ],
+        "title": "Hepatitis C virus NS5A protein binds TBP and p53, inhibiting their DNA binding and p53 interactions with TBP and ERCC3.",
+        "journal": "Biochim Biophys Acta 1592:193-204 (2002) DOI:10.1016/S0167-4889(02)00315-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12379483",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Spender LC",
+          "Inman GJ"
+        ],
+        "title": "Inhibition of germinal centre apoptotic programmes by epstein-barr virus.",
+        "journal": "Adv Hematol 2011:829525 (2011) DOI:10.1155/2011/829525",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22110506",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Klein G",
+          "Klein E",
+          "Kashuba E"
+        ],
+        "title": "Interaction of Epstein-Barr virus (EBV) with human B-lymphocytes.",
+        "journal": "Biochem Biophys Res Commun 396:67-73 (2010) DOI:10.1016/j.bbrc.2010.02.146",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20494113",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Saha A",
+          "Robertson ES"
+        ],
+        "title": "Epstein-Barr virus-associated B-cell lymphomas: pathogenesis and clinical outcomes.",
+        "journal": "Clin Cancer Res 17:3056-63 (2011) DOI:10.1158/1078-0432.CCR-10-2578",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21372216",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Young LS",
+          "Rickinson AB."
+        ],
+        "title": "Epstein-Barr virus: 40 years on.",
+        "journal": "Nat Rev Cancer 4:757-68 (2004) DOI:10.1038/nrc1452",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15510157",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Holowaty MN",
+          "Sheng Y",
+          "Nguyen T",
+          "Arrowsmith C",
+          "Frappier L"
+        ],
+        "title": "Protein interaction domains of the ubiquitin-specific protease, USP7/HAUSP.",
+        "journal": "J Biol Chem 278:47753-61 (2003) DOI:10.1074/jbc.M307200200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14506283",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Harada S",
+          "Yalamanchili R",
+          "Kieff E"
+        ],
+        "title": "Epstein-Barr virus nuclear protein 2 has at least two N-terminal domains that mediate self-association.",
+        "journal": "J Virol 75:2482-7 (2001) DOI:10.1128/JVI.75.5.2482-2487.2001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11160754",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Peng CW",
+          "Zhao B",
+          "Kieff E"
+        ],
+        "title": "Four EBNA2 domains are important for EBNALP coactivation.",
+        "journal": "J Virol 78:11439-42 (2004) DOI:10.1128/JVI.78.20.11439-11442.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15452270",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Peng R",
+          "Moses SC",
+          "Tan J",
+          "Kremmer E",
+          "Ling PD"
+        ],
+        "title": "The Epstein-Barr virus EBNA-LP protein preferentially coactivates EBNA2-mediated stimulation of latent membrane proteins expressed from the viral divergent promoter.",
+        "journal": "J Virol 79:4492-505 (2005) DOI:10.1128/JVI.79.7.4492-4505.2005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15767449",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Saha A",
+          "Bamidele A",
+          "Murakami M",
+          "Robertson ES"
+        ],
+        "title": "EBNA3C attenuates the function of p53 through interaction with inhibitor of growth family proteins 4 and 5.",
+        "journal": "J Virol 85:2079-88 (2011) DOI:10.1128/JVI.02279-10",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21177815",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Saha A",
+          "Halder S",
+          "Upadhyay SK",
+          "Lu J",
+          "Kumar P",
+          "Murakami M",
+          "Cai Q",
+          "Robertson ES"
+        ],
+        "title": "Epstein-Barr virus nuclear antigen 3C facilitates G1-S transition by stabilizing and enhancing the function of cyclin D1.",
+        "journal": "PLoS Pathog 7:e1001275 (2011) DOI:10.1371/journal.ppat.1001275",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21347341",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Knight JS",
+          "Sharma N",
+          "Kalman DE",
+          "Robertson ES"
+        ],
+        "title": "A cyclin-binding motif within the amino-terminal homology domain of EBNA3C binds cyclin A and modulates cyclin A-dependent kinase activity in Epstein-Barr virus-infected cells.",
+        "journal": "J Virol 78:12857-67 (2004) DOI:10.1128/JVI.78.23.12857-12867.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15542638",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Knight JS",
+          "Robertson ES"
+        ],
+        "title": "Epstein-Barr virus nuclear antigen 3C regulates cyclin A/p27 complexes and enhances cyclin A-dependent kinase activity.",
+        "journal": "J Virol 78:1981-91 (2004) DOI:10.1128/JVI.78.4.1981-1991.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14747563",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Knight JS",
+          "Sharma N",
+          "Robertson ES"
+        ],
+        "title": "Epstein-Barr virus latent antigen 3C can mediate the degradation of the retinoblastoma protein through an SCF cellular ubiquitin ligase.",
+        "journal": "Proc Natl Acad Sci U S A 102:18562-6 (2005) DOI:10.1073/pnas.0503886102",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16352731",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kashuba E",
+          "Yurchenko M",
+          "Yenamandra SP",
+          "Snopok B",
+          "Isaguliants M",
+          "Szekely L",
+          "Klein G"
+        ],
+        "title": "EBV-encoded EBNA-6 binds and targets MRS18-2 to the nucleus, resulting in the disruption of pRb-E2F1 complexes.",
+        "journal": "Proc Natl Acad Sci U S A 105:5489-94 (2008) DOI:10.1073/pnas.0801053105",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18391203",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Young LS",
+          "Dawson CW",
+          "Eliopoulos AG"
+        ],
+        "title": "The expression and function of Epstein-Barr virus encoded latent genes.",
+        "journal": "Mol Pathol 53:238-47 (2000) DOI:10.1136/mp.53.5.238",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11091847",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kuppers R"
+        ],
+        "title": "The biology of Hodgkin's lymphoma.",
+        "journal": "Nat Rev Cancer 9:15-27 (2009) DOI:10.1038/nrc2542",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19078975",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pattle SB",
+          "Farrell PJ"
+        ],
+        "title": "The role of Epstein-Barr virus in cancer.",
+        "journal": "Expert Opin Biol Ther 6:1193-205 (2006) DOI:10.1517/14712598.6.11.1193",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17049016",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Thorley-Lawson DA"
+        ],
+        "title": "Epstein-Barr virus: exploiting the immune system.",
+        "journal": "Nat Rev Immunol 1:75-82 (2001) DOI:10.1038/35095584",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11905817",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Eliopoulos AG",
+          "Young LS"
+        ],
+        "title": "LMP1 structure and signal transduction.",
+        "journal": "Semin Cancer Biol 11:435-44 (2001) DOI:10.1006/scbi.2001.0410",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11669605",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dell G",
+          "Gaston K"
+        ],
+        "title": "Human papillomaviruses and their role in cervical cancer.",
+        "journal": "Cell Mol Life Sci 58:1923-42 (2001) DOI:10.1007/PL00000827",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11766888",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "zur Hausen H"
+        ],
+        "title": "Papillomaviruses causing cancer: evasion from host-cell control in early events in carcinogenesis.",
+        "journal": "J Natl Cancer Inst 92:690-8 (2000) DOI:10.1093/jnci/92.9.690",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10793105",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yugawa T",
+          "Kiyono T"
+        ],
+        "title": "Molecular mechanisms of cervical carcinogenesis by high-risk human papillomaviruses: novel functions of E6 and E7 oncoproteins.",
+        "journal": "Rev Med Virol 19:97-113 (2009) DOI:10.1002/rmv.605",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19156753",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Narisawa-Saito M",
+          "Kiyono T"
+        ],
+        "title": "Basic mechanisms of high-risk human papillomavirus-induced carcinogenesis: roles of E6 and E7 proteins.",
+        "journal": "Cancer Sci 98:1505-11 (2007) DOI:10.1111/j.1349-7006.2007.00546.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17645777",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Motoyama S",
+          "Ladines-Llave CA",
+          "Luis Villanueva S",
+          "Maruo T"
+        ],
+        "title": "The role of human papilloma virus in the molecular biology of cervical carcinogenesis.",
+        "journal": "Kobe J Med Sci",
+        "volume": "50",
+        "issue": "",
+        "pages": "9-19",
+        "year": "2004",
+        "pubmed": "15342967",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Moody CA",
+          "Laimins LA"
+        ],
+        "title": "Human papillomavirus oncoproteins: pathways to transformation.",
+        "journal": "Nat Rev Cancer 10:550-60 (2010) DOI:10.1038/nrc2886",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20592731",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "McCance DJ"
+        ],
+        "title": "Human papillomaviruses and cell signaling.",
+        "journal": "Sci STKE 2005:pe29 (2005) DOI:10.1126/stke.2882005pe29",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15956361",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wade R",
+          "Brimer N",
+          "Vande Pol S"
+        ],
+        "title": "Transformation by bovine papillomavirus type 1 E6 requires paxillin.",
+        "journal": "J Virol 82:5962-6 (2008) DOI:10.1128/JVI.02747-07",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18385245",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Berezutskaya E",
+          "Bagchi S"
+        ],
+        "title": "The human papillomavirus E7 oncoprotein functionally interacts with the S4 subunit of the 26 S proteasome.",
+        "journal": "J Biol Chem 272:30135-40 (1997) DOI:10.1074/jbc.272.48.30135",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9374493",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang B",
+          "Chen W",
+          "Roman A"
+        ],
+        "title": "The E7 proteins of low- and high-risk human papillomaviruses share the ability to target the pRB family member p130 for degradation.",
+        "journal": "Proc Natl Acad Sci U S A 103:437-42 (2006) DOI:10.1073/pnas.0510012103",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16381817",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "He W",
+          "Staples D",
+          "Smith C",
+          "Fisher C"
+        ],
+        "title": "Direct activation of cyclin-dependent kinase 2 by human papillomavirus E7.",
+        "journal": "J Virol 77:10566-74 (2003) DOI:10.1128/JVI.77.19.10566-10574.2003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12970441",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Massimi P",
+          "Pim D",
+          "Banks L"
+        ],
+        "title": "Human papillomavirus type 16 E7 binds to the conserved carboxy-terminal region of the TATA box binding protein and this contributes to E7 transforming activity.",
+        "journal": "J Gen Virol 78 ( Pt 10):2607-13 (1997) DOI:10.1099/0022-1317-78-10-2607",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9349482",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Antinore MJ",
+          "Birrer MJ",
+          "Patel D",
+          "Nader L",
+          "McCance DJ"
+        ],
+        "title": "The human papillomavirus type 16 E7 gene product interacts with and trans-activates the AP1 family of transcription factors.",
+        "journal": "EMBO J",
+        "volume": "15",
+        "issue": "",
+        "pages": "1950-60",
+        "year": "1996",
+        "pubmed": "8617242",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zwerschke W",
+          "Mazurek S",
+          "Massimi P",
+          "Banks L",
+          "Eigenbrodt E",
+          "Jansen-Durr P"
+        ],
+        "title": "Modulation of type M2 pyruvate kinase activity by the human papillomavirus type 16 E7 oncoprotein.",
+        "journal": "Proc Natl Acad Sci U S A 96:1291-6 (1999) DOI:10.1073/pnas.96.4.1291",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9990017",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Matsuoka M",
+          "Jeang KT"
+        ],
+        "title": "Human T-cell leukaemia virus type 1 (HTLV-1) infectivity and cellular transformation.",
+        "journal": "Nat Rev Cancer 7:270-80 (2007) DOI:10.1038/nrc2111",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17384582",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Azran I",
+          "Schavinsky-Khrapunsky Y",
+          "Aboud M"
+        ],
+        "title": "Role of Tax protein in human T-cell leukemia virus type-I leukemogenicity.",
+        "journal": "Retrovirology 1:20 (2004) DOI:10.1186/1742-4690-1-20",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15310405",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Matsuoka M"
+        ],
+        "title": "Human T-cell leukemia virus type I and adult T-cell leukemia.",
+        "journal": "Oncogene 22:5131-40 (2003) DOI:10.1038/sj.onc.1206551",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12910250",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yoshida M"
+        ],
+        "title": "Multiple viral strategies of HTLV-1 for dysregulation of cell growth control.",
+        "journal": "Annu Rev Immunol 19:475-96 (2001) DOI:10.1146/annurev.immunol.19.1.475",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11244044",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Boxus M",
+          "Twizere JC",
+          "Legros S",
+          "Dewulf JF",
+          "Kettmann R",
+          "Willems L"
+        ],
+        "title": "The HTLV-1 Tax interactome.",
+        "journal": "Retrovirology 5:76 (2008) DOI:10.1186/1742-4690-5-76",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18702816",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Caron C",
+          "Rousset R",
+          "Beraud C",
+          "Moncollin V",
+          "Egly JM",
+          "Jalinot P"
+        ],
+        "title": "Functional and biochemical interaction of the HTLV-I Tax1 transactivator with TBP.",
+        "journal": "EMBO J",
+        "volume": "12",
+        "issue": "",
+        "pages": "4269-78",
+        "year": "1993",
+        "pubmed": "8223437",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Clemens KE",
+          "Piras G",
+          "Radonovich MF",
+          "Choi KS",
+          "Duvall JF",
+          "DeJong J",
+          "Roeder R",
+          "Brady JN"
+        ],
+        "title": "Interaction of the human T-cell lymphotropic virus type 1 tax transactivator with transcription factor IIA.",
+        "journal": "Mol Cell Biol 16:4656-64 (1996) DOI:10.1128/MCB.16.9.4656",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "8756622",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Harhaj EW",
+          "Harhaj NS"
+        ],
+        "title": "Mechanisms of persistent NF-kappaB activation by HTLV-I tax.",
+        "journal": "IUBMB Life 57:83-91 (2005) DOI:10.1080/15216540500078715",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16036567",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Qu Z",
+          "Xiao G"
+        ],
+        "title": "Human T-cell lymphotropic virus: a model of NF-kappaB-associated tumorigenesis.",
+        "journal": "Viruses 3:714-49 (2011) DOI:10.3390/v3060714",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21743832",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kashanchi F",
+          "Brady JN"
+        ],
+        "title": "Transcriptional and post-transcriptional gene regulation of HTLV-1.",
+        "journal": "Oncogene 24:5938-51 (2005) DOI:10.1038/sj.onc.1208973",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16155601",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wu K",
+          "Bottazzi ME",
+          "de la Fuente C",
+          "Deng L",
+          "Gitlin SD",
+          "Maddukuri A",
+          "Dadgar S",
+          "Li H",
+          "Vertes A",
+          "Pumfery A",
+          "Kashanchi F"
+        ],
+        "title": "Protein profile of tax-associated complexes.",
+        "journal": "J Biol Chem 279:495-508 (2004) DOI:10.1074/jbc.M310069200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14530271",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Grassmann R",
+          "Aboud M",
+          "Jeang KT"
+        ],
+        "title": "Molecular mechanisms of cellular transformation by HTLV-1 Tax.",
+        "journal": "Oncogene 24:5976-85 (2005) DOI:10.1038/sj.onc.1208978",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16155604",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tabakin-Fix Y",
+          "Azran I",
+          "Schavinky-Khrapunsky Y",
+          "Levy O",
+          "Aboud M"
+        ],
+        "title": "Functional inactivation of p53 by human T-cell leukemia virus type 1 Tax protein: mechanisms and clinical implications.",
+        "journal": "Carcinogenesis 27:673-81 (2006) DOI:10.1093/carcin/bgi274",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16308315",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rezaee SA",
+          "Cunningham C",
+          "Davison AJ",
+          "Blackbourn DJ"
+        ],
+        "title": "Kaposi's sarcoma-associated herpesvirus immune modulation: an overview.",
+        "journal": "J Gen Virol 87:1781-804 (2006) DOI:10.1099/vir.0.81919-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16760382",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Coscoy L"
+        ],
+        "title": "Immune evasion by Kaposi's sarcoma-associated herpesvirus.",
+        "journal": "Nat Rev Immunol 7:391-401 (2007) DOI:10.1038/nri2076",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17457345",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cai Q",
+          "Verma SC",
+          "Lu J",
+          "Robertson ES"
+        ],
+        "title": "Molecular biology of Kaposi's sarcoma-associated herpesvirus and related oncogenesis.",
+        "journal": "Adv Virus Res 78:87-142 (2010) DOI:10.1016/B978-0-12-385032-4.00003-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21040832",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jarviluoma A",
+          "Ojala PM"
+        ],
+        "title": "Cell signaling pathways engaged by KSHV.",
+        "journal": "Biochim Biophys Acta 1766:140-58 (2006) DOI:10.1016/j.bbcan.2006.05.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16828973",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Liang C",
+          "Lee JS",
+          "Jung JU"
+        ],
+        "title": "Immune evasion in Kaposi's sarcoma-associated herpes virus associated oncogenesis.",
+        "journal": "Semin Cancer Biol 18:423-36 (2008) DOI:10.1016/j.semcancer.2008.09.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18948197",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lee HR",
+          "Kim MH",
+          "Lee JS",
+          "Liang C",
+          "Jung JU"
+        ],
+        "title": "Viral interferon regulatory factors.",
+        "journal": "J Interferon Cytokine Res 29:621-7 (2009) DOI:10.1089/jir.2009.0067",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19715458",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jacobs SR",
+          "Damania B"
+        ],
+        "title": "The Viral Interferon Regulatory Factors of KSHV: Immunosuppressors or Oncogenes?",
+        "journal": "Front Immunol 2:19 (2011) DOI:10.3389/fimmu.2011.00019",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22566809",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wen KW",
+          "Damania B"
+        ],
+        "title": "Kaposi sarcoma-associated herpesvirus (KSHV): molecular biology and oncogenesis.",
+        "journal": "Cancer Lett 289:140-50 (2010) DOI:10.1016/j.canlet.2009.07.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19651473",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang HW",
+          "Boshoff C"
+        ],
+        "title": "Linking Kaposi virus to cancer-associated cytokines.",
+        "journal": "Trends Mol Med 11:309-12 (2005) DOI:10.1016/j.molmed.2005.06.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15967719",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "McCormick C",
+          "Ganem D"
+        ],
+        "title": "The kaposin B protein of KSHV activates the p38/MK2 pathway and stabilizes cytokine mRNAs.",
+        "journal": "Science 307:739-41 (2005) DOI:10.1126/science.1105779",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15692053",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Verma SC",
+          "Robertson ES"
+        ],
+        "title": "Molecular biology and pathogenesis of Kaposi sarcoma-associated herpesvirus.",
+        "journal": "FEMS Microbiol Lett 222:155-63 (2003) DOI:10.1016/S0378-1097(03)00261-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12770701",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schulz TF",
+          "Moore PS"
+        ],
+        "title": "Kaposi's sarcoma-associated herpesvirus: a new human tumor virus, but how?",
+        "journal": "Trends Microbiol 7:196-200 (1999) DOI:10.1016/S0966-842X(99)01495-X",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10354594",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schulz TF"
+        ],
+        "title": "Kaposi's sarcoma-associated herpesvirus (human herpesvirus 8): epidemiology and pathogenesis.",
+        "journal": "J Antimicrob Chemother 45 Suppl T3:15-27 (2000) DOI:10.1093/jac/45.suppl_4.15",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10855768",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Moore PS",
+          "Chang Y"
+        ],
+        "title": "Antiviral activity of tumor-suppressor pathways: clues from molecular piracy by KSHV.",
+        "journal": "Trends Genet 14:144-50 (1998) DOI:10.1016/S0168-9525(98)01408-5",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9594662",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pietrek M",
+          "Brinkmann MM",
+          "Glowacka I",
+          "Enlund A",
+          "Havemeier A",
+          "Dittrich-Breiholz O",
+          "Kracht M",
+          "Lewitzky M",
+          "Saksela K",
+          "Feller SM",
+          "Schulz TF"
+        ],
+        "title": "Role of the Kaposi's sarcoma-associated herpesvirus K15 SH3 binding site in inflammatory signaling and B-cell activation.",
+        "journal": "J Virol 84:8231-40 (2010) DOI:10.1128/JVI.01696-09",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20534855",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bagneris C",
+          "Briggs LC",
+          "Savva R",
+          "Ebrahimi B",
+          "Barrett TE"
+        ],
+        "title": "Crystal structure of a KSHV-SOX-DNA complex: insights into the molecular mechanisms underlying DNase activity and host shutoff.",
+        "journal": "Nucleic Acids Res 39:5744-56 (2011) DOI:10.1093/nar/gkr111",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21421561",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Glaunsinger B",
+          "Chavez L",
+          "Ganem D"
+        ],
+        "title": "The exonuclease and host shutoff functions of the SOX protein of Kaposi's sarcoma-associated herpesvirus are genetically separable.",
+        "journal": "J Virol 79:7396-401 (2005) DOI:10.1128/JVI.79.12.7396-7401.2005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15919895",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05203"
+  }
+]

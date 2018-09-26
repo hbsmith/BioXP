@@ -1,0 +1,78 @@
+[
+  {
+    "entry_id": "map01110",
+    "name": "Biosynthesis of secondary metabolites",
+    "description": "",
+    "classes": [
+
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map01110": "Biosynthesis of secondary metabolites"
+    },
+    "orthologs": {
+    },
+    "references": [
+
+    ],
+    "modules": {
+      "M00012": "Glyoxylate cycle [PATH:map01110]",
+      "M00018": "Threonine biosynthesis, aspartate => homoserine => threonine [PATH:map01110]",
+      "M00019": "Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine [PATH:map01110]",
+      "M00021": "Cysteine biosynthesis, serine => cysteine [PATH:map01110]",
+      "M00022": "Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate [PATH:map01110]",
+      "M00023": "Tryptophan biosynthesis, chorismate => tryptophan [PATH:map01110]",
+      "M00024": "Phenylalanine biosynthesis, chorismate => phenylalanine [PATH:map01110]",
+      "M00026": "Histidine biosynthesis, PRPP => histidine [PATH:map01110]",
+      "M00039": "Monolignol biosynthesis, phenylalanine/tyrosine => monolignol [PATH:map01110]",
+      "M00040": "Tyrosine biosynthesis, prephanate => pretyrosine => tyrosine [PATH:map01110]",
+      "M00095": "C5 isoprenoid biosynthesis, mevalonate pathway [PATH:map01110]",
+      "M00096": "C5 isoprenoid biosynthesis, non-mevalonate pathway [PATH:map01110]",
+      "M00097": "beta-Carotene biosynthesis, GGAP => beta-carotene [PATH:map01110]",
+      "M00112": "Tocopherol/tocotorienol biosynthesis [PATH:map01110]",
+      "M00113": "Jasmonic acid biosynthesis [PATH:map01110]",
+      "M00114": "Ascorbate biosynthesis, plants, glucose-6P => ascorbate [PATH:map01110]",
+      "M00116": "Menaquinone biosynthesis, chorismate => menaquinone [PATH:map01110]",
+      "M00117": "Ubiquinone biosynthesis, prokaryotes, chorismate => ubiquinone [PATH:map01110]",
+      "M00119": "Pantothenate biosynthesis, valine/L-aspartate => pantothenate [PATH:map01110]",
+      "M00121": "Heme biosynthesis, glutamate => heme [PATH:map01110]",
+      "M00125": "Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD [PATH:map01110]",
+      "M00137": "Flavanone biosynthesis, phenylalanine => naringenin [PATH:map01110]",
+      "M00138": "Flavonoid biosynthesis, naringenin => pelargonidin [PATH:map01110]",
+      "M00350": "Capsaicin biosynthesis, L-Phenylalanine => Capsaicin [PATH:map01110]",
+      "M00364": "C10-C20 isoprenoid biosynthesis, bacteria [PATH:map01110]",
+      "M00365": "C10-C20 isoprenoid biosynthesis, archaea [PATH:map01110]",
+      "M00366": "C10-C20 isoprenoid biosynthesis, plants [PATH:map01110]",
+      "M00367": "C10-C20 isoprenoid biosynthesis, non-plant eukaryotes [PATH:map01110]",
+      "M00368": "Ethylene biosynthesis, methionine => ethylene [PATH:map01110]",
+      "M00369": "Cyanogenic glycoside biosynthesis, tyrosine => dhurrin [PATH:map01110]",
+      "M00370": "Glucosinolate biosynthesis, tryptophan => glucobrassicin [PATH:map01110]",
+      "M00371": "Castasterone biosynthesis, campesterol => castasterone [PATH:map01110]",
+      "M00372": "Abscisic acid biosynthesis, beta-carotene => abscisic acid [PATH:map01110]",
+      "M00432": "Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate [PATH:map01110]",
+      "M00527": "Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine [PATH:map01110]",
+      "M00532": "Photorespiration [PATH:map01110]",
+      "M00565": "Trehalose biosynthesis, D-glucose 1P => trehalose [PATH:map01110]",
+      "M00661": "Paspaline biosynthesis, geranylgeranyl-PP + indoleglycerol phosphate => paspaline [PATH:map01110]",
+      "M00846": "Siroheme biosynthesis, glutamate => siroheme [PATH:map01110]",
+      "M00847": "Heme biosynthesis, archaea, siroheme => heme [PATH:map01110]",
+      "M00849": "C5 isoprenoid biosynthesis, mevalonate pathway, archaea [PATH:map01110]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko01110"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "entry_id": "map00290",
+    "name": "Valine, leucine and isoleucine biosynthesis",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Amino acid metabolism"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0009097",
+        "0009098",
+        "0009099"
+      ]
+    },
+    "pathways": {
+      "map00290": "Valine, leucine and isoleucine biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Xu H",
+          "Zhang Y",
+          "Guo X",
+          "Ren S",
+          "Staempfli AA",
+          "Chiao J",
+          "Jiang W",
+          "Zhao G."
+        ],
+        "title": "Isoleucine biosynthesis in Leptospira interrogans serotype lai strain 56601 proceeds via a threonine-independent pathway.",
+        "journal": "J Bacteriol 186:5400-9 (2004) DOI:10.1128/JB.186.16.5400-5409.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15292141",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00019": "Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine [PATH:map00290]",
+      "M00432": "Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate [PATH:map00290]",
+      "M00535": "Isoleucine biosynthesis, pyruvate => 2-oxobutanoate [PATH:map00290]",
+      "M00570": "Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine [PATH:map00290]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00290"
+  }
+]

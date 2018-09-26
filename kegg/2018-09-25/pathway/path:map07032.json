@@ -1,0 +1,260 @@
+[
+  {
+    "entry_id": "map07032",
+    "name": "Hypnotics",
+    "description": "",
+    "classes": [
+
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map07032": "Hypnotics"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Sano T",
+          "Naito T",
+          "Kubo T (eds)."
+        ],
+        "title": "[Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)",
+        "journal": "Nankodo",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2002",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "(Japanese)"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tanaka C",
+          "Kato R (eds)."
+        ],
+        "title": "[New Pharmacology (4th ed)] (In Japanese)",
+        "journal": "Nankodo",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2002",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "(Japanese)"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bertram GK (ed)."
+        ],
+        "title": "Basic & Clinical Pharmacology (9th ed)",
+        "journal": "Lange",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2004",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Neubauer DN."
+        ],
+        "title": "Indiplon: the development of a new hypnotic.",
+        "journal": "Expert Opin Investig Drugs 14:1269-76 (2005) DOI:10.1517/13543784.14.10.1269",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16185169",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sternbach LH."
+        ],
+        "title": "The benzodiazepine story.",
+        "journal": "J Med Chem 22:1-7 (1979) DOI:10.1021/jm00187a001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "34039",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Halas CJ"
+        ],
+        "title": "Eszopiclone.",
+        "journal": "Am J Health Syst Pharm 63:41-8 (2006) DOI:10.2146/ajhp050357",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16373464",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+      "C07490": "Trichloroethanol",
+      "D00023": "Urea (JP17/USP)",
+      "D00265": "Chloral hydrate (JP17/USP)",
+      "D00293": "Diazepam (JP17/USP/INN)",
+      "D00300": "Diphenhydramine (JP17/INN)",
+      "D00311": "Estazolam (JP17/USAN/INN)",
+      "D00329": "Flurazepam (JAN/INN)",
+      "D00370": "Temazepam (USP/INN)",
+      "D00387": "Triazolam (JAN/USP/INN)",
+      "D00388": "Triclofos sodium (JP17/USAN)",
+      "D00430": "Secobarbital (USP/INN)",
+      "D00457": "Quazepam (JAN/USP/INN)",
+      "D00480": "Promethazine hydrochloride (JP17/USP)",
+      "D00494": "Promethazine (JAN/INN)",
+      "D00499": "Pentobarbital (USP/INN)",
+      "D00500": "Pentobarbital sodium (JAN/USP)",
+      "D00506": "Phenobarbital (JP17/USP/INN)",
+      "D00530": "Zaleplon (JAN/USAN/INN)",
+      "D00531": "Nitrazepam (JP17/USAN/INN)",
+      "D00532": "Glutethimide (JAN/INN)",
+      "D00550": "Midazolam (JAN/USP/INN)",
+      "D00555": "Amobarbital (JP17/INN)",
+      "D00574": "Aminoglutethimide (USP/INN)",
+      "D00669": "Diphenhydramine hydrochloride (JP17/USP)",
+      "D00672": "Hydroxyzine hydrochloride (JP17/USP)",
+      "D00695": "Flurazepam hydrochloride (USP)",
+      "D00696": "Midazolam hydrochloride (USAN)",
+      "D00701": "Phenobarbital sodium (JAN/USP/INN)",
+      "D00706": "Zolpidem tartrate (JP17/USAN)",
+      "D00754": "Thalidomide (JAN/USP/INN)",
+      "D01096": "Hydroxyzine pamoate (JP17/USP)",
+      "D01150": "Methyprylon (JAN/INN)",
+      "D01230": "Flunitrazepam (JP17/USAN/INN)",
+      "D01242": "Promethazine teoclate (JAN/INN)",
+      "D01310": "Secobarbital sodium (JAN/USP)",
+      "D01372": "Zopiclone (JAN/INN)",
+      "D01391": "Bromovalerylurea (JP17)",
+      "D01408": "Flurazepam hydrochloride (JP17)",
+      "D01438": "Perlapine (JAN/USAN/INN)",
+      "D01498": "Butoctamide semisuccinate (JAN)",
+      "D01514": "Etizolam (JP17/INN)",
+      "D01564": "Rilmazafone hydrochloride hydrate (JAN)",
+      "D01593": "Nimetazepam (JAN/INN)",
+      "D01657": "Lormetazepam (JAN/USAN/INN)",
+      "D01740": "Barbital (JP17/INN)",
+      "D01744": "Brotizolam (JP17/USAN/INN)",
+      "D01758": "Haloxazolam (JP17/INN)",
+      "D02252": "Amobarbital sodium (JAN/USP)",
+      "D02253": "Pentobarbital calcium (JP17)",
+      "D02419": "Diphenhydramine salicylate (JAN)",
+      "D02618": "Butobarbital (BAN)",
+      "D02619": "Carbromal (INN)",
+      "D02624": "Eszopiclone (JAN/USAN/INN)",
+      "D02640": "Indiplon (USAN/INN)",
+      "D02689": "Ramelteon (JAN/USAN/INN)",
+      "D03285": "Diphenhydramine tannate (JP17)",
+      "D03290": "Promethazine methylenedisalicylate (JAN)",
+      "D03360": "Diphenhydramine laurylsulfate (JAN)",
+      "D03854": "Diphenhydramine citrate (USP)",
+      "D05028": "Midazolam maleate (USAN)",
+      "D08054": "Hydroxyzine (INN)",
+      "D08356": "Phenobarbital diethylamine",
+      "D08432": "Promethazine maleate",
+      "D08481": "Rilmazafone (INN)",
+      "D08634": "Triclofos (INN)",
+      "D08690": "Zolpidem (INN)",
+      "D08768": "Promethazine hibenzate"
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": ""
+  }
+]

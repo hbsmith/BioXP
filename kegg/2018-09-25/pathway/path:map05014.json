@@ -1,0 +1,700 @@
+[
+  {
+    "entry_id": "map05014",
+    "name": "Amyotrophic lateral sclerosis (ALS)",
+    "description": "Amyotrophic lateral sclerosis (ALS) is a progressive, lethal, degenerative disorder of motor neurons. The hallmark of this disease is the selective death of motor neurons in the brain and spinal cord, leading to paralysis of voluntary muscles. Mutant superoxide dismutase 1 (SOD1), as seen in some familial ALS (FALS) cases, is unstable, forming aggregates in the motor neuron cytoplasm, axoplasm and mitochondria. Within mitochondria, mutant SOD1 may interfere with the anti-apoptotic function of Bcl-2, affect mitochondrial import by interfering with the translocation machinery (TOM/TIM), and generate toxic free radicals (ROS). Reactive oxygen species (ROS), produced within mitochondria, inhibit the function of EAAT2, the main glial glutamate transporter protein, responsible for most of the reuptake of synaptically released glutamate. Glutamate excess increases intracellular calcium, which enhances oxidative stress and mitochondrial damage. Mutant SOD1 can also trigger oxidative reactions , which can then cause damage through the formation of hydroxyl radicals or via nitration of tyrosine residues on proteins. Nitration may target neurofilament proteins, affecting axonal transport. Collectively, these mechanisms are predicted to disturb cellular homeostasis, ultimately triggering motor neuron death.",
+    "classes": [
+      "Human Diseases",
+      "Neurodegenerative diseases"
+    ],
+    "diseases": {
+      "H00058": "Amyotrophic lateral sclerosis (ALS)"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05014": "Amyotrophic lateral sclerosis (ALS)"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Pasinelli P",
+          "Brown RH"
+        ],
+        "title": "Molecular biology of amyotrophic lateral sclerosis: insights from genetics.",
+        "journal": "Nat Rev Neurosci 7:710-23 (2006) DOI:10.1038/nrn1971",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16924260",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Goodall EF",
+          "Morrison KE"
+        ],
+        "title": "Amyotrophic lateral sclerosis (motor neuron disease): proposed mechanisms and pathways to treatment.",
+        "journal": "Expert Rev Mol Med 8:1-22 (2006) DOI:10.1017/S1462399406010854",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16723044",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Boillee S",
+          "Vande Velde C",
+          "Cleveland DW"
+        ],
+        "title": "ALS: a disease of motor neurons and their nonneuronal neighbors.",
+        "journal": "Neuron 52:39-59 (2006) DOI:10.1016/j.neuron.2006.09.018",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17015226",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Julien JP."
+        ],
+        "title": "Amyotrophic lateral sclerosis. unfolding the toxicity of the misfolded.",
+        "journal": "Cell 104:581-91 (2001) DOI:10.1016/S0092-8674(01)00244-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11239414",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Manfredi G",
+          "Xu Z"
+        ],
+        "title": "Mitochondrial dysfunction and its role in motor neuron degeneration in ALS.",
+        "journal": "Mitochondrion 5:77-87 (2005) DOI:10.1016/j.mito.2005.01.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16050975",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hand CK",
+          "Rouleau GA"
+        ],
+        "title": "Familial amyotrophic lateral sclerosis.",
+        "journal": "Muscle Nerve 25:135-59 (2002) DOI:10.1002/mus.10000",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11870681",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Barber SC",
+          "Mead RJ",
+          "Shaw PJ"
+        ],
+        "title": "Oxidative stress in ALS: a mechanism of neurodegeneration and a therapeutic target.",
+        "journal": "Biochim Biophys Acta 1762:1051-67 (2006) DOI:10.1016/j.bbadis.2006.03.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16713195",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "von Lewinski F",
+          "Keller BU"
+        ],
+        "title": "Ca2+, mitochondria and selective motoneuron vulnerability: implications for ALS.",
+        "journal": "Trends Neurosci 28:494-500 (2005) DOI:10.1016/j.tins.2005.07.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16026864",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Al-Chalabi A",
+          "Leigh PN"
+        ],
+        "title": "Recent advances in amyotrophic lateral sclerosis.",
+        "journal": "Curr Opin Neurol",
+        "volume": "13",
+        "issue": "",
+        "pages": "397-405",
+        "year": "2000",
+        "pubmed": "10970056",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Guegan C",
+          "Przedborski S"
+        ],
+        "title": "Programmed cell death in amyotrophic lateral sclerosis.",
+        "journal": "J Clin Invest 111:153-61 (2003) DOI:10.1172/JCI17610",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12531867",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bendotti C",
+          "Bao Cutrona M",
+          "Cheroni C",
+          "Grignaschi G",
+          "Lo Coco D",
+          "Peviani M",
+          "Tortarolo M",
+          "Veglianese P",
+          "Zennaro E"
+        ],
+        "title": "Inter- and intracellular signaling in amyotrophic lateral sclerosis: role of p38 mitogen-activated protein kinase.",
+        "journal": "Neurodegener Dis 2:128-34 (2005) DOI:10.1159/000089617",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16909017",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Emerit J",
+          "Edeas M",
+          "Bricaire F"
+        ],
+        "title": "Neurodegenerative diseases and oxidative stress.",
+        "journal": "Biomed Pharmacother 58:39-46 (2004) DOI:10.1016/j.biopha.2003.11.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14739060",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cleveland DW",
+          "Rothstein JD"
+        ],
+        "title": "From Charcot to Lou Gehrig: deciphering selective motor neuron death in ALS.",
+        "journal": "Nat Rev Neurosci 2:806-19 (2001) DOI:10.1038/35097565",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11715057",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bendotti C",
+          "Carri MT"
+        ],
+        "title": "Lessons from models of SOD1-linked familial ALS.",
+        "journal": "Trends Mol Med 10:393-400 (2004) DOI:10.1016/j.molmed.2004.06.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15310460",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Robertson J",
+          "Kriz J",
+          "Nguyen MD",
+          "Julien JP"
+        ],
+        "title": "Pathways to motor neuron degeneration in transgenic mouse models.",
+        "journal": "Biochimie 84:1151-60 (2002) DOI:10.1016/S0300-9084(02)00025-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12595144",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bacman SR",
+          "Bradley WG",
+          "Moraes CT"
+        ],
+        "title": "Mitochondrial involvement in amyotrophic lateral sclerosis: trigger or target?",
+        "journal": "Mol Neurobiol 33:113-31 (2006) DOI:10.1385/MN:33:2:113",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16603792",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nishitoh H",
+          "Kadowaki H",
+          "Nagai A",
+          "Maruyama T",
+          "Yokota T",
+          "Fukutomi H",
+          "Noguchi T",
+          "Matsuzawa A",
+          "Takeda K",
+          "Ichijo H"
+        ],
+        "title": "ALS-linked mutant SOD1 induces ER stress- and ASK1-dependent motor neuron death by targeting Derlin-1.",
+        "journal": "Genes Dev 22:1451-64 (2008) DOI:10.1101/gad.1640108",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18519638",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Simpson EP",
+          "Yen AA",
+          "Appel SH"
+        ],
+        "title": "Oxidative Stress: a common denominator in the pathogenesis of amyotrophic lateral sclerosis.",
+        "journal": "Curr Opin Rheumatol",
+        "volume": "15",
+        "issue": "",
+        "pages": "730-6",
+        "year": "2003",
+        "pubmed": "14569202",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vila M",
+          "Przedborski S"
+        ],
+        "title": "Targeting programmed cell death in neurodegenerative diseases.",
+        "journal": "Nat Rev Neurosci 4:365-75 (2003) DOI:10.1038/nrn1100",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12728264",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Volkel H",
+          "Scholz M",
+          "Link J",
+          "Selzle M",
+          "Werner P",
+          "Tunnemann R",
+          "Jung G",
+          "Ludolph AC",
+          "Reuter A"
+        ],
+        "title": "Superoxide dismutase mutations of familial amyotrophic lateral sclerosis and the oxidative inactivation of calcineurin.",
+        "journal": "FEBS Lett 503:201-5 (2001) DOI:10.1016/S0014-5793(01)02730-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11513882",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Eve DJ",
+          "Dennis JS",
+          "Citron BA"
+        ],
+        "title": "Transcription factor p53 in degenerating spinal cords.",
+        "journal": "Brain Res 1150:174-81 (2007) DOI:10.1016/j.brainres.2007.02.088",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17434459",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Van Damme P",
+          "Dewil M",
+          "Robberecht W",
+          "Van Den Bosch L"
+        ],
+        "title": "Excitotoxicity and amyotrophic lateral sclerosis.",
+        "journal": "Neurodegener Dis 2:147-59 (2005) DOI:10.1159/000089620",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16909020",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hadano S",
+          "Kunita R",
+          "Otomo A",
+          "Suzuki-Utsunomiya K",
+          "Ikeda JE"
+        ],
+        "title": "Molecular and cellular function of ALS2/alsin: implication of membrane dynamics in neuronal development and degeneration.",
+        "journal": "Neurochem Int 51:74-84 (2007) DOI:10.1016/j.neuint.2007.04.010",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17566607",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kunita R",
+          "Otomo A",
+          "Mizumura H",
+          "Suzuki-Utsunomiya K",
+          "Hadano S",
+          "Ikeda JE"
+        ],
+        "title": "The Rab5 activator ALS2/alsin acts as a novel Rac1 effector through Rac1-activated endocytosis.",
+        "journal": "J Biol Chem 282:16599-611 (2007) DOI:10.1074/jbc.M610682200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17409386",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05014"
+  }
+]

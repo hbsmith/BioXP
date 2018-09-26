@@ -1,0 +1,568 @@
+[
+  {
+    "entry_id": "map04932",
+    "name": "Non-alcoholic fatty liver disease (NAFLD)",
+    "description": "Non-alcoholic fatty liver disease (NAFLD) represents a spectrum ranging from simple steatosis to more severe steatohepatitis with hepatic inflammation and fibrosis, known as nonalcoholic steatohepatitis (NASH). NASH may further lead to cirrhosis and hepatocellular carcinoma (HCC). This map shows a stage-dependent progression of NAFLD. In the first stage of NAFLD, excess lipid accumulation has been demonstrated. The main cause is the induction of insulin resistance, which leads to a defect in insulin suppression of free fatty acids (FAAs) disposal. In addition, two transcription factors, SREBP-1c and PPAR-alpha, activate key enzymes of lipogenesis and increase the synthesis of FAAs in liver. In the second stage, as a consequence of the progression to NASH, the production of reactive oxygen species (ROS) is enhanced due to oxidation stress through mitochondrial beta-oxidation of fatty acids and endoplamic reticulum (ER) stress, leading to lipid peroxidation. The lipid peroxidation can further cause the production of cytokines (Fas ligand, TNF-alpha, IL-8 and TGF), promoting cell death, inflammation and fibrosis. The activation of JNK, which is induced by ER stress, TNF-alpha and FAAs, is also associated with NAFLD progression. Increased JNK promotes cytokine production and initiation of HCC.",
+    "classes": [
+      "Human Diseases",
+      "Endocrine and metabolic diseases"
+    ],
+    "diseases": {
+      "H01333": "Nonalcoholic fatty liver disease"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map04932": "Non-alcoholic fatty liver disease (NAFLD)"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Naik A",
+          "Kosir R",
+          "Rozman D"
+        ],
+        "title": "Genomic aspects of NAFLD pathogenesis.",
+        "journal": "Genomics 102:84-95 (2013) DOI:10.1016/j.ygeno.2013.03.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23545492",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Malaguarnera M",
+          "Di Rosa M",
+          "Nicoletti F",
+          "Malaguarnera L"
+        ],
+        "title": "Molecular mechanisms involved in NAFLD progression.",
+        "journal": "J Mol Med (Berl) 87:679-95 (2009) DOI:10.1007/s00109-009-0464-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19352614",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Seki E",
+          "Brenner DA",
+          "Karin M"
+        ],
+        "title": "A liver full of JNK: signaling in regulation of cell function and disease pathogenesis, and clinical approaches.",
+        "journal": "Gastroenterology 143:307-20 (2012) DOI:10.1053/j.gastro.2012.06.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22705006",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tilg H",
+          "Moschen AR"
+        ],
+        "title": "Evolution of inflammation in nonalcoholic fatty liver disease: the multiple parallel hits hypothesis.",
+        "journal": "Hepatology 52:1836-46 (2010) DOI:10.1002/hep.24001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21038418",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Larter CZ",
+          "Farrell GC"
+        ],
+        "title": "Insulin resistance, adiponectin, cytokines in NASH: Which is the best target to treat?",
+        "journal": "J Hepatol 44:253-61 (2006) DOI:10.1016/j.jhep.2005.11.030",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16364488",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Farrell GC",
+          "van Rooyen D",
+          "Gan L",
+          "Chitturi S"
+        ],
+        "title": "NASH is an Inflammatory Disorder: Pathogenic, Prognostic and Therapeutic Implications.",
+        "journal": "Gut Liver 6:149-71 (2012) DOI:10.5009/gnl.2012.6.2.149",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22570745",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shapiro H",
+          "Tehilla M",
+          "Attal-Singer J",
+          "Bruck R",
+          "Luzzatti R",
+          "Singer P"
+        ],
+        "title": "The therapeutic potential of long-chain omega-3 fatty acids in nonalcoholic fatty liver disease.",
+        "journal": "Clin Nutr 30:6-19 (2011) DOI:10.1016/j.clnu.2010.06.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20619513",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hotamisligil GS"
+        ],
+        "title": "Endoplasmic reticulum stress and the inflammatory basis of metabolic disease.",
+        "journal": "Cell 140:900-17 (2010) DOI:10.1016/j.cell.2010.02.034",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20303879",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Parekh S",
+          "Anania FA"
+        ],
+        "title": "Abnormal lipid and glucose metabolism in obesity: implications for nonalcoholic fatty liver disease.",
+        "journal": "Gastroenterology 132:2191-207 (2007) DOI:10.1053/j.gastro.2007.03.055",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17498512",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schattenberg JM",
+          "Singh R",
+          "Wang Y",
+          "Lefkowitch JH",
+          "Rigoli RM",
+          "Scherer PE",
+          "Czaja MJ"
+        ],
+        "title": "JNK1 but not JNK2 promotes the development of steatohepatitis in mice.",
+        "journal": "Hepatology 43:163-72 (2006) DOI:10.1002/hep.20999",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16374858",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Leung TM",
+          "Nieto N"
+        ],
+        "title": "CYP2E1 and oxidant stress in alcoholic and non-alcoholic fatty liver disease.",
+        "journal": "J Hepatol 58:395-8 (2013) DOI:10.1016/j.jhep.2012.08.018",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22940046",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zafrani ES"
+        ],
+        "title": "Non-alcoholic fatty liver disease: an emerging pathological spectrum.",
+        "journal": "Virchows Arch 444:3-12 (2004) DOI:10.1007/s00428-003-0943-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14685853",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Feldstein AE",
+          "Canbay A",
+          "Angulo P",
+          "Taniai M",
+          "Burgart LJ",
+          "Lindor KD",
+          "Gores GJ"
+        ],
+        "title": "Hepatocyte apoptosis and fas expression are prominent features of human nonalcoholic steatohepatitis.",
+        "journal": "Gastroenterology 125:437-43 (2003) DOI:10.1016/S0016-5085(03)00907-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12891546",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Begriche K",
+          "Igoudjil A",
+          "Pessayre D",
+          "Fromenty B"
+        ],
+        "title": "Mitochondrial dysfunction in NASH: causes, consequences and possible means to prevent it.",
+        "journal": "Mitochondrion 6:1-28 (2006) DOI:10.1016/j.mito.2005.10.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16406828",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Leonarduzzi G",
+          "Scavazza A",
+          "Biasi F",
+          "Chiarpotto E",
+          "Camandola S",
+          "Vogel S",
+          "Dargel R",
+          "Poli G"
+        ],
+        "title": "The lipid peroxidation end product 4-hydroxy-2,3-nonenal up-regulates transforming growth factor beta1 expression in the macrophage lineage: a link between oxidative injury and fibrosclerosis.",
+        "journal": "FASEB J 11:851-7 (1997) DOI:10.1096/fasebj.11.11.9285483",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9285483",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Malhi H",
+          "Kaufman RJ"
+        ],
+        "title": "Endoplasmic reticulum stress in liver disease.",
+        "journal": "J Hepatol 54:795-809 (2011) DOI:10.1016/j.jhep.2010.11.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21145844",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mantena SK",
+          "King AL",
+          "Andringa KK",
+          "Eccleston HB",
+          "Bailey SM"
+        ],
+        "title": "Mitochondrial dysfunction and oxidative stress in the pathogenesis of alcohol- and obesity-induced fatty liver diseases.",
+        "journal": "Free Radic Biol Med 44:1259-72 (2008) DOI:10.1016/j.freeradbiomed.2007.12.029",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18242193",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Serviddio G",
+          "Sastre J",
+          "Bellanti F",
+          "Vina J",
+          "Vendemiale G",
+          "Altomare E"
+        ],
+        "title": "Mitochondrial involvement in non-alcoholic steatohepatitis.",
+        "journal": "Mol Aspects Med 29:22-35 (2008) DOI:10.1016/j.mam.2007.09.014",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18061659",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Begriche K",
+          "Massart J",
+          "Robin MA",
+          "Bonnet F",
+          "Fromenty B"
+        ],
+        "title": "Mitochondrial adaptations and dysfunctions in nonalcoholic fatty liver disease.",
+        "journal": "Hepatology 58:1497-507 (2013) DOI:10.1002/hep.26226",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23299992",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04932"
+  }
+]

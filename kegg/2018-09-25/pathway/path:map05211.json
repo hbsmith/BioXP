@@ -1,0 +1,380 @@
+[
+  {
+    "entry_id": "map05211",
+    "name": "Renal cell carcinoma",
+    "description": "Renal cell cancer (RCC) accounts for ~3% of human malignancies and its incidence appears to be rising. Although most cases of RCC seem to occur sporadically, an inherited predisposition to renal cancer accounts for 1-4% of cases. RCC is not a single disease, it has several morphological subtypes. Conventional RCC (clear cell RCC) accounts for ~80% of cases, followed by papillary RCC (10-15%), chromophobe RCC (5%), and collecting duct RCC (<1%). Genes potentially involved in sporadic neoplasms of each particular type are VHL, MET, BHD, and FH respectively. In the absence of VHL, hypoxia-inducible factor alpha (HIF-alpha) accumulates, leading to production of several growth factors, including vascular endothelial growth factor and platelet-derived growth factor. Activated MET mediates a number of biological effects including motility, invasion of extracellular matrix, cellular transformation, prevention of apoptosis and metastasis formation. Loss of functional FH leads to accumulation of fumarate in the cell, triggering inhibition of HPH and preventing targeted pVHL-mediated degradation of HIF-alpha. BHD mutations cause the Birt-Hogg-Dube syndrome and its associated chromophobe, hybrid oncocytic, and conventional (clear cell) RCC.",
+    "classes": [
+      "Human Diseases",
+      "Cancers: Specific types"
+    ],
+    "diseases": {
+      "H00021": "Renal cell carcinoma",
+      "H00559": "von Hippel-Lindau syndrome"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05211": "Renal cell carcinoma"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Cohen HT",
+          "McGovern FJ."
+        ],
+        "title": "Renal-cell carcinoma.",
+        "journal": "N Engl J Med 353:2477-90 (2005) DOI:10.1056/NEJMra043172",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16339096",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pavlovich CP",
+          "Schmidt LS."
+        ],
+        "title": "Searching for the hereditary causes of renal-cell carcinoma.",
+        "journal": "Nat Rev Cancer 4:381-93 (2004) DOI:10.1038/nrc1364",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15122209",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Linehan WM",
+          "Walther MM",
+          "Zbar B."
+        ],
+        "title": "The genetic basis of cancer of the kidney.",
+        "journal": "J Urol 170:2163-72 (2003) DOI:10.1097/01.ju.0000096060.92397.ed",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14634372",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kim WY",
+          "Kaelin WG."
+        ],
+        "title": "Role of VHL gene mutation in human cancer.",
+        "journal": "J Clin Oncol 22:4991-5004 (2004) DOI:10.1200/JCO.2004.05.061",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15611513",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sudarshan S",
+          "Linehan WM",
+          "Neckers L."
+        ],
+        "title": "HIF and fumarate hydratase in renal cancer.",
+        "journal": "Br J Cancer 96:403-7 (2007) DOI:10.1038/sj.bjc.6603547",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17211469",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sudarshan S",
+          "Pinto PA",
+          "Neckers L",
+          "Linehan WM."
+        ],
+        "title": "Mechanisms of disease: hereditary leiomyomatosis and renal cell cancer--a distinct form of hereditary kidney cancer.",
+        "journal": "Nat Clin Pract Urol 4:104-10 (2007) DOI:10.1038/ncpuro0711",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17287871",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Birchmeier C",
+          "Birchmeier W",
+          "Gherardi E",
+          "Vande Woude GF."
+        ],
+        "title": "Met, metastasis, motility and more.",
+        "journal": "Nat Rev Mol Cell Biol 4:915-25 (2003) DOI:10.1038/nrm1261",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14685170",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Muller-Hocker J",
+          "Babaryka G",
+          "Schmid I",
+          "Jung A"
+        ],
+        "title": "Overexpression of cyclin D1, D3, and p21 in an infantile renal carcinoma with Xp11.2 TFE3-gene fusion.",
+        "journal": "Pathol Res Pract 204:589-97 (2008) DOI:10.1016/j.prp.2008.01.010",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18358634",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bodmer D",
+          "van den Hurk W",
+          "van Groningen JJ",
+          "Eleveld MJ",
+          "Martens GJ",
+          "Weterman MA",
+          "van Kessel AG."
+        ],
+        "title": "Understanding familial and non-familial renal cell cancer.",
+        "journal": "Hum Mol Genet 11:2489-98 (2002) DOI:10.1093/hmg/11.20.2489",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12351585",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kauffman EC",
+          "Ricketts CJ",
+          "Rais-Bahrami S",
+          "Yang Y",
+          "Merino MJ",
+          "Bottaro DP",
+          "Srinivasan R",
+          "Linehan WM"
+        ],
+        "title": "Molecular genetics and cellular features of TFE3 and TFEB fusion kidney cancers.",
+        "journal": "Nat Rev Urol 11:465-75 (2014) DOI:10.1038/nrurol.2014.162",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25048860",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Skalsky YM",
+          "Ajuh PM",
+          "Parker C",
+          "Lamond AI",
+          "Goodwin G",
+          "Cooper CS"
+        ],
+        "title": "PRCC, the commonest TFE3 fusion partner in papillary renal carcinoma is associated with pre-mRNA splicing factors.",
+        "journal": "Oncogene 20:178-87 (2001) DOI:10.1038/sj.onc.1204056",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11313942",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Medendorp K",
+          "van Groningen JJ",
+          "Vreede L",
+          "Hetterschijt L",
+          "Brugmans L",
+          "van den Hurk WH",
+          "van Kessel AG"
+        ],
+        "title": "The renal cell carcinoma-associated oncogenic fusion protein PRCCTFE3 provokes p21 WAF1/CIP1-mediated cell cycle delay.",
+        "journal": "Exp Cell Res 315:2399-409 (2009) DOI:10.1016/j.yexcr.2009.04.022",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19422821",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00383": "ECV complex [PATH:map05211]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05211"
+  }
+]

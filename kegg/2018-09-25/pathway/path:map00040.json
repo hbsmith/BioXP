@@ -1,0 +1,187 @@
+[
+  {
+    "entry_id": "map00040",
+    "name": "Pentose and glucuronate interconversions",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Carbohydrate metabolism"
+    ],
+    "diseases": {
+      "H01065": "Pentosuria",
+      "H01193": "Familial tumoral calcinosis"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00040": "Pentose and glucuronate interconversions"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Yew WS",
+          "Gerlt JA."
+        ],
+        "title": "Utilization of L-ascorbate by Escherichia coli K-12: assignments of functions to products of the yjf-sga and yia-sgb operons.",
+        "journal": "J Bacteriol 184:302-6 (2002) DOI:10.1128/JB.184.1.302-306.2002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11741871",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yew WS",
+          "Akana J",
+          "Wise EL",
+          "Rayment I",
+          "Gerlt JA"
+        ],
+        "title": "Evolution of enzymatic activities in the orotidine 5'-monophosphate decarboxylase suprafamily: enhancing the promiscuous D-arabino-hex-3-ulose 6-phosphate synthase reaction catalyzed by 3-keto-L-gulonate 6-phosphate decarboxylase.",
+        "journal": "Biochemistry 44:1807-15 (2005) DOI:10.1021/bi047815v",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15697206",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yasueda H",
+          "Kawahara Y",
+          "Sugimoto S."
+        ],
+        "title": "Bacillus subtilis yckG and yckF encode two key enzymes of the ribulose monophosphate pathway used by methylotrophs, and yckH is required for their expression.",
+        "journal": "J Bacteriol",
+        "volume": "181",
+        "issue": "",
+        "pages": "7154-60",
+        "year": "1999",
+        "pubmed": "10572115",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ibanez E",
+          "Gimenez R",
+          "Pedraza T",
+          "Baldoma L",
+          "Aguilar J",
+          "Badia J"
+        ],
+        "title": "Role of the yiaR and yiaS genes of Escherichia coli in metabolism of endogenously formed L-xylulose.",
+        "journal": "J Bacteriol 182:4625-7 (2000) DOI:10.1128/JB.182.16.4625-4627.2000",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10913097",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Orita I",
+          "Yurimoto H",
+          "Hirai R",
+          "Kawarabayasi Y",
+          "Sakai Y",
+          "Kato N"
+        ],
+        "title": "The archaeon Pyrococcus horikoshii possesses a bifunctional enzyme for formaldehyde fixation via the ribulose monophosphate pathway.",
+        "journal": "J Bacteriol 187:3636-42 (2005) DOI:10.1128/JB.187.11.3636-3642.2005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15901685",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00014": "Glucuronate pathway (uronate pathway) [PATH:map00040]",
+      "M00061": "D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P [PATH:map00040]",
+      "M00081": "Pectin degradation [PATH:map00040]",
+      "M00129": "Ascorbate biosynthesis, animals, glucose-1P => ascorbate [PATH:map00040]",
+      "M00630": "D-Galacturonate degradation (fungi), D-galacturonate => glycerol [PATH:map00040]",
+      "M00631": "D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P [PATH:map00040]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00040"
+  }
+]

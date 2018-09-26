@@ -1,0 +1,455 @@
+[
+  {
+    "entry_id": "map04114",
+    "name": "Oocyte meiosis",
+    "description": "During meiosis, a single round of DNA replication is followed by two rounds of chromosome segregation, called meiosis I and meiosis II. At meiosis I, homologous chromosomes recombine and then segregate to opposite poles, while the sister chromatids segregate from each other at meoisis II. In vertebrates, immature oocytes are arrested at the PI (prophase of meiosis I). The resumption of meiosis is stimulated by progesterone, which carries the oocyte through two consecutive M-phases (MI and MII) to a second arrest at MII. The key activity driving meiotic progression is the MPF (maturation-promoting factor), a heterodimer of CDC2 (cell division cycle 2 kinase) and cyclin B. In PI-arrested oocytes, MPF is initially inactive and is activated by the dual-specificity CDC25C phosphatase as the result of new synthesis of Mos induced by progesterone. MPF activation mediates the transition from the PI arrest to MI. The subsequent decrease in MPF levels, required to exit from MI into interkinesis, is induced by a negative feedback loop, where CDC2 brings about the activation of the APC (anaphase-promoting complex), which mediates destruction of cyclin B. Re-activation of MPF for MII requires re-accumulation of high levels of cyclin B as well as the inactivation of the APC by newly synthesized Emi2 and other components of the CSF (cytostatic factor), such as cyclin E or high levels of Mos. CSF antagonizes the ubiquitin ligase activity of the APC, preventing cyclin B destruction and meiotic exit until fertilization occurs. Fertilization triggers a transient increase in cytosolic free Ca2+, which leads to CSF inactivation and cyclin B destruction through the APC. Then eggs are released from MII into the first embryonic cell cycle.",
+    "classes": [
+      "Cellular Processes",
+      "Cell growth and death"
+    ],
+    "diseases": {
+      "H00574": "Coffin-Lowry syndrome",
+      "H00631": "Cornelia de Lange syndrome",
+      "H01274": "Growth delay due to insulin-like growth factor I resistance",
+      "H02122": "Chronic atrial and intestinal dysrhythmia"
+    },
+    "dblinks": {
+      "GO": [
+        "0051321"
+      ]
+    },
+    "pathways": {
+      "map04114": "Oocyte meiosis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Haccard O",
+          "Jessus C"
+        ],
+        "title": "Oocyte maturation, Mos and cyclins--a matter of synthesis: two functionally redundant ways to induce meiotic maturation.",
+        "journal": "Cell Cycle 5:1152-9 (2006) DOI:10.4161/cc.5.11.2800",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16760654",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Crane R",
+          "Gadea B",
+          "Littlepage L",
+          "Wu H",
+          "Ruderman JV"
+        ],
+        "title": "Aurora A, meiosis and mitosis.",
+        "journal": "Biol Cell 96:215-29 (2004) DOI:10.1016/j.biolcel.2003.09.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15182704",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Perdiguero E",
+          "Nebreda AR"
+        ],
+        "title": "Regulation of Cdc25C activity during the meiotic G2/M transition.",
+        "journal": "Cell Cycle 3:733-7 (2004) DOI:10.4161/cc.3.6.906",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15136768",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Perry JA",
+          "Kornbluth S"
+        ],
+        "title": "Cdc25 and Wee1: analogous opposites?",
+        "journal": "Cell Div 2:12 (2007) DOI:10.1186/1747-1028-2-12",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17480229",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jessus C",
+          "Ozon R"
+        ],
+        "title": "How does Xenopus oocyte acquire its competence to undergo meiotic maturation?",
+        "journal": "Biol Cell 96:187-92 (2004) DOI:10.1016/j.biolcel.2003.12.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15182701",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Revenkova E",
+          "Jessberger R"
+        ],
+        "title": "Shaping meiotic prophase chromosomes: cohesins and synaptonemal complex proteins.",
+        "journal": "Chromosoma 115:235-40 (2006) DOI:10.1007/s00412-006-0060-x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16518630",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Belloc E",
+          "Pique M",
+          "Mendez R"
+        ],
+        "title": "Sequential waves of polyadenylation and deadenylation define a translation circuit that drives meiotic progression.",
+        "journal": "Biochem Soc Trans 36:665-70 (2008) DOI:10.1042/BST0360665",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18631137",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pesin JA",
+          "Orr-Weaver TL"
+        ],
+        "title": "Regulation of APC/C activators in mitosis and meiosis.",
+        "journal": "Annu Rev Cell Dev Biol 24:475-99 (2008) DOI:10.1146/annurev.cellbio.041408.115949",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18598214",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tang W",
+          "Wu JQ",
+          "Guo Y",
+          "Hansen DV",
+          "Perry JA",
+          "Freel CD",
+          "Nutt L",
+          "Jackson PK",
+          "Kornbluth S"
+        ],
+        "title": "Cdc2 and Mos regulate Emi2 stability to promote the meiosis I-meiosis II transition.",
+        "journal": "Mol Biol Cell 19:3536-43 (2008) DOI:10.1091/mbc.E08-04-0417",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18550795",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wu JQ",
+          "Kornbluth S"
+        ],
+        "title": "Across the meiotic divide - CSF activity in the post-Emi2/XErp1 era.",
+        "journal": "J Cell Sci 121:3509-14 (2008) DOI:10.1242/jcs.036855",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18946022",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schmidt A",
+          "Rauh NR",
+          "Nigg EA",
+          "Mayer TU"
+        ],
+        "title": "Cytostatic factor: an activity that puts the cell cycle on hold.",
+        "journal": "J Cell Sci 119:1213-8 (2006) DOI:10.1242/jcs.02919",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16554437",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vogt E",
+          "Kirsch-Volders M",
+          "Parry J",
+          "Eichenlaub-Ritter U"
+        ],
+        "title": "Spindle formation, chromosome segregation and the spindle checkpoint in mammalian oocytes and susceptibility to meiotic error.",
+        "journal": "Mutat Res 651:14-29 (2008) DOI:10.1016/j.mrgentox.2007.10.015",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18096427",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Perry AC",
+          "Verlhac MH"
+        ],
+        "title": "Second meiotic arrest and exit in frogs and mice.",
+        "journal": "EMBO Rep 9:246-51 (2008) DOI:10.1038/embor.2008.22",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18311174",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tunquist BJ",
+          "Eyers PA",
+          "Chen LG",
+          "Lewellyn AL",
+          "Maller JL"
+        ],
+        "title": "Spindle checkpoint proteins Mad1 and Mad2 are required for cytostatic factor-mediated metaphase arrest.",
+        "journal": "J Cell Biol 163:1231-42 (2003) DOI:10.1083/jcb.200306153",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14691134",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hutchins JR",
+          "Dikovskaya D",
+          "Clarke PR."
+        ],
+        "title": "Regulation of Cdc2/cyclin B activation in Xenopus egg extracts via inhibitory phosphorylation of Cdc25C phosphatase by Ca(2+)/calmodulin-dependent protein [corrected] kinase II.",
+        "journal": "Mol Biol Cell 14:4003-14 (2003) DOI:10.1091/mbc.E03-02-0061",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14517314",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00380": "SCF-BTRC complex [PATH:map04114]",
+      "M00389": "APC/C complex [PATH:map04114]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04114"
+  }
+]

@@ -1,0 +1,628 @@
+[
+  {
+    "entry_id": "map01521",
+    "name": "EGFR tyrosine kinase inhibitor resistance",
+    "description": "EGFR is a tyrosine kinase that participates in the regulation of cellular homeostasis. EGFR also serves as a stimulus for cancer growth. EGFR gene mutations and protein overexpression, both of which activate down- stream pathways, are associated with cancers, especially lung cancer. Several tyrosine kinase inhibitor (TKI) therapies against EGFR are currently administered and are initially effective in cancer patients who have EGFR mutations or aberrant activation of EGFR. However, the development of TKI resistance is common and results in the recurrence of tumors. Studies over the last decade have identified mechanisms that drive resistance to EGFR TKI treatment. Most outstanding mechanisms are: the secondary EGFR mutation (T790M), activation of alternative pathways (c-Met, HGF, AXL), aberrance of the downstream pathways (K-RAS mutations, loss of PTEN), impairment of the EGFR-TKIs-mediated apoptosis pathway (BCL2-like 11/BIM deletion polymorphism), histologic transformation, etc.",
+    "classes": [
+      "Human Diseases",
+      "Drug resistance: Antineoplastic"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map01521": "EGFR tyrosine kinase inhibitor resistance"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Huang L",
+          "Fu L"
+        ],
+        "title": "Mechanisms of resistance to EGFR tyrosine kinase inhibitors.",
+        "journal": "Acta Pharm Sin B 5:390-401 (2015) DOI:10.1016/j.apsb.2015.07.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26579470",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hrustanovic G",
+          "Lee BJ",
+          "Bivona TG"
+        ],
+        "title": "Mechanisms of resistance to EGFR targeted therapies.",
+        "journal": "Cancer Biol Ther 14:304-14 (2013) DOI:10.4161/cbt.23627",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23358468",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lin Y",
+          "Wang X",
+          "Jin H"
+        ],
+        "title": "EGFR-TKI resistance in NSCLC patients: mechanisms and strategies.",
+        "journal": "Am J Cancer Res",
+        "volume": "4",
+        "issue": "",
+        "pages": "411-35",
+        "year": "2014",
+        "pubmed": "25232485",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nguyen KS",
+          "Kobayashi S",
+          "Costa DB"
+        ],
+        "title": "Acquired resistance to epidermal growth factor receptor tyrosine kinase inhibitors in non-small-cell lung cancers dependent on the epidermal growth factor receptor pathway.",
+        "journal": "Clin Lung Cancer 10:281-9 (2009) DOI:10.3816/CLC.2009.n.039",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19632948",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Engelman JA",
+          "Janne PA"
+        ],
+        "title": "Mechanisms of acquired resistance to epidermal growth factor receptor tyrosine kinase inhibitors in non-small cell lung cancer.",
+        "journal": "Clin Cancer Res 14:2895-9 (2008) DOI:10.1158/1078-0432.CCR-07-2248",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18483355",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ohashi K",
+          "Maruvka YE",
+          "Michor F",
+          "Pao W"
+        ],
+        "title": "Epidermal growth factor receptor tyrosine kinase inhibitor-resistant disease.",
+        "journal": "J Clin Oncol 31:1070-80 (2013) DOI:10.1200/JCO.2012.43.3912",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23401451",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Carrera S",
+          "Buque A",
+          "Azkona E",
+          "Aresti U",
+          "Calvo B",
+          "Sancho A",
+          "Arruti M",
+          "Nuno M",
+          "Rubio I",
+          "de Lobera AR",
+          "Lopez C",
+          "Vivanco GL"
+        ],
+        "title": "Epidermal growth factor receptor tyrosine-kinase inhibitor treatment resistance in non-small cell lung cancer: biological basis and therapeutic strategies.",
+        "journal": "Clin Transl Oncol 16:339-50 (2014) DOI:10.1007/s12094-013-1143-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24307395",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lin L",
+          "Bivona TG"
+        ],
+        "title": "Mechanisms of Resistance to Epidermal Growth Factor Receptor Inhibitors and Novel Therapeutic Strategies to Overcome Resistance in NSCLC Patients.",
+        "journal": "Chemother Res Pract 2012:817297 (2012) DOI:10.1155/2012/817297",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22970367",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Song X."
+        ],
+        "title": "Targeting PI3K/AKT/mTOR pathway and mutant EGFR to overcome resistance to tyrosine kinase inhibitors in mutant EGFR-mediated lung cancer",
+        "journal": "Onco Reviews 1(1):13-19 (2013) DOI:10.14259/or.v1i1.81",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chong CR",
+          "Janne PA"
+        ],
+        "title": "The quest to overcome resistance to EGFR-targeted therapies in cancer.",
+        "journal": "Nat Med 19:1389-400 (2013) DOI:10.1038/nm.3388",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24202392",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wheeler DL",
+          "Dunn EF",
+          "Harari PM"
+        ],
+        "title": "Understanding resistance to EGFR inhibitors-impact on future treatment strategies.",
+        "journal": "Nat Rev Clin Oncol 7:493-507 (2010) DOI:10.1038/nrclinonc.2010.97",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20551942",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gonzalez de Castro D",
+          "Clarke PA",
+          "Al-Lazikani B",
+          "Workman P"
+        ],
+        "title": "Personalized cancer medicine: molecular diagnostics, predictive biomarkers, and drug resistance.",
+        "journal": "Clin Pharmacol Ther 93:252-9 (2013) DOI:10.1038/clpt.2012.237",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23361103",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pao W",
+          "Chmielecki J"
+        ],
+        "title": "Rational, biologically based treatment of EGFR-mutant non-small-cell lung cancer.",
+        "journal": "Nat Rev Cancer 10:760-74 (2010) DOI:10.1038/nrc2947",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20966921",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Takezawa K",
+          "Pirazzoli V",
+          "Arcila ME",
+          "Nebhan CA",
+          "Song X",
+          "de Stanchina E",
+          "Ohashi K",
+          "Janjigian YY",
+          "Spitzler PJ",
+          "Melnick MA",
+          "Riely GJ",
+          "Kris MG",
+          "Miller VA",
+          "Ladanyi M",
+          "Politi K",
+          "Pao W"
+        ],
+        "title": "HER2 amplification: a potential mechanism of acquired resistance to EGFR inhibition in EGFR-mutant lung cancers that lack the second-site EGFRT790M mutation.",
+        "journal": "Cancer Discov 2:922-33 (2012) DOI:10.1158/2159-8290.CD-12-0108",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22956644",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhou BB",
+          "Peyton M",
+          "He B",
+          "Liu C",
+          "Girard L",
+          "Caudler E",
+          "Lo Y",
+          "Baribaud F",
+          "Mikami I",
+          "Reguart N",
+          "Yang G",
+          "Li Y",
+          "Yao W",
+          "Vaddi K",
+          "Gazdar AF",
+          "Friedman SM",
+          "Jablons DM",
+          "Newton RC",
+          "Fridman JS",
+          "Minna JD",
+          "Scherle PA"
+        ],
+        "title": "Targeting ADAM-mediated ligand cleavage to inhibit HER3 and EGFR pathways in non-small cell lung cancer.",
+        "journal": "Cancer Cell 10:39-50 (2006) DOI:10.1016/j.ccr.2006.05.024",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16843264",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Logue JS",
+          "Morrison DK"
+        ],
+        "title": "Complexity in the signaling network: insights from the use of targeted inhibitors in cancer therapy.",
+        "journal": "Genes Dev 26:641-50 (2012) DOI:10.1101/gad.186965.112",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22474259",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Costa C",
+          "Molina MA",
+          "Drozdowskyj A",
+          "Gimenez-Capitan A",
+          "Bertran-Alamillo J",
+          "Karachaliou N",
+          "Gervais R",
+          "Massuti B",
+          "Wei J",
+          "Moran T",
+          "Majem M",
+          "Felip E",
+          "Carcereny E",
+          "Garcia-Campelo R",
+          "Viteri S",
+          "Taron M",
+          "Ono M",
+          "Giannikopoulos P",
+          "Bivona T",
+          "Rosell R"
+        ],
+        "title": "The impact of EGFR T790M mutations and BIM mRNA expression on outcome in patients with EGFR-mutant NSCLC treated with erlotinib or chemotherapy in the randomized phase III EURTAC trial.",
+        "journal": "Clin Cancer Res 20:2001-10 (2014) DOI:10.1158/1078-0432.CCR-13-2233",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24493829",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Blakely CM",
+          "Bivona TG"
+        ],
+        "title": "Resiliency of lung cancers to EGFR inhibitor treatment unveiled, offering opportunities to divide and conquer EGFR inhibitor resistance.",
+        "journal": "Cancer Discov 2:872-5 (2012) DOI:10.1158/2159-8290.CD-12-0387",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23071030",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wu X",
+          "Liu X",
+          "Koul S",
+          "Lee CY",
+          "Zhang Z",
+          "Halmos B"
+        ],
+        "title": "AXL kinase as a novel target for cancer therapy.",
+        "journal": "Oncotarget 5:9546-63 (2014) DOI:10.18632/oncotarget.2542",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25337673",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Arteaga CL"
+        ],
+        "title": "HER3 and mutant EGFR meet MET.",
+        "journal": "Nat Med 13:675-7 (2007) DOI:10.1038/nm0607-675",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17554333",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko01521"
+  }
+]

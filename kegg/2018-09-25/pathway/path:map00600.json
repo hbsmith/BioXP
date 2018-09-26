@@ -1,0 +1,221 @@
+[
+  {
+    "entry_id": "map00600",
+    "name": "Sphingolipid metabolism",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Lipid metabolism"
+    ],
+    "diseases": {
+      "H00125": "Fabry disease",
+      "H00126": "Gaucher disease",
+      "H00127": "Metachromatic leukodystrophy",
+      "H00135": "Krabbe disease",
+      "H00137": "Niemann-Pick disease type A/B",
+      "H00138": "Farber lipogranulomatosis",
+      "H00142": "Sialidosis",
+      "H00265": "Hereditary sensory and autonomic neuropathy",
+      "H00276": "Galactosialidosis",
+      "H00281": "GM1 gangliosidosis",
+      "H00423": "Sphingolipidosis",
+      "H00424": "Defects in the degradation of sphingomyelin",
+      "H00426": "Gangliosidosis",
+      "H00810": "Progressive myoclonic epilepsy (PME/ EPM)"
+    },
+    "dblinks": {
+      "GO": [
+        "0006665",
+        "0030148"
+      ]
+    },
+    "pathways": {
+      "map00600": "Sphingolipid metabolism"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Merrill AH Jr."
+        ],
+        "title": "De novo sphingolipid biosynthesis: a necessary, but dangerous, pathway.",
+        "journal": "J Biol Chem 277:25843-6 (2002) DOI:10.1074/jbc.R200009200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12011104",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tani M",
+          "Okino N",
+          "Mitsutake S",
+          "Tanigawa T",
+          "Izu H",
+          "Ito M."
+        ],
+        "title": "Purification and characterization of a neutral ceramidase from mouse liver. A single protein catalyzes the reversible reaction in which ceramide is both hydrolyzed and synthesized.",
+        "journal": "J Biol Chem 275:3462-8 (2000) DOI:10.1074/jbc.275.5.3462",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10652340",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hannun YA",
+          "Luberto C",
+          "Argraves KM."
+        ],
+        "title": "Enzymes of sphingolipid metabolism: from modular to integrative signaling.",
+        "journal": "Biochemistry 40:4893-903 (2001) DOI:10.1021/bi002836k",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11305904",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Merrill AH Jr",
+          "Wang E."
+        ],
+        "title": "Enzymes of ceramide biosynthesis.",
+        "journal": "Methods Enzymol 209:427-37 (1992) DOI:10.1016/0076-6879(92)09053-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "1495423",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hirschberg K",
+          "Rodger J",
+          "Futerman AH."
+        ],
+        "title": "The long-chain sphingoid base of sphingolipids is acylated at the cytosolic surface of the endoplasmic reticulum in rat liver.",
+        "journal": "Biochem J 290 ( Pt 3):751-7 (1993) DOI:10.1042/bj2900751",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "8457204",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dickson RC",
+          "Lester RL."
+        ],
+        "title": "Metabolism and selected functions of sphingolipids in the yeast Saccharomyces cerevisiae.",
+        "journal": "Biochim Biophys Acta 1438:305-21 (1999) DOI:10.1016/S1388-1981(99)00068-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10366774",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00066": "Lactosylceramide biosynthesis [PATH:map00600]",
+      "M00067": "Sulfoglycolipids biosynthesis, ceramide/1-alkyl-2-acylglycerol => sulfatide/seminolipid [PATH:map00600]",
+      "M00094": "Ceramide biosynthesis [PATH:map00600]",
+      "M00099": "Sphingosine biosynthesis [PATH:map00600]",
+      "M00100": "Sphingosine degradation [PATH:map00600]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00600"
+  }
+]

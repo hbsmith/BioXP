@@ -1,0 +1,284 @@
+[
+  {
+    "entry_id": "map05130",
+    "name": "Pathogenic Escherichia coli infection",
+    "description": "Enteropathogenic E. coli (EPEC) and enterohemorrhagic E. coli (EHEC) are closely related pathogenic strains of Escherichia coli. The hallmark of EPEC/EHEC infections [DS:H00278 H00277] is induction of attaching and effacing (A/E) lesions that damage intestinal epithelial cells. The capacity to form A/E lesions is encoded mainly by the locus of enterocyte effacement (LEE) pathogenicity island. Tir, Map, EspF, EspG are known LEE-encoded effector proteins secreted via the type III secretion system, which is also LEE-encoded, into the host cell. EPEC and EHEC Tir's link the extracellular bacterium to the cell cytoskeleton. Map and EspF are involved in mitochondrion membrane permeabilization. EspG interacts with tubulins and stimulates microtubule destabilization. LEE-encoded adhesin or intimin (Eae) is exported via the general secretory pathway to the periplasm, where it is inserted into the outer membrane. In addition to Tir, two potential host cell-carried intimin receptors, beta1 integrin (ITGB1) and nucleolin (NCL), have so far been identified. The distinguishing feature of EHEC is the elaboration of Shiga-like toxin (Stx). Stx cleaves ribosomal RNA, thereby disrupting protein synthesis and killing the intoxicated epithelial or endothelial cells.",
+    "classes": [
+      "Human Diseases",
+      "Infectious diseases: Bacterial"
+    ],
+    "diseases": {
+      "H00277": "Enterohemorrhagic Escherichia coli (EHEC) infection",
+      "H00278": "Enteropathogenic Escherichia coli (EPEC) infection"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05130": "Pathogenic Escherichia coli infection"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Kaper JB",
+          "Nataro JP",
+          "Mobley HL."
+        ],
+        "title": "Pathogenic Escherichia coli.",
+        "journal": "Nat Rev Microbiol 2:123-40 (2004) DOI:10.1038/nrmicro818",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15040260",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Torres AG",
+          "Zhou X",
+          "Kaper JB."
+        ],
+        "title": "Adherence of diarrheagenic Escherichia coli strains to epithelial cells.",
+        "journal": "Infect Immun 73:18-29 (2005) DOI:10.1128/IAI.73.1.18-29.2005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15618137",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dean P",
+          "Maresca M",
+          "Kenny B."
+        ],
+        "title": "EPEC's weapons of mass subversion.",
+        "journal": "Curr Opin Microbiol 8:28-34 (2005) DOI:10.1016/j.mib.2004.12.010",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15694854",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Garmendia J",
+          "Frankel G",
+          "Crepin VF."
+        ],
+        "title": "Enteropathogenic and enterohemorrhagic Escherichia coli infections: translocation, translocation, translocation.",
+        "journal": "Infect Immun 73:2573-85 (2005) DOI:10.1128/IAI.73.5.2573-2585.2005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15845459",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Spears KJ",
+          "Roe AJ",
+          "Gally DL."
+        ],
+        "title": "A comparison of enteropathogenic and enterohaemorrhagic Escherichia coli pathogenesis.",
+        "journal": "FEMS Microbiol Lett 255:187-202 (2006) DOI:10.1111/j.1574-6968.2006.00119.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16448495",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kenny B."
+        ],
+        "title": "Enteropathogenic Escherichia coli (EPEC)-- a crafty subversive little bug.",
+        "journal": "Microbiology 148:1967-78 (2002) DOI:10.1099/00221287-148-7-1967",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12101285",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hayward RD",
+          "Leong JM",
+          "Koronakis V",
+          "Campellone KG."
+        ],
+        "title": "Exploiting pathogenic Escherichia coli to model transmembrane receptor signalling.",
+        "journal": "Nat Rev Microbiol 4:358-70 (2006) DOI:10.1038/nrmicro1391",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16582930",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Matsuzawa T",
+          "Kuwae A",
+          "Yoshida S",
+          "Sasakawa C",
+          "Abe A."
+        ],
+        "title": "Enteropathogenic Escherichia coli activates the RhoA signaling pathway via the stimulation of GEF-H1.",
+        "journal": "EMBO J 23:3570-82 (2004) DOI:10.1038/sj.emboj.7600359",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15318166",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dean P",
+          "Kenny B"
+        ],
+        "title": "The effector repertoire of enteropathogenic E. coli: ganging up on the host cell.",
+        "journal": "Curr Opin Microbiol 12:101-9 (2009) DOI:10.1016/j.mib.2008.11.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19144561",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00363": "EHEC pathogenicity signature, Shiga toxin [PATH:map05130]",
+      "M00542": "EHEC/EPEC pathogenicity signature, T3SS and effectors [PATH:map05130]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05130"
+  }
+]

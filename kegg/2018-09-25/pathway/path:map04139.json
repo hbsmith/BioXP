@@ -1,0 +1,548 @@
+[
+  {
+    "entry_id": "map04139",
+    "name": "Mitophagy - yeast",
+    "description": "Mitophagy, which refers to the selective elimination of impaired or excessive mitochondria, is considered to be the main mechanism for mitochondria quality and quantity control. In yeast, oxidative stress or inhibition of TOR induces expression of Agt32, the indispensable mitochondrial outer membrane receptor. Direct phosphorylation of Atg32 by CK2 triggers mitophagy, and two mitogen-activated protein kinase (MAPK) signal transduction pathways are also important in this process. Atg11 is an adaptor protein for selective autophagy, and recruits the cargo to the phagophore assembly site (PAS), where the autophagosome is generated. Then Atg32-Atg8 interaction enhances the formation of the autophagosome surrounding the mitochondria, which finally fuses with vacuoles for degradation. Atg32-Atg11 interaction may also be regulated by Yme1-mediated processing of Atg32, as well as by mitochondrial fission machinery. Some factors have been suggested to positively or negatively regulate the mitophagy via different mechanisms, including Atg1, Atg33, Mss4, Fmc1, Mdm38, Mip1, and Ubp3-Bre5 deubiquitination complex.",
+    "classes": [
+      "Cellular Processes",
+      "Transport and catabolism"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0000422"
+      ]
+    },
+    "pathways": {
+      "map04139": "Mitophagy - yeast"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Kanki T",
+          "Furukawa K",
+          "Yamashita S"
+        ],
+        "title": "Mitophagy in yeast: Molecular mechanisms and physiological role.",
+        "journal": "Biochim Biophys Acta 1853:2756-65 (2015) DOI:10.1016/j.bbamcr.2015.01.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25603537",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Muller M",
+          "Lu K",
+          "Reichert AS"
+        ],
+        "title": "Mitophagy and mitochondrial dynamics in Saccharomyces cerevisiae.",
+        "journal": "Biochim Biophys Acta 1853:2766-74 (2015) DOI:10.1016/j.bbamcr.2015.02.024",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25753536",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Okamoto K",
+          "Kondo-Okamoto N",
+          "Ohsumi Y"
+        ],
+        "title": "Mitochondria-anchored receptor Atg32 mediates degradation of mitochondria via selective autophagy.",
+        "journal": "Dev Cell 17:87-97 (2009) DOI:10.1016/j.devcel.2009.06.013",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19619494",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kanki T",
+          "Wang K",
+          "Cao Y",
+          "Baba M",
+          "Klionsky DJ"
+        ],
+        "title": "Atg32 is a mitochondrial protein that confers selectivity during mitophagy.",
+        "journal": "Dev Cell 17:98-109 (2009) DOI:10.1016/j.devcel.2009.06.014",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19619495",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mao K",
+          "Wang K",
+          "Zhao M",
+          "Xu T",
+          "Klionsky DJ"
+        ],
+        "title": "Two MAPK-signaling pathways are required for mitophagy in Saccharomyces cerevisiae.",
+        "journal": "J Cell Biol 193:755-67 (2011) DOI:10.1083/jcb.201102092",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21576396",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Aoki Y",
+          "Kanki T",
+          "Hirota Y",
+          "Kurihara Y",
+          "Saigusa T",
+          "Uchiumi T",
+          "Kang D"
+        ],
+        "title": "Phosphorylation of Serine 114 on Atg32 mediates mitophagy.",
+        "journal": "Mol Biol Cell 22:3206-17 (2011) DOI:10.1091/mbc.E11-02-0145",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21757540",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kanki T",
+          "Kurihara Y",
+          "Jin X",
+          "Goda T",
+          "Ono Y",
+          "Aihara M",
+          "Hirota Y",
+          "Saigusa T",
+          "Aoki Y",
+          "Uchiumi T",
+          "Kang D"
+        ],
+        "title": "Casein kinase 2 is essential for mitophagy.",
+        "journal": "EMBO Rep 14:788-94 (2013) DOI:10.1038/embor.2013.114",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23897086",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kondo-Okamoto N",
+          "Noda NN",
+          "Suzuki SW",
+          "Nakatogawa H",
+          "Takahashi I",
+          "Matsunami M",
+          "Hashimoto A",
+          "Inagaki F",
+          "Ohsumi Y",
+          "Okamoto K"
+        ],
+        "title": "Autophagy-related protein 32 acts as autophagic degron and directly initiates mitophagy.",
+        "journal": "J Biol Chem 287:10631-8 (2012) DOI:10.1074/jbc.M111.299917",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22308029",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mao K",
+          "Wang K",
+          "Liu X",
+          "Klionsky DJ"
+        ],
+        "title": "The scaffold protein Atg11 recruits fission machinery to drive selective mitochondria degradation by autophagy.",
+        "journal": "Dev Cell 26:9-18 (2013) DOI:10.1016/j.devcel.2013.05.024",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23810512",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang K",
+          "Jin M",
+          "Liu X",
+          "Klionsky DJ"
+        ],
+        "title": "Proteolytic processing of Atg32 by the mitochondrial i-AAA protease Yme1 regulates mitophagy.",
+        "journal": "Autophagy 9:1828-36 (2013) DOI:10.4161/auto.26281",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24025448",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tal R",
+          "Winter G",
+          "Ecker N",
+          "Klionsky DJ",
+          "Abeliovich H"
+        ],
+        "title": "Aup1p, a yeast mitochondrial protein phosphatase homolog, is required for efficient stationary phase mitophagy and cell survival.",
+        "journal": "J Biol Chem 282:5617-24 (2007) DOI:10.1074/jbc.M605940200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17166847",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kanki T",
+          "Wang K",
+          "Baba M",
+          "Bartholomew CR",
+          "Lynch-Day MA",
+          "Du Z",
+          "Geng J",
+          "Mao K",
+          "Yang Z",
+          "Yen WL",
+          "Klionsky DJ"
+        ],
+        "title": "A genomic screen for yeast mutants defective in selective mitochondria autophagy.",
+        "journal": "Mol Biol Cell 20:4730-8 (2009) DOI:10.1091/mbc.E09-03-0225",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19793921",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang K",
+          "Yang Z",
+          "Liu X",
+          "Mao K",
+          "Nair U",
+          "Klionsky DJ"
+        ],
+        "title": "Phosphatidylinositol 4-kinases are required for autophagic membrane trafficking.",
+        "journal": "J Biol Chem 287:37964-72 (2012) DOI:10.1074/jbc.M112.371591",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22977244",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Priault M",
+          "Salin B",
+          "Schaeffer J",
+          "Vallette FM",
+          "di Rago JP",
+          "Martinou JC"
+        ],
+        "title": "Impairing the bioenergetic status and the biogenesis of mitochondria triggers mitophagy in yeast.",
+        "journal": "Cell Death Differ 12:1613-21 (2005) DOI:10.1038/sj.cdd.4401697",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15947785",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nowikovsky K",
+          "Reipert S",
+          "Devenish RJ",
+          "Schweyen RJ"
+        ],
+        "title": "Mdm38 protein depletion causes loss of mitochondrial K+/H+ exchange activity, osmotic swelling and mitophagy.",
+        "journal": "Cell Death Differ 14:1647-56 (2007) DOI:10.1038/sj.cdd.4402167",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17541427",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang Y",
+          "Qi H",
+          "Taylor R",
+          "Xu W",
+          "Liu LF",
+          "Jin S"
+        ],
+        "title": "The role of autophagy in mitochondria maintenance: characterization of mitochondrial functions in autophagy-deficient S. cerevisiae strains.",
+        "journal": "Autophagy 3:337-46 (2007) DOI:10.4161/auto.4127",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17404498",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Muller M",
+          "Kotter P",
+          "Behrendt C",
+          "Walter E",
+          "Scheckhuber CQ",
+          "Entian KD",
+          "Reichert AS"
+        ],
+        "title": "Synthetic quantitative array technology identifies the Ubp3-Bre5 deubiquitinase complex as a negative regulator of mitophagy.",
+        "journal": "Cell Rep 10:1215-25 (2015) DOI:10.1016/j.celrep.2015.01.044",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25704822",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04139"
+  }
+]

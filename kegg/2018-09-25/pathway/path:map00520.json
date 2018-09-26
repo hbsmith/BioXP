@@ -1,0 +1,738 @@
+[
+  {
+    "entry_id": "map00520",
+    "name": "Amino sugar and nucleotide sugar metabolism",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Carbohydrate metabolism"
+    ],
+    "diseases": {
+      "H00070": "Galactosemia",
+      "H00147": "Sialuria",
+      "H00235": "Methemoglobinemia",
+      "H00594": "Distal myopathy",
+      "H00596": "Nonaka distal myopathy (NM)",
+      "H00770": "Congenital myasthenic syndrome",
+      "H01954": "Glycogen storage disease type XIV"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00520": "Amino sugar and nucleotide sugar metabolism"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Wyk P",
+          "Reeves P"
+        ],
+        "title": "Identification and sequence of the gene for abequose synthase, which confers antigenic specificity on group B salmonellae: homology with galactose epimerase.",
+        "journal": "J Bacteriol 171:5687-93 (1989) DOI:10.1128/JB.171.10.5687-5693.1989",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "2793832",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Thorson JS",
+          "Lo SF",
+          "Ploux O",
+          "He X",
+          "Liu HW"
+        ],
+        "title": "Studies of the biosynthesis of 3,6-dideoxyhexoses: molecular cloning and characterization of the asc (ascarylose) region from Yersinia pseudotuberculosis serogroup VA.",
+        "journal": "J Bacteriol 176:5483-93 (1994) DOI:10.1128/JB.176.17.5483-5493.1994",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "8071227",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kessler AC",
+          "Haase A",
+          "Reeves PR"
+        ],
+        "title": "Molecular analysis of the 3,6-dideoxyhexose pathway genes of Yersinia pseudotuberculosis serogroup IIA.",
+        "journal": "J Bacteriol 175:1412-22 (1993) DOI:10.1128/JB.175.5.1412-1422.1993",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "8444803",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Danese PN",
+          "Oliver GR",
+          "Barr K",
+          "Bowman GD",
+          "Rick PD",
+          "Silhavy TJ"
+        ],
+        "title": "Accumulation of the enterobacterial common antigen lipid II biosynthetic intermediate stimulates degP transcription in Escherichia coli.",
+        "journal": "J Bacteriol",
+        "volume": "180",
+        "issue": "",
+        "pages": "5875-84",
+        "year": "1998",
+        "pubmed": "9811644",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Skurnik M",
+          "Peippo A",
+          "Ervela E"
+        ],
+        "title": "Characterization of the O-antigen gene clusters of Yersinia pseudotuberculosis and the cryptic O-antigen gene cluster of Yersinia pestis shows that the plague bacillus is most closely related to and has evolved from Y. pseudotuberculosis serotype O:1b.",
+        "journal": "Mol Microbiol 37:316-30 (2000) DOI:10.1046/j.1365-2958.2000.01993.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10931327",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Stover CK",
+          "Pham XQ",
+          "Erwin AL",
+          "Mizoguchi SD",
+          "Warrener P",
+          "Hickey MJ",
+          "Brinkman FS",
+          "Hufnagle WO",
+          "Kowalik DJ",
+          "Lagrou M",
+          "Garber RL",
+          "Goltry L",
+          "Tolentino E",
+          "Westbrock-Wadman S",
+          "Yuan Y",
+          "Brody LL",
+          "Coulter SN",
+          "Folger KR",
+          "Kas A",
+          "Larbig K",
+          "Lim R",
+          "Smith K",
+          "Spencer D",
+          "Wong GK",
+          "Wu Z",
+          "Paulsen IT",
+          "Reizer J",
+          "Saier MH",
+          "Hancock RE",
+          "Lory S",
+          "Olson MV"
+        ],
+        "title": "Complete genome sequence of Pseudomonas aeruginosa PAO1, an opportunistic pathogen.",
+        "journal": "Nature 406:959-64 (2000) DOI:10.1038/35023079",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10984043",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ringenberg M",
+          "Lichtensteiger C",
+          "Vimr E"
+        ],
+        "title": "Redirection of sialic acid metabolism in genetically engineered Escherichia coli.",
+        "journal": "Glycobiology 11:533-9 (2001) DOI:10.1093/glycob/11.7.533",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11447132",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "McCoy AJ",
+          "Sandlin RC",
+          "Maurelli AT"
+        ],
+        "title": "In vitro and in vivo functional activity of Chlamydia MurA, a UDP-N-acetylglucosamine enolpyruvyl transferase involved in peptidoglycan synthesis and fosfomycin resistance.",
+        "journal": "J Bacteriol 185:1218-28 (2003) DOI:10.1128/JB.185.4.1218-1228.2003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12562791",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "JACOBSON B",
+          "DAVIDSON EA"
+        ],
+        "title": "Biosynthesis of uronic acids by skin enzymes. I. Uridine diphosphate-D-glucuronic acid-5-epimerase.",
+        "journal": "J Biol Chem",
+        "volume": "237",
+        "issue": "",
+        "pages": "638-42",
+        "year": "1962",
+        "pubmed": "14450717",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Seifert GJ"
+        ],
+        "title": "Nucleotide sugar interconversions and cell wall biosynthesis: how to bring the inside to the outside.",
+        "journal": "Curr Opin Plant Biol 7:277-84 (2004) DOI:10.1016/j.pbi.2004.03.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15134748",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Uehara T",
+          "Park JT"
+        ],
+        "title": "The N-acetyl-D-glucosamine kinase of Escherichia coli and its role in murein recycling.",
+        "journal": "J Bacteriol 186:7273-9 (2004) DOI:10.1128/JB.186.21.7273-7279.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15489439",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Breazeale SD",
+          "Ribeiro AA",
+          "McClerren AL",
+          "Raetz CR."
+        ],
+        "title": "A formyltransferase required for polymyxin resistance in Escherichia coli and the modification of lipid A with 4-Amino-4-deoxy-L-arabinose. Identification and function oF UDP-4-deoxy-4-formamido-L-arabinose.",
+        "journal": "J Biol Chem 280:14154-67 (2005) DOI:10.1074/jbc.M414265200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15695810",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Williams GJ",
+          "Breazeale SD",
+          "Raetz CR",
+          "Naismith JH."
+        ],
+        "title": "Structure and function of both domains of ArnA, a dual function decarboxylase and a formyltransferase, involved in 4-amino-4-deoxy-L-arabinose biosynthesis.",
+        "journal": "J Biol Chem 280:23000-8 (2005) DOI:10.1074/jbc.M501534200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15809294",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Maliekal P",
+          "Vertommen D",
+          "Delpierre G",
+          "Van Schaftingen E"
+        ],
+        "title": "Identification of the sequence encoding N-acetylneuraminate-9-phosphate phosphatase.",
+        "journal": "Glycobiology 16:165-72 (2006) DOI:10.1093/glycob/cwj050",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16237198",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Campbell CT",
+          "Yarema KJ"
+        ],
+        "title": "Large-scale approaches for glycobiology.",
+        "journal": "Genome Biol 6:236 (2005) DOI:10.1186/gb-2005-6-11-236",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16277754",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Uehara T",
+          "Suefuji K",
+          "Jaeger T",
+          "Mayer C",
+          "Park JT"
+        ],
+        "title": "MurQ Etherase is required by Escherichia coli in order to metabolize anhydro-N-acetylmuramic acid obtained either from the environment or from its own cell wall.",
+        "journal": "J Bacteriol 188:1660-2 (2006) DOI:10.1128/JB.188.4.1660-1662.2006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16452451",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lanot A",
+          "Hodge D",
+          "Jackson RG",
+          "George GL",
+          "Elias L",
+          "Lim EK",
+          "Vaistij FE",
+          "Bowles DJ"
+        ],
+        "title": "The glucosyltransferase UGT72E2 is responsible for monolignol 4-O-glucoside production in Arabidopsis thaliana.",
+        "journal": "Plant J 48:286-95 (2006) DOI:10.1111/j.1365-313X.2006.02872.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16995900",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Muller R",
+          "Morant M",
+          "Jarmer H",
+          "Nilsson L",
+          "Nielsen TH"
+        ],
+        "title": "Genome-wide analysis of the Arabidopsis leaf transcriptome reveals interaction of phosphate and sugar metabolism.",
+        "journal": "Plant Physiol 143:156-71 (2007) DOI:10.1104/pp.106.090167",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17085508",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Oka T",
+          "Nemoto T",
+          "Jigami Y"
+        ],
+        "title": "Functional analysis of Arabidopsis thaliana RHM2/MUM4, a multidomain protein involved in UDP-D-glucose to UDP-L-rhamnose conversion.",
+        "journal": "J Biol Chem 282:5389-403 (2007) DOI:10.1074/jbc.M610196200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17190829",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Greenberg DE",
+          "Porcella SF",
+          "Zelazny AM",
+          "Virtaneva K",
+          "Sturdevant DE",
+          "Kupko JJ 3rd",
+          "Barbian KD",
+          "Babar A",
+          "Dorward DW",
+          "Holland SM."
+        ],
+        "title": "Genome sequence analysis of the emerging human pathogenic acetic acid bacterium Granulibacter bethesdensis.",
+        "journal": "J Bacteriol 189:8727-36 (2007) DOI:10.1128/JB.00793-07",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17827295",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kotake T",
+          "Hojo S",
+          "Tajima N",
+          "Matsuoka K",
+          "Koyama T",
+          "Tsumuraya Y"
+        ],
+        "title": "A bifunctional enzyme with L-fucokinase and GDP-L-fucose pyrophosphorylase activities salvages free L-fucose in Arabidopsis.",
+        "journal": "J Biol Chem 283:8125-35 (2008) DOI:10.1074/jbc.M710078200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18199744",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vorholter FJ",
+          "Schneiker S",
+          "Goesmann A",
+          "Krause L",
+          "Bekel T",
+          "Kaiser O",
+          "Linke B",
+          "Patschkowski T",
+          "Ruckert C",
+          "Schmid J",
+          "Sidhu VK",
+          "Sieber V",
+          "Tauch A",
+          "Watt SA",
+          "Weisshaar B",
+          "Becker A",
+          "Niehaus K",
+          "Puhler A."
+        ],
+        "title": "The genome of Xanthomonas campestris pv. campestris B100 and its use for the reconstruction of metabolic pathways involved in xanthan biosynthesis.",
+        "journal": "J Biotechnol 134:33-45 (2008) DOI:10.1016/j.jbiotec.2007.12.013",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18304669",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Albermann C",
+          "Piepersberg W"
+        ],
+        "title": "Expression and identification of the RfbE protein from Vibrio cholerae O1 and its use for the enzymatic synthesis of GDP-D-perosamine.",
+        "journal": "Glycobiology 11:655-61 (2001) DOI:10.1093/glycob/11.8.655",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11479276",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00265": "PTS system, glucose-specific II component [PATH:map00520]",
+      "M00266": "PTS system, maltose/glucose-specific II component [PATH:map00520]",
+      "M00267": "PTS system, N-acetylglucosamine-specific II component [PATH:map00520]",
+      "M00282": "PTS system, D-glucosamine-specific II component [PATH:map00520]",
+      "M00361": "Nucleotide sugar biosynthesis, eukaryotes [PATH:map00520]",
+      "M00362": "Nucleotide sugar biosynthesis, prokaryotes [PATH:map00520]",
+      "M00549": "Nucleotide sugar biosynthesis, glucose => UDP-glucose [PATH:map00520]",
+      "M00554": "Nucleotide sugar biosynthesis, galactose => UDP-galactose [PATH:map00520]",
+      "M00761": "Undecaprenylphosphate alpha-L-Ara4N biosynthesis, UDP-GlcA => undecaprenyl phosphate alpha-L-Ara4N [PATH:map00520]",
+      "M00809": "PTS system, glucose-specific II component [PATH:map00520]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00520"
+  }
+]

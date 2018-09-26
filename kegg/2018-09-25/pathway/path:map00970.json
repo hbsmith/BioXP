@@ -1,0 +1,111 @@
+[
+  {
+    "entry_id": "map00970",
+    "name": "Aminoacyl-tRNA biosynthesis",
+    "description": "",
+    "classes": [
+      "Genetic Information Processing",
+      "Translation"
+    ],
+    "diseases": {
+      "H00264": "Charcot-Marie-Tooth disease",
+      "H00810": "Progressive myoclonic epilepsy (PME/ EPM)",
+      "H00871": "Leukoencephalopathy with brain stem and spinal cord involvement and lactate elevation",
+      "H00897": "Pontocerebellar hypoplasia",
+      "H00898": "Myopathy with lactic acidosis and sideroblastic anaemia",
+      "H01347": "MELAS Syndrome",
+      "H01351": "Spastic ataxia",
+      "H01356": "Myoclonic Epilepsy and Ragged-Red Fiber Disease",
+      "H01367": "Infantile liver failure",
+      "H02095": "Perrault syndrome"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00970": "Aminoacyl-tRNA biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Sheppard K",
+          "Yuan J",
+          "Hohn MJ",
+          "Jester B",
+          "Devine KM",
+          "Soll D"
+        ],
+        "title": "From one amino acid to another: tRNA-dependent amino acid biosynthesis.",
+        "journal": "Nucleic Acids Res 36:1813-25 (2008) DOI:10.1093/nar/gkn015",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18252769",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Polycarpo C",
+          "Ambrogelly A",
+          "Berube A",
+          "Winbush SM",
+          "McCloskey JA",
+          "Crain PF",
+          "Wood JL",
+          "Soll D"
+        ],
+        "title": "An aminoacyl-tRNA synthetase that specifically activates pyrrolysine.",
+        "journal": "Proc Natl Acad Sci U S A 101:12450-4 (2004) DOI:10.1073/pnas.0405362101",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15314242",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00359": "Aminoacyl-tRNA biosynthesis, eukaryotes [PATH:map00970]",
+      "M00360": "Aminoacyl-tRNA biosynthesis, prokaryotes [PATH:map00970]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00970"
+  }
+]

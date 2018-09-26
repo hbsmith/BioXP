@@ -1,0 +1,181 @@
+[
+  {
+    "entry_id": "map00550",
+    "name": "Peptidoglycan biosynthesis",
+    "description": "Peptidoglycan is a macromolecule made of long aminosugar strands cross-linked by short peptides. It forms the cell wall in bacteria surrounding the cytoplasmic membrane. The glycan strands are typically comprised of repeating N-acetylglucosamine (GlcNAc) and N-acetylmuramic acid (MurNAc) disaccharides. Each MurNAc is linked to a peptide of three to five amino acid residues. Disaccharide subunits are first assembled on the cytoplasmic side of the bacterial membrane on a polyisoprenoid anchor (lipid I and II). Polymerization of disaccharide subunits by transglycosylases and cross-linking of glycan strands by transpeptidases occur on the other side of the membrane. Bacterial cell wall biosynthesis inhibitors form a major class of antibiotics.",
+    "classes": [
+      "Metabolism",
+      "Glycan biosynthesis and metabolism"
+    ],
+    "diseases": {
+      "H00424": "Defects in the degradation of sphingomyelin"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00550": "Peptidoglycan biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Bouhss A",
+          "Trunkfield AE",
+          "Bugg TD",
+          "Mengin-Lecreulx D"
+        ],
+        "title": "The biosynthesis of peptidoglycan lipid-linked intermediates.",
+        "journal": "FEMS Microbiol Rev 32:208-33 (2008) DOI:10.1111/j.1574-6976.2007.00089.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18081839",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lloyd AJ",
+          "Gilbey AM",
+          "Blewett AM",
+          "De Pascale G",
+          "El Zoeiby A",
+          "Levesque RC",
+          "Catherwood AC",
+          "Tomasz A",
+          "Bugg TD",
+          "Roper DI",
+          "Dowson CG"
+        ],
+        "title": "Characterization of tRNA-dependent peptide bond formation by MurM in the synthesis of Streptococcus pneumoniae peptidoglycan.",
+        "journal": "J Biol Chem 283:6402-17 (2008) DOI:10.1074/jbc.M708105200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18077448",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Barreteau H",
+          "Kovac A",
+          "Boniface A",
+          "Sova M",
+          "Gobec S",
+          "Blanot D"
+        ],
+        "title": "Cytoplasmic steps of peptidoglycan biosynthesis.",
+        "journal": "FEMS Microbiol Rev 32:168-207 (2008) DOI:10.1111/j.1574-6976.2008.00104.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18266853",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "van Heijenoort J"
+        ],
+        "title": "Recent advances in the formation of the bacterial peptidoglycan monomer unit.",
+        "journal": "Nat Prod Rep 18:503-19 (2001) DOI:10.1039/a804532a",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11699883",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "van Heijenoort J"
+        ],
+        "title": "Formation of the glycan chains in the synthesis of bacterial peptidoglycan.",
+        "journal": "Glycobiology 11:25R-36R (2001) DOI:10.1093/glycob/11.3.25R",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11320055",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00550"
+  }
+]

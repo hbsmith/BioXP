@@ -1,0 +1,358 @@
+[
+  {
+    "entry_id": "map02060",
+    "name": "Phosphotransferase system (PTS)",
+    "description": "The phosphoenolpyruvate (PEP)-dependent phosphotransferase system (PTS) is a major mechanism used by bacteria for uptake of carbohydrates, particularly hexoses, hexitols, and disaccharides, where the source of energy is from PEP. The PTS consists of two general components, enzyme I (EI) and histidine phosphocarrier protein (HPr), and of membrane-bound sugar specific permeases (enzymes II). Each enzyme II (EII) complex consists of one or two hydrophobic integral membrane domains (domains C and D) and two hydrophilic domains (domains A and B). EII complexes may exist as distinct proteins or as a single multidomain protein. The PTS catalyzes the uptake of carbohydrates and their conversion into their respective phosphoesters during transport. There are four successive phosphoryl transfers in the PTS. Initial autophosphorylation of EI, using PEP as a substrate, is followed by transfer of the phosphoryl group from EI to HPr. EIIA catalyzes the self-phosphoryl transfer from HPr after which the phosphoryl group is transferred to histidine or cysteine residues of EIIB. The sugar is transported through the membrane-bound EIIC and is phosphorylated by the appropriate sugar-specific EIIB.",
+    "classes": [
+      "Environmental Information Processing",
+      "Membrane transport"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0009401"
+      ],
+      "TC": [
+        "4.A"
+      ]
+    },
+    "pathways": {
+      "map02060": "Phosphotransferase system (PTS)"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Darbon E",
+          "Galinier A",
+          "Le Coq D",
+          "Deutscher J."
+        ],
+        "title": "Phosphotransfer functions mutated Bacillus subtilis HPr-like protein Crh carrying a histidine in the active site.",
+        "journal": "J Mol Microbiol Biotechnol",
+        "volume": "3",
+        "issue": "",
+        "pages": "439-44",
+        "year": "2001",
+        "pubmed": "11361076",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dahl U",
+          "Jaeger T",
+          "Nguyen BT",
+          "Sattler JM",
+          "Mayer C."
+        ],
+        "title": "Identification of a phosphotransferase system of Escherichia coli required for growth on N-acetylmuramic acid.",
+        "journal": "J Bacteriol 186:2385-92 (2004) DOI:10.1128/JB.186.8.2385-2392.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15060041",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Martin-Verstraete I",
+          "Debarbouille M",
+          "Klier A",
+          "Rapoport G"
+        ],
+        "title": "Levanase operon of Bacillus subtilis includes a fructose-specific phosphotransferase system regulating the expression of the operon.",
+        "journal": "J Mol Biol 214:657-71 (1990) DOI:10.1016/0022-2836(90)90284-S",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "2117666",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kristich CJ",
+          "Glekas GD",
+          "Ordal GW."
+        ],
+        "title": "The conserved cytoplasmic module of the transmembrane chemoreceptor McpC mediates carbohydrate chemotaxis in Bacillus subtilis.",
+        "journal": "Mol Microbiol 47:1353-66 (2003) DOI:10.1046/j.1365-2958.2003.03375.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12603740",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sampaio MM",
+          "Chevance F",
+          "Dippel R",
+          "Eppler T",
+          "Schlegel A",
+          "Boos W",
+          "Lu YJ",
+          "Rock CO."
+        ],
+        "title": "Phosphotransferase-mediated transport of the osmolyte 2-O-alpha-mannosyl-D-glycerate in Escherichia coli occurs by the product of the mngA (hrsA) gene and is regulated by the mngR (farR) gene product acting as repressor.",
+        "journal": "J Biol Chem 279:5537-48 (2004) DOI:10.1074/jbc.M310980200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14645248",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Keseler IM",
+          "Collado-Vides J",
+          "Gama-Castro S",
+          "Ingraham J",
+          "Paley S",
+          "Paulsen IT",
+          "Peralta-Gil M",
+          "Karp PD."
+        ],
+        "title": "EcoCyc: a comprehensive database resource for Escherichia coli.",
+        "journal": "Nucleic Acids Res 33:D334-7 (2005) DOI:10.1093/nar/gki108",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15608210",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mukherjee A",
+          "Mammel MK",
+          "LeClerc JE",
+          "Cebula TA."
+        ],
+        "title": "Altered utilization of N-acetyl-D-galactosamine by Escherichia coli O157:H7 from the 2006 spinach outbreak.",
+        "journal": "J Bacteriol 190:1710-7 (2008) DOI:10.1128/JB.01737-07",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18156259",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Brinkkotter A",
+          "Kloss H",
+          "Alpert C",
+          "Lengeler JW."
+        ],
+        "title": "Pathways for the utilization of N-acetyl-galactosamine and galactosamine in Escherichia coli.",
+        "journal": "Mol Microbiol 37:125-35 (2000) DOI:10.1046/j.1365-2958.2000.01969.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10931310",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tchieu JH",
+          "Norris V",
+          "Edwards JS",
+          "Saier MH Jr."
+        ],
+        "title": "The complete phosphotranferase system in Escherichia coli.",
+        "journal": "J Mol Microbiol Biotechnol",
+        "volume": "3",
+        "issue": "",
+        "pages": "329-46",
+        "year": "2001",
+        "pubmed": "11361063",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kotrba P",
+          "Inui M",
+          "Yukawa H."
+        ],
+        "title": "Bacterial phosphotransferase system (PTS) in carbohydrate uptake and control of carbon metabolism.",
+        "journal": "J Biosci Bioeng 92:502-17 (2001) DOI:10.1016/S1389-1723(01)80308-X",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16233138",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00265": "PTS system, glucose-specific II component [PATH:map02060]",
+      "M00266": "PTS system, maltose/glucose-specific II component [PATH:map02060]",
+      "M00267": "PTS system, N-acetylglucosamine-specific II component [PATH:map02060]",
+      "M00268": "PTS system, alpha-glucoside-specific II component [PATH:map02060]",
+      "M00269": "PTS system, sucrose-specific II component [PATH:map02060]",
+      "M00270": "PTS system, trehalose-specific II component [PATH:map02060]",
+      "M00271": "PTS system, beta-glucoside-specific II component [PATH:map02060]",
+      "M00272": "PTS system, beta-glucoside (arbutin/salicin/cellobiose)-specific II component [PATH:map02060]",
+      "M00273": "PTS system, fructose-specific II component [PATH:map02060]",
+      "M00274": "PTS system, mannitol-specific II component [PATH:map02060]",
+      "M00275": "PTS system, cellobiose-specific II component [PATH:map02060]",
+      "M00276": "PTS system, mannose-specific II component [PATH:map02060]",
+      "M00277": "PTS system, N-acetylgalactosamine-specific II component [PATH:map02060]",
+      "M00278": "PTS system, sorbose-specific II component [PATH:map02060]",
+      "M00279": "PTS system, galactitol-specific II component [PATH:map02060]",
+      "M00280": "PTS system, glucitol/sorbitol-specific II component [PATH:map02060]",
+      "M00281": "PTS system, lactose-specific II component [PATH:map02060]",
+      "M00282": "PTS system, D-glucosamine-specific II component [PATH:map02060]",
+      "M00283": "PTS system, ascorbate-specific II component [PATH:map02060]",
+      "M00287": "PTS system, galactosamine-specific II component [PATH:map02060]",
+      "M00303": "PTS system, N-acetylmuramic acid-specific II component [PATH:map02060]",
+      "M00304": "PTS system, fructose-specific II component [PATH:map02060]",
+      "M00305": "PTS system, 2-O-A-mannosyl-D-glycerate-specific II component [PATH:map02060]",
+      "M00610": "PTS system, D-glucosaminate-specific II component [PATH:map02060]",
+      "M00764": "PTS system, fructoselysine/glucoselysine-specific II component [PATH:map02060]",
+      "M00806": "PTS system, maltose-specific II component [PATH:map02060]",
+      "M00807": "PTS system, galactose-specific II component [PATH:map02060]",
+      "M00809": "PTS system, glucose-specific II component [PATH:map02060]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko02060"
+  }
+]

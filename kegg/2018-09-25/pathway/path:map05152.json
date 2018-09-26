@@ -1,0 +1,510 @@
+[
+  {
+    "entry_id": "map05152",
+    "name": "Tuberculosis",
+    "description": "Tuberculosis, or TB, is an infectious disease caused by Mycobacterium tuberculosis. One third of the world's population is thought to be infected with TB. About 90% of those infected result in latent infections, and about 10% of latent infections develop active diseases when their immune system is impaired due to the age, other diseases such as AIDS or exposure to immunosuppressive drugs. TB is transmitted through the air and primarily attacks the lungs, then it can spread by the circulatory system to other parts of body. Once TB bacilli have entered the host by the respiratory route and infected macrophages in the lungs, they interfere with phagosomal maturation, antigen presentation, apoptosis and host immune system to establish persistent or latent infection.",
+    "classes": [
+      "Human Diseases",
+      "Infectious diseases: Bacterial"
+    ],
+    "diseases": {
+      "H00342": "Tuberculosis"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05152": "Tuberculosis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Saiga H",
+          "Shimada Y",
+          "Takeda K"
+        ],
+        "title": "Innate immune effectors in mycobacterial infection.",
+        "journal": "Clin Dev Immunol 2011:347594 (2011) DOI:10.1155/2011/347594",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21274449",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dheda K",
+          "Schwander SK",
+          "Zhu B",
+          "van Zyl-Smit RN",
+          "Zhang Y"
+        ],
+        "title": "The immunology of tuberculosis: from bench to bedside.",
+        "journal": "Respirology 15:433-50 (2010) DOI:10.1111/j.1440-1843.2010.01739.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20415982",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "van Crevel R",
+          "Ottenhoff TH",
+          "van der Meer JW"
+        ],
+        "title": "Innate immunity to Mycobacterium tuberculosis.",
+        "journal": "Clin Microbiol Rev 15:294-309 (2002) DOI:10.1128/CMR.15.2.294-309.2002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11932234",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Torrelles JB",
+          "Azad AK",
+          "Henning LN",
+          "Carlson TK",
+          "Schlesinger LS"
+        ],
+        "title": "Role of C-type lectins in mycobacterial infections.",
+        "journal": "Curr Drug Targets 9:102-12 (2008) DOI:10.2174/138945008783502467",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18288961",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jo EK",
+          "Yang CS",
+          "Choi CH",
+          "Harding CV"
+        ],
+        "title": "Intracellular signalling cascades regulating innate immune responses to Mycobacteria: branching out from Toll-like receptors.",
+        "journal": "Cell Microbiol 9:1087-98 (2007) DOI:10.1111/j.1462-5822.2007.00914.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17359235",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Marakalala MJ",
+          "Graham LM",
+          "Brown GD"
+        ],
+        "title": "The role of Syk/CARD9-coupled C-type lectin receptors in immunity to Mycobacterium tuberculosis infections.",
+        "journal": "Clin Dev Immunol 2010:567571 (2010) DOI:10.1155/2010/567571",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21274433",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Koul A",
+          "Herget T",
+          "Klebl B",
+          "Ullrich A"
+        ],
+        "title": "Interplay between mycobacteria and host signalling pathways.",
+        "journal": "Nat Rev Microbiol 2:189-202 (2004) DOI:10.1038/nrmicro840",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15083155",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Torrelles JB",
+          "Schlesinger LS"
+        ],
+        "title": "Diversity in Mycobacterium tuberculosis mannosylated cell wall determinants impacts adaptation to the host.",
+        "journal": "Tuberculosis (Edinb) 90:84-93 (2010) DOI:10.1016/j.tube.2010.02.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20199890",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Briken V",
+          "Porcelli SA",
+          "Besra GS",
+          "Kremer L"
+        ],
+        "title": "Mycobacterial lipoarabinomannan and related lipoglycans: from biogenesis to modulation of the immune response.",
+        "journal": "Mol Microbiol 53:391-403 (2004) DOI:10.1111/j.1365-2958.2004.04183.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15228522",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Baena A",
+          "Porcelli SA"
+        ],
+        "title": "Evasion and subversion of antigen presentation by Mycobacterium tuberculosis.",
+        "journal": "Tissue Antigens 74:189-204 (2009) DOI:10.1111/j.1399-0039.2009.01301.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19563525",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Flannagan RS",
+          "Cosio G",
+          "Grinstein S"
+        ],
+        "title": "Antimicrobial mechanisms of phagocytes and bacterial evasion strategies.",
+        "journal": "Nat Rev Microbiol 7:355-66 (2009) DOI:10.1038/nrmicro2128",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19369951",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pieters J"
+        ],
+        "title": "Mycobacterium tuberculosis and the macrophage: maintaining a balance.",
+        "journal": "Cell Host Microbe 3:399-407 (2008) DOI:10.1016/j.chom.2008.05.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18541216",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Scherr N",
+          "Jayachandran R",
+          "Mueller P",
+          "Pieters J"
+        ],
+        "title": "Interference of Mycobacterium tuberculosis with macrophage responses.",
+        "journal": "Indian J Exp Biol",
+        "volume": "47",
+        "issue": "",
+        "pages": "401-6",
+        "year": "2009",
+        "pubmed": "19634703",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Reith W",
+          "LeibundGut-Landmann S",
+          "Waldburger JM."
+        ],
+        "title": "Regulation of MHC class II gene expression by the class II transactivator.",
+        "journal": "Nat Rev Immunol 5:793-806 (2005) DOI:10.1038/nri1708",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16200082",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rothfuchs AG",
+          "Bafica A",
+          "Feng CG",
+          "Egen JG",
+          "Williams DL",
+          "Brown GD",
+          "Sher A"
+        ],
+        "title": "Dectin-1 interaction with Mycobacterium tuberculosis leads to enhanced IL-12p40 production by splenic dendritic cells.",
+        "journal": "J Immunol 179:3463-71 (2007) DOI:10.4049/jimmunol.179.6.3463",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17785780",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Master SS",
+          "Rampini SK",
+          "Davis AS",
+          "Keller C",
+          "Ehlers S",
+          "Springer B",
+          "Timmins GS",
+          "Sander P",
+          "Deretic V"
+        ],
+        "title": "Mycobacterium tuberculosis prevents inflammasome activation.",
+        "journal": "Cell Host Microbe 3:224-32 (2008) DOI:10.1016/j.chom.2008.03.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18407066",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shtrichman R",
+          "Samuel CE"
+        ],
+        "title": "The role of gamma interferon in antimicrobial immunity.",
+        "journal": "Curr Opin Microbiol 4:251-9 (2001) DOI:10.1016/S1369-5274(00)00199-5",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11378475",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05152"
+  }
+]

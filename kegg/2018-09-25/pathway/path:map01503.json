@@ -1,0 +1,673 @@
+[
+  {
+    "entry_id": "map01503",
+    "name": "Cationic antimicrobial peptide (CAMP) resistance",
+    "description": "Cationic antimicrobial peptides (CAMPs) play an important role in host defense against microbial infection and are key components of the innate immune response. These are found among all classes of life ranging from prokaryotes to humans. In addition to the natural peptides, thousands of synthetic variants have been produced. CAMPs weaken the integrity of the bacterial inner and outer membranes and subsequently kill bacterial cells. On the other hand, bacteria have developed a number of mechanisms against CAMPs. These resistance mechanisms include decreased affinity to CAMPs by substitution of anionic cell surface constituents with cationic molecules; biosynthesis and crosslinking of cell envelope components; external trapping mechanisms that bind or neutralize the CAMPs by direct secretion of proteins, or the release of CAMPs binding molecules from the host cell surface; membrane efflux pumps; and production of peptidases.",
+    "classes": [
+      "Human Diseases",
+      "Drug resistance: Antimicrobial"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map01503": "Cationic antimicrobial peptide (CAMP) resistance"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Nizet V"
+        ],
+        "title": "Antimicrobial peptide resistance mechanisms of human bacterial pathogens.",
+        "journal": "Curr Issues Mol Biol",
+        "volume": "8",
+        "issue": "",
+        "pages": "11-26",
+        "year": "2006",
+        "pubmed": "16450883",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gruenheid S",
+          "Le Moual H"
+        ],
+        "title": "Resistance to antimicrobial peptides in Gram-negative bacteria.",
+        "journal": "FEMS Microbiol Lett 330:81-9 (2012) DOI:10.1111/j.1574-6968.2012.02528.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22339775",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nawrocki KL",
+          "Crispell EK",
+          "McBride SM"
+        ],
+        "title": "Antimicrobial Peptide Resistance Mechanisms of Gram-Positive Bacteria.",
+        "journal": "Antibiotics (Basel) 3:461-492 (2014) DOI:10.3390/antibiotics3040461",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25419466",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Anaya-Lopez JL",
+          "Lopez-Meza JE",
+          "Ochoa-Zarzosa A"
+        ],
+        "title": "Bacterial resistance to cationic antimicrobial peptides.",
+        "journal": "Crit Rev Microbiol 39:180-95 (2013) DOI:10.3109/1040841X.2012.699025",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22799636",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Needham BD",
+          "Trent MS"
+        ],
+        "title": "Fortifying the barrier: the impact of lipid A remodelling on bacterial pathogenesis.",
+        "journal": "Nat Rev Microbiol 11:467-81 (2013) DOI:10.1038/nrmicro3047",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23748343",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yan A",
+          "Guan Z",
+          "Raetz CR"
+        ],
+        "title": "An undecaprenyl phosphate-aminoarabinose flippase required for polymyxin resistance in Escherichia coli.",
+        "journal": "J Biol Chem 282:36077-89 (2007) DOI:10.1074/jbc.M706172200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17928292",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Breazeale SD",
+          "Ribeiro AA",
+          "McClerren AL",
+          "Raetz CR."
+        ],
+        "title": "A formyltransferase required for polymyxin resistance in Escherichia coli and the modification of lipid A with 4-Amino-4-deoxy-L-arabinose. Identification and function oF UDP-4-deoxy-4-formamido-L-arabinose.",
+        "journal": "J Biol Chem 280:14154-67 (2005) DOI:10.1074/jbc.M414265200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15695810",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Olaitan AO",
+          "Morand S",
+          "Rolain JM"
+        ],
+        "title": "Mechanisms of polymyxin resistance: acquired and intrinsic resistance in bacteria.",
+        "journal": "Front Microbiol 5:643 (2014) DOI:10.3389/fmicb.2014.00643",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25505462",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Martinez JL",
+          "Rojo F"
+        ],
+        "title": "Metabolic regulation of antibiotic resistance.",
+        "journal": "FEMS Microbiol Rev 35:768-89 (2011) DOI:10.1111/j.1574-6976.2011.00282.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21645016",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Falagas ME",
+          "Rafailidis PI",
+          "Matthaiou DK"
+        ],
+        "title": "Resistance to polymyxins: Mechanisms, frequency and treatment options.",
+        "journal": "Drug Resist Updat 13:132-8 (2010) DOI:10.1016/j.drup.2010.05.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20843473",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gooderham WJ",
+          "Hancock RE"
+        ],
+        "title": "Regulation of virulence and antibiotic resistance by two-component regulatory systems in Pseudomonas aeruginosa.",
+        "journal": "FEMS Microbiol Rev 33:279-94 (2009) DOI:10.1111/j.1574-6976.2008.00135.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19243444",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lee H",
+          "Hsu FF",
+          "Turk J",
+          "Groisman EA"
+        ],
+        "title": "The PmrA-regulated pmrC gene mediates phosphoethanolamine modification of lipid A and polymyxin resistance in Salmonella enterica.",
+        "journal": "J Bacteriol 186:4124-33 (2004) DOI:10.1128/JB.186.13.4124-4133.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15205413",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang D",
+          "Seeve C",
+          "Pierson LS 3rd",
+          "Pierson EA"
+        ],
+        "title": "Transcriptome profiling reveals links between ParS/ParR, MexEF-OprN, and quorum sensing in the regulation of adaptation and virulence in Pseudomonas aeruginosa.",
+        "journal": "BMC Genomics 14:618 (2013) DOI:10.1186/1471-2164-14-618",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24034668",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Falord M",
+          "Karimova G",
+          "Hiron A",
+          "Msadek T"
+        ],
+        "title": "GraXSR proteins interact with the VraFG ABC transporter to form a five-component system required for cationic antimicrobial peptide sensing and resistance in Staphylococcus aureus.",
+        "journal": "Antimicrob Agents Chemother 56:1047-58 (2012) DOI:10.1128/AAC.05054-11",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22123691",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rowley G",
+          "Spector M",
+          "Kormanec J",
+          "Roberts M"
+        ],
+        "title": "Pushing the envelope: extracytoplasmic stress responses in bacterial pathogens.",
+        "journal": "Nat Rev Microbiol 4:383-94 (2006) DOI:10.1038/nrmicro1394",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16715050",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Piek S",
+          "Kahler CM"
+        ],
+        "title": "A comparison of the endotoxin biosynthesis and protein oxidation pathways in the biogenesis of the outer membrane of Escherichia coli and Neisseria meningitidis.",
+        "journal": "Front Cell Infect Microbiol 2:162 (2012) DOI:10.3389/fcimb.2012.00162",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23267440",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Weatherspoon-Griffin N",
+          "Yang D",
+          "Kong W",
+          "Hua Z",
+          "Shi Y"
+        ],
+        "title": "The CpxR/CpxA two-component regulatory system up-regulates the multidrug resistance cascade to facilitate Escherichia coli resistance to a model antimicrobial peptide.",
+        "journal": "J Biol Chem 289:32571-82 (2014) DOI:10.1074/jbc.M114.565762",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25294881",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vogt SL",
+          "Raivio TL"
+        ],
+        "title": "Just scratching the surface: an expanding view of the Cpx envelope stress response.",
+        "journal": "FEMS Microbiol Lett 326:2-11 (2012) DOI:10.1111/j.1574-6968.2011.02406.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22092948",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shelton CL",
+          "Raffel FK",
+          "Beatty WL",
+          "Johnson SM",
+          "Mason KM"
+        ],
+        "title": "Sap transporter mediated import and subsequent degradation of antimicrobial peptides in Haemophilus.",
+        "journal": "PLoS Pathog 7:e1002360 (2011) DOI:10.1371/journal.ppat.1002360",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22072973",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Otto M"
+        ],
+        "title": "Staphylococcus epidermidis--the 'accidental' pathogen.",
+        "journal": "Nat Rev Microbiol 7:555-67 (2009) DOI:10.1038/nrmicro2182",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19609257",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yang SJ",
+          "Bayer AS",
+          "Mishra NN",
+          "Meehl M",
+          "Ledala N",
+          "Yeaman MR",
+          "Xiong YQ",
+          "Cheung AL"
+        ],
+        "title": "The Staphylococcus aureus two-component regulatory system, GraRS, senses and confers resistance to selected cationic antimicrobial peptides.",
+        "journal": "Infect Immun 80:74-81 (2012) DOI:10.1128/IAI.05669-11",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21986630",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schmidtchen A",
+          "Frick IM",
+          "Andersson E",
+          "Tapper H",
+          "Bjorck L"
+        ],
+        "title": "Proteinases of common pathogenic bacteria degrade and inactivate the antibacterial peptide LL-37.",
+        "journal": "Mol Microbiol 46:157-68 (2002) DOI:10.1046/j.1365-2958.2002.03146.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12366839",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Beceiro A",
+          "Tomas M",
+          "Bou G"
+        ],
+        "title": "Antimicrobial resistance and virulence: a successful or deleterious association in the bacterial world?",
+        "journal": "Clin Microbiol Rev 26:185-230 (2013) DOI:10.1128/CMR.00059-12",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23554414",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00721": "Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon [PATH:map01503]",
+      "M00722": "Cationic antimicrobial peptide (CAMP) resistance, ethanolaminephosphotransferase EptA [PATH:map01503]",
+      "M00723": "Cationic antimicrobial peptide (CAMP) resistance, ethanolaminephosphotransferase EptB [PATH:map01503]",
+      "M00724": "Cationic antimicrobial peptide (CAMP) resistance, palmitoyl transferase PagP [PATH:map01503]",
+      "M00725": "Cationic antimicrobial peptide (CAMP) resistance, dltABCD operon [PATH:map01503]",
+      "M00726": "Cationic antimicrobial peptide (CAMP) resistance, lysyl-phosphatidylglycerol (L-PG) synthase MprF [PATH:map01503]",
+      "M00727": "Cationic antimicrobial peptide (CAMP) resistance, N-acetylmuramoyl-L-alanine amidase AmiA and AmiC [PATH:map01503]",
+      "M00728": "Cationic antimicrobial peptide (CAMP) resistance, envelope protein folding and degrading factors DegP and DsbA [PATH:map01503]",
+      "M00730": "Cationic antimicrobial peptide (CAMP) resistance, VraFG transporter [PATH:map01503]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko01503"
+  }
+]

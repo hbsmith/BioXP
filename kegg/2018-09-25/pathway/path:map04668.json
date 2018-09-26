@@ -1,0 +1,258 @@
+[
+  {
+    "entry_id": "map04668",
+    "name": "TNF signaling pathway",
+    "description": "Tumor necrosis factor (TNF), as a critical cytokine, can induce a wide range of intracellular signal pathways including apoptosis and cell survival as well as inflammation and immunity. Activated TNF is assembled to a homotrimer and binds to its receptors (TNFR1, TNFR2) resulting in the trimerization of TNFR1 or TNFR2. TNFR1 is expressed by nearly all cells and is the major receptor for TNF (also called TNF-alpha). In contrast, TNFR2 is expressed in limited cells such as CD4 and CD8 T lymphocytes, endothelial cells, microglia, oligodendrocytes, neuron subtypes, cardiac myocytes, thymocytes and human mesenchymal stem cells. It is the receptor for both TNF and LTA (also called TNF-beta). Upon binding of the ligand, TNFR mediates the association of some adaptor proteins such as TRADD or TRAF2, which in turn initiate recruitment of signal transducers. TNFR1 signaling induces activation of many genes, primarily controlled by two distinct pathways, NF-kappa B pathway and the MAPK cascade, or apoptosis and necroptosis. TNFR2 signaling activates NF-kappa B pathway including PI3K-dependent NF-kappa B pathway and JNK pathway leading to survival.",
+    "classes": [
+      "Environmental Information Processing",
+      "Signal transduction"
+    ],
+    "diseases": {
+      "H01900": "Encephalopathy due to defective mitochondrial and peroxisomal fission"
+    },
+    "dblinks": {
+      "GO": [
+        "0033209"
+      ]
+    },
+    "pathways": {
+      "map04668": "TNF signaling pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Chu WM"
+        ],
+        "title": "Tumor necrosis factor.",
+        "journal": "Cancer Lett 328:222-5 (2013) DOI:10.1016/j.canlet.2012.10.014",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23085193",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shuh M",
+          "Bohorquez H",
+          "Loss GE Jr",
+          "Cohen AJ"
+        ],
+        "title": "Tumor Necrosis Factor-alpha: Life and Death of Hepatocytes During Liver Ischemia/Reperfusion Injury.",
+        "journal": "Ochsner J",
+        "volume": "13",
+        "issue": "",
+        "pages": "119-30",
+        "year": "2013",
+        "pubmed": "23531747",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "MacEwan DJ"
+        ],
+        "title": "TNF receptor subtype signalling: differences and cellular consequences.",
+        "journal": "Cell Signal 14:477-92 (2002) DOI:10.1016/S0898-6568(01)00262-5",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11897488",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Newton K",
+          "Dixit VM"
+        ],
+        "title": "Signaling in innate immunity and inflammation.",
+        "journal": "Cold Spring Harb Perspect Biol 4:a006049 (2012) DOI:10.1101/cshperspect.a006049",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22296764",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pomerantz JL",
+          "Baltimore D"
+        ],
+        "title": "NF-kappaB activation by a signaling complex containing TRAF2, TANK and TBK1, a novel IKK-related kinase.",
+        "journal": "EMBO J 18:6694-704 (1999) DOI:10.1093/emboj/18.23.6694",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10581243",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Naude PJ",
+          "den Boer JA",
+          "Luiten PG",
+          "Eisel UL"
+        ],
+        "title": "Tumor necrosis factor receptor cross-talk.",
+        "journal": "FEBS J 278:888-98 (2011) DOI:10.1111/j.1742-4658.2011.08017.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21232019",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Faustman D",
+          "Davis M"
+        ],
+        "title": "TNF receptor 2 pathway: drug target for autoimmune diseases.",
+        "journal": "Nat Rev Drug Discov 9:482-93 (2010) DOI:10.1038/nrd3030",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20489699",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chan FK",
+          "Shisler J",
+          "Bixby JG",
+          "Felices M",
+          "Zheng L",
+          "Appel M",
+          "Orenstein J",
+          "Moss B",
+          "Lenardo MJ"
+        ],
+        "title": "A role for tumor necrosis factor receptor-2 and receptor-interacting protein in programmed necrosis and antiviral responses.",
+        "journal": "J Biol Chem 278:51613-21 (2003) DOI:10.1074/jbc.M305633200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14532286",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04668"
+  }
+]

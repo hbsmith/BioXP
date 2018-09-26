@@ -1,0 +1,159 @@
+[
+  {
+    "entry_id": "map00540",
+    "name": "Lipopolysaccharide biosynthesis",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Glycan biosynthesis and metabolism"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0009103"
+      ]
+    },
+    "pathways": {
+      "map00540": "Lipopolysaccharide biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Heinrichs DE",
+          "Yethon JA",
+          "Whitfield C."
+        ],
+        "title": "Molecular basis for structural diversity in the core regions of the lipopolysaccharides of Escherichia coli and Salmonella enterica.",
+        "journal": "Mol Microbiol 30:221-32 (1998) DOI:10.1046/j.1365-2958.1998.01063.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9791168",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kneidinger B",
+          "Marolda C",
+          "Graninger M",
+          "Zamyatina A",
+          "McArthur F",
+          "Kosma P",
+          "Valvano MA",
+          "Messner P."
+        ],
+        "title": "Biosynthesis pathway of ADP-L-glycero-beta-D-manno-heptose in Escherichia coli.",
+        "journal": "J Bacteriol 184:363-9 (2002) DOI:10.1128/JB.184.2.363-369.2002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11751812",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wyckoff TJ",
+          "Raetz CR",
+          "Jackman JE."
+        ],
+        "title": "Antibacterial and anti-inflammatory agents that target endotoxin.",
+        "journal": "Trends Microbiol 6:154-9 (1998) DOI:10.1016/S0966-842X(98)01230-X",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9587193",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shibayama K",
+          "Ohsuka S",
+          "Tanaka T",
+          "Arakawa Y",
+          "Ohta M."
+        ],
+        "title": "Conserved structural regions involved in the catalytic mechanism of Escherichia coli K-12 WaaO (RfaI).",
+        "journal": "J Bacteriol",
+        "volume": "180",
+        "issue": "",
+        "pages": "5313-8",
+        "year": "1998",
+        "pubmed": "9765561",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00060": "Lipopolysaccharide biosynthesis, KDO2-lipid A [PATH:map00540]",
+      "M00063": "CMP-KDO biosynthesis [PATH:map00540]",
+      "M00064": "ADP-L-glycero-D-manno-heptose biosynthesis [PATH:map00540]",
+      "M00080": "Lipopolysaccharide biosynthesis, inner core => outer core => O-antigen [PATH:map00540]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00540"
+  }
+]

@@ -1,0 +1,424 @@
+[
+  {
+    "entry_id": "map04725",
+    "name": "Cholinergic synapse",
+    "description": "Acetylcholine (ACh) is a neurotransmitter widely distributed in the central (and also peripheral, autonomic and enteric) nervous system (CNS). In the CNS, ACh facilitates many functions, such as learning, memory, attention and motor control. When released in the synaptic cleft, ACh binds to two distinct types of receptors: Ionotropic nicotinic acetylcholine receptors (nAChR) and metabotropic muscarinic acetylcholine receptors (mAChRs). The activation of nAChR by ACh leads to the rapid influx of Na+ and Ca2+ and subsequent cellular depolarization. Activation of mAChRs is relatively slow (milliseconds to seconds) and, depending on the subtypes present (M1-M5), they directly alter cellular homeostasis of phospholipase C, inositol trisphosphate, cAMP, and free calcium. In the cleft, ACh may also be hydrolyzed by acetylcholinesterase (AChE) into choline and acetate. The choline derived from ACh hydrolysis is recovered by a presynaptic high-affinity choline transporter (CHT).",
+    "classes": [
+      "Organismal Systems",
+      "Nervous system"
+    ],
+    "diseases": {
+      "H00215": "Periodic paralysis",
+      "H00746": "Hypokalemic periodic paralysis (HypoPP)",
+      "H00748": "Andersen-Tawil syndrome",
+      "H00749": "Episodic ataxias",
+      "H00770": "Congenital myasthenic syndrome",
+      "H00775": "Hemiplegic migraine",
+      "H00806": "Benign familial neonatal and infantile epilepsies",
+      "H00807": "Autosomal dominant nocturnal frontal lobe epilepsy (ADNFLE)"
+    },
+    "dblinks": {
+      "GO": [
+        "0032222"
+      ]
+    },
+    "pathways": {
+      "map04725": "Cholinergic synapse"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Nestler EJ",
+          "Hyman SE",
+          "Malenka RC."
+        ],
+        "title": "Molecular neuropharmacology: A foundation for clinical neuroscience",
+        "journal": "The McGraw-Hill Companies, Inc.",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2001",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nicholls JG",
+          "Martin AR",
+          "Wallace BG",
+          "Fuchs PA."
+        ],
+        "title": "From neuron to brain, 4th ed.",
+        "journal": "Sunderland, MA: Sinauer associates",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2001",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dajas-Bailador F",
+          "Wonnacott S"
+        ],
+        "title": "Nicotinic acetylcholine receptors and the regulation of neuronal signalling.",
+        "journal": "Trends Pharmacol Sci 25:317-24 (2004) DOI:10.1016/j.tips.2004.04.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15165747",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Resende RR",
+          "Adhikari A"
+        ],
+        "title": "Cholinergic receptor pathways involved in apoptosis, cell proliferation and neuronal differentiation.",
+        "journal": "Cell Commun Signal 7:20 (2009) DOI:10.1186/1478-811X-7-20",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19712465",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Origlia N",
+          "Kuczewski N",
+          "Pesavento E",
+          "Aztiria E",
+          "Domenici L"
+        ],
+        "title": "The role of cholinergic system in neuronal plasticity: focus on visual cortex and muscarinic receptors.",
+        "journal": "Arch Ital Biol",
+        "volume": "146",
+        "issue": "",
+        "pages": "165-88",
+        "year": "2008",
+        "pubmed": "19378880",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Oldenburg IA",
+          "Ding JB"
+        ],
+        "title": "Cholinergic modulation of synaptic integration and dendritic excitability in the striatum.",
+        "journal": "Curr Opin Neurobiol 21:425-32 (2011) DOI:10.1016/j.conb.2011.04.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21550798",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lanzafame AA",
+          "Christopoulos A",
+          "Mitchelson F"
+        ],
+        "title": "Cellular signaling mechanisms for muscarinic acetylcholine receptors.",
+        "journal": "Receptors Channels 9:241-60 (2003) DOI:10.3109/10606820308263",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12893537",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Brown DA"
+        ],
+        "title": "Muscarinic acetylcholine receptors (mAChRs) in the nervous system: some functions and mechanisms.",
+        "journal": "J Mol Neurosci 41:340-6 (2010) DOI:10.1007/s12031-010-9377-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20446119",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chang KT",
+          "Berg DK"
+        ],
+        "title": "Voltage-gated channels block nicotinic regulation of CREB phosphorylation and gene expression in neurons.",
+        "journal": "Neuron 32:855-65 (2001) DOI:10.1016/S0896-6273(01)00516-5",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11738031",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Soreq H",
+          "Seidman S"
+        ],
+        "title": "Acetylcholinesterase--new roles for an old actor.",
+        "journal": "Nat Rev Neurosci 2:294-302 (2001) DOI:10.1038/35067589",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11283752",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sharma G",
+          "Vijayaraghavan S"
+        ],
+        "title": "Nicotinic receptor signaling in nonexcitable cells.",
+        "journal": "J Neurobiol 53:524-34 (2002) DOI:10.1002/neu.10114",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12436417",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Araque A",
+          "Martin ED",
+          "Perea G",
+          "Arellano JI",
+          "Buno W"
+        ],
+        "title": "Synaptically released acetylcholine evokes Ca2+ elevations in astrocytes in hippocampal slices.",
+        "journal": "J Neurosci 22:2443-50 (2002) DOI:10.1523/JNEUROSCI.22-07-02443.2002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11923408",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lucas-Meunier E",
+          "Fossier P",
+          "Baux G",
+          "Amar M"
+        ],
+        "title": "Cholinergic modulation of the cortical neuronal network.",
+        "journal": "Pflugers Arch 446:17-29 (2003) DOI:10.1007/s00424-002-0999-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12690458",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Abreu-Villaca Y",
+          "Filgueiras CC",
+          "Manhaes AC"
+        ],
+        "title": "Developmental aspects of the cholinergic system.",
+        "journal": "Behav Brain Res 221:367-78 (2011) DOI:10.1016/j.bbr.2009.12.049",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20060019",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04725"
+  }
+]

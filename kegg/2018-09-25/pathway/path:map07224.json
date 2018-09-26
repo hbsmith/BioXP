@@ -1,0 +1,181 @@
+[
+  {
+    "entry_id": "map07224",
+    "name": "Opioid receptor agonists/antagonists",
+    "description": "",
+    "classes": [
+
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map07224": "Opioid receptor agonists/antagonists"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Brunton LL",
+          "Lazo JS",
+          "Parker KL."
+        ],
+        "title": "Goodman & Gilman's The Pharmacological Basis of Therapeutics, eleventh edition",
+        "journal": "McGraw-Hill",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2005",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yamakawa K.",
+          "Kanaoka Y.",
+          "Iwasawa Y."
+        ],
+        "title": "[Medicinal Chemistry (5th ed)] (In Japanase)",
+        "journal": "Kodansha Scientific",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+      "C16044": "Nociceptin",
+      "C18010": "Deltorphin A",
+      "C18095": "Deltorphin B",
+      "C18097": "Deltorphin C",
+      "C18128": "Naltrindole",
+      "D00195": "Codeine (USP)",
+      "D00320": "Fentanyl (JAN/USAN/INN)",
+      "D00482": "Propoxyphene hydrochloride (USP)",
+      "D00498": "Pentazocine (JP17/USP/INN)",
+      "D00835": "Alfentanil hydrochloride (USP)",
+      "D00836": "Buprenorphine hydrochloride (JP17/USP)",
+      "D00837": "Butorphanol tartrate (JAN/USP)",
+      "D00839": "Hydromorphone hydrochloride (JAN/USP)",
+      "D00840": "Levomethadyl acetate hydrochloride (USAN)",
+      "D00841": "Levorphanol tartrate (USP)",
+      "D00842": "Morphine sulfate (USP)",
+      "D00843": "Nalbuphine hydrochloride (USAN)",
+      "D00844": "Oxymorphone hydrochloride (USP)",
+      "D00845": "Sufentanil citrate (USP)",
+      "D00847": "Oxycodone hydrochloride (USP)",
+      "D01177": "Remifentanil hydrochloride (JAN/USAN)",
+      "D01340": "Naloxone hydrochloride (JP17/USP)",
+      "D01355": "Tramadol hydrochloride (JAN/USAN)",
+      "D01383": "Meperidine hydrochloride (USP)",
+      "D01399": "Fentanyl citrate (JP17/USP)",
+      "D01481": "Dihydrocodeine phosphate (JP17)",
+      "D01879": "Eptazocine hydrobromide (JAN)",
+      "D02095": "Naltrexone hydrochloride (USP)",
+      "D02101": "Codeine phosphate (USP)",
+      "D02102": "Methadone hydrochloride (JAN/USP)",
+      "D02104": "Nalmefene hydrochloride",
+      "D02111": "Pentazocine lactate (USP)",
+      "D02227": "Pentazocine hydrochloride (JAN/USP)",
+      "D02238": "Levallorphan tartrate (JP17)",
+      "D02271": "Morphine hydrochloride hydrate (JP17)",
+      "D02878": "Alvimopan (USAN)",
+      "D03156": "Brifentanil hydrochloride (USAN)",
+      "D03197": "Butorphanol (USAN/INN)",
+      "D03405": "Carfentanil citrate (USAN)",
+      "D03580": "Codeine sulfate (USP)",
+      "D03618": "Cyclazocine (USAN/INN)",
+      "D03725": "Hydrocodone bitartrate (USP)",
+      "D03783": "Oxycodone terephthalate (USP)",
+      "D03825": "Dihydrocodeine bitartrate (USP)",
+      "D04461": "Hydrocodone polistirex (USAN)",
+      "D04649": "Ketazocine (USAN/INN)",
+      "D04716": "Levomethadyl acetate (USAN)",
+      "D04764": "Lofentanil oxalate (USAN)",
+      "D04973": "Methadyl acetate (USAN)",
+      "D05048": "Mirfentanil hydrochloride (USAN)",
+      "D05111": "Nalmefene (USAN/INN)",
+      "D05113": "Naltrexone (USAN/INN)",
+      "D05217": "Ocfentanil hydrochloride (USAN)",
+      "D05312": "Oxycodone (USAN/INN)",
+      "D05462": "Oxycodone hydrochloride hydrate (JP17)",
+      "D05632": "Propoxyphene napsylate (USAN)",
+      "D05907": "Spiradoline mesylate (USAN)",
+      "D05938": "Sufentanil (USAN/INN)",
+      "D06208": "Trefentanil hydrochloride (USAN)",
+      "D06268": "Trimeperidine (INN)",
+      "D06405": "Nalfurafine hydrochloride (JAN/USAN)",
+      "D06618": "Methylnaltrexone bromide (JAN/USAN)",
+      "D07122": "Alfentanil (INN)",
+      "D07132": "Buprenorphine (JAN/INN)",
+      "D07286": "Diamorphine (BAN)",
+      "D07620": "Carfentanil (INN)",
+      "D07740": "Codeine hydrochloride",
+      "D07809": "Dextropropoxyphene (INN)",
+      "D07810": "Diacetylmorphine hydrochloride",
+      "D07831": "Dihydrocodeine (INN)",
+      "D07832": "Dihydrocodeine thiocyanate",
+      "D07863": "Diprenorphine (INN)",
+      "D07864": "Diprenorphine hydrochloride",
+      "D07904": "Eptazocine (INN)",
+      "D08045": "Hydrocodone (INN)",
+      "D08046": "Hydrocodone hydrochloride",
+      "D08047": "Hydromorphone (INN)",
+      "D08121": "Levomethadone (INN)",
+      "D08122": "Levomethadone hydrochloride",
+      "D08123": "Levorphanol (INN)",
+      "D08195": "Methadone (BAN)",
+      "D08233": "Morphine (BAN)",
+      "D08234": "Morphine tartrate",
+      "D08246": "Nalbuphine (INN)",
+      "D08247": "Nalorphine (INN)",
+      "D08248": "Nalorphine hydrochloride (USP)",
+      "D08249": "Naloxone (INN)",
+      "D08323": "Oxymorphone (INN)",
+      "D08343": "Pethidine (INN)",
+      "D08473": "Remifentanil (INN)",
+      "D08623": "Tramadol (INN)"
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": ""
+  }
+]

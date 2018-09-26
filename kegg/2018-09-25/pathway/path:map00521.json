@@ -1,0 +1,257 @@
+[
+  {
+    "entry_id": "map00521",
+    "name": "Streptomycin biosynthesis",
+    "description": "Streptomycin is an aminocyclitol-aminoglycoside antibiotic produced by Streptomyces griseus. Streptomycin consists of aminocyclitol (streptidine), 6-deoxyhexose (streptose), and N-methyl-L-glucosamine moieties, which are formed by independent biosynthetic pathways. All of the moieties are derived from D-glucose. The streptidine moiety is synthesized via myo-inositol, which is then oxidized at C-1 and transaminated to give scyllo-inosamine. After phosphorylation, the compound is transamidinated by arginine. The same procedure is repeated at the C-3 position. The streptose moiety is made from D-glucose via a dTDP-glucose pathway. The exact biosynthetic route for the N-methyl-L-glucosamine moiety is unknown, though the biosynthetic gene cluster have been proposed.",
+    "classes": [
+      "Metabolism",
+      "Biosynthesis of other secondary metabolites"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0019872"
+      ]
+    },
+    "pathways": {
+      "map00521": "Streptomycin biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Wehmeier UF",
+          "Piepersberg W"
+        ],
+        "title": "Enzymology of aminoglycoside biosynthesis-deduction from gene clusters.",
+        "journal": "Methods Enzymol 459:459-91 (2009) DOI:10.1016/S0076-6879(09)04619-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19362651",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Flatt PM",
+          "Mahmud T"
+        ],
+        "title": "Biosynthesis of aminocyclitol-aminoglycoside antibiotics and related compounds.",
+        "journal": "Nat Prod Rep 24:358-92 (2007) DOI:10.1039/b603816f",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17390001",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Walker JB"
+        ],
+        "title": "Possible evolutionary relationships between streptomycin and bluensomycin biosynthetic pathways: detection of novel inositol kinase and O-carbamoyltransferase activities.",
+        "journal": "J Bacteriol 172:5844-51 (1990) DOI:10.1128/JB.172.10.5844-5851.1990",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "1698764",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ohnuki T",
+          "Imanaka T",
+          "Aiba S"
+        ],
+        "title": "Self-cloning in Streptomyces griseus of an str gene cluster for streptomycin biosynthesis and streptomycin resistance.",
+        "journal": "J Bacteriol",
+        "volume": "164",
+        "issue": "",
+        "pages": "85-94",
+        "year": "1985",
+        "pubmed": "2995326",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ahlert J",
+          "Distler J",
+          "Mansouri K",
+          "Piepersberg W"
+        ],
+        "title": "Identification of stsC, the gene encoding the L-glutamine:scyllo-inosose aminotransferase from streptomycin-producing Streptomycetes.",
+        "journal": "Arch Microbiol 168:102-13 (1997) DOI:10.1007/s002030050475",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9238101",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Distler J",
+          "Mansouri K",
+          "Mayer G",
+          "Stockmann M",
+          "Piepersberg W"
+        ],
+        "title": "Streptomycin biosynthesis and its regulation in Streptomycetes.",
+        "journal": "Gene 115:105-11 (1992) DOI:10.1016/0378-1119(92)90547-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "1377151",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mansouri K",
+          "Piepersberg W."
+        ],
+        "title": "Genetics of streptomycin production in Streptomyces griseus: nucleotide sequence of five genes, strFGHIK, including a phosphatase gene.",
+        "journal": "Mol Gen Genet 228:459-69 (1991) DOI:10.1007/BF00260640",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "1654502",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fritsche E",
+          "Bergner A",
+          "Humm A",
+          "Piepersberg W",
+          "Huber R"
+        ],
+        "title": "Crystal structure of L-arginine:inosamine-phosphate amidinotransferase StrB1 from Streptomyces griseus: an enzyme involved in streptomycin biosynthesis.",
+        "journal": "Biochemistry 37:17664-72 (1998) DOI:10.1021/bi981949p",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9922132",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00793": "dTDP-L-rhamnose biosynthesis [PATH:map00521]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00521"
+  }
+]

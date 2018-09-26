@@ -1,0 +1,188 @@
+[
+  {
+    "entry_id": "map00627",
+    "name": "Aminobenzoate degradation",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Xenobiotics biodegradation and metabolism"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0043421"
+      ],
+      "UMBBD": [
+        "dcz",
+        "2,4-d",
+        "pcp",
+        "2,4,5-t",
+        "box",
+        "dca"
+      ]
+    },
+    "pathways": {
+      "map00627": "Aminobenzoate degradation"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Fewson CA"
+        ],
+        "title": "Microbial metabolism of mandelate: a microcosm of diversity.",
+        "journal": "FEMS Microbiol Rev 4:85-110 (1988) DOI:10.1111/j.1574-6968.1988.tb02737.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "3078743",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "McLeish MJ",
+          "Kneen MM",
+          "Gopalakrishna KN",
+          "Koo CW",
+          "Babbitt PC",
+          "Gerlt JA",
+          "Kenyon GL"
+        ],
+        "title": "Identification and characterization of a mandelamide hydrolase and an NAD(P)+-dependent benzaldehyde dehydrogenase from Pseudomonas putida ATCC 12633.",
+        "journal": "J Bacteriol 185:2451-6 (2003) DOI:10.1128/JB.185.8.2451-2456.2003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12670968",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shimao M",
+          "Nakamura T",
+          "Okuda A",
+          "Harayama S."
+        ],
+        "title": "Characteristics of transposon insertion mutants of mandelic acid-utilizing Pseudomonas putida strain A10L.",
+        "journal": "Biosci Biotechnol Biochem 60:1051-5 (1996) DOI:10.1271/bbb.60.1051",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "8782397",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Naidu D",
+          "Ragsdale SW."
+        ],
+        "title": "Characterization of a three-component vanillate O-demethylase from Moorella thermoacetica.",
+        "journal": "J Bacteriol 183:3276-81 (2001) DOI:10.1128/JB.183.11.3276-3281.2001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11344134",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Toraya T",
+          "Oka T",
+          "Ando M",
+          "Yamanishi M",
+          "Nishihara H."
+        ],
+        "title": "Novel pathway for utilization of cyclopropanecarboxylate by Rhodococcus rhodochrous.",
+        "journal": "Appl Environ Microbiol 70:224-8 (2004) DOI:10.1128/AEM.70.1.224-228.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14711645",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00637": "Anthranilate degradation, anthranilate => catechol [PATH:map00627]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00627"
+  }
+]

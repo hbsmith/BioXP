@@ -1,0 +1,281 @@
+[
+  {
+    "entry_id": "map04112",
+    "name": "Cell cycle - Caulobacter",
+    "description": "Cell cycle progression of Caulobacter crescentus is implemented by an elaborate transcriptional regulatory network. During the life cycle, Caulobacter divides asymmetrically producing two distinct cell types with specialized development programs. The sessile stalked cell immediately initiates a new round of division cycle, whereas the motile swarmer cell remains in the G1 phase for a defined interval before differentiating into the stalked cell and entering into the S phase. The division process is centered around three master regulator proteins, DnaA, GcrA, and CtrA. DnaA and GcrA together drive the synthesis of proteins needed to complete DNA replication. CtrA controls the transcription of a diverse group of genes, which are required for essential morphological, metabolic, and cell cycle events.",
+    "classes": [
+      "Cellular Processes",
+      "Cell growth and death"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0000278"
+      ]
+    },
+    "pathways": {
+      "map04112": "Cell cycle - Caulobacter"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Shen X",
+          "Collier J",
+          "Dill D",
+          "Shapiro L",
+          "Horowitz M",
+          "McAdams HH"
+        ],
+        "title": "Architecture and inherent robustness of a bacterial cell-cycle control system.",
+        "journal": "Proc Natl Acad Sci U S A 105:11340-5 (2008) DOI:10.1073/pnas.0805258105",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18685108",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Curtis PD",
+          "Brun YV"
+        ],
+        "title": "Getting in the loop: regulation of development in Caulobacter crescentus.",
+        "journal": "Microbiol Mol Biol Rev 74:13-41 (2010) DOI:10.1128/MMBR.00040-09",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20197497",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Skerker JM",
+          "Laub MT"
+        ],
+        "title": "Cell-cycle progression and the generation of asymmetry in Caulobacter crescentus.",
+        "journal": "Nat Rev Microbiol 2:325-37 (2004) DOI:10.1038/nrmicro864",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15031731",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jenal U",
+          "Galperin MY"
+        ],
+        "title": "Single domain response regulators: molecular switches with emerging roles in cell organization and dynamics.",
+        "journal": "Curr Opin Microbiol 12:152-60 (2009) DOI:10.1016/j.mib.2009.01.010",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19246239",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Thanbichler M"
+        ],
+        "title": "Spatial regulation in Caulobacter crescentus.",
+        "journal": "Curr Opin Microbiol 12:715-21 (2009) DOI:10.1016/j.mib.2009.09.013",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19854671",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jenal U"
+        ],
+        "title": "The role of proteolysis in the Caulobacter crescentus cell cycle and development.",
+        "journal": "Res Microbiol 160:687-95 (2009) DOI:10.1016/j.resmic.2009.09.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19781638",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hengge R"
+        ],
+        "title": "Principles of c-di-GMP signalling in bacteria.",
+        "journal": "Nat Rev Microbiol 7:263-73 (2009) DOI:10.1038/nrmicro2109",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19287449",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Goley ED",
+          "Toro E",
+          "McAdams HH",
+          "Shapiro L"
+        ],
+        "title": "Dynamic chromosome organization and protein localization coordinate the regulatory circuitry that drives the bacterial cell cycle.",
+        "journal": "Cold Spring Harb Symp Quant Biol 74:55-64 (2009) DOI:10.1101/sqb.2009.74.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19687139",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Li S",
+          "Brazhnik P",
+          "Sobral B",
+          "Tyson JJ"
+        ],
+        "title": "Temporal controls of the asymmetric cell division cycle in Caulobacter crescentus.",
+        "journal": "PLoS Comput Biol 5:e1000463 (2009) DOI:10.1371/journal.pcbi.1000463",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19680425",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00511": "PleC-PleD (cell fate control) two-component regulatory system [PATH:map04112]",
+      "M00512": "CckA-CtrA/CpdR (cell cycle control) two-component regulatory system [PATH:map04112]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04112"
+  }
+]

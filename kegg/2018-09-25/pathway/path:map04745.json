@@ -1,0 +1,463 @@
+[
+  {
+    "entry_id": "map04745",
+    "name": "Phototransduction - fly",
+    "description": "Phototransduction is the process that converts the signal of light (photons) into a change of membrane potential in photoreceptor cells. Drosophila visual signaling is initiated with the activation of rhodopsin by light. Rhodopsin is composed of a protein, opsin, covalently linked to a chromophore, 3-hydroxy-11-cis-retinal. Upon absorption of a light photon the chromophore is isomerized from the 11-cis to the all-trans configuration which induces a structural change that activates the opsin. This photoconversion activates heterotrimeric Gq protein via GTP-GDP exchange, releasing the G(alpha)q subunit. G(alpha)q activates PLC, generating InsP3 and DAG from PIP2. DAG may further release polyunsaturated fatty acids (PUFAs) via action of DAG lipase. This reaction leads to the opening of cation-selective channels (trp and trpl genes) and causes the depolarization of the photoreceptor cells. The transduction proteins rhodopsin, G(alpha)q, PLC, PKC, TRP, and TRPL are coordinated by a polymer of INAD scaffold proteins.",
+    "classes": [
+      "Organismal Systems",
+      "Sensory system"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map04745": "Phototransduction - fly"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Katz B",
+          "Minke B"
+        ],
+        "title": "Drosophila photoreceptors and signaling mechanisms.",
+        "journal": "Front Cell Neurosci 3:2 (2009) DOI:10.3389/neuro.03.002.2009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19623243",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Borst A"
+        ],
+        "title": "Drosophila's view on insect vision.",
+        "journal": "Curr Biol 19:R36-47 (2009) DOI:10.1016/j.cub.2008.11.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19138592",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yau KW",
+          "Hardie RC"
+        ],
+        "title": "Phototransduction motifs and variations.",
+        "journal": "Cell 139:246-64 (2009) DOI:10.1016/j.cell.2009.09.029",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19837030",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Frings S"
+        ],
+        "title": "Primary processes in sensory cells: current advances.",
+        "journal": "J Comp Physiol A Neuroethol Sens Neural Behav Physiol 195:1-19 (2009) DOI:10.1007/s00359-008-0389-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19011871",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang T",
+          "Montell C"
+        ],
+        "title": "Phototransduction and retinal degeneration in Drosophila.",
+        "journal": "Pflugers Arch 454:821-47 (2007) DOI:10.1007/s00424-007-0251-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17487503",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hardie RC"
+        ],
+        "title": "TRP channels in Drosophila photoreceptors: the lipid connection.",
+        "journal": "Cell Calcium 33:385-93 (2003) DOI:10.1016/S0143-4160(03)00051-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12765684",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Minke B",
+          "Parnas M"
+        ],
+        "title": "Insights on TRP channels from in vivo studies in Drosophila.",
+        "journal": "Annu Rev Physiol 68:649-84 (2006) DOI:10.1146/annurev.physiol.68.040204.100939",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16460287",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Montell C"
+        ],
+        "title": "Visual transduction in Drosophila.",
+        "journal": "Annu Rev Cell Dev Biol 15:231-68 (1999) DOI:10.1146/annurev.cellbio.15.1.231",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10611962",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fain GL",
+          "Hardie R",
+          "Laughlin SB"
+        ],
+        "title": "Phototransduction and the evolution of photoreceptors.",
+        "journal": "Curr Biol 20:R114-24 (2010) DOI:10.1016/j.cub.2009.12.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20144772",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kim C"
+        ],
+        "title": "Transient receptor potential ion channels and animal sensation: lessons from Drosophila functional research.",
+        "journal": "J Biochem Mol Biol",
+        "volume": "37",
+        "issue": "",
+        "pages": "114-21",
+        "year": "2004",
+        "pubmed": "14761309",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Montell C"
+        ],
+        "title": "In search of the holy grail for Drosophila TRP.",
+        "journal": "Neuron 58:825-7 (2008) DOI:10.1016/j.neuron.2008.06.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18579072",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Osorio D",
+          "Nilsson DE"
+        ],
+        "title": "Visual pigments: trading noise for fast recovery.",
+        "journal": "Curr Biol 14:R1051-3 (2004) DOI:10.1016/j.cub.2004.11.044",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15620638",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang X",
+          "Wang T",
+          "Jiao Y",
+          "von Lintig J",
+          "Montell C"
+        ],
+        "title": "Requirement for an enzymatic visual cycle in Drosophila.",
+        "journal": "Curr Biol 20:93-102 (2010) DOI:10.1016/j.cub.2009.12.022",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20045325",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Liu CH",
+          "Satoh AK",
+          "Postma M",
+          "Huang J",
+          "Ready DF",
+          "Hardie RC"
+        ],
+        "title": "Ca2+-dependent metarhodopsin inactivation mediated by calmodulin and NINAC myosin III.",
+        "journal": "Neuron 59:778-89 (2008) DOI:10.1016/j.neuron.2008.07.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18786361",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Leung HT",
+          "Tseng-Crank J",
+          "Kim E",
+          "Mahapatra C",
+          "Shino S",
+          "Zhou Y",
+          "An L",
+          "Doerge RW",
+          "Pak WL"
+        ],
+        "title": "DAG lipase activity is necessary for TRP channel regulation in Drosophila photoreceptors.",
+        "journal": "Neuron 58:884-96 (2008) DOI:10.1016/j.neuron.2008.05.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18579079",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Popescu DC",
+          "Ham AJ",
+          "Shieh BH"
+        ],
+        "title": "Scaffolding protein INAD regulates deactivation of vision by promoting phosphorylation of transient receptor potential by eye protein kinase C in Drosophila.",
+        "journal": "J Neurosci 26:8570-7 (2006) DOI:10.1523/JNEUROSCI.1478-06.2006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16914683",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04745"
+  }
+]

@@ -1,0 +1,421 @@
+[
+  {
+    "entry_id": "map04724",
+    "name": "Glutamatergic synapse",
+    "description": "Glutamate is the major excitatory neurotransmitter in the mammalian central nervous system(CNS). Glutamate is packaged into synaptic vesicles in the presynaptic terminal. Once released into the synaptic cleft, glutamate acts on postsynaptic ionotropic glutamate receptors (iGluRs) to mediate fast excitatory synaptic transmission. Glutamate can also act on metabotropic glutamate receptors (mGluRs) and exert a variety of modulatory effects through their coupling to G proteins and the subsequent recruitment of second messenger systems. Presynaptically localized Group II and Group III mGluRs are thought to represent the classical inhibitory autoreceptor mechanism that suppresses excess glutamate release. After its action on these receptors, glutamate can be removed from the synaptic cleft by EAATs located either on the presynaptic terminal, neighboring glial cells, or the postsynaptic neuron. In glia, glutamate is converted to glutamine, which is then transported back to the presynaptic terminal and converted back to glutamate.",
+    "classes": [
+      "Organismal Systems",
+      "Nervous system"
+    ],
+    "diseases": {
+      "H00606": "Early infantile epileptic encephalopathy",
+      "H00749": "Episodic ataxias",
+      "H00775": "Hemiplegic migraine",
+      "H00787": "Congenital stationary night blindness",
+      "H00911": "Dicarboxylic aminoaciduria",
+      "H00923": "Congenital systemic glutamine deficiency",
+      "H01238": "Phelan-McDermid syndrome",
+      "H01450": "Obsessive-compulsive disorder",
+      "H01827": "Epileptic encephalopathy with continuous spike-waves during slow-wave sleep",
+      "H02111": "Autism"
+    },
+    "dblinks": {
+      "GO": [
+        "0051966"
+      ]
+    },
+    "pathways": {
+      "map04724": "Glutamatergic synapse"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Niswender CM",
+          "Conn PJ"
+        ],
+        "title": "Metabotropic glutamate receptors: physiology, pharmacology, and disease.",
+        "journal": "Annu Rev Pharmacol Toxicol 50:295-322 (2010) DOI:10.1146/annurev.pharmtox.011008.145533",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20055706",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ferraguti F",
+          "Crepaldi L",
+          "Nicoletti F"
+        ],
+        "title": "Metabotropic glutamate 1 receptor: current concepts and perspectives.",
+        "journal": "Pharmacol Rev 60:536-81 (2008) DOI:10.1124/pr.108.000166",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19112153",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hermans E",
+          "Challiss RA"
+        ],
+        "title": "Structural, signalling and regulatory properties of the group I metabotropic glutamate receptors: prototypic family C G-protein-coupled receptors.",
+        "journal": "Biochem J 359:465-84 (2001) DOI:10.1042/bj3590465",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11672421",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kim CH",
+          "Lee J",
+          "Lee JY",
+          "Roche KW"
+        ],
+        "title": "Metabotropic glutamate receptors: phosphorylation and receptor signaling.",
+        "journal": "J Neurosci Res 86:1-10 (2008) DOI:10.1002/jnr.21437",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17663464",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Meador-Woodruff JH",
+          "Clinton SM",
+          "Beneyto M",
+          "McCullumsmith RE"
+        ],
+        "title": "Molecular abnormalities of the glutamate synapse in the thalamus in schizophrenia.",
+        "journal": "Ann N Y Acad Sci 1003:75-93 (2003) DOI:10.1196/annals.1300.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14684436",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sanacora G",
+          "Zarate CA",
+          "Krystal JH",
+          "Manji HK"
+        ],
+        "title": "Targeting the glutamatergic system to develop novel, improved therapeutics for mood disorders.",
+        "journal": "Nat Rev Drug Discov 7:426-37 (2008) DOI:10.1038/nrd2462",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18425072",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gass JT",
+          "Olive MF"
+        ],
+        "title": "Glutamatergic substrates of drug addiction and alcoholism.",
+        "journal": "Biochem Pharmacol 75:218-65 (2008) DOI:10.1016/j.bcp.2007.06.039",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17706608",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Palmada M",
+          "Centelles JJ"
+        ],
+        "title": "Excitatory amino acid neurotransmission. Pathways for metabolism, storage and reuptake of glutamate in brain.",
+        "journal": "Front Biosci 3:d701-18",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1998",
+        "pubmed": "9665875",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schoepp DD"
+        ],
+        "title": "Unveiling the functions of presynaptic metabotropic glutamate receptors in the central nervous system.",
+        "journal": "J Pharmacol Exp Ther",
+        "volume": "299",
+        "issue": "",
+        "pages": "12-20",
+        "year": "2001",
+        "pubmed": "11561058",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "de Jong AP",
+          "Verhage M"
+        ],
+        "title": "Presynaptic signal transduction pathways that modulate synaptic transmission.",
+        "journal": "Curr Opin Neurobiol 19:245-53 (2009) DOI:10.1016/j.conb.2009.06.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19559598",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pinheiro PS",
+          "Mulle C"
+        ],
+        "title": "Presynaptic glutamate receptors: physiological functions and mechanisms of action.",
+        "journal": "Nat Rev Neurosci 9:423-36 (2008) DOI:10.1038/nrn2379",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18464791",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Byrnes KR",
+          "Loane DJ",
+          "Faden AI"
+        ],
+        "title": "Metabotropic glutamate receptors as targets for multipotential treatment of neurological disorders.",
+        "journal": "Neurotherapeutics 6:94-107 (2009) DOI:10.1016/j.nurt.2008.10.038",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19110202",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Conti F",
+          "Weinberg RJ"
+        ],
+        "title": "Shaping excitation at glutamatergic synapses.",
+        "journal": "Trends Neurosci 22:451-8 (1999) DOI:10.1016/S0166-2236(99)01445-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10481192",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sheng M",
+          "Kim MJ"
+        ],
+        "title": "Postsynaptic signaling and plasticity mechanisms.",
+        "journal": "Science 298:776-80 (2002) DOI:10.1126/science.1075333",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12399578",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04724"
+  }
+]

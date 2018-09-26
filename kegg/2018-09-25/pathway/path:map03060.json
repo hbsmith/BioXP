@@ -1,0 +1,375 @@
+[
+  {
+    "entry_id": "map03060",
+    "name": "Protein export",
+    "description": "The protein export is the active transport of proteins from the cytoplasm to the exterior of the cell, or to the periplasmic compartment in Gram-negative bacteria. The sec dependent pathway is the general protein export system that transports newly synthesized proteins into or across the cell membrane. The translocation channel is formed from a conserved trimeric membrane protein complex, called the Sec61/SecY complex. The twin-arginine translocation (Tat) pathway is another protein transport system that transports folded proteins in bacteria, archaea, and chloroplasts. Many Tat systems comprise three functionally different membrane proteins, TatA, TatB, and TatC, but TatA and TatE seem to have overlapping functions, with TatA having by far the more important role.",
+    "classes": [
+      "Genetic Information Processing",
+      "Folding, sorting and degradation"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0043952",
+        "0043953"
+      ]
+    },
+    "pathways": {
+      "map03060": "Protein export"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Dalbey RE",
+          "Robinson C."
+        ],
+        "title": "Protein translocation into and across the bacterial plasma membrane and the plant thylakoid membrane.",
+        "journal": "Trends Biochem Sci 24:17-22 (1999) DOI:10.1016/S0968-0004(98)01333-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10087917",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Berks BC",
+          "Sargent F",
+          "Palmer T."
+        ],
+        "title": "The Tat protein export pathway.",
+        "journal": "Mol Microbiol 35:260-74 (2000) DOI:10.1046/j.1365-2958.2000.01719.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10652088",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wexler M",
+          "Sargent F",
+          "Jack RL",
+          "Stanley NR",
+          "Bogsch EG",
+          "Robinson C",
+          "Berks BC",
+          "Palmer T."
+        ],
+        "title": "TatD is a cytoplasmic protein with DNase activity. No requirement for TatD family proteins in sec-independent protein export.",
+        "journal": "J Biol Chem 275:16717-22 (2000) DOI:10.1074/jbc.M000800200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10747959",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jongbloed JD",
+          "Martin U",
+          "Antelmann H",
+          "Hecker M",
+          "Tjalsma H",
+          "Venema G",
+          "Bron S",
+          "van Dijl JM",
+          "Muller J."
+        ],
+        "title": "TatC is a specificity determinant for protein secretion via the twin-arginine translocation pathway.",
+        "journal": "J Biol Chem 275:41350-7 (2000) DOI:10.1074/jbc.M004887200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11007775",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rapoport TA"
+        ],
+        "title": "Protein translocation across the eukaryotic endoplasmic reticulum and bacterial plasma membranes.",
+        "journal": "Nature 450:663-9 (2007) DOI:10.1038/nature06384",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18046402",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Flower AM"
+        ],
+        "title": "The SecY translocation complex: convergence of genetics and structure.",
+        "journal": "Trends Microbiol 15:203-10 (2007) DOI:10.1016/j.tim.2007.03.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17368028",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Osborne AR",
+          "Rapoport TA",
+          "van den Berg B"
+        ],
+        "title": "Protein translocation by the Sec61/SecY channel.",
+        "journal": "Annu Rev Cell Dev Biol 21:529-50 (2005) DOI:10.1146/annurev.cellbio.21.012704.133214",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16212506",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Paetzel M",
+          "Karla A",
+          "Strynadka NC",
+          "Dalbey RE"
+        ],
+        "title": "Signal peptidases.",
+        "journal": "Chem Rev 102:4549-80 (2002) DOI:10.1021/cr010166y",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12475201",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Paetzel M",
+          "Dalbey RE",
+          "Strynadka NC"
+        ],
+        "title": "The structure and mechanism of bacterial type I signal peptidases. A novel antibiotic target.",
+        "journal": "Pharmacol Ther 87:27-49 (2000) DOI:10.1016/S0163-7258(00)00064-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10924740",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ng SY",
+          "Chaban B",
+          "VanDyke DJ",
+          "Jarrell KF"
+        ],
+        "title": "Archaeal signal peptidases.",
+        "journal": "Microbiology 153:305-14 (2007) DOI:10.1099/mic.0.2006/003087-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17259602",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Desvaux M",
+          "Hebraud M",
+          "Talon R",
+          "Henderson IR"
+        ],
+        "title": "Secretion and subcellular localizations of bacterial proteins: a semantic awareness issue.",
+        "journal": "Trends Microbiol 17:139-45 (2009) DOI:10.1016/j.tim.2009.01.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19299134",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nakatogawa H",
+          "Murakami A",
+          "Ito K"
+        ],
+        "title": "Control of SecA and SecM translation by protein secretion.",
+        "journal": "Curr Opin Microbiol 7:145-50 (2004) DOI:10.1016/j.mib.2004.01.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15063851",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00401": "Sec61 complex [PATH:map03060]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko03060"
+  }
+]

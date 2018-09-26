@@ -1,0 +1,945 @@
+[
+  {
+    "entry_id": "map05150",
+    "name": "Staphylococcus aureus infection",
+    "description": "Staphylococcus aureus can cause multiple forms of infections ranging from superficial skin infections to food poisoning and life-threatening infections. The organism has several ways to divert the effectiveness of the immune system: secreting immune modulating proteins that inhibit complement activation and neutrophil chemotaxis or lysis, modulating the sensitivity to cationic antimicrobial peptides (such as defensin) by increasing the positive net charge of its cytoplasmic membrane, and expression of superantigens that prevent development of a normal immune response or cause an emetic response when ingested.",
+    "classes": [
+      "Human Diseases",
+      "Infectious diseases: Bacterial"
+    ],
+    "diseases": {
+      "H00330": "Methicillin-resistant Staphylococcal aureus (MRSA) infection",
+      "H00331": "Vancomycin-resistant Staphylococcal aureus (VRSA) infection",
+      "H01409": "Methicillin-sensitive Staphylococcus aureus (MSSA) infection"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05150": "Staphylococcus aureus infection"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Foster TJ"
+        ],
+        "title": "Colonization and infection of the human host by staphylococci: adhesion, survival and immune evasion.",
+        "journal": "Vet Dermatol 20:456-70 (2009) DOI:10.1111/j.1365-3164.2009.00825.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20178484",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Foster TJ"
+        ],
+        "title": "Immune evasion by staphylococci.",
+        "journal": "Nat Rev Microbiol 3:948-58 (2005) DOI:10.1038/nrmicro1289",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16322743",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Laarman A",
+          "Milder F",
+          "van Strijp J",
+          "Rooijakkers S"
+        ],
+        "title": "Complement inhibition by gram-positive pathogens: molecular mechanisms and therapeutic implications.",
+        "journal": "J Mol Med 88:115-20 (2010) DOI:10.1007/s00109-009-0572-y",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20062962",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rooijakkers SH",
+          "van Kessel KP",
+          "van Strijp JA"
+        ],
+        "title": "Staphylococcal innate immune evasion.",
+        "journal": "Trends Microbiol 13:596-601 (2005) DOI:10.1016/j.tim.2005.10.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16242332",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Iwatsuki K",
+          "Yamasaki O",
+          "Morizane S",
+          "Oono T"
+        ],
+        "title": "Staphylococcal cutaneous infections: invasion, evasion and aggression.",
+        "journal": "J Dermatol Sci 42:203-14 (2006) DOI:10.1016/j.jdermsci.2006.03.011",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16679003",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Torres BA",
+          "Kominsky S",
+          "Perrin GQ",
+          "Hobeika AC",
+          "Johnson HM"
+        ],
+        "title": "Superantigens: the good, the bad, and the ugly.",
+        "journal": "Exp Biol Med (Maywood) 226:164-76 (2001) DOI:10.1177/153537020122600303",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11361034",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Atkins KL",
+          "Burman JD",
+          "Chamberlain ES",
+          "Cooper JE",
+          "Poutrel B",
+          "Bagby S",
+          "Jenkins AT",
+          "Feil EJ",
+          "van den Elsen JM"
+        ],
+        "title": "S. aureus IgG-binding proteins SpA and Sbi: host specificity and mechanisms of immune complex formation.",
+        "journal": "Mol Immunol 45:1600-11 (2008) DOI:10.1016/j.molimm.2007.10.021",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18061675",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Silverman GJ",
+          "Goodyear CS"
+        ],
+        "title": "Confounding B-cell defences: lessons from a staphylococcal superantigen.",
+        "journal": "Nat Rev Immunol 6:465-75 (2006) DOI:10.1038/nri1853",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16724100",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Goodyear CS",
+          "Silverman GJ"
+        ],
+        "title": "Staphylococcal toxin induced preferential and prolonged in vivo deletion of innate-like B lymphocytes.",
+        "journal": "Proc Natl Acad Sci U S A 101:11392-7 (2004) DOI:10.1073/pnas.0404382101",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15273292",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Haupt K",
+          "Reuter M",
+          "van den Elsen J",
+          "Burman J",
+          "Halbich S",
+          "Richter J",
+          "Skerka C",
+          "Zipfel PF"
+        ],
+        "title": "The Staphylococcus aureus protein Sbi acts as a complement inhibitor and forms a tripartite complex with host complement Factor H and C3b.",
+        "journal": "PLoS Pathog 4:e1000250 (2008) DOI:10.1371/journal.ppat.1000250",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19112495",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bokarewa MI",
+          "Jin T",
+          "Tarkowski A"
+        ],
+        "title": "Staphylococcus aureus: Staphylokinase.",
+        "journal": "Int J Biochem Cell Biol 38:504-9 (2006) DOI:10.1016/j.biocel.2005.07.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16111912",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rooijakkers SH",
+          "Ruyken M",
+          "Roos A",
+          "Daha MR",
+          "Presanis JS",
+          "Sim RB",
+          "van Wamel WJ",
+          "van Kessel KP",
+          "van Strijp JA"
+        ],
+        "title": "Immune evasion by a staphylococcal complement inhibitor that acts on C3 convertases.",
+        "journal": "Nat Immunol 6:920-7 (2005) DOI:10.1038/ni1235",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16086019",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rooijakkers SH",
+          "Wu J",
+          "Ruyken M",
+          "van Domselaar R",
+          "Planken KL",
+          "Tzekou A",
+          "Ricklin D",
+          "Lambris JD",
+          "Janssen BJ",
+          "van Strijp JA",
+          "Gros P"
+        ],
+        "title": "Structural and functional implications of the alternative complement pathway C3 convertase stabilized by a staphylococcal inhibitor.",
+        "journal": "Nat Immunol 10:721-7 (2009) DOI:10.1038/ni.1756",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19503103",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jongerius I",
+          "Kohl J",
+          "Pandey MK",
+          "Ruyken M",
+          "van Kessel KP",
+          "van Strijp JA",
+          "Rooijakkers SH"
+        ],
+        "title": "Staphylococcal complement evasion by various convertase-blocking molecules.",
+        "journal": "J Exp Med 204:2461-71 (2007) DOI:10.1084/jem.20070818",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17893203",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hair PS",
+          "Ward MD",
+          "Semmes OJ",
+          "Foster TJ",
+          "Cunnion KM"
+        ],
+        "title": "Staphylococcus aureus clumping factor A binds to complement regulator factor I and increases factor I cleavage of C3b.",
+        "journal": "J Infect Dis 198:125-33 (2008) DOI:10.1086/588825",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18544012",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Higgins J",
+          "Loughman A",
+          "van Kessel KP",
+          "van Strijp JA",
+          "Foster TJ"
+        ],
+        "title": "Clumping factor A of Staphylococcus aureus inhibits phagocytosis by human polymorphonuclear leucocytes.",
+        "journal": "FEMS Microbiol Lett 258:290-6 (2006) DOI:10.1111/j.1574-6968.2006.00229.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16640587",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Laursen NS",
+          "Gordon N",
+          "Hermans S",
+          "Lorenz N",
+          "Jackson N",
+          "Wines B",
+          "Spillner E",
+          "Christensen JB",
+          "Jensen M",
+          "Fredslund F",
+          "Bjerre M",
+          "Sottrup-Jensen L",
+          "Fraser JD",
+          "Andersen GR"
+        ],
+        "title": "Structural basis for inhibition of complement C5 by the SSL7 protein from Staphylococcus aureus.",
+        "journal": "Proc Natl Acad Sci U S A 107:3681-6 (2010) DOI:10.1073/pnas.0910565107",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20133685",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ramsland PA",
+          "Willoughby N",
+          "Trist HM",
+          "Farrugia W",
+          "Hogarth PM",
+          "Fraser JD",
+          "Wines BD"
+        ],
+        "title": "Structural basis for evasion of IgA immunity by Staphylococcus aureus revealed in the complex of SSL7 with Fc of human IgA1.",
+        "journal": "Proc Natl Acad Sci U S A 104:15051-6 (2007) DOI:10.1073/pnas.0706028104",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17848512",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "de Haas CJ",
+          "Veldkamp KE",
+          "Peschel A",
+          "Weerkamp F",
+          "Van Wamel WJ",
+          "Heezius EC",
+          "Poppelier MJ",
+          "Van Kessel KP",
+          "van Strijp JA"
+        ],
+        "title": "Chemotaxis inhibitory protein of Staphylococcus aureus, a bacterial antiinflammatory agent.",
+        "journal": "J Exp Med 199:687-95 (2004) DOI:10.1084/jem.20031636",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14993252",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Prat C",
+          "Bestebroer J",
+          "de Haas CJ",
+          "van Strijp JA",
+          "van Kessel KP"
+        ],
+        "title": "A new staphylococcal anti-inflammatory protein that antagonizes the formyl peptide receptor-like 1.",
+        "journal": "J Immunol 177:8017-26 (2006) DOI:10.4049/jimmunol.177.11.8017",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17114475",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bestebroer J",
+          "Poppelier MJ",
+          "Ulfman LH",
+          "Lenting PJ",
+          "Denis CV",
+          "van Kessel KP",
+          "van Strijp JA",
+          "de Haas CJ"
+        ],
+        "title": "Staphylococcal superantigen-like 5 binds PSGL-1 and inhibits P-selectin-mediated neutrophil rolling.",
+        "journal": "Blood 109:2936-43 (2007) DOI:10.1182/blood-2006-06-015461",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17132726",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chung MC",
+          "Wines BD",
+          "Baker H",
+          "Langley RJ",
+          "Baker EN",
+          "Fraser JD"
+        ],
+        "title": "The crystal structure of staphylococcal superantigen-like protein 11 in complex with sialyl Lewis X reveals the mechanism for cell binding and immune inhibition.",
+        "journal": "Mol Microbiol 66:1342-55 (2007) DOI:10.1111/j.1365-2958.2007.05989.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18045383",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chavakis T",
+          "Hussain M",
+          "Kanse SM",
+          "Peters G",
+          "Bretzel RG",
+          "Flock JI",
+          "Herrmann M",
+          "Preissner KT"
+        ],
+        "title": "Staphylococcus aureus extracellular adherence protein serves as anti-inflammatory factor by inhibiting the recruitment of host leukocytes.",
+        "journal": "Nat Med 8:687-93 (2002) DOI:10.1038/nm728",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12091905",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Li M",
+          "Lai Y",
+          "Villaruz AE",
+          "Cha DJ",
+          "Sturdevant DE",
+          "Otto M"
+        ],
+        "title": "Gram-positive three-component antimicrobial peptide-sensing system.",
+        "journal": "Proc Natl Acad Sci U S A 104:9469-74 (2007) DOI:10.1073/pnas.0702159104",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17517597",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sieprawska-Lupa M",
+          "Mydel P",
+          "Krawczyk K",
+          "Wojcik K",
+          "Puklo M",
+          "Lupa B",
+          "Suder P",
+          "Silberring J",
+          "Reed M",
+          "Pohl J",
+          "Shafer W",
+          "McAleese F",
+          "Foster T",
+          "Travis J",
+          "Potempa J"
+        ],
+        "title": "Degradation of human antimicrobial peptide LL-37 by Staphylococcus aureus-derived proteinases.",
+        "journal": "Antimicrob Agents Chemother 48:4673-9 (2004) DOI:10.1128/AAC.48.12.4673-4679.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15561843",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fraser JD",
+          "Proft T"
+        ],
+        "title": "The bacterial superantigen and superantigen-like proteins.",
+        "journal": "Immunol Rev 225:226-43 (2008) DOI:10.1111/j.1600-065X.2008.00681.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18837785",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yamaguchi T",
+          "Nishifuji K",
+          "Sasaki M",
+          "Fudaba Y",
+          "Aepfelbacher M",
+          "Takata T",
+          "Ohara M",
+          "Komatsuzawa H",
+          "Amagai M",
+          "Sugai M"
+        ],
+        "title": "Identification of the Staphylococcus aureus etd pathogenicity island which encodes a novel exfoliative toxin, ETD, and EDIN-B.",
+        "journal": "Infect Immun 70:5835-45 (2002) DOI:10.1128/IAI.70.10.5835-5845.2002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12228315",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pazgier M",
+          "Hoover DM",
+          "Yang D",
+          "Lu W",
+          "Lubkowski J"
+        ],
+        "title": "Human beta-defensins.",
+        "journal": "Cell Mol Life Sci 63:1294-313 (2006) DOI:10.1007/s00018-005-5540-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16710608",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang Q",
+          "Mousdicas N",
+          "Yi Q",
+          "Al-Hassani M",
+          "Billings SD",
+          "Perkins SM",
+          "Howard KM",
+          "Ishii S",
+          "Shimizu T",
+          "Travers JB"
+        ],
+        "title": "Staphylococcal lipoteichoic acid inhibits delayed-type hypersensitivity reactions via the platelet-activating factor receptor.",
+        "journal": "J Clin Invest 115:2855-61 (2005) DOI:10.1172/JCI25429",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16184199",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lehrer RI"
+        ],
+        "title": "Primate defensins.",
+        "journal": "Nat Rev Microbiol 2:727-38 (2004) DOI:10.1038/nrmicro976",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15372083",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05150"
+  }
+]

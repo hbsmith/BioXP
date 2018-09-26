@@ -1,0 +1,565 @@
+[
+  {
+    "entry_id": "map04918",
+    "name": "Thyroid hormone synthesis",
+    "description": "Thyroid hormones triiodothyronine (T3) and thyroxine (T4) are essential for normal development, growth and metabolic homeostasis in all vertebrates, and synthesized in the thyroid gland. The functional unit of the thyroid gland is the follicle, delimited by a monolayer of thyrocytes. Polarized thyrocytes surround the follicular lumen; with their basal and apical surfaces facing the bloodstream and the lumen, respectively. To synthesize thyroid hormones, thyrocytes take up iodide at their basal side and concentrate it into the lumen. They also secrete in this lumen the specialized protein thyroglobulin (TG) which serves as a store for the hormones. In the follicular lumen oxidation of iodine, iodination of tyrosines (MIT, 3-monoiodotyrosine; DIT, 3,5-diiodotyrosine) and coupling of iodotyrosines takes place on tyrosine residues in TG, resulting in T3 and T4 synthesis. Iodinated TG is resorbed through the apical membrane and degraded to form T3/T4 in lysosomes; the T3/T4 is then secreted through the basal membrane.",
+    "classes": [
+      "Organismal Systems",
+      "Endocrine system"
+    ],
+    "diseases": {
+      "H00250": "Congenital nongoitrous hypothyroidism (CHNG)",
+      "H01699": "Isolated TSH deficiency"
+    },
+    "dblinks": {
+      "GO": [
+        "0006590"
+      ]
+    },
+    "pathways": {
+      "map04918": "Thyroid hormone synthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Ahad F",
+          "Ganie SA"
+        ],
+        "title": "Iodine, Iodine metabolism and Iodine deficiency disorders revisited.",
+        "journal": "Indian J Endocrinol Metab",
+        "volume": "14",
+        "issue": "",
+        "pages": "13-7",
+        "year": "2010",
+        "pubmed": "21448409",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gillam MP",
+          "Kopp P"
+        ],
+        "title": "Genetic defects in thyroid hormone synthesis.",
+        "journal": "Curr Opin Pediatr",
+        "volume": "13",
+        "issue": "",
+        "pages": "364-72",
+        "year": "2001",
+        "pubmed": "11717564",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rokita SE",
+          "Adler JM",
+          "McTamney PM",
+          "Watson JA Jr"
+        ],
+        "title": "Efficient use and recycling of the micronutrient iodide in mammals.",
+        "journal": "Biochimie 92:1227-35 (2010) DOI:10.1016/j.biochi.2010.02.013",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20167242",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Massart C",
+          "Hoste C",
+          "Virion A",
+          "Ruf J",
+          "Dumont JE",
+          "Van Sande J"
+        ],
+        "title": "Cell biology of H2O2 generation in the thyroid: investigation of the control of dual oxidases (DUOX) activity in intact ex vivo thyroid tissue and cell lines.",
+        "journal": "Mol Cell Endocrinol 343:32-44 (2011) DOI:10.1016/j.mce.2011.05.047",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21683758",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bizhanova A",
+          "Kopp P"
+        ],
+        "title": "Minireview: The sodium-iodide symporter NIS and pendrin in iodide homeostasis of the thyroid.",
+        "journal": "Endocrinology 150:1084-90 (2009) DOI:10.1210/en.2008-1437",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19196800",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fong P"
+        ],
+        "title": "Thyroid iodide efflux: a team effort?",
+        "journal": "J Physiol 589:5929-39 (2011) DOI:10.1113/jphysiol.2011.218594",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21986207",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Song Y",
+          "Driessens N",
+          "Costa M",
+          "De Deken X",
+          "Detours V",
+          "Corvilain B",
+          "Maenhaut C",
+          "Miot F",
+          "Van Sande J",
+          "Many MC",
+          "Dumont JE"
+        ],
+        "title": "Roles of hydrogen peroxide in thyroid physiology and disease.",
+        "journal": "J Clin Endocrinol Metab 92:3764-73 (2007) DOI:10.1210/jc.2007-0660",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17666482",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kohn LD",
+          "Suzuki K",
+          "Nakazato M",
+          "Royaux I",
+          "Green ED"
+        ],
+        "title": "Effects of thyroglobulin and pendrin on iodide flux through the thyrocyte.",
+        "journal": "Trends Endocrinol Metab 12:10-6 (2001) DOI:10.1016/S1043-2760(00)00337-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11137035",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Marino M",
+          "McCluskey RT"
+        ],
+        "title": "Role of thyroglobulin endocytic pathways in the control of thyroid hormone release.",
+        "journal": "Am J Physiol Cell Physiol 279:C1295-306 (2000) DOI:10.1152/ajpcell.2000.279.5.C1295",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11029276",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rivolta CM",
+          "Targovnik HM"
+        ],
+        "title": "Molecular advances in thyroglobulin disorders.",
+        "journal": "Clin Chim Acta 374:8-24 (2006) DOI:10.1016/j.cca.2006.05.043",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16870170",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "De La Vieja A",
+          "Dohan O",
+          "Levy O",
+          "Carrasco N"
+        ],
+        "title": "Molecular analysis of the sodium/iodide symporter: impact on thyroid and extrathyroid pathophysiology.",
+        "journal": "Physiol Rev 80:1083-105 (2000) DOI:10.1152/physrev.2000.80.3.1083",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10893432",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ohye H",
+          "Sugawara M"
+        ],
+        "title": "Dual oxidase, hydrogen peroxide and thyroid diseases.",
+        "journal": "Exp Biol Med (Maywood) 235:424-33 (2010) DOI:10.1258/ebm.2009.009241",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20407074",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Targovnik HM",
+          "Esperante SA",
+          "Rivolta CM"
+        ],
+        "title": "Genetics and phenomics of hypothyroidism and goiter due to thyroglobulin mutations.",
+        "journal": "Mol Cell Endocrinol 322:44-55 (2010) DOI:10.1016/j.mce.2010.01.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20093166",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Grasberger H"
+        ],
+        "title": "Defects of thyroidal hydrogen peroxide generation in congenital hypothyroidism.",
+        "journal": "Mol Cell Endocrinol 322:99-106 (2010) DOI:10.1016/j.mce.2010.01.029",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20122987",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Arvan P",
+          "Kim PS",
+          "Kuliawat R",
+          "Prabakaran D",
+          "Muresan Z",
+          "Yoo SE",
+          "Abu Hossain S"
+        ],
+        "title": "Intracellular protein transport to the thyrocyte plasma membrane: potential implications for thyroid physiology.",
+        "journal": "Thyroid 7:89-105 (1997) DOI:10.1089/thy.1997.7.89",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9086577",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vono-Toniolo J",
+          "Kopp P"
+        ],
+        "title": "Thyroglobulin gene mutations and other genetic defects associated with congenital hypothyroidism.",
+        "journal": "Arq Bras Endocrinol Metabol 48:70-82 (2004) DOI:10.1590/S0004-27302004000100009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15611820",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vitale G",
+          "Salvioli S",
+          "Franceschi C"
+        ],
+        "title": "Oxidative stress and the ageing endocrine system.",
+        "journal": "Nat Rev Endocrinol 9:228-40 (2013) DOI:10.1038/nrendo.2013.29",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23438835",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Calebiro D",
+          "Nikolaev VO",
+          "Lohse MJ"
+        ],
+        "title": "Imaging of persistent cAMP signaling by internalized G protein-coupled receptors.",
+        "journal": "J Mol Endocrinol 45:1-8 (2010) DOI:10.1677/JME-10-0014",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20378719",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Newman CM",
+          "Price A",
+          "Davies DW",
+          "Gray TA",
+          "Weetman AP"
+        ],
+        "title": "Amiodarone and the thyroid: a practical guide to the management of thyroid dysfunction induced by amiodarone therapy.",
+        "journal": "Heart 79:121-7 (1998) DOI:10.1136/hrt.79.2.121",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9538302",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04918"
+  }
+]

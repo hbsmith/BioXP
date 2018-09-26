@@ -1,0 +1,2141 @@
+[
+  {
+    "entry_id": "map05202",
+    "name": "Transcriptional misregulation in cancer",
+    "description": "In tumor cells, genes encoding transcription factors (TFs) are often amplified, deleted, rearranged via chromosomal translocation and inversion, or subjected to point mutations that result in a gain- or loss-of- function. In hematopoietic cancers and solid tumors, the translocations and inversions increase or deregulate transcription of the oncogene. Recurrent chromosome translocations generate novel fusion oncoproteins, which are common in myeloid cancers and soft-tissue sarcomas. The fusion proteins have aberrant transcriptional function compared to their wild-type counterparts. These fusion transcription factors alter expression of target genes, and thereby result in a variety of altered cellular properties that contribute to the tumourigenic process.",
+    "classes": [
+      "Human Diseases",
+      "Cancers: Overview"
+    ],
+    "diseases": {
+      "H00001": "B lymphoblastic leukemia/lymphoma",
+      "H00002": "T lymphoblastic leukemia/lymphoma",
+      "H00003": "Acute myeloid leukemia (AML)",
+      "H00006": "Hairy-cell leukemia",
+      "H00007": "Hodgkin lymphoma",
+      "H00010": "Multiple myeloma",
+      "H00011": "Lymphoplasmacytic lymphoma",
+      "H00021": "Renal cell carcinoma",
+      "H00024": "Prostate cancer",
+      "H00032": "Thyroid cancer",
+      "H00034": "Carcinoid",
+      "H00035": "Ewing sarcoma",
+      "H00037": "Alveolar rhabdomyosarcoma",
+      "H00043": "Neuroblastoma",
+      "H00049": "Myxoid liposarcoma",
+      "H00050": "Synovial sarcoma",
+      "H00051": "Alveolar soft part sarcoma",
+      "H00052": "Clear cell sarcoma of soft tissue",
+      "H00053": "Extraskeletal myxoid chondrosarcoma",
+      "H01102": "Pituitary adenomas",
+      "H01985": "Desmoplastic small round cell tumor"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05202": "Transcriptional misregulation in cancer"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Alcalay M",
+          "Orleth A",
+          "Sebastiani C",
+          "Meani N",
+          "Chiaradonna F",
+          "Casciari C",
+          "Sciurpi MT",
+          "Gelmetti V",
+          "Riganelli D",
+          "Minucci S",
+          "Fagioli M",
+          "Pelicci PG"
+        ],
+        "title": "Common themes in the pathogenesis of acute myeloid leukemia.",
+        "journal": "Oncogene 20:5680-94 (2001) DOI:10.1038/sj.onc.1204642",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11607818",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Scandura JM",
+          "Boccuni P",
+          "Cammenga J",
+          "Nimer SD"
+        ],
+        "title": "Transcription factor fusions in acute leukemia: variations on a theme.",
+        "journal": "Oncogene 21:3422-44 (2002) DOI:10.1038/sj.onc.1205315",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12032780",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Roumier C",
+          "Fenaux P",
+          "Lafage M",
+          "Imbert M",
+          "Eclache V",
+          "Preudhomme C"
+        ],
+        "title": "New mechanisms of AML1 gene alteration in hematological malignancies.",
+        "journal": "Leukemia 17:9-16 (2003) DOI:10.1038/sj.leu.2402766",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12529654",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lutterbach B",
+          "Hiebert SW"
+        ],
+        "title": "Role of the transcription factor AML-1 in acute leukemia and hematopoietic differentiation.",
+        "journal": "Gene 245:223-35 (2000) DOI:10.1016/S0378-1119(00)00014-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10717473",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Koschmieder S",
+          "Halmos B",
+          "Levantini E",
+          "Tenen DG"
+        ],
+        "title": "Dysregulation of the C/EBPalpha differentiation pathway in human cancer.",
+        "journal": "J Clin Oncol 27:619-28 (2009) DOI:10.1200/JCO.2008.17.9812",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19075268",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Johansen LM",
+          "Iwama A",
+          "Lodie TA",
+          "Sasaki K",
+          "Felsher DW",
+          "Golub TR",
+          "Tenen DG"
+        ],
+        "title": "c-Myc is a critical target for c/EBPalpha in granulopoiesis.",
+        "journal": "Mol Cell Biol 21:3789-806 (2001) DOI:10.1128/MCB.21.11.3789-3806.2001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11340171",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gery S",
+          "Gombart AF",
+          "Yi WS",
+          "Koeffler C",
+          "Hofmann WK",
+          "Koeffler HP"
+        ],
+        "title": "Transcription profiling of C/EBP targets identifies Per2 as a gene implicated in myeloid leukemia.",
+        "journal": "Blood 106:2827-36 (2005) DOI:10.1182/blood-2005-01-0358",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15985538",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vangala RK",
+          "Heiss-Neumann MS",
+          "Rangatia JS",
+          "Singh SM",
+          "Schoch C",
+          "Tenen DG",
+          "Hiddemann W",
+          "Behre G"
+        ],
+        "title": "The myeloid master regulator transcription factor PU.1 is inactivated by AML1-ETO in t(8;21) myeloid leukemia.",
+        "journal": "Blood 101:270-7 (2003) DOI:10.1182/blood-2002-04-1288",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12393465",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mueller BU",
+          "Pabst T",
+          "Osato M",
+          "Asou N",
+          "Johansen LM",
+          "Minden MD",
+          "Behre G",
+          "Hiddemann W",
+          "Ito Y",
+          "Tenen DG"
+        ],
+        "title": "Heterozygous PU.1 mutations are associated with acute myeloid leukemia.",
+        "journal": "Blood 100:998-1007 (2002) DOI:10.1182/blood.V100.3.998",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12130514",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jing Y"
+        ],
+        "title": "The PML-RARalpha fusion protein and targeted therapy for acute promyelocytic leukemia.",
+        "journal": "Leuk Lymphoma 45:639-48 (2004) DOI:10.1080/10428190310001609933",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15160934",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Muller-Tidow C",
+          "Steffen B",
+          "Cauvet T",
+          "Tickenbrock L",
+          "Ji P",
+          "Diederichs S",
+          "Sargin B",
+          "Kohler G",
+          "Stelljes M",
+          "Puccetti E",
+          "Ruthardt M",
+          "deVos S",
+          "Hiebert SW",
+          "Koeffler HP",
+          "Berdel WE",
+          "Serve H"
+        ],
+        "title": "Translocation products in acute myeloid leukemia activate the Wnt signaling pathway in hematopoietic cells.",
+        "journal": "Mol Cell Biol 24:2890-904 (2004) DOI:10.1128/MCB.24.7.2890-2904.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15024077",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rice KL",
+          "Hormaeche I",
+          "Doulatov S",
+          "Flatow JM",
+          "Grimwade D",
+          "Mills KI",
+          "Leiva M",
+          "Ablain J",
+          "Ambardekar C",
+          "McConnell MJ",
+          "Dick JE",
+          "Licht JD"
+        ],
+        "title": "Comprehensive genomic screens identify a role for PLZF-RARalpha as a positive regulator of cell proliferation via direct regulation of c-MYC.",
+        "journal": "Blood 114:5499-511 (2009) DOI:10.1182/blood-2009-03-206524",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19855079",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "McWhirter JR",
+          "Neuteboom ST",
+          "Wancewicz EV",
+          "Monia BP",
+          "Downing JR",
+          "Murre C"
+        ],
+        "title": "Oncogenic homeodomain transcription factor E2A-Pbx1 activates a novel WNT gene in pre-B acute lymphoblastoid leukemia.",
+        "journal": "Proc Natl Acad Sci U S A 96:11464-9 (1999) DOI:10.1073/pnas.96.20.11464",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10500199",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zelent A",
+          "Greaves M",
+          "Enver T"
+        ],
+        "title": "Role of the TEL-AML1 fusion gene in the molecular pathogenesis of childhood acute lymphoblastic leukaemia.",
+        "journal": "Oncogene 23:4275-83 (2004) DOI:10.1038/sj.onc.1207672",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15156184",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sawinska M",
+          "Ladon D"
+        ],
+        "title": "Mechanism, detection and clinical significance of the reciprocal translocation t(12;21)(p12;q22) in the children suffering from acute lymphoblastic leukaemia.",
+        "journal": "Leuk Res 28:35-42 (2004) DOI:10.1016/S0145-2126(03)00160-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14630078",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Guenther MG",
+          "Lawton LN",
+          "Rozovskaia T",
+          "Frampton GM",
+          "Levine SS",
+          "Volkert TL",
+          "Croce CM",
+          "Nakamura T",
+          "Canaani E",
+          "Young RA"
+        ],
+        "title": "Aberrant chromatin at genes encoding stem cell regulators in human mixed-lineage leukemia.",
+        "journal": "Genes Dev 22:3403-8 (2008) DOI:10.1101/gad.1741408",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19141473",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Xia ZB",
+          "Popovic R",
+          "Chen J",
+          "Theisler C",
+          "Stuart T",
+          "Santillan DA",
+          "Erfurth F",
+          "Diaz MO",
+          "Zeleznik-Le NJ"
+        ],
+        "title": "The MLL fusion gene, MLL-AF4, regulates cyclin-dependent kinase inhibitor CDKN1B (p27kip1) expression.",
+        "journal": "Proc Natl Acad Sci U S A 102:14028-33 (2005) DOI:10.1073/pnas.0506464102",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16169901",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang QF",
+          "Wu G",
+          "Mi S",
+          "He F",
+          "Wu J",
+          "Dong J",
+          "Luo RT",
+          "Mattison R",
+          "Kaberlein JJ",
+          "Prabhakar S",
+          "Ji H",
+          "Thirman MJ"
+        ],
+        "title": "MLL fusion proteins preferentially regulate a subset of wild-type MLL target genes in the leukemic genome.",
+        "journal": "Blood 117:6895-905 (2011) DOI:10.1182/blood-2010-12-324699",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21518926",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zeisig BB",
+          "Milne T",
+          "Garcia-Cuellar MP",
+          "Schreiner S",
+          "Martin ME",
+          "Fuchs U",
+          "Borkhardt A",
+          "Chanda SK",
+          "Walker J",
+          "Soden R",
+          "Hess JL",
+          "Slany RK"
+        ],
+        "title": "Hoxa9 and Meis1 are key targets for MLL-ENL-mediated cellular immortalization.",
+        "journal": "Mol Cell Biol 24:617-28 (2004) DOI:10.1128/MCB.24.2.617-628.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14701735",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Riz I",
+          "Hawley TS",
+          "Johnston H",
+          "Hawley RG"
+        ],
+        "title": "Role of TLX1 in T-cell acute lymphoblastic leukaemia pathogenesis.",
+        "journal": "Br J Haematol 145:140-3 (2009) DOI:10.1111/j.1365-2141.2008.07556.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19133982",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Barth TF",
+          "Martin-Subero JI",
+          "Joos S",
+          "Menz CK",
+          "Hasel C",
+          "Mechtersheimer G",
+          "Parwaresch RM",
+          "Lichter P",
+          "Siebert R",
+          "Mooller P"
+        ],
+        "title": "Gains of 2p involving the REL locus correlate with nuclear c-Rel protein accumulation in neoplastic cells of classical Hodgkin lymphoma.",
+        "journal": "Blood 101:3681-6 (2003) DOI:10.1182/blood-2002-08-2577",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12511414",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hinz M",
+          "Loser P",
+          "Mathas S",
+          "Krappmann D",
+          "Dorken B",
+          "Scheidereit C"
+        ],
+        "title": "Constitutive NF-kappaB maintains high expression of a characteristic gene network, including CD40, CD86, and a set of antiapoptotic genes in Hodgkin/Reed-Sternberg cells.",
+        "journal": "Blood 97:2798-807 (2001) DOI:10.1182/blood.V97.9.2798",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11313274",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zuzel M",
+          "Cawley JC."
+        ],
+        "title": "The biology of hairy cells.",
+        "journal": "Best Pract Res Clin Haematol 16:1-13 (2003) DOI:10.1016/S1521-6926(02)00082-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12670461",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hurt EM",
+          "Wiestner A",
+          "Rosenwald A",
+          "Shaffer AL",
+          "Campo E",
+          "Grogan T",
+          "Bergsagel PL",
+          "Kuehl WM",
+          "Staudt LM"
+        ],
+        "title": "Overexpression of c-maf is a frequent oncogenic event in multiple myeloma that promotes proliferation and pathological interactions with bone marrow stroma.",
+        "journal": "Cancer Cell 5:191-9 (2004) DOI:10.1016/S1535-6108(04)00019-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14998494",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Martinez-Garcia E",
+          "Popovic R",
+          "Min DJ",
+          "Sweet SM",
+          "Thomas PM",
+          "Zamdborg L",
+          "Heffner A",
+          "Will C",
+          "Lamy L",
+          "Staudt LM",
+          "Levens DL",
+          "Kelleher NL",
+          "Licht JD"
+        ],
+        "title": "The MMSET histone methyl transferase switches global histone methylation and alters gene expression in t(4;14) multiple myeloma cells.",
+        "journal": "Blood 117:211-20 (2011) DOI:10.1182/blood-2010-07-298349",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20974671",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Brito JL",
+          "Walker B",
+          "Jenner M",
+          "Dickens NJ",
+          "Brown NJ",
+          "Ross FM",
+          "Avramidou A",
+          "Irving JA",
+          "Gonzalez D",
+          "Davies FE",
+          "Morgan GJ"
+        ],
+        "title": "MMSET deregulation affects cell cycle progression and adhesion regulons in t(4;14) myeloma plasma cells.",
+        "journal": "Haematologica 94:78-86 (2009) DOI:10.3324/haematol.13426",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19059936",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Iida S",
+          "Rao PH",
+          "Ueda R",
+          "Chaganti RS",
+          "Dalla-Favera R"
+        ],
+        "title": "Chromosomal rearrangement of the PAX-5 locus in lymphoplasmacytic lymphoma with t(9;14)(p13;q32).",
+        "journal": "Leuk Lymphoma 34:25-33 (1999) DOI:10.3109/10428199909083377",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10350329",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ohno H",
+          "Ueda C",
+          "Akasaka T"
+        ],
+        "title": "The t(9;14)(p13;q32) translocation in B-cell non-Hodgkin's lymphoma.",
+        "journal": "Leuk Lymphoma 36:435-45 (2000) DOI:10.3109/10428190009148390",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10784387",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Prensner JR",
+          "Chinnaiyan AM"
+        ],
+        "title": "Oncogenic gene fusions in epithelial carcinomas.",
+        "journal": "Curr Opin Genet Dev 19:82-91 (2009) DOI:10.1016/j.gde.2008.11.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19233641",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Brenner JC",
+          "Chinnaiyan AM"
+        ],
+        "title": "Translocations in epithelial cancers.",
+        "journal": "Biochim Biophys Acta 1796:201-15 (2009) DOI:10.1016/j.bbcan.2009.04.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19406209",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Reddi HV",
+          "McIver B",
+          "Grebe SK",
+          "Eberhardt NL"
+        ],
+        "title": "The paired box-8/peroxisome proliferator-activated receptor-gamma oncogene in thyroid tumorigenesis.",
+        "journal": "Endocrinology 148:932-5 (2007) DOI:10.1210/en.2006-0926",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16946003",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Medendorp K",
+          "van Groningen JJ",
+          "Vreede L",
+          "Hetterschijt L",
+          "Brugmans L",
+          "van den Hurk WH",
+          "van Kessel AG"
+        ],
+        "title": "The renal cell carcinoma-associated oncogenic fusion protein PRCCTFE3 provokes p21 WAF1/CIP1-mediated cell cycle delay.",
+        "journal": "Exp Cell Res 315:2399-409 (2009) DOI:10.1016/j.yexcr.2009.04.022",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19422821",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kumar-Sinha C",
+          "Tomlins SA",
+          "Chinnaiyan AM"
+        ],
+        "title": "Recurrent gene fusions in prostate cancer.",
+        "journal": "Nat Rev Cancer 8:497-511 (2008) DOI:10.1038/nrc2402",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18563191",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yu J",
+          "Yu J",
+          "Mani RS",
+          "Cao Q",
+          "Brenner CJ",
+          "Cao X",
+          "Wang X",
+          "Wu L",
+          "Li J",
+          "Hu M",
+          "Gong Y",
+          "Cheng H",
+          "Laxman B",
+          "Vellaichamy A",
+          "Shankar S",
+          "Li Y",
+          "Dhanasekaran SM",
+          "Morey R",
+          "Barrette T",
+          "Lonigro RJ",
+          "Tomlins SA",
+          "Varambally S",
+          "Qin ZS",
+          "Chinnaiyan AM"
+        ],
+        "title": "An integrated network of androgen receptor, polycomb, and TMPRSS2-ERG gene fusions in prostate cancer progression.",
+        "journal": "Cancer Cell 17:443-54 (2010) DOI:10.1016/j.ccr.2010.03.018",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20478527",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Leshem O",
+          "Madar S",
+          "Kogan-Sakin I",
+          "Kamer I",
+          "Goldstein I",
+          "Brosh R",
+          "Cohen Y",
+          "Jacob-Hirsch J",
+          "Ehrlich M",
+          "Ben-Sasson S",
+          "Goldfinger N",
+          "Loewenthal R",
+          "Gazit E",
+          "Rotter V",
+          "Berger R"
+        ],
+        "title": "TMPRSS2/ERG promotes epithelial to mesenchymal transition through the ZEB1/ZEB2 axis in a prostate cancer model.",
+        "journal": "PLoS One 6:e21650 (2011) DOI:10.1371/journal.pone.0021650",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21747944",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cai C",
+          "Hsieh CL",
+          "Omwancha J",
+          "Zheng Z",
+          "Chen SY",
+          "Baert JL",
+          "Shemshedini L"
+        ],
+        "title": "ETV1 is a novel androgen receptor-regulated gene that mediates prostate cancer cell invasion.",
+        "journal": "Mol Endocrinol 21:1835-46 (2007) DOI:10.1210/me.2006-0480",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17505060",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Helgeson BE",
+          "Tomlins SA",
+          "Shah N",
+          "Laxman B",
+          "Cao Q",
+          "Prensner JR",
+          "Cao X",
+          "Singla N",
+          "Montie JE",
+          "Varambally S",
+          "Mehra R",
+          "Chinnaiyan AM"
+        ],
+        "title": "Characterization of TMPRSS2:ETV5 and SLC45A3:ETV5 gene fusions in prostate cancer.",
+        "journal": "Cancer Res 68:73-80 (2008) DOI:10.1158/0008-5472.CAN-07-5352",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18172298",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Westermark UK",
+          "Wilhelm M",
+          "Frenzel A",
+          "Henriksson MA"
+        ],
+        "title": "The MYCN oncogene and differentiation in neuroblastoma.",
+        "journal": "Semin Cancer Biol 21:256-66 (2011) DOI:10.1016/j.semcancer.2011.08.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21849159",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bell E",
+          "Chen L",
+          "Liu T",
+          "Marshall GM",
+          "Lunec J",
+          "Tweddle DA"
+        ],
+        "title": "MYCN oncoprotein targets and their therapeutic potential.",
+        "journal": "Cancer Lett 293:144-57 (2010) DOI:10.1016/j.canlet.2010.01.015",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20153925",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Slack A",
+          "Chen Z",
+          "Tonelli R",
+          "Pule M",
+          "Hunt L",
+          "Pession A",
+          "Shohet JM"
+        ],
+        "title": "The p53 regulatory gene MDM2 is a direct transcriptional target of MYCN in neuroblastoma.",
+        "journal": "Proc Natl Acad Sci U S A 102:731-6 (2005) DOI:10.1073/pnas.0405495102",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15644444",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ochiai H",
+          "Takenobu H",
+          "Nakagawa A",
+          "Yamaguchi Y",
+          "Kimura M",
+          "Ohira M",
+          "Okimoto Y",
+          "Fujimura Y",
+          "Koseki H",
+          "Kohno Y",
+          "Nakagawara A",
+          "Kamijo T"
+        ],
+        "title": "Bmi1 is a MYCN target gene that regulates tumorigenesis through repression of KIF1Bbeta and TSLC1 in neuroblastoma.",
+        "journal": "Oncogene 29:2681-90 (2010) DOI:10.1038/onc.2010.22",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20190806",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chen L",
+          "Iraci N",
+          "Gherardi S",
+          "Gamble LD",
+          "Wood KM",
+          "Perini G",
+          "Lunec J",
+          "Tweddle DA"
+        ],
+        "title": "p53 is a direct transcriptional target of MYCN in neuroblastoma.",
+        "journal": "Cancer Res 70:1377-88 (2010) DOI:10.1158/0008-5472.CAN-09-2598",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20145147",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Beierle EA",
+          "Trujillo A",
+          "Nagaram A",
+          "Kurenova EV",
+          "Finch R",
+          "Ma X",
+          "Vella J",
+          "Cance WG",
+          "Golubovskaya VM"
+        ],
+        "title": "N-MYC regulates focal adhesion kinase expression in human neuroblastoma.",
+        "journal": "J Biol Chem 282:12503-16 (2007) DOI:10.1074/jbc.M701450200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17327229",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Iraci N",
+          "Diolaiti D",
+          "Papa A",
+          "Porro A",
+          "Valli E",
+          "Gherardi S",
+          "Herold S",
+          "Eilers M",
+          "Bernardoni R",
+          "Della Valle G",
+          "Perini G"
+        ],
+        "title": "A SP1/MIZ1/MYCN repression complex recruits HDAC1 at the TRKA and p75NTR promoters and affects neuroblastoma malignancy by inhibiting the cell response to NGF.",
+        "journal": "Cancer Res 71:404-12 (2011) DOI:10.1158/0008-5472.CAN-10-2627",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21123453",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dreijerink KM",
+          "Hoppener JW",
+          "Timmers HM",
+          "Lips CJ"
+        ],
+        "title": "Mechanisms of disease: multiple endocrine neoplasia type 1-relation to chromatin modifications and transcription regulation.",
+        "journal": "Nat Clin Pract Endocrinol Metab 2:562-70 (2006) DOI:10.1038/ncpendmet0292",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17024155",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wu X",
+          "Hua X"
+        ],
+        "title": "Menin, histone h3 methyltransferases, and regulation of cell proliferation: current knowledge and perspective.",
+        "journal": "Curr Mol Med 8:805-15 (2008) DOI:10.2174/156652408786733702",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19075677",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sakurai A",
+          "Murakami A",
+          "Sano K",
+          "Uchino S",
+          "Fukushima Y"
+        ],
+        "title": "Unusual clinical and pathological presentation of a neuroendocrine tumor in a patient with multiple endocrine neoplasia type 1.",
+        "journal": "Endocr J 56:887-95 (2009) DOI:10.1507/endocrj.K09E-126",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19564705",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yang Y",
+          "Hua X"
+        ],
+        "title": "In search of tumor suppressing functions of menin.",
+        "journal": "Mol Cell Endocrinol 265-266:34-41 (2007) DOI:10.1016/j.mce.2006.12.032",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17222504",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Aman P"
+        ],
+        "title": "Fusion oncogenes in tumor development.",
+        "journal": "Semin Cancer Biol 15:236-43 (2005) DOI:10.1016/j.semcancer.2005.01.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15826838",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fukuma M",
+          "Okita H",
+          "Hata J",
+          "Umezawa A"
+        ],
+        "title": "Upregulation of Id2, an oncogenic helix-loop-helix protein, is mediated by the chimeric EWS/ets protein in Ewing sarcoma.",
+        "journal": "Oncogene 22:1-9 (2003) DOI:10.1038/sj.onc.1206055",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12527902",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cironi L",
+          "Riggi N",
+          "Provero P",
+          "Wolf N",
+          "Suva ML",
+          "Suva D",
+          "Kindler V",
+          "Stamenkovic I"
+        ],
+        "title": "IGF1 is a common target gene of Ewing's sarcoma fusion proteins in mesenchymal progenitor cells.",
+        "journal": "PLoS One 3:e2634 (2008) DOI:10.1371/journal.pone.0002634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18648544",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Riggi N",
+          "Stamenkovic I."
+        ],
+        "title": "The Biology of Ewing sarcoma.",
+        "journal": "Cancer Lett 254:1-10 (2007) DOI:10.1016/j.canlet.2006.12.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17250957",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jedlicka P"
+        ],
+        "title": "Ewing Sarcoma, an enigmatic malignancy of likely progenitor cell origin, driven by transcription factor oncogenic fusions.",
+        "journal": "Int J Clin Exp Pathol",
+        "volume": "3",
+        "issue": "",
+        "pages": "338-47",
+        "year": "2010",
+        "pubmed": "20490326",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ordonez JL",
+          "Osuna D",
+          "Herrero D",
+          "de Alava E",
+          "Madoz-Gurpide J"
+        ],
+        "title": "Advances in Ewing's sarcoma research: where are we now and what lies ahead?",
+        "journal": "Cancer Res 69:7140-50 (2009) DOI:10.1158/0008-5472.CAN-08-4041",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19738075",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jishage M",
+          "Fujino T",
+          "Yamazaki Y",
+          "Kuroda H",
+          "Nakamura T"
+        ],
+        "title": "Identification of target genes for EWS/ATF-1 chimeric transcription factor.",
+        "journal": "Oncogene 22:41-9 (2003) DOI:10.1038/sj.onc.1206074",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12527906",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gerald WL",
+          "Haber DA"
+        ],
+        "title": "The EWS-WT1 gene fusion in desmoplastic small round cell tumor.",
+        "journal": "Semin Cancer Biol 15:197-205 (2005) DOI:10.1016/j.semcancer.2005.01.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15826834",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Filion C",
+          "Motoi T",
+          "Olshen AB",
+          "Lae M",
+          "Emnett RJ",
+          "Gutmann DH",
+          "Perry A",
+          "Ladanyi M",
+          "Labelle Y"
+        ],
+        "title": "The EWSR1/NR4A3 fusion protein of extraskeletal myxoid chondrosarcoma activates the PPARG nuclear receptor gene.",
+        "journal": "J Pathol 217:83-93 (2009) DOI:10.1002/path.2445",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18855877",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kim S",
+          "Lee HJ",
+          "Jun HJ",
+          "Kim J"
+        ],
+        "title": "The hTAF II 68-TEC fusion protein functions as a strong transcriptional activator.",
+        "journal": "Int J Cancer 122:2446-53 (2008) DOI:10.1002/ijc.23379",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18330902",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sjogren H",
+          "Meis-Kindblom J",
+          "Kindblom LG",
+          "Aman P",
+          "Stenman G"
+        ],
+        "title": "Fusion of the EWS-related gene TAF2N to TEC in extraskeletal myxoid chondrosarcoma.",
+        "journal": "Cancer Res",
+        "volume": "59",
+        "issue": "",
+        "pages": "5064-7",
+        "year": "1999",
+        "pubmed": "10537274",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Goransson M",
+          "Elias E",
+          "Stahlberg A",
+          "Olofsson A",
+          "Andersson C",
+          "Aman P"
+        ],
+        "title": "Myxoid liposarcoma FUS-DDIT3 fusion oncogene induces C/EBP beta-mediated interleukin 6 expression.",
+        "journal": "Int J Cancer 115:556-60 (2005) DOI:10.1002/ijc.20893",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15688424",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Goransson M",
+          "Andersson MK",
+          "Forni C",
+          "Stahlberg A",
+          "Andersson C",
+          "Olofsson A",
+          "Mantovani R",
+          "Aman P"
+        ],
+        "title": "The myxoid liposarcoma FUS-DDIT3 fusion oncoprotein deregulates NF-kappaB target genes by interaction with NFKBIZ.",
+        "journal": "Oncogene 28:270-8 (2009) DOI:10.1038/onc.2008.378",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18850010",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Willems SM",
+          "Schrage YM",
+          "Bruijn IH",
+          "Szuhai K",
+          "Hogendoorn PC",
+          "Bovee JV"
+        ],
+        "title": "Kinome profiling of myxoid liposarcoma reveals NF-kappaB-pathway kinase activity and casein kinase II inhibition as a potential treatment option.",
+        "journal": "Mol Cancer 9:257 (2010) DOI:10.1186/1476-4598-9-257",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20863376",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Linardic CM"
+        ],
+        "title": "PAX3-FOXO1 fusion gene in rhabdomyosarcoma.",
+        "journal": "Cancer Lett 270:10-8 (2008) DOI:10.1016/j.canlet.2008.03.035",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18457914",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Barber TD",
+          "Barber MC",
+          "Tomescu O",
+          "Barr FG",
+          "Ruben S",
+          "Friedman TB"
+        ],
+        "title": "Identification of target genes regulated by PAX3 and PAX3-FKHR in embryogenesis and alveolar rhabdomyosarcoma.",
+        "journal": "Genomics 79:278-84 (2002) DOI:10.1006/geno.2002.6703",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11863357",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ishida M",
+          "Miyamoto M",
+          "Naitoh S",
+          "Tatsuda D",
+          "Hasegawa T",
+          "Nemoto T",
+          "Yokozeki H",
+          "Nishioka K",
+          "Matsukage A",
+          "Ohki M",
+          "Ohta T"
+        ],
+        "title": "The SYT-SSX fusion protein down-regulates the cell proliferation regulator COM1 in t(x;18) synovial sarcoma.",
+        "journal": "Mol Cell Biol 27:1348-55 (2007) DOI:10.1128/MCB.00658-06",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17101797",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jun HJ",
+          "Lee J",
+          "Lim do H",
+          "Park JO",
+          "Ahn G",
+          "Seo SW",
+          "Sung KS",
+          "Lim do H",
+          "Yoo KH",
+          "Choi YL"
+        ],
+        "title": "Expression of MET in alveolar soft part sarcoma.",
+        "journal": "Med Oncol 27:459-65 (2010) DOI:10.1007/s12032-009-9234-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19472090",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rivlin N",
+          "Brosh R",
+          "Oren M",
+          "Rotter V"
+        ],
+        "title": "Mutations in the p53 Tumor Suppressor Gene: Important Milestones at the Various Steps of Tumorigenesis.",
+        "journal": "Genes Cancer 2:466-74 (2011) DOI:10.1177/1947601911408889",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21779514",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Suzuki K",
+          "Matsubara H"
+        ],
+        "title": "Recent advances in p53 research and cancer treatment.",
+        "journal": "J Biomed Biotechnol 2011:978312 (2011) DOI:10.1155/2011/978312",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21765642",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05202"
+  }
+]

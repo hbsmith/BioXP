@@ -1,0 +1,651 @@
+[
+  {
+    "entry_id": "map04723",
+    "name": "Retrograde endocannabinoid signaling",
+    "description": "Endogenous cannabinoids (endocannabinoids) serve as retrograde messengers at synapses in various regions of the brain. The family of endocannabinoids includes at least five derivatives of arachidonic acid; the two best characterized are arachydonoyl ethanolamide (anandamide, AEA) and 2-arachydonoil glycerol (2AG). They are released from postsynaptic neurons upon postsynaptic depolarization and/or receptor activation. The released endocannabinoids then activate the CB1 receptors (CB1R) at presynaptic terminals and suppress the release of inhibitory transmitter GABA (depolarization-induced suppression of inhibition, DSI) or excitatory transmitter glutamate (depolarization-induced suppression of excitation, DSE) by inhibiting Ca2+ channels. Besides the well-known expression of the CB1R in the plasma membrane, this receptor is also present in mitochondrial membranes, where it reduces the mitochondrial respiration and contributes to DSI. Whereas DSI and DSE result in short-term synaptic plasticity, endocannabinoids also mediate long-term synaptic changes (eCB-LTD). Persistent activation of CB1 receptors over a period of minutes triggers eCB-LTD by a RIM1alpha-dependent mechanism.",
+    "classes": [
+      "Organismal Systems",
+      "Nervous system"
+    ],
+    "diseases": {
+      "H00606": "Early infantile epileptic encephalopathy"
+    },
+    "dblinks": {
+      "GO": [
+        "0071926"
+      ]
+    },
+    "pathways": {
+      "map04723": "Retrograde endocannabinoid signaling"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Hashimotodani Y",
+          "Ohno-Shosaku T",
+          "Kano M"
+        ],
+        "title": "Ca(2+)-assisted receptor-driven endocannabinoid release: mechanisms that associate presynaptic and postsynaptic activities.",
+        "journal": "Curr Opin Neurobiol 17:360-5 (2007) DOI:10.1016/j.conb.2007.03.012",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17419048",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ohno-Shosaku T",
+          "Tanimura A",
+          "Hashimotodani Y",
+          "Kano M"
+        ],
+        "title": "Endocannabinoids and retrograde modulation of synaptic transmission.",
+        "journal": "Neuroscientist 18:119-32 (2012) DOI:10.1177/1073858410397377",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21531987",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Basavarajappa BS"
+        ],
+        "title": "Neuropharmacology of the endocannabinoid signaling system-molecular mechanisms, biological actions and synaptic plasticity.",
+        "journal": "Curr Neuropharmacol",
+        "volume": "5",
+        "issue": "",
+        "pages": "81-97",
+        "year": "2007",
+        "pubmed": "18084639",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pacher P",
+          "Batkai S",
+          "Kunos G"
+        ],
+        "title": "The endocannabinoid system as an emerging target of pharmacotherapy.",
+        "journal": "Pharmacol Rev 58:389-462 (2006) DOI:10.1124/pr.58.3.2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16968947",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Di Marzo V",
+          "Bifulco M",
+          "De Petrocellis L"
+        ],
+        "title": "The endocannabinoid system and its therapeutic exploitation.",
+        "journal": "Nat Rev Drug Discov 3:771-84 (2004) DOI:10.1038/nrd1495",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15340387",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hashimotodani Y",
+          "Ohno-Shosaku T",
+          "Kano M"
+        ],
+        "title": "Endocannabinoids and synaptic function in the CNS.",
+        "journal": "Neuroscientist 13:127-37 (2007) DOI:10.1177/1073858406296716",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17404373",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kano M",
+          "Ohno-Shosaku T",
+          "Hashimotodani Y",
+          "Uchigashima M",
+          "Watanabe M"
+        ],
+        "title": "Endocannabinoid-mediated control of synaptic transmission.",
+        "journal": "Physiol Rev 89:309-80 (2009) DOI:10.1152/physrev.00019.2008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19126760",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Regehr WG",
+          "Carey MR",
+          "Best AR"
+        ],
+        "title": "Activity-dependent regulation of synapses by retrograde messengers.",
+        "journal": "Neuron 63:154-70 (2009) DOI:10.1016/j.neuron.2009.06.021",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19640475",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Benarroch E"
+        ],
+        "title": "Endocannabinoids in basal ganglia circuits: implications for Parkinson disease.",
+        "journal": "Neurology 69:306-9 (2007) DOI:10.1212/01.wnl.0000267407.79757.75",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17636069",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ohno-Shosaku T",
+          "Hashimotodani Y",
+          "Maejima T",
+          "Kano M"
+        ],
+        "title": "Calcium signaling and synaptic modulation: regulation of endocannabinoid-mediated synaptic modulation by calcium.",
+        "journal": "Cell Calcium 38:369-74 (2005) DOI:10.1016/j.ceca.2005.06.014",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16085309",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Harkany T",
+          "Mackie K",
+          "Doherty P"
+        ],
+        "title": "Wiring and firing neuronal networks: endocannabinoids take center stage.",
+        "journal": "Curr Opin Neurobiol 18:338-45 (2008) DOI:10.1016/j.conb.2008.08.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18801434",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hosking RD",
+          "Zajicek JP"
+        ],
+        "title": "Therapeutic potential of cannabis in pain medicine.",
+        "journal": "Br J Anaesth 101:59-68 (2008) DOI:10.1093/bja/aen119",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18515270",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Di Marzo V"
+        ],
+        "title": "Endocannabinoid signaling in the brain: biosynthetic mechanisms in the limelight.",
+        "journal": "Nat Neurosci 14:9-15 (2011) DOI:10.1038/nn.2720",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21187849",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "McPartland JM"
+        ],
+        "title": "The endocannabinoid system: an osteopathic perspective.",
+        "journal": "J Am Osteopath Assoc",
+        "volume": "108",
+        "issue": "",
+        "pages": "586-600",
+        "year": "2008",
+        "pubmed": "18948642",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chevaleyre V",
+          "Heifets BD",
+          "Kaeser PS",
+          "Sudhof TC",
+          "Castillo PE"
+        ],
+        "title": "Endocannabinoid-mediated long-term plasticity requires cAMP/PKA signaling and RIM1alpha.",
+        "journal": "Neuron 54:801-12 (2007) DOI:10.1016/j.neuron.2007.05.020",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17553427",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lafourcade CA"
+        ],
+        "title": "Presynaptic mechanisms of endocannabinoid-mediated long-term depression in the hippocampus.",
+        "journal": "J Neurophysiol 102:2009-12 (2009) DOI:10.1152/jn.00441.2009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19553483",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ueda N",
+          "Tsuboi K",
+          "Uyama T",
+          "Ohnishi T"
+        ],
+        "title": "Biosynthesis and degradation of the endocannabinoid 2-arachidonoylglycerol.",
+        "journal": "Biofactors 37:1-7 (2011) DOI:10.1002/biof.131",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21328621",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Guo J",
+          "Ikeda SR"
+        ],
+        "title": "Endocannabinoids modulate N-type calcium channels and G-protein-coupled inwardly rectifying potassium channels via CB1 cannabinoid receptors heterologously expressed in mammalian neurons.",
+        "journal": "Mol Pharmacol 65:665-74 (2004) DOI:10.1124/mol.65.3.665",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14978245",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Benard G",
+          "Massa F",
+          "Puente N",
+          "Lourenco J",
+          "Bellocchio L",
+          "Soria-Gomez E",
+          "Matias I",
+          "Delamarre A",
+          "Metna-Laurent M",
+          "Cannich A",
+          "Hebert-Chatelain E",
+          "Mulle C",
+          "Ortega-Gutierrez S",
+          "Martin-Fontecha M",
+          "Klugmann M",
+          "Guggenhuber S",
+          "Lutz B",
+          "Gertsch J",
+          "Chaouloff F",
+          "Lopez-Rodriguez ML",
+          "Grandes P",
+          "Rossignol R",
+          "Marsicano G"
+        ],
+        "title": "Mitochondrial CB(1) receptors regulate neuronal energy metabolism.",
+        "journal": "Nat Neurosci 15:558-64 (2012) DOI:10.1038/nn.3053",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22388959",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Busquets-Garcia A",
+          "Desprez T",
+          "Metna-Laurent M",
+          "Bellocchio L",
+          "Marsicano G",
+          "Soria-Gomez E"
+        ],
+        "title": "Dissecting the cannabinergic control of behavior: The where matters.",
+        "journal": "Bioessays 37:1215-25 (2015) DOI:10.1002/bies.201500046",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26260530",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Harkany T",
+          "Horvath TL"
+        ],
+        "title": "(S)Pot on Mitochondria: Cannabinoids Disrupt Cellular Respiration to Limit Neuronal Activity.",
+        "journal": "Cell Metab 25:8-10 (2017) DOI:10.1016/j.cmet.2016.12.020",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "28076767",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Alger BE",
+          "Tang AH"
+        ],
+        "title": "Do cannabinoids reduce brain power?",
+        "journal": "Nat Neurosci 15:499-501 (2012) DOI:10.1038/nn.3072",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22449955",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04723"
+  }
+]

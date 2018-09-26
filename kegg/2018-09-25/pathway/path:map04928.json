@@ -1,0 +1,769 @@
+[
+  {
+    "entry_id": "map04928",
+    "name": "Parathyroid hormone synthesis, secretion and action",
+    "description": "Parathyroid hormone (PTH) is a key regulator of calcium and phosphorus homeostasis. The principal regulators of PTH secretion are extracellular ionized calcium (Ca2+) and 1,25-dihydroxyvitamin D (1,25(OH)2D3). Under conditions of dietary Ca restriction, a decrement in serum Ca concentration induces release of PTH from the parathyroid gland. PTH acts on bone and kidney to stimulate bone turnover, increase the circulating levels of 1,25(OH)2D3 and calcium and inhibit the reabsorption of phosphate from the glomerular filtrate. This hormone exerts its actions via binding to the PTH/PTH-related peptide receptor (PTH1R). PTH1R primarily activates two sub-types of heterotrimeric Gproteins: Gs and Gq , which in turn regulate the activity of adenylyl cyclases and phospholipase C (PLC) that control the flow of cAMP/PKA and IP/PKC signaling cascades, respectively.",
+    "classes": [
+      "Organismal Systems",
+      "Endocrine system"
+    ],
+    "diseases": {
+      "H02138": "Hereditary hypophophatemic rickets with hypercalciuria"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map04928": "Parathyroid hormone synthesis, secretion and action"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Khundmiri SJ",
+          "Murray RD",
+          "Lederer E"
+        ],
+        "title": "PTH and Vitamin D.",
+        "journal": "Compr Physiol 6:561-601 (2016) DOI:10.1002/cphy.c140071",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27065162",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bastepe M",
+          "Turan S",
+          "He Q"
+        ],
+        "title": "Heterotrimeric G proteins in the control of parathyroid hormone actions.",
+        "journal": "J Mol Endocrinol 58:R203-R224 (2017) DOI:10.1530/JME-16-0221",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "28363951",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vilardaga JP",
+          "Romero G",
+          "Friedman PA",
+          "Gardella TJ"
+        ],
+        "title": "Molecular basis of parathyroid hormone receptor signaling and trafficking: a family B GPCR paradigm.",
+        "journal": "Cell Mol Life Sci 68:1-13 (2011) DOI:10.1007/s00018-010-0465-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20703892",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Naveh-Many T",
+          "Silver J"
+        ],
+        "title": "Transcription factors that determine parathyroid development power PTH expression.",
+        "journal": "Kidney Int 93:7-9 (2018) DOI:10.1016/j.kint.2017.08.026",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "29291826",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Han SI",
+          "Tsunekage Y",
+          "Kataoka K"
+        ],
+        "title": "Gata3 cooperates with Gcm2 and MafB to activate parathyroid hormone gene expression by interacting with SP1.",
+        "journal": "Mol Cell Endocrinol 411:113-20 (2015) DOI:10.1016/j.mce.2015.04.018",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25917456",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ferre S",
+          "Hoenderop JG",
+          "Bindels RJ"
+        ],
+        "title": "Sensing mechanisms involved in Ca2+ and Mg2+ homeostasis.",
+        "journal": "Kidney Int 82:1157-66 (2012) DOI:10.1038/ki.2012.179",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22622503",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Komaba H",
+          "Fukagawa M"
+        ],
+        "title": "FGF23-parathyroid interaction: implications in chronic kidney disease.",
+        "journal": "Kidney Int 77:292-8 (2010) DOI:10.1038/ki.2009.466",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20010546",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bilezikian JP",
+          "Cusano NE",
+          "Khan AA",
+          "Liu JM",
+          "Marcocci C",
+          "Bandeira F"
+        ],
+        "title": "Primary hyperparathyroidism.",
+        "journal": "Nat Rev Dis Primers 2:16033 (2016) DOI:10.1038/nrdp.2016.33",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27194212",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "de Groot T",
+          "Kovalevskaya NV",
+          "Verkaart S",
+          "Schilderink N",
+          "Felici M",
+          "van der Hagen EA",
+          "Bindels RJ",
+          "Vuister GW",
+          "Hoenderop JG"
+        ],
+        "title": "Molecular mechanisms of calmodulin action on TRPV5 and modulation by parathyroid hormone.",
+        "journal": "Mol Cell Biol 31:2845-53 (2011) DOI:10.1128/MCB.01319-10",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21576356",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hernando N",
+          "Wagner C",
+          "Biber J",
+          "Murer H"
+        ],
+        "title": "Kidney kinase network regulates renal ion cotransport.",
+        "journal": "J Clin Invest 117:3179-82 (2007) DOI:10.1172/JCI33859",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17975663",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang B",
+          "Means CK",
+          "Yang Y",
+          "Mamonova T",
+          "Bisello A",
+          "Altschuler DL",
+          "Scott JD",
+          "Friedman PA"
+        ],
+        "title": "Ezrin-anchored protein kinase A coordinates phosphorylation-dependent disassembly of a NHERF1 ternary complex to regulate hormone-sensitive phosphate transport.",
+        "journal": "J Biol Chem 287:24148-63 (2012) DOI:10.1074/jbc.M112.369405",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22628548",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Crenshaw TD",
+          "Rortvedt LA",
+          "Hassen Z"
+        ],
+        "title": "Triennial Growth Symposium: a novel pathway for vitamin D-mediated phosphate homeostasis: implications for skeleton growth and mineralization.",
+        "journal": "J Anim Sci 89:1957-64 (2011) DOI:10.2527/jas.2010-3411",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21097685",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zierold C",
+          "Mings JA",
+          "DeLuca HF"
+        ],
+        "title": "Parathyroid hormone regulates 25-hydroxyvitamin D(3)-24-hydroxylase mRNA by altering its stability.",
+        "journal": "Proc Natl Acad Sci U S A 98:13572-6 (2001) DOI:10.1073/pnas.241516798",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11698670",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kramer I",
+          "Keller H",
+          "Leupin O",
+          "Kneissel M"
+        ],
+        "title": "Does osteocytic SOST suppression mediate PTH bone anabolism?",
+        "journal": "Trends Endocrinol Metab 21:237-44 (2010) DOI:10.1016/j.tem.2009.12.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20074973",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Leupin O",
+          "Kramer I",
+          "Collette NM",
+          "Loots GG",
+          "Natt F",
+          "Kneissel M",
+          "Keller H"
+        ],
+        "title": "Control of the SOST bone enhancer by PTH using MEF2 transcription factors.",
+        "journal": "J Bone Miner Res 22:1957-67 (2007) DOI:10.1359/jbmr.070804",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17696759",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Meir T",
+          "Durlacher K",
+          "Pan Z",
+          "Amir G",
+          "Richards WG",
+          "Silver J",
+          "Naveh-Many T"
+        ],
+        "title": "Parathyroid hormone activates the orphan nuclear receptor Nurr1 to induce FGF23 transcription.",
+        "journal": "Kidney Int 86:1106-15 (2014) DOI:10.1038/ki.2014.215",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24940803",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pellicelli M",
+          "Hariri H",
+          "Miller JA",
+          "St-Arnaud R"
+        ],
+        "title": "Lrp6 is a target of the PTH-activated alphaNAC transcriptional coregulator.",
+        "journal": "Biochim Biophys Acta 1861:61-71 (2018) DOI:10.1016/j.bbagrm.2018.01.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "29413898",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fu Q",
+          "Jilka RL",
+          "Manolagas SC",
+          "O'Brien CA"
+        ],
+        "title": "Parathyroid hormone stimulates receptor activator of NFkappa B ligand and inhibits osteoprotegerin expression via protein kinase A activation of cAMP-response element-binding protein.",
+        "journal": "J Biol Chem 277:48868-75 (2002) DOI:10.1074/jbc.M208494200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12364326",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "O'Brien CA"
+        ],
+        "title": "Control of RANKL gene expression.",
+        "journal": "Bone 46:911-9 (2010) DOI:10.1016/j.bone.2009.08.050",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19716455",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jilka RL"
+        ],
+        "title": "Molecular and cellular mechanisms of the anabolic effect of intermittent PTH.",
+        "journal": "Bone 40:1434-46 (2007) DOI:10.1016/j.bone.2007.03.017",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17517365",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pearman AT",
+          "Chou WY",
+          "Bergman KD",
+          "Pulumati MR",
+          "Partridge NC"
+        ],
+        "title": "Parathyroid hormone induces c-fos promoter activity in osteoblastic cells through phosphorylated cAMP response element (CRE)-binding protein binding to the major CRE.",
+        "journal": "J Biol Chem 271:25715-21 (1996) DOI:10.1074/jbc.271.41.25715",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "8810350",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Boumah CE",
+          "Selvamurugan N",
+          "Partridge NC"
+        ],
+        "title": "Transcription in the osteoblast: regulatory mechanisms utilized by parathyroid hormone and transforming growth factor-beta.",
+        "journal": "Prog Nucleic Acid Res Mol Biol 80:287-321 (2005) DOI:10.1016/S0079-6603(05)80007-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16164977",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hess J",
+          "Porte D",
+          "Munz C",
+          "Angel P"
+        ],
+        "title": "AP-1 and Cbfa/runt physically interact and regulate parathyroid hormone-dependent MMP13 expression in osteoblasts through a new osteoblast-specific element 2/AP-1 composite element.",
+        "journal": "J Biol Chem 276:20029-38 (2001) DOI:10.1074/jbc.M010601200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11274169",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Singh AT",
+          "Gilchrist A",
+          "Voyno-Yasenetskaya T",
+          "Radeff-Huang JM",
+          "Stern PH"
+        ],
+        "title": "G alpha12/G alpha13 subunits of heterotrimeric G proteins mediate parathyroid hormone activation of phospholipase D in UMR-106 osteoblastic cells.",
+        "journal": "Endocrinology 146:2171-5 (2005) DOI:10.1210/en.2004-1283",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15705779",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ahmed I",
+          "Gesty-Palmer D",
+          "Drezner MK",
+          "Luttrell LM"
+        ],
+        "title": "Transactivation of the epidermal growth factor receptor mediates parathyroid hormone and prostaglandin F2 alpha-stimulated mitogen-activated protein kinase activation in cultured transgenic murine osteoblasts.",
+        "journal": "Mol Endocrinol 17:1607-21 (2003) DOI:10.1210/me.2002-0040",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12738761",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sneddon WB",
+          "Yang Y",
+          "Ba J",
+          "Harinstein LM",
+          "Friedman PA"
+        ],
+        "title": "Extracellular signal-regulated kinase activation by parathyroid hormone in distal tubule cells.",
+        "journal": "Am J Physiol Renal Physiol 292:F1028-34 (2007) DOI:10.1152/ajprenal.00288.2006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17107942",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04928"
+  }
+]

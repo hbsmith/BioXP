@@ -1,0 +1,93 @@
+[
+  {
+    "entry_id": "map00331",
+    "name": "Clavulanic acid biosynthesis",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Biosynthesis of other secondary metabolites"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00331": "Clavulanic acid biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "McGowan SJ",
+          "Bycroft BW",
+          "Salmond GP."
+        ],
+        "title": "Bacterial production of carbapenems and clavams: evolution of beta-lactam antibiotic pathways.",
+        "journal": "Trends Microbiol 6:203-8 (1998) DOI:10.1016/S0966-842X(98)01251-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9614345",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Caines ME",
+          "Elkins JM",
+          "Hewitson KS",
+          "Schofield CJ."
+        ],
+        "title": "Crystal structure and mechanistic implications of N2-(2-carboxyethyl)arginine synthase, the first enzyme in the clavulanic acid biosynthesis pathway.",
+        "journal": "J Biol Chem 279:5685-92 (2004) DOI:10.1074/jbc.M310803200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14623876",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00674": "Clavaminate biosynthesis, arginine + glyceraldehyde-3P => clavaminate [PATH:map00331]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00331"
+  }
+]

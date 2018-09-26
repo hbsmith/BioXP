@@ -1,0 +1,571 @@
+[
+  {
+    "entry_id": "map04151",
+    "name": "PI3K-Akt signaling pathway",
+    "description": "The phosphatidylinositol 3' -kinase(PI3K)-Akt signaling pathway is activated by many types of cellular stimuli or toxic insults and regulates fundamental cellular functions such as transcription, translation, proliferation, growth, and survival. The binding of growth factors to their receptor tyrosine kinase (RTK) or G protein-coupled receptors (GPCR) stimulates class Ia and Ib PI3K isoforms, respectively. PI3K catalyzes the production of phosphatidylinositol-3,4,5-triphosphate (PIP3) at the cell membrane. PIP3 in turn serves as a second messenger that helps to activate Akt. Once active, Akt can control key cellular processes by phosphorylating substrates involved in apoptosis, protein synthesis, metabolism, and cell cycle.",
+    "classes": [
+      "Environmental Information Processing",
+      "Signal transduction"
+    ],
+    "diseases": {
+      "H00505": "FGFR3-related short limb skeletal dysplasia",
+      "H00520": "Type II collagenopathies",
+      "H00535": "Hereditary lymphedema",
+      "H01338": "Myosclerosis",
+      "H01340": "Bethlem myopathy",
+      "H01341": "Collagen VI myopathy",
+      "H01370": "SHORT syndrome",
+      "H01387": "Activated PI3K-delta syndrome",
+      "H01388": "Hyperprolactinemia",
+      "H01511": "Mast-cell leukemia",
+      "H01740": "Macrothrombocytopenia",
+      "H01778": "Ullrich disease",
+      "H01909": "Hypoinsulinemic hypoglycemia with hemihypertrophy",
+      "H01910": "Infantile myofibromatosis",
+      "H01912": "Congenital lipomatous overgrowth, vascular malformations, and epidermal nevi",
+      "H02037": "Laron syndrome",
+      "H02039": "Kowarski syndrome",
+      "H02040": "Insulin-like growth factor I deficiency",
+      "H02044": "Cutaneous and mucosal venous malformation",
+      "H02066": "Achondrogenesis type II",
+      "H02068": "Hypochondroplasia",
+      "H02069": "SADDAN",
+      "H02070": "Kniest dysplasia",
+      "H02071": "Czech dysplasia",
+      "H02072": "Stickler syndrome",
+      "H02119": "Proteus syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0043491"
+      ]
+    },
+    "pathways": {
+      "map04151": "PI3K-Akt signaling pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Engelman JA",
+          "Luo J",
+          "Cantley LC"
+        ],
+        "title": "The evolution of phosphatidylinositol 3-kinases as regulators of growth and metabolism.",
+        "journal": "Nat Rev Genet 7:606-19 (2006) DOI:10.1038/nrg1879",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16847462",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Song G",
+          "Ouyang G",
+          "Bao S"
+        ],
+        "title": "The activation of Akt/PKB signaling pathway and cell survival.",
+        "journal": "J Cell Mol Med 9:59-71 (2005) DOI:10.1111/j.1582-4934.2005.tb00337.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15784165",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hers I",
+          "Vincent EE",
+          "Tavare JM"
+        ],
+        "title": "Akt signalling in health and disease.",
+        "journal": "Cell Signal 23:1515-27 (2011) DOI:10.1016/j.cellsig.2011.05.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21620960",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Duronio V"
+        ],
+        "title": "The life of a cell: apoptosis regulation by the PI3K/PKB pathway.",
+        "journal": "Biochem J 415:333-44 (2008) DOI:10.1042/BJ20081056",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18842113",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kim D",
+          "Chung J."
+        ],
+        "title": "Akt: versatile mediator of cell survival and beyond.",
+        "journal": "J Biochem Mol Biol",
+        "volume": "35",
+        "issue": "",
+        "pages": "106-15",
+        "year": "2002",
+        "pubmed": "16248975",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Koyasu S"
+        ],
+        "title": "The role of PI3K in immune cells.",
+        "journal": "Nat Immunol 4:313-9 (2003) DOI:10.1038/ni0403-313",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12660731",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Okkenhaug K",
+          "Vanhaesebroeck B."
+        ],
+        "title": "PI3K in lymphocyte development, differentiation and activation.",
+        "journal": "Nat Rev Immunol 3:317-30 (2003) DOI:10.1038/nri1056",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12669022",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Richardson CJ",
+          "Schalm SS",
+          "Blenis J"
+        ],
+        "title": "PI3-kinase and TOR: PIKTORing cell growth.",
+        "journal": "Semin Cell Dev Biol 15:147-59 (2004) DOI:10.1016/j.semcdb.2003.12.023",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15209374",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang X",
+          "Tang N",
+          "Hadden TJ",
+          "Rishi AK"
+        ],
+        "title": "Akt, FoxO and regulation of apoptosis.",
+        "journal": "Biochim Biophys Acta 1813:1978-86 (2011) DOI:10.1016/j.bbamcr.2011.03.010",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21440011",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Georgescu MM"
+        ],
+        "title": "PTEN Tumor Suppressor Network in PI3K-Akt Pathway Control.",
+        "journal": "Genes Cancer 1:1170-7 (2010) DOI:10.1177/1947601911407325",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21779440",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "West KA",
+          "Castillo SS",
+          "Dennis PA"
+        ],
+        "title": "Activation of the PI3K/Akt pathway and chemotherapeutic resistance.",
+        "journal": "Drug Resist Updat 5:234-48 (2002) DOI:10.1016/S1368-7646(02)00120-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12531180",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wymann MP",
+          "Pirola L"
+        ],
+        "title": "Structure and function of phosphoinositide 3-kinases.",
+        "journal": "Biochim Biophys Acta 1436:127-50 (1998) DOI:10.1016/S0005-2760(98)00139-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9838078",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Moelling K",
+          "Schad K",
+          "Bosse M",
+          "Zimmermann S",
+          "Schweneker M"
+        ],
+        "title": "Regulation of Raf-Akt Cross-talk.",
+        "journal": "J Biol Chem 277:31099-106 (2002) DOI:10.1074/jbc.M111974200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12048182",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kikani CK",
+          "Dong LQ",
+          "Liu F"
+        ],
+        "title": "\"New\"-clear functions of PDK1: beyond a master kinase in the cytosol?",
+        "journal": "J Cell Biochem 96:1157-62 (2005) DOI:10.1002/jcb.20651",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16187290",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Blume-Jensen P",
+          "Hunter T"
+        ],
+        "title": "Oncogenic kinase signalling.",
+        "journal": "Nature 411:355-65 (2001) DOI:10.1038/35077225",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11357143",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Osaki M",
+          "Oshimura M",
+          "Ito H"
+        ],
+        "title": "PI3K-Akt pathway: its functions and alterations in human cancer.",
+        "journal": "Apoptosis 9:667-76 (2004) DOI:10.1023/B:APPT.0000045801.15585.dd",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15505410",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Noguchi M",
+          "Ropars V",
+          "Roumestand C",
+          "Suizu F"
+        ],
+        "title": "Proto-oncogene TCL1: more than just a coactivator for Akt.",
+        "journal": "FASEB J 21:2273-84 (2007) DOI:10.1096/fj.06-7684com",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17360849",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lemmon MA",
+          "Schlessinger J"
+        ],
+        "title": "Cell signaling by receptor tyrosine kinases.",
+        "journal": "Cell 141:1117-34 (2010) DOI:10.1016/j.cell.2010.06.011",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20602996",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Skaper SD"
+        ],
+        "title": "The neurotrophin family of neurotrophic factors: an overview.",
+        "journal": "Methods Mol Biol 846:1-12 (2012) DOI:10.1007/978-1-61779-536-7_1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22367796",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00676": "PI3K-Akt signaling [PATH:map04151]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04151"
+  }
+]

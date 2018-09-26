@@ -1,0 +1,579 @@
+[
+  {
+    "entry_id": "map04212",
+    "name": "Longevity regulating pathway - worm",
+    "description": "The nematode Caenorhabditis elegans has proven to be a very useful tool for studying the genetics of longevity due to its simple biology. Over 70 genes have been found to influence lifespan in this worm. The majority of the genes could be placed into canonical longevity pathways including insulin/IGF, germline, TOR signaling, and mitochondrial respiration. The insulin/IGF-1 signaling (IIS) pathway is a central regulator of life span. Transcription factors regulated by the IIS and the TOR-S6K pathways are implicated in the anti-aging effects of Dietary restriction (DR). Lifespan extension via germline removal depends on at least four signaling mechanisms: reduced TOR signaling, DAF-16/FOXO regulation, increased steroid signaling via the DAF-36/DAF-9/DAF-12 pathway, and increased NHR-80/HNF-4 signaling. The mitochondrial unfolded protein response (UPRmt), a mitochondrial stress response, can be regarded as a hormetic mechanism that extends lifespan in spite of mitochondrial dysfunction. Longevity- promoting compounds such as rapamycin and resveratrol also induce mitonuclear imbalance that activates the UPRmt.",
+    "classes": [
+      "Organismal Systems",
+      "Aging"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map04212": "Longevity regulating pathway - worm"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Lapierre LR",
+          "Hansen M"
+        ],
+        "title": "Lessons from C. elegans: signaling pathways for longevity.",
+        "journal": "Trends Endocrinol Metab 23:637-44 (2012) DOI:10.1016/j.tem.2012.07.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22939742",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yanos ME",
+          "Bennett CF",
+          "Kaeberlein M"
+        ],
+        "title": "Genome-Wide RNAi Longevity Screens in Caenorhabditis elegans.",
+        "journal": "Curr Genomics 13:508-18 (2012) DOI:10.2174/138920212803251391",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23633911",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Antebi A"
+        ],
+        "title": "Regulation of longevity by the reproductive system.",
+        "journal": "Exp Gerontol 48:596-602 (2013) DOI:10.1016/j.exger.2012.09.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23063987",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Khodakarami A",
+          "Saez I",
+          "Mels J",
+          "Vilchez D"
+        ],
+        "title": "Mediation of organismal aging and somatic proteostasis by the germline.",
+        "journal": "Front Mol Biosci 2:3 (2015) DOI:10.3389/fmolb.2015.00003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25988171",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hansen M",
+          "Flatt T",
+          "Aguilaniu H"
+        ],
+        "title": "Reproduction, fat metabolism, and life span: what is the connection?",
+        "journal": "Cell Metab 17:10-9 (2013) DOI:10.1016/j.cmet.2012.12.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23312280",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mouchiroud L",
+          "Houtkooper RH",
+          "Moullan N",
+          "Katsyuba E",
+          "Ryu D",
+          "Canto C",
+          "Mottis A",
+          "Jo YS",
+          "Viswanathan M",
+          "Schoonjans K",
+          "Guarente L",
+          "Auwerx J"
+        ],
+        "title": "The NAD(+)/Sirtuin Pathway Modulates Longevity through Activation of Mitochondrial UPR and FOXO Signaling.",
+        "journal": "Cell 154:430-41 (2013) DOI:10.1016/j.cell.2013.06.016",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23870130",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jasper H"
+        ],
+        "title": "Sirtuins: Longevity focuses on NAD+.",
+        "journal": "Nat Chem Biol 9:666-7 (2013) DOI:10.1038/nchembio.1369",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24141218",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Karpac J",
+          "Jasper H"
+        ],
+        "title": "Aging: seeking mitonuclear balance.",
+        "journal": "Cell 154:271-3 (2013) DOI:10.1016/j.cell.2013.06.046",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23870118",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jensen MB",
+          "Jasper H"
+        ],
+        "title": "Mitochondrial proteostasis in the control of aging and longevity.",
+        "journal": "Cell Metab 20:214-25 (2014) DOI:10.1016/j.cmet.2014.05.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24930971",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Munkacsy E",
+          "Rea SL"
+        ],
+        "title": "The paradox of mitochondrial dysfunction and extended longevity.",
+        "journal": "Exp Gerontol 56:221-33 (2014) DOI:10.1016/j.exger.2014.03.016",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24699406",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Oh SW",
+          "Mukhopadhyay A",
+          "Svrzikapa N",
+          "Jiang F",
+          "Davis RJ",
+          "Tissenbaum HA"
+        ],
+        "title": "JNK regulates lifespan in Caenorhabditis elegans by modulating nuclear translocation of forkhead transcription factor/DAF-16.",
+        "journal": "Proc Natl Acad Sci U S A 102:4494-9 (2005) DOI:10.1073/pnas.0500749102",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15767565",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Murphy CT",
+          "McCarroll SA",
+          "Bargmann CI",
+          "Fraser A",
+          "Kamath RS",
+          "Ahringer J",
+          "Li H",
+          "Kenyon C"
+        ],
+        "title": "Genes that act downstream of DAF-16 to influence the lifespan of Caenorhabditis elegans.",
+        "journal": "Nature 424:277-83 (2003) DOI:10.1038/nature01789",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12845331",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rizki G",
+          "Iwata TN",
+          "Li J",
+          "Riedel CG",
+          "Picard CL",
+          "Jan M",
+          "Murphy CT",
+          "Lee SS"
+        ],
+        "title": "The evolutionarily conserved longevity determinants HCF-1 and SIR-2.1/SIRT1 collaborate to regulate DAF-16/FOXO.",
+        "journal": "PLoS Genet 7:e1002235 (2011) DOI:10.1371/journal.pgen.1002235",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21909281",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wolff S",
+          "Ma H",
+          "Burch D",
+          "Maciel GA",
+          "Hunter T",
+          "Dillin A"
+        ],
+        "title": "SMK-1, an essential regulator of DAF-16-mediated longevity.",
+        "journal": "Cell 124:1039-53 (2006) DOI:10.1016/j.cell.2005.12.042",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16530049",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Barna J",
+          "Princz A",
+          "Kosztelnik M",
+          "Hargitai B",
+          "Takacs-Vellai K",
+          "Vellai T"
+        ],
+        "title": "Heat shock factor-1 intertwines insulin/IGF-1, TGF-beta and cGMP signaling to control development and aging.",
+        "journal": "BMC Dev Biol 12:32 (2012) DOI:10.1186/1471-213X-12-32",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23116063",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hsu AL",
+          "Murphy CT",
+          "Kenyon C"
+        ],
+        "title": "Regulation of aging and age-related disease by DAF-16 and heat-shock factor.",
+        "journal": "Science 300:1142-5 (2003) DOI:10.1126/science.1083701",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12750521",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "An JH",
+          "Vranas K",
+          "Lucke M",
+          "Inoue H",
+          "Hisamoto N",
+          "Matsumoto K",
+          "Blackwell TK"
+        ],
+        "title": "Regulation of the Caenorhabditis elegans oxidative stress defense protein SKN-1 by glycogen synthase kinase-3.",
+        "journal": "Proc Natl Acad Sci U S A 102:16275-80 (2005) DOI:10.1073/pnas.0508105102",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16251270",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Inoue H",
+          "Hisamoto N",
+          "An JH",
+          "Oliveira RP",
+          "Nishida E",
+          "Blackwell TK",
+          "Matsumoto K"
+        ],
+        "title": "The C. elegans p38 MAPK pathway regulates nuclear localization of the transcription factor SKN-1 in oxidative stress response.",
+        "journal": "Genes Dev 19:2278-83 (2005) DOI:10.1101/gad.1324805",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16166371",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Leiser SF",
+          "Begun A",
+          "Kaeberlein M"
+        ],
+        "title": "HIF-1 modulates longevity and healthspan in a temperature-dependent manner.",
+        "journal": "Aging Cell 10:318-26 (2011) DOI:10.1111/j.1474-9726.2011.00672.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21241450",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04212"
+  }
+]

@@ -1,0 +1,381 @@
+[
+  {
+    "entry_id": "map04260",
+    "name": "Cardiac muscle contraction",
+    "description": "Contraction of the heart is a complex process initiated by the electrical excitation of cardiac myocytes (excitation-contraction coupling, ECC). In cardiac myocytes, Ca2+ influx induced by activation of voltage-dependent L-type Ca channels (DHP receptors) upon membrane depolarization triggers the release of Ca2+ via Ca2+ release channels (ryanodine receptors) of sarcoplasmic reticulum (SR) through a Ca2+ -induced Ca release (CICR) mechanism. Ca2+ ions released via the CICR mechanism diffuse through the cytosolic space to contractile proteins to bind to troponinC resulting in the release of inhibition induced by troponinI. The Ca2+ binding to troponinC thereby triggers the sliding of thin and thick filaments, that is, the activation of a crossbridge and subsequent cardiac force development and/or cell shortening. Recovery occurs as Ca2+ is pumped out of the cell by the Na+/Ca2+ exchanger (NCX) or is returned to the sarcoplasmic reticulum (SR) by sarco(endo)plasmic Ca2+ -ATPase (SERCA) pumps on the non-junctional region of the SR.",
+    "classes": [
+      "Organismal Systems",
+      "Circulatory system"
+    ],
+    "diseases": {
+      "H00594": "Distal myopathy",
+      "H00656": "Scapuloperoneal myopathy",
+      "H00698": "Nemaline myopathy",
+      "H00701": "Congenital fiber type disproportion",
+      "H00702": "Cap myopathy",
+      "H00703": "Myosin storage myopathy",
+      "H00728": "Brugada syndrome",
+      "H00746": "Hypokalemic periodic paralysis (HypoPP)",
+      "H00749": "Episodic ataxias",
+      "H00775": "Hemiplegic migraine",
+      "H00808": "Idiopathic generalized epilepsies",
+      "H00811": "Distal arthrogryposis",
+      "H00831": "Primary dystonia",
+      "H01019": "Catecholaminergic polymorphic ventricular tachycardia",
+      "H01216": "Left ventricular noncompaction",
+      "H01219": "Restrictive cardiomyopathy",
+      "H01355": "Kearns-Sayre syndrome",
+      "H01368": "Cytochrome c oxidase (COX) deficiency",
+      "H02086": "Mitochondrial complex III deficiency"
+    },
+    "dblinks": {
+      "GO": [
+        "0060048"
+      ]
+    },
+    "pathways": {
+      "map04260": "Cardiac muscle contraction"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Bers DM"
+        ],
+        "title": "Calcium cycling and signaling in cardiac myocytes.",
+        "journal": "Annu Rev Physiol 70:23-49 (2008) DOI:10.1146/annurev.physiol.70.113006.100455",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17988210",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bers DM"
+        ],
+        "title": "Cardiac excitation-contraction coupling.",
+        "journal": "Nature 415:198-205 (2002) DOI:10.1038/415198a",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11805843",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Endoh M"
+        ],
+        "title": "Signal transduction and Ca2+ signaling in intact myocardium.",
+        "journal": "J Pharmacol Sci 100:525-37 (2006) DOI:10.1254/jphs.CPJ06009X",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16799263",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Endoh M"
+        ],
+        "title": "Cardiac Ca2+ signaling and Ca2+ sensitizers.",
+        "journal": "Circ J 72:1915-25 (2008) DOI:10.1253/circj.CJ-08-0838",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18981594",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bers DM",
+          "Despa S"
+        ],
+        "title": "Cardiac myocytes Ca2+ and Na+ regulation in normal and failing hearts.",
+        "journal": "J Pharmacol Sci 100:315-22 (2006) DOI:10.1254/jphs.CPJ06001X",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16552170",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gordon AM",
+          "Homsher E",
+          "Regnier M"
+        ],
+        "title": "Regulation of contraction in striated muscle.",
+        "journal": "Physiol Rev 80:853-924 (2000) DOI:10.1152/physrev.2000.80.2.853",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10747208",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Phrommintikul A",
+          "Chattipakorn N"
+        ],
+        "title": "Roles of cardiac ryanodine receptor in heart failure and sudden cardiac death.",
+        "journal": "Int J Cardiol 112:142-52 (2006) DOI:10.1016/j.ijcard.2005.11.106",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16701909",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lacinova L"
+        ],
+        "title": "Voltage-dependent calcium channels.",
+        "journal": "Gen Physiol Biophys 24 Suppl",
+        "volume": "1",
+        "issue": "",
+        "pages": "1-78",
+        "year": "2005",
+        "pubmed": "16096350",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lingrel J",
+          "Moseley A",
+          "Dostanic I",
+          "Cougnon M",
+          "He S",
+          "James P",
+          "Woo A",
+          "O'Connor K",
+          "Neumann J"
+        ],
+        "title": "Functional roles of the alpha isoforms of the Na,K-ATPase.",
+        "journal": "Ann N Y Acad Sci 986:354-9 (2003) DOI:10.1111/j.1749-6632.2003.tb07214.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12763850",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Berg JS",
+          "Powell BC",
+          "Cheney RE"
+        ],
+        "title": "A millennial myosin census.",
+        "journal": "Mol Biol Cell 12:780-94 (2001) DOI:10.1091/mbc.12.4.780",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11294886",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Parmacek MS",
+          "Solaro RJ"
+        ],
+        "title": "Biology of the troponin complex in cardiac myocytes.",
+        "journal": "Prog Cardiovasc Dis 47:159-76 (2004) DOI:10.1016/j.pcad.2004.07.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15736582",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yamashita H",
+          "Sugiura S",
+          "Fujita H",
+          "Yasuda S",
+          "Nagai R",
+          "Saeki Y",
+          "Sunagawa K",
+          "Sugi H"
+        ],
+        "title": "Myosin light chain isoforms modify force-generating ability of cardiac myosin by changing the kinetics of actin-myosin interaction.",
+        "journal": "Cardiovasc Res 60:580-8 (2003) DOI:10.1016/j.cardiores.2003.09.011",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14659803",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04260"
+  }
+]

@@ -1,0 +1,519 @@
+[
+  {
+    "entry_id": "map04920",
+    "name": "Adipocytokine signaling pathway",
+    "description": "Increased adipocyte volume and number are positively correlated with leptin production, and negatively correlated with production of adiponectin. Leptin is an important regulator of energy intake and metabolic rate primarily by acting at hypothalamic nuclei. Leptin exerts its anorectic effects by modulating the levels of neuropeptides such as NPY, AGRP, and alpha-MSH. This leptin action is through the JAK kinase, STAT3 phosphorylation, and nuclear transcriptional effect. Adiponectin lowers plasma glucose and FFAs. These effects are partly accounted for by adiponectin-induced AMPK activation, which in turn stimulates skeletal muscle fatty acid oxidation and glucose uptake. Furthermore, activation of AMPK by adiponectin suppresses endogenous glucose production, concomitantly with inhibition of PEPCK and G6Pase expression. The proinflammatory cytokine TNFalpha has been implicated as a link between obesity and insulin resistance. TNFalpha interferes with early steps of insulin signaling. Several data have shown that TNFalpha inhibits IRS1 tyrosine phosphorylation by promoting its serine phosphorylation. Among the serine/threonine kinases activated by TNFalpha, JNK, mTOR and IKK have been shown to be involved in this phosphorylation.",
+    "classes": [
+      "Organismal Systems",
+      "Endocrine system"
+    ],
+    "diseases": {
+      "H00645": "Incontinentia pigmenti",
+      "H00666": "Peutz-Jeghers syndrome",
+      "H00831": "Primary dystonia",
+      "H00836": "GLUT1 deficiency syndrome",
+      "H00882": "Cocoon syndrome",
+      "H00967": "Adiponectin deficiency",
+      "H01018": "Metachondromatosis",
+      "H01108": "CD36 deficiency",
+      "H01154": "Wolff-Parkinson-White (WPW) syndrome",
+      "H01703": "Eating Disorders",
+      "H02059": "Leptin deficiency",
+      "H02060": "Leptin receptor deficiency"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map04920": "Adipocytokine signaling pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Gual P",
+          "Le Marchand-Brustel Y",
+          "Tanti JF."
+        ],
+        "title": "Positive and negative regulation of insulin signaling through IRS-1 phosphorylation.",
+        "journal": "Biochimie 87:99-109 (2005) DOI:10.1016/j.biochi.2004.10.019",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15733744",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hardie DG",
+          "Scott JW",
+          "Pan DA",
+          "Hudson ER."
+        ],
+        "title": "Management of cellular energy by the AMP-activated protein kinase system.",
+        "journal": "FEBS Lett 546:113-20 (2003) DOI:10.1016/S0014-5793(03)00560-X",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12829246",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hurley RL",
+          "Anderson KA",
+          "Franzone JM",
+          "Kemp BE",
+          "Means AR",
+          "Witters LA."
+        ],
+        "title": "The Ca2+/calmodulin-dependent protein kinase kinases are AMP-activated protein kinase kinases.",
+        "journal": "J Biol Chem 280:29060-6 (2005) DOI:10.1074/jbc.M503824200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15980064",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schwartz MW",
+          "Woods SC",
+          "Porte D Jr",
+          "Seeley RJ",
+          "Baskin DG."
+        ],
+        "title": "Central nervous system control of food intake.",
+        "journal": "Nature 404:661-71 (2000) DOI:10.1038/35007534",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10766253",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Munzberg H",
+          "Myers MG Jr."
+        ],
+        "title": "Molecular and anatomical determinants of central leptin resistance.",
+        "journal": "Nat Neurosci 8:566-70 (2005) DOI:10.1038/nn1454",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15856064",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Puigserver P",
+          "Rhee J",
+          "Donovan J",
+          "Walkey CJ",
+          "Yoon JC",
+          "Oriente F",
+          "Kitamura Y",
+          "Altomonte J",
+          "Dong H",
+          "Accili D",
+          "Spiegelman BM."
+        ],
+        "title": "Insulin-regulated hepatic gluconeogenesis through FOXO1-PGC-1alpha interaction.",
+        "journal": "Nature 423:550-5 (2003) DOI:10.1038/nature01667",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12754525",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yoon JC",
+          "Puigserver P",
+          "Chen G",
+          "Donovan J",
+          "Wu Z",
+          "Rhee J",
+          "Adelmant G",
+          "Stafford J",
+          "Kahn CR",
+          "Granner DK",
+          "Newgard CB",
+          "Spiegelman BM."
+        ],
+        "title": "Control of hepatic gluconeogenesis through the transcriptional coactivator PGC-1.",
+        "journal": "Nature 413:131-8 (2001) DOI:10.1038/35093050",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11557972",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Inoue H",
+          "Ogawa W",
+          "Ozaki M",
+          "Haga S",
+          "Matsumoto M",
+          "Furukawa K",
+          "Hashimoto N",
+          "Kido Y",
+          "Mori T",
+          "Sakaue H",
+          "Teshigawara K",
+          "Jin S",
+          "Iguchi H",
+          "Hiramatsu R",
+          "LeRoith D",
+          "Takeda K",
+          "Akira S",
+          "Kasuga M."
+        ],
+        "title": "Role of STAT-3 in regulation of hepatic gluconeogenic genes and carbohydrate metabolism in vivo.",
+        "journal": "Nat Med 10:168-74 (2004) DOI:10.1038/nm980",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14716305",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhou YT",
+          "Shimabukuro M",
+          "Wang MY",
+          "Lee Y",
+          "Higa M",
+          "Milburn JL",
+          "Newgard CB",
+          "Unger RH."
+        ],
+        "title": "Role of peroxisome proliferator-activated receptor alpha in disease of pancreatic beta cells.",
+        "journal": "Proc Natl Acad Sci U S A 95:8898-903 (1998) DOI:10.1073/pnas.95.15.8898",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9671776",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kelley DE",
+          "Mandarino LJ."
+        ],
+        "title": "Fuel selection in human skeletal muscle in insulin resistance: a reexamination.",
+        "journal": "Diabetes 49:677-83 (2000) DOI:10.2337/diabetes.49.5.677",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10905472",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yamauchi T",
+          "Kamon J",
+          "Minokoshi Y",
+          "Ito Y",
+          "Waki H",
+          "Uchida S",
+          "Yamashita S",
+          "Noda M",
+          "Kita S",
+          "Ueki K",
+          "Eto K",
+          "Akanuma Y",
+          "Froguel P",
+          "Foufelle F",
+          "Ferre P",
+          "Carling D",
+          "Kimura S",
+          "Nagai R",
+          "Kahn BB",
+          "Kadowaki T."
+        ],
+        "title": "Adiponectin stimulates glucose utilization and fatty-acid oxidation by activating AMP-activated protein kinase.",
+        "journal": "Nat Med 8:1288-95 (2002) DOI:10.1038/nm788",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12368907",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yamauchi T",
+          "Kamon J",
+          "Waki H",
+          "Terauchi Y",
+          "Kubota N",
+          "Hara K",
+          "Mori Y",
+          "Ide T",
+          "Murakami K",
+          "Tsuboyama-Kasaoka N",
+          "Ezaki O",
+          "Akanuma Y",
+          "Gavrilova O",
+          "Vinson C",
+          "Reitman ML",
+          "Kagechika H",
+          "Shudo K",
+          "Yoda M",
+          "Nakano Y",
+          "Tobe K",
+          "Nagai R",
+          "Kimura S",
+          "Tomita M",
+          "Froguel P",
+          "Kadowaki T."
+        ],
+        "title": "The fat-derived hormone adiponectin reverses insulin resistance associated with both lipoatrophy and obesity.",
+        "journal": "Nat Med 7:941-6 (2001) DOI:10.1038/90984",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11479627",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Minokoshi Y",
+          "Alquier T",
+          "Furukawa N",
+          "Kim YB",
+          "Lee A",
+          "Xue B",
+          "Mu J",
+          "Foufelle F",
+          "Ferre P",
+          "Birnbaum MJ",
+          "Stuck BJ",
+          "Kahn BB."
+        ],
+        "title": "AMP-kinase regulates food intake by responding to hormonal and nutrient signals in the hypothalamus.",
+        "journal": "Nature 428:569-74 (2004) DOI:10.1038/nature02440",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15058305",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Weisberg SP",
+          "McCann D",
+          "Desai M",
+          "Rosenbaum M",
+          "Leibel RL",
+          "Ferrante AW Jr."
+        ],
+        "title": "Obesity is associated with macrophage accumulation in adipose tissue.",
+        "journal": "J Clin Invest 112:1796-808 (2003) DOI:10.1172/JCI19246",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14679176",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04920"
+  }
+]

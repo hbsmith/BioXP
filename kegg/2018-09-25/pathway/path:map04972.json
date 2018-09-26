@@ -1,0 +1,496 @@
+[
+  {
+    "entry_id": "map04972",
+    "name": "Pancreatic secretion",
+    "description": "The pancreas performs both exocrine and endocrine functions. The exocrine pancreas consists of two parts, the acinar and duct cells. The primary functions of pancreatic acinar cells are to synthesize and secrete digestive enzymes. Stimulation of the cell by secretagogues such as acetylcholine (ACh) and cholecystokinin (CCK) causes the generation of an intracellular Ca2+ signal. This signal, in turn, triggers the fusion of the zymogen granules with the apical plasma membrane, leading to the polarised secretion of the enzymes. The major task of pancreatic duct cells is the secretion of fluid and bicarbonate ions (HCO3-), which neutralize the acidity of gastric contents that enter the duodenum. An increase in intracellular cAMP by secretin is one of the major signals of pancreatic HCO3- secretion. Activation of the CFTR Cl- channel and the CFTR-dependent Cl-/HCO3- exchange activities is responsible for cAMP-induced HCO3- secretion.",
+    "classes": [
+      "Organismal Systems",
+      "Digestive system"
+    ],
+    "diseases": {
+      "H00409": "Type 2 diabetes mellitus",
+      "H00933": "Hereditary pancreatitis"
+    },
+    "dblinks": {
+      "GO": [
+        "0030157"
+      ]
+    },
+    "pathways": {
+      "map04972": "Pancreatic secretion"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Petersen OH",
+          "Tepikin AV"
+        ],
+        "title": "Polarized calcium signaling in exocrine gland cells.",
+        "journal": "Annu Rev Physiol 70:273-99 (2008) DOI:10.1146/annurev.physiol.70.113006.100618",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17850212",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Williams JA"
+        ],
+        "title": "Regulation of acinar cell function in the pancreas.",
+        "journal": "Curr Opin Gastroenterol 26:478-83 (2010) DOI:10.1097/MOG.0b013e32833d11c6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20625287",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Williams JA"
+        ],
+        "title": "Regulation of pancreatic acinar cell function.",
+        "journal": "Curr Opin Gastroenterol 22:498-504 (2006) DOI:10.1097/01.mog.0000239863.96833.c0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16891880",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bi Y",
+          "Williams JA"
+        ],
+        "title": "Receptor biology and signal transduction in pancreatic acinar cells.",
+        "journal": "Curr Opin Gastroenterol",
+        "volume": "20",
+        "issue": "",
+        "pages": "427-34",
+        "year": "2004",
+        "pubmed": "15689674",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yamasaki M",
+          "Masgrau R",
+          "Morgan AJ",
+          "Churchill GC",
+          "Patel S",
+          "Ashcroft SJ",
+          "Galione A"
+        ],
+        "title": "Organelle selection determines agonist-specific Ca2+ signals in pancreatic acinar and beta cells.",
+        "journal": "J Biol Chem 279:7234-40 (2004) DOI:10.1074/jbc.M311088200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14660554",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kanno T"
+        ],
+        "title": "Ca2+ signaling in the pancreatic acinus.",
+        "journal": "Pancreas",
+        "volume": "16",
+        "issue": "",
+        "pages": "273-6",
+        "year": "1998",
+        "pubmed": "9548666",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Heitzmann D",
+          "Warth R"
+        ],
+        "title": "Physiology and pathophysiology of potassium channels in gastrointestinal epithelia.",
+        "journal": "Physiol Rev 88:1119-82 (2008) DOI:10.1152/physrev.00020.2007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18626068",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Konturek SJ",
+          "Zabielski R",
+          "Konturek JW",
+          "Czarnecki J"
+        ],
+        "title": "Neuroendocrinology of the pancreas; role of brain-gut axis in pancreatic secretion.",
+        "journal": "Eur J Pharmacol 481:1-14 (2003) DOI:10.1016/j.ejphar.2003.08.042",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14637169",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chu JY",
+          "Yung WH",
+          "Chow BK"
+        ],
+        "title": "Secretin: a pleiotrophic hormone.",
+        "journal": "Ann N Y Acad Sci 1070:27-50 (2006) DOI:10.1196/annals.1317.013",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16888148",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Siu FK",
+          "Lam IP",
+          "Chu JY",
+          "Chow BK"
+        ],
+        "title": "Signaling mechanisms of secretin receptor.",
+        "journal": "Regul Pept 137:95-104 (2006) DOI:10.1016/j.regpep.2006.02.011",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16930743",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Steward MC",
+          "Ishiguro H",
+          "Case RM"
+        ],
+        "title": "Mechanisms of bicarbonate secretion in the pancreatic duct.",
+        "journal": "Annu Rev Physiol 67:377-409 (2005) DOI:10.1146/annurev.physiol.67.031103.153247",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15709963",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kim D",
+          "Steward MC"
+        ],
+        "title": "The role of CFTR in bicarbonate secretion by pancreatic duct and airway epithelia.",
+        "journal": "J Med Invest 56 Suppl:336-42 (2009) DOI:10.2152/jmi.56.336",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20224219",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Whitcomb DC",
+          "Lowe ME"
+        ],
+        "title": "Human pancreatic digestive enzymes.",
+        "journal": "Dig Dis Sci 52:1-17 (2007) DOI:10.1007/s10620-006-9589-z",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17205399",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cancela JM",
+          "Gerasimenko OV",
+          "Gerasimenko JV",
+          "Tepikin AV",
+          "Petersen OH"
+        ],
+        "title": "Two different but converging messenger pathways to intracellular Ca(2+) release: the roles of nicotinic acid adenine dinucleotide phosphate, cyclic ADP-ribose and inositol trisphosphate.",
+        "journal": "EMBO J 19:2549-57 (2000) DOI:10.1093/emboj/19.11.2549",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10835353",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cancela JM",
+          "Churchill GC",
+          "Galione A"
+        ],
+        "title": "Coordination of agonist-induced Ca2+-signalling patterns by NAADP in pancreatic acinar cells.",
+        "journal": "Nature 398:74-6 (1999) DOI:10.1038/18032",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10078532",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Parekh AB"
+        ],
+        "title": "Calcium signaling and acute pancreatitis: specific response to a promiscuous messenger.",
+        "journal": "Proc Natl Acad Sci U S A 97:12933-4 (2000) DOI:10.1073/pnas.97.24.12933",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11087843",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Williams JA",
+          "Chen X",
+          "Sabbatini ME"
+        ],
+        "title": "Small G proteins as key regulators of pancreatic digestive enzyme secretion.",
+        "journal": "Am J Physiol Endocrinol Metab 296:E405-14 (2009) DOI:10.1152/ajpendo.90874.2008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19088252",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04972"
+  }
+]

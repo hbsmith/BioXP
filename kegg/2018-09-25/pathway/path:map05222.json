@@ -1,0 +1,505 @@
+[
+  {
+    "entry_id": "map05222",
+    "name": "Small cell lung cancer",
+    "description": "Lung cancer is a leading cause of cancer death among men and women in industrialized countries. Small cell lung carcinoma (SCLC) is a highly aggressive neoplasm, which accounts for approximately 25% of all lung cancer cases. Molecular mechanisms altered in SCLC include induced expression of oncogene, MYC, and loss of tumorsuppressor genes, such as p53, PTEN, RB, and FHIT. The overexpression of MYC proteins in SCLC is largely a result of gene amplification. Such overexpression leads to more rapid proliferation and loss of terminal differentiation. Mutation or deletion of p53 or PTEN can lead to more rapid proliferation and reduced apoptosis. The retinoblastoma gene RB1 encodes a nuclear phosphoprotein that helps to regulate cell-cycle progression. The fragile histidine triad gene FHIT encodes the enzyme diadenosine triphosphate hydrolase, which is thought to have an indirect role in proapoptosis and cell-cycle control.",
+    "classes": [
+      "Human Diseases",
+      "Cancers: Specific types"
+    ],
+    "diseases": {
+      "H00013": "Small cell lung cancer"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05222": "Small cell lung cancer"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Osada H",
+          "Takahashi T."
+        ],
+        "title": "Genetic alterations of multiple tumor suppressors and oncogenes in the carcinogenesis and progression of lung cancer.",
+        "journal": "Oncogene 21:7421-34 (2002) DOI:10.1038/sj.onc.1205802",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12379883",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yokota J",
+          "Nishioka M",
+          "Tani M",
+          "Kohno T."
+        ],
+        "title": "Genetic alterations responsible for metastatic phenotypes of lung cancer cells.",
+        "journal": "Clin Exp Metastasis",
+        "volume": "20",
+        "issue": "",
+        "pages": "189-93",
+        "year": "2003",
+        "pubmed": "12741677",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sanchez-Cespedes M."
+        ],
+        "title": "Dissecting the genetic alterations involved in lung carcinogenesis.",
+        "journal": "Lung Cancer 40:111-21 (2003) DOI:10.1016/S0169-5002(03)00033-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12711111",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mitsuuchi Y",
+          "Testa JR."
+        ],
+        "title": "Cytogenetics and molecular genetics of lung cancer.",
+        "journal": "Am J Med Genet 115:183-8 (2002) DOI:10.1002/ajmg.10692",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12407699",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kaye FJ."
+        ],
+        "title": "Molecular biology of lung cancer.",
+        "journal": "Lung Cancer 34 Suppl 2:S35-41 (2001) DOI:10.1016/S0169-5002(01)00342-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11720739",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Panani AD",
+          "Roussos C."
+        ],
+        "title": "Cytogenetic and molecular aspects of lung cancer.",
+        "journal": "Cancer Lett 239:1-9 (2006) DOI:10.1016/j.canlet.2005.06.030",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16112428",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Altucci L",
+          "Gronemeyer H."
+        ],
+        "title": "The promise of retinoids to fight against cancer.",
+        "journal": "Nat Rev Cancer 1:181-93 (2001) DOI:10.1038/35106036",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11902573",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Virmani AK",
+          "Rathi A",
+          "Zochbauer-Muller S",
+          "Sacchi N",
+          "Fukuyama Y",
+          "Bryant D",
+          "Maitra A",
+          "Heda S",
+          "Fong KM",
+          "Thunnissen F",
+          "Minna JD",
+          "Gazdar AF."
+        ],
+        "title": "Promoter methylation and silencing of the retinoic acid receptor-beta gene in lung carcinomas.",
+        "journal": "J Natl Cancer Inst 92:1303-7 (2000) DOI:10.1093/jnci/92.16.1303",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10944551",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sartorius UA",
+          "Krammer PH."
+        ],
+        "title": "Upregulation of Bcl-2 is involved in the mediation of chemotherapy resistance in human small cell lung cancer cell lines.",
+        "journal": "Int J Cancer 97:584-92 (2002) DOI:10.1002/ijc.10096",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11807782",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Adhikary S",
+          "Eilers M."
+        ],
+        "title": "Transcriptional regulation and transformation by Myc proteins.",
+        "journal": "Nat Rev Mol Cell Biol 6:635-45 (2005) DOI:10.1038/nrm1703",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16064138",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Spruck C",
+          "Strohmaier H",
+          "Watson M",
+          "Smith AP",
+          "Ryan A",
+          "Krek TW",
+          "Reed SI."
+        ],
+        "title": "A CDK-independent function of mammalian Cks1: targeting of SCF(Skp2) to the CDK inhibitor p27Kip1.",
+        "journal": "Mol Cell 7:639-50 (2001) DOI:10.1016/S1097-2765(01)00210-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11463388",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Buttery RC",
+          "Rintoul RC",
+          "Sethi T."
+        ],
+        "title": "Small cell lung cancer: the importance of the extracellular matrix.",
+        "journal": "Int J Biochem Cell Biol 36:1154-60 (2004) DOI:10.1016/S1357-2725(03)00261-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15109562",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yamada KM",
+          "Araki M."
+        ],
+        "title": "Tumor suppressor PTEN: modulator of cell signaling, growth, migration and apoptosis.",
+        "journal": "J Cell Sci",
+        "volume": "114",
+        "issue": "",
+        "pages": "2375-82",
+        "year": "2001",
+        "pubmed": "11559746",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rintoul RC",
+          "Sethi T."
+        ],
+        "title": "The role of extracellular matrix in small-cell lung cancer.",
+        "journal": "Lancet Oncol 2:437-42 (2001) DOI:10.1016/S1470-2045(00)00421-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11905738",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ekedahl J",
+          "Joseph B",
+          "Grigoriev MY",
+          "Muller M",
+          "Magnusson C",
+          "Lewensohn R",
+          "Zhivotovsky B."
+        ],
+        "title": "Expression of inhibitor of apoptosis proteins in small- and non-small-cell lung carcinoma cells.",
+        "journal": "Exp Cell Res 279:277-90 (2002) DOI:10.1006/excr.2002.5608",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12243753",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shivapurkar N",
+          "Reddy J",
+          "Chaudhary PM",
+          "Gazdar AF."
+        ],
+        "title": "Apoptosis and lung cancer: a review.",
+        "journal": "J Cell Biochem 88:885-98 (2003) DOI:10.1002/jcb.10440",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12616528",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Weyhenmeyer B",
+          "Murphy AC",
+          "Prehn JH",
+          "Murphy BM"
+        ],
+        "title": "Targeting the anti-apoptotic Bcl-2 family members for the treatment of cancer.",
+        "journal": "Exp Oncol",
+        "volume": "34",
+        "issue": "",
+        "pages": "192-9",
+        "year": "2012",
+        "pubmed": "23070004",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05222"
+  }
+]

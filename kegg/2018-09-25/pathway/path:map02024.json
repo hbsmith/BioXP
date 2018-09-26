@@ -1,0 +1,1638 @@
+[
+  {
+    "entry_id": "map02024",
+    "name": "Quorum sensing",
+    "description": "Quorum sensing (QS) is a regulatory system that allows bacteria to share information about cell density and adjust gene expression accordingly. All QS bacteria produce and release chemical signal molecules called autoinducers (AIs) that increase in concentration as a function of cell density. The most commonly studied AIs belong to one of the following three categories: acylated homoserine lactones, also referred to as AI-1, used by Gram-negative bacteria; peptide signals, used by Gram-positive bacteria; and AI-2, used by both Gram-negative and Gram-positive bacteria. QS can be divided into at least 4 steps: production of AIs by the bacterial cell; release of AIs, either actively or passively, into the surrounding environment; recognition of AIs by specific receptors; and leading to changes in gene regulation once they exceed a threshold concentration. The processes controlled by QS include virulence, competence, conjugation, antibiotic production, motility, sporulation, and biofilm formation.",
+    "classes": [
+      "Cellular Processes",
+      "Cellular community - prokaryotes"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0009372"
+      ]
+    },
+    "pathways": {
+      "map02024": "Quorum sensing"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Pereira CS",
+          "Thompson JA",
+          "Xavier KB"
+        ],
+        "title": "AI-2-mediated signalling in bacteria.",
+        "journal": "FEMS Microbiol Rev 37:156-81 (2013) DOI:10.1111/j.1574-6976.2012.00345.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22712853",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Verma SC",
+          "Miyashiro T"
+        ],
+        "title": "Quorum sensing in the squid-Vibrio symbiosis.",
+        "journal": "Int J Mol Sci 14:16386-401 (2013) DOI:10.3390/ijms140816386",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23965960",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Norsworthy AN",
+          "Visick KL"
+        ],
+        "title": "Gimme shelter: how Vibrio fischeri successfully navigates an animal's multiple environments.",
+        "journal": "Front Microbiol 4:356 (2013) DOI:10.3389/fmicb.2013.00356",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24348467",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Papaioannou E",
+          "Utari PD",
+          "Quax WJ"
+        ],
+        "title": "Choosing an appropriate infection model to study quorum sensing inhibition in Pseudomonas infections.",
+        "journal": "Int J Mol Sci 14:19309-40 (2013) DOI:10.3390/ijms140919309",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24065108",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Heeb S",
+          "Fletcher MP",
+          "Chhabra SR",
+          "Diggle SP",
+          "Williams P",
+          "Camara M"
+        ],
+        "title": "Quinolones: from antibiotics to autoinducers.",
+        "journal": "FEMS Microbiol Rev 35:247-74 (2011) DOI:10.1111/j.1574-6976.2010.00247.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20738404",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rasamiravaka T",
+          "Labtani Q",
+          "Duez P",
+          "El Jaziri M"
+        ],
+        "title": "The formation of biofilms by Pseudomonas aeruginosa: a review of the natural and synthetic compounds interfering with control mechanisms.",
+        "journal": "Biomed Res Int 2015:759348 (2015) DOI:10.1155/2015/759348",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25866808",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Whiteley M",
+          "Greenberg EP"
+        ],
+        "title": "Promoter specificity elements in Pseudomonas aeruginosa quorum-sensing-controlled genes.",
+        "journal": "J Bacteriol 183:5529-34 (2001) DOI:10.1128/JB.183.19.5529-5534.2001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11544214",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chin-A-Woeng TF",
+          "van den Broek D",
+          "de Voer G",
+          "van der Drift KM",
+          "Tuinman S",
+          "Thomas-Oates JE",
+          "Lugtenberg BJ",
+          "Bloemberg GV"
+        ],
+        "title": "Phenazine-1-carboxamide production in the biocontrol strain Pseudomonas chlororaphis PCL1391 is regulated by multiple factors secreted into the growth medium.",
+        "journal": "Mol Plant Microbe Interact 14:969-79 (2001) DOI:10.1094/MPMI.2001.14.8.969",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11497469",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hughes DT",
+          "Clarke MB",
+          "Yamamoto K",
+          "Rasko DA",
+          "Sperandio V"
+        ],
+        "title": "The QseC adrenergic signaling cascade in Enterohemorrhagic E. coli (EHEC).",
+        "journal": "PLoS Pathog 5:e1000553 (2009) DOI:10.1371/journal.ppat.1000553",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19696934",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Njoroge J",
+          "Sperandio V"
+        ],
+        "title": "Enterohemorrhagic Escherichia coli virulence regulation by two bacterial adrenergic kinases, QseC and QseE.",
+        "journal": "Infect Immun 80:688-703 (2012) DOI:10.1128/IAI.05921-11",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22144490",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pacheco AR",
+          "Curtis MM",
+          "Ritchie JM",
+          "Munera D",
+          "Waldor MK",
+          "Moreira CG",
+          "Sperandio V"
+        ],
+        "title": "Fucose sensing regulates bacterial intestinal colonization.",
+        "journal": "Nature 492:113-7 (2012) DOI:10.1038/nature11623",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23160491",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hirakawa H",
+          "Harwood CS",
+          "Pechter KB",
+          "Schaefer AL",
+          "Greenberg EP"
+        ],
+        "title": "Antisense RNA that affects Rhodopseudomonas palustris quorum-sensing signal receptor expression.",
+        "journal": "Proc Natl Acad Sci U S A 109:12141-6 (2012) DOI:10.1073/pnas.1200243109",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22778415",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Danino VE",
+          "Wilkinson A",
+          "Edwards A",
+          "Downie JA"
+        ],
+        "title": "Recipient-induced transfer of the symbiotic plasmid pRL1JI in Rhizobium leguminosarum bv. viciae is regulated by a quorum-sensing relay.",
+        "journal": "Mol Microbiol 50:511-25 (2003) DOI:10.1046/j.1365-2958.2003.03699.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14617175",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wisniewski-Dye F",
+          "Downie JA"
+        ],
+        "title": "Quorum-sensing in Rhizobium.",
+        "journal": "Antonie Van Leeuwenhoek 81:397-407 (2002) DOI:10.1023/A:1020501104051",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12448738",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rodelas B",
+          "Lithgow JK",
+          "Wisniewski-Dye F",
+          "Hardman A",
+          "Wilkinson A",
+          "Economou A",
+          "Williams P",
+          "Downie JA"
+        ],
+        "title": "Analysis of quorum-sensing-dependent control of rhizosphere-expressed (rhi) genes in Rhizobium leguminosarum bv. viciae.",
+        "journal": "J Bacteriol",
+        "volume": "181",
+        "issue": "",
+        "pages": "3816-23",
+        "year": "1999",
+        "pubmed": "10368158",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lang J",
+          "Faure D"
+        ],
+        "title": "Functions and regulation of quorum-sensing in Agrobacterium tumefaciens.",
+        "journal": "Front Plant Sci 5:14 (2014) DOI:10.3389/fpls.2014.00014",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24550924",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Planamente S",
+          "Morera S",
+          "Faure D"
+        ],
+        "title": "In planta fitness-cost of the Atu4232-regulon encoding for a selective GABA-binding sensor in Agrobacterium.",
+        "journal": "Commun Integr Biol 6:e23692 (2013) DOI:10.4161/cib.23692",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23710277",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Barnard AM",
+          "Salmond GP"
+        ],
+        "title": "Quorum sensing in Erwinia species.",
+        "journal": "Anal Bioanal Chem 387:415-23 (2007) DOI:10.1007/s00216-006-0701-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16943991",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Barnard AM",
+          "Bowden SD",
+          "Burr T",
+          "Coulthurst SJ",
+          "Monson RE",
+          "Salmond GP"
+        ],
+        "title": "Quorum sensing, virulence and secondary metabolite production in plant soft-rotting bacteria.",
+        "journal": "Philos Trans R Soc Lond B Biol Sci 362:1165-83 (2007) DOI:10.1098/rstb.2007.2042",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17360277",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Carlier A",
+          "Burbank L",
+          "von Bodman SB"
+        ],
+        "title": "Identification and characterization of three novel EsaI/EsaR quorum-sensing controlled stewartan exopolysaccharide biosynthetic genes in Pantoea stewartii ssp. stewartii.",
+        "journal": "Mol Microbiol 74:903-13 (2009) DOI:10.1111/j.1365-2958.2009.06906.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19843225",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Beck von Bodman S",
+          "Farrand SK"
+        ],
+        "title": "Capsular polysaccharide biosynthesis and pathogenicity in Erwinia stewartii require induction by an N-acylhomoserine lactone autoinducer.",
+        "journal": "J Bacteriol 177:5000-8 (1995) DOI:10.1128/JB.177.17.5000-5008.1995",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "7665477",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "O'Grady EP",
+          "Viteri DF",
+          "Malott RJ",
+          "Sokol PA"
+        ],
+        "title": "Reciprocal regulation by the CepIR and CciIR quorum sensing systems in Burkholderia cenocepacia.",
+        "journal": "BMC Genomics 10:441 (2009) DOI:10.1186/1471-2164-10-441",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19761612",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Malott RJ",
+          "Baldwin A",
+          "Mahenthiralingam E",
+          "Sokol PA"
+        ],
+        "title": "Characterization of the cciIR quorum-sensing system in Burkholderia cenocepacia.",
+        "journal": "Infect Immun 73:4982-92 (2005) DOI:10.1128/IAI.73.8.4982-4992.2005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16041013",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Deng Y",
+          "Schmid N",
+          "Wang C",
+          "Wang J",
+          "Pessi G",
+          "Wu D",
+          "Lee J",
+          "Aguilar C",
+          "Ahrens CH",
+          "Chang C",
+          "Song H",
+          "Eberl L",
+          "Zhang LH"
+        ],
+        "title": "Cis-2-dodecenoic acid receptor RpfR links quorum-sensing signal perception with regulation of virulence through cyclic dimeric guanosine monophosphate turnover.",
+        "journal": "Proc Natl Acad Sci U S A 109:15479-84 (2012) DOI:10.1073/pnas.1205037109",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22949660",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Suppiger A",
+          "Schmid N",
+          "Aguilar C",
+          "Pessi G",
+          "Eberl L"
+        ],
+        "title": "Two quorum sensing systems control biofilm formation and virulence in members of the Burkholderia cepacia complex.",
+        "journal": "Virulence 4:400-9 (2013) DOI:10.4161/viru.25338",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23799665",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Deng Y",
+          "Wu J",
+          "Tao F",
+          "Zhang LH"
+        ],
+        "title": "Listening to a new language: DSF-based quorum sensing in Gram-negative bacteria.",
+        "journal": "Chem Rev 111:160-73 (2011) DOI:10.1021/cr100354f",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21166386",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ryan RP",
+          "Dow JM"
+        ],
+        "title": "Communication with a growing family: diffusible signal factor (DSF) signaling in bacteria.",
+        "journal": "Trends Microbiol 19:145-52 (2011) DOI:10.1016/j.tim.2010.12.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21227698",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kim J",
+          "Kim JG",
+          "Kang Y",
+          "Jang JY",
+          "Jog GJ",
+          "Lim JY",
+          "Kim S",
+          "Suga H",
+          "Nagamatsu T",
+          "Hwang I"
+        ],
+        "title": "Quorum sensing and the LysR-type transcriptional activator ToxR regulate toxoflavin biosynthesis and transport in Burkholderia glumae.",
+        "journal": "Mol Microbiol 54:921-34 (2004) DOI:10.1111/j.1365-2958.2004.04338.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15522077",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kim J",
+          "Kang Y",
+          "Choi O",
+          "Jeong Y",
+          "Jeong JE",
+          "Lim JY",
+          "Kim M",
+          "Moon JS",
+          "Suga H",
+          "Hwang I"
+        ],
+        "title": "Regulation of polar flagellum genes is mediated by quorum sensing and FlhDC in Burkholderia glumae.",
+        "journal": "Mol Microbiol 64:165-79 (2007) DOI:10.1111/j.1365-2958.2007.05646.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17376080",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Stauff DL",
+          "Bassler BL"
+        ],
+        "title": "Quorum sensing in Chromobacterium violaceum: DNA recognition and gene regulation by the CviR receptor.",
+        "journal": "J Bacteriol 193:3871-8 (2011) DOI:10.1128/JB.05125-11",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21622734",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chen G",
+          "Swem LR",
+          "Swem DL",
+          "Stauff DL",
+          "O'Loughlin CT",
+          "Jeffrey PD",
+          "Bassler BL",
+          "Hughson FM"
+        ],
+        "title": "A strategy for antagonizing quorum sensing.",
+        "journal": "Mol Cell 42:199-209 (2011) DOI:10.1016/j.molcel.2011.04.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21504831",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hao G",
+          "Burr TJ"
+        ],
+        "title": "Regulation of long-chain N-acyl-homoserine lactones in Agrobacterium vitis.",
+        "journal": "J Bacteriol 188:2173-83 (2006) DOI:10.1128/JB.188.6.2173-2183.2006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16513747",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Savka MA",
+          "Le PT",
+          "Burr TJ"
+        ],
+        "title": "LasR receptor for detection of long-chain quorum-sensing signals: identification of N-acyl-homoserine lactones encoded by the avsI locus of Agrobacterium vitis.",
+        "journal": "Curr Microbiol 62:101-10 (2011) DOI:10.1007/s00284-010-9679-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20514483",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Le KY",
+          "Otto M"
+        ],
+        "title": "Quorum-sensing regulation in staphylococci-an overview.",
+        "journal": "Front Microbiol 6:1174 (2015) DOI:10.3389/fmicb.2015.01174",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26579084",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Queck SY",
+          "Jameson-Lee M",
+          "Villaruz AE",
+          "Bach TH",
+          "Khan BA",
+          "Sturdevant DE",
+          "Ricklefs SM",
+          "Li M",
+          "Otto M"
+        ],
+        "title": "RNAIII-independent target gene control by the agr quorum-sensing system: insight into the evolution of virulence regulation in Staphylococcus aureus.",
+        "journal": "Mol Cell 32:150-8 (2008) DOI:10.1016/j.molcel.2008.08.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18851841",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Darkoh C",
+          "DuPont HL",
+          "Norris SJ",
+          "Kaplan HB"
+        ],
+        "title": "Toxin synthesis by Clostridium difficile is regulated through quorum signaling.",
+        "journal": "MBio 6:e02569 (2015) DOI:10.1128/mBio.02569-14",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25714717",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vidal JE",
+          "Shak JR",
+          "Canizalez-Roman A"
+        ],
+        "title": "The CpAL quorum sensing system regulates production of hemolysins CPA and PFO to build Clostridium perfringens biofilms.",
+        "journal": "Infect Immun 83:2430-42 (2015) DOI:10.1128/IAI.00240-15",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25824838",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ohtani K",
+          "Yuan Y",
+          "Hassan S",
+          "Wang R",
+          "Wang Y",
+          "Shimizu T"
+        ],
+        "title": "Virulence gene regulation by the agr system in Clostridium perfringens.",
+        "journal": "J Bacteriol 191:3919-27 (2009) DOI:10.1128/JB.01455-08",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19363118",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Li YH",
+          "Tian X"
+        ],
+        "title": "Quorum sensing and bacterial social interactions in biofilms.",
+        "journal": "Sensors (Basel) 12:2519-38 (2012) DOI:10.3390/s120302519",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22736963",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Berg KH",
+          "Biornstad TJ",
+          "Johnsborg O",
+          "Havarstein LS"
+        ],
+        "title": "Properties and biological role of streptococcal fratricins.",
+        "journal": "Appl Environ Microbiol 78:3515-22 (2012) DOI:10.1128/AEM.00098-12",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22407687",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Conrads G",
+          "de Soet JJ",
+          "Song L",
+          "Henne K",
+          "Sztajer H",
+          "Wagner-Dobler I",
+          "Zeng AP"
+        ],
+        "title": "Comparing the cariogenic species Streptococcus sobrinus and S. mutans on whole genome level.",
+        "journal": "J Oral Microbiol 6:26189 (2014) DOI:10.3402/jom.v6.26189",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25475081",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jimenez JC",
+          "Federle MJ"
+        ],
+        "title": "Quorum sensing in group A Streptococcus.",
+        "journal": "Front Cell Infect Microbiol 4:127 (2014) DOI:10.3389/fcimb.2014.00127",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25309879",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cook LC",
+          "Federle MJ"
+        ],
+        "title": "Peptide pheromone signaling in Streptococcus and Enterococcus.",
+        "journal": "FEMS Microbiol Rev 38:473-92 (2014) DOI:10.1111/1574-6976.12046",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24118108",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Podbielski A",
+          "Leonard BA"
+        ],
+        "title": "The group A streptococcal dipeptide permease (Dpp) is involved in the uptake of essential amino acids and affects the expression of cysteine protease.",
+        "journal": "Mol Microbiol 28:1323-34 (1998) DOI:10.1046/j.1365-2958.1998.00898.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9680220",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Podbielski A",
+          "Pohl B",
+          "Woischnik M",
+          "Korner C",
+          "Schmidt KH",
+          "Rozdzinski E",
+          "Leonard BA"
+        ],
+        "title": "Molecular characterization of group A streptococcal (GAS) oligopeptide permease (opp) and its effect on cysteine protease production.",
+        "journal": "Mol Microbiol 21:1087-99 (1996) DOI:10.1046/j.1365-2958.1996.661421.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "8885277",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Anbalagan S",
+          "Dmitriev A",
+          "McShan WM",
+          "Dunman PM",
+          "Chaussee MS"
+        ],
+        "title": "Growth phase-dependent modulation of Rgg binding specificity in Streptococcus pyogenes.",
+        "journal": "J Bacteriol 194:3961-71 (2012) DOI:10.1128/JB.06709-11",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22636768",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Clewell DB"
+        ],
+        "title": "Tales of conjugation and sex pheromones: A plasmid and enterococcal odyssey.",
+        "journal": "Mob Genet Elements 1:38-54 (2011) DOI:10.4161/mge.1.1.15409",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22016844",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wardal E",
+          "Sadowy E",
+          "Hryniewicz W"
+        ],
+        "title": "Complex nature of enterococcal pheromone-responsive plasmids.",
+        "journal": "Pol J Microbiol",
+        "volume": "59",
+        "issue": "",
+        "pages": "79-87",
+        "year": "2010",
+        "pubmed": "20734751",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Roux A",
+          "Payne SM",
+          "Gilmore MS"
+        ],
+        "title": "Microbial telesensing: probing the environment for friends, foes, and food.",
+        "journal": "Cell Host Microbe 6:115-24 (2009) DOI:10.1016/j.chom.2009.07.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19683678",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Slamti L",
+          "Perchat S",
+          "Huillet E",
+          "Lereclus D"
+        ],
+        "title": "Quorum sensing in Bacillus thuringiensis is required for completion of a full infectious cycle in the insect.",
+        "journal": "Toxins (Basel) 6:2239-55 (2014) DOI:10.3390/toxins6082239",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25089349",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lopez D",
+          "Kolter R"
+        ],
+        "title": "Extracellular signals that define distinct and coexisting cell fates in Bacillus subtilis.",
+        "journal": "FEMS Microbiol Rev 34:134-49 (2010) DOI:10.1111/j.1574-6976.2009.00199.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20030732",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Stephenson S",
+          "Mueller C",
+          "Jiang M",
+          "Perego M"
+        ],
+        "title": "Molecular analysis of Phr peptide processing in Bacillus subtilis.",
+        "journal": "J Bacteriol 185:4861-71 (2003) DOI:10.1128/JB.185.16.4861-4871.2003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12897006",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lanigan-Gerdes S",
+          "Dooley AN",
+          "Faull KF",
+          "Lazazzera BA"
+        ],
+        "title": "Identification of subtilisin, Epr and Vpr as enzymes that produce CSF, an extracellular signalling peptide of Bacillus subtilis.",
+        "journal": "Mol Microbiol 65:1321-33 (2007) DOI:10.1111/j.1365-2958.2007.05869.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17666034",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kleerebezem M"
+        ],
+        "title": "Quorum sensing control of lantibiotic production; nisin and subtilin autoregulate their own biosynthesis.",
+        "journal": "Peptides 25:1405-14 (2004) DOI:10.1016/j.peptides.2003.10.021",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15374644",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rutherford ST",
+          "Bassler BL"
+        ],
+        "title": "Bacterial quorum sensing: its role in virulence and possibilities for its control.",
+        "journal": "Cold Spring Harb Perspect Med 2:a012427 (2012) DOI:10.1101/cshperspect.a012427",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23125205",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "LaSarre B",
+          "Federle MJ"
+        ],
+        "title": "Exploiting quorum sensing to confuse bacterial pathogens.",
+        "journal": "Microbiol Mol Biol Rev 77:73-111 (2013) DOI:10.1128/MMBR.00046-12",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23471618",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sifri CD"
+        ],
+        "title": "Healthcare epidemiology: quorum sensing: bacteria talk sense.",
+        "journal": "Clin Infect Dis 47:1070-6 (2008) DOI:10.1086/592072",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18781869",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko02024"
+  }
+]

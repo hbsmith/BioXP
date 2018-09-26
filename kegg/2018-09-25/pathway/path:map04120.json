@@ -1,0 +1,248 @@
+[
+  {
+    "entry_id": "map04120",
+    "name": "Ubiquitin mediated proteolysis",
+    "description": "Protein ubiquitination plays an important role in eukaryotic cellular processes. It mainly functions as a signal for 26S proteasome dependent protein degradation. The addition of ubiquitin to proteins being degraded is performed by a reaction cascade consisting of three enzymes, named E1 (ubiquitin activating enzyme), E2 (ubiquitin conjugating enzyme), and E3 (ubiquitin ligase). Each E3 has specificity to its substrate, or proteins to be targeted by ubiquitination. Many E3s are discovered in eukaryotes and they are classified into four types: HECT type, U-box type, single RING-finger type, and multi-subunit RING-finger type. Multi-subunit RING-finger E3s are exemplified by cullin-Rbx E3s and APC/C. They consist of a RING-finger-containing subunit (RBX1 or RBX2) that functions to bind E2s, a scaffold-like cullin molecule, adaptor proteins, and a target recognizing subunit that binds substrates.",
+    "classes": [
+      "Genetic Information Processing",
+      "Folding, sorting and degradation"
+    ],
+    "diseases": {
+      "H00509": "3M syndrome",
+      "H00559": "von Hippel-Lindau syndrome",
+      "H00583": "Opitz-GBBB syndrome",
+      "H00593": "Limb-girdle muscular dystrophy",
+      "H00810": "Progressive myoclonic epilepsy (PME/ EPM)",
+      "H01232": "Syndromic multisystem autoimmune disease",
+      "H01289": "Mulibrey nanism",
+      "H01732": "Angelman syndrome",
+      "H02131": "UV-sensitive syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0016567"
+      ]
+    },
+    "pathways": {
+      "map04120": "Ubiquitin mediated proteolysis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Kamura T."
+        ],
+        "title": "[Cullin-based E3 family] Japanese",
+        "journal": "Tanpakushitsu Kakusan Koso",
+        "volume": "51",
+        "issue": "",
+        "pages": "1167-72",
+        "year": "2006",
+        "pubmed": "16922370",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "(Japanese)"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Matsuda N."
+        ],
+        "title": "[Overview: hereditary disorders caused by dysfunction of ubiquitylation]",
+        "journal": "Tanpakushitsu Kakusan Koso",
+        "volume": "51",
+        "issue": "",
+        "pages": "1402-7",
+        "year": "2006",
+        "pubmed": "16922408",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "(Japanese)"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tokunaga F."
+        ],
+        "title": "[E2 ubiquitin-conjugating enzymes: structures and functions]",
+        "journal": "Tanpakushitsu Kakusan Koso",
+        "volume": "51",
+        "issue": "",
+        "pages": "1150-6",
+        "year": "2006",
+        "pubmed": "16922367",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "(Japanese)"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nalepa G",
+          "Rolfe M",
+          "Harper JW."
+        ],
+        "title": "Drug discovery in the ubiquitin-proteasome system.",
+        "journal": "Nat Rev Drug Discov 5:596-613 (2006) DOI:10.1038/nrd2056",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16816840",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hsu YJ",
+          "Goodman SR."
+        ],
+        "title": "Spectrin and ubiquitination: a review.",
+        "journal": "Cell Mol Biol (Noisy-le-grand) Suppl 51:OL801-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2005",
+        "pubmed": "16405856",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hatakeyama S",
+          "Nakayama KI."
+        ],
+        "title": "Ubiquitylation as a quality control system for intracellular proteins.",
+        "journal": "J Biochem 134:1-8 (2003) DOI:10.1093/jb/mvg106",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12944364",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lee J",
+          "Zhou P."
+        ],
+        "title": "DCAFs, the missing link of the CUL4-DDB1 ubiquitin ligase.",
+        "journal": "Mol Cell 26:775-80 (2007) DOI:10.1016/j.molcel.2007.06.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17588513",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00379": "SCF-MET30 complex [PATH:map04120]",
+      "M00380": "SCF-BTRC complex [PATH:map04120]",
+      "M00381": "SCF-SKP2 complex [PATH:map04120]",
+      "M00382": "SCF-FBS complex [PATH:map04120]",
+      "M00383": "ECV complex [PATH:map04120]",
+      "M00384": "Cul3-SPOP complex [PATH:map04120]",
+      "M00385": "Cul4-DDB1-DDB2 complex [PATH:map04120]",
+      "M00386": "Cul4-DDB1-CSA complex [PATH:map04120]",
+      "M00387": "SCF-FBW7 complex [PATH:map04120]",
+      "M00388": "ECS complex [PATH:map04120]",
+      "M00389": "APC/C complex [PATH:map04120]",
+      "M00407": "SCF-CDC4 complex [PATH:map04120]",
+      "M00411": "SCF-GRR1 complex [PATH:map04120]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04120"
+  }
+]

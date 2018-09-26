@@ -1,0 +1,168 @@
+[
+  {
+    "entry_id": "map03040",
+    "name": "Spliceosome",
+    "description": "After transcription, eukaryotic mRNA precursors contain protein-coding exons and noncoding introns. In the following splicing, introns are excised and exons are joined by a macromolecular complex, the spliceosome. The standard spliceosome is made up of five small nuclear ribonucleoproteins (snRNPs), U1, U2, U4, U5, and U6 snRNPs, and several spliceosome-associated proteins (SAPs). Spliceosomes are not a simple stable complex, but a dynamic family of particles that assemble on the mRNA precursor and help fold it into a conformation that allows transesterification to proceed. Various spliceosome forms (e.g. A-, B- and C-complexes) have been identified.",
+    "classes": [
+      "Genetic Information Processing",
+      "Transcription"
+    ],
+    "diseases": {
+      "H00527": "Retinitis pigmentosa",
+      "H01376": "Acrofacial dysostosis",
+      "H01481": "Myelodysplastic syndrome",
+      "H01838": "Mandibulofacial dysostosis with microcephaly",
+      "H01839": "Burn-McKeown syndrome",
+      "H01843": "Cerebrocostomandibular syndrome",
+      "H01913": "Renpenning syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0005681"
+      ]
+    },
+    "pathways": {
+      "map03040": "Spliceosome"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Wahl MC",
+          "Will CL",
+          "Luhrmann R"
+        ],
+        "title": "The spliceosome: design principles of a dynamic RNP machine.",
+        "journal": "Cell 136:701-18 (2009) DOI:10.1016/j.cell.2009.02.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19239890",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Morris DP",
+          "Greenleaf AL"
+        ],
+        "title": "The splicing factor, Prp40, binds the phosphorylated carboxyl-terminal domain of RNA polymerase II.",
+        "journal": "J Biol Chem 275:39935-43 (2000) DOI:10.1074/jbc.M004118200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10978320",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chen YI",
+          "Moore RE",
+          "Ge HY",
+          "Young MK",
+          "Lee TD",
+          "Stevens SW"
+        ],
+        "title": "Proteomic analysis of in vivo-assembled pre-mRNA splicing complexes expands the catalog of participating factors.",
+        "journal": "Nucleic Acids Res 35:3928-44 (2007) DOI:10.1093/nar/gkm347",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17537823",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ritchie DB",
+          "Schellenberg MJ",
+          "MacMillan AM"
+        ],
+        "title": "Spliceosome structure: piece by piece.",
+        "journal": "Biochim Biophys Acta 1789:624-33 (2009) DOI:10.1016/j.bbagrm.2009.08.010",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19733268",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00351": "Spliceosome, U1-snRNP [PATH:map03040]",
+      "M00352": "Spliceosome, U2-snRNP [PATH:map03040]",
+      "M00353": "Spliceosome, Prp19/CDC5L complex [PATH:map03040]",
+      "M00354": "Spliceosome, U4/U6.U5 tri-snRNP [PATH:map03040]",
+      "M00355": "Spliceosome, 35S U5-snRNP [PATH:map03040]",
+      "M00396": "Lsm 2-8 complex [PATH:map03040]",
+      "M00398": "Sm core complex [PATH:map03040]",
+      "M00399": "Cap binding complex [PATH:map03040]",
+      "M00405": "THC complex [PATH:map03040]",
+      "M00406": "TREX complex [PATH:map03040]",
+      "M00430": "Exon junction complex (EJC) [PATH:map03040]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko03040"
+  }
+]

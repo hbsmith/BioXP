@@ -1,0 +1,876 @@
+[
+  {
+    "entry_id": "map05170",
+    "name": "Human immunodeficiency virus 1 infection",
+    "description": "Human immunodeficiency virus type 1 (HIV-1) , the causative agent of AIDS (acquired immunodeficiency syndrome), is a lentivirus belonging to the Retroviridae family. The primary cell surface receptor for HIV-1, the CD4 protein, and the co-receptor for HIV-1, either CCR5 or CXCR4, are found on macrophages and T lymphocytes. At the earliest step, sequential binding of virus envelope (Env) glycoprotein gp120 to CD4 and the co-receptor CCR5 or CXCR4 facilitates HIV-1 entry and has the potential to trigger critical signaling that may favor viral replication. At advanced stages of the disease, HIV-1 infection results in dramatic induction of T-cell (CD4+ T and CD8+ T cell) apoptosis both in infected and uninfected bystander T cells, a hallmark of HIV-1 pathogenesis. On the contrary, macrophages are resistant to the cytopathic effect of HIV-1 and produce virus for longer periods of time.",
+    "classes": [
+      "Human Diseases",
+      "Infectious diseases: Viral"
+    ],
+    "diseases": {
+      "H01563": "HIV infection"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05170": "Human immunodeficiency virus 1 infection"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Evans VA",
+          "Khoury G",
+          "Saleh S",
+          "Cameron PU",
+          "Lewin SR"
+        ],
+        "title": "HIV persistence: chemokines and their signalling pathways.",
+        "journal": "Cytokine Growth Factor Rev 23:151-7 (2012) DOI:10.1016/j.cytogfr.2012.05.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22749173",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Abbas W",
+          "Herbein G"
+        ],
+        "title": "Plasma membrane signaling in HIV-1 infection.",
+        "journal": "Biochim Biophys Acta 1838:1132-42 (2014) DOI:10.1016/j.bbamem.2013.06.020",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23806647",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wu Y",
+          "Yoder A"
+        ],
+        "title": "Chemokine coreceptor signaling in HIV-1 infection and pathogenesis.",
+        "journal": "PLoS Pathog 5:e1000520 (2009) DOI:10.1371/journal.ppat.1000520",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20041213",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Choi WT",
+          "Duggineni S",
+          "Xu Y",
+          "Huang Z",
+          "An J"
+        ],
+        "title": "Drug discovery research targeting the CXC chemokine receptor 4 (CXCR4).",
+        "journal": "J Med Chem 55:977-94 (2012) DOI:10.1021/jm200568c",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22085380",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vorster PJ",
+          "Guo J",
+          "Yoder A",
+          "Wang W",
+          "Zheng Y",
+          "Xu X",
+          "Yu D",
+          "Spear M",
+          "Wu Y"
+        ],
+        "title": "LIM kinase 1 modulates cortical actin and CXCR4 cycling and is activated by HIV-1 to initiate viral infection.",
+        "journal": "J Biol Chem 286:12554-64 (2011) DOI:10.1074/jbc.M110.182238",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21321123",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Das SR",
+          "Jameel S"
+        ],
+        "title": "Biology of the HIV Nef protein.",
+        "journal": "Indian J Med Res",
+        "volume": "121",
+        "issue": "",
+        "pages": "315-32",
+        "year": "2005",
+        "pubmed": "15817946",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Roy N",
+          "Pacini G",
+          "Berlioz-Torrent C",
+          "Janvier K"
+        ],
+        "title": "Mechanisms underlying HIV-1 Vpu-mediated viral egress.",
+        "journal": "Front Microbiol 5:177 (2014) DOI:10.3389/fmicb.2014.00177",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24822052",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Magadan JG",
+          "Bonifacino JS"
+        ],
+        "title": "Transmembrane domain determinants of CD4 Downregulation by HIV-1 Vpu.",
+        "journal": "J Virol 86:757-72 (2012) DOI:10.1128/JVI.05933-11",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22090097",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kumar A",
+          "Herbein G"
+        ],
+        "title": "The macrophage: a therapeutic target in HIV-1 infection.",
+        "journal": "Mol Cell Ther 2:10 (2014) DOI:10.1186/2052-8426-2-10",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26056579",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yokota S",
+          "Okabayashi T",
+          "Fujii N"
+        ],
+        "title": "The battle between virus and host: modulation of Toll-like receptor signaling pathways by virus infection.",
+        "journal": "Mediators Inflamm 2010:184328 (2010) DOI:10.1155/2010/184328",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20672047",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sauter D",
+          "Kirchhoff F"
+        ],
+        "title": "HIV replication: a game of hide and sense.",
+        "journal": "Curr Opin HIV AIDS 11:173-81 (2016) DOI:10.1097/COH.0000000000000233",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26628325",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Altfeld M",
+          "Gale M Jr"
+        ],
+        "title": "Innate immunity against HIV-1 infection.",
+        "journal": "Nat Immunol 16:554-62 (2015) DOI:10.1038/ni.3157",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25988887",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pasquereau S",
+          "Kumar A",
+          "Herbein G"
+        ],
+        "title": "Targeting TNF and TNF Receptor Pathway in HIV-1 Infection: from Immune Activation to Viral Reservoirs.",
+        "journal": "Viruses 9:E64 (2017) DOI:10.3390/v9040064",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "28358311",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Herbein G",
+          "Khan KA"
+        ],
+        "title": "Is HIV infection a TNF receptor signalling-driven disease?",
+        "journal": "Trends Immunol 29:61-7 (2008) DOI:10.1016/j.it.2007.10.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18178131",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kumar A",
+          "Abbas W",
+          "Herbein G"
+        ],
+        "title": "TNF and TNF receptor superfamily members in HIV infection: new cellular targets for therapy?",
+        "journal": "Mediators Inflamm 2013:484378 (2013) DOI:10.1155/2013/484378",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24453421",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Abbas W",
+          "Herbein G"
+        ],
+        "title": "T-Cell Signaling in HIV-1 Infection.",
+        "journal": "Open Virol J 7:57-71 (2013) DOI:10.2174/1874357920130621001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23986795",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cummins NW",
+          "Badley AD"
+        ],
+        "title": "Mechanisms of HIV-associated lymphocyte apoptosis: 2010.",
+        "journal": "Cell Death Dis 1:e99 (2010) DOI:10.1038/cddis.2010.77",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21368875",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gougeon ML"
+        ],
+        "title": "Apoptosis as an HIV strategy to escape immune attack.",
+        "journal": "Nat Rev Immunol 3:392-404 (2003) DOI:10.1038/nri1087",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12766761",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fevrier M",
+          "Dorgham K",
+          "Rebollo A"
+        ],
+        "title": "CD4+ T cell depletion in human immunodeficiency virus (HIV) infection: role of apoptosis.",
+        "journal": "Viruses 3:586-612 (2011) DOI:10.3390/v3050586",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21994747",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ross TM"
+        ],
+        "title": "Using death to one's advantage: HIV modulation of apoptosis.",
+        "journal": "Leukemia",
+        "volume": "15",
+        "issue": "",
+        "pages": "332-41",
+        "year": "2001",
+        "pubmed": "11237054",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hurley JH",
+          "Bonifacino JS"
+        ],
+        "title": "Nef-arious goings-on at the Golgi.",
+        "journal": "Nat Struct Mol Biol 19:661-2 (2012) DOI:10.1038/nsmb.2304",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22767237",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wonderlich ER",
+          "Leonard JA",
+          "Collins KL"
+        ],
+        "title": "HIV immune evasion disruption of antigen presentation by the HIV Nef protein.",
+        "journal": "Adv Virus Res 80:103-27 (2011) DOI:10.1016/B978-0-12-385987-7.00005-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21762823",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Laguette N",
+          "Bregnard C",
+          "Benichou S",
+          "Basmaciogullari S"
+        ],
+        "title": "Human immunodeficiency virus (HIV) type-1, HIV-2 and simian immunodeficiency virus Nef proteins.",
+        "journal": "Mol Aspects Med 31:418-33 (2010) DOI:10.1016/j.mam.2010.05.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20594957",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pereira EA",
+          "daSilva LL"
+        ],
+        "title": "HIV-1 Nef: Taking Control of Protein Trafficking.",
+        "journal": "Traffic 17:976-96 (2016) DOI:10.1111/tra.12412",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27161574",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sugden SM",
+          "Bego MG",
+          "Pham TN",
+          "Cohen EA"
+        ],
+        "title": "Remodeling of the Host Cell Plasma Membrane by HIV-1 Nef and Vpu: A Strategy to Ensure Viral Fitness and Persistence.",
+        "journal": "Viruses 8:67 (2016) DOI:10.3390/v8030067",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26950141",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bagga S",
+          "Bouchard MJ"
+        ],
+        "title": "Cell cycle regulation during viral infection.",
+        "journal": "Methods Mol Biol 1170:165-227 (2014) DOI:10.1007/978-1-4939-0888-2_10",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24906315",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Andersen JL",
+          "Planelles V"
+        ],
+        "title": "The role of Vpr in HIV-1 pathogenesis.",
+        "journal": "Curr HIV Res",
+        "volume": "3",
+        "issue": "",
+        "pages": "43-51",
+        "year": "2005",
+        "pubmed": "15638722",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Andersen JL",
+          "DeHart JL",
+          "Zimmerman ES",
+          "Ardon O",
+          "Kim B",
+          "Jacquot G",
+          "Benichou S",
+          "Planelles V"
+        ],
+        "title": "HIV-1 Vpr-induced apoptosis is cell cycle dependent and requires Bax but not ANT.",
+        "journal": "PLoS Pathog 2:e127 (2006) DOI:10.1371/journal.ppat.0020127",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17140287",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Takaori-Kondo A",
+          "Shindo K"
+        ],
+        "title": "HIV-1 Vif: a guardian of the virus that opens up a new era in the research field of restriction factors.",
+        "journal": "Front Microbiol 4:34 (2013) DOI:10.3389/fmicb.2013.00034",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23430691",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Malim MH"
+        ],
+        "title": "APOBEC proteins and intrinsic resistance to HIV-1 infection.",
+        "journal": "Philos Trans R Soc Lond B Biol Sci 364:675-87 (2009) DOI:10.1098/rstb.2008.0185",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19038776",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hultquist JF",
+          "Lengyel JA",
+          "Refsland EW",
+          "LaRue RS",
+          "Lackey L",
+          "Brown WL",
+          "Harris RS"
+        ],
+        "title": "Human and rhesus APOBEC3D, APOBEC3F, APOBEC3G, and APOBEC3H demonstrate a conserved capacity to restrict Vif-deficient HIV-1.",
+        "journal": "J Virol 85:11220-34 (2011) DOI:10.1128/JVI.05238-11",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21835787",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05170"
+  }
+]

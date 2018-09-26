@@ -1,0 +1,513 @@
+[
+  {
+    "entry_id": "map05321",
+    "name": "Inflammatory bowel disease (IBD)",
+    "description": "Inflammatory bowel disease (IBD), which includes Crohn disease (CD) and ulcerative colitis (UC), is characterized by chronic inflammation of the gastrointestinal tract due to environmental and genetic factors, infectious microbes, and the dysregulated immune system. Although many environmental factors (for example, geographic locations, smoking, etc.) affect the development of IBD, the most crucial might be the luminal (external) environment of the epithelial cells. There are pathogens that are found in increasing frequency in IBD. The microbial components such as flagellin, peptidoglycan, and lipopolysaccharide are recognized by receptors such as toll-like receptors (TLRs) and nucleotide-binding oligomerization domain (NOD) proteins, and also by antigen-presenting cells (APCs) in genetically susceptible host. The TLR recognition triggers the activation of NF-kappaB, leading to an inflammatory response. APC-expressed gene NOD2 has been associated with Crohn disease. In case of mutations of NOD2, negative regulation of IL-12 production is reduced with the stimulation of muramyl dipeptide (MDP), leading to CD. In addition, the APC mediates the differentiation of naive T cells into effector T cells (Th1, Th17, Th2) and natural killer T (NKT) cells. Th1 and Th17 cells produce high levels of IFN-gamma and IL-17, -22, respectively, both of which promote CD. In contrast, Th2 cells produce IL-4, -5, -10, which together with IL-13 from NKT induce UC.",
+    "classes": [
+      "Human Diseases",
+      "Immune diseases"
+    ],
+    "diseases": {
+      "H00286": "Crohn disease",
+      "H01227": "Inflammatory bowel disease (IBD)",
+      "H01466": "Ulcerative colitis",
+      "H01971": "IPEX syndrome"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05321": "Inflammatory bowel disease (IBD)"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Melmed GY",
+          "Targan SR"
+        ],
+        "title": "Future biologic targets for IBD: potentials and pitfalls.",
+        "journal": "Nat Rev Gastroenterol Hepatol 7:110-7 (2010) DOI:10.1038/nrgastro.2009.218",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20134493",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shih DQ",
+          "Targan SR"
+        ],
+        "title": "Immunopathogenesis of inflammatory bowel disease.",
+        "journal": "World J Gastroenterol 14:390-400 (2008) DOI:10.3748/wjg.14.390",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18200661",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Baumgart DC",
+          "Carding SR"
+        ],
+        "title": "Inflammatory bowel disease: cause and immunobiology.",
+        "journal": "Lancet 369:1627-40 (2007) DOI:10.1016/S0140-6736(07)60750-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17499605",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Strober W",
+          "Murray PJ",
+          "Kitani A",
+          "Watanabe T"
+        ],
+        "title": "Signalling pathways and molecular interactions of NOD1 and NOD2.",
+        "journal": "Nat Rev Immunol 6:9-20 (2006) DOI:10.1038/nri1747",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16493424",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Matricon J",
+          "Barnich N",
+          "Ardid D"
+        ],
+        "title": "Immunopathogenesis of inflammatory bowel disease.",
+        "journal": "Self Nonself 1:299-309 (2010) DOI:10.4161/self.1.4.13560",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21487504",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Agnello D",
+          "Lankford CS",
+          "Bream J",
+          "Morinobu A",
+          "Gadina M",
+          "O'Shea JJ",
+          "Frucht DM"
+        ],
+        "title": "Cytokines and transcription factors that regulate T helper cell differentiation: new players and new insights.",
+        "journal": "J Clin Immunol 23:147-61 (2003) DOI:10.1023/A:1023381027062",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12797537",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Glimcher LH",
+          "Murphy KM"
+        ],
+        "title": "Lineage commitment in the immune system: the T helper lymphocyte grows up.",
+        "journal": "Genes Dev 14:1693-711 (2000) DOI:10.1101/gad.14.14.1693",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10898785",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Neurath MF",
+          "Finotto S",
+          "Glimcher LH"
+        ],
+        "title": "The role of Th1/Th2 polarization in mucosal immunity.",
+        "journal": "Nat Med 8:567-73 (2002) DOI:10.1038/nm0602-567",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12042806",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Afkarian M",
+          "Sedy JR",
+          "Yang J",
+          "Jacobson NG",
+          "Cereb N",
+          "Yang SY",
+          "Murphy TL",
+          "Murphy KM"
+        ],
+        "title": "T-bet is a STAT1-induced regulator of IL-12R expression in naive CD4+ T cells.",
+        "journal": "Nat Immunol 3:549-57 (2002) DOI:10.1038/ni794",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12006974",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sartor RB"
+        ],
+        "title": "Microbial influences in inflammatory bowel diseases.",
+        "journal": "Gastroenterology 134:577-94 (2008) DOI:10.1053/j.gastro.2007.11.059",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18242222",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yoshimoto T",
+          "Takeda K",
+          "Tanaka T",
+          "Ohkusu K",
+          "Kashiwamura S",
+          "Okamura H",
+          "Akira S",
+          "Nakanishi K"
+        ],
+        "title": "IL-12 up-regulates IL-18 receptor expression on T cells, Th1 cells, and B cells: synergism with IL-18 for IFN-gamma production.",
+        "journal": "J Immunol",
+        "volume": "161",
+        "issue": "",
+        "pages": "3400-7",
+        "year": "1998",
+        "pubmed": "9759857",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hur SJ",
+          "Kang SH",
+          "Jung HS",
+          "Kim SC",
+          "Jeon HS",
+          "Kim IH",
+          "Lee JD"
+        ],
+        "title": "Review of natural products actions on cytokines in inflammatory bowel disease.",
+        "journal": "Nutr Res 32:801-16 (2012) DOI:10.1016/j.nutres.2012.09.013",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23176791",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bettelli E",
+          "Korn T",
+          "Oukka M",
+          "Kuchroo VK"
+        ],
+        "title": "Induction and effector functions of T(H)17 cells.",
+        "journal": "Nature 453:1051-7 (2008) DOI:10.1038/nature07036",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18563156",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ivanov II",
+          "Zhou L",
+          "Littman DR"
+        ],
+        "title": "Transcriptional regulation of Th17 cell differentiation.",
+        "journal": "Semin Immunol 19:409-17 (2007) DOI:10.1016/j.smim.2007.10.011",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18053739",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Di Cesare A",
+          "Di Meglio P",
+          "Nestle FO"
+        ],
+        "title": "The IL-23/Th17 axis in the immunopathogenesis of psoriasis.",
+        "journal": "J Invest Dermatol 129:1339-50 (2009) DOI:10.1038/jid.2009.59",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19322214",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jetten AM"
+        ],
+        "title": "Retinoid-related orphan receptors (RORs): critical roles in development, immunity, circadian rhythm, and cellular metabolism.",
+        "journal": "Nucl Recept Signal 7:e003 (2009) DOI:10.1621/nrs.07003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19381306",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bene L",
+          "Falus A",
+          "Baffy N",
+          "Fulop AK"
+        ],
+        "title": "Cellular and molecular mechanisms in the two major forms of inflammatory bowel disease.",
+        "journal": "Pathol Oncol Res 17:463-72 (2011) DOI:10.1007/s12253-011-9397-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21681604",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05321"
+  }
+]

@@ -1,0 +1,304 @@
+[
+  {
+    "entry_id": "map00680",
+    "name": "Methane metabolism",
+    "description": "Methane is metabolized principally by methanotrophs and methanogens in the global carbon cycle. Methanotrophs consume methane as the only source of carbon, while methanogens produce methane as a metabolic byproduct. Methylotrophs, which are microorganisms that can obtain energy for growth by oxidizing one-carbon compounds, such as methanol and methane, are situated between methanotrophs and methanogens. Methanogens can obtain energy for growth by converting a limited number of substrates to methane under anaerobic conditions. Three types of methanogenic pathways are known: CO2 to methane [MD:M00567], methanol to methane [MD:M00356], and acetate to methane [MD:M00357]. Methanogens use 2-mercaptoethanesulfonate (CoM; coenzyme M) as the terminal methyl carrier in methanogenesis and have four enzymes for CoM biosynthesis [MD:M00358]. Coenzyme B-Coenzyme M heterodisulfide reductase (Hdr), requiring for the final reaction steps of methanogenic pathway, is divided into two types: cytoplasmic HdrABC in most methanogens and membrane-bound HdrED in Methanosarcina species. In methanotrophs and methyltrophs methane is oxidized to form formaldehyde, which is at the diverging point for further oxidation to CO2 for energy source and assimilation for biosynthesis. There are three pathways that convert formaldehyde to C2 or C3 compounds: serine pathway [MD:M00346], ribulose monophosphate pathway [MD:M00345], and xylulose monophosphate pathway [MD:M00344]. The first two pathways are found in prokaryotes and the third is found in yeast. As a special case of methylotrophs, various amines can be used as carbon sources in trimethylamine metabolism [MD:M00563].",
+    "classes": [
+      "Metabolism",
+      "Energy metabolism"
+    ],
+    "diseases": {
+      "H00203": "Acatalasemia"
+    },
+    "dblinks": {
+      "GO": [
+        "0015947"
+      ]
+    },
+    "pathways": {
+      "map00680": "Methane metabolism"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Graham DE",
+          "Xu H",
+          "White RH"
+        ],
+        "title": "Identification of coenzyme M biosynthetic phosphosulfolactate synthase: a new family of sulfonate-biosynthesizing enzymes.",
+        "journal": "J Biol Chem 277:13421-9 (2002) DOI:10.1074/jbc.M201011200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11830598",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Deppenmeier U"
+        ],
+        "title": "The membrane-bound electron transport system of Methanosarcina species.",
+        "journal": "J Bioenerg Biomembr 36:55-64 (2004) DOI:10.1023/B:JOBB.0000019598.64642.97",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15168610",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hallam SJ",
+          "Putnam N",
+          "Preston CM",
+          "Detter JC",
+          "Rokhsar D",
+          "Richardson PM",
+          "DeLong EF"
+        ],
+        "title": "Reverse methanogenesis: testing the hypothesis with environmental genomics.",
+        "journal": "Science 305:1457-62 (2004) DOI:10.1126/science.1100025",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15353801",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Welander PV",
+          "Metcalf WW"
+        ],
+        "title": "Loss of the mtr operon in Methanosarcina blocks growth on methanol, but not methanogenesis, and reveals an unknown methanogenic pathway.",
+        "journal": "Proc Natl Acad Sci U S A 102:10664-9 (2005) DOI:10.1073/pnas.0502623102",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16024727",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yurimoto H",
+          "Kato N",
+          "Sakai Y"
+        ],
+        "title": "Assimilation, dissimilation, and detoxification of formaldehyde, a central metabolic intermediate of methylotrophic metabolism.",
+        "journal": "Chem Rec 5:367-75 (2005) DOI:10.1002/tcr.20056",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16278835",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fricke WF",
+          "Seedorf H",
+          "Henne A",
+          "Kruer M",
+          "Liesegang H",
+          "Hedderich R",
+          "Gottschalk G",
+          "Thauer RK."
+        ],
+        "title": "The genome sequence of Methanosphaera stadtmanae reveals why this human intestinal archaeon is restricted to methanol and H2 for methane formation and ATP synthesis.",
+        "journal": "J Bacteriol 188:642-58 (2006) DOI:10.1128/JB.188.2.642-658.2006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16385054",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kato N",
+          "Yurimoto H",
+          "Thauer RK"
+        ],
+        "title": "The physiological role of the ribulose monophosphate pathway in bacteria and archaea.",
+        "journal": "Biosci Biotechnol Biochem 70:10-21 (2006) DOI:10.1271/bbb.70.10",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16428816",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Thauer RK",
+          "Kaster AK",
+          "Seedorf H",
+          "Buckel W",
+          "Hedderich R"
+        ],
+        "title": "Methanogenic archaea: ecologically relevant differences in energy conservation.",
+        "journal": "Nat Rev Microbiol 6:579-91 (2008) DOI:10.1038/nrmicro1931",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18587410",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Liffourrena AS",
+          "Salvano MA",
+          "Lucchesi GI"
+        ],
+        "title": "Pseudomonas putida A ATCC 12633 oxidizes trimethylamine aerobically via two different pathways.",
+        "journal": "Arch Microbiol 192:471-6 (2010) DOI:10.1007/s00203-010-0577-5",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20437165",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00174": "Methane oxidation, methanotroph, methane => formaldehyde [PATH:map00680]",
+      "M00344": "Formaldehyde assimilation, xylulose monophosphate pathway [PATH:map00680]",
+      "M00345": "Formaldehyde assimilation, ribulose monophosphate pathway [PATH:map00680]",
+      "M00346": "Formaldehyde assimilation, serine pathway [PATH:map00680]",
+      "M00356": "Methanogenesis, methanol => methane [PATH:map00680]",
+      "M00357": "Methanogenesis, acetate => methane [PATH:map00680]",
+      "M00358": "Coenzyme M biosynthesis [PATH:map00680]",
+      "M00378": "F420 biosynthesis [PATH:map00680]",
+      "M00422": "Acetyl-CoA pathway, CO2 => acetyl-CoA [PATH:map00680]",
+      "M00563": "Methanogenesis, methylamine/dimethylamine/trimethylamine => methane [PATH:map00680]",
+      "M00567": "Methanogenesis, CO2 => methane [PATH:map00680]",
+      "M00608": "2-Oxocarboxylic acid chain extension, 2-oxoglutarate => 2-oxoadipate => 2-oxopimelate => 2-oxosuberate [PATH:map00680]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00680"
+  }
+]

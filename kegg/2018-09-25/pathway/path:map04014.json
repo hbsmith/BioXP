@@ -1,0 +1,750 @@
+[
+  {
+    "entry_id": "map04014",
+    "name": "Ras signaling pathway",
+    "description": "The Ras proteins are GTPases that function as molecular switches for signaling pathways regulating cell proliferation, survival, growth, migration, differentiation or cytoskeletal dynamism. Ras proteins transduce signals from extracellular growth factors by cycling between inactive GDP-bound and active GTP-bound states. The exchange of GTP for GDP on RAS is regulated by guanine nucleotide exchange factors (GEFs) and GTPase-activating proteins (GAPs). Activated RAS (RAS-GTP) regulates multiple cellular functions through effectors including Raf, phosphatidylinositol 3-kinase (PI3K) and Ral guanine nucleotide-dissociation stimulator (RALGDS).",
+    "classes": [
+      "Environmental Information Processing",
+      "Signal transduction"
+    ],
+    "diseases": {
+      "H00505": "FGFR3-related short limb skeletal dysplasia",
+      "H01437": "Neurofibromatosis type 1",
+      "H01738": "Noonan syndrome",
+      "H01747": "Costello syndrome",
+      "H01984": "Leopard syndrome",
+      "H02068": "Hypochondroplasia",
+      "H02069": "SADDAN",
+      "H02188": "Watson syndrome",
+      "H02189": "Neurofibromatosis-Noonan syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0032318"
+      ]
+    },
+    "pathways": {
+      "map04014": "Ras signaling pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Karnoub AE",
+          "Weinberg RA"
+        ],
+        "title": "Ras oncogenes: split personalities.",
+        "journal": "Nat Rev Mol Cell Biol 9:517-31 (2008) DOI:10.1038/nrm2438",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18568040",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Malumbres M",
+          "Barbacid M"
+        ],
+        "title": "RAS oncogenes: the first 30 years.",
+        "journal": "Nat Rev Cancer 3:459-65 (2003) DOI:10.1038/nrc1097",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12778136",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cox AD",
+          "Der CJ"
+        ],
+        "title": "Ras history: The saga continues.",
+        "journal": "Small GTPases 1:2-27 (2010) DOI:10.4161/sgtp.1.1.12178",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21686117",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cox AD",
+          "Der CJ"
+        ],
+        "title": "Ras family signaling: therapeutic targeting.",
+        "journal": "Cancer Biol Ther 1:599-606 (2002) DOI:10.4161/cbt.306",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12642680",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rajalingam K",
+          "Schreck R",
+          "Rapp UR",
+          "Albert S"
+        ],
+        "title": "Ras oncogenes and their downstream targets.",
+        "journal": "Biochim Biophys Acta 1773:1177-95 (2007) DOI:10.1016/j.bbamcr.2007.01.012",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17428555",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schubbert S",
+          "Shannon K",
+          "Bollag G"
+        ],
+        "title": "Hyperactive Ras in developmental disorders and cancer.",
+        "journal": "Nat Rev Cancer 7:295-308 (2007) DOI:10.1038/nrc2109",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17384584",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Poulogiannis G",
+          "Luo F",
+          "Arends MJ"
+        ],
+        "title": "RAS signalling in the colorectum in health and disease.",
+        "journal": "Cell Commun Adhes 19:1-9 (2012) DOI:10.3109/15419061.2011.649380",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22233291",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Berndt N",
+          "Hamilton AD",
+          "Sebti SM"
+        ],
+        "title": "Targeting protein prenylation for cancer therapy.",
+        "journal": "Nat Rev Cancer 11:775-91 (2011) DOI:10.1038/nrc3151",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22020205",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Overmeyer JH",
+          "Maltese WA"
+        ],
+        "title": "Death pathways triggered by activated Ras in cancer cells.",
+        "journal": "Front Biosci (Landmark Ed) 16:1693-713 (2011) DOI:10.2741/3814",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21196257",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rodriguez-Viciana P",
+          "Tetsu O",
+          "Oda K",
+          "Okada J",
+          "Rauen K",
+          "McCormick F"
+        ],
+        "title": "Cancer targets in the Ras pathway.",
+        "journal": "Cold Spring Harb Symp Quant Biol 70:461-7 (2005) DOI:10.1101/sqb.2005.70.044",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16869784",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cox AD",
+          "Der CJ"
+        ],
+        "title": "The dark side of Ras: regulation of apoptosis.",
+        "journal": "Oncogene 22:8999-9006 (2003) DOI:10.1038/sj.onc.1207111",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14663478",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Braun BS",
+          "Shannon K"
+        ],
+        "title": "Targeting Ras in myeloid leukemias.",
+        "journal": "Clin Cancer Res 14:2249-52 (2008) DOI:10.1158/1078-0432.CCR-07-1005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18413813",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pino MS",
+          "Chung DC"
+        ],
+        "title": "The chromosomal instability pathway in colon cancer.",
+        "journal": "Gastroenterology 138:2059-72 (2010) DOI:10.1053/j.gastro.2009.12.065",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20420946",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schrader JW",
+          "Schallhorn A",
+          "Grill B",
+          "Guo X"
+        ],
+        "title": "Activation of small GTPases of the Ras and Rho family by growth factors active on mast cells.",
+        "journal": "Mol Immunol 38:1181-6 (2002) DOI:10.1016/S0161-5890(02)00060-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12217381",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ahearn IM",
+          "Haigis K",
+          "Bar-Sagi D",
+          "Philips MR"
+        ],
+        "title": "Regulating the regulator: post-translational modification of RAS.",
+        "journal": "Nat Rev Mol Cell Biol 13:39-51 (2012) DOI:10.1038/nrm3255",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22189424",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ehrhardt GR",
+          "Korherr C",
+          "Wieler JS",
+          "Knaus M",
+          "Schrader JW"
+        ],
+        "title": "A novel potential effector of M-Ras and p21 Ras negatively regulates p21 Ras-mediated gene induction and cell growth.",
+        "journal": "Oncogene 20:188-97 (2001) DOI:10.1038/sj.onc.1204053",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11313946",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Goldfinger LE",
+          "Ptak C",
+          "Jeffery ED",
+          "Shabanowitz J",
+          "Hunt DF",
+          "Ginsberg MH"
+        ],
+        "title": "RLIP76 (RalBP1) is an R-Ras effector that mediates adhesion-dependent Rac activation and cell migration.",
+        "journal": "J Cell Biol 174:877-88 (2006) DOI:10.1083/jcb.200603111",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16966426",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kortum RL",
+          "Rouquette-Jazdanian AK",
+          "Samelson LE"
+        ],
+        "title": "Ras and extracellular signal-regulated kinase signaling in thymocytes and T cells.",
+        "journal": "Trends Immunol 34:259-68 (2013) DOI:10.1016/j.it.2013.02.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23506953",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Roberts DM",
+          "Anderson AL",
+          "Hidaka M",
+          "Swetenburg RL",
+          "Patterson C",
+          "Stanford WL",
+          "Bautch VL"
+        ],
+        "title": "A vascular gene trap screen defines RasGRP3 as an angiogenesis-regulated gene required for the endothelial response to phorbol esters.",
+        "journal": "Mol Cell Biol 24:10515-28 (2004) DOI:10.1128/MCB.24.24.10515-10528.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15572660",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Reuther GW",
+          "Der CJ"
+        ],
+        "title": "The Ras branch of small GTPases: Ras family members don't fall far from the tree.",
+        "journal": "Curr Opin Cell Biol 12:157-65 (2000) DOI:10.1016/S0955-0674(99)00071-X",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10712923",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fernandez-Medarde A",
+          "Santos E"
+        ],
+        "title": "The RasGrf family of mammalian guanine nucleotide exchange factors.",
+        "journal": "Biochim Biophys Acta 1815:170-88 (2011) DOI:10.1016/j.bbcan.2010.11.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21111786",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Iwashita S",
+          "Song SY"
+        ],
+        "title": "RasGAPs: a crucial regulator of extracellular stimuli for homeostasis of cellular functions.",
+        "journal": "Mol Biosyst 4:213-22 (2008) DOI:10.1039/b716357f",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18437264",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ory S",
+          "Morrison DK"
+        ],
+        "title": "Signal transduction: implications for Ras-dependent ERK signaling.",
+        "journal": "Curr Biol 14:R277-8 (2004) DOI:10.1016/j.cub.2004.03.023",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15062121",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Matheny SA",
+          "White MA"
+        ],
+        "title": "Signaling threshold regulation by the Ras effector IMP.",
+        "journal": "J Biol Chem 284:11007-11 (2009) DOI:10.1074/jbc.R800082200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19091743",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lemmon MA",
+          "Schlessinger J"
+        ],
+        "title": "Cell signaling by receptor tyrosine kinases.",
+        "journal": "Cell 141:1117-34 (2010) DOI:10.1016/j.cell.2010.06.011",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20602996",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Skaper SD"
+        ],
+        "title": "The neurotrophin family of neurotrophic factors: an overview.",
+        "journal": "Methods Mol Biol 846:1-12 (2012) DOI:10.1007/978-1-61779-536-7_1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22367796",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04014"
+  }
+]

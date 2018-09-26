@@ -1,0 +1,222 @@
+[
+  {
+    "entry_id": "map03450",
+    "name": "Non-homologous end-joining",
+    "description": "Nonhomologous end joining (NHEJ) eliminates DNA double-strand breaks (DSBs) by direct ligation. NHEJ involves binding of the KU heterodimer to double-stranded DNA ends, recruitment of DNA-PKcs (MRX complex in yeast), processing of ends, and recruitment of the DNA ligase IV (LIG4)-XRCC4 complex, which brings about ligation. A recent study shows that bacteria accomplish NHEJ using just two proteins (Ku and DNA ligase), whereas eukaryotes require many factors. NHEJ repairs DSBs at all stages of the cell cycle, bringing about the ligation of two DNA DSBs without the need for sequence homology, and so is error-prone.",
+    "classes": [
+      "Genetic Information Processing",
+      "Replication and repair"
+    ],
+    "diseases": {
+      "H00924": "Severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation",
+      "H01344": "Nijmegen syndrome",
+      "H02015": "LIG4 syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0006303"
+      ]
+    },
+    "pathways": {
+      "map03450": "Non-homologous end-joining"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Gennery AR."
+        ],
+        "title": "Primary immunodeficiency syndromes associated with defective DNA double-strand break repair.",
+        "journal": "Br Med Bull 77-78:71-85 (2006) DOI:10.1093/bmb/ldl006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16971555",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang Y",
+          "Hefferin ML",
+          "Chen L",
+          "Shim EY",
+          "Tseng HM",
+          "Kwon Y",
+          "Sung P",
+          "Lee SE",
+          "Tomkinson AE."
+        ],
+        "title": "Role of Dnl4-Lif1 in nonhomologous end-joining repair complex assembly and suppression of homologous recombination.",
+        "journal": "Nat Struct Mol Biol 14:639-46 (2007) DOI:10.1038/nsmb1261",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17589524",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wyman C",
+          "Kanaar R."
+        ],
+        "title": "DNA double-strand break repair: all's well that ends well.",
+        "journal": "Annu Rev Genet 40:363-83 (2006) DOI:10.1146/annurev.genet.40.110405.090451",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16895466",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Weller GR",
+          "Brandt VL",
+          "Roth DB."
+        ],
+        "title": "Doing more with less in bacterial DNA repair.",
+        "journal": "Nat Struct Mol Biol 11:1158-9 (2004) DOI:10.1038/nsmb1204-1158",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15578053",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Weller GR",
+          "Kysela B",
+          "Roy R",
+          "Tonkin LM",
+          "Scanlan E",
+          "Della M",
+          "Devine SK",
+          "Day JP",
+          "Wilkinson A",
+          "d'Adda di Fagagna F",
+          "Devine KM",
+          "Bowater RP",
+          "Jeggo PA",
+          "Jackson SP",
+          "Doherty AJ."
+        ],
+        "title": "Identification of a DNA nonhomologous end-joining complex in bacteria.",
+        "journal": "Science 297:1686-9 (2002) DOI:10.1126/science.1074584",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12215643",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pitcher RS",
+          "Brissett NC",
+          "Doherty AJ."
+        ],
+        "title": "Nonhomologous end-joining in bacteria: a microbial perspective.",
+        "journal": "Annu Rev Microbiol 61:259-82 (2007) DOI:10.1146/annurev.micro.61.080706.093354",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17506672",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00292": "MRX complex [PATH:map03450]",
+      "M00297": "DNA-PK complex [PATH:map03450]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko03450"
+  }
+]

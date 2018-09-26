@@ -1,0 +1,684 @@
+[
+  {
+    "entry_id": "map04072",
+    "name": "Phospholipase D signaling pathway",
+    "description": "Phospholipase D (PLD) is an essential enzyme responsible for the production of the lipid second messenger phosphatidic acid (PA), which is involved in fundamental cellular processes, including membrane trafficking, actin cytoskeleton remodeling, cell proliferation and cell survival. PLD activity can be stimulated by a large number of cell surface receptors and is elaborately regulated by intracellular factors, including protein kinase C isoforms, small GTPases of the ARF, Rho and Ras families and the phosphoinositide, phosphatidylinositol 4,5-bisphosphate (PIP2). The PLD-produced PA activates signaling proteins and acts as a node within the membrane to which signaling proteins translocate. Several signaling proteins, including Raf-1 and mTOR, directly bind PA to mediate translocation or activation, respectively.",
+    "classes": [
+      "Environmental Information Processing",
+      "Signal transduction"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map04072": "Phospholipase D signaling pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Oude Weernink PA",
+          "Lopez de Jesus M",
+          "Schmidt M"
+        ],
+        "title": "Phospholipase D signaling: orchestration by PIP2 and small GTPases.",
+        "journal": "Naunyn Schmiedebergs Arch Pharmacol 374:399-411 (2007) DOI:10.1007/s00210-007-0131-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17245604",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Selvy PE",
+          "Lavieri RR",
+          "Lindsley CW",
+          "Brown HA"
+        ],
+        "title": "Phospholipase D: enzymology, functionality, and chemical modulation.",
+        "journal": "Chem Rev 111:6064-119 (2011) DOI:10.1021/cr200296t",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21936578",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Brandenburg LO",
+          "Pufe T",
+          "Koch T"
+        ],
+        "title": "Role of phospholipase d in g-protein coupled receptor function.",
+        "journal": "Membranes (Basel) 4:302-18 (2014) DOI:10.3390/membranes4030302",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24995811",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Oude Weernink PA",
+          "Han L",
+          "Jakobs KH",
+          "Schmidt M"
+        ],
+        "title": "Dynamic phospholipid signaling by G protein-coupled receptors.",
+        "journal": "Biochim Biophys Acta 1768:888-900 (2007) DOI:10.1016/j.bbamem.2006.09.012",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17054901",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Foster DA",
+          "Salloum D",
+          "Menon D",
+          "Frias MA"
+        ],
+        "title": "Phospholipase D and the maintenance of phosphatidic acid levels for regulation of mammalian target of rapamycin (mTOR).",
+        "journal": "J Biol Chem 289:22583-8 (2014) DOI:10.1074/jbc.R114.566091",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24990952",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jenkins GM",
+          "Frohman MA"
+        ],
+        "title": "Phospholipase D: a lipid centric review.",
+        "journal": "Cell Mol Life Sci 62:2305-16 (2005) DOI:10.1007/s00018-005-5195-z",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16143829",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Metcalfe DD",
+          "Peavy RD",
+          "Gilfillan AM"
+        ],
+        "title": "Mechanisms of mast cell signaling in anaphylaxis.",
+        "journal": "J Allergy Clin Immunol 124:639-46; quiz 647-8 (2009) DOI:10.1016/j.jaci.2009.08.035",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19815110",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kalesnikoff J",
+          "Galli SJ"
+        ],
+        "title": "New developments in mast cell biology.",
+        "journal": "Nat Immunol 9:1215-23 (2008) DOI:10.1038/ni.f.216",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18936782",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cockcroft S",
+          "Way G",
+          "O'Luanaigh N",
+          "Pardo R",
+          "Sarri E",
+          "Fensome A"
+        ],
+        "title": "Signalling role for ARF and phospholipase D in mast cell exocytosis stimulated by crosslinking of the high affinity FcepsilonR1 receptor.",
+        "journal": "Mol Immunol 38:1277-82 (2002) DOI:10.1016/S0161-5890(02)00075-5",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12217395",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lee CS",
+          "Kim KL",
+          "Jang JH",
+          "Choi YS",
+          "Suh PG",
+          "Ryu SH"
+        ],
+        "title": "The roles of phospholipase D in EGFR signaling.",
+        "journal": "Biochim Biophys Acta 1791:862-8 (2009) DOI:10.1016/j.bbalip.2009.04.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19410013",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lee CS",
+          "Kim IS",
+          "Park JB",
+          "Lee MN",
+          "Lee HY",
+          "Suh PG",
+          "Ryu SH"
+        ],
+        "title": "The phox homology domain of phospholipase D activates dynamin GTPase activity and accelerates EGFR endocytosis.",
+        "journal": "Nat Cell Biol 8:477-84 (2006) DOI:10.1038/ncb1401",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16622417",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kam Y",
+          "Exton JH"
+        ],
+        "title": "Role of phospholipase D1 in the regulation of mTOR activity by lysophosphatidic acid.",
+        "journal": "FASEB J 18:311-9 (2004) DOI:10.1096/fj.03-0731com",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14769825",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kozawa O",
+          "Blume-Jensen P",
+          "Heldin CH",
+          "Ronnstrand L"
+        ],
+        "title": "Involvement of phosphatidylinositol 3'-kinase in stem-cell-factor-induced phospholipase D activation and arachidonic acid release.",
+        "journal": "Eur J Biochem 248:149-55 (1997) DOI:10.1111/j.1432-1033.1997.00149.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9310372",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Slaaby R",
+          "Du G",
+          "Altshuller YM",
+          "Frohman MA",
+          "Seedorf K"
+        ],
+        "title": "Insulin-induced phospholipase D1 and phospholipase D2 activity in human embryonic kidney-293 cells mediated by the phospholipase C gamma and protein kinase C alpha signalling cascade.",
+        "journal": "Biochem J 351 Pt 3:613-9 (2000) DOI:10.1042/bj3510613",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11042115",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fahimi-Vahid M",
+          "Gosau N",
+          "Michalek C",
+          "Han L",
+          "Jakobs KH",
+          "Schmidt M",
+          "Roberts N",
+          "Avkiran M",
+          "Wieland T"
+        ],
+        "title": "Distinct signaling pathways mediate cardiomyocyte phospholipase D stimulation by endothelin-1 and thrombin.",
+        "journal": "J Mol Cell Cardiol 34:441-53 (2002) DOI:10.1006/jmcc.2002.1525",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11991733",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Freeman EJ"
+        ],
+        "title": "The Ang II-induced growth of vascular smooth muscle cells involves a phospholipase D-mediated signaling mechanism.",
+        "journal": "Arch Biochem Biophys 374:363-70 (2000) DOI:10.1006/abbi.1999.1608",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10666319",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Naro F",
+          "Donchenko V",
+          "Minotti S",
+          "Zolla L",
+          "Molinaro M",
+          "Adamo S"
+        ],
+        "title": "Role of phospholipase C and D signalling pathways in vasopressin-dependent myogenic differentiation.",
+        "journal": "J Cell Physiol 171:34-42 (1997) DOI:10.1002/(SICI)1097-4652(199704)171:1<34::AID-JCP5>3.0.CO;2-I",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9119890",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Murdoch C",
+          "Finn A"
+        ],
+        "title": "Chemokine receptors and their role in inflammation and infectious diseases.",
+        "journal": "Blood",
+        "volume": "95",
+        "issue": "",
+        "pages": "3032-43",
+        "year": "2000",
+        "pubmed": "10807766",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sugiyama T",
+          "Sakai T",
+          "Nozawa Y",
+          "Oka N"
+        ],
+        "title": "Prostaglandin F2 alpha-stimulated phospholipase D activation in osteoblast-like MC3T3-E1 cells: involvement in sustained 1,2-diacylglycerol production.",
+        "journal": "Biochem J 298 ( Pt 2):479-84 (1994) DOI:10.1042/bj2980479",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "8135758",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Foster DA"
+        ],
+        "title": "Regulation of mTOR by phosphatidic acid?",
+        "journal": "Cancer Res 67:1-4 (2007) DOI:10.1158/0008-5472.CAN-06-3016",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17210675",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Delon C",
+          "Manifava M",
+          "Wood E",
+          "Thompson D",
+          "Krugmann S",
+          "Pyne S",
+          "Ktistakis NT"
+        ],
+        "title": "Sphingosine kinase 1 is an intracellular effector of phosphatidic acid.",
+        "journal": "J Biol Chem 279:44763-74 (2004) DOI:10.1074/jbc.M405771200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15310762",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Park JB",
+          "Lee CS",
+          "Jang JH",
+          "Ghim J",
+          "Kim YJ",
+          "You S",
+          "Hwang D",
+          "Suh PG",
+          "Ryu SH"
+        ],
+        "title": "Phospholipase signalling networks in cancer.",
+        "journal": "Nat Rev Cancer 12:782-92 (2012) DOI:10.1038/nrc3379",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23076158",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Foster DA"
+        ],
+        "title": "Phosphatidic acid signaling to mTOR: signals for the survival of human cancer cells.",
+        "journal": "Biochim Biophys Acta 1791:949-55 (2009) DOI:10.1016/j.bbalip.2009.02.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19264150",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04072"
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "entry_id": "map04010",
+    "name": "MAPK signaling pathway",
+    "description": "The mitogen-activated protein kinase (MAPK) cascade is a highly conserved module that is involved in various cellular functions, including cell proliferation, differentiation and migration. Mammals express at least four distinctly regulated groups of MAPKs, extracellular signal-related kinases (ERK)-1/2, Jun amino-terminal kinases (JNK1/2/3), p38 proteins (p38alpha/beta/gamma/delta) and ERK5, that are activated by specific MAPKKs: MEK1/2 for ERK1/2, MKK3/6 for the p38, MKK4/7 (JNKK1/2) for the JNKs, and MEK5 for ERK5. Each MAPKK, however, can be activated by more than one MAPKKK, increasing the complexity and diversity of MAPK signalling. Presumably each MAPKKK confers responsiveness to distinct stimuli. For example, activation of ERK1/2 by growth factors depends on the MAPKKK c-Raf, but other MAPKKKs may activate ERK1/2 in response to pro-inflammatory stimuli.",
+    "classes": [
+      "Environmental Information Processing",
+      "Signal transduction"
+    ],
+    "diseases": {
+      "H00078": "Frontotemporal lobar degeneration",
+      "H00265": "Hereditary sensory and autonomic neuropathy",
+      "H00484": "Multiple synostosis syndrome",
+      "H00505": "FGFR3-related short limb skeletal dysplasia",
+      "H00523": "Noonan syndrome and related disorders",
+      "H00532": "Parkes Weber syndrome",
+      "H00535": "Hereditary lymphedema",
+      "H00540": "Osteoporosis, lymphedema, anhydrotic ectodermal dysplasia with immunodeficiency (OLEDAID)",
+      "H00574": "Coffin-Lowry syndrome",
+      "H00595": "Myofibrillar myopathies",
+      "H00642": "Lacrimo-auriculo-dento-digital syndrome",
+      "H00645": "Incontinentia pigmenti",
+      "H00677": "Aplasia of lacrimal and salivary glands",
+      "H00728": "Brugada syndrome",
+      "H00746": "Hypokalemic periodic paralysis (HypoPP)",
+      "H00749": "Episodic ataxias",
+      "H00775": "Hemiplegic migraine",
+      "H00787": "Congenital stationary night blindness",
+      "H00800": "Loeys-Dietz syndrome",
+      "H00801": "Familial thoracic aortic aneurysm and dissection",
+      "H00808": "Idiopathic generalized epilepsies",
+      "H00881": "Li-Fraumeni syndrome",
+      "H00882": "Cocoon syndrome",
+      "H00894": "FG syndrome",
+      "H00912": "Tumor necrosis factor receptor-associated periodic syndrome",
+      "H00916": "Congenital central hypoventilation syndrome",
+      "H00997": "CATSHL syndrome",
+      "H01007": "Choroid plexus papilloma",
+      "H01193": "Familial tumoral calcinosis",
+      "H01207": "Trigonocephaly",
+      "H01250": "Hereditary gingival fibromatosis",
+      "H01276": "Chronic idiopathic intestinal pseudo-obstruction",
+      "H01385": "Rienhoff syndrome",
+      "H01437": "Neurofibromatosis type 1",
+      "H01512": "Langerhans cell histiocytosis",
+      "H01738": "Noonan syndrome",
+      "H01745": "Cardiofaciocutaneous syndrome",
+      "H01905": "Trichomegaly",
+      "H01984": "Leopard syndrome",
+      "H02043": "Capillary malformation-arteriovenous malformation",
+      "H02064": "Atelosteogenesis type I and III",
+      "H02067": "Boomerang dysplasia",
+      "H02068": "Hypochondroplasia",
+      "H02069": "SADDAN",
+      "H02188": "Watson syndrome",
+      "H02189": "Neurofibromatosis-Noonan syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0000165"
+      ]
+    },
+    "pathways": {
+      "map04010": "MAPK signaling pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Chen Z",
+          "Gibson TB",
+          "Robinson F",
+          "Silvestro L",
+          "Pearson G",
+          "Xu B",
+          "Wright A",
+          "Vanderbilt C",
+          "Cobb MH."
+        ],
+        "title": "MAP kinases.",
+        "journal": "Chem Rev 101:2449-76 (2001) DOI:10.1021/cr000241p",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11749383",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tanoue T",
+          "Nishida E."
+        ],
+        "title": "Docking interactions in the mitogen-activated protein kinase cascades.",
+        "journal": "Pharmacol Ther 93:193-202 (2002) DOI:10.1016/S0163-7258(02)00188-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12191611",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dent P",
+          "Yacoub A",
+          "Fisher PB",
+          "Hagan MP",
+          "Grant S."
+        ],
+        "title": "MAPK pathways in radiation responses.",
+        "journal": "Oncogene 22:5885-96 (2003) DOI:10.1038/sj.onc.1206701",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12947395",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Huang EJ",
+          "Reichardt LF."
+        ],
+        "title": "Trk receptors: roles in neuronal signal transduction.",
+        "journal": "Annu Rev Biochem 72:609-42 (2003) DOI:10.1146/annurev.biochem.72.121801.161629",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12676795",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Harper SJ",
+          "LoGrasso P."
+        ],
+        "title": "Signalling for survival and death in neurones: the role of stress-activated kinases, JNK and p38.",
+        "journal": "Cell Signal 13:299-310 (2001) DOI:10.1016/S0898-6568(01)00148-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11369511",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Takeda K",
+          "Ichijo H"
+        ],
+        "title": "Neuronal p38 MAPK signalling: an emerging regulator of cell fate and function in the nervous system.",
+        "journal": "Genes Cells 7:1099-111 (2002) DOI:10.1046/j.1365-2443.2002.00591.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12390245",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yang SH",
+          "Sharrocks AD",
+          "Whitmarsh AJ."
+        ],
+        "title": "Transcriptional regulation by the MAP kinase signaling cascades.",
+        "journal": "Gene 320:3-21 (2003) DOI:10.1016/S0378-1119(03)00816-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14597384",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhu X",
+          "Lee HG",
+          "Raina AK",
+          "Perry G",
+          "Smith MA."
+        ],
+        "title": "The role of mitogen-activated protein kinase pathways in Alzheimer's disease.",
+        "journal": "Neurosignals 11:270-81 (2002) DOI:10.1159/000067426",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12566928",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cho H",
+          "Lee J",
+          "Kwak NJ",
+          "Lee KH",
+          "Rha S",
+          "Kim YH",
+          "Cho YY",
+          "Yang KH",
+          "Kim K",
+          "Lim Y."
+        ],
+        "title": "Silica induces nuclear factor-kappaB activation through TAK1 and NIK in Rat2 cell line.",
+        "journal": "Toxicol Lett 143:323-30 (2003) DOI:10.1016/S0378-4274(03)00193-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12849693",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lemmon MA",
+          "Schlessinger J"
+        ],
+        "title": "Cell signaling by receptor tyrosine kinases.",
+        "journal": "Cell 141:1117-34 (2010) DOI:10.1016/j.cell.2010.06.011",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20602996",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Skaper SD"
+        ],
+        "title": "The neurotrophin family of neurotrophic factors: an overview.",
+        "journal": "Methods Mol Biol 846:1-12 (2012) DOI:10.1007/978-1-61779-536-7_1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22367796",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chu WM"
+        ],
+        "title": "Tumor necrosis factor.",
+        "journal": "Cancer Lett 328:222-5 (2013) DOI:10.1016/j.canlet.2012.10.014",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23085193",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Newton K",
+          "Dixit VM"
+        ],
+        "title": "Signaling in innate immunity and inflammation.",
+        "journal": "Cold Spring Harb Perspect Biol 4:a006049 (2012) DOI:10.1101/cshperspect.a006049",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22296764",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gaestel M",
+          "Kotlyarov A",
+          "Kracht M"
+        ],
+        "title": "Targeting innate immunity protein kinase signalling in inflammation.",
+        "journal": "Nat Rev Drug Discov 8:480-99 (2009) DOI:10.1038/nrd2829",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19483709",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ajibade AA",
+          "Wang HY",
+          "Wang RF"
+        ],
+        "title": "Cell type-specific function of TAK1 in innate immune signaling.",
+        "journal": "Trends Immunol 34:307-16 (2013) DOI:10.1016/j.it.2013.03.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23664135",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Turner MD",
+          "Nedjai B",
+          "Hurst T",
+          "Pennington DJ"
+        ],
+        "title": "Cytokines and chemokines: At the crossroads of cell signalling and inflammatory disease.",
+        "journal": "Biochim Biophys Acta 1843:2563-2582 (2014) DOI:10.1016/j.bbamcr.2014.05.014",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24892271",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00687": "MAPK (ERK1/2) signaling [PATH:map04010]",
+      "M00688": "MAPK (JNK) signaling [PATH:map04010]",
+      "M00689": "MAPK (p38) signaling [PATH:map04010]",
+      "M00690": "MAPK (ERK5) signaling [PATH:map04010]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04010"
+  }
+]

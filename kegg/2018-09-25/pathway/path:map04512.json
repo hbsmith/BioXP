@@ -1,0 +1,397 @@
+[
+  {
+    "entry_id": "map04512",
+    "name": "ECM-receptor interaction",
+    "description": "The extracellular matrix (ECM) consists of a complex mixture of structural and functional macromolecules and serves an important role in tissue and organ morphogenesis and in the maintenance of cell and tissue structure and function. Specific interactions between cells and the ECM are mediated by transmembrane molecules, mainly integrins and perhaps also proteoglycans, CD36, or other cell-surface-associated components. These interactions lead to a direct or indirect control of cellular activities such as adhesion, migration, differentiation, proliferation, and apoptosis. In addition, integrins function as mechanoreceptors and provide a force-transmitting physical link between the ECM and the cytoskeleton. Integrins are a family of glycosylated, heterodimeric transmembrane adhesion receptors that consist of noncovalently bound alpha- and beta-subunits.",
+    "classes": [
+      "Environmental Information Processing",
+      "Signaling molecules and interaction"
+    ],
+    "diseases": {
+      "H00219": "Hemophilia",
+      "H00224": "Bernard-Soulier syndrome",
+      "H00226": "Glanzmann thrombasthenia",
+      "H00520": "Type II collagenopathies",
+      "H00576": "Pierson syndrome",
+      "H00579": "Hereditary angiopathy with nephropathy, aneurysms, and muscle cramps (HANAC)",
+      "H00581": "Alport syndrome",
+      "H00582": "Benign familial hematuria",
+      "H00586": "Epidermolysis bullosa, junctional",
+      "H00770": "Congenital myasthenic syndrome",
+      "H00802": "Ehlers-Danlos syndrome",
+      "H00805": "Vitreoretinal degeneration",
+      "H00813": "Laryngo onycho cutaneous syndrome",
+      "H00839": "Porencephaly",
+      "H00877": "Brain small vessel disease with hemorrhage",
+      "H01260": "Glomerulopathy with fibronectin deposits",
+      "H01338": "Myosclerosis",
+      "H01340": "Bethlem myopathy",
+      "H01341": "Collagen VI myopathy",
+      "H01526": "Legg-Calve-Perthes Disease",
+      "H01777": "Schwartz-Jampel syndrome",
+      "H01778": "Ullrich disease",
+      "H01958": "Merosin-deficient congenital muscular dystrophy",
+      "H02066": "Achondrogenesis type II",
+      "H02070": "Kniest dysplasia",
+      "H02071": "Czech dysplasia",
+      "H02072": "Stickler syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0005201"
+      ]
+    },
+    "pathways": {
+      "map04512": "ECM-receptor interaction"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "van der Flier A",
+          "Sonnenberg A."
+        ],
+        "title": "Function and interactions of integrins.",
+        "journal": "Cell Tissue Res 305:285-98 (2001) DOI:10.1007/s004410100417",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11572082",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Reddy KV",
+          "Mangale SS."
+        ],
+        "title": "Integrin receptors: the dynamic modulators of endometrial function.",
+        "journal": "Tissue Cell 35:260-73 (2003) DOI:10.1016/S0040-8166(03)00039-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12921709",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Milner R",
+          "Campbell IL."
+        ],
+        "title": "The integrin family of cell adhesion molecules has multiple functions within the CNS.",
+        "journal": "J Neurosci Res 69:286-91 (2002) DOI:10.1002/jnr.10321",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12125070",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cichy J",
+          "Pure E."
+        ],
+        "title": "The liberation of CD44.",
+        "journal": "J Cell Biol 161:839-43 (2003) DOI:10.1083/jcb.200302098",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12796473",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Elenius K",
+          "Jalkanen M."
+        ],
+        "title": "Function of the syndecans--a family of cell surface proteoglycans.",
+        "journal": "J Cell Sci 107",
+        "volume": "( Pt 11)",
+        "issue": "",
+        "pages": "2975-82",
+        "year": "1994",
+        "pubmed": "7698997",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Son YJ",
+          "Scranton TW",
+          "Sunderland WJ",
+          "Baek SJ",
+          "Miner JH",
+          "Sanes JR",
+          "Carlson SS."
+        ],
+        "title": "The synaptic vesicle protein SV2 is complexed with an alpha5-containing laminin on the nerve terminal surface.",
+        "journal": "J Biol Chem 275:451-60 (2000) DOI:10.1074/jbc.275.1.451",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10617638",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sid B",
+          "Sartelet H",
+          "Bellon G",
+          "El Btaouri H",
+          "Rath G",
+          "Delorme N",
+          "Haye B",
+          "Martiny L."
+        ],
+        "title": "Thrombospondin 1: a multifunctional protein implicated in the regulation of tumor growth.",
+        "journal": "Crit Rev Oncol Hematol 49:245-58 (2004) DOI:10.1016/j.critrevonc.2003.09.009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15036264",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Canobbio I",
+          "Balduini C",
+          "Torti M."
+        ],
+        "title": "Signalling through the platelet glycoprotein Ib-V-IX complex.",
+        "journal": "Cell Signal 16:1329-44 (2004) DOI:10.1016/j.cellsig.2004.05.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15381249",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nieswandt B",
+          "Brakebusch C",
+          "Bergmeier W",
+          "Schulte V",
+          "Bouvard D",
+          "Mokhtari-Nejad R",
+          "Lindhout T",
+          "Heemskerk JW",
+          "Zirngibl H",
+          "Fassler R."
+        ],
+        "title": "Glycoprotein VI but not alpha2beta1 integrin is essential for platelet interaction with collagen.",
+        "journal": "EMBO J 20:2120-30 (2001) DOI:10.1093/emboj/20.9.2120",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11331578",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Martin PT."
+        ],
+        "title": "Dystroglycan glycosylation and its role in matrix binding in skeletal muscle.",
+        "journal": "Glycobiology 13:55R-66R (2003) DOI:10.1093/glycob/cwg076",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12736199",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Toole BP."
+        ],
+        "title": "Hyaluronan: from extracellular glue to pericellular cue.",
+        "journal": "Nat Rev Cancer 4:528-39 (2004) DOI:10.1038/nrc1391",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15229478",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bosman FT",
+          "Stamenkovic I."
+        ],
+        "title": "Functional structure and composition of the extracellular matrix.",
+        "journal": "J Pathol 200:423-8 (2003) DOI:10.1002/path.1437",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12845610",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04512"
+  }
+]

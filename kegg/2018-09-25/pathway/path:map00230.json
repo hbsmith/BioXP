@@ -1,0 +1,122 @@
+[
+  {
+    "entry_id": "map00230",
+    "name": "Purine metabolism",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Nucleotide metabolism"
+    ],
+    "diseases": {
+      "H00184": "Hypermethioninemia",
+      "H00192": "Xanthinuria",
+      "H00194": "Lesch-Nyhan syndrome",
+      "H00195": "Adenine phosphoribosyltransferase deficiency",
+      "H00196": "Phosphoribosylpyrophosphate synthetase superactivity",
+      "H00197": "Adenylosuccinate lyase deficiency",
+      "H00469": "Mitochondrial DNA depletion syndrome",
+      "H00481": "Cone-rod dystrophy and cone dystrophy",
+      "H00494": "Desbuquois syndrome",
+      "H00674": "Anemia due to disorders of nucleotide metabolism",
+      "H00761": "SEMD, Pakistani type",
+      "H00824": "Calcification of joints and arteries",
+      "H00837": "Leber congenital amaurosis",
+      "H00946": "Arts syndrome",
+      "H00966": "AICA-ribosiduria",
+      "H01002": "Generalized arterial calcification of infancy",
+      "H01096": "Pyruvate kinase deficiency",
+      "H01128": "Reticular dysgenesis",
+      "H01394": "Cole disease",
+      "H01532": "Gout",
+      "H01570": "Autosomal dominant striatal degeneration"
+    },
+    "dblinks": {
+      "GO": [
+        "0042278"
+      ]
+    },
+    "pathways": {
+      "map00230": "Purine metabolism"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Cusa E",
+          "Obradors N",
+          "Baldoma L",
+          "Badia J",
+          "Aguilar J."
+        ],
+        "title": "Genetic analysis of a chromosomal region containing genes required for assimilation of allantoin nitrogen and linked glyoxylate metabolism in Escherichia coli.",
+        "journal": "J Bacteriol",
+        "volume": "181",
+        "issue": "",
+        "pages": "7479-84",
+        "year": "1999",
+        "pubmed": "10601204",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Xi H",
+          "Schneider BL",
+          "Reitzer L."
+        ],
+        "title": "Purine catabolism in Escherichia coli and function of xanthine dehydrogenase in purine salvage.",
+        "journal": "J Bacteriol 182:5332-41 (2000) DOI:10.1128/JB.182.19.5332-5341.2000",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10986234",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00005": "PRPP biosynthesis, ribose 5P => PRPP [PATH:map00230]",
+      "M00048": "Inosine monophosphate biosynthesis, PRPP + glutamine => IMP [PATH:map00230]",
+      "M00049": "Adenine ribonucleotide biosynthesis, IMP => ADP,ATP [PATH:map00230]",
+      "M00050": "Guanine ribonucleotide biosynthesis IMP => GDP,GTP [PATH:map00230]",
+      "M00546": "Purine degradation, xanthine => urea [PATH:map00230]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00230"
+  }
+]

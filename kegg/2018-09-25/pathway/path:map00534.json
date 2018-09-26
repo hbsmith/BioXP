@@ -1,0 +1,337 @@
+[
+  {
+    "entry_id": "map00534",
+    "name": "Glycosaminoglycan biosynthesis - heparan sulfate / heparin",
+    "description": "Heparan sulfate (HS) and heparin (Hep) are glycosaminoglycans with repeating disaccharide units that consist of alternating residues of alpha-D-glucosamine (GlcN) and uronic acid, the latter being either beta-D-glucuronic acid (GlcA) or alpha-L-iduronic acid (IdoA). In these sugar residues, sulfation modification may be performed at various positions. Structural studies show that Hep possesses a higher degree of sulfation than HS. The biosynthesis of HS/Hep occurs with the addition of the first GlcNAc residue by EXTL3 glycosyltransferase after completion of tetrasaccharide linkage region attached to serine residue of a core protein. The chain polymeraization is then catalyzed by EXT1 and EXT2 transferases. As the chain polymerizes, HS/Hep undergoes a series of modification reactions including N-deacetylation, N-sulfation, epimerization, and subsequently O-sulfation. As final products of biosynthesis, HS is present in the form of hepran sulfate proteoglycan (HSPG) whereas Hep exists as a sugar chain without a core protein. The proteoglycan families with HS, as well as CS (chondroitin sulfate), DS (dermatan sulfate), and KS (keratan sulfate), are composed of two main types depending on the subcellular locations: cell membrane and extracellular matrix [BR:ko00535]. HS/Hep has been shown to bind to a variety of molecules, such as growth factors, chemokines, morphogens, and extracellular matrix components [BR:ko00536].",
+    "classes": [
+      "Metabolism",
+      "Glycan biosynthesis and metabolism"
+    ],
+    "diseases": {
+      "H00122": "Multiple exostoses",
+      "H00494": "Desbuquois syndrome",
+      "H00802": "Ehlers-Danlos syndrome",
+      "H01494": "SEMD with joint laxity type",
+      "H01496": "Spondyloocular syndrome",
+      "H01498": "Multiple joint dislocations, short stature, craniofacial dysmorphism, and congenital heart defects"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00534": "Glycosaminoglycan biosynthesis - heparan sulfate / heparin"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Kim BT",
+          "Kitagawa H",
+          "Tamura J",
+          "Saito T",
+          "Kusche-Gullberg M",
+          "Lindahl U",
+          "Sugahara K"
+        ],
+        "title": "Human tumor suppressor EXT gene family members EXTL1 and EXTL3 encode alpha 1,4- N-acetylglucosaminyltransferases that likely are involved in heparan sulfate/ heparin biosynthesis.",
+        "journal": "Proc Natl Acad Sci U S A 98:7176-81 (2001) DOI:10.1073/pnas.131188498",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11390981",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kitagawa H",
+          "Shimakawa H",
+          "Sugahara K"
+        ],
+        "title": "The tumor suppressor EXT-like gene EXTL2 encodes an alpha1, 4-N-acetylhexosaminyltransferase that transfers N-acetylgalactosamine and N-acetylglucosamine to the common glycosaminoglycan-protein linkage region. The key enzyme for the chain initiation of heparan sulfate.",
+        "journal": "J Biol Chem 274:13933-7 (1999) DOI:10.1074/jbc.274.20.13933",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10318803",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lind T",
+          "Tufaro F",
+          "McCormick C",
+          "Lindahl U",
+          "Lidholt K"
+        ],
+        "title": "The putative tumor suppressors EXT1 and EXT2 are glycosyltransferases required for the biosynthesis of heparan sulfate.",
+        "journal": "J Biol Chem 273:26265-8 (1998) DOI:10.1074/jbc.273.41.26265",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9756849",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Li JP",
+          "Gong F",
+          "El Darwish K",
+          "Jalkanen M",
+          "Lindahl U."
+        ],
+        "title": "Characterization of the D-glucuronyl C5-epimerase involved in the biosynthesis of heparin and heparan sulfate.",
+        "journal": "J Biol Chem 276:20069-77 (2001) DOI:10.1074/jbc.M011783200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11274177",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Habuchi O"
+        ],
+        "title": "Diversity and functions of glycosaminoglycan sulfotransferases.",
+        "journal": "Biochim Biophys Acta 1474:115-27 (2000) DOI:10.1016/S0304-4165(00)00016-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10742590",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rosenberg RD",
+          "Shworak NW",
+          "Liu J",
+          "Schwartz JJ",
+          "Zhang L"
+        ],
+        "title": "Heparan sulfate proteoglycans of the cardiovascular system. Specific structures emerge but how is synthesis regulated?",
+        "journal": "J Clin Invest 99:2062-70 (1997) DOI:10.1172/JCI119377",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9151776",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Liu J",
+          "Shworak NW",
+          "Sinay P",
+          "Schwartz JJ",
+          "Zhang L",
+          "Fritze LM",
+          "Rosenberg RD"
+        ],
+        "title": "Expression of heparan sulfate D-glucosaminyl 3-O-sulfotransferase isoforms reveals novel substrate specificities.",
+        "journal": "J Biol Chem 274:5185-92 (1999) DOI:10.1074/jbc.274.8.5185",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9988768",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shukla D",
+          "Liu J",
+          "Blaiklock P",
+          "Shworak NW",
+          "Bai X",
+          "Esko JD",
+          "Cohen GH",
+          "Eisenberg RJ",
+          "Rosenberg RD",
+          "Spear PG"
+        ],
+        "title": "A novel role for 3-O-sulfated heparan sulfate in herpes simplex virus 1 entry.",
+        "journal": "Cell 99:13-22 (1999) DOI:10.1016/S0092-8674(00)80058-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10520990",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Moon AF",
+          "Edavettal SC",
+          "Krahn JM",
+          "Munoz EM",
+          "Negishi M",
+          "Linhardt RJ",
+          "Liu J",
+          "Pedersen LC"
+        ],
+        "title": "Structural analysis of the sulfotransferase (3-o-sulfotransferase isoform 3) involved in the biosynthesis of an entry receptor for herpes simplex virus 1.",
+        "journal": "J Biol Chem 279:45185-93 (2004) DOI:10.1074/jbc.M405013200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15304505",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chen J",
+          "Liu J"
+        ],
+        "title": "Characterization of the structure of antithrombin-binding heparan sulfate generated by heparan sulfate 3-O-sulfotransferase 5.",
+        "journal": "Biochim Biophys Acta 1725:190-200 (2005) DOI:10.1016/j.bbagen.2005.06.012",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16099108",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00059": "Glycosaminoglycan biosynthesis, heparan sulfate backbone [PATH:map00534]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00534"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "entry_id": "map00500",
+    "name": "Starch and sucrose metabolism",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Carbohydrate metabolism"
+    ],
+    "diseases": {
+      "H00069": "Glycogen storage disease",
+      "H00115": "Congenital sucrase-isomaltase deficiency",
+      "H01002": "Generalized arterial calcification of infancy",
+      "H01193": "Familial tumoral calcinosis",
+      "H01394": "Cole disease",
+      "H01760": "Hepatic glycogen storage disease",
+      "H01762": "Muscle glycogen storage disease",
+      "H01941": "Glycogen storage disease type III",
+      "H01942": "Glycogen storage disease type IV",
+      "H01943": "Glycogen storage disease type V",
+      "H01944": "Glycogen storage disease type VI",
+      "H01949": "Glycogen storage disease type 0b",
+      "H01950": "Glycogen storage disease type 0a",
+      "H01954": "Glycogen storage disease type XIV",
+      "H01955": "Glycogen storage disease type XV",
+      "H02090": "Trehalase deficiency"
+    },
+    "dblinks": {
+      "GO": [
+        "0005982",
+        "0005985"
+      ]
+    },
+    "pathways": {
+      "map00500": "Starch and sucrose metabolism"
+    },
+    "orthologs": {
+    },
+    "references": [
+
+    ],
+    "modules": {
+      "M00266": "PTS system, maltose/glucose-specific II component [PATH:map00500]",
+      "M00269": "PTS system, sucrose-specific II component [PATH:map00500]",
+      "M00270": "PTS system, trehalose-specific II component [PATH:map00500]",
+      "M00275": "PTS system, cellobiose-specific II component [PATH:map00500]",
+      "M00565": "Trehalose biosynthesis, D-glucose 1P => trehalose [PATH:map00500]",
+      "M00806": "PTS system, maltose-specific II component [PATH:map00500]",
+      "M00854": "Glycogen biosynthesis, glucose-1P => glycogen/starch [PATH:map00500]",
+      "M00855": "Glycogen degradation, glycogen => glucose-6P [PATH:map00500]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00500"
+  }
+]

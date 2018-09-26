@@ -1,0 +1,344 @@
+[
+  {
+    "entry_id": "map00910",
+    "name": "Nitrogen metabolism",
+    "description": "The biological process of the nitrogen cycle is a complex interplay among many microorganisms catalyzing different reactions, where nitrogen is found in various oxidation states ranging from +5 in nitrate to -3 in ammonia. The core nitrogen cycle involves four reduction pathways and two oxidation pathways. Nitrogen fixation [MD:M00175] is the process of reducing atmospheric molecular nitrogen to ammonia, a biologically useful reduced form incorporated into amino acids and other vital compounds. The ability of fixing atmospheric nitrogen by the nitrogenase enzyme complex is present in restricted prokaryotes (diazotrophs). The other reduction pathways are assimilatory nitrate reduction [MD:M00531] and dissimilatory nitrate reduction [MD:M00530] both for conversion to ammonia, and denitrification [MD:M00529]. Denitrification is a respiration in which nitrate or nitrite is reduced as a terminal electron acceptor under low oxygen or anoxic conditions, producing gaseous nitrogen compounds (N2, NO and N2O) to the atmosphere. The two oxidation pathways are nitrification [MD:M00528] and anaerobic ammonium oxidation (anammox). Nitrification is the oxidation of ammonia (NH3) with oxygen into nitrite followed by the oxidation of nitrite into nitrate. The first step is performed by ammonia-oxidizing microorganisms (e.g., Nitrosomonas and Nitrosococcus) and the second step by nitrite-oxidizing microorganisms (e.g., Nitrobacter). Anammox is a biochemical process of oxidizing ammonium (NH4+) into dinitrogen gas (N2) using nitrite as an electron acceptor. It occurs in the anammoxosome, a membrane bound compartment inside the cytoplasm, of anammox bacteria (e.g., Planctomycetes).",
+    "classes": [
+      "Metabolism",
+      "Energy metabolism"
+    ],
+    "diseases": {
+      "H00164": "Carbamoyl phosphate synthetase I deficiency",
+      "H00923": "Congenital systemic glutamine deficiency"
+    },
+    "dblinks": {
+      "GO": [
+        "0006807"
+      ]
+    },
+    "pathways": {
+      "map00910": "Nitrogen metabolism"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Scott JD",
+          "Ludwig RA"
+        ],
+        "title": "Azorhizobium caulinodans electron-transferring flavoprotein N electrochemically couples pyruvate dehydrogenase complex activity to N2 fixation.",
+        "journal": "Microbiology 150:117-26 (2004) DOI:10.1099/mic.0.26603-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14702404",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kneip C",
+          "Lockhart P",
+          "Voss C",
+          "Maier UG"
+        ],
+        "title": "Nitrogen fixation in eukaryotes--new models for symbiosis.",
+        "journal": "BMC Evol Biol 7:55 (2007) DOI:10.1186/1471-2148-7-55",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17408485",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Whittaker M",
+          "Bergmann D",
+          "Arciero D",
+          "Hooper AB"
+        ],
+        "title": "Electron transfer during the oxidation of ammonia by the chemolithotrophic bacterium Nitrosomonas europaea.",
+        "journal": "Biochim Biophys Acta 1459:346-55 (2000) DOI:10.1016/S0005-2728(00)00171-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11004450",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cabello P",
+          "Roldan MD",
+          "Moreno-Vivian C"
+        ],
+        "title": "Nitrate reduction and the nitrogen cycle in archaea.",
+        "journal": "Microbiology 150:3527-46 (2004) DOI:10.1099/mic.0.27303-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15528644",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Stolz JF",
+          "Basu P"
+        ],
+        "title": "Evolution of nitrate reductase: molecular and structural variations on a common function.",
+        "journal": "Chembiochem 3:198-206 (2002) DOI:10.1002/1439-7633(20020301)3:2/3<198::AID-CBIC198>3.0.CO;2-C",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11921398",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Morozkina EV",
+          "Zvyagilskaya RA"
+        ],
+        "title": "Nitrate reductases: structure, functions, and effect of stress factors.",
+        "journal": "Biochemistry (Mosc) 72:1151-60 (2007) DOI:10.1134/S0006297907100124",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18021072",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jetten MS",
+          "Niftrik L",
+          "Strous M",
+          "Kartal B",
+          "Keltjens JT",
+          "Op den Camp HJ"
+        ],
+        "title": "Biochemistry and molecular biology of anammox bacteria.",
+        "journal": "Crit Rev Biochem Mol Biol 44:65-84 (2009) DOI:10.1080/10409230902722783",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19247843",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Luesken FA",
+          "Wu ML",
+          "Op den Camp HJ",
+          "Keltjens JT",
+          "Stunnenberg H",
+          "Francoijs KJ",
+          "Strous M",
+          "Jetten MS"
+        ],
+        "title": "Effect of oxygen on the anaerobic methanotroph 'Candidatus Methylomirabilis oxyfera': kinetic and transcriptional analysis.",
+        "journal": "Environ Microbiol 14:1024-34 (2012) DOI:10.1111/j.1462-2920.2011.02682.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22221911",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Daims H",
+          "Lebedeva EV",
+          "Pjevac P",
+          "Han P",
+          "Herbold C",
+          "Albertsen M",
+          "Jehmlich N",
+          "Palatinszky M",
+          "Vierheilig J",
+          "Bulaev A",
+          "Kirkegaard RH",
+          "von Bergen M",
+          "Rattei T",
+          "Bendinger B",
+          "Nielsen PH",
+          "Wagner M"
+        ],
+        "title": "Complete nitrification by Nitrospira bacteria.",
+        "journal": "Nature 528:504-9 (2015) DOI:10.1038/nature16461",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26610024",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "van Kessel MA",
+          "Speth DR",
+          "Albertsen M",
+          "Nielsen PH",
+          "Op den Camp HJ",
+          "Kartal B",
+          "Jetten MS",
+          "Lucker S"
+        ],
+        "title": "Complete nitrification by a single microorganism.",
+        "journal": "Nature 528:555-9 (2015) DOI:10.1038/nature16459",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26610025",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00175": "Nitrogen fixation, nitrogen => ammonia [PATH:map00910]",
+      "M00438": "Nitrate/nitrite transport system [PATH:map00910]",
+      "M00528": "Nitrification, ammonia => nitrite [PATH:map00910]",
+      "M00529": "Denitrification, nitrate => nitrogen [PATH:map00910]",
+      "M00530": "Dissimilatory nitrate reduction, nitrate => ammonia [PATH:map00910]",
+      "M00531": "Assimilatory nitrate reduction, nitrate => ammonia [PATH:map00910]",
+      "M00804": "Complete nitrification, comammox, ammonia => nitrite => nitrate [PATH:map00910]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00910"
+  }
+]

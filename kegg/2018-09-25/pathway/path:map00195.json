@@ -1,0 +1,217 @@
+[
+  {
+    "entry_id": "map00195",
+    "name": "Photosynthesis",
+    "description": "Photosynthesis in green plants and specialized bacteria is the process of utilizing light energy to synthesize organic compounds from carbon dioxide and water. It consists of the light dependent part (light reaction) and the light independent part (dark reaction, carbon fixation). The light reaction takes place in thylakoid, a membrane-bound compartment inside chloroplasts and cyanobacteria. The light energy is used by photosystems I and II to generate proton motive force and reducing power (NADPH or NADH). The proton motive force is used by ATP synthase to generate ATP, essentially in the same way as the mitochondrial respiratory chain. The supplies of ATP and NAD(P)H are then used to fix carbon dioxide.",
+    "classes": [
+      "Metabolism",
+      "Energy metabolism"
+    ],
+    "diseases": {
+      "H00138": "Farber lipogranulomatosis",
+      "H00424": "Defects in the degradation of sphingomyelin"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00195": "Photosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Ferreira KN",
+          "Iverson TM",
+          "Maghlaoui K",
+          "Barber J",
+          "Iwata S."
+        ],
+        "title": "Architecture of the photosynthetic oxygen-evolving center.",
+        "journal": "Science 303:1831-8 (2004) DOI:10.1126/science.1093087",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14764885",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kamiya N",
+          "Shen JR."
+        ],
+        "title": "Crystal structure of oxygen-evolving photosystem II from Thermosynechococcus vulcanus at 3.7-A resolution.",
+        "journal": "Proc Natl Acad Sci U S A 100:98-103 (2003) DOI:10.1073/pnas.0135651100",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12518057",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zouni A",
+          "Witt HT",
+          "Kern J",
+          "Fromme P",
+          "Krauss N",
+          "Saenger W",
+          "Orth P."
+        ],
+        "title": "Crystal structure of photosystem II from Synechococcus elongatus at 3.8 A resolution.",
+        "journal": "Nature 409:739-743 (2001) DOI:10.1038/35055589",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11217865",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jordan P",
+          "Fromme P",
+          "Witt HT",
+          "Klukas O",
+          "Saenger W",
+          "Krauss N."
+        ],
+        "title": "Three-dimensional structure of cyanobacterial photosystem I at 2.5 A resolution.",
+        "journal": "Nature 411:909-917 (2001) DOI:10.1038/35082000",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11418848",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jones MR",
+          "Fyfe PK."
+        ],
+        "title": "Photosynthesis: new light on biological oxygen production.",
+        "journal": "Curr Biol 17:R318-R321 (2001) DOI:10.1016/S0960-9822(01)00174-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11369223",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shen G",
+          "Zhao J",
+          "Reimer SK",
+          "Antonkine ML",
+          "Cai Q",
+          "Weiland SM",
+          "Golbeck JH",
+          "Bryant DA."
+        ],
+        "title": "Assembly of photosystem I. I. Inactivation of the rubA gene encoding a membrane-associated rubredoxin in the cyanobacterium Synechococcus sp. PCC 7002 causes a loss of photosystem I activity.",
+        "journal": "J Biol Chem 277:20343-54 (2002) DOI:10.1074/jbc.M201103200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11914373",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00157": "F-type ATPase, prokaryotes and chloroplasts [PATH:map00195]",
+      "M00161": "Photosystem II [PATH:map00195]",
+      "M00162": "Cytochrome b6f complex [PATH:map00195]",
+      "M00163": "Photosystem I [PATH:map00195]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00195"
+  }
+]

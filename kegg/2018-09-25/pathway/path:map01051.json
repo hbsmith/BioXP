@@ -1,0 +1,545 @@
+[
+  {
+    "entry_id": "map01051",
+    "name": "Biosynthesis of ansamycins",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Metabolism of terpenoids and polyketides"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map01051": "Biosynthesis of ansamycins"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Kang Q",
+          "Shen Y",
+          "Bai L"
+        ],
+        "title": "Biosynthesis of 3,5-AHBA-derived natural products.",
+        "journal": "Nat Prod Rep 29:243-63 (2012) DOI:10.1039/c2np00019a",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22193711",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Floss HG",
+          "Yu TW",
+          "Arakawa K"
+        ],
+        "title": "The biosynthesis of 3-amino-5-hydroxybenzoic acid (AHBA), the precursor of mC7N units in ansamycin and mitomycin antibiotics: a review.",
+        "journal": "J Antibiot (Tokyo) 64:35-44 (2011) DOI:10.1038/ja.2010.139",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21081954",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Guo J",
+          "Frost JW"
+        ],
+        "title": "Kanosamine biosynthesis: a likely source of the aminoshikimate pathway's nitrogen atom.",
+        "journal": "J Am Chem Soc 124:10642-3 (2002) DOI:10.1021/ja026628m",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12207504",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wenzel SC",
+          "Williamson RM",
+          "Grunanger C",
+          "Xu J",
+          "Gerth K",
+          "Martinez RA",
+          "Moss SJ",
+          "Carroll BJ",
+          "Grond S",
+          "Unkefer CJ",
+          "Muller R",
+          "Floss HG"
+        ],
+        "title": "On the biosynthetic origin of methoxymalonyl-acyl carrier protein, the substrate for incorporation of \"glycolate\" units into ansamitocin and soraphen A.",
+        "journal": "J Am Chem Soc 128:14325-36 (2006) DOI:10.1021/ja064408t",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17076505",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kato Y",
+          "Bai L",
+          "Xue Q",
+          "Revill WP",
+          "Yu TW",
+          "Floss HG"
+        ],
+        "title": "Functional expression of genes involved in the biosynthesis of the novel polyketide chain extension unit, methoxymalonyl-acyl carrier protein, and engineered biosynthesis of 2-desmethyl-2-methoxy-6-deoxyerythronolide B.",
+        "journal": "J Am Chem Soc 124:5268-9 (2002) DOI:10.1021/ja0127483",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11996558",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yu TW",
+          "Bai L",
+          "Clade D",
+          "Hoffmann D",
+          "Toelzer S",
+          "Trinh KQ",
+          "Xu J",
+          "Moss SJ",
+          "Leistner E",
+          "Floss HG"
+        ],
+        "title": "The biosynthetic gene cluster of the maytansinoid antitumor agent ansamitocin from Actinosynnema pretiosum.",
+        "journal": "Proc Natl Acad Sci U S A 99:7968-73 (2002) DOI:10.1073/pnas.092697199",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12060743",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Spiteller P",
+          "Bai L",
+          "Shang G",
+          "Carroll BJ",
+          "Yu TW",
+          "Floss HG"
+        ],
+        "title": "The post-polyketide synthase modification steps in the biosynthesis of the antitumor agent ansamitocin by Actinosynnema pretiosum.",
+        "journal": "J Am Chem Soc 125:14236-7 (2003) DOI:10.1021/ja038166y",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14624546",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Taft F",
+          "Brunjes M",
+          "Knobloch T",
+          "Floss HG",
+          "Kirschning A"
+        ],
+        "title": "Timing of the Delta(10,12)-Delta(11,13) double bond migration during ansamitocin biosynthesis in Actinosynnema pretiosum.",
+        "journal": "J Am Chem Soc 131:3812-3 (2009) DOI:10.1021/ja8088923",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19292483",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Li Y",
+          "Zhao P",
+          "Kang Q",
+          "Ma J",
+          "Bai L",
+          "Deng Z"
+        ],
+        "title": "Dual carbamoylations on the polyketide and glycosyl moiety by asm21 result in extended ansamitocin biosynthesis.",
+        "journal": "Chem Biol 18:1571-80 (2011) DOI:10.1016/j.chembiol.2011.11.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22195559",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wu Y",
+          "Kang Q",
+          "Shang G",
+          "Spiteller P",
+          "Carroll B",
+          "Yu TW",
+          "Su W",
+          "Bai L",
+          "Floss HG"
+        ],
+        "title": "N-methylation of the amide bond by methyltransferase asm10 in ansamitocin biosynthesis.",
+        "journal": "Chembiochem 12:1759-66 (2011) DOI:10.1002/cbic.201100062",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21681880",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhao P",
+          "Bai L",
+          "Ma J",
+          "Zeng Y",
+          "Li L",
+          "Zhang Y",
+          "Lu C",
+          "Dai H",
+          "Wu Z",
+          "Li Y",
+          "Wu X",
+          "Chen G",
+          "Hao X",
+          "Shen Y",
+          "Deng Z",
+          "Floss HG"
+        ],
+        "title": "Amide N-glycosylation by Asm25, an N-glycosyltransferase of ansamitocins.",
+        "journal": "Chem Biol 15:863-74 (2008) DOI:10.1016/j.chembiol.2008.06.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18721757",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Arakawa K",
+          "Muller R",
+          "Mahmud T",
+          "Yu TW",
+          "Floss HG"
+        ],
+        "title": "Characterization of the early stage aminoshikimate pathway in the formation of 3-amino-5-hydroxybenzoic acid: the RifN protein specifically converts kanosamine into kanosamine 6-phosphate.",
+        "journal": "J Am Chem Soc 124:10644-5 (2002) DOI:10.1021/ja0206339",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12207505",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Watanabe K",
+          "Rude MA",
+          "Walsh CT",
+          "Khosla C"
+        ],
+        "title": "Engineered biosynthesis of an ansamycin polyketide precursor in Escherichia coli.",
+        "journal": "Proc Natl Acad Sci U S A 100:9774-8 (2003) DOI:10.1073/pnas.1632167100",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12888623",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Floss HG",
+          "Yu TW."
+        ],
+        "title": "Rifamycin-mode of action, resistance, and biosynthesis.",
+        "journal": "Chem Rev 105:621-32 (2005) DOI:10.1021/cr030112j",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15700959",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Xu J",
+          "Mahmud T",
+          "Floss HG"
+        ],
+        "title": "Isolation and characterization of 27-O-demethylrifamycin SV methyltransferase provides new insights into the post-PKS modification steps during the biosynthesis of the antitubercular drug rifamycin B by Amycolatopsis mediterranei S699.",
+        "journal": "Arch Biochem Biophys 411:277-88 (2003) DOI:10.1016/S0003-9861(03)00004-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12623077",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Xiong Y",
+          "Wu X",
+          "Mahmud T"
+        ],
+        "title": "A homologue of the Mycobacterium tuberculosis PapA5 protein, rif-orf20, is an acetyltransferase involved in the biosynthesis of antitubercular drug rifamycin B by Amycolatopsis mediterranei S699.",
+        "journal": "Chembiochem 6:834-7 (2005) DOI:10.1002/cbic.200400387",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15791687",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Xu J",
+          "Wan E",
+          "Kim CJ",
+          "Floss HG",
+          "Mahmud T"
+        ],
+        "title": "Identification of tailoring genes involved in the modification of the polyketide backbone of rifamycin B by Amycolatopsis mediterranei S699.",
+        "journal": "Microbiology 151:2515-28 (2005) DOI:10.1099/mic.0.28138-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16079331",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko01051"
+  }
+]

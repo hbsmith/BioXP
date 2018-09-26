@@ -1,0 +1,602 @@
+[
+  {
+    "entry_id": "map05226",
+    "name": "Gastric cancer",
+    "description": "Gastric cancer (GC) is one of the world's most common cancers. According to Lauren's histological classification gastric cancer is divided into two distinct histological groups - the intestinal and diffuse types. Several genetic changes have been identified in intestinal-type GC. The intestinal metaplasia is characterized by mutations in p53 gene, reduced expression of retinoic acid receptor beta (RAR-beta) and hTERT expression. Gastric adenomas furthermore display mutations in the APC gene, reduced p27 expression and cyclin E amplification. In addition, amplification and overexpression of c-ErbB2, reduced TGF-beta receptor type I (TGFBRI) expression and complete loss of p27 expression are commonly observed in more advanced GC. The main molecular changes observed in diffuse-type GCs include loss of E-cadherin function by mutations in CDH1 and amplification of MET and FGFR2F.",
+    "classes": [
+      "Human Diseases",
+      "Cancers: Specific types"
+    ],
+    "diseases": {
+      "H00018": "Gastric cancer"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05226": "Gastric cancer"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Tan P",
+          "Yeoh KG"
+        ],
+        "title": "Genetics and Molecular Pathogenesis of Gastric Adenocarcinoma.",
+        "journal": "Gastroenterology 149:1153-1162.e3 (2015) DOI:10.1053/j.gastro.2015.05.059",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26073375",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Riquelme I",
+          "Saavedra K",
+          "Espinoza JA",
+          "Weber H",
+          "Garcia P",
+          "Nervi B",
+          "Garrido M",
+          "Corvalan AH",
+          "Roa JC",
+          "Bizama C"
+        ],
+        "title": "Molecular classification of gastric cancer: Towards a pathway-driven targeted therapy.",
+        "journal": "Oncotarget 6:24750-79 (2015) DOI:10.18632/oncotarget.4990",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26267324",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Stock M",
+          "Otto F"
+        ],
+        "title": "Gene deregulation in gastric cancer.",
+        "journal": "Gene 360:1-19 (2005) DOI:10.1016/j.gene.2005.06.026",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16154715",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Panani AD"
+        ],
+        "title": "Cytogenetic and molecular aspects of gastric cancer: clinical implications.",
+        "journal": "Cancer Lett 266:99-115 (2008) DOI:10.1016/j.canlet.2008.02.053",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18381231",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vauhkonen M",
+          "Vauhkonen H",
+          "Sipponen P"
+        ],
+        "title": "Pathology and molecular biology of gastric cancer.",
+        "journal": "Best Pract Res Clin Gastroenterol 20:651-74 (2006) DOI:10.1016/j.bpg.2006.03.016",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16997151",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Smith MG",
+          "Hold GL",
+          "Tahara E",
+          "El-Omar EM."
+        ],
+        "title": "Cellular and molecular aspects of gastric cancer.",
+        "journal": "World J Gastroenterol 12:2979-90 (2006) DOI:10.3748/wjg.v12.i19.2979",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16718776",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zheng L",
+          "Wang L",
+          "Ajani J",
+          "Xie K."
+        ],
+        "title": "Molecular basis of gastric cancer development and progression.",
+        "journal": "Gastric Cancer 7:61-77 (2004) DOI:10.1007/s10120-004-0277-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15224192",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yuasa Y"
+        ],
+        "title": "Control of gut differentiation and intestinal-type gastric carcinogenesis.",
+        "journal": "Nat Rev Cancer 3:592-600 (2003) DOI:10.1038/nrc1141",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12894247",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wessler S",
+          "Krisch LM",
+          "Elmer DP",
+          "Aberger F"
+        ],
+        "title": "From inflammation to gastric cancer - the importance of Hedgehog/GLI signaling in Helicobacter pylori-induced chronic inflammatory and neoplastic diseases.",
+        "journal": "Cell Commun Signal 15:15 (2017) DOI:10.1186/s12964-017-0171-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "28427431",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yan LH",
+          "Wei WY",
+          "Xie YB",
+          "Xiao Q"
+        ],
+        "title": "New insights into the functions and localization of the homeotic gene CDX2 in gastric cancer.",
+        "journal": "World J Gastroenterol 20:3960-6 (2014) DOI:10.3748/wjg.v20.i14.3960",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24744585",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hayashi K",
+          "Yokozaki H",
+          "Goodison S",
+          "Oue N",
+          "Suzuki T",
+          "Lotan R",
+          "Yasui W",
+          "Tahara E"
+        ],
+        "title": "Inactivation of retinoic acid receptor beta by promoter CpG hypermethylation in gastric cancer.",
+        "journal": "Differentiation 68:13-21 (2001) DOI:10.1046/j.1432-0436.2001.068001013.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11683489",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Li X",
+          "Wu WK",
+          "Xing R",
+          "Wong SH",
+          "Liu Y",
+          "Fang X",
+          "Zhang Y",
+          "Wang M",
+          "Wang J",
+          "Li L",
+          "Zhou Y",
+          "Tang S",
+          "Peng S",
+          "Qiu K",
+          "Chen L",
+          "Chen K",
+          "Yang H",
+          "Zhang W",
+          "Chan MT",
+          "Lu Y",
+          "Sung JJ",
+          "Yu J"
+        ],
+        "title": "Distinct Subtypes of Gastric Cancer Defined by Molecular Characterization Include Novel Mutational Signatures with Prognostic Capability.",
+        "journal": "Cancer Res 76:1724-32 (2016) DOI:10.1158/0008-5472.CAN-15-2443",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26857262",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wadhwa R",
+          "Song S",
+          "Lee JS",
+          "Yao Y",
+          "Wei Q",
+          "Ajani JA"
+        ],
+        "title": "Gastric cancer-molecular and clinical dimensions.",
+        "journal": "Nat Rev Clin Oncol 10:643-55 (2013) DOI:10.1038/nrclinonc.2013.170",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24061039",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bertotti A",
+          "Sassi F"
+        ],
+        "title": "Molecular Pathways: Sensitivity and Resistance to Anti-EGFR Antibodies.",
+        "journal": "Clin Cancer Res 21:3377-83 (2015) DOI:10.1158/1078-0432.CCR-14-0848",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26071484",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Appleman LJ"
+        ],
+        "title": "MET signaling pathway: a rational target for cancer therapy.",
+        "journal": "J Clin Oncol 29:4837-8 (2011) DOI:10.1200/JCO.2011.37.7929",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22042966",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Eder JP",
+          "Vande Woude GF",
+          "Boerner SA",
+          "LoRusso PM"
+        ],
+        "title": "Novel therapeutic inhibitors of the c-Met signaling pathway in cancer.",
+        "journal": "Clin Cancer Res 15:2207-14 (2009) DOI:10.1158/1078-0432.CCR-08-1306",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19318488",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Feng Y",
+          "Ma PC"
+        ],
+        "title": "Anti-MET targeted therapy has come of age: the first durable complete response with MetMAb in metastatic gastric cancer.",
+        "journal": "Cancer Discov 1:550-4 (2011) DOI:10.1158/2159-8290.CD-11-0289",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22586678",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Katoh M",
+          "Nakagama H"
+        ],
+        "title": "FGF receptors: cancer biology and therapeutics.",
+        "journal": "Med Res Rev 34:280-300 (2014) DOI:10.1002/med.21288",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23696246",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Katoh M"
+        ],
+        "title": "FGFR2 abnormalities underlie a spectrum of bone, skin, and cancer pathologies.",
+        "journal": "J Invest Dermatol 129:1861-7 (2009) DOI:10.1038/jid.2009.97",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19387476",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Katoh M"
+        ],
+        "title": "Genetic alterations of FGF receptors: an emerging field in clinical cancer diagnostics and therapeutics.",
+        "journal": "Expert Rev Anticancer Ther 10:1375-9 (2010) DOI:10.1586/era.10.128",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20836672",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05226"
+  }
+]

@@ -1,0 +1,899 @@
+[
+  {
+    "entry_id": "map04210",
+    "name": "Apoptosis",
+    "description": "Apoptosis is a genetically programmed process for the elimination of damaged or redundant cells by activation of caspases (aspartate-specific cysteine proteases). The onset of apoptosis is controlled by numerous interrelating processes. The 'extrinsic' pathway involves stimulation of members of the tumor necrosis factor (TNF) receptor subfamily, such as TNFRI, CD95/Fas or TRAILR (death receptors), located at the cell surface, by their specific ligands, such as TNF-alpha, FasL or TRAIL, respectively. The 'intrinsic' pathway is activated mainly by non-receptor stimuli, such as DNA damage, ER stress, metabolic stress, UV radiation or growth-factor deprivation. The central event in the 'intrinsic' pathway is the mitochondrial outer membrane permeabilization (MOMP), which leads to the release of cytochrome c. These two pathways converge at the level of effector caspases, such as caspase-3 and caspase-7. The third major pathway is initiated by the constituents of cytotoxic granules (e.g. Perforin and Granzyme B) that are released by CTLs (cytotoxic T-cells) and NK (natural killer) cells. Granzyme B, similarly to the caspases, cleaves its substrates after aspartic acid residues, suggesting that this protease has the ability to activate members of the caspase family directly. It is the balance between the pro-apoptotic and anti-apoptotic signals that eventually determines whether cells will undergo apoptosis, survive or proliferate. TNF family of ligands activates anti-apoptotic or cell-survival signals as well as apoptotic signals. NGF and Interleukin-3 promotes the survival, proliferation and differentiation of neurons or hematopoietic cells, respectively. Withdrawal of these growth factors leads to cell death, as described above.",
+    "classes": [
+      "Cellular Processes",
+      "Cell growth and death"
+    ],
+    "diseases": {
+      "H00108": "Autoimmune lymphoproliferative syndromes",
+      "H00265": "Hereditary sensory and autonomic neuropathy",
+      "H00540": "Osteoporosis, lymphedema, anhydrotic ectodermal dysplasia with immunodeficiency (OLEDAID)",
+      "H00645": "Incontinentia pigmenti",
+      "H00721": "Pyogenic bacterial infections, recurrent, due to MYD88 deficiency",
+      "H00881": "Li-Fraumeni syndrome",
+      "H00882": "Cocoon syndrome",
+      "H00912": "Tumor necrosis factor receptor-associated periodic syndrome",
+      "H01007": "Choroid plexus papilloma",
+      "H01102": "Pituitary adenomas",
+      "H01969": "X-linked lymphoproliferative syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0006915"
+      ]
+    },
+    "pathways": {
+      "map04210": "Apoptosis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Savitskaya MA",
+          "Onishchenko GE"
+        ],
+        "title": "Mechanisms of Apoptosis.",
+        "journal": "Biochemistry (Mosc) 80:1393-417 (2015) DOI:10.1134/S0006297915110012",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26615431",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schleich K",
+          "Lavrik IN"
+        ],
+        "title": "Mathematical modeling of apoptosis.",
+        "journal": "Cell Commun Signal 11:44 (2013) DOI:10.1186/1478-811X-11-44",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23803157",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lavrik I",
+          "Golks A",
+          "Krammer PH"
+        ],
+        "title": "Death receptor signaling.",
+        "journal": "J Cell Sci 118:265-7 (2005) DOI:10.1242/jcs.01610",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15654015",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jin Z",
+          "El-Deiry WS"
+        ],
+        "title": "Overview of cell death signaling pathways.",
+        "journal": "Cancer Biol Ther 4:139-63 (2005) DOI:10.4161/cbt.4.2.1508",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15725726",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Benn SC",
+          "Woolf CJ"
+        ],
+        "title": "Adult neuron survival strategies--slamming on the brakes.",
+        "journal": "Nat Rev Neurosci 5:686-700 (2004) DOI:10.1038/nrn1477",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15322527",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Orrenius S",
+          "Zhivotovsky B",
+          "Nicotera P"
+        ],
+        "title": "Regulation of cell death: the calcium-apoptosis link.",
+        "journal": "Nat Rev Mol Cell Biol 4:552-65 (2003) DOI:10.1038/nrm1150",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12838338",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Clarke P",
+          "Tyler KL"
+        ],
+        "title": "Apoptosis in animal models of virus-induced disease.",
+        "journal": "Nat Rev Microbiol 7:144-55 (2009) DOI:10.1038/nrmicro2071",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19148180",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wen X",
+          "Lin ZQ",
+          "Liu B",
+          "Wei YQ"
+        ],
+        "title": "Caspase-mediated programmed cell death pathways as potential therapeutic targets in cancer.",
+        "journal": "Cell Prolif 45:217-24 (2012) DOI:10.1111/j.1365-2184.2012.00814.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22429822",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shalini S",
+          "Dorstyn L",
+          "Dawar S",
+          "Kumar S"
+        ],
+        "title": "Old, new and emerging functions of caspases.",
+        "journal": "Cell Death Differ 22:526-39 (2015) DOI:10.1038/cdd.2014.216",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25526085",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Philchenkov A"
+        ],
+        "title": "Caspases: potential targets for regulating cell death.",
+        "journal": "J Cell Mol Med 8:432-44 (2004) DOI:10.1111/j.1582-4934.2004.tb00468.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15601572",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Stroh C",
+          "Schulze-Osthoff K"
+        ],
+        "title": "Death by a thousand cuts: an ever increasing list of caspase substrates.",
+        "journal": "Cell Death Differ 5:997-1000 (1998) DOI:10.1038/sj.cdd.4400451",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9894605",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Safa AR"
+        ],
+        "title": "c-FLIP, a master anti-apoptotic regulator.",
+        "journal": "Exp Oncol",
+        "volume": "34",
+        "issue": "",
+        "pages": "176-84",
+        "year": "2012",
+        "pubmed": "23070002",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jeong SY",
+          "Seol DW"
+        ],
+        "title": "The role of mitochondria in apoptosis.",
+        "journal": "BMB Rep",
+        "volume": "41",
+        "issue": "",
+        "pages": "11-22",
+        "year": "2008",
+        "pubmed": "18304445",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Parsons MJ",
+          "Green DR"
+        ],
+        "title": "Mitochondria in cell death.",
+        "journal": "Essays Biochem 47:99-114 (2010) DOI:10.1042/bse0470099",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20533903",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Strasser A"
+        ],
+        "title": "The role of BH3-only proteins in the immune system.",
+        "journal": "Nat Rev Immunol 5:189-200 (2005) DOI:10.1038/nri1568",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15719025",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schonthal AH"
+        ],
+        "title": "Endoplasmic reticulum stress: its role in disease and novel prospects for therapy.",
+        "journal": "Scientifica (Cairo) 2012:857516 (2012) DOI:10.6064/2012/857516",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24278747",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Malhi H",
+          "Kaufman RJ"
+        ],
+        "title": "Endoplasmic reticulum stress in liver disease.",
+        "journal": "J Hepatol 54:795-809 (2011) DOI:10.1016/j.jhep.2010.11.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21145844",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Malhotra JD",
+          "Kaufman RJ"
+        ],
+        "title": "The endoplasmic reticulum and the unfolded protein response.",
+        "journal": "Semin Cell Dev Biol 18:716-31 (2007) DOI:10.1016/j.semcdb.2007.09.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18023214",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wu J",
+          "Kaufman RJ"
+        ],
+        "title": "From acute ER stress to physiological roles of the Unfolded Protein Response.",
+        "journal": "Cell Death Differ 13:374-84 (2006) DOI:10.1038/sj.cdd.4401840",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16397578",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Repnik U",
+          "Stoka V",
+          "Turk V",
+          "Turk B"
+        ],
+        "title": "Lysosomes and lysosomal cathepsins in cell death.",
+        "journal": "Biochim Biophys Acta 1824:22-33 (2012) DOI:10.1016/j.bbapap.2011.08.016",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21914490",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cesen MH",
+          "Pegan K",
+          "Spes A",
+          "Turk B"
+        ],
+        "title": "Lysosomal pathways to cell death and their therapeutic applications.",
+        "journal": "Exp Cell Res 318:1245-51 (2012) DOI:10.1016/j.yexcr.2012.03.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22465226",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dashzeveg N",
+          "Yoshida K"
+        ],
+        "title": "Cell death decision by p53 via control of the mitochondrial membrane.",
+        "journal": "Cancer Lett 367:108-12 (2015) DOI:10.1016/j.canlet.2015.07.019",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26231733",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bouchier-Hayes L",
+          "Green DR"
+        ],
+        "title": "Caspase-2: the orphan caspase.",
+        "journal": "Cell Death Differ 19:51-7 (2012) DOI:10.1038/cdd.2011.157",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22075987",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Baptiste-Okoh N",
+          "Barsotti AM",
+          "Prives C"
+        ],
+        "title": "A role for caspase 2 and PIDD in the process of p53-mediated apoptosis.",
+        "journal": "Proc Natl Acad Sci U S A 105:1937-42 (2008) DOI:10.1073/pnas.0711800105",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18238895",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Aggarwal BB"
+        ],
+        "title": "Signalling pathways of the TNF superfamily: a double-edged sword.",
+        "journal": "Nat Rev Immunol 3:745-56 (2003) DOI:10.1038/nri1184",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12949498",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Steelman LS",
+          "Pohnert SC",
+          "Shelton JG",
+          "Franklin RA",
+          "Bertrand FE",
+          "McCubrey JA."
+        ],
+        "title": "JAK/STAT, Raf/MEK/ERK, PI3K/Akt and BCR-ABL in cell cycle progression and leukemogenesis.",
+        "journal": "Leukemia 18:189-218 (2004) DOI:10.1038/sj.leu.2403241",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14737178",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dragovich T",
+          "Rudin CM",
+          "Thompson CB"
+        ],
+        "title": "Signal transduction pathways that regulate cell survival and cell death.",
+        "journal": "Oncogene 17:3207-13 (1998) DOI:10.1038/sj.onc.1202587",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9916983",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sofroniew MV",
+          "Howe CL",
+          "Mobley WC"
+        ],
+        "title": "Nerve growth factor signaling, neuroprotection, and neural repair.",
+        "journal": "Annu Rev Neurosci 24:1217-81 (2001) DOI:10.1146/annurev.neuro.24.1.1217",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11520933",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kristiansen M",
+          "Ham J"
+        ],
+        "title": "Programmed cell death during neuronal development: the sympathetic neuron model.",
+        "journal": "Cell Death Differ 21:1025-35 (2014) DOI:10.1038/cdd.2014.47",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24769728",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Logue SE",
+          "Martin SJ"
+        ],
+        "title": "Caspase activation cascades in apoptosis.",
+        "journal": "Biochem Soc Trans 36:1-9 (2008) DOI:10.1042/BST0360001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18208375",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Boivin WA",
+          "Cooper DM",
+          "Hiebert PR",
+          "Granville DJ"
+        ],
+        "title": "Intracellular versus extracellular granzyme B in immunity and disease: challenging the dogma.",
+        "journal": "Lab Invest 89:1195-220 (2009) DOI:10.1038/labinvest.2009.91",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19770840",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cullen SP",
+          "Brunet M",
+          "Martin SJ"
+        ],
+        "title": "Granzymes in cancer and immunity.",
+        "journal": "Cell Death Differ 17:616-23 (2010) DOI:10.1038/cdd.2009.206",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20075940",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00685": "Apoptotic machinery [PATH:map04210]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04210"
+  }
+]

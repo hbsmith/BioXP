@@ -1,0 +1,490 @@
+[
+  {
+    "entry_id": "map05033",
+    "name": "Nicotine addiction",
+    "description": "Nicotine is one of the main psychoactive ingredients in tobacco that contributes to the harmful tobacco smoking habit. A common feature of addictive drugs, including nicotine, is that they increase dopamine (DA) release in the nucleus accumbens (NAc). The principal dopaminergic projections to NAc arise from neurons in the ventral tegmental area (VTA). In the VTA, alpha6- and alpha4beta2-containing nAChRs (alpha6*-AChRs and alpha4beta2*-AChRs, respectively) are located on GABAergic terminals and provide inhibitory inputs onto DAergic neuons, while alpha7*-nAChRs are located on glutamatergic terminals and activation of these receptors enhances glutamate release and increases excitability of DAergic neurons. Nicotine acts as an agonist to activate and desensitize these nicotinic acetylcholine receptors (nAChRs). After a short exposure to nicotine, alpha6*- and alpha4beta2*- nAChRs on GABAergic afferents are desensitized, decreasing GABA release and decreasing local inhibition of DA neurons. But the alpha7*-nAChRs on glutamatergic afferents remain active and enhance glutamate excitation of the DA neurons, leading to increased DA release in the NAc -and so facilitate the reinforcing effects of nicotine.",
+    "classes": [
+      "Human Diseases",
+      "Substance dependence"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+      "GO": [
+        "0035094"
+      ]
+    },
+    "pathways": {
+      "map05033": "Nicotine addiction"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Mansvelder HD",
+          "McGehee DS"
+        ],
+        "title": "Cellular and synaptic mechanisms of nicotine addiction.",
+        "journal": "J Neurobiol 53:606-17 (2002) DOI:10.1002/neu.10148",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12436424",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wonnacott S",
+          "Sidhpura N",
+          "Balfour DJ"
+        ],
+        "title": "Nicotine: from molecular mechanisms to behaviour.",
+        "journal": "Curr Opin Pharmacol 5:53-9 (2005) DOI:10.1016/j.coph.2004.12.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15661626",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mao D",
+          "McGehee DS"
+        ],
+        "title": "Nicotine and behavioral sensitization.",
+        "journal": "J Mol Neurosci 40:154-63 (2010) DOI:10.1007/s12031-009-9230-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19669944",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Barik J",
+          "Wonnacott S"
+        ],
+        "title": "Molecular and cellular mechanisms of action of nicotine in the CNS.",
+        "journal": "Handb Exp Pharmacol 173-207 (2009) DOI:10.1007/978-3-540-69248-5_7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19184650",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yang KC",
+          "Jin GZ",
+          "Wu J"
+        ],
+        "title": "Mysterious alpha6-containing nAChRs: function, pharmacology, and pathophysiology.",
+        "journal": "Acta Pharmacol Sin 30:740-51 (2009) DOI:10.1038/aps.2009.63",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19498417",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pidoplichko VI",
+          "Noguchi J",
+          "Areola OO",
+          "Liang Y",
+          "Peterson J",
+          "Zhang T",
+          "Dani JA"
+        ],
+        "title": "Nicotinic cholinergic synaptic mechanisms in the ventral tegmental area contribute to nicotine addiction.",
+        "journal": "Learn Mem 11:60-9 (2004) DOI:10.1101/lm.70004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14747518",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wooltorton JR",
+          "Pidoplichko VI",
+          "Broide RS",
+          "Dani JA"
+        ],
+        "title": "Differential desensitization and distribution of nicotinic acetylcholine receptor subtypes in midbrain dopamine areas.",
+        "journal": "J Neurosci 23:3176-85 (2003) DOI:10.1523/JNEUROSCI.23-08-03176.2003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12716925",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Xi ZX",
+          "Spiller K",
+          "Gardner EL"
+        ],
+        "title": "Mechanism-based medication development for the treatment of nicotine dependence.",
+        "journal": "Acta Pharmacol Sin 30:723-39 (2009) DOI:10.1038/aps.2009.46",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19434058",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Laviolette SR",
+          "van der Kooy D"
+        ],
+        "title": "The neurobiology of nicotine addiction: bridging the gap from molecules to behaviour.",
+        "journal": "Nat Rev Neurosci 5:55-65 (2004) DOI:10.1038/nrn1298",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14708004",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Changeux JP"
+        ],
+        "title": "Nicotine addiction and nicotinic receptors: lessons from genetically modified mice.",
+        "journal": "Nat Rev Neurosci 11:389-401 (2010) DOI:10.1038/nrn2849",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20485364",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dani JA",
+          "Bertrand D"
+        ],
+        "title": "Nicotinic acetylcholine receptors and nicotinic cholinergic mechanisms of the central nervous system.",
+        "journal": "Annu Rev Pharmacol Toxicol 47:699-729 (2007) DOI:10.1146/annurev.pharmtox.47.120505.105214",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17009926",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mansvelder HD",
+          "Keath JR",
+          "McGehee DS"
+        ],
+        "title": "Synaptic mechanisms underlie nicotine-induced excitability of brain reward areas.",
+        "journal": "Neuron 33:905-19 (2002) DOI:10.1016/S0896-6273(02)00625-6",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11906697",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "O'Dell LE"
+        ],
+        "title": "A psychobiological framework of the substrates that mediate nicotine use during adolescence.",
+        "journal": "Neuropharmacology 56 Suppl 1:263-78 (2009) DOI:10.1016/j.neuropharm.2008.07.039",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18723034",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ortells MO",
+          "Arias HR"
+        ],
+        "title": "Neuronal networks of nicotine addiction.",
+        "journal": "Int J Biochem Cell Biol 42:1931-5 (2010) DOI:10.1016/j.biocel.2010.08.019",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20833261",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dani JA",
+          "Harris RA"
+        ],
+        "title": "Nicotine addiction and comorbidity with alcohol abuse and mental illness.",
+        "journal": "Nat Neurosci 8:1465-70 (2005) DOI:10.1038/nn1580",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16251989",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Markou A"
+        ],
+        "title": "Review. Neurobiology of nicotine dependence.",
+        "journal": "Philos Trans R Soc Lond B Biol Sci 363:3159-68 (2008) DOI:10.1098/rstb.2008.0095",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18640919",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dajas-Bailador F",
+          "Wonnacott S"
+        ],
+        "title": "Nicotinic acetylcholine receptors and the regulation of neuronal signalling.",
+        "journal": "Trends Pharmacol Sci 25:317-24 (2004) DOI:10.1016/j.tips.2004.04.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15165747",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05033"
+  }
+]

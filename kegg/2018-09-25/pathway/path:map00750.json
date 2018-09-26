@@ -1,0 +1,216 @@
+[
+  {
+    "entry_id": "map00750",
+    "name": "Vitamin B6 metabolism",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Metabolism of cofactors and vitamins"
+    ],
+    "diseases": {
+      "H01082": "Phosphoserine aminotransferase deficiency",
+      "H01124": "Pyridoxamine-5'-phosphate oxidase (PNPO) deficiency",
+      "H02117": "Neu-Laxova syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0042816"
+      ]
+    },
+    "pathways": {
+      "map00750": "Vitamin B6 metabolism"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Tazoe M",
+          "Ichikawa K",
+          "Hoshino T."
+        ],
+        "title": "Biosynthesis of vitamin B(6) in rhizobium.",
+        "journal": "J Biol Chem 275:11300-5 (2000) DOI:10.1074/jbc.275.15.11300",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10753941",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yang Y",
+          "Zhao G",
+          "Man TK",
+          "Winkler ME."
+        ],
+        "title": "Involvement of the gapA- and epd (gapB)-encoded dehydrogenases in pyridoxal 5'-phosphate coenzyme biosynthesis in Escherichia coli K-12.",
+        "journal": "J Bacteriol",
+        "volume": "180",
+        "issue": "",
+        "pages": "4294-9",
+        "year": "1998",
+        "pubmed": "9696782",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yeh JI",
+          "Du S",
+          "Pohl E",
+          "Cane DE."
+        ],
+        "title": "Multistate binding in pyridoxine 5'-phosphate synthase: 1.96 A crystal structure in complex with 1-deoxy-D-xylulose phosphate.",
+        "journal": "Biochemistry 41:11649-57 (2002) DOI:10.1021/bi026292t",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12269807",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Laber B",
+          "Maurer W",
+          "Scharf S",
+          "Stepusin K",
+          "Schmidt FS."
+        ],
+        "title": "Vitamin B6 biosynthesis: formation of pyridoxine 5'-phosphate from 4-(phosphohydroxy)-L-threonine and 1-deoxy-D-xylulose-5-phosphate by PdxA and PdxJ protein.",
+        "journal": "FEBS Lett 449:45-8 (1999) DOI:10.1016/S0014-5793(99)00393-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10225425",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tambasco-Studart M",
+          "Titiz O",
+          "Raschle T",
+          "Forster G",
+          "Amrhein N",
+          "Fitzpatrick TB."
+        ],
+        "title": "Vitamin B6 biosynthesis in higher plants.",
+        "journal": "Proc Natl Acad Sci U S A 102:13687-92 (2005) DOI:10.1073/pnas.0506228102",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16157873",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nagase T",
+          "Mugo AN",
+          "Chu HN",
+          "Yoshikane Y",
+          "Ohnishi K",
+          "Yagi T"
+        ],
+        "title": "The mll6786 gene encodes a repressor protein controlling the degradation pathway for vitamin B6 in Mesorhizobium loti.",
+        "journal": "FEMS Microbiol Lett 329:116-22 (2012) DOI:10.1111/j.1574-6968.2012.02510.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22276911",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00124": "Pyridoxal biosynthesis, erythrose-4P => pyridoxal-5P [PATH:map00750]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00750"
+  }
+]

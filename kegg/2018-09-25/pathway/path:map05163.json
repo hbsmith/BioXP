@@ -1,0 +1,949 @@
+[
+  {
+    "entry_id": "map05163",
+    "name": "Human cytomegalovirus infection",
+    "description": "Human cytomegalovirus (HCMV) is an enveloped, double-stranded DNA virus that is a member of beta-herpesvirus family. HCMV is best known for causing significant morbidity and mortality in immunocompromised populations. As with other herpesviruses, HCMV gB and gH/gL envelope glycoproteins are essential for virus entry. HCMV gB could activate the PDGFRA, and induce activation of the oncogenic PI3-K/AKT pathway. Though it is unlikely that HCMV by itself can act as an oncogenic factor, HCMV may have an oncomodulatory role, to catalyze an oncogenic process that has already been initiated. US28, one of the four HCMV-encoded vGPCRs (US27, US28, UL33 and UL78), also has a specific role in the oncomodulatory properties. In addition, HCMV has developed numerous mechanisms for manipulating the host immune system. The virally encoded US2, US3, US6 and US11 gene products all interfere with major histocompatibility complex (MHC) class I antigen presentation. HCMV encodes several immediate early (IE) antiapoptotic proteins (IE1, IE2, vMIA and vICA). These proteins might avoid immune clearance of infected tumor cells by cytotoxic lymphocytes and NK cells.",
+    "classes": [
+      "Human Diseases",
+      "Infectious diseases: Viral"
+    ],
+    "diseases": {
+      "H00368": "Cytomegalovirus infection"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05163": "Human cytomegalovirus infection"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Michaelis M",
+          "Doerr HW",
+          "Cinatl J"
+        ],
+        "title": "The story of human cytomegalovirus and cancer: increasing evidence and open questions.",
+        "journal": "Neoplasia",
+        "volume": "11",
+        "issue": "",
+        "pages": "1-9",
+        "year": "2009",
+        "pubmed": "19107226",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Roy S",
+          "Arav-Boger R"
+        ],
+        "title": "New cell-signaling pathways for controlling cytomegalovirus replication.",
+        "journal": "Am J Transplant 14:1249-58 (2014) DOI:10.1111/ajt.12725",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24839861",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cinatl J",
+          "Scholz M",
+          "Kotchetkov R",
+          "Vogel JU",
+          "Doerr HW"
+        ],
+        "title": "Molecular mechanisms of the modulatory effects of HCMV infection in tumor cell biology.",
+        "journal": "Trends Mol Med 10:19-23 (2004) DOI:10.1016/j.molmed.2003.11.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14720582",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Evers DL",
+          "Wang X",
+          "Huang ES"
+        ],
+        "title": "Cellular stress and signal transduction responses to human cytomegalovirus infection.",
+        "journal": "Microbes Infect 6:1084-93 (2004) DOI:10.1016/j.micinf.2004.05.026",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15380778",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Murray MJ",
+          "Peters NE",
+          "Reeves MB"
+        ],
+        "title": "Navigating the Host Cell Response during Entry into Sites of Latent Cytomegalovirus Infection.",
+        "journal": "Pathogens 7:E30 (2018) DOI:10.3390/pathogens7010030",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "29547547",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Campadelli-Fiume G",
+          "Collins-McMillen D",
+          "Gianni T",
+          "Yurochko AD"
+        ],
+        "title": "Integrins as Herpesvirus Receptors and Mediators of the Host Signalosome.",
+        "journal": "Annu Rev Virol 3:215-236 (2016) DOI:10.1146/annurev-virology-110615-035618",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27501260",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fu YZ",
+          "Su S",
+          "Gao YQ",
+          "Wang PP",
+          "Huang ZF",
+          "Hu MM",
+          "Luo WW",
+          "Li S",
+          "Luo MH",
+          "Wang YY",
+          "Shu HB"
+        ],
+        "title": "Human Cytomegalovirus Tegument Protein UL82 Inhibits STING-Mediated Signaling to Evade Antiviral Immunity.",
+        "journal": "Cell Host Microbe 21:231-243 (2017) DOI:10.1016/j.chom.2017.01.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "28132838",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hancock MH",
+          "Nelson JA"
+        ],
+        "title": "Modulation of the NFkappab Signalling Pathway by Human Cytomegalovirus.",
+        "journal": "Virology (Hyderabad) 1:104",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2017",
+        "pubmed": "29082387",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rahman MM",
+          "McFadden G"
+        ],
+        "title": "Modulation of NF-kappaB signalling by microbial pathogens.",
+        "journal": "Nat Rev Microbiol 9:291-306 (2011) DOI:10.1038/nrmicro2539",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21383764",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang J",
+          "Feng H",
+          "Xu S",
+          "Feng P"
+        ],
+        "title": "Hijacking GPCRs by viral pathogens and tumor.",
+        "journal": "Biochem Pharmacol 114:69-81 (2016) DOI:10.1016/j.bcp.2016.03.021",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27060663",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lee S",
+          "Chung YH",
+          "Lee C"
+        ],
+        "title": "US28, a Virally-Encoded GPCR as an Antiviral Target for Human Cytomegalovirus Infection.",
+        "journal": "Biomol Ther (Seoul) 25:69-79 (2017) DOI:10.4062/biomolther.2016.208",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "28035083",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Langemeijer EV",
+          "Slinger E",
+          "de Munnik S",
+          "Schreiber A",
+          "Maussang D",
+          "Vischer H",
+          "Verkaar F",
+          "Leurs R",
+          "Siderius M",
+          "Smit MJ"
+        ],
+        "title": "Constitutive beta-catenin signaling by the viral chemokine receptor US28.",
+        "journal": "PLoS One 7:e48935 (2012) DOI:10.1371/journal.pone.0048935",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23145028",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Couty JP",
+          "Gershengorn MC"
+        ],
+        "title": "G-protein-coupled receptors encoded by human herpesviruses.",
+        "journal": "Trends Pharmacol Sci 26:405-11 (2005) DOI:10.1016/j.tips.2005.06.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15990176",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fiallos E",
+          "Judkins J",
+          "Matlaf L",
+          "Prichard M",
+          "Dittmer D",
+          "Cobbs C",
+          "Soroceanu L"
+        ],
+        "title": "Human cytomegalovirus gene expression in long-term infected glioma stem cells.",
+        "journal": "PLoS One 9:e116178 (2014) DOI:10.1371/journal.pone.0116178",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25549333",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vischer HF",
+          "Siderius M",
+          "Leurs R",
+          "Smit MJ"
+        ],
+        "title": "Herpesvirus-encoded GPCRs: neglected players in inflammatory and proliferative diseases?",
+        "journal": "Nat Rev Drug Discov 13:123-39 (2014) DOI:10.1038/nrd4189",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24445563",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Slinger E",
+          "Langemeijer E",
+          "Siderius M",
+          "Vischer HF",
+          "Smit MJ"
+        ],
+        "title": "Herpesvirus-encoded GPCRs rewire cellular signaling.",
+        "journal": "Mol Cell Endocrinol 331:179-84 (2011) DOI:10.1016/j.mce.2010.04.007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20398729",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Murphy PM"
+        ],
+        "title": "Viral exploitation and subversion of the immune system through chemokine mimicry.",
+        "journal": "Nat Immunol 2:116-22 (2001) DOI:10.1038/84214",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11175803",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vischer HF",
+          "Leurs R",
+          "Smit MJ"
+        ],
+        "title": "HCMV-encoded G-protein-coupled receptors as constitutively active modulators of cellular signaling networks.",
+        "journal": "Trends Pharmacol Sci 27:56-63 (2006) DOI:10.1016/j.tips.2005.11.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16352349",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "de Munnik SM",
+          "Smit MJ",
+          "Leurs R",
+          "Vischer HF"
+        ],
+        "title": "Modulation of cellular signaling by herpesvirus-encoded G protein-coupled receptors.",
+        "journal": "Front Pharmacol 6:40 (2015) DOI:10.3389/fphar.2015.00040",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25805993",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Michelson S"
+        ],
+        "title": "Consequences of human cytomegalovirus mimicry.",
+        "journal": "Hum Immunol 65:465-75 (2004) DOI:10.1016/j.humimm.2004.02.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15172446",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tu CC",
+          "Arnolds KL",
+          "O'Connor CM",
+          "Spencer JV"
+        ],
+        "title": "Human Cytomegalovirus UL111A and US27 Gene Products Enhance the CXCL12/CXCR4 Signaling Axis via Distinct Mechanisms.",
+        "journal": "J Virol 92:e01981-17 (2018) DOI:10.1128/JVI.01981-17",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "29237840",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Busillo JM",
+          "Benovic JL"
+        ],
+        "title": "Regulation of CXCR4 signaling.",
+        "journal": "Biochim Biophys Acta 1768:952-63 (2007) DOI:10.1016/j.bbamem.2006.11.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17169327",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Noriega V",
+          "Redmann V",
+          "Gardner T",
+          "Tortorella D"
+        ],
+        "title": "Diverse immune evasion strategies by human cytomegalovirus.",
+        "journal": "Immunol Res 54:140-51 (2012) DOI:10.1007/s12026-012-8304-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22454101",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Loureiro J",
+          "Ploegh HL"
+        ],
+        "title": "Antigen presentation and the ubiquitin-proteasome system in host-pathogen interactions.",
+        "journal": "Adv Immunol 92:225-305 (2006) DOI:10.1016/S0065-2776(06)92006-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17145306",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fortunato EA",
+          "McElroy AK",
+          "Sanchez I",
+          "Spector DH"
+        ],
+        "title": "Exploitation of cellular signaling and regulatory pathways by human cytomegalovirus.",
+        "journal": "Trends Microbiol 8:111-9 (2000) DOI:10.1016/S0966-842X(00)01699-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10707064",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cinatl J Jr",
+          "Scholz M",
+          "Doerr HW"
+        ],
+        "title": "Role of tumor cell immune escape mechanisms in cytomegalovirus-mediated oncomodulation.",
+        "journal": "Med Res Rev 25:167-85 (2005) DOI:10.1002/med.20018",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15389728",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cinatl J Jr",
+          "Vogel JU",
+          "Kotchetkov R",
+          "Wilhelm Doerr H"
+        ],
+        "title": "Oncomodulatory signals by regulatory proteins encoded by human cytomegalovirus: a novel role for viral infection in tumor progression.",
+        "journal": "FEMS Microbiol Rev 28:59-77 (2004) DOI:10.1016/j.femsre.2003.07.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14975530",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Castillo JP",
+          "Kowalik TF"
+        ],
+        "title": "Human cytomegalovirus immediate early proteins and cell growth control.",
+        "journal": "Gene 290:19-34 (2002) DOI:10.1016/S0378-1119(02)00566-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12062798",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kalejta RF"
+        ],
+        "title": "Human cytomegalovirus pp71: a new viral tool to probe the mechanisms of cell cycle progression and oncogenesis controlled by the retinoblastoma family of tumor suppressors.",
+        "journal": "J Cell Biochem 93:37-45 (2004) DOI:10.1002/jcb.20177",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15352160",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Brune W"
+        ],
+        "title": "Inhibition of programmed cell death by cytomegaloviruses.",
+        "journal": "Virus Res 157:144-50 (2011) DOI:10.1016/j.virusres.2010.10.012",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20969904",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Brune W",
+          "Andoniou CE"
+        ],
+        "title": "Die Another Day: Inhibition of Cell Death Pathways by Cytomegalovirus.",
+        "journal": "Viruses 9:E249 (2017) DOI:10.3390/v9090249",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "28869497",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yamin R",
+          "Lecker LSM",
+          "Weisblum Y",
+          "Vitenshtein A",
+          "Le-Trilling VTK",
+          "Wolf DG",
+          "Mandelboim O"
+        ],
+        "title": "HCMV vCXCL1 Binds Several Chemokine Receptors and Preferentially Attracts Neutrophils over NK Cells by Interacting with CXCR2.",
+        "journal": "Cell Rep 15:1542-1553 (2016) DOI:10.1016/j.celrep.2016.04.042",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27160907",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang X",
+          "Sanchez J",
+          "Stone MJ",
+          "Payne RJ"
+        ],
+        "title": "Sulfation of the Human Cytomegalovirus Protein UL22A Enhances Binding to the Chemokine RANTES.",
+        "journal": "Angew Chem Int Ed Engl 56:8490-8494 (2017) DOI:10.1002/anie.201703059",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "28488292",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05163"
+  }
+]

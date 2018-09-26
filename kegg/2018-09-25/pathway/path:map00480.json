@@ -1,0 +1,716 @@
+[
+  {
+    "entry_id": "map00480",
+    "name": "Glutathione metabolism",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Metabolism of other amino acids"
+    ],
+    "diseases": {
+      "H00597": "Snyder-Robinson syndrome",
+      "H00668": "Anemia due to disorders of glutathione metabolism",
+      "H01225": "D-2-hydroxyglutaric aciduria",
+      "H01375": "Glucose 6-phosphate dehydrogenase deficiency"
+    },
+    "dblinks": {
+      "GO": [
+        "0006749"
+      ]
+    },
+    "pathways": {
+      "map00480": "Glutathione metabolism"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Josch C",
+          "Klotz LO",
+          "Sies H."
+        ],
+        "title": "Identification of cytosolic leucyl aminopeptidase (EC 3.4.11.1) as the major cysteinylglycine-hydrolysing activity in rat liver.",
+        "journal": "Biol Chem 384:213-8 (2003) DOI:10.1515/BC.2003.023",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12675513",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chu L",
+          "Lai Y",
+          "Xu X",
+          "Eddy S",
+          "Yang S",
+          "Song L",
+          "Kolodrubetz D."
+        ],
+        "title": "A 52-kDa leucyl aminopeptidase from treponema denticola is a cysteinylglycinase that mediates the second step of glutathione metabolism.",
+        "journal": "J Biol Chem 283:19351-8 (2008) DOI:10.1074/jbc.M801034200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18482986",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cappiello M",
+          "Lazzarotti A",
+          "Buono F",
+          "Scaloni A",
+          "D'Ambrosio C",
+          "Amodeo P",
+          "Mendez BL",
+          "Pelosi P",
+          "Del Corso A",
+          "Mura U."
+        ],
+        "title": "New role for leucyl aminopeptidase in glutathione turnover.",
+        "journal": "Biochem J 378:35-44 (2004) DOI:10.1042/BJ20031336",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14583094",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Suzuki H",
+          "Kamatani S",
+          "Kim ES",
+          "Kumagai H."
+        ],
+        "title": "Aminopeptidases A, B, and N and dipeptidase D are the four cysteinylglycinases of Escherichia coli K-12.",
+        "journal": "J Bacteriol 183:1489-90 (2001) DOI:10.1128/JB.183.4.1489-1490.2001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11157967",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Oza SL",
+          "Shaw MP",
+          "Wyllie S",
+          "Fairlamb AH."
+        ],
+        "title": "Trypanothione biosynthesis in Leishmania major.",
+        "journal": "Mol Biochem Parasitol 139:107-16 (2005) DOI:10.1016/j.molbiopara.2004.10.004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15610825",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Oza SL",
+          "Ariyanayagam MR",
+          "Fairlamb AH."
+        ],
+        "title": "Characterization of recombinant glutathionylspermidine synthetase/amidase from Crithidia fasciculata.",
+        "journal": "Biochem J 364:679-86 (2002) DOI:10.1042/BJ20011370",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12049631",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tetaud E",
+          "Manai F",
+          "Barrett MP",
+          "Nadeau K",
+          "Walsh CT",
+          "Fairlamb AH."
+        ],
+        "title": "Cloning and characterization of the two enzymes responsible for trypanothione biosynthesis in Crithidia fasciculata.",
+        "journal": "J Biol Chem 273:19383-90 (1998) DOI:10.1074/jbc.273.31.19383",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9677355",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Ariyanayagam MR",
+          "Oza SL",
+          "Mehlert A",
+          "Fairlamb AH."
+        ],
+        "title": "Bis(glutathionyl)spermine and other novel trypanothione analogues in Trypanosoma cruzi.",
+        "journal": "J Biol Chem 278:27612-9 (2003) DOI:10.1074/jbc.M302750200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12750367",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Oza SL",
+          "Ariyanayagam MR",
+          "Aitcheson N",
+          "Fairlamb AH."
+        ],
+        "title": "Properties of trypanothione synthetase from Trypanosoma brucei.",
+        "journal": "Mol Biochem Parasitol 131:25-33 (2003) DOI:10.1016/S0166-6851(03)00176-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12967709",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Oza SL",
+          "Tetaud E",
+          "Ariyanayagam MR",
+          "Warnon SS",
+          "Fairlamb AH."
+        ],
+        "title": "A single enzyme catalyses formation of Trypanothione from glutathione and spermidine in Trypanosoma cruzi.",
+        "journal": "J Biol Chem 277:35853-61 (2002) DOI:10.1074/jbc.M204403200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12121990",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Comini M",
+          "Menge U",
+          "Wissing J",
+          "Flohe L."
+        ],
+        "title": "Trypanothione synthesis in crithidia revisited.",
+        "journal": "J Biol Chem 280:6850-60 (2005) DOI:10.1074/jbc.M404486200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15537651",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hunter KJ",
+          "Le Quesne SA",
+          "Fairlamb AH."
+        ],
+        "title": "Identification and biosynthesis of N1,N9-bis(glutathionyl)aminopropylcadaverine (homotrypanothione) in Trypanosoma cruzi.",
+        "journal": "Eur J Biochem 226:1019-27 (1994) DOI:10.1111/j.1432-1033.1994.t01-1-01019.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "7813456",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Krauth-Siegel RL",
+          "Meiering SK",
+          "Schmidt H."
+        ],
+        "title": "The parasite-specific trypanothione metabolism of trypanosoma and leishmania.",
+        "journal": "Biol Chem 384:539-49 (2003) DOI:10.1515/BC.2003.062",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12751784",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Krauth-Siegel RL",
+          "Comini MA."
+        ],
+        "title": "Redox control in trypanosomatids, parasitic protozoa with trypanothione-based thiol metabolism.",
+        "journal": "Biochim Biophys Acta 1780:1236-48 (2008) DOI:10.1016/j.bbagen.2008.03.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18395526",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Krauth-Siegel RL",
+          "Ludemann H."
+        ],
+        "title": "Reduction of dehydroascorbate by trypanothione.",
+        "journal": "Mol Biochem Parasitol 80:203-8 (1996) DOI:10.1016/0166-6851(96)02689-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "8892297",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dormeyer M",
+          "Reckenfelderbaumer N",
+          "Ludemann H",
+          "Krauth-Siegel RL."
+        ],
+        "title": "Trypanothione-dependent synthesis of deoxyribonucleotides by Trypanosoma brucei ribonucleotide reductase.",
+        "journal": "J Biol Chem 276:10602-6 (2001) DOI:10.1074/jbc.M010352200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11150302",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schmidt H",
+          "Krauth-Siegel RL."
+        ],
+        "title": "Functional and physicochemical characterization of the thioredoxin system in Trypanosoma brucei.",
+        "journal": "J Biol Chem 278:46329-36 (2003) DOI:10.1074/jbc.M305338200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12949079",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tetaud E",
+          "Fairlamb AH."
+        ],
+        "title": "Cloning, expression and reconstitution of the trypanothione-dependent peroxidase system of Crithidia fasciculata.",
+        "journal": "Mol Biochem Parasitol 96:111-23 (1998) DOI:10.1016/S0166-6851(98)00120-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9851611",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Castro H",
+          "Sousa C",
+          "Santos M",
+          "Cordeiro-da-Silva A",
+          "Flohe L",
+          "Tomas AM."
+        ],
+        "title": "Complementary antioxidant defense by cytoplasmic and mitochondrial peroxiredoxins in Leishmania infantum.",
+        "journal": "Free Radic Biol Med 33:1552-62 (2002) DOI:10.1016/S0891-5849(02)01089-4",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12446213",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wilkinson SR",
+          "Temperton NJ",
+          "Mondragon A",
+          "Kelly JM."
+        ],
+        "title": "Distinct mitochondrial and cytosolic enzymes mediate trypanothione-dependent peroxide metabolism in Trypanosoma cruzi.",
+        "journal": "J Biol Chem 275:8220-5 (2000) DOI:10.1074/jbc.275.11.8220",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10713147",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Konig J",
+          "Fairlamb AH."
+        ],
+        "title": "A comparative study of type I and type II tryparedoxin peroxidases in Leishmania major.",
+        "journal": "FEBS J 274:5643-58 (2007) DOI:10.1111/j.1742-4658.2007.06087.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17922848",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hillebrand H",
+          "Schmidt A",
+          "Krauth-Siegel RL."
+        ],
+        "title": "A second class of peroxidases linked to the trypanothione metabolism.",
+        "journal": "J Biol Chem 278:6809-15 (2003) DOI:10.1074/jbc.M210392200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12466271",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Soksawatmaekhin W",
+          "Kuraishi A",
+          "Sakata K",
+          "Kashiwagi K",
+          "Igarashi K."
+        ],
+        "title": "Excretion and uptake of cadaverine by CadB and its physiological functions in Escherichia coli.",
+        "journal": "Mol Microbiol 51:1401-12 (2004) DOI:10.1046/j.1365-2958.2003.03913.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14982633",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pegg AE",
+          "Shuttleworth K",
+          "Hibasami H."
+        ],
+        "title": "Specificity of mammalian spermidine synthase and spermine synthase.",
+        "journal": "Biochem J 197:315-20 (1981) DOI:10.1042/bj1970315",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "6798961",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00118": "Glutathione biosynthesis, glutamate => glutathione [PATH:map00480]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00480"
+  }
+]

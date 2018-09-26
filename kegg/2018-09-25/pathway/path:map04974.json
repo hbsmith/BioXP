@@ -1,0 +1,415 @@
+[
+  {
+    "entry_id": "map04974",
+    "name": "Protein digestion and absorption",
+    "description": "Protein is a dietary component essential for nutritional homeostasis in humans. Normally, ingested protein undergoes a complex series of degradative processes following the action of gastric, pancreatic and small intestinal enzymes. The result of this proteolytic activity is a mixture of amino acids and small peptides. Amino acids (AAs) are transported into the enterocyte (intestinal epithelial cell) by a variety of AA transporters that are specific for cationic (basic) AA, neutral AA, and anionic (acidic) AA. Small peptides are absorbed into enterocytes by the PEPT1 transporter. Inside enterocytes peptides are hydrolyzed, and the resulting amino acids are released together with those absorbed by AA transporters into blood via multiple, basolateral, AA transporters. Hydrolysis-resistant peptides, however, are transported out of the cells by a basolateral peptide transporter that has not been identified molecularly.",
+    "classes": [
+      "Organismal Systems",
+      "Digestive system"
+    ],
+    "diseases": {
+      "H00843": "Hartnup disorder",
+      "H00899": "Lysinuric protein intolerance",
+      "H00901": "Cystinuria",
+      "H00905": "Iminoglycinuria",
+      "H00911": "Dicarboxylic aminoaciduria",
+      "H00933": "Hereditary pancreatitis",
+      "H01304": "Hyperglycinuria"
+    },
+    "dblinks": {
+      "GO": [
+        "0044256",
+        "0050892"
+      ]
+    },
+    "pathways": {
+      "map04974": "Protein digestion and absorption"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Broer S"
+        ],
+        "title": "Amino acid transport across mammalian intestinal and renal epithelia.",
+        "journal": "Physiol Rev 88:249-86 (2008) DOI:10.1152/physrev.00018.2006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18195088",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Palacin M",
+          "Nunes V",
+          "Font-Llitjos M",
+          "Jimenez-Vidal M",
+          "Fort J",
+          "Gasol E",
+          "Pineda M",
+          "Feliubadalo L",
+          "Chillaron J",
+          "Zorzano A"
+        ],
+        "title": "The genetics of heteromeric amino acid transporters.",
+        "journal": "Physiology (Bethesda) 20:112-24 (2005) DOI:10.1152/physiol.00051.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15772300",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Goodman BE"
+        ],
+        "title": "Insights into digestion and absorption of major nutrients in humans.",
+        "journal": "Adv Physiol Educ 34:44-53 (2010) DOI:10.1152/advan.00094.2009",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20522896",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wagner CA",
+          "Lang F",
+          "Broer S"
+        ],
+        "title": "Function and structure of heterodimeric amino acid transporters.",
+        "journal": "Am J Physiol Cell Physiol 281:C1077-93 (2001) DOI:10.1152/ajpcell.2001.281.4.C1077",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11546643",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Broer S"
+        ],
+        "title": "Apical transporters for neutral amino acids: physiology and pathophysiology.",
+        "journal": "Physiology (Bethesda) 23:95-103 (2008) DOI:10.1152/physiol.00045.2007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18400692",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wu G"
+        ],
+        "title": "Intestinal mucosal amino acid catabolism.",
+        "journal": "J Nutr 128:1249-52 (1998) DOI:10.1093/jn/128.8.1249",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9687539",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Daniel H"
+        ],
+        "title": "Molecular and integrative physiology of intestinal peptide transport.",
+        "journal": "Annu Rev Physiol 66:361-84 (2004) DOI:10.1146/annurev.physiol.66.032102.144149",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14977407",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rubio-Aliaga I",
+          "Daniel H"
+        ],
+        "title": "Mammalian peptide transporters as targets for drug delivery.",
+        "journal": "Trends Pharmacol Sci 23:434-40 (2002) DOI:10.1016/S0165-6147(02)02072-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12237156",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bai JP"
+        ],
+        "title": "Distribution of brush-border membrane peptidases along the rat intestine.",
+        "journal": "Pharm Res",
+        "volume": "11",
+        "issue": "",
+        "pages": "897-900",
+        "year": "1994",
+        "pubmed": "7937532",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Guarner F",
+          "Malagelada JR"
+        ],
+        "title": "Gut flora in health and disease.",
+        "journal": "Lancet 361:512-9 (2003) DOI:10.1016/S0140-6736(03)12489-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12583961",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Smith EA",
+          "Macfarlane GT"
+        ],
+        "title": "Dissimilatory amino Acid metabolism in human colonic bacteria.",
+        "journal": "Anaerobe 3:327-37 (1997) DOI:10.1006/anae.1997.0121",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16887608",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Schepers E",
+          "Glorieux G",
+          "Vanholder R"
+        ],
+        "title": "The gut: the forgotten organ in uremia?",
+        "journal": "Blood Purif 29:130-6 (2010) DOI:10.1159/000245639",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20093818",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "John H.Cummings"
+        ],
+        "title": "The large intestine in nutrition and disease",
+        "journal": "Institut Danone",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Heitzmann D",
+          "Warth R"
+        ],
+        "title": "Physiology and pathophysiology of potassium channels in gastrointestinal epithelia.",
+        "journal": "Physiol Rev 88:1119-82 (2008) DOI:10.1152/physrev.00020.2007",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18626068",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04974"
+  }
+]

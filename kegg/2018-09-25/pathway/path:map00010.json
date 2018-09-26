@@ -1,0 +1,154 @@
+[
+  {
+    "entry_id": "map00010",
+    "name": "Glycolysis / Gluconeogenesis",
+    "description": "Glycolysis is the process of converting glucose into pyruvate and generating small amounts of ATP (energy) and NADH (reducing power). It is a central pathway that produces important precursor metabolites: six-carbon compounds of glucose-6P and fructose-6P and three-carbon compounds of glycerone-P, glyceraldehyde-3P, glycerate-3P, phosphoenolpyruvate, and pyruvate [MD:M00001]. Acetyl-CoA, another important precursor metabolite, is produced by oxidative decarboxylation of pyruvate [MD:M00307]. When the enzyme genes of this pathway are examined in completely sequenced genomes, the reaction steps of three-carbon compounds from glycerone-P to pyruvate form a conserved core module [MD:M00002], which is found in almost all organisms and which sometimes contains operon structures in bacterial genomes. Gluconeogenesis is a synthesis pathway of glucose from noncarbohydrate precursors. It is essentially a reversal of glycolysis with minor variations of alternative paths [MD:M00003].",
+    "classes": [
+      "Metabolism",
+      "Carbohydrate metabolism"
+    ],
+    "diseases": {
+      "H00069": "Glycogen storage disease",
+      "H00071": "Hereditary fructose intolerance",
+      "H00072": "Pyruvate dehydrogenase complex deficiency",
+      "H00114": "Fructose-1,6-bisphosphatase deficiency",
+      "H00664": "Anemia due to disorders of glycolytic enzymes",
+      "H01071": "Acute alcohol sensitivity",
+      "H01096": "Pyruvate kinase deficiency",
+      "H01267": "Familial hyperinsulinemic hypoglycemia",
+      "H01760": "Hepatic glycogen storage disease",
+      "H01762": "Muscle glycogen storage disease",
+      "H01939": "Glycogen storage disease type I",
+      "H01945": "Glycogen storage disease type VII",
+      "H01946": "Glycogen storage disease type XI",
+      "H01951": "Glycogen storage disease type X",
+      "H01952": "Glycogen storage disease type XII",
+      "H01953": "Glycogen storage disease type XIII",
+      "H01954": "Glycogen storage disease type XIV",
+      "H01997": "Pyruvate dehydrogenase E1-alpha deficiency",
+      "H01998": "Pyruvate dehydrogenase E1-beta deficiency",
+      "H01999": "Pyruvate dehydrogenase E2 deficiency",
+      "H02000": "Dihydrolipoamide dehydrogenase deficiency"
+    },
+    "dblinks": {
+      "GO": [
+        "0006096",
+        "0006094"
+      ]
+    },
+    "pathways": {
+      "map00010": "Glycolysis / Gluconeogenesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Nishizuka Y (ed)."
+        ],
+        "title": "[Metabolic Maps] (In Japanese)",
+        "journal": "Tokyo Kagaku Dojin",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1980",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "(map 1)"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nishizuka Y",
+          "Seyama Y",
+          "Ikai A",
+          "Ishimura Y",
+          "Kawaguchi A (eds)."
+        ],
+        "title": "[Cellular Functions and Metabolic Maps] (In Japanese)",
+        "journal": "Tokyo Kagaku Dojin",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1997",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": [
+          "(map 1)"
+        ],
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Michal G."
+        ],
+        "title": "Biochemical Pathways",
+        "journal": "Wiley",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1999",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00001": "Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate [PATH:map00010]",
+      "M00002": "Glycolysis, core module involving three-carbon compounds [PATH:map00010]",
+      "M00003": "Gluconeogenesis, oxaloacetate => fructose-6P [PATH:map00010]",
+      "M00114": "Ascorbate biosynthesis, plants, glucose-6P => ascorbate [PATH:map00010]",
+      "M00265": "PTS system, glucose-specific II component [PATH:map00010]",
+      "M00266": "PTS system, maltose/glucose-specific II component [PATH:map00010]",
+      "M00272": "PTS system, beta-glucoside (arbutin/salicin/cellobiose)-specific II component [PATH:map00010]",
+      "M00307": "Pyruvate oxidation, pyruvate => acetyl-CoA [PATH:map00010]",
+      "M00809": "PTS system, glucose-specific II component [PATH:map00010]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00010"
+  }
+]

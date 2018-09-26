@@ -1,0 +1,209 @@
+[
+  {
+    "entry_id": "map07037",
+    "name": "Antiarrhythmic drugs",
+    "description": "",
+    "classes": [
+
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map07037": "Antiarrhythmic drugs"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Fukai S."
+        ],
+        "title": "[New Drugs Today (6th ed)] (In Japanese)",
+        "journal": "Jiho",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1995",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tanaka C",
+          "Kato R (eds)."
+        ],
+        "title": "[New Pharmacology (4th ed)] (In Japanese)",
+        "journal": "Nankodo",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2002",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Castro A",
+          "Bianconi L",
+          "Santini M."
+        ],
+        "title": "New antiarrhythmic drugs for the treatment of atrial fibrillation.",
+        "journal": "Pacing Clin Electrophysiol 25:249-59 (2002) DOI:10.1046/j.1460-9592.2002.00249.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11916001",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Woosley RL",
+          "Funck-Brentano C"
+        ],
+        "title": "Overview of the clinical pharmacology of antiarrhythmic drugs.",
+        "journal": "Am J Cardiol 61:61A-69A (1988) DOI:10.1016/0002-9149(88)90741-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "2447771",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+      "C06855": "Bretylium",
+      "C13772": "Clofilium",
+      "C13777": "Azimilide",
+      "D00235": "Atenolol (JP17/USP/INN)",
+      "D00303": "Disopyramide (JP17/USAN/INN)",
+      "D00358": "Lidocaine (JP17/USP/INN)",
+      "D00477": "Procainamide hydrochloride (JP17/USP)",
+      "D00483": "Propranolol hydrochloride (JP17/USP)",
+      "D00513": "Pindolol (JP17/USP/INN)",
+      "D00601": "Metoprolol tartrate (JP17/USP)",
+      "D00616": "Diltiazem hydrochloride (JP17/USP)",
+      "D00619": "Verapamil hydrochloride (JP17/USP)",
+      "D00631": "Bepridil hydrochloride (USAN)",
+      "D00635": "Metoprolol succinate (USP)",
+      "D00636": "Amiodarone hydrochloride (JP17/USAN)",
+      "D00637": "Disopyramide phosphate (JAN/USP)",
+      "D00638": "Flecainide acetate (JP17/USP)",
+      "D00639": "Mexiletine hydrochloride (JP17/USP)",
+      "D00640": "Propafenone hydrochloride (JP17/USP)",
+      "D00642": "Quinidine gluconate (USP)",
+      "D00643": "Quinidine polygalacturonate",
+      "D00645": "Bretylium tosylate (USP)",
+      "D00647": "Dofetilide (JAN/USAN/INN)",
+      "D00648": "Ibutilide fumarate (USAN)",
+      "D00740": "Procaine hydrochloride (JP17/USP)",
+      "D01026": "Sotalol hydrochloride (JAN/USP)",
+      "D01182": "Alprenolol hydrochloride (JP17/USAN)",
+      "D01326": "Aprindine hydrochloride (JP17/USAN)",
+      "D01554": "Pilsicainide hydrochloride hydrate (JP17)",
+      "D01785": "Pirmenol hydrochloride hydrate (JAN)",
+      "D01833": "Benziodarone (JAN/INN)",
+      "D01856": "Nifekalant hydrochloride (JAN)",
+      "D02086": "Lidocaine hydrochloride (JAN/USP)",
+      "D02088": "Tocainide hydrochloride (USP)",
+      "D02272": "Quinidine sulfate (USP)",
+      "D02356": "Verapamil (USAN/INN)",
+      "D02358": "Metoprolol (USAN/INN)",
+      "D02537": "Dronedarone (INN)",
+      "D02746": "Acecainide hydrochloride (USAN)",
+      "D02910": "Amiodarone (USAN/INN)",
+      "D02969": "Aprindine (USAN/INN)",
+      "D03037": "Azimilide dihydrochloride (USAN)",
+      "D03547": "Clofilium phosphate (USAN/INN)",
+      "D03732": "Dexsotalol hydrochloride (USAN)",
+      "D03830": "Diltiazem malate (USAN)",
+      "D03914": "Dronedarone hydrochloride (USAN)",
+      "D03991": "Encainide hydrochloride (USAN)",
+      "D04955": "Sematilide hydrochloride (USAN)",
+      "D05011": "Metoprolol fumarate (USP)",
+      "D05587": "Practolol (USAN)",
+      "D06172": "Tocainide (USAN/INN)",
+      "D06517": "Pirmenol hydrochloride (USAN)",
+      "D07156": "Alprenolol (INN)",
+      "D07520": "Bepridil (INN)",
+      "D07845": "Diltiazem (INN)",
+      "D07894": "Encainide (INN)",
+      "D07962": "Flecainide (INN)",
+      "D08060": "Ibutilide (INN)",
+      "D08127": "Lidocaine hydrochloride monohydrate",
+      "D08215": "Mexiletine (INN)",
+      "D08377": "Pilsicainide (INN)",
+      "D08394": "Pirmenol (INN)",
+      "D08421": "Procainamide (INN)",
+      "D08422": "Procaine (INN)",
+      "D08435": "Propafenone (INN)",
+      "D08443": "Propranolol (INN)",
+      "D08458": "Quinidine (BAN)",
+      "D08459": "Quinidine phenylethylbarbiturate",
+      "D08525": "Sotalol (INN)"
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": ""
+  }
+]

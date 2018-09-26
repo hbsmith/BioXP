@@ -1,0 +1,387 @@
+[
+  {
+    "entry_id": "map04721",
+    "name": "Synaptic vesicle cycle",
+    "description": "Communication between neurons is mediated by the release of neurotransmitter from synaptic vesicles (SVs). At the nerve terminal, SVs cycle through repetitive episodes of exocytosis and endocytosis. SVs are filled with neurotransmitters by active transport. The loaded SVs are then docked at a specialized region of the presynaptic plasma membrane known as the active zone, where they undergo a priming reaction. Upon arrival of an action potential, Ca2+ enters through voltage-gated channels and neurotransmitter is released by exocytosis, usually in less than a millisecond. After fusion, the vesicle is retrieved by endocytosis and reloaded for another round of exocytosis.",
+    "classes": [
+      "Organismal Systems",
+      "Nervous system"
+    ],
+    "diseases": {
+      "H00700": "Centronuclear myopathy",
+      "H00749": "Episodic ataxias",
+      "H00775": "Hemiplegic migraine"
+    },
+    "dblinks": {
+      "GO": [
+        "0016079",
+        "0048488"
+      ]
+    },
+    "pathways": {
+      "map04721": "Synaptic vesicle cycle"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Li L",
+          "Chin LS"
+        ],
+        "title": "The molecular machinery of synaptic vesicle exocytosis.",
+        "journal": "Cell Mol Life Sci 60:942-60 (2003) DOI:10.1007/s00018-003-2240-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12827282",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nestler EJ",
+          "Hyman SE",
+          "Malenka RC."
+        ],
+        "title": "Molecular neuropharmacology: A foundation for clinical neuroscience",
+        "journal": "The McGraw-Hill Companies, Inc.",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2001",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chapman ER"
+        ],
+        "title": "How does synaptotagmin trigger neurotransmitter release?",
+        "journal": "Annu Rev Biochem 77:615-41 (2008) DOI:10.1146/annurev.biochem.77.062005.101135",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18275379",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Benfenati F",
+          "Onofri F",
+          "Giovedi S"
+        ],
+        "title": "Protein-protein interactions and protein modules in the control of neurotransmitter release.",
+        "journal": "Philos Trans R Soc Lond B Biol Sci 354:243-57 (1999) DOI:10.1098/rstb.1999.0376",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10212473",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "de Saint Basile G",
+          "Menasche G",
+          "Fischer A"
+        ],
+        "title": "Molecular mechanisms of biogenesis and exocytosis of cytotoxic granules.",
+        "journal": "Nat Rev Immunol 10:568-79 (2010) DOI:10.1038/nri2803",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20634814",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Carr CM",
+          "Munson M"
+        ],
+        "title": "Tag team action at the synapse.",
+        "journal": "EMBO Rep 8:834-8 (2007) DOI:10.1038/sj.embor.7401051",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17767192",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sudhof TC"
+        ],
+        "title": "The synaptic vesicle cycle.",
+        "journal": "Annu Rev Neurosci 27:509-47 (2004) DOI:10.1146/annurev.neuro.26.041002.131412",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15217342",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gundelfinger ED",
+          "Kessels MM",
+          "Qualmann B"
+        ],
+        "title": "Temporal and spatial coordination of exocytosis and endocytosis.",
+        "journal": "Nat Rev Mol Cell Biol 4:127-39 (2003) DOI:10.1038/nrm1016",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12563290",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tang J",
+          "Maximov A",
+          "Shin OH",
+          "Dai H",
+          "Rizo J",
+          "Sudhof TC"
+        ],
+        "title": "A complexin/synaptotagmin 1 switch controls fast synaptic vesicle exocytosis.",
+        "journal": "Cell 126:1175-87 (2006) DOI:10.1016/j.cell.2006.08.030",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16990140",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chapman ER"
+        ],
+        "title": "Synaptotagmin: a Ca(2+) sensor that triggers exocytosis?",
+        "journal": "Nat Rev Mol Cell Biol 3:498-508 (2002) DOI:10.1038/nrm855",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12094216",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sudhof TC"
+        ],
+        "title": "The synaptic vesicle cycle: a cascade of protein-protein interactions.",
+        "journal": "Nature 375:645-53 (1995) DOI:10.1038/375645a0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "7791897",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rizo J",
+          "Sudhof TC"
+        ],
+        "title": "Snares and Munc18 in synaptic vesicle fusion.",
+        "journal": "Nat Rev Neurosci 3:641-53 (2002) DOI:10.1038/nrn898",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12154365",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Malsam J",
+          "Kreye S",
+          "Sollner TH"
+        ],
+        "title": "Membrane fusion: SNAREs and regulation.",
+        "journal": "Cell Mol Life Sci 65:2814-32 (2008) DOI:10.1007/s00018-008-8352-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18726177",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04721"
+  }
+]

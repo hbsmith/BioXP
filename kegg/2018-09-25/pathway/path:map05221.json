@@ -1,0 +1,704 @@
+[
+  {
+    "entry_id": "map05221",
+    "name": "Acute myeloid leukemia",
+    "description": "Acute myeloid leukemia (AML) is a disease that is characterized by uncontrolled proliferation of clonal neoplastic cells and accumulation in the bone marrow of blasts with an impaired differentiation program. AML accounts for approximately 80% of all adult leukemias and remains the most common cause of leukemia death. Two major types of genetic events have been described that are crucial for leukemic transformation. A proposed necessary first event is disordered cell growth and upregulation of cell survival genes. The most common of these activating events were observed in the RTK Flt3, in N-Ras and K-Ras, in Kit, and sporadically in other RTKs. Alterations in myeloid transcription factors governing hematopoietic differentiation provide second necessary event for leukemogenesis. Transcription factor fusion proteins such as AML-ETO, PML-RARalpha or PLZF-RARalpha block myeloid cell differentiation by repressing target genes. In other cases, the transcription factors themselves are mutated.",
+    "classes": [
+      "Human Diseases",
+      "Cancers: Specific types"
+    ],
+    "diseases": {
+      "H00003": "Acute myeloid leukemia (AML)"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05221": "Acute myeloid leukemia"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Steffen B",
+          "Muller-Tidow C",
+          "Schwable J",
+          "Berdel WE",
+          "Serve H."
+        ],
+        "title": "The molecular pathogenesis of acute myeloid leukemia.",
+        "journal": "Crit Rev Oncol Hematol 56:195-221 (2005) DOI:10.1016/j.critrevonc.2004.10.012",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16236521",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tenen DG."
+        ],
+        "title": "Disruption of differentiation in human cancer: AML shows the way.",
+        "journal": "Nat Rev Cancer 3:89-101 (2003) DOI:10.1038/nrc989",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12563308",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Choudhary C",
+          "Muller-Tidow C",
+          "Berdel WE",
+          "Serve H."
+        ],
+        "title": "Signal transduction of oncogenic Flt3.",
+        "journal": "Int J Hematol 82:93-9 (2005) DOI:10.1532/IJH97.05090",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16146838",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Stirewalt DL",
+          "Radich JP."
+        ],
+        "title": "The role of FLT3 in haematopoietic malignancies.",
+        "journal": "Nat Rev Cancer 3:650-65 (2003) DOI:10.1038/nrc1169",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12951584",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Martelli AM",
+          "Nyakern M",
+          "Tabellini G",
+          "Bortul R",
+          "Tazzari PL",
+          "Evangelisti C",
+          "Cocco L."
+        ],
+        "title": "Phosphoinositide 3-kinase/Akt signaling pathway and its therapeutical implications for human acute myeloid leukemia.",
+        "journal": "Leukemia 20:911-28 (2006) DOI:10.1038/sj.leu.2404245",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16642045",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lennartsson J",
+          "Jelacic T",
+          "Linnekin D",
+          "Shivakrupa R."
+        ],
+        "title": "Normal and oncogenic forms of the receptor tyrosine kinase kit.",
+        "journal": "Stem Cells 23:16-43 (2005) DOI:10.1634/stemcells.2004-0117",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15625120",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lorsbach RB",
+          "Downing JR."
+        ],
+        "title": "The role of the AML1 transcription factor in leukemogenesis.",
+        "journal": "Int J Hematol 74:258-65 (2001) DOI:10.1007/BF02982058",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11721960",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mizuki M",
+          "Schwable J",
+          "Steur C",
+          "Choudhary C",
+          "Agrawal S",
+          "Sargin B",
+          "Steffen B",
+          "Matsumura I",
+          "Kanakura Y",
+          "Bohmer FD",
+          "Muller-Tidow C",
+          "Berdel WE",
+          "Serve H."
+        ],
+        "title": "Suppression of myeloid transcription factors and induction of STAT response genes by AML-specific Flt3 mutations.",
+        "journal": "Blood 101:3164-73 (2003) DOI:10.1182/blood-2002-06-1677",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12468433",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mueller BU",
+          "Pabst T",
+          "Fos J",
+          "Petkovic V",
+          "Fey MF",
+          "Asou N",
+          "Buergi U",
+          "Tenen DG."
+        ],
+        "title": "ATRA resolves the differentiation block in t(15;17) acute myeloid leukemia by restoring PU.1 expression.",
+        "journal": "Blood 107:3330-8 (2006) DOI:10.1182/blood-2005-07-3068",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16352814",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Roumier C",
+          "Fenaux P",
+          "Lafage M",
+          "Imbert M",
+          "Eclache V",
+          "Preudhomme C"
+        ],
+        "title": "New mechanisms of AML1 gene alteration in hematological malignancies.",
+        "journal": "Leukemia 17:9-16 (2003) DOI:10.1038/sj.leu.2402766",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12529654",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Scandura JM",
+          "Boccuni P",
+          "Cammenga J",
+          "Nimer SD"
+        ],
+        "title": "Transcription factor fusions in acute leukemia: variations on a theme.",
+        "journal": "Oncogene 21:3422-44 (2002) DOI:10.1038/sj.onc.1205315",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12032780",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lutterbach B",
+          "Hiebert SW"
+        ],
+        "title": "Role of the transcription factor AML-1 in acute leukemia and hematopoietic differentiation.",
+        "journal": "Gene 245:223-35 (2000) DOI:10.1016/S0378-1119(00)00014-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10717473",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Koschmieder S",
+          "Halmos B",
+          "Levantini E",
+          "Tenen DG"
+        ],
+        "title": "Dysregulation of the C/EBPalpha differentiation pathway in human cancer.",
+        "journal": "J Clin Oncol 27:619-28 (2009) DOI:10.1200/JCO.2008.17.9812",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19075268",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gery S",
+          "Gombart AF",
+          "Yi WS",
+          "Koeffler C",
+          "Hofmann WK",
+          "Koeffler HP"
+        ],
+        "title": "Transcription profiling of C/EBP targets identifies Per2 as a gene implicated in myeloid leukemia.",
+        "journal": "Blood 106:2827-36 (2005) DOI:10.1182/blood-2005-01-0358",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15985538",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mueller BU",
+          "Pabst T",
+          "Osato M",
+          "Asou N",
+          "Johansen LM",
+          "Minden MD",
+          "Behre G",
+          "Hiddemann W",
+          "Ito Y",
+          "Tenen DG"
+        ],
+        "title": "Heterozygous PU.1 mutations are associated with acute myeloid leukemia.",
+        "journal": "Blood 100:998-1007 (2002) DOI:10.1182/blood.V100.3.998",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12130514",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vangala RK",
+          "Heiss-Neumann MS",
+          "Rangatia JS",
+          "Singh SM",
+          "Schoch C",
+          "Tenen DG",
+          "Hiddemann W",
+          "Behre G"
+        ],
+        "title": "The myeloid master regulator transcription factor PU.1 is inactivated by AML1-ETO in t(8;21) myeloid leukemia.",
+        "journal": "Blood 101:270-7 (2003) DOI:10.1182/blood-2002-04-1288",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12393465",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Muller-Tidow C",
+          "Steffen B",
+          "Cauvet T",
+          "Tickenbrock L",
+          "Ji P",
+          "Diederichs S",
+          "Sargin B",
+          "Kohler G",
+          "Stelljes M",
+          "Puccetti E",
+          "Ruthardt M",
+          "deVos S",
+          "Hiebert SW",
+          "Koeffler HP",
+          "Berdel WE",
+          "Serve H"
+        ],
+        "title": "Translocation products in acute myeloid leukemia activate the Wnt signaling pathway in hematopoietic cells.",
+        "journal": "Mol Cell Biol 24:2890-904 (2004) DOI:10.1128/MCB.24.7.2890-2904.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15024077",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Muller C",
+          "Yang R",
+          "Park DJ",
+          "Serve H",
+          "Berdel WE",
+          "Koeffler HP"
+        ],
+        "title": "The aberrant fusion proteins PML-RAR alpha and PLZF-RAR alpha contribute to the overexpression of cyclin A1 in acute promyelocytic leukemia.",
+        "journal": "Blood",
+        "volume": "96",
+        "issue": "",
+        "pages": "3894-9",
+        "year": "2000",
+        "pubmed": "11090075",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jing Y"
+        ],
+        "title": "The PML-RARalpha fusion protein and targeted therapy for acute promyelocytic leukemia.",
+        "journal": "Leuk Lymphoma 45:639-48 (2004) DOI:10.1080/10428190310001609933",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15160934",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Alcalay M",
+          "Orleth A",
+          "Sebastiani C",
+          "Meani N",
+          "Chiaradonna F",
+          "Casciari C",
+          "Sciurpi MT",
+          "Gelmetti V",
+          "Riganelli D",
+          "Minucci S",
+          "Fagioli M",
+          "Pelicci PG"
+        ],
+        "title": "Common themes in the pathogenesis of acute myeloid leukemia.",
+        "journal": "Oncogene 20:5680-94 (2001) DOI:10.1038/sj.onc.1204642",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11607818",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rice KL",
+          "Hormaeche I",
+          "Doulatov S",
+          "Flatow JM",
+          "Grimwade D",
+          "Mills KI",
+          "Leiva M",
+          "Ablain J",
+          "Ambardekar C",
+          "McConnell MJ",
+          "Dick JE",
+          "Licht JD"
+        ],
+        "title": "Comprehensive genomic screens identify a role for PLZF-RARalpha as a positive regulator of cell proliferation via direct regulation of c-MYC.",
+        "journal": "Blood 114:5499-511 (2009) DOI:10.1182/blood-2009-03-206524",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19855079",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mikesch JH",
+          "Steffen B",
+          "Berdel WE",
+          "Serve H",
+          "Muller-Tidow C."
+        ],
+        "title": "The emerging role of Wnt signaling in the pathogenesis of acute myeloid leukemia.",
+        "journal": "Leukemia 21:1638-47 (2007) DOI:10.1038/sj.leu.2404732",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17554387",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05221"
+  }
+]

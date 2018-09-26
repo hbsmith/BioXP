@@ -1,0 +1,260 @@
+[
+  {
+    "entry_id": "map04370",
+    "name": "VEGF signaling pathway",
+    "description": "There is now much evidence that VEGFR-2 is the major mediator of VEGF-driven responses in endothelial cells and it is considered to be a crucial signal transducer in both physiologic and pathologic angiogenesis. The binding of VEGF to VEGFR-2 leads to a cascade of different signaling pathways, resulting in the up-regulation of genes involved in mediating the proliferation and migration of endothelial cells and promoting their survival and vascular permeability. For example, the binding of VEGF to VEGFR-2 leads to dimerization of the receptor, followed by intracellular activation of the PLCgamma;PKC-Raf kinase-MEK-mitogen-activated protein kinase (MAPK) pathway and subsequent initiation of DNA synthesis and cell growth, whereas activation of the phosphatidylinositol 3' -kinase (PI3K)-Akt pathway leads to increased endothelial-cell survival. Activation of PI3K, FAK, and p38 MAPK is implicated in cell migration signaling.",
+    "classes": [
+      "Environmental Information Processing",
+      "Signal transduction"
+    ],
+    "diseases": {
+      "H01482": "Infantile hemangioma",
+      "H01529": "Avascular necrosis of femoral head"
+    },
+    "dblinks": {
+      "GO": [
+        "0048010"
+      ]
+    },
+    "pathways": {
+      "map04370": "VEGF signaling pathway"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Cross MJ",
+          "Dixelius J",
+          "Matsumoto T",
+          "Claesson-Welsh L."
+        ],
+        "title": "VEGF-receptor signal transduction.",
+        "journal": "Trends Biochem Sci 28:488-94 (2003) DOI:10.1016/S0968-0004(03)00193-2",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "13678960",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Matsumoto T",
+          "Claesson-Welsh L."
+        ],
+        "title": "VEGF receptor signal transduction.",
+        "journal": "Sci STKE 2001:RE21 (2001) DOI:10.1126/stke.2001.112.re21",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11741095",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hoeben A",
+          "Landuyt B",
+          "Highley MS",
+          "Wildiers H",
+          "Van Oosterom AT",
+          "De Bruijn EA."
+        ],
+        "title": "Vascular endothelial growth factor and angiogenesis.",
+        "journal": "Pharmacol Rev 56:549-80 (2004) DOI:10.1124/pr.56.4.3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15602010",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Takahashi H",
+          "Shibuya M."
+        ],
+        "title": "The vascular endothelial growth factor (VEGF)/VEGF receptor system and its role under physiological and pathological conditions.",
+        "journal": "Clin Sci (Lond) 109:227-41 (2005) DOI:10.1042/CS20040370",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16104843",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zachary I."
+        ],
+        "title": "VEGF signalling: integration and multi-tasking in endothelial cell biology.",
+        "journal": "Biochem Soc Trans 31:1171-7 (2003) DOI:10.1042/bst0311171",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14641020",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Munoz-Chapuli R",
+          "Quesada AR",
+          "Angel Medina M."
+        ],
+        "title": "Angiogenesis and signal transduction in endothelial cells.",
+        "journal": "Cell Mol Life Sci 61:2224-43 (2004) DOI:10.1007/s00018-004-4070-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15338053",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Lamalice L",
+          "Houle F",
+          "Jourdan G",
+          "Huot J."
+        ],
+        "title": "Phosphorylation of tyrosine 1214 on VEGFR2 is required for VEGF-induced activation of Cdc42 upstream of SAPK2/p38.",
+        "journal": "Oncogene 23:434-45 (2004) DOI:10.1038/sj.onc.1207034",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14724572",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shu X",
+          "Wu W",
+          "Mosteller RD",
+          "Broek D."
+        ],
+        "title": "Sphingosine kinase mediates vascular endothelial growth factor-induced activation of ras and mitogen-activated protein kinases.",
+        "journal": "Mol Cell Biol 22:7758-68 (2002) DOI:10.1128/MCB.22.22.7758-7768.2002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12391145",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04370"
+  }
+]

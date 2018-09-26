@@ -1,0 +1,207 @@
+[
+  {
+    "entry_id": "map05100",
+    "name": "Bacterial invasion of epithelial cells",
+    "description": "Many pathogenic bacteria can invade phagocytic and non-phagocytic cells and colonize them intracellularly, then become disseminated to other cells. Invasive bacteria induce their own uptake by non-phagocytic host cells (e.g. epithelial cells) using two mechanisms referred to as zipper model and trigger model. Listeria, Staphylococcus, Streptococcus, and Yersinia are examples of bacteria that enter using the zipper model. These bacteria express proteins on their surfaces that interact with cellular receptors, initiating signalling cascades that result in close apposition of the cellular membrane around the entering bacteria. Shigella and Salmonella are the examples of bacteria entering cells using the trigger model. These bacteria use type III secretion systems to inject protein effectors that interact with the actin cytoskeleton.",
+    "classes": [
+      "Human Diseases",
+      "Infectious diseases: Bacterial"
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map05100": "Bacterial invasion of epithelial cells"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Mostowy S",
+          "Cossart P"
+        ],
+        "title": "Cytoskeleton rearrangements during Listeria infection: clathrin and septins as new players in the game.",
+        "journal": "Cell Motil Cytoskeleton 66:816-23 (2009) DOI:10.1002/cm.20353",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19296488",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hauck CR",
+          "Ohlsen K"
+        ],
+        "title": "Sticky connections: extracellular matrix protein recognition and integrin-mediated cellular invasion by Staphylococcus aureus.",
+        "journal": "Curr Opin Microbiol 9:5-11 (2006) DOI:10.1016/j.mib.2005.12.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16406780",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang B",
+          "Li S",
+          "Dedhar S",
+          "Cleary PP"
+        ],
+        "title": "Paxillin phosphorylation: bifurcation point downstream of integrin-linked kinase (ILK) in streptococcal invasion.",
+        "journal": "Cell Microbiol 9:1519-28 (2007) DOI:10.1111/j.1462-5822.2007.00889.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17298394",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Matsumoto H",
+          "Young GM"
+        ],
+        "title": "Translocated effectors of Yersinia.",
+        "journal": "Curr Opin Microbiol 12:94-100 (2009) DOI:10.1016/j.mib.2008.12.005",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19185531",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "McGhie EJ",
+          "Brawn LC",
+          "Hume PJ",
+          "Humphreys D",
+          "Koronakis V"
+        ],
+        "title": "Salmonella takes control: effector-driven manipulation of the host.",
+        "journal": "Curr Opin Microbiol 12:117-24 (2009) DOI:10.1016/j.mib.2008.12.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19157959",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Iwai H",
+          "Kim M",
+          "Yoshikawa Y",
+          "Ashida H",
+          "Ogawa M",
+          "Fujita Y",
+          "Muller D",
+          "Kirikae T",
+          "Jackson PK",
+          "Kotani S",
+          "Sasakawa C"
+        ],
+        "title": "A bacterial effector targets Mad2L2, an APC inhibitor, to modulate host cell cycling.",
+        "journal": "Cell 130:611-23 (2007) DOI:10.1016/j.cell.2007.06.043",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17719540",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko05100"
+  }
+]

@@ -1,0 +1,545 @@
+[
+  {
+    "entry_id": "map00130",
+    "name": "Ubiquinone and other terpenoid-quinone biosynthesis",
+    "description": "Ubiquinone (UQ), also called coenzyme Q, and plastoquinone (PQ) are electron carriers in oxidative phosphorylation and photosynthesis, respectively. The quinoid nucleus of ubiquinone is derived from the shikimate pathway; 4-hydroxybenzoate is directly formed from chorismate in bacteria, while it can be formed from either chorismate or tyrosine in yeast. The following biosynthesis of terpenoid moiety involves reactions of prenylation, decarboxylation, and three hydroxylations alternating with three methylations. The order of these reactions are somewhat different between bacteria and yeast. Phylloquinone (vitamin K1), menaquinone (vitamin K2), and tocopherol (vitamin E) are fat-soluble vitamins. Phylloquinone is a compound present in all photosynthetic plants serving as a cofactor for photosystem I-mediated electron transport. Menaquinone is an obligatory component of the electron-transfer pathway in bacteria.",
+    "classes": [
+      "Metabolism",
+      "Metabolism of cofactors and vitamins"
+    ],
+    "diseases": {
+      "H00999": "Coenzyme Q10 deficiency",
+      "H01614": "Multiple system atrophy"
+    },
+    "dblinks": {
+      "GO": [
+        "0006744",
+        "0009234",
+        "0042372"
+      ]
+    },
+    "pathways": {
+      "map00130": "Ubiquinone and other terpenoid-quinone biosynthesis"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Ward MJ",
+          "Fu QS",
+          "Rhoads KR",
+          "Yeung CH",
+          "Spormann AM",
+          "Criddle CS."
+        ],
+        "title": "A derivative of the menaquinone precursor 1,4-dihydroxy-2-naphthoate is involved in the reductive transformation of carbon tetrachloride by aerobically grown Shewanella oneidensis MR-1.",
+        "journal": "Appl Microbiol Biotechnol 63:571-7 (2004) DOI:10.1007/s00253-003-1407-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12908086",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Monzingo AF",
+          "Gao J",
+          "Qiu J",
+          "Georgiou G",
+          "Robertus JD."
+        ],
+        "title": "The X-ray structure of Escherichia coli RraA (MenG), A protein inhibitor of RNA processing.",
+        "journal": "J Mol Biol 332:1015-24 (2003) DOI:10.1016/S0022-2836(03)00970-7",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14499605",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Johnson TW",
+          "Zybailov B",
+          "Jones AD",
+          "Bittl R",
+          "Zech S",
+          "Stehlik D",
+          "Golbeck JH",
+          "Chitnis PR."
+        ],
+        "title": "Recruitment of a foreign quinone into the A1 site of photosystem I. In vivo replacement of plastoquinone-9 by media-supplemented naphthoquinones in phylloquinone biosynthetic pathway mutants of Synechocystis sp. PCC 6803.",
+        "journal": "J Biol Chem 276:39512-21 (2001) DOI:10.1074/jbc.M104040200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11470786",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wade Johnson T",
+          "Naithani S",
+          "Stewart C Jr",
+          "Zybailov B",
+          "Daniel Jones A",
+          "Golbeck JH",
+          "Chitnis PR."
+        ],
+        "title": "The menD and menE homologs code for 2-succinyl-6-hydroxyl-2,4-cyclohexadiene-1-carboxylate synthase and O-succinylbenzoic acid-CoA synthase in the phylloquinone biosynthetic pathway of Synechocystis sp. PCC 6803.",
+        "journal": "Biochim Biophys Acta 1557:67-76 (2003) DOI:10.1016/S0005-2728(02)00396-1",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12615349",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gin P",
+          "Hsu AY",
+          "Rothman SC",
+          "Jonassen T",
+          "Lee PT",
+          "Tzagoloff A",
+          "Clarke CF."
+        ],
+        "title": "The Saccharomyces cerevisiae COQ6 gene encodes a mitochondrial flavin-dependent monooxygenase required for coenzyme Q biosynthesis.",
+        "journal": "J Biol Chem 278:25308-16 (2003) DOI:10.1074/jbc.M303234200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12721307",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jiang M",
+          "Chen X",
+          "Guo ZF",
+          "Cao Y",
+          "Chen M",
+          "Guo Z."
+        ],
+        "title": "Identification and Characterization of (1R,6R)-2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate Synthase in the Menaquinone Biosynthesis of Escherichia coli.",
+        "journal": "Biochemistry 47:3426-34 (2008) DOI:10.1021/bi7023755",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18284213",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jiang M",
+          "Cao Y",
+          "Guo ZF",
+          "Chen M",
+          "Chen X",
+          "Guo Z."
+        ],
+        "title": "Menaquinone biosynthesis in Escherichia coli: identification of 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate as a novel intermediate and re-evaluation of MenD activity.",
+        "journal": "Biochemistry 46:10979-89 (2007) DOI:10.1021/bi700810x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17760421",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Jiang M",
+          "Chen M",
+          "Cao Y",
+          "Yang Y",
+          "Sze KH",
+          "Chen X",
+          "Guo Z."
+        ],
+        "title": "Determination of the stereochemistry of 2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylate, a key intermediate in menaquinone biosynthesis.",
+        "journal": "Org Lett 9:4765-7 (2007) DOI:10.1021/ol702126m",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17956107",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hiratsuka T",
+          "Furihata K",
+          "Ishikawa J",
+          "Yamashita H",
+          "Itoh N",
+          "Seto H",
+          "Dairi T"
+        ],
+        "title": "An alternative menaquinone biosynthetic pathway operating in microorganisms.",
+        "journal": "Science 321:1670-3 (2008) DOI:10.1126/science.1160446",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18801996",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Loscher R",
+          "Heide L"
+        ],
+        "title": "Biosynthesis of p-Hydroxybenzoate from p-Coumarate and p-Coumaroyl-Coenzyme A in Cell-Free Extracts of Lithospermum erythrorhizon Cell Cultures.",
+        "journal": "Plant Physiol 106:271-279 (1994) DOI:10.1104/pp.106.1.271",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12232327",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Meganathan R"
+        ],
+        "title": "Ubiquinone biosynthesis in microorganisms.",
+        "journal": "FEMS Microbiol Lett 203:131-9 (2001) DOI:10.1111/j.1574-6968.2001.tb10831.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11583838",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cheng Z",
+          "Sattler S",
+          "Maeda H",
+          "Sakuragi Y",
+          "Bryant DA",
+          "DellaPenna D"
+        ],
+        "title": "Highly divergent methyltransferases catalyze a conserved reaction in tocopherol and plastoquinone synthesis in cyanobacteria and photosynthetic eukaryotes.",
+        "journal": "Plant Cell 15:2343-56 (2003) DOI:10.1105/tpc.013656",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "14508009",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sadre R",
+          "Gruber J",
+          "Frentzen M"
+        ],
+        "title": "Characterization of homogentisate prenyltransferases involved in plastoquinone-9 and tocochromanol biosynthesis.",
+        "journal": "FEBS Lett 580:5357-62 (2006) DOI:10.1016/j.febslet.2006.09.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16989822",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hofius D",
+          "Sonnewald U."
+        ],
+        "title": "Vitamin E biosynthesis: biochemistry meets cell biology.",
+        "journal": "Trends Plant Sci 8:6-8 (2003) DOI:10.1016/S1360-1385(02)00002-X",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12523993",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kawamukai M"
+        ],
+        "title": "Biosynthesis, bioproduction and novel roles of ubiquinone.",
+        "journal": "J Biosci Bioeng 94:511-7 (2002) DOI:10.1016/S1389-1723(02)80188-8",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16233343",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tie JK",
+          "Jin DY",
+          "Straight DL",
+          "Stafford DW"
+        ],
+        "title": "Functional study of the vitamin K cycle in mammalian cells.",
+        "journal": "Blood 117:2967-74 (2011) DOI:10.1182/blood-2010-08-304303",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21239697",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhou L",
+          "Wang JY",
+          "Wu J",
+          "Wang J",
+          "Poplawsky A",
+          "Lin S",
+          "Zhu B",
+          "Chang C",
+          "Zhou T",
+          "Zhang LH",
+          "He YW"
+        ],
+        "title": "The diffusible factor synthase XanB2 is a bifunctional chorismatase that links the shikimate pathway to ubiquinone and xanthomonadins biosynthetic pathways.",
+        "journal": "Mol Microbiol 87:80-93 (2013) DOI:10.1111/mmi.12084",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23113660",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+      "M00112": "Tocopherol/tocotorienol biosynthesis [PATH:map00130]",
+      "M00116": "Menaquinone biosynthesis, chorismate => menaquinone [PATH:map00130]",
+      "M00117": "Ubiquinone biosynthesis, prokaryotes, chorismate => ubiquinone [PATH:map00130]",
+      "M00128": "Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate => ubiquinone [PATH:map00130]"
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00130"
+  }
+]

@@ -1,0 +1,435 @@
+[
+  {
+    "entry_id": "map04392",
+    "name": "Hippo signaling pathway - multiple species",
+    "description": "Hippo signaling pathways control diverse aspects of cell proliferation, survival, and morphogenesis in eukaryotes. The core organization of these networks is conserved over a billion years of evolution, with related forms described in animals and fungi. In Drosophila and mammals, Hippo/MST co-operate with Mats/Mob1 and Salvador/WW45 to activate Warts/LATS, which negatively regulates Yorkie/YAP. Yorkie/YAP interact with Scalloped/TEAD to promote gene transcriptions and control organ size through the balance between cell proliferation and apoptosis. In C. elegans, WTS-1 YAP-1 EGL-44 axis is conserved and regulates thermotolerance and healthy lifespan. In S. cerevisiae, the LATS-related Dbf2 or Dbf20 kinase in complex with Mob1 controls mitotic exit and cytokinesis, and the Hippo/MST family of kinases, STE-20, modulates Tec1, the putative yeast TEAD ortholog.",
+    "classes": [
+      "Environmental Information Processing",
+      "Signal transduction"
+    ],
+    "diseases": {
+      "H02169": "Hennekam lymphangiectasia-lymphedema syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0035329"
+      ]
+    },
+    "pathways": {
+      "map04392": "Hippo signaling pathway - multiple species"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Hilman D",
+          "Gat U"
+        ],
+        "title": "The evolutionary history of YAP and the hippo/YAP pathway.",
+        "journal": "Mol Biol Evol 28:2403-17 (2011) DOI:10.1093/molbev/msr065",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21415026",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Varelas X"
+        ],
+        "title": "The Hippo pathway effectors TAZ and YAP in development, homeostasis and disease.",
+        "journal": "Development 141:1614-26 (2014) DOI:10.1242/dev.102376",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24715453",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhao B",
+          "Tumaneng K",
+          "Guan KL"
+        ],
+        "title": "The Hippo pathway in organ size control, tissue regeneration and stem cell self-renewal.",
+        "journal": "Nat Cell Biol 13:877-83 (2011) DOI:10.1038/ncb2303",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21808241",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Halder G",
+          "Johnson RL"
+        ],
+        "title": "Hippo signaling: growth control and beyond.",
+        "journal": "Development 138:9-22 (2011) DOI:10.1242/dev.045500",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21138973",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Pan D"
+        ],
+        "title": "The hippo signaling pathway in development and cancer.",
+        "journal": "Dev Cell 19:491-505 (2010) DOI:10.1016/j.devcel.2010.09.011",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20951342",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhao B",
+          "Li L",
+          "Lei Q",
+          "Guan KL"
+        ],
+        "title": "The Hippo-YAP pathway in organ size control and tumorigenesis: an updated version.",
+        "journal": "Genes Dev 24:862-74 (2010) DOI:10.1101/gad.1909210",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20439427",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fausti F",
+          "Di Agostino S",
+          "Sacconi A",
+          "Strano S",
+          "Blandino G"
+        ],
+        "title": "Hippo and rassf1a Pathways: A Growing Affair.",
+        "journal": "Mol Biol Int 2012:307628 (2012) DOI:10.1155/2012/307628",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22830020",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gogl G",
+          "Schneider KD",
+          "Yeh BJ",
+          "Alam N",
+          "Nguyen Ba AN",
+          "Moses AM",
+          "Hetenyi C",
+          "Remenyi A",
+          "Weiss EL"
+        ],
+        "title": "The Structure of an NDR/LATS Kinase-Mob Complex Reveals a Novel Kinase-Coactivator System and Substrate Docking Mechanism.",
+        "journal": "PLoS Biol 13:e1002146 (2015) DOI:10.1371/journal.pbio.1002146",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "25966461",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Iwasa H",
+          "Maimaiti S",
+          "Kuroyanagi H",
+          "Kawano S",
+          "Inami K",
+          "Timalsina S",
+          "Ikeda M",
+          "Nakagawa K",
+          "Hata Y"
+        ],
+        "title": "Yes-associated protein homolog, YAP-1, is involved in the thermotolerance and aging in the nematode Caenorhabditis elegans.",
+        "journal": "Exp Cell Res 319:931-45 (2013) DOI:10.1016/j.yexcr.2013.01.020",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23396260",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yang Z",
+          "Hata Y"
+        ],
+        "title": "What is the Hippo pathway? Is the Hippo pathway conserved in Caenorhabditis elegans?",
+        "journal": "J Biochem 154:207-9 (2013) DOI:10.1093/jb/mvt060",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23843471",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hotz M",
+          "Barral Y"
+        ],
+        "title": "The Mitotic Exit Network: new turns on old pathways.",
+        "journal": "Trends Cell Biol 24:145-52 (2014) DOI:10.1016/j.tcb.2013.09.010",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24594661",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rock JM",
+          "Lim D",
+          "Stach L",
+          "Ogrodowicz RW",
+          "Keck JM",
+          "Jones MH",
+          "Wong CC",
+          "Yates JR 3rd",
+          "Winey M",
+          "Smerdon SJ",
+          "Yaffe MB",
+          "Amon A"
+        ],
+        "title": "Activation of the yeast Hippo pathway by phosphorylation-dependent assembly of signaling complexes.",
+        "journal": "Science 340:871-5 (2013) DOI:10.1126/science.1235822",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23579499",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hergovich A",
+          "Hemmings BA"
+        ],
+        "title": "Hippo signalling in the G2/M cell cycle phase: lessons learned from the yeast MEN and SIN pathways.",
+        "journal": "Semin Cell Dev Biol 23:794-802 (2012) DOI:10.1016/j.semcdb.2012.04.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22525225",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang Y",
+          "Abu Irqeba A",
+          "Ayalew M",
+          "Suntay K"
+        ],
+        "title": "Sumoylation of transcription factor Tec1 regulates signaling of mitogen-activated protein kinase pathways in yeast.",
+        "journal": "PLoS One 4:e7456 (2009) DOI:10.1371/journal.pone.0007456",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19826484",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04392"
+  }
+]

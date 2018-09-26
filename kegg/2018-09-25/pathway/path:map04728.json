@@ -1,0 +1,461 @@
+[
+  {
+    "entry_id": "map04728",
+    "name": "Dopaminergic synapse",
+    "description": "Dopamine (DA) is an important and prototypical slow neurotransmitter in the mammalian brain, where it controls a variety of functions including locomotor activity, motivation and reward, learning and memory, and endocrine regulation. Once released from presynaptic axonal terminals, DA interacts with at least five receptor subtypes in the central nervous system (CNS), which have been divided into two groups: the D1-like receptors (D1Rs), comprising D1 and D5 receptors, both positively coupled to adenylyl cyclase and cAMP production, and the D2-like receptors (D2Rs), comprising D2, D3, and D4 receptors, whose activation results in inhibition of adenylyl cyclase and suppression of cAMP production. In addition, D1Rs and D2Rs modulate intracellular Ca2+ levels and a number of Ca2+ -dependent intracellular signaling processes. Through diverse cAMP- and Ca2+-dependent and - independent mechanisms, DA influences neuronal activity, synaptic plasticity, and behavior. Presynaptically localized D2Rs regulate synthesis and release of DA as the main autoreceptor of the dopaminergic system.",
+    "classes": [
+      "Organismal Systems",
+      "Nervous system"
+    ],
+    "diseases": {
+      "H00548": "Brunner syndrome",
+      "H00606": "Early infantile epileptic encephalopathy",
+      "H00749": "Episodic ataxias",
+      "H00773": "Autosomal dominant mental retardation",
+      "H00775": "Hemiplegic migraine",
+      "H00783": "Febrile seizures",
+      "H00831": "Primary dystonia",
+      "H01161": "Aromatic L-amino acid decarboxylase deficiency",
+      "H01450": "Obsessive-compulsive disorder",
+      "H01649": "Schizophrenia",
+      "H01671": "Neurosis",
+      "H01818": "Dravet syndrome",
+      "H01895": "Attention deficit hyperactivity disorder (ADHD)"
+    },
+    "dblinks": {
+      "GO": [
+        "0001963"
+      ]
+    },
+    "pathways": {
+      "map04728": "Dopaminergic synapse"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Beaulieu JM",
+          "Gainetdinov RR"
+        ],
+        "title": "The physiology, signaling, and pharmacology of dopamine receptors.",
+        "journal": "Pharmacol Rev 63:182-217 (2011) DOI:10.1124/pr.110.002642",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21303898",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Neve KA",
+          "Seamans JK",
+          "Trantham-Davidson H"
+        ],
+        "title": "Dopamine receptor signaling.",
+        "journal": "J Recept Signal Transduct Res 24:165-205 (2004) DOI:10.1081/RRS-200029981",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15521361",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Surmeier DJ",
+          "Ding J",
+          "Day M",
+          "Wang Z",
+          "Shen W"
+        ],
+        "title": "D1 and D2 dopamine-receptor modulation of striatal glutamatergic signaling in striatal medium spiny neurons.",
+        "journal": "Trends Neurosci 30:228-35 (2007) DOI:10.1016/j.tins.2007.03.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17408758",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Knab AM",
+          "Lightfoot JT"
+        ],
+        "title": "Does the difference between physically active and couch potato lie in the dopamine system?",
+        "journal": "Int J Biol Sci 6:133-50 (2010) DOI:10.7150/ijbs.6.133",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20224735",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Greengard P",
+          "Allen PB",
+          "Nairn AC"
+        ],
+        "title": "Beyond the dopamine receptor: the DARPP-32/protein phosphatase-1 cascade.",
+        "journal": "Neuron 23:435-47 (1999) DOI:10.1016/S0896-6273(00)80798-9",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10433257",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Hu XT",
+          "Dong Y",
+          "Zhang XF",
+          "White FJ"
+        ],
+        "title": "Dopamine D2 receptor-activated Ca2+ signaling modulates voltage-sensitive sodium currents in rat nucleus accumbens neurons.",
+        "journal": "J Neurophysiol 93:1406-17 (2005) DOI:10.1152/jn.00771.2004",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15590733",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Beaulieu JM",
+          "Gainetdinov RR",
+          "Caron MG"
+        ],
+        "title": "The Akt-GSK-3 signaling cascade in the actions of dopamine.",
+        "journal": "Trends Pharmacol Sci 28:166-72 (2007) DOI:10.1016/j.tips.2007.02.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17349698",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "De Mei C",
+          "Ramos M",
+          "Iitaka C",
+          "Borrelli E"
+        ],
+        "title": "Getting specialized: presynaptic and postsynaptic dopamine D2 receptors.",
+        "journal": "Curr Opin Pharmacol 9:53-8 (2009) DOI:10.1016/j.coph.2008.12.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19138563",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Seamans JK",
+          "Yang CR"
+        ],
+        "title": "The principal features and mechanisms of dopamine modulation in the prefrontal cortex.",
+        "journal": "Prog Neurobiol 74:1-58 (2004) DOI:10.1016/j.pneurobio.2004.05.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15381316",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yao WD",
+          "Spealman RD",
+          "Zhang J"
+        ],
+        "title": "Dopaminergic signaling in dendritic spines.",
+        "journal": "Biochem Pharmacol 75:2055-69 (2008) DOI:10.1016/j.bcp.2008.01.018",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18353279",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Li YC",
+          "Gao WJ"
+        ],
+        "title": "GSK-3beta activity and hyperdopamine-dependent behaviors.",
+        "journal": "Neurosci Biobehav Rev 35:645-54 (2011) DOI:10.1016/j.neubiorev.2010.08.001",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20727368",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Tang TS",
+          "Bezprozvanny I"
+        ],
+        "title": "Dopamine receptor-mediated Ca(2+) signaling in striatal medium spiny neurons.",
+        "journal": "J Biol Chem 279:42082-94 (2004) DOI:10.1074/jbc.M407389200",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15292232",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bergson C",
+          "Levenson R",
+          "Goldman-Rakic PS",
+          "Lidow MS"
+        ],
+        "title": "Dopamine receptor-interacting proteins: the Ca(2+) connection in dopamine signaling.",
+        "journal": "Trends Pharmacol Sci 24:486-92 (2003) DOI:10.1016/S0165-6147(03)00232-3",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12967774",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Missale C",
+          "Nash SR",
+          "Robinson SW",
+          "Jaber M",
+          "Caron MG"
+        ],
+        "title": "Dopamine receptors: from structure to function.",
+        "journal": "Physiol Rev 78:189-225 (1998) DOI:10.1152/physrev.1998.78.1.189",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9457173",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Quaak M",
+          "van Schayck CP",
+          "Knaapen AM",
+          "van Schooten FJ"
+        ],
+        "title": "Genetic variation as a predictor of smoking cessation success. A promising preventive and intervention tool for chronic respiratory diseases?",
+        "journal": "Eur Respir J 33:468-80 (2009) DOI:10.1183/09031936.00056908",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19251795",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04728"
+  }
+]

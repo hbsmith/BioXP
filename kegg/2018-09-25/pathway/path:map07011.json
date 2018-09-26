@@ -1,0 +1,240 @@
+[
+  {
+    "entry_id": "map07011",
+    "name": "Penicillins",
+    "description": "",
+    "classes": [
+
+    ],
+    "diseases": {
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map07011": "Penicillins"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Sano T",
+          "Naito T",
+          "Kubo T (eds)."
+        ],
+        "title": "[Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)",
+        "journal": "Nankodo",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2002",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fukai S."
+        ],
+        "title": "[New Drugs Today (6th ed)] (In Japanese)",
+        "journal": "Jiho",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1995",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Walter S."
+        ],
+        "title": "Drug Discovery: A History",
+        "journal": "Wiley",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2005",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Japan Pharmaceutical Association (ed)."
+        ],
+        "title": "[Face of Medecine: Structure Activity Relationship] (In Japanese)",
+        "journal": "Yakuji Nippo",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "1999",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Sjovall J",
+          "Huitfeldt B",
+          "Magni L",
+          "Nord CE."
+        ],
+        "title": "Effect of beta-lactam prodrugs on human intestinal microflora.",
+        "journal": "Scand J Infect Dis Suppl",
+        "volume": "49",
+        "issue": "",
+        "pages": "73-84",
+        "year": "1986",
+        "pubmed": "3547627",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+      "C02954": "6-Aminopenicillanate",
+      "C06662": "Clavulanic acid",
+      "D00204": "Ampicillin (USP/INN)",
+      "D00229": "Amoxicillin (USP)",
+      "D00230": "Amoxicillin - potassium clavulanate combination",
+      "D00466": "Piperacillin sodium (JP17/USP)",
+      "D00497": "Penicillin V potassium (USP)",
+      "D00660": "Tazobactam (JP17/USAN/INN)",
+      "D00927": "Bacampicillin hydrochloride (JP17/USP)",
+      "D00929": "Oxacillin sodium (JAN/USP)",
+      "D01053": "Penicillin G potassium (USP)",
+      "D01074": "Hetacillin (USAN/INN)",
+      "D01178": "Phenethicillin potassium (JP17)",
+      "D01249": "Flucloxacillin sodium (JAN)",
+      "D01251": "Ampicillin hydrate (JP17)",
+      "D01283": "Carbenicillin indanyl sodium (USP)",
+      "D01334": "Cyclacillin (USAN)",
+      "D01489": "Sulbenicillin sodium (JP17)",
+      "D01499": "Pivmecillinam hydrochloride (JP17)",
+      "D01649": "Propicillin potassium (JAN)",
+      "D01668": "Sultamicillin tosilate hydrate (JP17)",
+      "D01696": "Lenampicillin hydrochloride (JP17)",
+      "D02119": "Ampicillin sodium (JP17/USP)",
+      "D02137": "Dicloxacillin sodium (USP)",
+      "D02190": "Carbenicillin disodium (USP)",
+      "D02196": "Methicillin sodium (USAN)",
+      "D02199": "Carbenicillin phenyl sodium (USAN)",
+      "D02201": "Talampicillin hydrochloride (JP17/USAN)",
+      "D02203": "Hetacillin potassium (JAN/USAN)",
+      "D02221": "Mezlocillin sodium (JAN)",
+      "D02223": "Sulbactam sodium (JP17/USP)",
+      "D02231": "Cloxacillin sodium (USP)",
+      "D02241": "Ticarcillin disodium (USP)",
+      "D02251": "Piperacillin (USP)",
+      "D02336": "Benzylpenicillin (INN)",
+      "D02339": "Azlocillin (USAN/INN)",
+      "D02348": "Dicloxacillin (USAN/INN)",
+      "D02370": "Clavulanate potassium (JP17/USP)",
+      "D02504": "Aspoxicillin hydrate (JP17)",
+      "D02505": "Tazobactam and piperacillin for injection (JP17)",
+      "D02508": "Pivampicillin hydrochloride (USAN)",
+      "D02889": "Amdinocillin pivoxil (USAN)",
+      "D02925": "Amoxicillin sodium (USAN)",
+      "D03387": "Carbenicillin potassium (USAN)",
+      "D03707": "Tazobactam sodium (JAN/USAN)",
+      "D04196": "Floxacillin (USAN)",
+      "D05021": "Mezlocillin (USAN/INN)",
+      "D05022": "Mezlocillin sodium (USP)",
+      "D05220": "Octanoic acid (USAN/INN)",
+      "D05221": "Octazamide (USAN/INN)",
+      "D05408": "Penicillin G sodium (USP)",
+      "D05411": "Penicillin V (USP)",
+      "D05972": "Sultamicillin (USAN/INN)",
+      "D06137": "Ticarcillin cresyl sodium (USAN)",
+      "D06138": "Ticarcillin monosodium (USP)",
+      "D07452": "Amoxicillin (INN)",
+      "D07469": "Aspoxicillin (JAN/INN)",
+      "D07487": "Bacampicillin (INN)",
+      "D07614": "Carbenicillin (INN)",
+      "D07621": "Carindacillin (INN)",
+      "D07711": "Clavulanic acid (INN)",
+      "D07733": "Cloxacillin (INN)",
+      "D07965": "Flucloxacillin sodium salt",
+      "D08110": "Lenampicillin (INN)",
+      "D08307": "Oxacillin (INN)",
+      "D08350": "Pheneticillin (INN)",
+      "D08360": "Phenoxymethylpenicillin calcium",
+      "D08380": "Piperacillin (INN)",
+      "D08396": "Pivampicillin (INN)",
+      "D08438": "Propicillin (BAN)",
+      "D08533": "Sulbactam (INN)",
+      "D08534": "Sulbenicillin (INN)",
+      "D08557": "Talampicillin (INN)",
+      "D08593": "Ticarcillin (INN)"
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": ""
+  }
+]

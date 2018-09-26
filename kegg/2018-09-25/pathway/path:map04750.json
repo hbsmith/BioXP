@@ -1,0 +1,495 @@
+[
+  {
+    "entry_id": "map04750",
+    "name": "Inflammatory mediator regulation of TRP channels",
+    "description": "The TRP channels that exhibit a unique response to temperature have been given the name thermo-TRPs. Among all thermo- TRP channels, TRPV1-4, TRPM8, and TRPA1 are expressed in subsets of nociceptive dorsal root ganglion (DRG) neuron cell bodies including their peripheral and central projections. These channels can be modulated indirectly by inflammatory mediators such as PGE2, bradykinin, ATP, NGF, and proinflammatory cytokines that are generated during tissue injury. While the noxious heat receptor TRPV1 is sensitized (that is, their excitability can be increased) by post-translational modifications upon activation of G-protein coupled receptors (GPCRs) or tyrosine kinase receptors, the receptors for inflammatory mediators, the same action appears to mainly desensitize TRPM8, the main somatic innocuous cold sensor. This aforementioned sensitization could allow the receptor to become active at body temperature, so it not only contributes toward thermal hypersensitivity but also is possibly a substrate for ongoing persistent pain.",
+    "classes": [
+      "Organismal Systems",
+      "Sensory system"
+    ],
+    "diseases": {
+      "H01391": "Familial episodic pain syndrome"
+    },
+    "dblinks": {
+      "GO": [
+        "0019233"
+      ]
+    },
+    "pathways": {
+      "map04750": "Inflammatory mediator regulation of TRP channels"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Wang H",
+          "Woolf CJ"
+        ],
+        "title": "Pain TRPs.",
+        "journal": "Neuron 46:9-12 (2005) DOI:10.1016/j.neuron.2005.03.011",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15820689",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Levine JD",
+          "Alessandri-Haber N"
+        ],
+        "title": "TRP channels: targets for the relief of pain.",
+        "journal": "Biochim Biophys Acta 1772:989-1003 (2007) DOI:10.1016/j.bbadis.2007.01.008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17321113",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Cheng JK",
+          "Ji RR"
+        ],
+        "title": "Intracellular signaling in primary sensory neurons and persistent pain.",
+        "journal": "Neurochem Res 33:1970-8 (2008) DOI:10.1007/s11064-008-9711-z",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "18427980",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Julius D"
+        ],
+        "title": "TRP channels and pain.",
+        "journal": "Annu Rev Cell Dev Biol 29:355-84 (2013) DOI:10.1146/annurev-cellbio-101011-155833",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24099085",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Patapoutian A",
+          "Peier AM",
+          "Story GM",
+          "Viswanath V"
+        ],
+        "title": "ThermoTRP channels and beyond: mechanisms of temperature sensation.",
+        "journal": "Nat Rev Neurosci 4:529-39 (2003) DOI:10.1038/nrn1141",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12838328",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Dhaka A",
+          "Viswanath V",
+          "Patapoutian A"
+        ],
+        "title": "Trp ion channels and temperature sensation.",
+        "journal": "Annu Rev Neurosci 29:135-61 (2006) DOI:10.1146/annurev.neuro.29.051605.112958",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16776582",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Story GM"
+        ],
+        "title": "The emerging role of TRP channels in mechanisms of temperature and pain sensation.",
+        "journal": "Curr Neuropharmacol",
+        "volume": "4",
+        "issue": "",
+        "pages": "183-96",
+        "year": "2006",
+        "pubmed": "18615141",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Velazquez KT",
+          "Mohammad H",
+          "Sweitzer SM"
+        ],
+        "title": "Protein kinase C in pain: involvement of multiple isoforms.",
+        "journal": "Pharmacol Res 55:578-89 (2007) DOI:10.1016/j.phrs.2007.04.006",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17548207",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Zhang X",
+          "Huang J",
+          "McNaughton PA"
+        ],
+        "title": "NGF rapidly increases membrane expression of TRPV1 heat-gated ion channels.",
+        "journal": "EMBO J 24:4211-23 (2005) DOI:10.1038/sj.emboj.7600893",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16319926",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Bessac BF",
+          "Jordt SE"
+        ],
+        "title": "Breathtaking TRP channels: TRPA1 and TRPV1 in airway chemosensation and reflex control.",
+        "journal": "Physiology (Bethesda) 23:360-70 (2008) DOI:10.1152/physiol.00026.2008",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "19074743",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Trevisani M",
+          "Siemens J",
+          "Materazzi S",
+          "Bautista DM",
+          "Nassini R",
+          "Campi B",
+          "Imamachi N",
+          "Andre E",
+          "Patacchini R",
+          "Cottrell GS",
+          "Gatti R",
+          "Basbaum AI",
+          "Bunnett NW",
+          "Julius D",
+          "Geppetti P"
+        ],
+        "title": "4-Hydroxynonenal, an endogenous aldehyde, causes pain and neurogenic inflammation through activation of the irritant receptor TRPA1.",
+        "journal": "Proc Natl Acad Sci U S A 104:13519-24 (2007) DOI:10.1073/pnas.0705923104",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17684094",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Latorre R",
+          "Brauchi S",
+          "Madrid R",
+          "Orio P"
+        ],
+        "title": "A cool channel in cold transduction.",
+        "journal": "Physiology (Bethesda) 26:273-85 (2011) DOI:10.1152/physiol.00004.2011",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "21841075",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Babes A",
+          "Ciobanu AC",
+          "Neacsu C",
+          "Babes RM"
+        ],
+        "title": "TRPM8, a sensor for mild cooling in mammalian sensory nerve endings.",
+        "journal": "Curr Pharm Biotechnol 12:78-88 (2011) DOI:10.2174/138920111793937835",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20932256",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Loyd DR",
+          "Henry MA",
+          "Hargreaves KM"
+        ],
+        "title": "Serotonergic neuromodulation of peripheral nociceptors.",
+        "journal": "Semin Cell Dev Biol 24:51-7 (2013) DOI:10.1016/j.semcdb.2012.09.002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "23000387",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Grant AD",
+          "Cottrell GS",
+          "Amadesi S",
+          "Trevisani M",
+          "Nicoletti P",
+          "Materazzi S",
+          "Altier C",
+          "Cenac N",
+          "Zamponi GW",
+          "Bautista-Cruz F",
+          "Lopez CB",
+          "Joseph EK",
+          "Levine JD",
+          "Liedtke W",
+          "Vanner S",
+          "Vergnolle N",
+          "Geppetti P",
+          "Bunnett NW"
+        ],
+        "title": "Protease-activated receptor 2 sensitizes the transient receptor potential vanilloid 4 ion channel to cause mechanical hyperalgesia in mice.",
+        "journal": "J Physiol 578:715-33 (2007) DOI:10.1113/jphysiol.2006.121111",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17124270",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mandadi S",
+          "Armati PJ",
+          "Roufogalis BD"
+        ],
+        "title": "Protein kinase C modulation of thermo-sensitive transient receptor potential channels: Implications for pain signaling.",
+        "journal": "J Nat Sci Biol Med 2:13-25 (2011) DOI:10.4103/0976-9668.82311",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22470230",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko04750"
+  }
+]

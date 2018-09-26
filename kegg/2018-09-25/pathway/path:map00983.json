@@ -1,0 +1,620 @@
+[
+  {
+    "entry_id": "map00983",
+    "name": "Drug metabolism - other enzymes",
+    "description": "",
+    "classes": [
+      "Metabolism",
+      "Xenobiotics biodegradation and metabolism"
+    ],
+    "diseases": {
+      "H00193": "Dihydropyrimidine dehydrogenase deficiency",
+      "H00199": "Dihydropyrimidinase deficiency",
+      "H00200": "Beta-ureidopropionase deficiency",
+      "H00964": "Thiopurine S-methyltransferase deficiency (TPMT deficiency)"
+    },
+    "dblinks": {
+    },
+    "pathways": {
+      "map00983": "Drug metabolism - other enzymes"
+    },
+    "orthologs": {
+    },
+    "references": [
+      {
+        "authors": [
+          "Kato R",
+          "Kamatari T (eds)."
+        ],
+        "title": "[Drug Metabolism] (In Japanese)",
+        "journal": "Tokyo Kagaku Dojin",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "2000",
+        "pubmed": "",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Al Hadithy AF",
+          "de Boer NK",
+          "Derijks LJ",
+          "Escher JC",
+          "Mulder CJ",
+          "Brouwers JR."
+        ],
+        "title": "Thiopurines in inflammatory bowel disease: pharmacogenetics, therapeutic drug monitoring and clinical recommendations.",
+        "journal": "Dig Liver Dis 37:282-97 (2005) DOI:10.1016/j.dld.2004.09.029",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15788214",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gearry RB",
+          "Barclay ML."
+        ],
+        "title": "Azathioprine and 6-mercaptopurine pharmacogenetics and metabolite monitoring in inflammatory bowel disease.",
+        "journal": "J Gastroenterol Hepatol 20:1149-57 (2005) DOI:10.1111/j.1440-1746.2005.03832.x",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16048561",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Gilissen LP",
+          "Derijks LJ",
+          "Verhoeven HM",
+          "Bierau J",
+          "Hooymans PM",
+          "Hommes DW",
+          "Engels LG."
+        ],
+        "title": "Pancytopenia due to high 6-methylmercaptopurine levels in a 6-mercaptopurine treated patient with Crohn's disease.",
+        "journal": "Dig Liver Dis 39:182-6 (2007) DOI:10.1016/j.dld.2006.05.026",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "16880012",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Fischel JL",
+          "Formento P",
+          "Ciccolini J",
+          "Etienne-Grimaldi MC",
+          "Milano G."
+        ],
+        "title": "Lack of contribution of dihydrofluorouracil and alpha-fluoro-beta-alanine to the cytotoxicity of 5'-deoxy-5-fluorouridine on human keratinocytes.",
+        "journal": "Anticancer Drugs",
+        "volume": "15",
+        "issue": "",
+        "pages": "969-74",
+        "year": "2004",
+        "pubmed": "15514566",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Shimma N",
+          "Umeda I",
+          "Arasaki M",
+          "Murasaki C",
+          "Masubuchi K",
+          "Kohchi Y",
+          "Miwa M",
+          "Ura M",
+          "Sawada N",
+          "Tahara H",
+          "Kuruma I",
+          "Horii I",
+          "Ishitsuka H."
+        ],
+        "title": "The design and synthesis of a new tumor-selective fluoropyrimidine carbamate, capecitabine.",
+        "journal": "Bioorg Med Chem 8:1697-706 (2000) DOI:10.1016/S0968-0896(00)00087-0",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "10976516",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Chung YL",
+          "Troy H",
+          "Judson IR",
+          "Leek R",
+          "Leach MO",
+          "Stubbs M",
+          "Harris AL",
+          "Griffiths JR"
+        ],
+        "title": "Noninvasive measurements of capecitabine metabolism in bladder tumors overexpressing thymidine phosphorylase by fluorine-19 magnetic resonance spectroscopy.",
+        "journal": "Clin Cancer Res 10:3863-70 (2004) DOI:10.1158/1078-0432.CCR-03-0237",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "15173095",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Mathijssen RH",
+          "van Alphen RJ",
+          "Verweij J",
+          "Loos WJ",
+          "Nooter K",
+          "Stoter G",
+          "Sparreboom A"
+        ],
+        "title": "Clinical pharmacokinetics and metabolism of irinotecan (CPT-11).",
+        "journal": "Clin Cancer Res",
+        "volume": "7",
+        "issue": "",
+        "pages": "2182-94",
+        "year": "2001",
+        "pubmed": "11489791",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Kita T",
+          "Tanigawara Y",
+          "Chikazawa S",
+          "Hatanaka H",
+          "Sakaeda T",
+          "Komada F",
+          "Iwakawa S",
+          "Okumura K."
+        ],
+        "title": "N-Acetyltransferase2 genotype correlated with isoniazid acetylation in Japanese tuberculous patients.",
+        "journal": "Biol Pharm Bull 24:544-9 (2001) DOI:10.1248/bpb.24.544",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "11379777",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Miura K",
+          "Kinouchi M",
+          "Ishida K",
+          "Fujibuchi W",
+          "Naitoh T",
+          "Ogawa H",
+          "Ando T",
+          "Yazaki N",
+          "Watanabe K",
+          "Haneda S",
+          "Shibata C",
+          "Sasaki I"
+        ],
+        "title": "5-fu metabolism in cancer and orally-administrable 5-fu drugs.",
+        "journal": "Cancers (Basel) 2:1717-30 (2010) DOI:10.3390/cancers2031717",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "24281184",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Wang P",
+          "Pradhan K",
+          "Zhong XB",
+          "Ma X"
+        ],
+        "title": "Isoniazid metabolism and hepatotoxicity.",
+        "journal": "Acta Pharm Sin B 6:384-392 (2016) DOI:10.1016/j.apsb.2016.07.014",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27709007",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Klein DJ",
+          "Boukouvala S",
+          "McDonagh EM",
+          "Shuldiner SR",
+          "Laurieri N",
+          "Thorn CF",
+          "Altman RB",
+          "Klein TE"
+        ],
+        "title": "PharmGKB summary: isoniazid pathway, pharmacokinetics.",
+        "journal": "Pharmacogenet Genomics 26:436-44 (2016) DOI:10.1097/FPC.0000000000000232",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "27232112",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Yamada S",
+          "Richardson K",
+          "Tang M",
+          "Halaschek-Wiener J",
+          "Cook VJ",
+          "Fitzgerald JM",
+          "Elwood K",
+          "Marra F",
+          "Brooks-Wilson A"
+        ],
+        "title": "Genetic variation in carboxylesterase genes and susceptibility to isoniazid-induced hepatotoxicity.",
+        "journal": "Pharmacogenomics J 10:524-36 (2010) DOI:10.1038/tpj.2010.5",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20195289",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Vlasits J",
+          "Jakopitsch C",
+          "Bernroitner M",
+          "Zamocky M",
+          "Furtmuller PG",
+          "Obinger C"
+        ],
+        "title": "Mechanisms of catalase activity of heme peroxidases.",
+        "journal": "Arch Biochem Biophys 500:74-81 (2010) DOI:10.1016/j.abb.2010.04.018",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "20434429",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Khan SR",
+          "Morgan AG",
+          "Michail K",
+          "Srivastava N",
+          "Whittal RM",
+          "Aljuhani N",
+          "Siraki AG"
+        ],
+        "title": "Metabolism of isoniazid by neutrophil myeloperoxidase leads to isoniazid-NAD(+) adduct formation: A comparison of the reactivity of isoniazid with its known human metabolites.",
+        "journal": "Biochem Pharmacol 106:46-55 (2016) DOI:10.1016/j.bcp.2016.02.003",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "26867495",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Forbes LV",
+          "Furtmuller PG",
+          "Khalilova I",
+          "Turner R",
+          "Obinger C",
+          "Kettle AJ"
+        ],
+        "title": "Isoniazid as a substrate and inhibitor of myeloperoxidase: identification of amine adducts and the influence of superoxide dismutase on their formation.",
+        "journal": "Biochem Pharmacol 84:949-60 (2012) DOI:10.1016/j.bcp.2012.07.020",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "22846601",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Nguyen M",
+          "Quemard A",
+          "Broussy S",
+          "Bernadou J",
+          "Meunier B"
+        ],
+        "title": "Mn(III) pyrophosphate as an efficient tool for studying the mode of action of isoniazid on the InhA protein of Mycobacterium tuberculosis.",
+        "journal": "Antimicrob Agents Chemother 46:2137-44 (2002) DOI:10.1128/AAC.46.7.2137-2144.2002",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "12069966",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Rozwarski DA",
+          "Grant GA",
+          "Barton DH",
+          "Jacobs WR Jr",
+          "Sacchettini JC"
+        ],
+        "title": "Modification of the NADH of the isoniazid target (InhA) from Mycobacterium tuberculosis.",
+        "journal": "Science 279:98-102 (1998) DOI:10.1126/science.279.5347.98",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "9417034",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      },
+      {
+        "authors": [
+          "Argyrou A",
+          "Vetting MW",
+          "Blanchard JS"
+        ],
+        "title": "New insight into the mechanism of action of and resistance to isoniazid: interaction of Mycobacterium tuberculosis enoyl-ACP reductase with INH-NADP.",
+        "journal": "J Am Chem Soc 129:9582-3 (2007) DOI:10.1021/ja073160k",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "year": "",
+        "pubmed": "17636923",
+        "medline": "",
+        "doi": null,
+        "abstract": "",
+        "url": null,
+        "mesh": [
+
+        ],
+        "embl_gb_record_number": null,
+        "sequence_position": null,
+        "comments": null,
+        "affiliations": [
+
+        ]
+      }
+    ],
+    "modules": {
+    },
+    "organism": "",
+    "genes": {
+    },
+    "enzymes": [
+
+    ],
+    "reactions": {
+    },
+    "compounds": {
+    },
+    "rel_pathways": {
+    },
+    "ko_pathway": "ko00983"
+  }
+]
