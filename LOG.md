@@ -1,4 +1,4 @@
-###Gathering Data
+### Gathering Data
 
 - Use KEGG_REST_API to download list of all KEGG:
 
@@ -151,4 +151,9 @@ Sara notes:
   - pH: Alkaliphile (these can grow in pH ~10)
 - Enceladus proprties:
   - pH of 9-11 (Seewald 2017 Science)
+
+### 9-26-2018 Wednesday
+
+- cleaned up code in the bioxp repository. Everything should be ready to write the actual network expansion algorithm at this point. 
+- No files are saved in a "network" or "graph" format, but I have all the relationship data in the various json files. 
 
