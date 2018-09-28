@@ -157,3 +157,11 @@ Sara notes:
 - cleaned up code in the bioxp repository. Everything should be ready to write the actual network expansion algorithm at this point. 
 - No files are saved in a "network" or "graph" format, but I have all the relationship data in the various json files. 
 
+### 9-27-2018 Thursday
+
+- For individual organisms, I need to write a function which:
+  -  parses the individual organisms enzymes
+  -  maps them to reactions
+  -  calls the main `reaction_edges.json` to find substrates/products of these reactions to include in scope and build inputs to the network expansion algorithm (e.g. the Reactant and Product matrices). Other inputs include seed compounds, master target compounds, and intersection of current scope with master target compounds to find organismal specific target compounds.
+  -  When I loop through the algorithm, I will store the single step compounds, reactions, maps added, and the running total of them.
+-  Need to update my pages outline with info from the two most recent papers I read, and the papers I skimmed today about algorithms for finding all minimal seed sets for specific target compounds for organisms.
