@@ -48,11 +48,17 @@ def get_domains_url_from_jgi_img_homepage(driver,homepage_url,domain,database='j
     else:
         raise ValueError("Database must be 'jgi' or 'all'")
 
-    match = re.search(regex, htmlSource)
-    suffix = match.group(1)
-    domain_url = homepage_url+suffix
+    ## All bacteria html not present on jgi homepage
+    if domain=='bacteria' and database=='all':
+        raise Warning("This is unstable and unreliable at the moment.")
+        return "https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonList&page=taxonListAlpha&domain=Bacteria"
 
-    return domain_url
+    else:
+        match = re.search(regex, htmlSource)
+        suffix = match.group(1)
+        domain_url = homepage_url+suffix
+
+        return domain_url
 
 def get_domain_json_from_domain_url(driver,domain_url):
     """
@@ -63,7 +69,7 @@ def get_domain_json_from_domain_url(driver,domain_url):
     """
 
     driver.get(domain_url)
-    time.sleep(5)
+    time.sleep(5) ## This value might need to be increased to 60 seconds if domain==bacteria and database==all
     htmlSource = driver.page_source
     # driver.quit()
 
@@ -219,16 +225,16 @@ def main():
 
     driver = activate_driver()
     homepage_url = 'https://img.jgi.doe.gov/cgi-bin/m/main.cgi'
-    domain = 'eukarya'
-    database = 'jgi'
-    save_dir = '2018-09-29/ph_jsons/'
+    domain = 'bacteria'
+    database = 'all'
+    save_dir = 'jgi/2018-09-29/ph_jsons/%s/'%domain
 
     if not os.path.exists(save_dir):
         os.makedirs(save_dir)
 
     jgi_eukarya = list()
 
-    print "Scraping all eukarya genomes ..."
+    print "Scraping all %s genomes ..."%domain
 
     ## Get all urls from the domain
     domain_url = get_domains_url_from_jgi_img_homepage(driver,homepage_url,domain,database=database)
