@@ -221,7 +221,7 @@ def main():
     homepage_url = 'https://img.jgi.doe.gov/cgi-bin/m/main.cgi'
     domain = 'eukarya'
     database = 'jgi'
-    save_dir = 'jgi_ph_domain_jsons_20180929'
+    save_dir = '2018-09-29/ph_jsons/'
 
     if not os.path.exists(save_dir):
         os.makedirs(save_dir)
@@ -251,7 +251,7 @@ def main():
 
         jgi_eukarya.append(enzyme_json)
 
-        with open(save_dir+'/'+taxon_id+'.json', 'w') as outfile:
+        with open(save_dir+taxon_id+'.json', 'w') as outfile:
     
             json.dump(enzyme_json,outfile)
 
