@@ -219,13 +219,83 @@ def get_enzyme_json_from_enzyme_url(driver,enzyme_url):
 
 #     return enzyme_dict
 
+###############################################################
+## get URLs for pH specific scraping
+###############################################################
+def load_json(fname):
+    """
+    Wrapper to load json in single line
 
+    :param fname: the filepath to the json file
+    """
+    with open(fname) as f:
+        return json.load(f)
+
+## Tested and works
+def check_overlap_number(range_1,i):
+    if (i>=min(range_1)) and (i<=max(range_1)):
+        return True
+    else:
+        return False
+
+## Tested and works
+def check_overlap_ranges(range_1,range_2):
+    # order the ranges so that the range with the smallest min is first
+    # check if the min of range2 is less than the max of range 1
+    ranges = [range_1,range_2]
+    if min(range_2)<min(range_1):
+        ranges = ranges[::-1]
+    if min(ranges[1])<=max(ranges[0]):
+        return True
+    else:
+        return False
+
+def get_entries_within_ph_range(records, desired_ph_range):
+    entries_with_phs_in_range = list()
+    for entry in records:
+        in_desired_ph_range = False
+        ph_range_str = entry['pH'].split('-')
+
+        if len(ph_range_str) == 1:
+            try:
+                ph = float(ph_range_str[0])
+                in_desired_ph_range = check_overlap_number(desired_ph_range,ph)
+
+            except:
+                pass
+        elif len(ph_range_str) == 2:
+            try:
+                ph_min = float(ph_range_str[0])
+                ph_max = float(ph_range_str[1])
+                ph = (ph_min,ph_max)
+                in_desired_ph_range = check_overlap_ranges(desired_ph_range,ph)
+            except:
+                pass
+        
+        if in_desired_ph_range == True:
+            entries_with_phs_in_range.append(entry)
+    
+    return entries_with_phs_in_range
+
+def format_urls_for_scraping(homepage_url,entries_with_phs_in_range):
+    all_GenomeNameSampleNameDisp =  [d['GenomeNameSampleNameDisp'] for d in entries_with_phs_in_range]
+
+    organism_urls = list()
+
+    for htmlandjunk in all_GenomeNameSampleNameDisp:
+        regex = r"<a href='main\.cgi(.*)'>"
+        match = re.search(regex, htmlandjunk)
+        html_suffix = match.group(1)
+        full_url = homepage_url+html_suffix
+        organism_urls.append(full_url)
+
+    return organism_urls
 
 def main():
 
     driver = activate_driver()
     homepage_url = 'https://img.jgi.doe.gov/cgi-bin/m/main.cgi'
-    domain = 'bacteria'
+    domain = 'archaea'
     database = 'all'
     save_dir = 'jgi/2018-09-29/ph_jsons/%s/'%domain
 
@@ -237,9 +307,23 @@ def main():
     print "Scraping all %s genomes ..."%domain
 
     ## Get all urls from the domain
-    domain_url = get_domains_url_from_jgi_img_homepage(driver,homepage_url,domain,database=database)
-    domain_json = get_domain_json_from_domain_url(driver,domain_url)
-    organism_urls = get_organism_urls_from_domain_json(driver,homepage_url,domain_json)
+    # domain_url = get_domains_url_from_jgi_img_homepage(driver,homepage_url,domain,database=database)
+    # domain_json = get_domain_json_from_domain_url(driver,domain_url)
+    # organism_urls = get_organism_urls_from_domain_json(driver,homepage_url,domain_json)
+
+    ## Get pH specific urls from the domain
+    if domain=='archaea':
+        metadata = load_json("jgi/metadata/archaea_metadata.json")
+    elif domain=='bacteria':
+        metadata = load_json("jgi/metadata/bacteria_metadata_subset.json")
+    elif domain=='eukarya':
+        raise Warning("Eukarya do not have any organisms in range currently")
+        metadata = load_json("jgi/metadata/eukarya_metadata.json")
+
+    records = metadata['records']
+    ph_range = (9.0,11.0)
+    entries_with_phs_in_range = get_entries_within_ph_range(records,ph_range)
+    organism_urls = format_urls_for_scraping(homepage_url,entries_with_phs_in_range)
 
     ## 
     for organism_url in organism_urls:
