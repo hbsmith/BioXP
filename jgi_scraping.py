@@ -295,7 +295,7 @@ def main():
 
     driver = activate_driver()
     homepage_url = 'https://img.jgi.doe.gov/cgi-bin/m/main.cgi'
-    domain = 'archaea'
+    domain = 'bacteria'
     database = 'all'
     save_dir = 'jgi/2018-09-29/ph_jsons/%s/'%domain
 
