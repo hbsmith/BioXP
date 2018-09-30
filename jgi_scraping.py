@@ -355,7 +355,7 @@ def main():
 
     print "Writing json to file..."
 
-    combined_json_fname = 'jgi_ph_%s.json'%domain
+    combined_json_fname = 'jgi/2018-09-29/ph_jsons/jgi_ph_%s.json'%domain
     with open(combined_json_fname, 'w') as outfile:
         
         json.dump(jgi_eukarya,outfile)
