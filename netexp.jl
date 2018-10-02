@@ -94,6 +94,69 @@ function netexp(R::Array{Int,2},P::Array{Int,2},x::Array{Int,1})
     (X,Y)
 end
 
+function prepare_to_write_netexp_results(x::Array{Int,1},t::Array{Int,1},compounds::Array{String,1},reactions::Array{String,1},X::Array{Any,1},Y::Array{Any,1})
+    data = Dict("stats"=>Dict(),"generations"=>Dict())
+
+    ## Store data about the scope, about the equilibrium
+    data["stats"]["scope_compounds"] = compounds
+    data["stats"]["scope_reactions"] = reactions
+    data["stats"]["scope_seeds"] = [compounds[i] for i in 1:length(x) if Bool(x[i])]
+    data["stats"]["scope_targets"] = [compounds[i] for i in 1:length(t) if Bool(t[i])]
+    
+    # [Int(i in seed_list) for i in compounds]
+
+    ## Store data by generation
+    n_generations = length(X)-1 ## Last two generations are repeated for compounds
+    for gen in 1:n_generations:
+        
+        data["generations"][gen] = Dict()
+        # data["generations"][gen]["reactions_cumulative"] = []
+        data["generations"][gen]["compounds_cumulative"] = []
+        data["generations"][gen]["targets_cumulative"] = []
+        data["generations"][gen]["reactions_new"] = []
+        data["generations"][gen]["compounds_new"] = []
+        data["generations"][gen]["targets_new"] = []
+        
+
+        
+        ## Add cumulative reaction list for each generation
+        data["generations"][gen]["reactions_cumulative"] = [reactions[i] for i in 1:length(reactions) if Bool(Y[gen][i])]
+        ## Alternative way to write
+        # for (i,r) in enumerate(reactions)
+        #     if Y[gen][i]==1
+        #         push!(data["generations"][gen]["reactions_cumulative"],reactions[i])
+        #     end
+        # end
+
+        ## Add cumulative compound and target list for each generation
+        # data["generations"][gen]["compounds_cumulative"] = [compounds[i] for i in 1:length(compounds) if Bool(X[gen][i])]
+        for (i,c) in enumerate(compounds)
+            if X[gen][i]==1
+                push!(data["generations"][gen]["compounds_cumulative"],compounds[i])
+                if t[i]==1
+                    push!(data["generations"][gen]["targets_cumulative"],compounds[i])
+                end
+            end
+        end
+
+        ## Store new reactions and compounds
+        if gen==1
+            data["generations"][gen]["reactions_new"] = collect(Set(data["generations"][gen]["reactions_cumulative"])) 
+            data["generations"][gen]["compounds_new"] = collect(Set(data["generations"][gen]["compounds_cumulative"])) 
+            data["generations"][gen]["targets_new"] = collect(Set(data["generations"][gen]["targets_cumulative"])) 
+        end
+
+        if gen!=1
+            data["generations"][gen]["reactions_new"] = setdiff(Set(data["generations"][gen]["reactions_cumulative"]) - Set(data["generations"][gen-1]["reactions_cumulative"]))
+            data["generations"][gen]["compounds_new"] = setdiff(Set(data["generations"][gen]["compounds_cumulative"]) - Set(data["generations"][gen-1]["compounds_cumulative"]))
+            data["generations"][gen]["targets_new"] = setdiff(Set(data["generations"][gen]["targets_cumulative"]) - Set(data["generations"][gen-1]["targets_cumulative"]))
+        end
+    end
+    
+    data
+end
+
+
 # seed_compounds = JSON.parsefile("../seeds.json");
 # x = [Int(i in seed_compounds["Enceladus_20-SAFR-032"]) for i in compounds];
 
@@ -116,62 +179,11 @@ end
 
 # ds80_seeds = ["C00031","C00001"]
 
-
-
 reaction_edges_json = "kegg/2018-09-25/reaction_edges.json"
-target_json = "../targets/Freilich09.json"
-seed_json = "../seeds.json"
+target_json = "targets/Freilich09.json"
+seed_json = "seeds.json"
 
 (R,P,compounds,reactions,t) = prepare_matrices_and_targets(reaction_edges_json,target_json)
 x = prepare_seeds(seed_list,compounds)
 (X,Y) = netexp(R,P,x)
-
-
-function write_netexp_results(x::Array{Int,1},t::Array{Int,1},compounds::Array{String,1},reactions::Array{String,1},X::Array{Any,1},Y::Array{Any,1})
-    data = Dict("stats"=>Dict(),"generations"=>Dict())
-
-    ## Store data about the scope, about the equilibrium
-
-    ## Store data by generation
-    n_generations = length(X)-1 ## Last two generations are repeated for compounds
-    for gen in 1:n_generations:
-        
-        data["generations"][gen] = Dict()
-        data["generations"][gen]["reactions_cumulative"] = []
-        data["generations"][gen]["compounds_cumulative"] = []
-        data["generations"][gen]["reactions_new"] = []
-        data["generations"][gen]["compounds_new"] = []
-        
-        ## Add cumulative reaction list for each generation
-        for (i,r) in enumerate(reactions)
-            if Y[gen][i]==1
-                push!(data["generations"][gen]["reactions_cumulative"],reactions[i])
-            end
-        end
-
-        ## Add cumulative compound list for each generation
-        for (i,c) in enumerate(compounds)
-            if X[gen][i]==1
-                push!(data["generations"][gen]["compounds_cumulative"],compounds[i])
-            end
-        end
-
-        ## Store new reactions and compounds
-        if gen!=1
-            data["generations"][gen]["reactions_new"] = setdiff(Set(data["generations"][gen]["reactions_cumulative"]) - Set(data["generations"][gen-1]["reactions_cumulative"]))
-            data["generations"][gen]["compounds_new"] = setdiff(Set(data["generations"][gen]["compounds_cumulative"]) - Set(data["generations"][gen-1]["compounds_cumulative"]))
-
-        ## Store cumulative percent of reactions in scope
-        ## Store cumulative percent of compounds in scope
-
-        ## Store cumulative targets
-        ## Store new targets
-        ## Store cumulative percent of targets
-
-        for i in 1:length(X)
-            println(sum(X[i]))
-        end
-
-        for i in 1:length(Y)
-            println(sum(Y[i]))
-        end
+data = prepare_to_write_netexp_results(x,t,compounds,reactions,X,Y)
