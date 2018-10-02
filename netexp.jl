@@ -107,7 +107,7 @@ function prepare_to_write_netexp_results(x::Array{Int,1},t::Array{Int,1},compoun
 
     ## Store data by generation
     n_generations = length(X)-1 ## Last two generations are repeated for compounds
-    for gen in 1:n_generations:
+    for gen in 1:n_generations
         
         data["generations"][gen] = Dict()
         # data["generations"][gen]["reactions_cumulative"] = []
@@ -193,7 +193,7 @@ seed_json = "seeds.json"
 fsplit = split(reaction_edges_json,"/")
 # path = "results/netexpdata_jsons/"*fsplit[end-2]*"/"*fsplit[end-1]
 path = "results/data_glucose_test/"*fsplit[end-2]*"/"*fsplit[end-1]
-if not ispath(path)
+if ispath(path)==false
     mkpath(path)
 end
 
