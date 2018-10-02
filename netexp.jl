@@ -156,6 +156,12 @@ function prepare_to_write_netexp_results(x::Array{Int,1},t::Array{Int,1},compoun
     data
 end
 
+# # pass data as a json string (how it shall be displayed in a file)
+# stringdata = JSON.json(dict1)
+# # write the file with the stringdata variable information
+# open("write_read.json", "w") do f
+#     write(f, stringdata)
+# end
 
 # seed_compounds = JSON.parsefile("../seeds.json");
 # x = [Int(i in seed_compounds["Enceladus_20-SAFR-032"]) for i in compounds];
@@ -177,13 +183,27 @@ end
 # "C00007",
 # "C00001"]
 
-# ds80_seeds = ["C00031","C00001"]
-
+## Inputs
+ds80_seeds = ["C00031","C00001"]
 reaction_edges_json = "kegg/2018-09-25/reaction_edges.json"
 target_json = "targets/Freilich09.json"
 seed_json = "seeds.json"
 
+## Create out path
+fsplit = split(reaction_edges_json,"/")
+# path = "results/netexpdata_jsons/"*fsplit[end-2]*"/"*fsplit[end-1]
+path = "results/data_glucose_test/"*fsplit[end-2]*"/"*fsplit[end-1]
+if not ispath(path)
+    mkpath(path)
+end
+
+## DO MAIN
 (R,P,compounds,reactions,t) = prepare_matrices_and_targets(reaction_edges_json,target_json)
-x = prepare_seeds(seed_list,compounds)
+x = prepare_seeds(ds80_seeds,compounds)
 (X,Y) = netexp(R,P,x)
 data = prepare_to_write_netexp_results(x,t,compounds,reactions,X,Y)
+
+## Write out
+open(path*"data_glucose_test.json","w") do f
+    JSON.print(f, data)
+end
