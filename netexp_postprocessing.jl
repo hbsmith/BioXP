@@ -62,27 +62,73 @@ function formatted_netexp_results(x::Array{Int,1},t::Array{Int,1},compounds::Arr
     data
 end
 
-fullinpath = "results/data_glucose_test/kegg/2018-09-25data_glucose_test.json"
-# fullinpath = path*"data_glucose_test.json"
 
-D = JSON.parsefile(fullinpath)
-x = Array{Int,1}(D["x"])
-t = Array{Int,1}(D["t"])
-compounds = Array{String,1}(D["compounds"])
-reactions = Array{String,1}(D["reactions"])
-X = Array{Any,1}(D["X"])
-Y = Array{Any,1}(D["Y"])
 
-newdata = formatted_netexp_results(x,t,compounds,reactions,X,Y)
+function format_many(DATADIR::String,OUTDIR::String)
 
-fsplit = split(fullinpath,"/")
-outpath = "results_formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+    for FNAME in readdir(DATADIR)
+        
+        FULLINPATH = DATADIR*FNAME
+        FULLOUTPATH = OUTDIR*FNAME
+
+
+        D = JSON.parsefile(fullinpath)
+        x = Array{Int,1}(D["x"])
+        t = Array{Int,1}(D["t"])
+        compounds = Array{String,1}(D["compounds"])
+        reactions = Array{String,1}(D["reactions"])
+        X = Array{Any,1}(D["X"])
+        Y = Array{Any,1}(D["Y"])
+
+        newdata = formatted_netexp_results(x,t,compounds,reactions,X,Y)
+
+        ## Write out
+        open(FULLOUTPATH,"w") do f
+            JSON.print(f, newdata)
+        end
+    
+    end
+
+end
+
+#########################
+### FORMAT MANY FILES
+#########################
+DATADIR = "results/simple/ph_edge_jsons/archaea/"
+
+fsplit = split(DATADIR,"/")
+OUTDIR = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+
 if ispath(outpath)==false
     mkpath(outpath)
 end
-fulloutpath = outpath*"2018-09-25data_glucose_test.json"
 
-## Write out
-open(fulloutpath,"w") do f
-    JSON.print(f, newdata)
-end
+format_many(DATADIR,OUTDIR)
+
+#########################
+### FORMAT SINGLE FILE
+#########################
+# fullinpath = "results/data_glucose_test/kegg/2018-09-25data_glucose_test.json"
+# # fullinpath = path*"data_glucose_test.json"
+
+# D = JSON.parsefile(fullinpath)
+# x = Array{Int,1}(D["x"])
+# t = Array{Int,1}(D["t"])
+# compounds = Array{String,1}(D["compounds"])
+# reactions = Array{String,1}(D["reactions"])
+# X = Array{Any,1}(D["X"])
+# Y = Array{Any,1}(D["Y"])
+
+# newdata = formatted_netexp_results(x,t,compounds,reactions,X,Y)
+
+# fsplit = split(fullinpath,"/")
+# outpath = "results_formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+# if ispath(outpath)==false
+#     mkpath(outpath)
+# end
+# fulloutpath = outpath*"2018-09-25data_glucose_test.json"
+
+# ## Write out
+# open(fulloutpath,"w") do f
+#     JSON.print(f, newdata)
+# end
