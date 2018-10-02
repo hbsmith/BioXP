@@ -108,68 +108,6 @@ function simple_write_out(outpath::String,x::Array{Int,1},t::Array{Int,1},compou
     end
 end
 
-function prepare_to_write_netexp_results(x::Array{Int,1},t::Array{Int,1},compounds::Array{String,1},reactions::Array{String,1},X::Array{Any,1},Y::Array{Any,1})
-    data = Dict("stats"=>Dict(),"generations"=>Dict())
-
-    ## Store data about the scope, about the equilibrium
-    data["stats"]["scope_compounds"] = compounds
-    data["stats"]["scope_reactions"] = reactions
-    data["stats"]["scope_seeds"] = [compounds[i] for i in 1:length(x) if Bool(x[i])]
-    data["stats"]["scope_targets"] = [compounds[i] for i in 1:length(t) if Bool(t[i])]
-    
-    # [Int(i in seed_list) for i in compounds]
-
-    ## Store data by generation
-    n_generations = length(X)-1 ## Last two generations are repeated for compounds
-    for gen in 1:n_generations
-        
-        data["generations"][gen] = Dict()
-        # data["generations"][gen]["reactions_cumulative"] = []
-        data["generations"][gen]["compounds_cumulative"] = []
-        data["generations"][gen]["targets_cumulative"] = []
-        data["generations"][gen]["reactions_new"] = []
-        data["generations"][gen]["compounds_new"] = []
-        data["generations"][gen]["targets_new"] = []
-        
-
-        
-        ## Add cumulative reaction list for each generation
-        data["generations"][gen]["reactions_cumulative"] = [reactions[i] for i in 1:length(reactions) if Bool(Y[gen][i])]
-        ## Alternative way to write
-        # for (i,r) in enumerate(reactions)
-        #     if Y[gen][i]==1
-        #         push!(data["generations"][gen]["reactions_cumulative"],reactions[i])
-        #     end
-        # end
-
-        ## Add cumulative compound and target list for each generation
-        # data["generations"][gen]["compounds_cumulative"] = [compounds[i] for i in 1:length(compounds) if Bool(X[gen][i])]
-        for (i,c) in enumerate(compounds)
-            if X[gen][i]==1
-                push!(data["generations"][gen]["compounds_cumulative"],compounds[i])
-                if t[i]==1
-                    push!(data["generations"][gen]["targets_cumulative"],compounds[i])
-                end
-            end
-        end
-
-        ## Store new reactions and compounds
-        if gen==1
-            data["generations"][gen]["reactions_new"] = collect(Set(data["generations"][gen]["reactions_cumulative"])) 
-            data["generations"][gen]["compounds_new"] = collect(Set(data["generations"][gen]["compounds_cumulative"])) 
-            data["generations"][gen]["targets_new"] = collect(Set(data["generations"][gen]["targets_cumulative"])) 
-        end
-
-        if gen!=1
-            data["generations"][gen]["reactions_new"] = setdiff(data["generations"][gen]["reactions_cumulative"], data["generations"][gen-1]["reactions_cumulative"])
-            data["generations"][gen]["compounds_new"] = setdiff(data["generations"][gen]["compounds_cumulative"], data["generations"][gen-1]["compounds_cumulative"])
-            data["generations"][gen]["targets_new"] = setdiff(data["generations"][gen]["targets_cumulative"], data["generations"][gen-1]["targets_cumulative"])
-        end
-    end
-    
-    data
-end
-
 # # pass data as a json string (how it shall be displayed in a file)
 # stringdata = JSON.json(dict1)
 # # write the file with the stringdata variable information
@@ -196,7 +134,36 @@ end
 # "C00282",
 # "C00007",
 # "C00001"]
+########################################
+#### MANY NETWORK EXPANSION RUN ######
+########################################
+seedkey = "Enceladus_20-SAFR-032"
 
+SEEDJSON = "seeds.json"
+TARGETJSON = "targets/Freilich09.json"
+DATADIR = "jgi/2018-09-29/ph_edge_jsons/archaea/"
+
+fsplit = split(DATADIR,"/")
+OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+
+if ispath(OUTDIR)==false
+    mkpath(OUTDIR)
+end
+
+for FNAME in readdir(DATADIR)
+    FULLOUTPATH = OUTDIR*FNAME
+
+    ## DO MAIN
+    (R,P,compounds,reactions,t) = prepare_matrices_and_targets(DATADIR*FNAME,TARGETJSON)
+    x = prepare_seeds(SEEDJSON,seedkey,compounds)
+    (X,Y) = netexp(R,P,x)
+    simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
+
+end
+
+########################################
+#### SINGLE NETWORK EXPANSION RUN ######
+########################################
 ## Inputs
 ds80_seeds = ["C00031","C00001"]
 reaction_edges_json = "kegg/2018-09-25/reaction_edges.json"
@@ -218,12 +185,3 @@ fullpath = path*"data_glucose_test.json"
 x = prepare_seeds(ds80_seeds,compounds)
 (X,Y) = netexp(R,P,x)
 simple_write_out(fullpath,x,t,compounds,reactions,X,Y)
-
-
-## Not using
-# data = prepare_to_write_netexp_results(x,t,compounds,reactions,X,Y)
-
-# ## Write out
-# open(path*"data_glucose_test.json","w") do f
-#     JSON.print(f, data)
-# end
