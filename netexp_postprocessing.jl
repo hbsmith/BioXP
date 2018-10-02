@@ -72,7 +72,7 @@ function format_many(DATADIR::String,OUTDIR::String)
         FULLOUTPATH = OUTDIR*FNAME
 
 
-        D = JSON.parsefile(fullinpath)
+        D = JSON.parsefile(FULLINPATH)
         x = Array{Int,1}(D["x"])
         t = Array{Int,1}(D["t"])
         compounds = Array{String,1}(D["compounds"])
@@ -94,13 +94,13 @@ end
 #########################
 ### FORMAT MANY FILES
 #########################
-DATADIR = "results/simple/ph_edge_jsons/archaea/"
+DATADIR = "results/simple/ph_edge_jsons/bacteria/"
 
 fsplit = split(DATADIR,"/")
 OUTDIR = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
 
-if ispath(outpath)==false
-    mkpath(outpath)
+if ispath(OUTDIR)==false
+    mkpath(OUTDIR)
 end
 
 format_many(DATADIR,OUTDIR)
