@@ -108,13 +108,6 @@ function simple_write_out(outpath::String,x::Array{Int,1},t::Array{Int,1},compou
     end
 end
 
-# # pass data as a json string (how it shall be displayed in a file)
-# stringdata = JSON.json(dict1)
-# # write the file with the stringdata variable information
-# open("write_read.json", "w") do f
-#     write(f, stringdata)
-# end
-
 # seed_compounds = JSON.parsefile("../seeds.json");
 # x = [Int(i in seed_compounds["Enceladus_20-SAFR-032"]) for i in compounds];
 
@@ -141,7 +134,7 @@ seedkey = "Enceladus_20-SAFR-032"
 
 SEEDJSON = "seeds.json"
 TARGETJSON = "targets/Freilich09.json"
-DATADIR = "jgi/2018-09-29/ph_edge_jsons/archaea/"
+DATADIR = "jgi/2018-09-29/ph_edge_jsons/bacteria/"
 
 fsplit = split(DATADIR,"/")
 OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
@@ -151,10 +144,11 @@ if ispath(OUTDIR)==false
 end
 
 for FNAME in readdir(DATADIR)
+    FULLINPATH = DATADIR*FNAME
     FULLOUTPATH = OUTDIR*FNAME
 
     ## DO MAIN
-    (R,P,compounds,reactions,t) = prepare_matrices_and_targets(DATADIR*FNAME,TARGETJSON)
+    (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLINPATH,TARGETJSON)
     x = prepare_seeds(SEEDJSON,seedkey,compounds)
     (X,Y) = netexp(R,P,x)
     simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
@@ -164,24 +158,24 @@ end
 ########################################
 #### SINGLE NETWORK EXPANSION RUN ######
 ########################################
-## Inputs
-ds80_seeds = ["C00031","C00001"]
-reaction_edges_json = "kegg/2018-09-25/reaction_edges.json"
-target_json = "targets/Freilich09.json"
-seed_json = "seeds.json"
+# ## Inputs
+# ds80_seeds = ["C00031","C00001"]
+# reaction_edges_json = "kegg/2018-09-25/reaction_edges.json"
+# target_json = "targets/Freilich09.json"
+# seed_json = "seeds.json"
 
-## Create out path
-fsplit = split(reaction_edges_json,"/")
-# path = "results/netexpdata_jsons/"*fsplit[end-2]*"/"*fsplit[end-1]
-path = "results/data_glucose_test/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+# ## Create out path
+# fsplit = split(reaction_edges_json,"/")
+# # path = "results/netexpdata_jsons/"*fsplit[end-2]*"/"*fsplit[end-1]
+# path = "results/data_glucose_test/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
 
-if ispath(path)==false
-    mkpath(path)
-end
-fullpath = path*"data_glucose_test.json"
+# if ispath(path)==false
+#     mkpath(path)
+# end
+# fullpath = path*"data_glucose_test.json"
 
-## DO MAIN
-(R,P,compounds,reactions,t) = prepare_matrices_and_targets(reaction_edges_json,target_json)
-x = prepare_seeds(ds80_seeds,compounds)
-(X,Y) = netexp(R,P,x)
-simple_write_out(fullpath,x,t,compounds,reactions,X,Y)
+# ## DO MAIN
+# (R,P,compounds,reactions,t) = prepare_matrices_and_targets(reaction_edges_json,target_json)
+# x = prepare_seeds(ds80_seeds,compounds)
+# (X,Y) = netexp(R,P,x)
+# simple_write_out(fullpath,x,t,compounds,reactions,X,Y)
