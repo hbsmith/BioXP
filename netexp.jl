@@ -94,6 +94,20 @@ function netexp(R::Array{Int,2},P::Array{Int,2},x::Array{Int,1})
     (X,Y)
 end
 
+function simple_write_out(outpath::String,x::Array{Int,1},t::Array{Int,1},compounds::Array{String,1},reactions::Array{String,1},X::Array{Any,1},Y::Array{Any,1})
+    data = Dict()
+    data["x"] = x
+    data["t"] = t
+    data["compounds"] = compounds
+    data["reactions"] = reactions
+    data["X"] = X
+    data["Y"] = Y
+    
+    open(outpath,"w") do f
+        JSON.print(f, data)
+    end
+end
+
 function prepare_to_write_netexp_results(x::Array{Int,1},t::Array{Int,1},compounds::Array{String,1},reactions::Array{String,1},X::Array{Any,1},Y::Array{Any,1})
     data = Dict("stats"=>Dict(),"generations"=>Dict())
 
@@ -147,9 +161,9 @@ function prepare_to_write_netexp_results(x::Array{Int,1},t::Array{Int,1},compoun
         end
 
         if gen!=1
-            data["generations"][gen]["reactions_new"] = setdiff(Set(data["generations"][gen]["reactions_cumulative"]) - Set(data["generations"][gen-1]["reactions_cumulative"]))
-            data["generations"][gen]["compounds_new"] = setdiff(Set(data["generations"][gen]["compounds_cumulative"]) - Set(data["generations"][gen-1]["compounds_cumulative"]))
-            data["generations"][gen]["targets_new"] = setdiff(Set(data["generations"][gen]["targets_cumulative"]) - Set(data["generations"][gen-1]["targets_cumulative"]))
+            data["generations"][gen]["reactions_new"] = setdiff(data["generations"][gen]["reactions_cumulative"], data["generations"][gen-1]["reactions_cumulative"])
+            data["generations"][gen]["compounds_new"] = setdiff(data["generations"][gen]["compounds_cumulative"], data["generations"][gen-1]["compounds_cumulative"])
+            data["generations"][gen]["targets_new"] = setdiff(data["generations"][gen]["targets_cumulative"], data["generations"][gen-1]["targets_cumulative"])
         end
     end
     
@@ -192,18 +206,24 @@ seed_json = "seeds.json"
 ## Create out path
 fsplit = split(reaction_edges_json,"/")
 # path = "results/netexpdata_jsons/"*fsplit[end-2]*"/"*fsplit[end-1]
-path = "results/data_glucose_test/"*fsplit[end-2]*"/"*fsplit[end-1]
+path = "results/data_glucose_test/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+
 if ispath(path)==false
     mkpath(path)
 end
+fullpath = path*"data_glucose_test.json"
 
 ## DO MAIN
 (R,P,compounds,reactions,t) = prepare_matrices_and_targets(reaction_edges_json,target_json)
 x = prepare_seeds(ds80_seeds,compounds)
 (X,Y) = netexp(R,P,x)
-data = prepare_to_write_netexp_results(x,t,compounds,reactions,X,Y)
+simple_write_out(fullpath,x,t,compounds,reactions,X,Y)
 
-## Write out
-open(path*"data_glucose_test.json","w") do f
-    JSON.print(f, data)
-end
+
+## Not using
+# data = prepare_to_write_netexp_results(x,t,compounds,reactions,X,Y)
+
+# ## Write out
+# open(path*"data_glucose_test.json","w") do f
+#     JSON.print(f, data)
+# end
