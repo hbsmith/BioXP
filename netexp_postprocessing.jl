@@ -1,4 +1,6 @@
-function prepare_to_write_netexp_results(x::Array{Int,1},t::Array{Int,1},compounds::Array{String,1},reactions::Array{String,1},X::Array{Any,1},Y::Array{Any,1})
+import JSON
+
+function formatted_netexp_results(x::Array{Int,1},t::Array{Int,1},compounds::Array{String,1},reactions::Array{String,1},X::Array{Any,1},Y::Array{Any,1})
     data = Dict("stats"=>Dict(),"generations"=>Dict())
 
     ## Store data about the scope, about the equilibrium
@@ -64,18 +66,21 @@ fullinpath = "results/data_glucose_test/kegg/2018-09-25data_glucose_test.json"
 # fullinpath = path*"data_glucose_test.json"
 
 D = JSON.parsefile(fullinpath)
-D["x"] = x
-D["t"] = t
-D["compounds"] = compounds
-D["reactions"] = reactions
-D["X"] = X
-D["Y"] = Y
+x = Array{Int,1}(D["x"])
+t = Array{Int,1}(D["t"])
+compounds = Array{String,1}(D["compounds"])
+reactions = Array{String,1}(D["reactions"])
+X = Array{Any,1}(D["X"])
+Y = Array{Any,1}(D["Y"])
 
 newdata = formatted_netexp_results(x,t,compounds,reactions,X,Y)
 
 fsplit = split(fullinpath,"/")
-outpath = "results_formatted/data_glucose_test/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-fulloutpath = outpath*"data_glucose_test.json"
+outpath = "results_formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+if ispath(outpath)==false
+    mkpath(outpath)
+end
+fulloutpath = outpath*"2018-09-25data_glucose_test.json"
 
 ## Write out
 open(fulloutpath,"w") do f
