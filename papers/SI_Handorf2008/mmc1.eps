@@ -1,0 +1,1590 @@
+%!PS-Adobe-2.0
+%%Creator: Graphviz version 2.12 (Tue Mar  6 15:27:18 UTC 2007)
+%%For: (handorf) Thomas Handorf
+%%Title: g
+%%Pages: (atend)
+%%BoundingBox: (atend)
+%%EndComments
+save
+%%BeginProlog
+/DotDict 200 dict def
+DotDict begin
+
+/setupLatin1 {
+mark
+/EncodingVector 256 array def
+ EncodingVector 0
+
+ISOLatin1Encoding 0 255 getinterval putinterval
+EncodingVector 45 /hyphen put
+
+% Set up ISO Latin 1 character encoding
+/starnetISO {
+        dup dup findfont dup length dict begin
+        { 1 index /FID ne { def }{ pop pop } ifelse
+        } forall
+        /Encoding EncodingVector def
+        currentdict end definefont
+} def
+/Times-Roman starnetISO def
+/Times-Italic starnetISO def
+/Times-Bold starnetISO def
+/Times-BoldItalic starnetISO def
+/Helvetica starnetISO def
+/Helvetica-Oblique starnetISO def
+/Helvetica-Bold starnetISO def
+/Helvetica-BoldOblique starnetISO def
+/Courier starnetISO def
+/Courier-Oblique starnetISO def
+/Courier-Bold starnetISO def
+/Courier-BoldOblique starnetISO def
+cleartomark
+} bind def
+
+%%BeginResource: procset graphviz 0 0
+/coord-font-family /Times-Roman def
+/default-font-family /Times-Roman def
+/coordfont coord-font-family findfont 8 scalefont def
+
+/InvScaleFactor 1.0 def
+/set_scale {
+       dup 1 exch div /InvScaleFactor exch def
+       scale
+} bind def
+
+% styles
+/solid { [] 0 setdash } bind def
+/dashed { [9 InvScaleFactor mul dup ] 0 setdash } bind def
+/dotted { [1 InvScaleFactor mul 6 InvScaleFactor mul] 0 setdash } bind def
+/invis {/fill {newpath} def /stroke {newpath} def /show {pop newpath} def} bind def
+/bold { 2 setlinewidth } bind def
+/filled { } bind def
+/unfilled { } bind def
+/rounded { } bind def
+/diagonals { } bind def
+
+% hooks for setting color 
+/nodecolor { sethsbcolor } bind def
+/edgecolor { sethsbcolor } bind def
+/graphcolor { sethsbcolor } bind def
+/nopcolor {pop pop pop} bind def
+
+/beginpage {	% i j npages
+	/npages exch def
+	/j exch def
+	/i exch def
+	/str 10 string def
+	npages 1 gt {
+		gsave
+			coordfont setfont
+			0 0 moveto
+			(\() show i str cvs show (,) show j str cvs show (\)) show
+		grestore
+	} if
+} bind def
+
+/set_font {
+	findfont exch
+	scalefont setfont
+} def
+
+% draw aligned label in bounding box aligned to current point
+/alignedtext {			% width adj text
+	/text exch def
+	/adj exch def
+	/width exch def
+	gsave
+		width 0 gt {
+			text stringwidth pop adj mul 0 rmoveto
+		} if
+		[] 0 setdash
+		text show
+	grestore
+} def
+
+/boxprim {				% xcorner ycorner xsize ysize
+		4 2 roll
+		moveto
+		2 copy
+		exch 0 rlineto
+		0 exch rlineto
+		pop neg 0 rlineto
+		closepath
+} bind def
+
+/ellipse_path {
+	/ry exch def
+	/rx exch def
+	/y exch def
+	/x exch def
+	matrix currentmatrix
+	newpath
+	x y translate
+	rx ry scale
+	0 0 1 0 360 arc
+	setmatrix
+} bind def
+
+/endpage { showpage } bind def
+/showpage { } def
+
+/layercolorseq
+	[	% layer color sequence - darkest to lightest
+		[0 0 0]
+		[.2 .8 .8]
+		[.4 .8 .8]
+		[.6 .8 .8]
+		[.8 .8 .8]
+	]
+def
+
+/layerlen layercolorseq length def
+
+/setlayer {/maxlayer exch def /curlayer exch def
+	layercolorseq curlayer 1 sub layerlen mod get
+	aload pop sethsbcolor
+	/nodecolor {nopcolor} def
+	/edgecolor {nopcolor} def
+	/graphcolor {nopcolor} def
+} bind def
+
+/onlayer { curlayer ne {invis} if } def
+
+/onlayers {
+	/myupper exch def
+	/mylower exch def
+	curlayer mylower lt
+	curlayer myupper gt
+	or
+	{invis} if
+} def
+
+/curlayer 0 def
+
+%%EndResource
+%%EndProlog
+%%BeginSetup
+14 default-font-family set_font
+1 setmiterlimit
+% /arrowlength 10 def
+% /arrowwidth 5 def
+
+% make sure pdfmark is harmless for PS-interpreters other than Distiller
+/pdfmark where {pop} {userdict /pdfmark /cleartomark load put} ifelse
+% make '<<' and '>>' safe on PS Level 1 devices
+/languagelevel where {pop languagelevel}{1} ifelse
+2 lt {
+    userdict (<<) cvn ([) cvn load put
+    userdict (>>) cvn ([) cvn load put
+} if
+
+%%EndSetup
+setupLatin1
+%%Page: 1 1
+%%PageBoundingBox: 36 36 1608 1310
+%%PageOrientation: Portrait
+gsave
+36 36 1608 1310 boxprim clip newpath
+0 0 1 beginpage
+1 1 set_scale 0 rotate 40 40 translate
+0.000 0.000 1.000 graphcolor
+newpath -4 -4 moveto
+-4 1270 lineto
+1568 1270 lineto
+1568 -4 lineto
+closepath fill
+1 setlinewidth
+0.000 0.000 1.000 graphcolor
+newpath -4 -4 moveto
+-4 1270 lineto
+1568 1270 lineto
+1568 -4 lineto
+closepath stroke
+% C00003
+gsave
+0.000 0.000 0.482 nodecolor
+660 84 35.1957 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+660 84 35.1957 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+660 87 moveto 38 -0.5 (NAD+) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+660 70 moveto 31 -0.5 (\(503\)) alignedtext
+grestore
+% C00004
+gsave
+0.000 0.000 0.514 nodecolor
+1016 30 36.1958 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1016 30 36.1958 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1016 33 moveto 40 -0.5 (NADH) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1016 16 moveto 31 -0.5 (\(474\)) alignedtext
+grestore
+% C00003->C00004
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 694 79 moveto
+762 68 912 46 980 35 curveto
+stroke
+grestore
+% C00009
+gsave
+0.000 0.000 0.047 nodecolor
+254 438 61.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+254 438 61.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+254 441 moveto 89 -0.5 (Orthophosphate) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+254 424 moveto 31 -0.5 (\(931\)) alignedtext
+grestore
+% C00011
+gsave
+0.000 0.000 0.976 nodecolor
+942 828 29.1951 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+942 828 29.1951 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+942 831 moveto 26 -0.5 (CO2) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+942 814 moveto 24 -0.5 (\(22\)) alignedtext
+grestore
+% C01563
+gsave
+0.000 0.000 0.949 nodecolor
+1298 774 46.1964 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1298 774 46.1964 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1298 777 moveto 60 -0.5 (Carbamate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1298 760 moveto 24 -0.5 (\(46\)) alignedtext
+grestore
+% C00011->C01563
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 971 824 moveto
+1033 815 1179 792 1253 781 curveto
+stroke
+grestore
+% C00015
+gsave
+0.000 0.000 0.996 nodecolor
+511 1044 30.1952 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+511 1044 30.1952 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+511 1047 moveto 28 -0.5 (UDP) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+511 1030 moveto 17 -0.5 (\(3\)) alignedtext
+grestore
+% C00112
+gsave
+0.000 0.000 0.992 nodecolor
+867 990 30.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+867 990 30.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+867 993 moveto 27 -0.5 (CDP) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+867 976 moveto 17 -0.5 (\(6\)) alignedtext
+grestore
+% C00015->C00112
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 541 1039 moveto
+608 1030 770 1005 837 995 curveto
+stroke
+grestore
+% C00016
+gsave
+0.000 0.000 0.235 nodecolor
+993 1236 32.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+993 1236 32.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+993 1239 moveto 28 -0.5 (FAD) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+993 1222 moveto 31 -0.5 (\(745\)) alignedtext
+grestore
+% C01352
+gsave
+0.000 0.000 0.761 nodecolor
+1349 1182 39.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1349 1182 39.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1349 1185 moveto 45 -0.5 (FADH2) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1349 1168 moveto 31 -0.5 (\(232\)) alignedtext
+grestore
+% C00016->C01352
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 1025 1231 moveto
+1090 1221 1240 1199 1311 1188 curveto
+stroke
+grestore
+% C00019
+gsave
+0.000 0.000 0.000 nodecolor
+883 294 90.1974 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+883 294 90.1974 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+883 297 moveto 148 -0.5 (S-Adenosyl-L-methionine) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+883 280 moveto 31 -0.5 (\(977\)) alignedtext
+grestore
+% C00020
+gsave
+0.000 0.000 0.016 nodecolor
+849 822 32.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+849 822 32.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+849 825 moveto 30 -0.5 (AMP) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+849 808 moveto 31 -0.5 (\(961\)) alignedtext
+grestore
+% C00022
+gsave
+0.000 0.000 0.996 nodecolor
+401 445 41.1961 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+401 445 41.1961 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+401 448 moveto 50 -0.5 (Pyruvate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+401 431 moveto 17 -0.5 (\(2\)) alignedtext
+grestore
+% C00025
+gsave
+0.000 0.000 0.761 nodecolor
+790 461 52.1966 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+790 461 52.1966 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+790 464 moveto 72 -0.5 (L-Glutamate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+790 447 moveto 31 -0.5 (\(231\)) alignedtext
+grestore
+% C00022->C00025
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 442 447 moveto
+513 450 660 456 738 459 curveto
+stroke
+grestore
+% C00049
+gsave
+0.000 0.000 0.757 nodecolor
+601 342 50.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+601 342 50.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+601 345 moveto 67 -0.5 (L-Aspartate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+601 328 moveto 31 -0.5 (\(237\)) alignedtext
+grestore
+% C00022->C00049
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 434 428 moveto
+470 409 526 381 563 361 curveto
+stroke
+grestore
+% C00064
+gsave
+0.000 0.000 0.776 nodecolor
+581 790 53.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+581 790 53.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+581 793 moveto 73 -0.5 (L-Glutamine) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+581 776 moveto 31 -0.5 (\(215\)) alignedtext
+grestore
+% C00022->C00064
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 415 473 moveto
+449 537 532 696 566 761 curveto
+stroke
+grestore
+% C00065
+gsave
+0.000 0.000 0.996 nodecolor
+780 685 41.1961 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+780 685 41.1961 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+780 688 moveto 50 -0.5 (L-Serine) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+780 671 moveto 17 -0.5 (\(2\)) alignedtext
+grestore
+% C00022->C00065
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 432 465 moveto
+504 510 678 620 749 665 curveto
+stroke
+grestore
+% C03508
+gsave
+0.000 0.000 0.996 nodecolor
+394 668 105.198 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+394 668 105.198 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+394 671 moveto 178 -0.5 (L-2-Amino-3-oxobutanoic acid) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+394 654 moveto 17 -0.5 (\(3\)) alignedtext
+grestore
+% C00022->C03508
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 400 475 moveto
+399 517 396 595 395 638 curveto
+stroke
+grestore
+% C00025->C00049
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 755 439 moveto
+721 417 669 385 636 364 curveto
+stroke
+grestore
+% C00025->C00064
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 772 489 moveto
+733 551 638 700 599 762 curveto
+stroke
+grestore
+% C00025->C00065
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 789 491 moveto
+787 534 783 612 781 655 curveto
+stroke
+grestore
+% C00025->C03508
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 752 481 moveto
+679 519 524 600 444 642 curveto
+stroke
+grestore
+% C00027
+gsave
+0.000 0.000 0.722 nodecolor
+58 1020 33.1955 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+58 1020 33.1955 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+58 1023 moveto 34 -0.5 (H2O2) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+58 1006 moveto 31 -0.5 (\(270\)) alignedtext
+grestore
+% C00704
+gsave
+0.000 0.000 0.275 nodecolor
+414 966 32.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+414 966 32.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+414 969 moveto 26 -0.5 (O2.-) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+414 952 moveto 31 -0.5 (\(707\)) alignedtext
+grestore
+% C00027->C00704
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 91 1015 moveto
+158 1005 315 981 382 971 curveto
+stroke
+grestore
+% C00033
+gsave
+0.000 0.000 0.953 nodecolor
+350 222 37.1958 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+350 222 37.1958 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+350 225 moveto 42 -0.5 (Acetate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+350 208 moveto 24 -0.5 (\(43\)) alignedtext
+grestore
+% C00037
+gsave
+0.000 0.000 0.902 nodecolor
+1023 294 38.1959 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1023 294 38.1959 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1023 297 moveto 44 -0.5 (Glycine) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1023 280 moveto 24 -0.5 (\(94\)) alignedtext
+grestore
+% C00041
+gsave
+0.000 0.000 0.565 nodecolor
+70 876 45.1963 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+70 876 45.1963 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+70 879 moveto 58 -0.5 (L-Alanine) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+70 862 moveto 31 -0.5 (\(424\)) alignedtext
+grestore
+% C00133
+gsave
+0.000 0.000 0.431 nodecolor
+426 822 46.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+426 822 46.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+426 825 moveto 59 -0.5 (D-Alanine) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+426 808 moveto 31 -0.5 (\(553\)) alignedtext
+grestore
+% C00041->C00133
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 114 869 moveto
+182 859 313 839 381 829 curveto
+stroke
+grestore
+% C00049->C00064
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 600 372 moveto
+596 453 586 679 582 760 curveto
+stroke
+grestore
+% C00049->C00065
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 616 370 moveto
+650 435 732 593 765 657 curveto
+stroke
+grestore
+% C00049->C03508
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 583 370 moveto
+544 431 452 577 412 639 curveto
+stroke
+grestore
+% C00055
+gsave
+0.000 0.000 0.412 nodecolor
+33 108 32.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+33 108 32.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+33 111 moveto 29 -0.5 (CMP) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+33 94 moveto 31 -0.5 (\(574\)) alignedtext
+grestore
+% C00105
+gsave
+0.000 0.000 0.596 nodecolor
+389 54 32.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+389 54 32.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+389 57 moveto 30 -0.5 (UMP) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+389 40 moveto 31 -0.5 (\(394\)) alignedtext
+grestore
+% C00055->C00105
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 65 103 moveto
+132 93 290 69 357 59 curveto
+stroke
+grestore
+% C00062
+gsave
+0.000 0.000 0.000 nodecolor
+193 1038 48.1964 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+193 1038 48.1964 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+193 1041 moveto 64 -0.5 (L-Arginine) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+193 1024 moveto 31 -0.5 (\(977\)) alignedtext
+grestore
+% C00064->C00065
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 620 770 moveto
+657 750 712 721 747 703 curveto
+stroke
+grestore
+% C00064->C03508
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 546 767 moveto
+515 747 469 717 436 695 curveto
+stroke
+grestore
+% C00065->C03508
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 739 683 moveto
+682 681 577 676 498 673 curveto
+stroke
+grestore
+% C00068
+gsave
+0.000 0.000 0.078 nodecolor
+317 894 76.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+317 894 76.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+317 897 moveto 119 -0.5 (Thiamin diphosphate) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+317 880 moveto 31 -0.5 (\(899\)) alignedtext
+grestore
+% C00073
+gsave
+0.000 0.000 0.000 nodecolor
+464 342 55.1967 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+464 342 55.1967 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+464 345 moveto 78 -0.5 (L-Methionine) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+464 328 moveto 31 -0.5 (\(977\)) alignedtext
+grestore
+% C00078
+gsave
+0.000 0.000 0.000 nodecolor
+321 1038 56.1967 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+321 1038 56.1967 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+321 1041 moveto 80 -0.5 (L-Tryptophan) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+321 1024 moveto 31 -0.5 (\(977\)) alignedtext
+grestore
+% C00079
+gsave
+0.000 0.000 0.467 nodecolor
+1024 132 63.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1024 132 63.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1024 135 moveto 93 -0.5 (L-Phenylalanine) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1024 118 moveto 31 -0.5 (\(520\)) alignedtext
+grestore
+% C00166
+gsave
+0.000 0.000 0.529 nodecolor
+1380 78 60.1968 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1380 78 60.1968 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1380 81 moveto 88 -0.5 (Phenylpyruvate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1380 64 moveto 31 -0.5 (\(457\)) alignedtext
+grestore
+% C00079->C00166
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 1084 123 moveto
+1150 113 1257 97 1323 87 curveto
+stroke
+grestore
+% C00082
+gsave
+0.000 0.000 0.510 nodecolor
+1105 1140 48.1964 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1105 1140 48.1964 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1105 1143 moveto 64 -0.5 (L-Tyrosine) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1105 1126 moveto 31 -0.5 (\(477\)) alignedtext
+grestore
+% C01179
+gsave
+0.000 0.000 0.486 nodecolor
+1461 1086 102.198 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1461 1086 102.198 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1461 1089 moveto 171 -0.5 (3-\(4-Hydroxyphenyl\)pyruvate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1461 1072 moveto 31 -0.5 (\(500\)) alignedtext
+grestore
+% C00082->C01179
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 1152 1133 moveto
+1208 1124 1301 1110 1371 1100 curveto
+stroke
+grestore
+% C00093
+gsave
+0.000 0.000 0.000 nodecolor
+278 582 85.1973 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+278 582 85.1973 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+278 585 moveto 138 -0.5 (sn-Glycerol 3-phosphate) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+278 568 moveto 31 -0.5 (\(977\)) alignedtext
+grestore
+% C00097
+gsave
+0.000 0.000 0.267 nodecolor
+864 1062 47.1964 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+864 1062 47.1964 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+864 1065 moveto 62 -0.5 (L-Cysteine) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+864 1048 moveto 31 -0.5 (\(713\)) alignedtext
+grestore
+% C00101
+gsave
+0.000 0.000 0.486 nodecolor
+713 774 64.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+713 774 64.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+713 777 moveto 95 -0.5 (Tetrahydrofolate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+713 760 moveto 31 -0.5 (\(500\)) alignedtext
+grestore
+% C00117
+gsave
+0.000 0.000 0.569 nodecolor
+320 324 79.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+320 324 79.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+320 327 moveto 125 -0.5 (D-Ribose 5-phosphate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+320 310 moveto 31 -0.5 (\(420\)) alignedtext
+grestore
+% C00199
+gsave
+0.000 0.000 0.427 nodecolor
+676 270 84.1973 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+676 270 84.1973 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+676 273 moveto 136 -0.5 (D-Ribulose 5-phosphate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+676 256 moveto 31 -0.5 (\(557\)) alignedtext
+grestore
+% C00117->C00199
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 393 313 moveto
+453 304 538 291 599 282 curveto
+stroke
+grestore
+% C00120
+gsave
+0.000 0.000 0.000 nodecolor
+179 942 34.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+179 942 34.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+179 945 moveto 35 -0.5 (Biotin) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+179 928 moveto 31 -0.5 (\(977\)) alignedtext
+grestore
+% C00123
+gsave
+0.000 0.000 0.000 nodecolor
+743 1062 46.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+743 1062 46.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+743 1065 moveto 59 -0.5 (L-Leucine) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+743 1048 moveto 31 -0.5 (\(977\)) alignedtext
+grestore
+% C00129
+gsave
+0.000 0.000 0.576 nodecolor
+1021 1020 84.1973 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1021 1020 84.1973 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1021 1023 moveto 136 -0.5 (Isopentenyl diphosphate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1021 1006 moveto 31 -0.5 (\(410\)) alignedtext
+grestore
+% C00235
+gsave
+0.000 0.000 0.420 nodecolor
+1377 966 91.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1377 966 91.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1377 969 moveto 149 -0.5 (Dimethylallyl diphosphate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1377 952 moveto 31 -0.5 (\(567\)) alignedtext
+grestore
+% C00129->C00235
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 1098 1008 moveto
+1156 999 1235 987 1294 978 curveto
+stroke
+grestore
+% C00135
+gsave
+0.000 0.000 0.000 nodecolor
+170 366 49.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+170 366 49.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+170 369 moveto 65 -0.5 (L-Histidine) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+170 352 moveto 31 -0.5 (\(977\)) alignedtext
+grestore
+% C00141
+gsave
+0.000 0.000 0.996 nodecolor
+196 180 99.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+196 180 99.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+196 183 moveto 165 -0.5 (3-Methyl-2-oxobutanoic acid) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+196 166 moveto 17 -0.5 (\(2\)) alignedtext
+grestore
+% C00183
+gsave
+0.000 0.000 0.000 nodecolor
+552 126 42.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+552 126 42.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+552 129 moveto 51 -0.5 (L-Valine) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+552 112 moveto 31 -0.5 (\(975\)) alignedtext
+grestore
+% C00141->C00183
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 284 167 moveto
+357 156 456 141 511 132 curveto
+stroke
+grestore
+% C00143
+gsave
+0.000 0.000 0.800 nodecolor
+731 915 106.198 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+731 915 106.198 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+731 918 moveto 179 -0.5 (5,10-Methylenetetrahydrofolate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+731 901 moveto 31 -0.5 (\(194\)) alignedtext
+grestore
+% C00234
+gsave
+0.000 0.000 0.922 nodecolor
+1093 918 92.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1093 918 92.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1093 921 moveto 151 -0.5 (10-Formyltetrahydrofolate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1093 904 moveto 24 -0.5 (\(73\)) alignedtext
+grestore
+% C00143->C00234
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 837 916 moveto
+889 916 951 917 1001 917 curveto
+stroke
+grestore
+% C00445
+gsave
+0.000 0.000 0.784 nodecolor
+915 606 103.198 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+915 606 103.198 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+915 609 moveto 173 -0.5 (5,10-Methenyltetrahydrofolate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+915 592 moveto 31 -0.5 (\(210\)) alignedtext
+grestore
+% C00143->C00445
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 748 886 moveto
+783 827 862 694 898 635 curveto
+stroke
+grestore
+% C00144
+gsave
+0.000 0.000 0.016 nodecolor
+129 606 32.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+129 606 32.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+129 609 moveto 30 -0.5 (GMP) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+129 592 moveto 31 -0.5 (\(958\)) alignedtext
+grestore
+% C00148
+gsave
+0.000 0.000 0.000 nodecolor
+165 294 44.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+165 294 44.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+165 297 moveto 55 -0.5 (L-Proline) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+165 280 moveto 31 -0.5 (\(977\)) alignedtext
+grestore
+% C00163
+gsave
+0.000 0.000 0.000 nodecolor
+1105 486 48.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1105 486 48.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+1105 489 moveto 63 -0.5 (Propanoate) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+1105 472 moveto 31 -0.5 (\(975\)) alignedtext
+grestore
+% C00188
+gsave
+0.000 0.000 0.000 nodecolor
+917 438 52.1966 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+917 438 52.1966 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+917 441 moveto 72 -0.5 (L-Threonine) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+917 424 moveto 31 -0.5 (\(977\)) alignedtext
+grestore
+% C00234->C00445
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 1076 889 moveto
+1042 829 966 695 932 636 curveto
+stroke
+grestore
+% C00248
+gsave
+0.000 0.000 0.961 nodecolor
+336 1203 47.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+336 1203 47.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+336 1206 moveto 61 -0.5 (Lipoamide) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+336 1189 moveto 24 -0.5 (\(38\)) alignedtext
+grestore
+% C00579
+gsave
+0.000 0.000 0.961 nodecolor
+698 1206 68.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+698 1206 68.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+698 1209 moveto 103 -0.5 (Dihydrolipoamide) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+698 1192 moveto 24 -0.5 (\(35\)) alignedtext
+grestore
+% C00248->C00579
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 383 1203 moveto
+446 1204 558 1205 630 1205 curveto
+stroke
+grestore
+% C01136
+gsave
+0.000 0.000 0.992 nodecolor
+520 894 91.1974 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+520 894 91.1974 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+520 897 moveto 150 -0.5 (S-Acetyldihydrolipoamide) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+520 880 moveto 17 -0.5 (\(5\)) alignedtext
+grestore
+% C00248->C01136
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 352 1175 moveto
+387 1117 467 982 503 923 curveto
+stroke
+grestore
+% C00275
+gsave
+0.000 0.000 0.569 nodecolor
+1094 708 85.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1094 708 85.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1094 711 moveto 137 -0.5 (D-Mannose 6-phosphate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1094 694 moveto 31 -0.5 (\(420\)) alignedtext
+grestore
+% C00636
+gsave
+0.000 0.000 0.427 nodecolor
+1450 654 85.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1450 654 85.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1450 657 moveto 137 -0.5 (D-Mannose 1-phosphate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1450 640 moveto 31 -0.5 (\(557\)) alignedtext
+grestore
+% C00275->C00636
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 1172 696 moveto
+1231 687 1312 675 1372 666 curveto
+stroke
+grestore
+% C00288
+gsave
+0.000 0.000 0.000 nodecolor
+134 534 37.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+134 534 37.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+134 537 moveto 41 -0.5 (HCO3-) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+134 520 moveto 31 -0.5 (\(977\)) alignedtext
+grestore
+% C00302
+gsave
+0.000 0.000 0.875 nodecolor
+790 102 45.1963 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+790 102 45.1963 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+790 105 moveto 58 -0.5 (Glutamate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+790 88 moveto 31 -0.5 (\(119\)) alignedtext
+grestore
+% C00407
+gsave
+0.000 0.000 0.000 nodecolor
+461 228 52.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+461 228 52.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+461 231 moveto 71 -0.5 (L-Isoleucine) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+461 214 moveto 31 -0.5 (\(974\)) alignedtext
+grestore
+% C00671
+gsave
+0.000 0.000 0.996 nodecolor
+817 174 113.198 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+817 174 113.198 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+817 177 moveto 194 -0.5 (\(S\)-3-Methyl-2-oxopentanoic acid) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+817 160 moveto 17 -0.5 (\(3\)) alignedtext
+grestore
+% C00407->C00671
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 511 220 moveto
+565 212 651 199 719 189 curveto
+stroke
+grestore
+% C00506
+gsave
+0.000 0.000 0.957 nodecolor
+1128 396 47.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1128 396 47.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1128 399 moveto 61 -0.5 (L-Cysteate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1128 382 moveto 24 -0.5 (\(42\)) alignedtext
+grestore
+% C00606
+gsave
+0.000 0.000 0.894 nodecolor
+1484 342 73.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1484 342 73.1985 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1484 345 moveto 113 -0.5 (3-Sulfino-L-alanine) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1484 328 moveto 31 -0.5 (\(103\)) alignedtext
+grestore
+% C00506->C00606
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 1174 389 moveto
+1235 379 1344 363 1416 352 curveto
+stroke
+grestore
+% C00579->C01136
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 682 1177 moveto
+648 1118 571 983 537 923 curveto
+stroke
+grestore
+% C00645
+gsave
+0.000 0.000 0.031 nodecolor
+956 531 91.1985 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+956 531 91.1985 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+956 534 moveto 149 -0.5 (N-Acetyl-D-mannosamine) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+956 517 moveto 31 -0.5 (\(945\)) alignedtext
+grestore
+% C04256
+gsave
+0.000 0.000 0.980 nodecolor
+1318 534 123.198 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1318 534 123.198 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1318 537 moveto 214 -0.5 (N-Acetyl-D-glucosamine 1-phosphate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1318 520 moveto 24 -0.5 (\(19\)) alignedtext
+grestore
+% C00645->C04256
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 1047 532 moveto
+1092 532 1147 533 1195 533 curveto
+stroke
+grestore
+% C04501
+gsave
+0.000 0.000 0.984 nodecolor
+1140 222 141.198 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1140 222 141.198 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1140 225 moveto 249 -0.5 (N-Acetyl-alpha-D-glucosamine 1-phosphate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+1140 208 moveto 24 -0.5 (\(13\)) alignedtext
+grestore
+% C00645->C04501
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 973 502 moveto
+1008 443 1087 311 1122 252 curveto
+stroke
+grestore
+% C00882
+gsave
+0.000 0.000 0.000 nodecolor
+208 678 63.1969 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+208 678 63.1969 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+208 681 moveto 94 -0.5 (Dephospho-CoA) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+208 664 moveto 31 -0.5 (\(977\)) alignedtext
+grestore
+% C00921
+gsave
+0.000 0.000 0.000 nodecolor
+1095 606 62.1969 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+1095 606 62.1969 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+1095 609 moveto 92 -0.5 (Dihydropteroate) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+1095 592 moveto 31 -0.5 (\(977\)) alignedtext
+grestore
+% C00957
+gsave
+0.000 0.000 0.729 nodecolor
+260 510 67.197 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+260 510 67.197 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+260 513 moveto 102 -0.5 (Mercaptopyruvate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+260 496 moveto 31 -0.5 (\(264\)) alignedtext
+grestore
+% C04256->C04501
+gsave
+1 setlinewidth
+0.000 0.000 0.000 edgecolor
+newpath 1301 505 moveto
+1267 445 1191 311 1157 252 curveto
+stroke
+grestore
+% C04751
+gsave
+0.000 0.000 0.004 nodecolor
+302 750 181.198 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+302 750 181.198 29.6985 ellipse_path stroke
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+302 753 moveto 330 -0.5 (1-\(5-Phospho-D-ribosyl\)-5-amino-4-imidazolecarboxylate) alignedtext
+0.000 0.000 1.000 nodecolor
+14.00 /Times-Roman set_font
+302 736 moveto 31 -0.5 (\(972\)) alignedtext
+grestore
+% C05125
+gsave
+0.000 0.000 0.922 nodecolor
+841 366 144.198 29.6985 ellipse_path fill
+1 setlinewidth
+filled
+0.000 0.000 0.000 nodecolor
+841 366 144.198 29.6985 ellipse_path stroke
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+841 369 moveto 255 -0.5 (2-\(alpha-Hydroxyethyl\)thiamine diphosphate) alignedtext
+0.000 0.000 0.000 nodecolor
+14.00 /Times-Roman set_font
+841 352 moveto 24 -0.5 (\(76\)) alignedtext
+grestore
+endpage
+showpage
+grestore
+%%PageTrailer
+%%EndPage: 1
+%%Trailer
+%%Pages: 1
+%%BoundingBox: 36 36 1608 1310
+end
+restore
+%%EOF

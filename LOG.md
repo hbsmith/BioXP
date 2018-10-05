@@ -165,3 +165,8 @@ Sara notes:
   -  calls the main `reaction_edges.json` to find substrates/products of these reactions to include in scope and build inputs to the network expansion algorithm (e.g. the Reactant and Product matrices). Other inputs include seed compounds, master target compounds, and intersection of current scope with master target compounds to find organismal specific target compounds.
   -  When I loop through the algorithm, I will store the single step compounds, reactions, maps added, and the running total of them.
 -  Need to update my pages outline with info from the two most recent papers I read, and the papers I skimmed today about algorithms for finding all minimal seed sets for specific target compounds for organisms.
+
+### 10-4-2018 Thursday
+- Been reading large scale reconstruction (Borenstein 2008), trying to figure out if this is a possible way to determine seed sets for the enceladus networks.
+- Sara mentioned today that my paper on network projections was really important. that it means something important that in some coarse grainings that biochemistry is scale free, but not in others. i argued that it was just a consequence of the fact that you're representing different information in differnt projections, but she thinks that's important.
+- Need to finish understanding this papers methods and the other papers i printed
