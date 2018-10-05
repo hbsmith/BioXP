@@ -130,14 +130,15 @@ end
 ########################################
 #### MANY NETWORK EXPANSION RUN ######
 ########################################
-seedkey = "Enceladus_20-SAFR-032"
+seedkey = "Enceladus_20-SAFR-032_P"
 
 SEEDJSON = "seeds.json"
 TARGETJSON = "targets/Freilich09.json"
-DATADIR = "jgi/2018-09-29/ph_edge_jsons/bacteria/"
+DATADIR = "jgi/2018-09-29/ph_edge_jsons/archaea/"
 
 fsplit = split(DATADIR,"/")
-OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+# OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+OUTDIR = "results/simple/ph_edge_jsons_P/archaea/"
 
 if ispath(OUTDIR)==false
     mkpath(OUTDIR)
@@ -146,13 +147,15 @@ end
 for FNAME in readdir(DATADIR)
     FULLINPATH = DATADIR*FNAME
     FULLOUTPATH = OUTDIR*FNAME
-
-    ## DO MAIN
-    (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLINPATH,TARGETJSON)
-    x = prepare_seeds(SEEDJSON,seedkey,compounds)
-    (X,Y) = netexp(R,P,x)
-    simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
-
+    if isfile(FULLINPATH)==true
+        if split(FULLINPATH,".")[2] == "json"
+            ## DO MAIN
+            (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLINPATH,TARGETJSON)
+            x = prepare_seeds(SEEDJSON,seedkey,compounds)
+            (X,Y) = netexp(R,P,x)
+            simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
+        end
+    end
 end
 
 ########################################
