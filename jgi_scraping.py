@@ -5,6 +5,7 @@ import time
 import os
 import re
 import json
+import glob
 from bs4 import BeautifulSoup        
 
 def activate_driver():
@@ -323,7 +324,15 @@ def main():
     records = metadata['records']
     ph_range = (9.0,11.0)
     entries_with_phs_in_range = get_entries_within_ph_range(records,ph_range)
-    organism_urls = format_urls_for_scraping(homepage_url,entries_with_phs_in_range)
+
+    entries_to_scrape = []
+    for entry in entries_with_phs_in_range:
+        fname = entry['IMGGenomeID']+".json"
+        future_path = save_dir+fname
+        if future_path not in glob.glob(save_dir+"*.json"):
+            entries_to_scrape.append(entry)
+
+    organism_urls = format_urls_for_scraping(homepage_url,entries_to_scrape)
 
     ## 
     for organism_url in organism_urls:
