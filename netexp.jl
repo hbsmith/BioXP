@@ -130,7 +130,7 @@ end
 ########################################
 #### MANY NETWORK EXPANSION RUN ######
 ########################################
-seedkey = "Enceladus_20-SAFR-032_P"
+seedkey = "Enceladus_20-SAFR-032"
 
 SEEDJSON = "seeds.json"
 TARGETJSON = "targets/Freilich09.json"
@@ -138,7 +138,7 @@ DATADIR = "jgi/2018-09-29/ph_edge_jsons/bacteria/"
 
 fsplit = split(DATADIR,"/")
 # OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-OUTDIR = "results/simple/ph_edge_jsons_P/bacteria/"
+OUTDIR = "results/simple/ph_edge_jsons/bacteria/"
 
 if ispath(OUTDIR)==false
     mkpath(OUTDIR)
