@@ -134,11 +134,11 @@ seedkey = "Enceladus_20-SAFR-032_P"
 
 SEEDJSON = "seeds.json"
 TARGETJSON = "targets/Freilich09.json"
-DATADIR = "jgi/2018-09-29/ph_edge_jsons/archaea/"
+DATADIR = "jgi/2018-09-29/ph_edge_jsons/bacteria/"
 
 fsplit = split(DATADIR,"/")
 # OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-OUTDIR = "results/simple/ph_edge_jsons_P/archaea/"
+OUTDIR = "results/simple/ph_edge_jsons_P/bacteria/"
 
 if ispath(OUTDIR)==false
     mkpath(OUTDIR)

@@ -71,7 +71,7 @@ def main():
     reaction_edges_json = 'kegg/2018-09-25/reaction_edges.json'
     outdir = 'jgi/2018-09-29/ph_edge_jsons/'
 
-    dirs = ['archaea','bacteria']
+    dirs = ['bacteria']
     for d in dirs:
        
         fnames = glob.glob('jgi/2018-09-29/ph_jsons/%s/*.json'%d)
