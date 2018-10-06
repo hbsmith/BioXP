@@ -94,7 +94,7 @@ end
 #########################
 ### FORMAT MANY FILES
 #########################
-DATADIR = "results/simple/ph_edge_jsons_P/archaea/"
+DATADIR = "results/simple/ph_edge_jsons/bacteria/"
 
 fsplit = split(DATADIR,"/")
 OUTDIR = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
