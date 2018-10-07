@@ -130,15 +130,15 @@ end
 ########################################
 #### MANY NETWORK EXPANSION RUN ######
 ########################################
-seedkey = "targets_Freilich09"
+seedkey = "Enceladus_20-SAFR-032"
 
 SEEDJSON = "seeds.json"
-TARGETJSON = "targets/Enceladus_20-SAFR-032.json"
-DATADIR = "jgi/2018-09-29/ph_edge_jsons/archaea/"
+TARGETJSON = "targets/Freilich09.json"
+DATADIR = "jgi/2018-09-29/kegg_edge_json/"
 
-fsplit = split(DATADIR,"/")
+# fsplit = split(DATADIR,"/")
 # OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-OUTDIR = "results/simple/ph_edge_jsons_reversed/archaea/"
+OUTDIR = "results/simple/kegg_edge_json/"
 
 if ispath(OUTDIR)==false
     mkpath(OUTDIR)

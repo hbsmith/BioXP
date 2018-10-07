@@ -94,10 +94,11 @@ end
 #########################
 ### FORMAT MANY FILES
 #########################
-DATADIR = "results/simple/ph_edge_jsons_reversed/archaea/"
+DATADIR = "results/simple/kegg_edge_json/"
 
-fsplit = split(DATADIR,"/")
-OUTDIR = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+# fsplit = split(DATADIR,"/")
+# OUTDIR = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+OUTDIR = "results/formatted/kegg_edge_json/"
 
 if ispath(OUTDIR)==false
     mkpath(OUTDIR)
