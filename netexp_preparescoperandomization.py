@@ -107,6 +107,9 @@ def main():
     edge_json_dir = "results/formatted/ph_edge_jsons/"
     out_dir = "seeds/minimal_seed_randomizations/archaea/"
 
+    if not os.path.exists(out_dir):
+        os.makedirs(out_dir)
+
     kegg_masses = read_molecular_masses(cpd_dir)
     stats_dicts = read_formatted_jsons(edge_json_dir)
     ph_archaea_stats_dicts = [i for i in stats_dicts if i["domain"]=="archaea"]
