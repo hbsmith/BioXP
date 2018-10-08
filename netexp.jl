@@ -108,6 +108,52 @@ function simple_write_out(outpath::String,x::Array{Int,1},t::Array{Int,1},compou
     end
 end
 
+
+function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR::String,OUTDIR::String)
+
+    for FNAME in readdir(EDGEDIR) 
+
+        FULLEDGEPATH = EDGEDIR*FNAME #json of all edges for organism
+        FULLSEEDPATH = SEEDDIR*FNAME #json of all seeds for organism
+        
+        if isfile(FULLEDGEPATH)==true
+            
+            if split(FULLEDGEPATH,".")[2] == "json"
+                
+                (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLEDGEPATH,TARGETJSON)
+                tT = transpose(t)
+                sum_t = sum(t)
+                
+                for (n_seed,seed_list) in JSON.parsefile(FULLSEEDPATH)
+
+                    FULLOUTPATH = OUTDIR*split(FNAME,".json")[1]*"/"*n_seed*".json"  #I want 1 randomizaiton per outpath
+
+                    seed_list_original = deepcopy(seed_list)
+
+                    for cpd in seed_list_original
+
+                        deleteat!(seed_list,findfirst(isequal(cpd),seed_list)) # remove cpd from seed_list
+                        
+                        x = prepare_seeds(seed_list,compounds)
+
+                        (X,Y) = netexp(R,P,x)
+
+                        if sum(X[end]*tT)!=sum_t # if all targets not produced
+
+                            push!(seed_list,cpd) # put cpd back in seed_list
+
+                        end
+
+                    end
+                    simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
+
+                end
+                
+            end
+        end
+    end
+end
+
 # seed_compounds = JSON.parsefile("../seeds.json");
 # x = [Int(i in seed_compounds["Enceladus_20-SAFR-032"]) for i in compounds];
 
@@ -132,92 +178,50 @@ end
 ########################################
 # seedkey = "Enceladus_20-SAFR-032"
 
-SEEDJSON = "29012812801.json" ## Contains keys numbered 1-100, with values of random compounds
+# SEEDJSON = "29012812801.json" ## Contains keys numbered 1-100, with values of random compounds
 TARGETJSON = "targets/Freilich09.json"
+EDGEDIR = "jgi/2018-09-29/ph_edge_jsons/archaea/"
 SEEDDIR = "seeds/minimal_seed_randomizations/archaea/"
-DATADIR = "jgi/2018-09-29/minimal_seed_randomizations/archaea/"
-
-OUTDIR = "results/simple/minimal_seed_randomizations/archaea/"*split(SEEDJSON,".json")[1]*"/"
+OUTDIR = "results/simple/minimal_seed_randomizations/archaea/"  #*split(SEEDJSON,".json")[1]*"/"
 
 if ispath(OUTDIR)==false
     mkpath(OUTDIR)
 end
 
-for FNAME in readdir(DATADIR) 
-    FULLSEEDPATH = SEEDDIR*FNAME
-    FULLEDGEPATH = DATADIR*FNAME
-    FULLOUTPATH = OUTDIR*FNAME
-    
-    if isfile(FULLEDGEPATH)==true
-        
-        if split(FULLEDGEPATH,".")[2] == "json"
-            
-            (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLEDGEPATH,TARGETJSON)
-            tT = transpose(t)
-            sum_t = sum(t)
-            
-            for (n_seed,seed_list) in JSON.parsefile(FULLSEEDPATH)
-
-                FULLOUTPATH = OUTDIR*n_seed*".json"
-
-                seed_list_original = deepcopy(seed_list)
-
-                for cpd in seed_list_original
-
-                    deleteat!(seed_list,findfirst(isequal(cpd),seed_list)) # remove cpd from seed_list
-                    
-                    x = prepare_seeds(seed_list,compounds)
-
-                    (X,Y) = netexp(R,P,x)
-
-                    if sum(X[end]*tT)!=sum_t # if all targets not produced
-
-                        push!(seed_list,cpd) # put cpd back in seed_list
-
-                    end
-
-                end
-                (X,Y)
-                simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
-
-            end
-            
-        end
-    end
-end
+enumerate_minimal_seed_sets(TARGETJSON,EDGEDIR,SEEDDIR,OUTDIR)
 
 
 
 ########################################
 #### MANY NETWORK EXPANSION RUN ######
 ########################################
-seedkey = "Enceladus_20-SAFR-032"
+# seedkey = "Enceladus_20-SAFR-032"
 
-SEEDJSON = "seeds.json"
-TARGETJSON = "targets/Freilich09.json"
-DATADIR = "jgi/2018-09-29/kegg_edge_json/"
+# SEEDJSON = "seeds.json"
+# TARGETJSON = "targets/Freilich09.json"
+# DATADIR = "jgi/2018-09-29/kegg_edge_json/"
 
-# fsplit = split(DATADIR,"/")
-# OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-OUTDIR = "results/simple/kegg_edge_json/"
+# # fsplit = split(DATADIR,"/")
+# # OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+# OUTDIR = "results/simple/kegg_edge_json/"
 
-if ispath(OUTDIR)==false
-    mkpath(OUTDIR)
-end
+# if ispath(OUTDIR)==false
+#     mkpath(OUTDIR)
+# end
 
-for FNAME in readdir(DATADIR)
-    FULLINPATH = DATADIR*FNAME
-    FULLOUTPATH = OUTDIR*FNAME
-    if isfile(FULLINPATH)==true
-        if split(FULLINPATH,".")[2] == "json"
-            ## DO MAIN
-            (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLINPATH,TARGETJSON)
-            x = prepare_seeds(SEEDJSON,seedkey,compounds)
-            (X,Y) = netexp(R,P,x)
-            simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
-        end
-    end
-end
+# for FNAME in readdir(DATADIR)
+#     FULLINPATH = DATADIR*FNAME
+#     FULLOUTPATH = OUTDIR*FNAME
+#     if isfile(FULLINPATH)==true
+#         if split(FULLINPATH,".")[2] == "json"
+#             ## DO MAIN
+#             (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLINPATH,TARGETJSON)
+#             x = prepare_seeds(SEEDJSON,seedkey,compounds)
+#             (X,Y) = netexp(R,P,x)
+#             simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
+#         end
+#     end
+# end
 
 ########################################
 #### SINGLE NETWORK EXPANSION RUN ######
