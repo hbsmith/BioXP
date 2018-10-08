@@ -113,6 +113,8 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
 
     for FNAME in readdir(EDGEDIR) 
 
+        println("Finding minimal seeds for: $FNAME")
+
         FULLEDGEPATH = EDGEDIR*FNAME #json of all edges for organism
         FULLSEEDPATH = SEEDDIR*FNAME #json of all seeds for organism
         
@@ -124,7 +126,7 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
                 tT = transpose(t)
                 sum_t = sum(t)
                 
-                for (n_seed,seed_list) in JSON.parsefile(FULLSEEDPATH)
+                for (n_seed,seed_list) in enumerate(JSON.parsefile(FULLSEEDPATH))
 
                     FULLOUTPATH = OUTDIR*split(FNAME,".json")[1]*"/"*n_seed*".json"  #I want 1 randomizaiton per outpath
 
@@ -145,6 +147,7 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
                         end
 
                     end
+                    println("Writing out randomization: $n_seed")
                     simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
 
                 end
