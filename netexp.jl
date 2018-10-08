@@ -152,7 +152,7 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
 
                         (XY["X"],XY["Y"]) = netexp(R,P,x)
 
-                        if sum(XY["X"][end]*tT)!=sum_t # if all targets not produced
+                        if (tT*XY["X"][end])!=sum_t # if all targets not produced
 
                             push!(seed_list,cpd) # put cpd back in seed_list
 
@@ -200,7 +200,7 @@ end
 TARGETJSON = "targets/Freilich09.json"
 EDGEDIR = "jgi/2018-09-29/ph_edge_jsons/archaea/"
 SEEDDIR = "seeds/minimal_seed_randomizations/archaea/"
-OUTDIR = "results/simple/minimal_seed_randomizations/archaea/"  #*split(SEEDJSON,".json")[1]*"/"
+OUTDIR = "results/simple/minimal_seed_randomizations_fixed/archaea/"  #*split(SEEDJSON,".json")[1]*"/"
 
 if ispath(OUTDIR)==false
     mkpath(OUTDIR)
