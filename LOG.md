@@ -170,3 +170,43 @@ Sara notes:
 - Been reading large scale reconstruction (Borenstein 2008), trying to figure out if this is a possible way to determine seed sets for the enceladus networks.
 - Sara mentioned today that my paper on network projections was really important. that it means something important that in some coarse grainings that biochemistry is scale free, but not in others. i argued that it was just a consequence of the fact that you're representing different information in differnt projections, but she thinks that's important.
 - Need to finish understanding this papers methods and the other papers i printed
+
+### 10-7-2018 Sunday
+- Going to run the seed set randomizations 1000 variants of 
+- 10,000 exchange operations to generate one randomized list. For each network, 1000 such lists (or should I do only 100 to start? Can see how long 1000 takes for the 28 archaea)
+
+Bacteria energy info:
+```
+collections.Counter([i['EnergySource'] for i in ph_bacteria_records])
+Counter({u'Chemoautotroph': 1,
+         u'Chemoheterotroph': 20,
+         u'Chemoheterotroph, Photoautotroph': 1,
+         u'Chemolithoautotroph': 1,
+         u'Chemolithotroph': 1,
+         u'Chemoorganoheterotroph': 2,
+         u'Chemoorganotroph': 27,
+         u'Chemoorganotroph, Heterotroph': 2,
+         u'Heterotroph': 31,
+         u'Lithoheterotroph': 1,
+         u'Methylotroph': 1,
+         u'Phototroph': 1,
+         u'zzz': 177})
+```
+Bacteria habitat info (101 of 266 bacteria contain the word "Aquatic")
+```
+collections.Counter([i['Habitat'] for i in ph_bacteria_records])
+```
+
+Archaea energy info:
+```
+collections.Counter([i['EnergySource'] for i in ph_archaea_records])
+Counter({u'Chemoorganotroph': 10,
+         u'Heterotroph': 1,
+         u'Organotroph': 2,
+         u'zzz': 15})
+```
+Archaea EcosystemCategory info:
+```
+collections.Counter([i['EcosystemCategory'] for i in ph_archaea_records])
+Counter({u'Aquatic': 24, u'Terrestrial': 1, u'Wastewater': 1, u'zzz': 2})
+```
