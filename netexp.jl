@@ -132,11 +132,17 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
                 
                 for (n_seed,seed_list) in enumerate(JSON.parsefile(FULLSEEDPATH))
 
-                    FULLOUTPATH = OUTDIR*split(FNAME,".json")[1]*"/"*string(n_seed)*".json"  #I want 1 randomizaiton per outpath
+                    OUTDIRWITHORGNAME = OUTDIR*split(FNAME,".json")[1]*"/"
+
+                    if ispath(OUTDIRWITHORGNAME)==false
+                        mkpath(OUTDIRWITHORGNAME)
+                    end
+
+                    FULLOUTPATH = OUTDIRWITHORGNAME*string(n_seed)*".json"  #I want 1 randomizaiton per outpath
 
                     seed_list_original = deepcopy(seed_list)
 
-                    XY = dict()
+                    XY = Dict()
 
                     for cpd in seed_list_original
 
