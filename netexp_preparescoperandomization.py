@@ -88,8 +88,8 @@ def swap_random(tup1,tup2,beta):
         return False
 
 
-n_swaps = 10000
-n_randomizations = 1000
+n_swaps = 1000
+n_randomizations = 100
 beta = 20
 
 cpd_dir = "kegg/2018-09-25/compound/"
@@ -102,10 +102,13 @@ ph_archaea_stats_dicts = [i for i in stats_dicts if i["domain"]=="archaea"]
 # archaea_max_scopes = [i["scope_compounds"] for i in ph_archaea_stats_dicts]
 # bacteria_max_scopes = [i["scope_compounds"] for i in ph_bacteria_stats_dicts]
 
+org_randomization_dict = dict()
 for org in ph_archaea_stats_dicts:
+    print "Randomizing %s"%org["org_id"]
 
     randomized_cpd_lists = list()
-    for _ in range(n_randomizations):
+    for r in range(n_randomizations):
+        print "Randomization %s"%r
         new_sorted_org_cpd_masses = initialize_randomization_for_organism_scope(org["scope_compounds"],kegg_masses)
         new_sorted_org_cpd_masses = mix_it_up(new_sorted_org_cpd_masses,beta,n_swaps)
         randomized_cpd_list = [i[0] for i in new_sorted_org_cpd_masses]
@@ -113,6 +116,9 @@ for org in ph_archaea_stats_dicts:
         if randomized_cpd_list not in randomized_cpd_lists:
             randomized_cpd_lists.append(randomized_cpd_list)
 
-    ph_archaea_stats_dicts["randomized_cpd_lists"] = randomized_cpd_lists
+    org_randomization_dict[org["org_id"]] = randomized_cpd_lists
+
+for org in org_randomization_dict:
+    print org, len(org_randomization_dict[org])
 
 
