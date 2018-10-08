@@ -128,6 +128,67 @@ end
 # "C00007",
 # "C00001"]
 ########################################
+#### CHECK MINIMAL SEED SET ######
+########################################
+# seedkey = "Enceladus_20-SAFR-032"
+
+SEEDJSON = "29012812801.json" ## Contains keys numbered 1-100, with values of random compounds
+TARGETJSON = "targets/Freilich09.json"
+SEEDDIR = "seeds/minimal_seed_randomizations/archaea/"
+DATADIR = "jgi/2018-09-29/minimal_seed_randomizations/archaea/"
+
+OUTDIR = "results/simple/minimal_seed_randomizations/archaea/"*split(SEEDJSON,".json")[1]*"/"
+
+if ispath(OUTDIR)==false
+    mkpath(OUTDIR)
+end
+
+for FNAME in readdir(DATADIR) 
+    FULLSEEDPATH = SEEDDIR*FNAME
+    FULLEDGEPATH = DATADIR*FNAME
+    FULLOUTPATH = OUTDIR*FNAME
+    
+    if isfile(FULLEDGEPATH)==true
+        
+        if split(FULLEDGEPATH,".")[2] == "json"
+            
+            (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLEDGEPATH,TARGETJSON)
+            tT = transpose(t)
+            sum_t = sum(t)
+            
+            for (n_seed,seed_list) in JSON.parsefile(FULLSEEDPATH)
+
+                FULLOUTPATH = OUTDIR*n_seed*".json"
+
+                seed_list_original = deepcopy(seed_list)
+
+                for cpd in seed_list_original
+
+                    deleteat!(seed_list,findfirst(isequal(cpd),seed_list)) # remove cpd from seed_list
+                    
+                    x = prepare_seeds(seed_list,compounds)
+
+                    (X,Y) = netexp(R,P,x)
+
+                    if sum(X[end]*tT)!=sum_t # if all targets not produced
+
+                        push!(seed_list,cpd) # put cpd back in seed_list
+
+                    end
+
+                end
+                (X,Y)
+                simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
+
+            end
+            
+        end
+    end
+end
+
+
+
+########################################
 #### MANY NETWORK EXPANSION RUN ######
 ########################################
 seedkey = "Enceladus_20-SAFR-032"
