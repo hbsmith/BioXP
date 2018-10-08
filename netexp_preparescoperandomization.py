@@ -117,7 +117,7 @@ def main():
     # archaea_max_scopes = [i["scope_compounds"] for i in ph_archaea_stats_dicts]
     # bacteria_max_scopes = [i["scope_compounds"] for i in ph_bacteria_stats_dicts]
 
-    org_randomization_dict = dict()
+    # org_randomization_dict = dict()
     for org in ph_archaea_stats_dicts:
         print "Randomizing %s"%org["org_id"]
 
@@ -131,10 +131,12 @@ def main():
             if randomized_cpd_list not in randomized_cpd_lists:
                 randomized_cpd_lists.append(randomized_cpd_list)
 
-        org_randomization_dict[org["org_id"]] = randomized_cpd_lists
+        # org_randomization_dict[org["org_id"]] = randomized_cpd_lists
 
-    for org in org_randomization_dict:
-        write_json(org_randomization_dict[org],out_dir+org+".json")
+        write_json(randomized_cpd_lists,out_dir+org+".json")
+
+    # for org in org_randomization_dict:
+    #     write_json(org_randomization_dict[org],out_dir+org+".json")
         # print org, len(org_randomization_dict[org])
 
 if __name__ == '__main__':
