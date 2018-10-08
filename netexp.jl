@@ -36,6 +36,10 @@ function prepare_seeds(seed_list::Array{String,1},compounds::Array{String,1})
     [Int(i in seed_list) for i in compounds]
 end
 
+function prepare_seeds(seed_list,compounds)
+    [Int(i in seed_list) for i in compounds]
+end
+
 function prepare_seeds(seed_json::String,seed_key::String,compounds::Array{String,1})
     seed_dict = JSON.parsefile(seed_json)
     [Int(i in seed_dict[seed_key]) for i in compounds]
@@ -113,14 +117,14 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
 
     for FNAME in readdir(EDGEDIR) 
 
-        println("Finding minimal seeds for: $FNAME")
-
         FULLEDGEPATH = EDGEDIR*FNAME #json of all edges for organism
         FULLSEEDPATH = SEEDDIR*FNAME #json of all seeds for organism
         
         if isfile(FULLEDGEPATH)==true
             
             if split(FULLEDGEPATH,".")[2] == "json"
+
+                println("Finding minimal seeds for: $FNAME")
                 
                 (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLEDGEPATH,TARGETJSON)
                 tT = transpose(t)
@@ -128,7 +132,7 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
                 
                 for (n_seed,seed_list) in enumerate(JSON.parsefile(FULLSEEDPATH))
 
-                    FULLOUTPATH = OUTDIR*split(FNAME,".json")[1]*"/"*n_seed*".json"  #I want 1 randomizaiton per outpath
+                    FULLOUTPATH = OUTDIR*split(FNAME,".json")[1]*"/"*string(n_seed)*".json"  #I want 1 randomizaiton per outpath
 
                     seed_list_original = deepcopy(seed_list)
 
