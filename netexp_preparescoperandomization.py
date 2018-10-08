@@ -105,6 +105,7 @@ def main():
 
     cpd_dir = "kegg/2018-09-25/compound/"
     edge_json_dir = "results/formatted/ph_edge_jsons/"
+    out_dir = "seeds/minimal_seed_randomizations/archaea/"
 
     kegg_masses = read_molecular_masses(cpd_dir)
     stats_dicts = read_formatted_jsons(edge_json_dir)
@@ -130,7 +131,7 @@ def main():
         org_randomization_dict[org["org_id"]] = randomized_cpd_lists
 
     for org in org_randomization_dict:
-        write_json(org_randomization_dict[org],org)
+        write_json(org_randomization_dict[org],out_dir+org+".json")
         # print org, len(org_randomization_dict[org])
 
 if __name__ == '__main__':
