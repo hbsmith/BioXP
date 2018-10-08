@@ -136,23 +136,28 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
 
                     seed_list_original = deepcopy(seed_list)
 
+                    XY = dict()
+
                     for cpd in seed_list_original
 
                         deleteat!(seed_list,findfirst(isequal(cpd),seed_list)) # remove cpd from seed_list
                         
                         x = prepare_seeds(seed_list,compounds)
 
-                        (X,Y) = netexp(R,P,x)
+                        (XY["X"],XY["Y"]) = netexp(R,P,x)
 
-                        if sum(X[end]*tT)!=sum_t # if all targets not produced
+                        if sum(XY["X"][end]*tT)!=sum_t # if all targets not produced
 
                             push!(seed_list,cpd) # put cpd back in seed_list
 
                         end
 
                     end
+
+                    x = prepare_seeds(seed_list,compounds)
+
                     println("Writing out randomization: $n_seed")
-                    simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
+                    simple_write_out(FULLOUTPATH,x,t,compounds,reactions,XY["X"],XY["Y"])
 
                 end
                 
