@@ -144,32 +144,31 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
                         mkpath(OUTDIRWITHORGNAME)
                     end
 
-                    FULLOUTPATH = OUTDIRWITHORGNAME*string(n_seed)*".json"  #I want 1 randomizaiton per outpath
+                    # I want 1 randomizaiton per outpath
+                    FULLOUTPATH = OUTDIRWITHORGNAME*string(n_seed)*".json"
 
                     seed_list_original = deepcopy(seed_list)
 
-                    XY = Dict{String,Vector{Vector{Int}}}()
-
+                    X, Y = Vector{Int}[], Vector{Int}[]
                     for cpd in seed_list_original
-
-                        deleteat!(seed_list,findfirst(isequal(cpd),seed_list)) # remove cpd from seed_list
+                        # remove cpd from seed_list
+                        deleteat!(seed_list,findfirst(isequal(cpd),seed_list))
                         
                         x = prepare_seeds(seed_list,compounds)
 
-                        (XY["X"],XY["Y"]) = netexp(R, P, RT, PT, b, bp, x)
+                        X, Y = netexp(R, P, RT, PT, b, bp, x)
 
-                        if (tT*XY["X"][end])!=sum_t # if all targets not produced
-
-                            push!(seed_list,cpd) # put cpd back in seed_list
-
+                        # if all targets not produced
+                        if (tT*X[end]) != sum_t
+                            # put cpd back in seed_list
+                            push!(seed_list, cpd)
                         end
-
                     end
 
                     x = prepare_seeds(seed_list,compounds)
 
                     println("Writing out randomization: $n_seed")
-                    simple_write_out(FULLOUTPATH,x,t,compounds,reactions,XY["X"],XY["Y"])
+                    simple_write_out(FULLOUTPATH, x, t, compounds, reactions, X, Y)
                     break
                 end
             end
