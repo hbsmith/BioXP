@@ -37,10 +37,17 @@ function prepare_matrices_and_targets(reaction_edges_json::String, target_json::
     R, P, compounds, reactions, t
 end
 
-function prepare_seeds(seed_list::Array{String,1},compounds::Array{String,1})
+function prepare_seeds(seed_list::Vector{String}, compounds::Vector{String})
     [Int(i in seed_list) for i in compounds]
 end
 
+function seed_indicies(seed_list::Vector{String}, compounds::Vector{String})
+    # This is a generator, not an array. You can iterate over this thing exactly once
+    # because it only stores the current state and what it needs to find the next state.
+    (findfirst(isequal(c), compounds) for c in seed_list)
+end
+
+# This is just cosmetic
 const TArray{T, N} = Transpose{T, Array{T, N}}
 
 function netexp(R::Array{Int,2}, P::Array{Int,2}, RT::TArray{Int,2}, PT::TArray{Int,2},
@@ -151,25 +158,18 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
                     # I want 1 randomizaiton per outpath
                     FULLOUTPATH = OUTDIRWITHORGNAME*string(n_seed)*".json"
 
-                    seed_list_original = deepcopy(seed_list)
+                    x = prepare_seeds(seed_list, compounds)
 
                     X, Y = Vector{Int}[], Vector{Int}[]
-                    for cpd in seed_list_original
-                        # remove cpd from seed_list
-                        deleteat!(seed_list, findfirst(isequal(cpd), seed_list))
-                        
-                        x = prepare_seeds(seed_list, compounds)
+                    for i in seed_indicies(seed_list, compounds)
+                        x[i] = 0
 
                         X, Y = netexp(R, P, RT, PT, b, bp, x)
 
-                        # if all targets not produced
-                        if (tT*X[end]) != sum_t
-                            # put cpd back in seed_list
-                            push!(seed_list, cpd)
+                        if (tT * X[end]) != sum_t
+                            x[i] = 1
                         end
                     end
-
-                    x = prepare_seeds(seed_list, compounds)
 
                     println("Writing out randomization: $n_seed")
                     simple_write_out(FULLOUTPATH, x, t, compounds, reactions, X, Y)
