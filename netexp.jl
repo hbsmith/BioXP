@@ -1,6 +1,7 @@
 ## Network expansion using lists/dicts
 import JSON
 using Profile
+using LinearAlgebra
 
 function prepare_matrices_and_targets(reaction_edges_json::String,target_json::String)
 
@@ -46,7 +47,10 @@ function prepare_seeds(seed_json::String,seed_key::String,compounds::Array{Strin
     [Int(i in seed_dict[seed_key]) for i in compounds]
 end
 
-function netexp(R::Array{Int,2},P::Array{Int,2},x::Array{Int,1})
+const TArray{T, N} = Transpose{T, Array{T, N}}
+
+function netexp(R::Array{Int,2}, P::Array{Int,2}, RT::TArray{Int,2}, PT::TArray{Int,2},
+                b::Vector{Int}, bp::Vector{Int}, x::Array{Int,1})
     
     # initialize variables:
     # find the total number of metabolites in the seed set
@@ -58,13 +62,6 @@ function netexp(R::Array{Int,2},P::Array{Int,2},x::Array{Int,1})
     push!(X,x)  ## Each row is 1 generation
     # initialize reaction accumulation matrix
     Y = [];
-    
-    # transpose R
-    RT = transpose(R)
-    PT = transpose(P)
-    
-    b = [sum(RT[i,:]) for i in 1:size(RT)[1]]
-    bp = [sum(PT[i,:]) for i in 1:size(PT)[1]]
 
     # while the metabolite set has not converged
     while k > k0 
@@ -113,7 +110,6 @@ function simple_write_out(outpath::String,x::Array{Int,1},t::Array{Int,1},compou
     end
 end
 
-
 function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR::String,OUTDIR::String)
 
     for FNAME in readdir(EDGEDIR) 
@@ -128,6 +124,13 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
                 println("Finding minimal seeds for: $FNAME")
                 
                 (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLEDGEPATH,TARGETJSON)
+
+                RT = transpose(R)
+                PT = transpose(P)
+
+                b = [sum(RT[i,:]) for i in 1:size(RT)[1]]
+                bp = [sum(PT[i,:]) for i in 1:size(PT)[1]]
+
                 tT = transpose(t)
                 sum_t = sum(t)
                 
@@ -151,7 +154,7 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
                         
                         x = prepare_seeds(seed_list,compounds)
 
-                        (XY["X"],XY["Y"]) = netexp(R,P,x)
+                        (XY["X"],XY["Y"]) = netexp(R, P, RT, PT, b, bp, x)
 
                         if (tT*XY["X"][end])!=sum_t # if all targets not produced
 
