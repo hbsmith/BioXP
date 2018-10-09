@@ -74,24 +74,34 @@ function netexp(R::Array{Int,2}, P::Array{Int,2}, RT::TArray{Int,2}, PT::TArray{
         # network within each reaction; if this isequal to the total 
         # number of metabolites in each reaction, then the reaction 
         # is added to the network
-        y = Array{Int}(RT * x .== b)  ## Forward reactions
-        yp = Array{Int}(PT * x .== bp) ## Backward reactions
+
+        ## Forward reactions
+        y = RT * x .== b
+        ## Backward reactions
+        yp = PT * x .== bp
 
         # P*y > 0 ==> represents the vector of reactions that produce 
         # metabolite i. (i in 1:m).  If this is >0, 
         # then that metabolite is producable 
-        xnew = Array{Int}(P * y .> 0)   ## Forward reactions
-        xnewp = Array{Int}(R * yp .> 0) ## Backward reactions
+
+        ## Forward reactions
+        xnew = P * y .> 0
+
+        ## Backward reactions
+        xnewp = R * yp .> 0
         
-        #add to previous set of metabolites (only needed to retain seed set)
-        x = x .| xnew .| xnewp ## Add forward and backward reactions
+        # add to previous set of metabolites (only needed to retain seed set)
+
+        ## Add forward and backward reactions
+        x = (x .| xnew .| xnewp)
+        y = Array{Int}(y .| yp)
         
         # find new total number of metabolites in network
         k = sum(x);
 
         # append accumulation matricies
         push!(X, x)
-        push!(Y, y .| yp)
+        push!(Y, y)
     end
     X, Y
 end
