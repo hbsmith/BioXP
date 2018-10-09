@@ -3,11 +3,14 @@ import JSON
 using Profile
 using LinearAlgebra
 
-function prepare_matrices_and_targets(reaction_edges_json::String,target_json::String)
+const EdgesType = Dict{String,Dict{String,Vector{String}}}
+const TargetsType = Dict{String,String}
 
-    reaction_edges = JSON.parsefile(reaction_edges_json)
+function prepare_matrices_and_targets(reaction_edges_json::String, target_json::String)
+    reaction_edges = EdgesType(JSON.parsefile(reaction_edges_json))
 
-    reactions = [i for i in keys(reaction_edges["products"])] ## could use ["substrates""] too
+    ## could use ["substrates""] too
+    reactions = [i for i in keys(reaction_edges["products"])]
 
     cpd_reactants_flat = unique(Iterators.flatten(values(reaction_edges["substrates"])))
     cpd_products_flat = unique(Iterators.flatten(values(reaction_edges["products"])))
@@ -26,12 +29,12 @@ function prepare_matrices_and_targets(reaction_edges_json::String,target_json::S
         P[:,i] = [Int(cpd in reaction_edges["products"][r]) for cpd in compounds]
     end
     ################################################################################
-    target_compounds = JSON.parsefile(target_json);
+    target_compounds = TargetsType(JSON.parsefile(target_json));
     target_compounds_org = collect(intersect(keys(target_compounds),compounds))
     t = [Int(i in target_compounds_org) for i in compounds]
     ################################################################################
-    (R,P,compounds,reactions,t)
 
+    R, P, compounds, reactions, t
 end
 
 function prepare_seeds(seed_list::Array{String,1},compounds::Array{String,1})
@@ -126,7 +129,7 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
 
                 println("Finding minimal seeds for: $FNAME")
                 
-                R, P, compounds, reactions, t = prepare_matrices_and_targets(FULLEDGEPATH,TARGETJSON)
+                R, P, compounds, reactions, t = prepare_matrices_and_targets(FULLEDGEPATH, TARGETJSON)
 
                 RT = transpose(R)
                 PT = transpose(P)
