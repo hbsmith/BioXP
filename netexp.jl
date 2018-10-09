@@ -38,15 +38,6 @@ function prepare_seeds(seed_list::Array{String,1},compounds::Array{String,1})
     [Int(i in seed_list) for i in compounds]
 end
 
-function prepare_seeds(seed_list,compounds)
-    [Int(i in seed_list) for i in compounds]
-end
-
-function prepare_seeds(seed_json::String,seed_key::String,compounds::Array{String,1})
-    seed_dict = JSON.parsefile(seed_json)
-    [Int(i in seed_dict[seed_key]) for i in compounds]
-end
-
 const TArray{T, N} = Transpose{T, Array{T, N}}
 
 function netexp(R::Array{Int,2}, P::Array{Int,2}, RT::TArray{Int,2}, PT::TArray{Int,2},
@@ -135,7 +126,7 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
 
                 println("Finding minimal seeds for: $FNAME")
                 
-                (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLEDGEPATH,TARGETJSON)
+                R, P, compounds, reactions, t = prepare_matrices_and_targets(FULLEDGEPATH,TARGETJSON)
 
                 RT = transpose(R)
                 PT = transpose(P)
@@ -146,8 +137,8 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
                 tT = transpose(t)
                 sum_t = sum(t)
                 
-                for (n_seed,seed_list) in enumerate(JSON.parsefile(FULLSEEDPATH))
-
+                all_of_the_seeds = Vector{Vector{String}}(JSON.parsefile(FULLSEEDPATH))
+                for (n_seed, seed_list) in enumerate(all_of_the_seeds)
                     OUTDIRWITHORGNAME = OUTDIR*split(FNAME,".json")[1]*"/"
 
                     if ispath(OUTDIRWITHORGNAME)==false
