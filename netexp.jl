@@ -198,6 +198,7 @@ end
 
 # SEEDJSON = "29012812801.json" ## Contains keys numbered 1-100, with values of random compounds
 TARGETJSON = "targets/Freilich09.json"
+
 EDGEDIR = "jgi/2018-09-29/ph_edge_jsons/archaea_split/a0/"
 SEEDDIR = "seeds/minimal_seed_randomizations/archaea/"
 OUTDIR = "results/simple/minimal_seed_randomizations_fixed/archaea/a0/"  #*split(SEEDJSON,".json")[1]*"/"

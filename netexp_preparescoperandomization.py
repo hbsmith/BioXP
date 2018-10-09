@@ -105,14 +105,14 @@ def main():
 
     cpd_dir = "kegg/2018-09-25/compound/"
     edge_json_dir = "results/formatted/ph_edge_jsons/"
-    out_dir = "seeds/minimal_seed_randomizations/archaea/"
+    out_dir = "seeds/minimal_seed_randomizations/bacteria/"
 
     if not os.path.exists(out_dir):
         os.makedirs(out_dir)
 
     kegg_masses = read_molecular_masses(cpd_dir)
     stats_dicts = read_formatted_jsons(edge_json_dir)
-    ph_archaea_stats_dicts = [i for i in stats_dicts if i["domain"]=="archaea"]
+    ph_archaea_stats_dicts = [i for i in stats_dicts if i["domain"]=="bacteria"]
     # ph_bacteria_stats_dicts = [i for i in stats_dicts if i["domain"]=="bacteria"]
     # archaea_max_scopes = [i["scope_compounds"] for i in ph_archaea_stats_dicts]
     # bacteria_max_scopes = [i["scope_compounds"] for i in ph_bacteria_stats_dicts]
@@ -123,7 +123,7 @@ def main():
 
         randomized_cpd_lists = list()
         for r in range(n_randomizations):
-            print "Randomization %s"%r
+            if r%10==0: print "Randomization %s"%r
             new_sorted_org_cpd_masses = initialize_randomization_for_organism_scope(org["scope_compounds"],kegg_masses)
             new_sorted_org_cpd_masses = mix_it_up(new_sorted_org_cpd_masses,beta,n_swaps)
             randomized_cpd_list = [i[0] for i in new_sorted_org_cpd_masses]
@@ -133,7 +133,7 @@ def main():
 
         # org_randomization_dict[org["org_id"]] = randomized_cpd_lists
 
-        write_json(randomized_cpd_lists,out_dir+org+".json")
+        write_json(randomized_cpd_lists,out_dir+org["org_id"]+".json")
 
     # for org in org_randomization_dict:
     #     write_json(org_randomization_dict[org],out_dir+org+".json")
