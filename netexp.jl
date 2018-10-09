@@ -202,6 +202,7 @@ end
 # seedkey = "Enceladus_20-SAFR-032"
 
 # SEEDJSON = "29012812801.json" ## Contains keys numbered 1-100, with values of random compounds
+
 const TARGETJSON = "targets/Freilich09.json"
 const EDGEDIR = "jgi/2018-09-29/ph_edge_jsons/archaea/"
 const SEEDDIR = "seeds/minimal_seed_randomizations/archaea/"
