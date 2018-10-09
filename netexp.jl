@@ -1,5 +1,6 @@
 ## Network expansion using lists/dicts
 import JSON
+using Profile
 
 function prepare_matrices_and_targets(reaction_edges_json::String,target_json::String)
 
@@ -164,11 +165,11 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
 
                     println("Writing out randomization: $n_seed")
                     simple_write_out(FULLOUTPATH,x,t,compounds,reactions,XY["X"],XY["Y"])
-
+                    break
                 end
-                
             end
         end
+        break
     end
 end
 
@@ -206,9 +207,11 @@ if ispath(OUTDIR)==false
     mkpath(OUTDIR)
 end
 
-enumerate_minimal_seed_sets(TARGETJSON,EDGEDIR,SEEDDIR,OUTDIR)
+@time enumerate_minimal_seed_sets(TARGETJSON,EDGEDIR,SEEDDIR,OUTDIR)
 
-
+Profile.init(n=10^7)
+@profile enumerate_minimal_seed_sets(TARGETJSON,EDGEDIR,SEEDDIR,OUTDIR)
+Profile.print()
 
 ########################################
 #### MANY NETWORK EXPANSION RUN ######
