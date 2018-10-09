@@ -1,6 +1,5 @@
 ## Network expansion using lists/dicts
 import JSON
-using Profile
 using LinearAlgebra
 
 const EdgesType = Dict{String,Dict{String,Vector{String}}}
@@ -127,13 +126,12 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
 
     for FNAME in readdir(EDGEDIR) 
 
-        FULLEDGEPATH = EDGEDIR*FNAME #json of all edges for organism
-        FULLSEEDPATH = SEEDDIR*FNAME #json of all seeds for organism
+        FULLEDGEPATH = joinpath(EDGEDIR, FNAME) #json of all edges for organism
+        FULLSEEDPATH = joinpath(SEEDDIR, FNAME) #json of all seeds for organism
         
-        if isfile(FULLEDGEPATH)==true
+        if isfile(FULLEDGEPATH)
             
-            if split(FULLEDGEPATH,".")[2] == "json"
-
+            if last(splitext(FULLEDGEPATH)) == ".json"
                 println("Finding minimal seeds for: $FNAME")
                 
                 R, P, compounds, reactions, t = prepare_matrices_and_targets(FULLEDGEPATH, TARGETJSON)
@@ -149,14 +147,14 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
                 
                 all_of_the_seeds = Vector{Vector{String}}(JSON.parsefile(FULLSEEDPATH))
                 for (n_seed, seed_list) in enumerate(all_of_the_seeds)
-                    OUTDIRWITHORGNAME = OUTDIR*split(FNAME,".json")[1]*"/"
+                    OUTDIRWITHORGNAME = joinpath(OUTDIR, first(splitext(FNAME)))
 
-                    if ispath(OUTDIRWITHORGNAME)==false
+                    if !ispath(OUTDIRWITHORGNAME)
                         mkpath(OUTDIRWITHORGNAME)
                     end
 
                     # I want 1 randomizaiton per outpath
-                    FULLOUTPATH = OUTDIRWITHORGNAME*string(n_seed)*".json"
+                    FULLOUTPATH = joinpath(OUTDIRWITHORGNAME, "$n_seed.json")
 
                     x = prepare_seeds(seed_list, compounds)
 
@@ -173,11 +171,9 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
 
                     println("Writing out randomization: $n_seed")
                     simple_write_out(FULLOUTPATH, x, t, compounds, reactions, X, Y)
-                    break
                 end
             end
         end
-        break
     end
 end
 
@@ -206,20 +202,16 @@ end
 # seedkey = "Enceladus_20-SAFR-032"
 
 # SEEDJSON = "29012812801.json" ## Contains keys numbered 1-100, with values of random compounds
-TARGETJSON = "targets/Freilich09.json"
-EDGEDIR = "jgi/2018-09-29/ph_edge_jsons/archaea/"
-SEEDDIR = "seeds/minimal_seed_randomizations/archaea/"
-OUTDIR = "results/simple/minimal_seed_randomizations_fixed/archaea/"  #*split(SEEDJSON,".json")[1]*"/"
+const TARGETJSON = "targets/Freilich09.json"
+const EDGEDIR = "jgi/2018-09-29/ph_edge_jsons/archaea/"
+const SEEDDIR = "seeds/minimal_seed_randomizations/archaea/"
+const OUTDIR = "results/simple/minimal_seed_randomizations_fixed/archaea/"  #*split(SEEDJSON,".json")[1]*"/"
 
-if ispath(OUTDIR)==false
+if !ispath(OUTDIR)
     mkpath(OUTDIR)
 end
 
-@time enumerate_minimal_seed_sets(TARGETJSON,EDGEDIR,SEEDDIR,OUTDIR)
-
-Profile.init(n=10^7)
-@profile enumerate_minimal_seed_sets(TARGETJSON,EDGEDIR,SEEDDIR,OUTDIR)
-Profile.print()
+enumerate_minimal_seed_sets(TARGETJSON,EDGEDIR,SEEDDIR,OUTDIR)
 
 ########################################
 #### MANY NETWORK EXPANSION RUN ######
