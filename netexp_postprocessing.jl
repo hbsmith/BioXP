@@ -94,11 +94,11 @@ end
 #########################
 ### FORMAT MANY FILES
 #########################
-DATADIR = "results/simple/kegg_edge_json/"
+DATADIR = "results/simple/minimal_seed_randomizations_fixed/archaea/2506520044/"
 
 # fsplit = split(DATADIR,"/")
 # OUTDIR = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-OUTDIR = "results/formatted/kegg_edge_json/"
+OUTDIR = "results/formatted/minimal_seed_randomizations_fixed/archaea/2506520044/"
 
 if ispath(OUTDIR)==false
     mkpath(OUTDIR)
