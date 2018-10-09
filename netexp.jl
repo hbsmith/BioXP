@@ -1,11 +1,15 @@
 ## Network expansion using lists/dicts
 import JSON
+using LinearAlgebra
 
-function prepare_matrices_and_targets(reaction_edges_json::String,target_json::String)
+const EdgesType = Dict{String,Dict{String,Vector{String}}}
+const TargetsType = Dict{String,String}
 
-    reaction_edges = JSON.parsefile(reaction_edges_json)
+function prepare_matrices_and_targets(reaction_edges_json::String, target_json::String)
+    reaction_edges = EdgesType(JSON.parsefile(reaction_edges_json))
 
-    reactions = [i for i in keys(reaction_edges["products"])] ## could use ["substrates""] too
+    ## could use ["substrates""] too
+    reactions = [i for i in keys(reaction_edges["products"])]
 
     cpd_reactants_flat = unique(Iterators.flatten(values(reaction_edges["substrates"])))
     cpd_products_flat = unique(Iterators.flatten(values(reaction_edges["products"])))
@@ -24,50 +28,45 @@ function prepare_matrices_and_targets(reaction_edges_json::String,target_json::S
         P[:,i] = [Int(cpd in reaction_edges["products"][r]) for cpd in compounds]
     end
     ################################################################################
-    target_compounds = JSON.parsefile(target_json);
+    target_compounds = TargetsType(JSON.parsefile(target_json));
     target_compounds_org = collect(intersect(keys(target_compounds),compounds))
     t = [Int(i in target_compounds_org) for i in compounds]
     ################################################################################
-    (R,P,compounds,reactions,t)
 
+    R, P, compounds, reactions, t
 end
 
-function prepare_seeds(seed_list::Array{String,1},compounds::Array{String,1})
+function prepare_seeds(seed_list::Vector{String}, compounds::Vector{String})
     [Int(i in seed_list) for i in compounds]
 end
 
-function prepare_seeds(seed_list,compounds)
-    [Int(i in seed_list) for i in compounds]
+function seed_indicies(seed_list::Vector{String}, compounds::Vector{String})
+    # This is a generator, not an array. You can iterate over this thing exactly once
+    # because it only stores the current state and what it needs to find the next state.
+    (findfirst(isequal(c), compounds) for c in seed_list)
 end
 
-function prepare_seeds(seed_json::String,seed_key::String,compounds::Array{String,1})
-    seed_dict = JSON.parsefile(seed_json)
-    [Int(i in seed_dict[seed_key]) for i in compounds]
-end
+# This is just cosmetic
+const TArray{T, N} = Transpose{T, Array{T, N}}
 
-function netexp(R::Array{Int,2},P::Array{Int,2},x::Array{Int,1})
+function netexp(R::Array{Int,2}, P::Array{Int,2}, RT::TArray{Int,2}, PT::TArray{Int,2},
+                b::Vector{Int}, bp::Vector{Int}, x::Array{Int,1})
     
     # initialize variables:
     # find the total number of metabolites in the seed set
     k = sum(x);
+
     # initialize previous iteration count of metabolites in the network
     k0 = 0;
+
     # iteration 1 consistes of the seed set
-    X = []
-    push!(X,x)  ## Each row is 1 generation
+    X = Vector{Int}[x]
+
     # initialize reaction accumulation matrix
-    Y = [];
-    
-    # transpose R
-    RT = transpose(R)
-    PT = transpose(P)
-    
-    b = [sum(RT[i,:]) for i in 1:size(RT)[1]]
-    bp = [sum(PT[i,:]) for i in 1:size(PT)[1]]
+    Y = Vector{Int}[];
 
     # while the metabolite set has not converged
     while k > k0 
-        
         # update previous number of metabolites
         k0 = k;
         
@@ -75,30 +74,41 @@ function netexp(R::Array{Int,2},P::Array{Int,2},x::Array{Int,1})
         # network within each reaction; if this isequal to the total 
         # number of metabolites in each reaction, then the reaction 
         # is added to the network
-        y = Array{Int}(RT * x .== b)  ## Forward reactions
-        yp = Array{Int}(PT * x .== bp) ## Backward reactions
+
+        ## Forward reactions
+        y = RT * x .== b
+        ## Backward reactions
+        yp = PT * x .== bp
 
         # P*y > 0 ==> represents the vector of reactions that produce 
         # metabolite i. (i in 1:m).  If this is >0, 
         # then that metabolite is producable 
-        xnew = Array{Int}(P * y .> 0)   ## Forward reactions
-        xnewp = Array{Int}(R * yp .> 0) ## Backward reactions
+
+        ## Forward reactions
+        xnew = P * y .> 0
+
+        ## Backward reactions
+        xnewp = R * yp .> 0
         
-        #add to previous set of metabolites (only needed to retain seed set)
-        x = x .| xnew .| xnewp ## Add forward and backward reactions
+        # add to previous set of metabolites (only needed to retain seed set)
+
+        ## Add forward and backward reactions
+        x = (x .| xnew .| xnewp)
+        y = Array{Int}(y .| yp)
         
         # find new total number of metabolites in network
         k = sum(x);
 
         # append accumulation matricies
-        push!(X,x)
-        push!(Y,y .| yp)
-    
+        push!(X, x)
+        push!(Y, y)
     end
-    (X,Y)
+    X, Y
 end
 
-function simple_write_out(outpath::String,x::Array{Int,1},t::Array{Int,1},compounds::Array{String,1},reactions::Array{String,1},X::Array{Any,1},Y::Array{Any,1})
+function simple_write_out(outpath::String, x::Array{Int,1}, t::Array{Int,1},
+                          compounds::Array{String,1}, reactions::Array{String,1},
+                          X::Vector{Vector{Int}}, Y::Vector{Vector{Int}})
     data = Dict()
     data["x"] = x
     data["t"] = t
@@ -112,61 +122,56 @@ function simple_write_out(outpath::String,x::Array{Int,1},t::Array{Int,1},compou
     end
 end
 
-
 function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR::String,OUTDIR::String)
 
     for FNAME in readdir(EDGEDIR) 
 
-        FULLEDGEPATH = EDGEDIR*FNAME #json of all edges for organism
-        FULLSEEDPATH = SEEDDIR*FNAME #json of all seeds for organism
+        FULLEDGEPATH = joinpath(EDGEDIR, FNAME) #json of all edges for organism
+        FULLSEEDPATH = joinpath(SEEDDIR, FNAME) #json of all seeds for organism
         
-        if isfile(FULLEDGEPATH)==true
+        if isfile(FULLEDGEPATH)
             
-            if split(FULLEDGEPATH,".")[2] == "json"
-
+            if last(splitext(FULLEDGEPATH)) == ".json"
                 println("Finding minimal seeds for: $FNAME")
                 
-                (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLEDGEPATH,TARGETJSON)
+                R, P, compounds, reactions, t = prepare_matrices_and_targets(FULLEDGEPATH, TARGETJSON)
+
+                RT = transpose(R)
+                PT = transpose(P)
+
+                b = vec(sum(RT, dims=2))
+                bp = vec(sum(PT, dims=2))
+
                 tT = transpose(t)
                 sum_t = sum(t)
                 
-                for (n_seed,seed_list) in enumerate(JSON.parsefile(FULLSEEDPATH))
+                all_of_the_seeds = Vector{Vector{String}}(JSON.parsefile(FULLSEEDPATH))
+                for (n_seed, seed_list) in enumerate(all_of_the_seeds)
+                    OUTDIRWITHORGNAME = joinpath(OUTDIR, first(splitext(FNAME)))
 
-                    OUTDIRWITHORGNAME = OUTDIR*split(FNAME,".json")[1]*"/"
-
-                    if ispath(OUTDIRWITHORGNAME)==false
+                    if !ispath(OUTDIRWITHORGNAME)
                         mkpath(OUTDIRWITHORGNAME)
                     end
 
-                    FULLOUTPATH = OUTDIRWITHORGNAME*string(n_seed)*".json"  #I want 1 randomizaiton per outpath
+                    # I want 1 randomizaiton per outpath
+                    FULLOUTPATH = joinpath(OUTDIRWITHORGNAME, "$n_seed.json")
 
-                    seed_list_original = deepcopy(seed_list)
+                    x = prepare_seeds(seed_list, compounds)
 
-                    XY = Dict()
+                    X, Y = Vector{Int}[], Vector{Int}[]
+                    for i in seed_indicies(seed_list, compounds)
+                        x[i] = 0
 
-                    for cpd in seed_list_original
+                        X, Y = netexp(R, P, RT, PT, b, bp, x)
 
-                        deleteat!(seed_list,findfirst(isequal(cpd),seed_list)) # remove cpd from seed_list
-                        
-                        x = prepare_seeds(seed_list,compounds)
-
-                        (XY["X"],XY["Y"]) = netexp(R,P,x)
-
-                        if (tT*XY["X"][end])!=sum_t # if all targets not produced
-
-                            push!(seed_list,cpd) # put cpd back in seed_list
-
+                        if (tT * X[end]) != sum_t
+                            x[i] = 1
                         end
-
                     end
 
-                    x = prepare_seeds(seed_list,compounds)
-
                     println("Writing out randomization: $n_seed")
-                    simple_write_out(FULLOUTPATH,x,t,compounds,reactions,XY["X"],XY["Y"])
-
+                    simple_write_out(FULLOUTPATH, x, t, compounds, reactions, X, Y)
                 end
-                
             end
         end
     end
@@ -197,19 +202,17 @@ end
 # seedkey = "Enceladus_20-SAFR-032"
 
 # SEEDJSON = "29012812801.json" ## Contains keys numbered 1-100, with values of random compounds
-TARGETJSON = "targets/Freilich09.json"
 
-EDGEDIR = "jgi/2018-09-29/ph_edge_jsons/archaea_split/a0/"
-SEEDDIR = "seeds/minimal_seed_randomizations/archaea/"
-OUTDIR = "results/simple/minimal_seed_randomizations_fixed/archaea/a0/"  #*split(SEEDJSON,".json")[1]*"/"
+const TARGETJSON = "targets/Freilich09.json"
+const EDGEDIR = "jgi/2018-09-29/ph_edge_jsons/archaea/"
+const SEEDDIR = "seeds/minimal_seed_randomizations/archaea/"
+const OUTDIR = "results/simple/minimal_seed_randomizations_fixed/archaea/"  #*split(SEEDJSON,".json")[1]*"/"
 
-if ispath(OUTDIR)==false
+if !ispath(OUTDIR)
     mkpath(OUTDIR)
 end
 
 enumerate_minimal_seed_sets(TARGETJSON,EDGEDIR,SEEDDIR,OUTDIR)
-
-
 
 ########################################
 #### MANY NETWORK EXPANSION RUN ######
