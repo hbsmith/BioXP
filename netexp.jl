@@ -55,17 +55,18 @@ function netexp(R::Array{Int,2}, P::Array{Int,2}, RT::TArray{Int,2}, PT::TArray{
     # initialize variables:
     # find the total number of metabolites in the seed set
     k = sum(x);
+
     # initialize previous iteration count of metabolites in the network
     k0 = 0;
+
     # iteration 1 consistes of the seed set
-    X = []
-    push!(X,x)  ## Each row is 1 generation
+    X = Vector{Int}[x]
+
     # initialize reaction accumulation matrix
-    Y = [];
+    Y = Vector{Int}[];
 
     # while the metabolite set has not converged
     while k > k0 
-        
         # update previous number of metabolites
         k0 = k;
         
@@ -89,14 +90,15 @@ function netexp(R::Array{Int,2}, P::Array{Int,2}, RT::TArray{Int,2}, PT::TArray{
         k = sum(x);
 
         # append accumulation matricies
-        push!(X,x)
-        push!(Y,y .| yp)
-    
+        push!(X, x)
+        push!(Y, y .| yp)
     end
-    (X,Y)
+    X, Y
 end
 
-function simple_write_out(outpath::String,x::Array{Int,1},t::Array{Int,1},compounds::Array{String,1},reactions::Array{String,1},X::Array{Any,1},Y::Array{Any,1})
+function simple_write_out(outpath::String, x::Array{Int,1}, t::Array{Int,1},
+                          compounds::Array{String,1}, reactions::Array{String,1},
+                          X::Vector{Vector{Int}}, Y::Vector{Vector{Int}})
     data = Dict()
     data["x"] = x
     data["t"] = t
@@ -146,7 +148,7 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
 
                     seed_list_original = deepcopy(seed_list)
 
-                    XY = Dict()
+                    XY = Dict{String,Vector{Vector{Int}}}()
 
                     for cpd in seed_list_original
 
