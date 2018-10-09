@@ -140,8 +140,8 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
                 RT = transpose(R)
                 PT = transpose(P)
 
-                b = [sum(RT[i,:]) for i in 1:size(RT)[1]]
-                bp = [sum(PT[i,:]) for i in 1:size(PT)[1]]
+                b = vec(sum(RT, dims=2))
+                bp = vec(sum(PT, dims=2))
 
                 tT = transpose(t)
                 sum_t = sum(t)
@@ -162,9 +162,9 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
                     X, Y = Vector{Int}[], Vector{Int}[]
                     for cpd in seed_list_original
                         # remove cpd from seed_list
-                        deleteat!(seed_list,findfirst(isequal(cpd),seed_list))
+                        deleteat!(seed_list, findfirst(isequal(cpd), seed_list))
                         
-                        x = prepare_seeds(seed_list,compounds)
+                        x = prepare_seeds(seed_list, compounds)
 
                         X, Y = netexp(R, P, RT, PT, b, bp, x)
 
@@ -175,7 +175,7 @@ function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR:
                         end
                     end
 
-                    x = prepare_seeds(seed_list,compounds)
+                    x = prepare_seeds(seed_list, compounds)
 
                     println("Writing out randomization: $n_seed")
                     simple_write_out(FULLOUTPATH, x, t, compounds, reactions, X, Y)
