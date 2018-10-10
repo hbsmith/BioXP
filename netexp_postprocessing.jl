@@ -95,14 +95,14 @@ function format_many_nested(DOMAINDIR::String,OUTDIR::String)
 
     for orgdir in readdir(DOMAINDIR)
 
-        for seedname in readdir(subdir)
+        if !ispath(joinpath(OUTDIR,orgdir))
+            mkpath(joinpath(OUTDIR,orgdir))
+        end
 
-            seedpath_in = DOMAINDIR*orgdir*seedname
-            seedpath_out = OUTDIR*orgdir*seedname
+        for seedname in readdir(joinpath(DOMAINDIR,orgdir))
 
-            if !ispath(seedpath_out)
-                mkpath(seedpath_out)
-            end
+            seedpath_in = joinpath(DOMAINDIR,orgdir,seedname)
+            seedpath_out = joinpath(OUTDIR,orgdir,seedname)
 
             if isfile(seedpath_in) && (last(splitext(seedpath_in)) == ".json")
 
@@ -122,9 +122,9 @@ function format_many_nested(DOMAINDIR::String,OUTDIR::String)
                 end
             
             end
-        break
+        
         end
-    break
+    
     end
     
 end
@@ -133,10 +133,10 @@ end
 ### FORMAT MANY NESTED FILES
 #########################
 for domain in ["archaea","bacteria"]
-    const DATADIR = "results/simple/min_seeds_partial/"*domain*"/"
-    const OUTDIR = "results/formatted/min_seeds_partial/"*domain*"/"
+    DATADIR = "results/simple/min_seeds_partial/"*domain*"/"
+    OUTDIR = "results/formatted/min_seeds_partial/"*domain*"/"
 
-    format_many(DATADIR,OUTDIR)
+    format_many_nested(DATADIR,OUTDIR)
 
 end
 
