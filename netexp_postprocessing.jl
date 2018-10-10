@@ -100,6 +100,10 @@ function format_many_nested(DOMAINDIR::String,OUTDIR::String)
             seedpath_in = DOMAINDIR*orgdir*seedname
             seedpath_out = OUTDIR*orgdir*seedname
 
+            if !ispath(seedpath_out)
+                mkpath(seedpath_out)
+            end
+
             if isfile(seedpath_in) && (last(splitext(seedpath_in)) == ".json")
 
                 D = JSON.parsefile(seedpath_in)
@@ -131,10 +135,6 @@ end
 for domain in ["archaea","bacteria"]
     const DATADIR = "results/simple/min_seeds_partial/"*domain*"/"
     const OUTDIR = "results/formatted/min_seeds_partial/"*domain*"/"
-
-    if !ispath(OUTDIR)
-        mkpath(OUTDIR)
-    end
 
     format_many(DATADIR,OUTDIR)
 
