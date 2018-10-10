@@ -210,3 +210,23 @@ Archaea EcosystemCategory info:
 collections.Counter([i['EcosystemCategory'] for i in ph_archaea_records])
 Counter({u'Aquatic': 24, u'Terrestrial': 1, u'Wastewater': 1, u'zzz': 2})
 ```
+
+### 2018-10-9/10 Tues/Wed
+
+From selfish-metabolism paper:
+
+> The ecosystem,
+> like the reductive chemo-autotrophic
+> cell, takes in CO2, H2 (or other reductants),
+> NH3, H2S, and H3PO4, to create
+> this core which consists of twenty
+> amino acids, four ribonucleotides, four
+> deoxyribonucleotides, and a few sugars,
+> polar lipids, and cofactors. The
+> rest of biomolecular complexity, and
+> most of the distinction among individuals
+> and species, is defined by combinatorial
+> assembly of building blocks
+> from this core.
+
+pH actually should be 11-12, not 9-11. But principles still hold
