@@ -91,20 +91,69 @@ function format_many(DATADIR::String,OUTDIR::String)
 
 end
 
+function format_many_nested(DOMAINDIR::String,OUTDIR::String)
+
+    for orgdir in readdir(DOMAINDIR)
+
+        for seedname in readdir(subdir)
+
+            seedpath_in = DOMAINDIR*orgdir*seedname
+            seedpath_out = OUTDIR*orgdir*seedname
+
+            if isfile(seedpath_in) && (last(splitext(seedpath_in)) == ".json")
+
+                D = JSON.parsefile(seedpath_in)
+                x = Array{Int,1}(D["x"])
+                t = Array{Int,1}(D["t"])
+                compounds = Array{String,1}(D["compounds"])
+                reactions = Array{String,1}(D["reactions"])
+                X = Array{Any,1}(D["X"])
+                Y = Array{Any,1}(D["Y"])
+        
+                newdata = formatted_netexp_results(x,t,compounds,reactions,X,Y)
+        
+                ## Write out
+                open(seedpath_out,"w") do f
+                    JSON.print(f, newdata)
+                end
+            
+            end
+        break
+        end
+    break
+    end
+    
+end
+            
+#########################
+### FORMAT MANY NESTED FILES
+#########################
+for domain in ["archaea","bacteria"]
+    const DATADIR = "results/simple/min_seeds_partial/"*domain*"/"
+    const OUTDIR = "results/formatted/min_seeds_partial/"*domain*"/"
+
+    if !ispath(OUTDIR)
+        mkpath(OUTDIR)
+    end
+
+    format_many(DATADIR,OUTDIR)
+
+end
+
 #########################
 ### FORMAT MANY FILES
 #########################
-DATADIR = "results/simple/minimal_seed_randomizations_fixed/archaea/2506520044/"
+# const DATADIR = "results/simple/min_seeds_partial/archaea/2506520044/"
 
-# fsplit = split(DATADIR,"/")
-# OUTDIR = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-OUTDIR = "results/formatted/minimal_seed_randomizations_fixed/archaea/2506520044/"
+# # fsplit = split(DATADIR,"/")
+# # OUTDIR = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+# const OUTDIR = "results/formatted/min_seeds_partial/archaea/2506520044/"
 
-if ispath(OUTDIR)==false
-    mkpath(OUTDIR)
-end
+# if !ispath(OUTDIR)
+#     mkpath(OUTDIR)
+# end
 
-format_many(DATADIR,OUTDIR)
+# format_many(DATADIR,OUTDIR)
 
 #########################
 ### FORMAT SINGLE FILE
