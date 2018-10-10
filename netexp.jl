@@ -204,9 +204,9 @@ end
 # SEEDJSON = "29012812801.json" ## Contains keys numbered 1-100, with values of random compounds
 
 const TARGETJSON = "targets/Freilich09.json"
-const EDGEDIR = "jgi/2018-09-29/ph_edge_jsons/archaea_split/a0s/"
+const EDGEDIR = "jgi/2018-09-29/ph_edge_jsons/archaea_split/a00s/"
 const SEEDDIR = "seeds/minimal_seed_randomizations/archaea/"
-const OUTDIR = "results/simple/minimal_seed_randomizations_fixed/archaea/a0s/"  #*split(SEEDJSON,".json")[1]*"/"
+const OUTDIR = "results/simple/minimal_seed_randomizations_fixed/archaea/a00s/"  #*split(SEEDJSON,".json")[1]*"/"
 
 if !ispath(OUTDIR)
     mkpath(OUTDIR)

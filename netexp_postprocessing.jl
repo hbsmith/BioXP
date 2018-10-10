@@ -132,7 +132,7 @@ end
 #########################
 ### FORMAT MANY NESTED FILES
 #########################
-for domain in ["archaea","bacteria"]
+for domain in ["bacteria"]
     DATADIR = "results/simple/min_seeds_partial/"*domain*"/"
     OUTDIR = "results/formatted/min_seeds_partial/"*domain*"/"
 
