@@ -230,3 +230,6 @@ From selfish-metabolism paper:
 > from this core.
 
 pH actually should be 11-12, not 9-11. But principles still hold
+
+- Created new directory for organized versions of randomization jsons (`min_seeds_final`)
+  - Added in all archaea; all outdirectory bacteria, and b2s, b3s
