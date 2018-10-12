@@ -248,24 +248,26 @@ enumerate_minimal_seed_sets(TARGETJSON,EDGEDIR,SEEDDIR,OUTDIR)
 ########################################
 #### SINGLE NETWORK EXPANSION RUN ######
 ########################################
-# ## Inputs
+## Inputs
 # ds80_seeds = ["C00031","C00001"]
-# reaction_edges_json = "kegg/2018-09-25/reaction_edges.json"
-# target_json = "targets/Freilich09.json"
-# seed_json = "seeds.json"
+encelP_seeds = ["C00001","C00011","C00237","C00282","C00067","C00132","C06548","C00469","C00283","C00014","C00697","C01326","C01438","C01548","C06547","C11505","C20783","C01407","C00009"]
+reaction_edges_json = "kegg/2018-09-25/reaction_edges.json"
+target_json = "targets/Freilich09.json"
+seed_json = "seeds.json"
 
-# ## Create out path
+## Create out path
 # fsplit = split(reaction_edges_json,"/")
-# # path = "results/netexpdata_jsons/"*fsplit[end-2]*"/"*fsplit[end-1]
+# path = "results/netexpdata_jsons/"*fsplit[end-2]*"/"*fsplit[end-1]
 # path = "results/data_glucose_test/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+path ="results/simple/kegg_edge_json_P/"
 
-# if ispath(path)==false
-#     mkpath(path)
-# end
-# fullpath = path*"data_glucose_test.json"
+if !ispath(path)
+    mkpath(path)
+end
+fullpath = path*"reaction_edges_P.json"
 
-# ## DO MAIN
-# (R,P,compounds,reactions,t) = prepare_matrices_and_targets(reaction_edges_json,target_json)
-# x = prepare_seeds(ds80_seeds,compounds)
-# (X,Y) = netexp(R,P,x)
-# simple_write_out(fullpath,x,t,compounds,reactions,X,Y)
+## DO MAIN
+(R,P,compounds,reactions,t) = prepare_matrices_and_targets(reaction_edges_json,target_json)
+x = prepare_seeds(encelP_seeds,compounds)
+(X,Y) = netexp(R,P,x)
+simple_write_out(fullpath,x,t,compounds,reactions,X,Y)
