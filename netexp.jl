@@ -199,20 +199,20 @@ end
 ########################################
 #### CHECK MINIMAL SEED SET ######
 ########################################
-# seedkey = "Enceladus_20-SAFR-032"
+# # seedkey = "Enceladus_20-SAFR-032"
 
-# SEEDJSON = "29012812801.json" ## Contains keys numbered 1-100, with values of random compounds
+# # SEEDJSON = "29012812801.json" ## Contains keys numbered 1-100, with values of random compounds
 
-const TARGETJSON = "targets/Freilich09.json"
-const EDGEDIR = "jgi/2018-09-29/ph_edge_jsons/archaea_split/a00s/"
-const SEEDDIR = "seeds/minimal_seed_randomizations/archaea/"
-const OUTDIR = "results/simple/minimal_seed_randomizations_fixed/archaea/a00s/"  #*split(SEEDJSON,".json")[1]*"/"
+# const TARGETJSON = "targets/Freilich09.json"
+# const EDGEDIR = "jgi/2018-09-29/ph_edge_jsons/archaea_split/a00s/"
+# const SEEDDIR = "seeds/minimal_seed_randomizations/archaea/"
+# const OUTDIR = "results/simple/minimal_seed_randomizations_fixed/archaea/a00s/"  #*split(SEEDJSON,".json")[1]*"/"
 
-if !ispath(OUTDIR)
-    mkpath(OUTDIR)
-end
+# if !ispath(OUTDIR)
+#     mkpath(OUTDIR)
+# end
 
-enumerate_minimal_seed_sets(TARGETJSON,EDGEDIR,SEEDDIR,OUTDIR)
+# enumerate_minimal_seed_sets(TARGETJSON,EDGEDIR,SEEDDIR,OUTDIR)
 
 ########################################
 #### MANY NETWORK EXPANSION RUN ######
@@ -250,10 +250,10 @@ enumerate_minimal_seed_sets(TARGETJSON,EDGEDIR,SEEDDIR,OUTDIR)
 ########################################
 ## Inputs
 # ds80_seeds = ["C00031","C00001"]
-encelP_seeds = ["C00001","C00011","C00237","C00282","C00067","C00132","C06548","C00469","C00283","C00014","C00697","C01326","C01438","C01548","C06547","C11505","C20783","C01407","C00009"]
+seed_list = ["C00001","C00011","C00237","C00282","C00067","C00132","C06548","C00469","C00283","C00014","C00697","C01326","C01438","C01548","C06547","C11505","C20783","C01407","C00009"]
 reaction_edges_json = "kegg/2018-09-25/reaction_edges.json"
 target_json = "targets/Freilich09.json"
-seed_json = "seeds.json"
+# seed_json = "seeds.json"
 
 ## Create out path
 # fsplit = split(reaction_edges_json,"/")
@@ -268,6 +268,28 @@ fullpath = path*"reaction_edges_P.json"
 
 ## DO MAIN
 (R,P,compounds,reactions,t) = prepare_matrices_and_targets(reaction_edges_json,target_json)
-x = prepare_seeds(encelP_seeds,compounds)
-(X,Y) = netexp(R,P,x)
-simple_write_out(fullpath,x,t,compounds,reactions,X,Y)
+
+RT = transpose(R)
+PT = transpose(P)
+
+b = vec(sum(RT, dims=2))
+bp = vec(sum(PT, dims=2))
+
+tT = transpose(t)
+sum_t = sum(t)
+
+x = prepare_seeds(seed_list, compounds)
+
+X, Y = Vector{Int}[], Vector{Int}[]
+# for i in seed_indicies(seed_list, compounds)
+#     x[i] = 0
+
+X, Y = netexp(R, P, RT, PT, b, bp, x)
+
+    # if (tT * X[end]) != sum_t
+    #     x[i] = 1
+    # end
+# end
+
+println("Writing out single network expansion...")
+simple_write_out(fullpath, x, t, compounds, reactions, X, Y)
