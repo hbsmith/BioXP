@@ -132,13 +132,13 @@ end
 #########################
 ### FORMAT MANY NESTED FILES
 #########################
-for domain in ["bacteria"]
-    DATADIR = "results/simple/min_seeds_partial/"*domain*"/"
-    OUTDIR = "results/formatted/min_seeds_partial/"*domain*"/"
+# for domain in ["bacteria"]
+#     DATADIR = "results/simple/min_seeds_partial/"*domain*"/"
+#     OUTDIR = "results/formatted/min_seeds_partial/"*domain*"/"
 
-    format_many_nested(DATADIR,OUTDIR)
+#     format_many_nested(DATADIR,OUTDIR)
 
-end
+# end
 
 #########################
 ### FORMAT MANY FILES
@@ -158,27 +158,28 @@ end
 #########################
 ### FORMAT SINGLE FILE
 #########################
-# fullinpath = "results/data_glucose_test/kegg/2018-09-25data_glucose_test.json"
-# # fullinpath = path*"data_glucose_test.json"
+fullinpath = "results/simple/kegg_edge_json_P/reaction_edges_P.json"
+# fullinpath = path*"data_glucose_test.json"
 
-# D = JSON.parsefile(fullinpath)
-# x = Array{Int,1}(D["x"])
-# t = Array{Int,1}(D["t"])
-# compounds = Array{String,1}(D["compounds"])
-# reactions = Array{String,1}(D["reactions"])
-# X = Array{Any,1}(D["X"])
-# Y = Array{Any,1}(D["Y"])
+D = JSON.parsefile(fullinpath)
+x = Array{Int,1}(D["x"])
+t = Array{Int,1}(D["t"])
+compounds = Array{String,1}(D["compounds"])
+reactions = Array{String,1}(D["reactions"])
+X = Array{Any,1}(D["X"])
+Y = Array{Any,1}(D["Y"])
 
-# newdata = formatted_netexp_results(x,t,compounds,reactions,X,Y)
+newdata = formatted_netexp_results(x,t,compounds,reactions,X,Y)
 
-# fsplit = split(fullinpath,"/")
-# outpath = "results_formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-# if ispath(outpath)==false
-#     mkpath(outpath)
-# end
-# fulloutpath = outpath*"2018-09-25data_glucose_test.json"
+fsplit = split(fullinpath,"/")
+# outpath = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+outpath = "results/formatted/kegg_edge_json_P/"
+if !ispath(outpath)
+    mkpath(outpath)
+end
+fulloutpath = outpath*"reaction_edges_P.json"
 
-# ## Write out
-# open(fulloutpath,"w") do f
-#     JSON.print(f, newdata)
-# end
+## Write out
+open(fulloutpath,"w") do f
+    JSON.print(f, newdata)
+end
