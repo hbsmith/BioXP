@@ -39,7 +39,7 @@
     ``````
 
 
-- ​
+- 
 - Figure out the best way to store the reaction/compound data for easily converting to a networkx graph object.
   - I'm thinking the easiest way would be to add fields directly to the existing reaction jsons:
     - substrate field
@@ -69,7 +69,7 @@ There appear to be duplicate reactions amongst all the reaction ids. For example
 
   `reactions = nx.get_node_attributes(G,"reactions")`
 
-  ​
+  
 
 - These are:
 
@@ -233,3 +233,43 @@ pH actually should be 11-12, not 9-11. But principles still hold
 
 - Created new directory for organized versions of randomization jsons (`min_seeds_final`)
   - Added in all archaea; all outdirectory bacteria, and b2s, b3s
+
+- `compounds_new[0]` in step 1 is the same as `stats['scope_seeds']`
+
+
+
+```python
+def read_formatted_jsons_streamlined(INDIR,encel):
+    generation_dfs = []
+    stats_dicts = []
+    
+    for domain in os.listdir(INDIR):
+        for org in os.listdir(os.path.join(INDIR,domain)):
+            for fname in glob.glob(os.path.join(INDIR,domain,org,"*.json")):
+        
+                d = dict()
+        
+                with open(fname) as f:
+                    datajson = json.load(f)   
+                
+                d["seed"] = os.path.basename(fname).strip(".json")
+                d["org_id"] = org
+                d["domain"] = domain
+                d["path"] = fname
+                
+                d["network_compounds"] = datajson["stats"]["scope_compounds"]
+                d["network_reactions"] = datajson["stats"]["scope_reactions"]
+                d["seed_compounds"] = datajson["stats"]["scope_seeds"]
+                d["seed_compounds_on_enceladus"] = [list(set(clist) & set(encel)) for clist in d["seed_compounds"]]
+                d["target_compounds"] = datajson["stats"]["scope_targets"]
+                d["target_compounds_in_seeds"] = [list(set(clist) & set(d["target_compounds"])) for clist in d["seed_compounds"]]
+                d["n_generations"] = max(datajson["generations"].keys())
+                d["scope_compounds"] = datajson["generations"][d["n_generations"]]["compounds_cumulative"]
+                d["scope_reactions"] = datajson["generations"][d["n_generations"]]["reactions_cumulative"]
+
+                stats_dicts.append(datajson["stats"])
+                generation_dfs.append(pd.DataFrame(datajson["generations"]))
+            
+    return generation_dfs, stats_dicts
+```
+
