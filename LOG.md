@@ -293,5 +293,6 @@ def read_formatted_jsons_streamlined(INDIR,encel):
 - Rerun expansions with new `ph_edge_jsons`.
   - New results in `results/simple_2019-09-09/`
     - Starting with kegg (`kegg_edge_json_P/`)
-    - 
+    - Also did no P version
+- Now I need to figure out why I call a function which doesn't exist (prepare_seeds and get that to work, or change how i import seeds.)
 
