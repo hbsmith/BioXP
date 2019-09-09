@@ -217,79 +217,79 @@ end
 ########################################
 #### MANY NETWORK EXPANSION RUN ######
 ########################################
-# seedkey = "Enceladus_20-SAFR-032"
+seedkey = "Enceladus_20-SAFR-032"
 
-# SEEDJSON = "seeds.json"
-# TARGETJSON = "targets/Freilich09.json"
-# DATADIR = "jgi/2018-09-29/kegg_edge_json/"
+SEEDJSON = "seeds.json"
+TARGETJSON = "targets/Freilich09.json"
+DATADIR = "jgi/2019-09-09/ph_edge_jsons/archaea/"
 
-# # fsplit = split(DATADIR,"/")
-# # OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-# OUTDIR = "results/simple/kegg_edge_json/"
+# fsplit = split(DATADIR,"/")
+# OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+OUTDIR = "results/simple_2019-09-09/ph_edge_jsons/archaea/"
 
-# if ispath(OUTDIR)==false
-#     mkpath(OUTDIR)
-# end
+if ispath(OUTDIR)==false
+    mkpath(OUTDIR)
+end
 
-# for FNAME in readdir(DATADIR)
-#     FULLINPATH = DATADIR*FNAME
-#     FULLOUTPATH = OUTDIR*FNAME
-#     if isfile(FULLINPATH)==true
-#         if split(FULLINPATH,".")[2] == "json"
-#             ## DO MAIN
-#             (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLINPATH,TARGETJSON)
-#             x = prepare_seeds(SEEDJSON,seedkey,compounds)
-#             (X,Y) = netexp(R,P,x)
-#             simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
-#         end
-#     end
-# end
+for FNAME in readdir(DATADIR)
+    FULLINPATH = DATADIR*FNAME
+    FULLOUTPATH = OUTDIR*FNAME
+    if isfile(FULLINPATH)==true
+        if split(FULLINPATH,".")[2] == "json"
+            ## DO MAIN
+            (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLINPATH,TARGETJSON)
+            x = prepare_seeds(SEEDJSON,seedkey,compounds)
+            (X,Y) = netexp(R,P,x)
+            simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
+        end
+    end
+end
 
 ########################################
 #### SINGLE NETWORK EXPANSION RUN ######
 ########################################
-## Inputs
-# ds80_seeds = ["C00031","C00001"]
-seed_list = ["C00001","C00011","C00237","C00282","C00067","C00132","C06548","C00469","C00283","C00014","C00697","C01326","C01438","C01548","C06547","C11505","C20783","C01407","C00009"]
-reaction_edges_json = "kegg/2018-09-25/reaction_edges.json"
-target_json = "targets/Freilich09.json"
-# seed_json = "seeds.json"
+# ## Inputs
+# # ds80_seeds = ["C00031","C00001"]
+# seed_list = ["C00001","C00011","C00237","C00282","C00067","C00132","C06548","C00469","C00283","C00014","C00697","C01326","C01438","C01548","C06547","C11505","C20783","C01407"]#,"C00009"]
+# reaction_edges_json = "kegg/2018-09-25/reaction_edges.json"
+# target_json = "targets/Freilich09.json"
+# # seed_json = "seeds.json"
 
-## Create out path
-# fsplit = split(reaction_edges_json,"/")
-# path = "results/netexpdata_jsons/"*fsplit[end-2]*"/"*fsplit[end-1]
-# path = "results/data_glucose_test/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-path ="results/simple_2019-09-09/kegg_edge_json_P/"
+# ## Create out path
+# # fsplit = split(reaction_edges_json,"/")
+# # path = "results/netexpdata_jsons/"*fsplit[end-2]*"/"*fsplit[end-1]
+# # path = "results/data_glucose_test/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+# path ="results/simple_2019-09-09/kegg_edge_json/"
 
-if !ispath(path)
-    mkpath(path)
-end
-fullpath = path*"reaction_edges_P.json"
-
-## DO MAIN
-(R,P,compounds,reactions,t) = prepare_matrices_and_targets(reaction_edges_json,target_json)
-
-RT = transpose(R)
-PT = transpose(P)
-
-b = vec(sum(RT, dims=2))
-bp = vec(sum(PT, dims=2))
-
-tT = transpose(t)
-sum_t = sum(t)
-
-x = prepare_seeds(seed_list, compounds)
-
-X, Y = Vector{Int}[], Vector{Int}[]
-# for i in seed_indicies(seed_list, compounds)
-#     x[i] = 0
-
-X, Y = netexp(R, P, RT, PT, b, bp, x)
-
-    # if (tT * X[end]) != sum_t
-    #     x[i] = 1
-    # end
+# if !ispath(path)
+#     mkpath(path)
 # end
+# fullpath = path*"reaction_edges_P.json"
 
-println("Writing out single network expansion...")
-simple_write_out(fullpath, x, t, compounds, reactions, X, Y)
+# ## DO MAIN
+# (R,P,compounds,reactions,t) = prepare_matrices_and_targets(reaction_edges_json,target_json)
+
+# RT = transpose(R)
+# PT = transpose(P)
+
+# b = vec(sum(RT, dims=2))
+# bp = vec(sum(PT, dims=2))
+
+# tT = transpose(t)
+# sum_t = sum(t)
+
+# x = prepare_seeds(seed_list, compounds)
+
+# X, Y = Vector{Int}[], Vector{Int}[]
+# # for i in seed_indicies(seed_list, compounds)
+# #     x[i] = 0
+
+# X, Y = netexp(R, P, RT, PT, b, bp, x)
+
+#     # if (tT * X[end]) != sum_t
+#     #     x[i] = 1
+#     # end
+# # end
+
+# println("Writing out single network expansion...")
+# simple_write_out(fullpath, x, t, compounds, reactions, X, Y)
