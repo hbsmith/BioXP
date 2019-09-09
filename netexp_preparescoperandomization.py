@@ -119,11 +119,11 @@ def main():
 
     # org_randomization_dict = dict()
     for org in ph_archaea_stats_dicts:
-        print "Randomizing %s"%org["org_id"]
+        print("Randomizing %s"%org["org_id"])
 
         randomized_cpd_lists = list()
         for r in range(n_randomizations):
-            if r%10==0: print "Randomization %s"%r
+            if r%10==0: print("Randomization %s"%r)
             new_sorted_org_cpd_masses = initialize_randomization_for_organism_scope(org["scope_compounds"],kegg_masses)
             new_sorted_org_cpd_masses = mix_it_up(new_sorted_org_cpd_masses,beta,n_swaps)
             randomized_cpd_list = [i[0] for i in new_sorted_org_cpd_masses]

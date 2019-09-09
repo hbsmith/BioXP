@@ -259,7 +259,7 @@ target_json = "targets/Freilich09.json"
 # fsplit = split(reaction_edges_json,"/")
 # path = "results/netexpdata_jsons/"*fsplit[end-2]*"/"*fsplit[end-1]
 # path = "results/data_glucose_test/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-path ="results/simple/kegg_edge_json_P/"
+path ="results/simple_2019-09-09/kegg_edge_json_P/"
 
 if !ispath(path)
     mkpath(path)
