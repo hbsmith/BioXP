@@ -273,3 +273,14 @@ def read_formatted_jsons_streamlined(INDIR,encel):
     return generation_dfs, stats_dicts
 ```
 
+## 2019-08-20 Tuesday
+
+- Found the code used to make figure 1 in the submitted paper:
+
+  `BioXP/jupyter/netexp-plotting-PART1.ipynb`
+
+  I made a copied version to make edits to:
+
+  `BioXP/jupyter/netexp-plotting-PART1-revisions.ipynb`
+
+  so now I can mess around with showing the data in diff ways
