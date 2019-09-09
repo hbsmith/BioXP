@@ -289,6 +289,6 @@ def read_formatted_jsons_streamlined(INDIR,encel):
 
 - Need to add `element_conservation` field to reactions **done**
 - Need to remove those reactions from the `reaction_edges.json` KEGG file (or rather duplicate that version of KEGG and remove these from the duplicated version) **done. i have explicitly renamed the old files, appending `no_element_conservation` to the name. the new conserved files have the original name without the addendum.**
-- Then I can rerun the `netexp_preprocessing.py` script with this new `reaction_edges_element_conserved.json` file as an input, and I shouldn't have to change any other inputs--just need to specify a new output directory.
+- Then I can rerun the `netexp_preprocessing.py` script with this new `reaction_edges_element_conserved.json` file as an input, and I shouldn't have to change any other inputs--just need to specify a new output directory. **done**
 - Rerun expansions with new `ph_edge_jsons`.
 

@@ -69,9 +69,9 @@ def main():
 
     ec_rxn_link_json = 'kegg/2018-09-25/links/enzyme_reaction.json'
     reaction_edges_json = 'kegg/2018-09-25/reaction_edges.json'
-    outdir = 'jgi/2018-09-29/ph_edge_jsons/'
+    outdir = 'jgi/2019-09-09/ph_edge_jsons/'
 
-    dirs = ['bacteria']
+    dirs = ['archaea','bacteria']
     for d in dirs:
        
         fnames = glob.glob('jgi/2018-09-29/ph_jsons/%s/*.json'%d)
