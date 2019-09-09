@@ -75,7 +75,7 @@ def main():
     for d in dirs:
        
         fnames = glob.glob('jgi/2018-09-29/ph_jsons/%s/*.json'%d)
-        print "Writing %s edge_jsons..."%d
+        print("Writing %s edge_jsons..."%d)
         for fname in fnames:
 
             org_rxn_edges = convert_single_jgi_json_to_edge_json(fname,ec_rxn_link_json,reaction_edges_json)
