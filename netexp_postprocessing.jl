@@ -133,8 +133,8 @@ end
 ### FORMAT MANY NESTED FILES
 #########################
 # for domain in ["bacteria"]
-#     DATADIR = "results/simple/min_seeds_partial/"*domain*"/"
-#     OUTDIR = "results/formatted/min_seeds_partial/"*domain*"/"
+#     DATADIR = "results/simple_2019-09-09/min_seeds_partial/"*domain*"/"
+#     OUTDIR = "results/formatted_2019-09-09/min_seeds_partial/"*domain*"/"
 
 #     format_many_nested(DATADIR,OUTDIR)
 
@@ -149,37 +149,44 @@ end
 # # OUTDIR = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
 # const OUTDIR = "results/formatted/min_seeds_partial/archaea/2506520044/"
 
-# if !ispath(OUTDIR)
-#     mkpath(OUTDIR)
-# end
 
-# format_many(DATADIR,OUTDIR)
+for domain in ["archaea","bacteria"]
+    DATADIR = "results/simple_2019-09-09/ph_edge_jsons_P/"*domain*"/"
+    OUTDIR = "results/formatted_2019-09-09/ph_edge_jsons_P/"*domain*"/"
+
+    if !ispath(OUTDIR)
+        mkpath(OUTDIR)
+    end
+
+    format_many(DATADIR,OUTDIR)
+
+end
 
 #########################
 ### FORMAT SINGLE FILE
 #########################
-fullinpath = "results/simple/kegg_edge_json_P/reaction_edges_P.json"
-# fullinpath = path*"data_glucose_test.json"
+# fullinpath = "results/simple_2019-09-09/kegg_edge_json/reaction_edges.json"
+# # fullinpath = path*"data_glucose_test.json"
 
-D = JSON.parsefile(fullinpath)
-x = Array{Int,1}(D["x"])
-t = Array{Int,1}(D["t"])
-compounds = Array{String,1}(D["compounds"])
-reactions = Array{String,1}(D["reactions"])
-X = Array{Any,1}(D["X"])
-Y = Array{Any,1}(D["Y"])
+# D = JSON.parsefile(fullinpath)
+# x = Array{Int,1}(D["x"])
+# t = Array{Int,1}(D["t"])
+# compounds = Array{String,1}(D["compounds"])
+# reactions = Array{String,1}(D["reactions"])
+# X = Array{Any,1}(D["X"])
+# Y = Array{Any,1}(D["Y"])
 
-newdata = formatted_netexp_results(x,t,compounds,reactions,X,Y)
+# newdata = formatted_netexp_results(x,t,compounds,reactions,X,Y)
 
-fsplit = split(fullinpath,"/")
-# outpath = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-outpath = "results/formatted/kegg_edge_json_P/"
-if !ispath(outpath)
-    mkpath(outpath)
-end
-fulloutpath = outpath*"reaction_edges_P.json"
+# fsplit = split(fullinpath,"/")
+# # outpath = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+# outpath = "results/formatted_2019-09-09/kegg_edge_json/"
+# if !ispath(outpath)
+#     mkpath(outpath)
+# end
+# fulloutpath = outpath*"reaction_edges.json"
 
-## Write out
-open(fulloutpath,"w") do f
-    JSON.print(f, newdata)
-end
+# ## Write out
+# open(fulloutpath,"w") do f
+#     JSON.print(f, newdata)
+# end
