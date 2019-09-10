@@ -205,67 +205,73 @@ end
 ########################################
 #### CHECK MINIMAL SEED SET ######
 ########################################
-# # seedkey = "Enceladus_20-SAFR-032"
+# seedkey = "Enceladus_20-SAFR-032"
 
-# # SEEDJSON = "29012812801.json" ## Contains keys numbered 1-100, with values of random compounds
+# SEEDJSON = "29012812801.json" ## Contains keys numbered 1-100, with values of random compounds
 
 # const TARGETJSON = "targets/Freilich09.json"
 # const EDGEDIR = "jgi/2018-09-29/ph_edge_jsons/archaea_split/a00s/"
 # const SEEDDIR = "seeds/minimal_seed_randomizations/archaea/"
 # const OUTDIR = "results/simple/minimal_seed_randomizations_fixed/archaea/a00s/"  #*split(SEEDJSON,".json")[1]*"/"
 
-# if !ispath(OUTDIR)
-#     mkpath(OUTDIR)
-# end
+const TARGETJSON = "targets/Freilich09.json"
+const EDGEDIR = "jgi/2019-09-09/ph_edge_jsons/archaea_split/1/"
+const SEEDDIR = "seeds/minimal_seed_randomizations_2019-09-09/archaea/"
+const OUTDIR = "results/simple_2019-09-09/minimal_seed_randomizations_fixed/archaea/1/"  #*split(SEEDJSON,".json")[1]*"/"
 
-# enumerate_minimal_seed_sets(TARGETJSON,EDGEDIR,SEEDDIR,OUTDIR)
+
+if !ispath(OUTDIR)
+    mkpath(OUTDIR)
+end
+
+enumerate_minimal_seed_sets(TARGETJSON,EDGEDIR,SEEDDIR,OUTDIR)
 
 ########################################
 #### MANY NETWORK EXPANSION RUN ######
 ########################################
-seedkey = "Enceladus_20-SAFR-032_P"
+# seedkey = "Enceladus_20-SAFR-032_P"
 
-SEEDJSON = "seeds.json"
-TARGETJSON = "targets/Freilich09.json"
-DATADIR = "jgi/2019-09-09/ph_edge_jsons/archaea/"
+# SEEDJSON = "seeds.json"
+# TARGETJSON = "targets/Freilich09.json"
+# DATADIR = "jgi/2019-09-09/ph_edge_jsons/archaea/"
 
-# fsplit = split(DATADIR,"/")
-# OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-OUTDIR = "results/simple_2019-09-09/ph_edge_jsons_P/archaea/"
+# # fsplit = split(DATADIR,"/")
+# # OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+# OUTDIR = "results/simple_2019-09-09/ph_edge_jsons_P/archaea/"
 
-if ispath(OUTDIR)==false
-    mkpath(OUTDIR)
-end
+# if ispath(OUTDIR)==false
+#     mkpath(OUTDIR)
+# end
 
-## Prepare seed_list
-seed_dict = JSON.parsefile(SEEDJSON,dicttype=Dict{String,Vector{String}})
-seed_list = seed_dict[seedkey]
+# ## Prepare seed_list
+# seed_dict = JSON.parsefile(SEEDJSON,dicttype=Dict{String,Vector{String}})
+# seed_list = seed_dict[seedkey]
 
-for FNAME in readdir(DATADIR)
-    FULLINPATH = DATADIR*FNAME
-    FULLOUTPATH = OUTDIR*FNAME
-    if isfile(FULLINPATH)==true
-        if split(FULLINPATH,".")[2] == "json"
-            ## DO MAIN
-            (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLINPATH,TARGETJSON)
+# for FNAME in readdir(DATADIR)
+#     FULLINPATH = DATADIR*FNAME
+#     FULLOUTPATH = OUTDIR*FNAME
+#     if isfile(FULLINPATH)==true
+#         if split(FULLINPATH,".")[2] == "json"
+#             ## DO MAIN
+#             (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLINPATH,TARGETJSON)
 
-            RT = transpose(R)
-            PT = transpose(P)
+#             RT = transpose(R)
+#             PT = transpose(P)
 
-            b = vec(sum(RT, dims=2))
-            bp = vec(sum(PT, dims=2))
+#             b = vec(sum(RT, dims=2))
+#             bp = vec(sum(PT, dims=2))
 
-            tT = transpose(t)
-            sum_t = sum(t)
+#             tT = transpose(t)
+#             sum_t = sum(t)
 
-            x = prepare_seeds(seed_list, compounds)
-            # (X,Y) = netexp(R,P,x)
-            X, Y = Vector{Int}[], Vector{Int}[]
-            X, Y = netexp(R, P, RT, PT, b, bp, x)
-            simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
-        end
-    end
-end
+#             x = prepare_seeds(seed_list, compounds)
+#             # (X,Y) = netexp(R,P,x)
+#             X, Y = Vector{Int}[], Vector{Int}[]
+#             X, Y = netexp(R, P, RT, PT, b, bp, x)
+#             simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
+#         end
+#     end
+# end
 
 ########################################
 #### SINGLE NETWORK EXPANSION RUN ######

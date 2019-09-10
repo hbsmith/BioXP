@@ -296,3 +296,10 @@ def read_formatted_jsons_streamlined(INDIR,encel):
     - Also did no P version
 - Now I need to figure out why I call a function which doesn't exist (prepare_seeds and get that to work, or change how i import seeds.)
 
+### 2019-09-10
+
+- reran network expansions for all `ph_edge_json`s and `ph_edge_json_P`s
+- reran postprocessing for all of these, plus the `kegg_edge_json` and `kegg_edge_json_P` (this needs to be done before randomization can be prepared, since randomization is based on the formatted files)
+- reran `netexp_preparescoperandomization.py` on the archea/bacteria files
+- I manually split all the same archaea and bacteria from before into 5 archaea files and 6 bacteria files within the `2019-09-09/ph_edge_jsons/` dir 
+- now i need to find the minimal seeds for these
