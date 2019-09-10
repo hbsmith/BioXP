@@ -40,6 +40,12 @@ function prepare_seeds(seed_list::Vector{String}, compounds::Vector{String})
     [Int(i in seed_list) for i in compounds]
 end
 
+## Deprecated
+# function prepare_seeds(seed_json::String,seed_key::String,compounds::Vector{String})	
+#     seed_dict = JSON.parsefile(seed_json)	
+#     [Int(i in seed_dict[seed_key]) for i in compounds]	
+# end
+
 function seed_indicies(seed_list::Vector{String}, compounds::Vector{String})
     # This is a generator, not an array. You can iterate over this thing exactly once
     # because it only stores the current state and what it needs to find the next state.
@@ -231,6 +237,10 @@ if ispath(OUTDIR)==false
     mkpath(OUTDIR)
 end
 
+## Prepare seed_list
+seed_dict = JSON.parsefile(SEEDJSON,dicttype=Dict{String,Vector{String}})
+seed_list = seed_dict[seedkey]
+
 for FNAME in readdir(DATADIR)
     FULLINPATH = DATADIR*FNAME
     FULLOUTPATH = OUTDIR*FNAME
@@ -238,7 +248,7 @@ for FNAME in readdir(DATADIR)
         if split(FULLINPATH,".")[2] == "json"
             ## DO MAIN
             (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLINPATH,TARGETJSON)
-            x = prepare_seeds(SEEDJSON,seedkey,compounds)
+            x = prepare_seeds(seed_list, compounds)
             (X,Y) = netexp(R,P,x)
             simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
         end
