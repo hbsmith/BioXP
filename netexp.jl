@@ -248,8 +248,20 @@ for FNAME in readdir(DATADIR)
         if split(FULLINPATH,".")[2] == "json"
             ## DO MAIN
             (R,P,compounds,reactions,t) = prepare_matrices_and_targets(FULLINPATH,TARGETJSON)
+
+            RT = transpose(R)
+            PT = transpose(P)
+
+            b = vec(sum(RT, dims=2))
+            bp = vec(sum(PT, dims=2))
+
+            tT = transpose(t)
+            sum_t = sum(t)
+
             x = prepare_seeds(seed_list, compounds)
-            (X,Y) = netexp(R,P,x)
+            # (X,Y) = netexp(R,P,x)
+            X, Y = Vector{Int}[], Vector{Int}[]
+            X, Y = netexp(R, P, RT, PT, b, bp, x)
             simple_write_out(FULLOUTPATH,x,t,compounds,reactions,X,Y)
         end
     end
