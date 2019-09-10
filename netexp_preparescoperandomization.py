@@ -104,8 +104,8 @@ def main():
     beta = 20
 
     cpd_dir = "kegg/2018-09-25/compound/"
-    edge_json_dir = "results/formatted/ph_edge_jsons/"
-    out_dir = "seeds/minimal_seed_randomizations/bacteria/"
+    edge_json_dir = "results/formatted_2019-09-09/ph_edge_jsons/"
+    out_dir = "seeds/minimal_seed_randomizations_2019-09-09/bacteria/"
 
     if not os.path.exists(out_dir):
         os.makedirs(out_dir)
