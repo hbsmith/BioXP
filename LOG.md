@@ -303,3 +303,5 @@ def read_formatted_jsons_streamlined(INDIR,encel):
 - reran `netexp_preparescoperandomization.py` on the archea/bacteria files
 - I manually split all the same archaea and bacteria from before into 5 archaea files and 6 bacteria files within the `2019-09-09/ph_edge_jsons/` dir 
 - now i need to find the minimal seeds for these
+  - started 11 concurrent runs at 6:50pm on Tues sept 10
+  - last batch of 6 finished running at ~1pm Wed sept 11

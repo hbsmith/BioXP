@@ -215,9 +215,9 @@ end
 # const OUTDIR = "results/simple/minimal_seed_randomizations_fixed/archaea/a00s/"  #*split(SEEDJSON,".json")[1]*"/"
 
 const TARGETJSON = "targets/Freilich09.json"
-const EDGEDIR = "jgi/2019-09-09/ph_edge_jsons/archaea_split/1/"
-const SEEDDIR = "seeds/minimal_seed_randomizations_2019-09-09/archaea/"
-const OUTDIR = "results/simple_2019-09-09/minimal_seed_randomizations_fixed/archaea/1/"  #*split(SEEDJSON,".json")[1]*"/"
+const EDGEDIR = "jgi/2019-09-09/ph_edge_jsons/bacteria_split/6/"
+const SEEDDIR = "seeds/minimal_seed_randomizations_2019-09-09/bacteria/"
+const OUTDIR = "results/simple_2019-09-09/minimal_seed_randomizations_fixed/bacteria/6/"  #*split(SEEDJSON,".json")[1]*"/"
 
 
 if !ispath(OUTDIR)
