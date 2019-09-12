@@ -151,8 +151,8 @@ end
 
 
 for domain in ["archaea","bacteria"]
-    DATADIR = "results/simple_2019-09-09/ph_edge_jsons_P/"*domain*"/"
-    OUTDIR = "results/formatted_2019-09-09/ph_edge_jsons_P/"*domain*"/"
+    DATADIR = "results/simple_2019-09-09/minimal_seed_randomizations_together/"*domain*"/"
+    OUTDIR = "results/formatted_2019-09-09/minimal_seed_randomizations_together/"*domain*"/"
 
     if !ispath(OUTDIR)
         mkpath(OUTDIR)
