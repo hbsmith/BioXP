@@ -132,13 +132,13 @@ end
 #########################
 ### FORMAT MANY NESTED FILES
 #########################
-# for domain in ["bacteria"]
-#     DATADIR = "results/simple_2019-09-09/min_seeds_partial/"*domain*"/"
-#     OUTDIR = "results/formatted_2019-09-09/min_seeds_partial/"*domain*"/"
+for domain in ["archaea","bacteria"]
+    DATADIR = "results/simple_2019-09-09/minimal_seed_randomizations_together/"*domain*"/"
+    OUTDIR = "results/formatted_2019-09-09/minimal_seed_randomizations_together/"*domain*"/"
 
-#     format_many_nested(DATADIR,OUTDIR)
+    format_many_nested(DATADIR,OUTDIR)
 
-# end
+end
 
 #########################
 ### FORMAT MANY FILES
@@ -150,17 +150,17 @@ end
 # const OUTDIR = "results/formatted/min_seeds_partial/archaea/2506520044/"
 
 
-for domain in ["archaea","bacteria"]
-    DATADIR = "results/simple_2019-09-09/minimal_seed_randomizations_together/"*domain*"/"
-    OUTDIR = "results/formatted_2019-09-09/minimal_seed_randomizations_together/"*domain*"/"
+# for domain in ["archaea","bacteria"]
+#     DATADIR = "results/simple_2019-09-09/minimal_seed_randomizations_together/"*domain*"/"
+#     OUTDIR = "results/formatted_2019-09-09/minimal_seed_randomizations_together/"*domain*"/"
 
-    if !ispath(OUTDIR)
-        mkpath(OUTDIR)
-    end
+#     if !ispath(OUTDIR)
+#         mkpath(OUTDIR)
+#     end
 
-    format_many(DATADIR,OUTDIR)
+#     format_many(DATADIR,OUTDIR)
 
-end
+# end
 
 #########################
 ### FORMAT SINGLE FILE
