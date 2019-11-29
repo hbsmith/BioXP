@@ -1,8 +1,0 @@
-ENTRY       R11773                      Reaction
-NAME        propionyl-CoA:succinate CoA transferase
-DEFINITION  Propanoyl-CoA + Succinate <=> Succinyl-CoA + Propanoate
-EQUATION    C00100 + C00042 <=> C00091 + C00163
-ENZYME      2.8.3.-
-PATHWAY     rn00640  Propanoate metabolism
-ORTHOLOGY   K22214  propionyl-CoA:succinyl-CoA transferase [EC:2.8.3.-]
-///
