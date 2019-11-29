@@ -305,3 +305,10 @@ def read_formatted_jsons_streamlined(INDIR,encel):
 - now i need to find the minimal seeds for these
   - started 11 concurrent runs at 6:50pm on Tues sept 10
   - last batch of 6 finished running at ~1pm Wed sept 11
+
+### 2019-09-12
+
+- for some reason, water is NOT being included as a scope target even for seeds which start with water. 
+  - it's because for some reason water is missing from the `targets/Freilich09.json` file.
+  - I think I should just assume that everything makes water.... **update, it doesn't. check the 2019-09-12 jupyter notebook in the encxp dir**
+  - 
