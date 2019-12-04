@@ -158,6 +158,7 @@ function simple_write_out(
     end
 end
 
+## Change the below to IOs?
 reaction_structs = readmaster("path/to/master.json")
 biosystem_reactions = readids("path/to/biosystem_reactions.json")
 seed_compounds = readids("path/to/seed_compounds.json")
