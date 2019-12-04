@@ -43,13 +43,12 @@ function matrixify_seeds(
     [Int(i in seed_compounds) for i in biosystem_compounds]
 end
 
-# function transform_
 function netexp(
     R::Array{Int,2}, 
     P::Array{Int,2}, 
     RT::TArray{Int,2}, 
     PT::TArray{Int,2},
-    b::Vector{Int}, 
+    br::Vector{Int}, 
     bp::Vector{Int}, 
     x::Array{Int,1})
 
@@ -77,7 +76,7 @@ function netexp(
         # is added to the network
 
         ## Forward reactions
-        y = RT * x .== b
+        y = RT * x .== br
         ## Backward reactions
         yp = PT * x .== bp
 
@@ -116,28 +115,53 @@ function expand(
     biosystem_compounds = IDs(unique(Iterators.flatten([vcat(reaction_structs[r].left,reaction_structs[r].right) for r in biosystem_reactions])))
 
     (R, P) = matrixify_compounds(reaction_structs,biosystem_compounds,biosystem_reactions,target_compounds)
-    t = matrixify_targets(biosystem_compounds,target_compounds)
     x = matrixify_seeds(seed_compounds, biosystem_compounds)
+    t = matrixify_targets(biosystem_compounds,target_compounds)
 
+    ## Should I just move all the below into netexp itself?
     RT = transpose(R)
     PT = transpose(P)
 
     br = vec(sum(RT, dims=2)) # sum the rows of RT. Do I need the vec call here?
-    bp = vec(sum(PT, dims=2))
-
-    tT = transpose(t)
-    sum_t = sum(t)
-
-    
+    bp = vec(sum(PT, dims=2))    
 
     X, Y = Vector{Int}[], Vector{Int}[]
-
     X, Y = netexp(R, P, RT, PT, br, bp, x)
+
+    x, t, biosystem_compounds, X, Y
+end
+
+function simple_write_out(
+    path::String, 
+    x::Array{Int,1}, 
+    t::Array{Int,1},
+    biosystem_compounds::Array{String,1}, 
+    biosystem_reactions::Array{String,1},
+    X::Vector{Vector{Int}}, 
+    Y::Vector{Vector{Int}})
 
     println("Writing out single network expansion...")
     if !ispath(path)
         mkpath(path)
     end
-    fullpath = path*"reaction_edges_P.json"
-    simple_write_out(fullpath, x, t, compounds, reactions, X, Y)
 
+    data = Dict()
+    data["x"] = x
+    data["t"] = t
+    data["compounds"] = biosystem_compounds
+    data["reactions"] = biosystem_reactions
+    data["X"] = X
+    data["Y"] = Y
+
+    open(path,"w") do f
+        JSON.print(f, data, 2)
+    end
+end
+
+reaction_structs = readmaster("path/to/master.json")
+biosystem_reactions = readids("path/to/biosystem_reactions.json")
+seed_compounds = readids("path/to/seed_compounds.json")
+target_compounds = readids("path/to/target_compounds.json")
+
+(x, t, biosystem_compounds, X, Y) = expand(reaction_structs,biosystem_reactions,seed_compounds,target_compounds)
+simple_write_out(path, x, t, biosystem_compounds, biosystem_reactions, X, Y)
