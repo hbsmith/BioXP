@@ -32,19 +32,18 @@ function readmaster(master::Dict)
     return reactions
 end
 
-function readcompounds(d::String)
+function readcompounds(dir::String)
     compounds = Compounds()
-    for f in readdir(d)
+    for f in readdir(dir)
         if endswith(f,".json")
             compound = JSON.parsefile(f)[1]
-            compounds[c] = Compound()
+            compound = symbolizekeys(compound)
+            compounds[compound[:entry_id]] = Compound(;compound...)
         end
     end
+    return compounds
 end
 
-# function readcompounds(compounds::Dict)
-    
-# end
 
 """
     readids(f)
@@ -67,11 +66,43 @@ function readids(ids::IDs)
     return ids
 end
 
+function symbolizekeys(d::Dict)
+    newdict = Dict()
+    for (k,v) in d
+        newdict[Symbol(k)] = v
+    end
+    return newdict
+end
 #######################################
 
+# function populatecompounds::Dict()
+#     for (k,v) in Dict()
+#         Symbol(k)=v
+#         Mystruct(:)
 
 
-
+# struct Point{D::Dict}
+#     id::String
+#     name::String
+#     formula::String 
+#     exact_mass::Float64
+#     mol_weight::Float64
+#     names::Vector{String}=Vector{String}()
+#     elements::Vector{String}=Vector{String}()
+#     reactions::Vector{String}=Vector{String}()   
+#     comment::String=""
+#     enzymes::Vector{String}=Vector{String}()   
+#     rpairs::Vector{String}=Vector{String}()    
+#     dblinks::Dict{String,Vector{String}}=Dict{String,Vector{String}}()     
+#     pathways::Dict{String,String}=Dict{String,String}()  
+#     kcf::String=""       
+#     remark::String=""    
+#     glycans::Vector{String}=Vector{String}()  
+#     for (k,v) in D 
+#         Symbol(k) = v
+#     end
+#     # Point{T}(x,y) where {T<:Real} = new(x,y)
+# end
 
 # struct EdgeEvidence
 #     src::Int

@@ -11,12 +11,6 @@ export Reaction, Reactions, IDs, TArray
     metadata::Dict{String}=Dict{String,Any}()
 end
 
-### Trying to figure out how to automatically set fields here
-## Compounds needed in order to set up the randomization on BioXP.
-
-## I think I just need to make Compound take in a dict and then call things based on the dict,
-## avoid trying to assign all the keys to values
-
 @with_kw struct Compound
     id::String
     name::String
