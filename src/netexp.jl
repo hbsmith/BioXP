@@ -43,16 +43,24 @@ function matrixify_seeds(
     [Int(i in seed_compounds) for i in biosystem_compounds]
 end
 
-function netexp(
+function identify_biosystem_compounds(
+    reaction_structs::Reactions,
+    biosystem_reactions::IDs)
+
+    IDs(unique(Iterators.flatten([vcat(reaction_structs[r].left,reaction_structs[r].right) for r in biosystem_reactions])))
+end
+
+function expandmatrices(
     R::Array{Int,2}, 
     P::Array{Int,2}, 
-    RT::TArray{Int,2}, 
-    PT::TArray{Int,2},
-    br::Vector{Int}, 
-    bp::Vector{Int}, 
     x::Array{Int,1})
 
     # initialize variables:
+    RT = transpose(R)
+    PT = transpose(P)
+
+    br = vec(sum(RT, dims=2)) # sum the rows of RT. Do I need the vec call here? yes, turns it into 1 element array
+    bp = vec(sum(PT, dims=2))   
     # find the total number of metabolites in the seed set
     k = sum(x);
 
@@ -110,25 +118,85 @@ function expand(
     reaction_structs::Reactions,
     biosystem_reactions::IDs,
     seed_compounds::IDs,
-    target_compounds::IDs=IDs())
+    target_compounds::IDs=IDs(),
+    write_path::{String,nothing}=nothing)
 
-    biosystem_compounds = IDs(unique(Iterators.flatten([vcat(reaction_structs[r].left,reaction_structs[r].right) for r in biosystem_reactions])))
+    biosystem_compounds = identify_biosystem_compounds(reaction_structs,biosystem_reactions)
 
     (R, P) = matrixify_compounds(reaction_structs,biosystem_compounds,biosystem_reactions,target_compounds)
     x = matrixify_seeds(seed_compounds, biosystem_compounds)
     t = matrixify_targets(biosystem_compounds,target_compounds)
 
-    ## Should I just move all the below into netexp itself?
-    RT = transpose(R)
-    PT = transpose(P)
-
-    br = vec(sum(RT, dims=2)) # sum the rows of RT. Do I need the vec call here?
-    bp = vec(sum(PT, dims=2))    
-
     X, Y = Vector{Int}[], Vector{Int}[]
-    X, Y = netexp(R, P, RT, PT, br, bp, x)
+    X, Y = expandmatrices(R, P, x)
+
+    if write_path !== nothing
+        simple_write_out(write_path,x,t,biosystem_compounds,biosystem_reactions,X,Y)
+    end
 
     x, t, biosystem_compounds, X, Y
+end
+
+function expand(
+    reaction_structs::Reactions,
+    biosystem_reactions::IDs,
+    seed_compounds::IDs,
+    target_compounds::IDs=IDs(),
+    write_path::{String,nothing}=nothing)
+
+function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR::String,OUTDIR::String)
+
+    for FNAME in readdir(EDGEDIR) 
+
+        FULLEDGEPATH = joinpath(EDGEDIR, FNAME) #json of all edges for organism
+        FULLSEEDPATH = joinpath(SEEDDIR, FNAME) #json of all seeds for organism
+        
+        if isfile(FULLEDGEPATH)
+            
+            if last(splitext(FULLEDGEPATH)) == ".json"
+                println("Finding minimal seeds for: $FNAME")
+                
+                R, P, compounds, reactions, t = prepare_matrices_and_targets(FULLEDGEPATH, TARGETJSON)
+
+                RT = transpose(R)
+                PT = transpose(P)
+
+                b = vec(sum(RT, dims=2))
+                bp = vec(sum(PT, dims=2))
+
+                tT = transpose(t)
+                sum_t = sum(t)
+                
+                all_of_the_seeds = Vector{Vector{String}}(JSON.parsefile(FULLSEEDPATH))
+                for (n_seed, seed_list) in enumerate(all_of_the_seeds)
+                    OUTDIRWITHORGNAME = joinpath(OUTDIR, first(splitext(FNAME)))
+
+                    if !ispath(OUTDIRWITHORGNAME)
+                        mkpath(OUTDIRWITHORGNAME)
+                    end
+
+                    # I want 1 randomizaiton per outpath
+                    FULLOUTPATH = joinpath(OUTDIRWITHORGNAME, "$n_seed.json")
+
+                    x = prepare_seeds(seed_list, compounds)
+
+                    X, Y = Vector{Int}[], Vector{Int}[]
+                    for i in seed_indicies(seed_list, compounds)
+                        x[i] = 0
+
+                        X, Y = netexp(R, P, RT, PT, b, bp, x)
+
+                        if (tT * X[end]) != sum_t
+                            x[i] = 1
+                        end
+                    end
+
+                    println("Writing out randomization: $n_seed")
+                    simple_write_out(FULLOUTPATH, x, t, compounds, reactions, X, Y)
+                end
+            end
+        end
+    end
 end
 
 function simple_write_out(
@@ -154,7 +222,7 @@ function simple_write_out(
     data["Y"] = Y
 
     open(path,"w") do f
-        JSON.print(f, data, 2)
+        JSON.print(f, data, 2) #indent=2
     end
 end
 
@@ -163,6 +231,6 @@ reaction_structs = readmaster("path/to/master.json")
 biosystem_reactions = readids("path/to/biosystem_reactions.json")
 seed_compounds = readids("path/to/seed_compounds.json")
 target_compounds = readids("path/to/target_compounds.json")
+path = "path/to/output/netexp/results.json"
 
 (x, t, biosystem_compounds, X, Y) = expand(reaction_structs,biosystem_reactions,seed_compounds,target_compounds)
-simple_write_out(path, x, t, biosystem_compounds, biosystem_reactions, X, Y)

@@ -32,6 +32,20 @@ function readmaster(master::Dict)
     return reactions
 end
 
+function readcompounds(d::String)
+    compounds = Compounds()
+    for f in readdir(d)
+        if endswith(f,".json")
+            compound = JSON.parsefile(f)[1]
+            compounds[c] = Compound()
+        end
+    end
+end
+
+# function readcompounds(compounds::Dict)
+    
+# end
+
 """
     readids(f)
 
