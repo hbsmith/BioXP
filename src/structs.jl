@@ -2,7 +2,14 @@ module Structs
 
 using Parameters
 
-export Reaction, Reactions, IDs, TArray
+export Reaction, Reactions, Compound, Compounds, IDs
+
+@with_kw struct System 
+    reaction_structs::Reactions 
+    biosystem_reactions::IDs
+    seed_compounds::IDs 
+    target_compounds::IDs = IDs()
+end
 
 @with_kw struct Reaction
     id::String

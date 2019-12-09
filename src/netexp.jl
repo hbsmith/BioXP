@@ -1,6 +1,7 @@
 module Netexp
 
 using structs
+using Random
 
 ## reaction_structs only give detailed info about reactions.
 ##   they are never supposed to be used as a comprehensive set of reactions
@@ -115,6 +116,17 @@ function expandmatrices(
 end
 
 function expand(
+    system::System,
+    write_path::{String,nothing}=nothing)
+    
+    expand(system.reaction_structs,
+        system.biosystem_reactions,
+        system.seed_compounds,
+        system.target_compounds,
+        write_path)
+end
+
+function expand(
     reaction_structs::Reactions,
     biosystem_reactions::IDs,
     seed_compounds::IDs,
@@ -136,13 +148,95 @@ function expand(
 
     x, t, biosystem_compounds, X, Y
 end
+"""
+Sorts by increasing mass.
+
+Always shuffles the order of the zero-mass compounds.
+
+sortkey: how to sort compounds. Can also sort by `:molecular_weight`
+zero_mass_behavior: what to do with compounds that have no mass. Can also be `"random"`
+"""
+function sort_biosystem_compounds(
+    compound_structs::Compounds,
+    biosystem_compounds::IDs,
+    sortkey::Symbol=:exact_mass,
+    zero_mass_behavior::String="end")
+
+    cpd_masses = [(i,compound_structs[i][sortkey]) for i in biosystem_compounds if compound_structs[i][sortkey]!=0]
+    cpd_zero_masses = [(i,compound_structs[i][sortkey]) for i in biosystem_compounds if compound_structs[i][sortkey]==0]
+
+    cpd_masses_sorted = sort(cpd_masses, by= x->x[2])
+
+    if zero_mass_behavior=="end"
+        return vcat(cpd_masses_sorted,shuffle(cpd_zero_masses))
+    
+    elseif zero_mass_behavior=="random"
+        for tup in cpd_zero_masses
+            insert!(cpd_masses_sorted,rand(1:length(cpd_masses_sorted)),tup) # this will permit insertion at longer indices as cpd_masses_sorted grows
+        end
+        return cpd_masses_sorted
+    end
+end
+
+function mix_it_up(
+    tuples::Vector{Tuple{String,Float64}},
+    beta::Float64,
+    n_swaps::Int)
+
+    for _ in 1:n_swaps
+        i,j = rand(1:length(tuples),2) ## 2 random indices 
+        if swap_random(tuples[i],tuples[j],beta) == true
+            ##  NEED TO VERIFY BELOW SYNTAX IS VALID
+            tuples[i], tuples[j] = tuples[j], tuples[i] ## will this change i before it's used to write new j?
+        end 
+    end 
+
+## NEED TO FINISH WRITING--VERIFY HOW TO GET RANDOM FLOAT IN RANGE 0-1
+function swap_random(
+    ti::Tuple{String,Float64},
+    tj::Tuple{String,Float64},
+    beta::Float64)
+    
+    diff = ti[1] - tj[1]
+    
+    ## Determine probability of flipping
+    ti[1]==0 || tj[1]==0 ? p=.5 : diff>0 ? p = math.e**(-diff/float(beta)) : p=1.0
+
+    if ti[1]==0 || tj[1]==0
+        p = .5
+    elseif diff > 0
+        p = math.e**(-diff/float(beta))
+    elseif diff <= 0
+        p = 1.0
+
+    
+
+
+
+
+    
+
 
 function expand(
+    n_runs::Int,
+    n_swaps::Int=1000,
+    beta::Float64=20,
     reaction_structs::Reactions,
     biosystem_reactions::IDs,
     seed_compounds::IDs,
     target_compounds::IDs=IDs(),
     write_path::{String,nothing}=nothing)
+
+    for r in 1:n_runs
+        initialize_scope_randomization()
+
+
+# function expand(
+#     reaction_structs::Reactions,
+#     biosystem_reactions::IDs,
+#     seed_compounds::IDs,
+#     target_compounds::IDs=IDs(),
+#     write_path::{String,nothing}=nothing)
 
 function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR::String,OUTDIR::String)
 
