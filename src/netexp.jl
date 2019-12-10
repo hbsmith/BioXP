@@ -175,6 +175,8 @@ end
 #     target_compounds::IDs=IDs(),
 #     write_path::{String,nothing}=nothing)
 
+# function enumerate_minimal_seeds
+
 function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR::String,OUTDIR::String)
 
     for FNAME in readdir(EDGEDIR) 

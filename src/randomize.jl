@@ -21,20 +21,20 @@ function sort_biosystem_compounds(
     cpd_masses = [(i,compound_structs[i][sortkey]) for i in biosystem_compounds if compound_structs[i][sortkey]!=0]
     cpd_zero_masses = [(i,compound_structs[i][sortkey]) for i in biosystem_compounds if compound_structs[i][sortkey]==0]
 
-    cpd_masses_sorted = sort(cpd_masses, by= x->x[2])
+    sort!(cpd_masses, by= x->x[2])
 
     if zero_mass_behavior=="end"
-        return vcat(cpd_masses_sorted,shuffle(cpd_zero_masses))
+        return vcat(cpd_masses,shuffle(cpd_zero_masses))
     
     elseif zero_mass_behavior=="random"
         for tup in cpd_zero_masses
-            insert!(cpd_masses_sorted,rand(1:length(cpd_masses_sorted)),tup) # this will permit insertion at longer indices as cpd_masses_sorted grows
+            insert!(cpd_masses,rand(1:length(cpd_masses)),tup) # this will permit insertion at longer indices as cpd_masses grows
         end
-        return cpd_masses_sorted
+        return cpd_masses
     end
 end
 
-function mix_it_up(
+function mix_it_up!(
     tuples::Vector{Tuple{String,Float64}},
     beta::Float64,
     n_swaps::Int)
@@ -45,8 +45,6 @@ function mix_it_up(
             tuples[i], tuples[j] = tuples[j], tuples[i] ## changes them simultaneously
         end 
     end 
-
-    return tuples
 end
 
 function swap_random(
@@ -83,7 +81,7 @@ function randomize_compounds(
     randomized_cpd_lists = [Vector{String}(undef,length(biosystem_compounds)) for _ in 1:n_runs] # allocate output memory
     for r in 1:n_runs
         cpds_masses = sort_biosystem_compounds(compound_structs, biosystem_compounds, sortkey, zero_mass_behavior)
-        cpds_masses = mix_it_up(cpds_masses,beta,n_swaps)
+        mix_it_up!(cpds_masses,beta,n_swaps)
         randomized_cpd_lists[r] = [c[1] for c in cpds_masses]
     end
     return randomized_cpd_lists
