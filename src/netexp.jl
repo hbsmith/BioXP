@@ -36,7 +36,9 @@ function matrixify_targets(
     
     t
 end
-
+"""
+Return vector of compounds with 1 in position where seeds are present and 0 where seeds are absenst.
+"""
 function matrixify_seeds(
     seed_compounds::IDs, 
     biosystem_compounds::IDs)
@@ -139,7 +141,7 @@ function expand(
     x = matrixify_seeds(seed_compounds, biosystem_compounds)
     t = matrixify_targets(biosystem_compounds,target_compounds)
 
-    X, Y = Vector{Int}[], Vector{Int}[]
+    X, Y = Vector{Int}[], Vector{Int}[] ## same as Vector{Vector{Int}}(),Vector{Vector{Int}}()
     X, Y = expandmatrices(R, P, x)
 
     if write_path !== nothing
@@ -174,9 +176,48 @@ end
 #     seed_compounds::IDs,
 #     target_compounds::IDs=IDs(),
 #     write_path::{String,nothing}=nothing)
+"""
+Return indices of seeds within the compounds vector.
+"""
+function seed_indicies(seed_list::Vector{String}, compounds::Vector{String})
+    # This is a generator, not an array. You can iterate over this thing exactly once
+    # because it only stores the current state and what it needs to find the next state.
+    (findfirst(isequal(c), compounds) for c in seed_list)
+end
 
-# function enumerate_minimal_seeds
+##  NEED TO FIGURE OUT ARGUMENTS HERE
+function enumerate_minimal_seeds(
+    all_seeds::Vector{Vector{IDs}}
+    )
 
+    biosystem_compounds = identify_biosystem_compounds(reaction_structs,biosystem_reactions)
+
+    (R, P) = matrixify_compounds(reaction_structs,biosystem_compounds,biosystem_reactions,target_compounds)
+    t = matrixify_targets(biosystem_compounds,target_compounds)
+    tT = transpose(t)
+    sum_t = sum(t)
+
+    X, Y = Vector{Int}[], Vector{Int}[]
+    x = matrixify_seeds(seed_compounds, biosystem_compounds) ## This should be a vector of all 1s of length(biosystem_compounds)
+    
+    ## Run 1 network expansion per seed variation
+    for i in seed_indicies(seed_compounds, biosystem_compounds)
+        x[i] = 0
+
+        X, Y = expandmatrices(R, P, x)
+
+        if (tT * X[end]) != sum_t
+            x[i] = 1
+        end
+    end
+
+    if write_path !== nothing
+        simple_write_out(write_path,x,t,biosystem_compounds,biosystem_reactions,X,Y)
+    end
+
+end
+
+## Deprecated
 function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR::String,OUTDIR::String)
 
     for FNAME in readdir(EDGEDIR) 
