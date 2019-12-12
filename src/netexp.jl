@@ -8,31 +8,30 @@ using randomize
 ##   for the expansion process
 
 function matrixify_compounds(
-    reaction_structs::Reactions,
-    biosystem_compounds::IDs,
-    biosystem_reactions::IDs,
-    target_compounds::IDs)
+    rstructs::Reactions,
+    cids::IDs,
+    rids::IDs)
 
     ## For R and P (equivilent to R and P in segrelab's github):
     ## Reactons in columns, Compounds in rows. Rows, columns.
 
-    R = zeros(Int, (length(biosystem_compounds),length(biosystem_reactions)))
-    P = zeros(Int, (length(biosystem_compounds),length(biosystem_reactions)))
+    R = zeros(Int, (length(cids),length(rids)))
+    P = zeros(Int, (length(cids),length(rids)))
 
-    for (i,r) in enumerate(biosystem_reactions)
-        R[:,i] = [Int(cpd in reaction_structs[r].left) for cpd in biosystem_compounds]
-        P[:,i] = [Int(cpd in reaction_structs[r].right) for cpd in biosystem_compounds]
+    for (i,r) in enumerate(rids)
+        R[:,i] = [Int(cpd in rstructs[r].left) for cpd in cids]
+        P[:,i] = [Int(cpd in rstructs[r].right) for cpd in cids]
     end
 
     R, P
 end
 
 function matrixify_targets(
-    biosystem_compounds::IDs,
-    target_compounds::IDs)
+    cids::IDs,
+    tids::IDs)
     
-    biosystem_target_compounds = intersect(target_compounds,biosystem_compounds)
-    t = [Int(i in biosystem_target_compounds) for i in biosystem_compounds]
+    biosystem_tids = intersect(tids,cids)
+    t = [Int(i in biosystem_tids) for i in cids]
     
     t
 end
@@ -40,17 +39,17 @@ end
 Return vector of compounds with 1 in position where seeds are present and 0 where seeds are absenst.
 """
 function matrixify_seeds(
-    seed_compounds::IDs, 
-    biosystem_compounds::IDs)
+    sids::IDs, 
+    cids::IDs)
 
-    [Int(i in seed_compounds) for i in biosystem_compounds]
+    [Int(i in sids) for i in cids]
 end
 
 function identify_biosystem_compounds(
-    reaction_structs::Reactions,
-    biosystem_reactions::IDs)
+    rstructs::Reactions,
+    rids::IDs)
 
-    IDs(unique(Iterators.flatten([vcat(reaction_structs[r].left,reaction_structs[r].right) for r in biosystem_reactions])))
+    IDs(unique(Iterators.flatten([vcat(rstructs[r].left,rstructs[r].right) for r in rids])))
 end
 
 function expandmatrices(
@@ -121,43 +120,43 @@ function expand(
     system::System,
     write_path::{String,nothing}=nothing)
     
-    expand(system.reaction_structs,
-        system.biosystem_reactions,
-        system.seed_compounds,
-        system.target_compounds,
+    expand(system.rstructs,
+        system.rids,
+        system.sids,
+        system.tids,
         write_path)
 end
 
 function expand(
-    reaction_structs::Reactions,
-    biosystem_reactions::IDs,
-    seed_compounds::IDs,
-    target_compounds::IDs=IDs(),
+    rstructs::Reactions,
+    rids::IDs,
+    sids::IDs,
+    tids::IDs=IDs(),
     write_path::{String,nothing}=nothing)
 
-    biosystem_compounds = identify_biosystem_compounds(reaction_structs,biosystem_reactions)
+    cids = identify_biosystem_compounds(rstructs,rids)
 
-    (R, P) = matrixify_compounds(reaction_structs,biosystem_compounds,biosystem_reactions,target_compounds)
-    x = matrixify_seeds(seed_compounds, biosystem_compounds)
-    t = matrixify_targets(biosystem_compounds,target_compounds)
+    (R, P) = matrixify_compounds(rstructs,cids,rids,tids)
+    x = matrixify_seeds(sids, cids)
+    t = matrixify_targets(cids,tids)
 
     # X, Y = Vector{Int}[], Vector{Int}[] ## same as Vector{Vector{Int}}(),Vector{Vector{Int}}()
     X, Y = expandmatrices(R, P, x)
 
     if write_path !== nothing
-        simple_write_out(write_path,x,t,biosystem_compounds,biosystem_reactions,X,Y)
+        simple_write_out(write_path,x,t,cids,rids,X,Y)
     end
 
-    x, t, biosystem_compounds, X, Y
+    x, t, cids, X, Y
 end
 
 """
 Return indices of seeds within the compounds vector.
 """
-function seed_indicies(seed_compounds::Vector{String}, biosystem_compounds::Vector{String})
+function seed_indicies(sids::IDs, cids::IDs)
     # This is a generator, not an array. You can iterate over this thing exactly once
     # because it only stores the current state and what it needs to find the next state.
-    (findfirst(isequal(c), biosystem_compounds) for c in seed_compounds)
+    (findfirst(isequal(c), cids) for c in sids)
 end
 
 
@@ -165,35 +164,35 @@ function find_minimal_seed_set(
     system::System,
     write_path::{String,nothing}=nothing)
     
-    find_minimal_seed_set(system.reaction_structs,
-        system.biosystem_reactions,
-        system.seed_compounds,
-        system.target_compounds,
+    find_minimal_seed_set(system.rstructs,
+        system.rids,
+        system.sids,
+        system.tids,
         write_path)
 end
 
 function find_minimal_seed_set(
-    reaction_structs::Reactions,
-    biosystem_reactions::IDs,
-    seed_compounds::IDs,
-    target_compounds::IDs=IDs(),
+    rstructs::Reactions,
+    rids::IDs,
+    sids::IDs,
+    tids::IDs=IDs(),
     write_path::{String,nothing}=nothing)
 
-    biosystem_compounds = identify_biosystem_compounds(reaction_structs,biosystem_reactions)
+    cids = identify_biosystem_compounds(rstructs,rids)
     
 
-    (R, P) = matrixify_compounds(reaction_structs,biosystem_compounds,biosystem_reactions,target_compounds)
-    t = matrixify_targets(biosystem_compounds,target_compounds)
+    (R, P) = matrixify_compounds(rstructs,cids,rids,tids)
+    t = matrixify_targets(cids,tids)
     # X, Y = Vector{Int}[], Vector{Int}[]
-    x = matrixify_seeds(seed_compounds, biosystem_compounds) ## This should be a vector of all 1s of length(biosystem_compounds)
-    x !== ones(Int,length(biosystem_compounds)) && throw(DomainError("This should be a vector of all 1s of length(biosystem_compounds"))
-    X, Y, x = loop_and_remove_seeds(seed_compounds,biosystem_compounds,x,t,R,P)
+    x = matrixify_seeds(sids, cids) ## This should be a vector of all 1s of length(cids)
+    x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
+    X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P)
 
     if write_path !== nothing
-        simple_write_out(write_path,x,t,biosystem_compounds,biosystem_reactions,X,Y)
+        simple_write_out(write_path,x,t,cids,rids,X,Y)
     end
 
-    x,t,biosystem_compounds,biosystem_reactions,X,Y
+    x,t,cids,rids,X,Y
 
 end
 
@@ -203,27 +202,27 @@ end
 Return system variables after finding many minimal seed sets.
 """
 function find_minimal_seed_set(
-    reaction_structs::Reactions,
-    biosystem_reactions::IDs,
-    seed_sets::Vector{IDs},
-    target_compounds::IDs=IDs(),
+    rstructs::Reactions,
+    rids::IDs,
+    sid_sets::Vector{IDs},
+    tids::IDs=IDs(),
     write_path::{String,nothing}=nothing)
 
-    biosystem_compounds = identify_biosystem_compounds(reaction_structs,biosystem_reactions)
-    (R, P) = matrixify_compounds(reaction_structs,biosystem_compounds,biosystem_reactions,target_compounds)
-    t = matrixify_targets(biosystem_compounds,target_compounds)
+    cids = identify_biosystem_compounds(rstructs,rids)
+    (R, P) = matrixify_compounds(rstructs,cids,rids,tids)
+    t = matrixify_targets(cids,tids)
     # X, Y = Vector{Int}[], Vector{Int}[]
     all_seed_results = Vector{}
-    for (i,seed_compounds) in enumerate(seed_sets)
-        x = matrixify_seeds(seed_compounds, biosystem_compounds) ## This should be a vector of all 1s of length(biosystem_compounds)
-        x !== ones(Int,length(biosystem_compounds)) && throw(DomainError("This should be a vector of all 1s of length(biosystem_compounds"))
-        X, Y, x = loop_and_remove_seeds(seed_compounds,biosystem_compounds,x,t,R,P)
+    for (i,sids) in enumerate(sid_sets)
+        x = matrixify_seeds(sids, cids) ## This should be a vector of all 1s of length(cids)
+        x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
+        X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P)
 
         if write_path !== nothing
-            simple_write_out(joinpath(write_path,"$i.json"),x,t,biosystem_compounds,biosystem_reactions,X,Y)
+            simple_write_out(joinpath(write_path,"$i.json"),x,t,cids,rids,X,Y)
         end
 
-        push!(all_seed_results,(x,t,biosystem_compounds,biosystem_reactions,X,Y))
+        push!(all_seed_results,(x,t,cids,rids,X,Y))
     
     end
 
@@ -232,8 +231,8 @@ function find_minimal_seed_set(
 end
 
 function loop_and_remove_seeds(
-    seed_compounds::IDs,
-    biosystem_compounds::IDs,
+    sids::IDs,
+    cids::IDs,
     x::Vector{Int},
     t::Vector{Int},
     R::Array{Int,2}, 
@@ -242,7 +241,7 @@ function loop_and_remove_seeds(
     tT = transpose(t)
     sum_t = sum(t)
     ## Run 1 network expansion per seed variation
-    for i in seed_indicies(seed_compounds, biosystem_compounds)
+    for i in seed_indicies(sids, cids)
         x[i] = 0
 
         X, Y = expandmatrices(R, P, x)
@@ -259,10 +258,10 @@ end
 
 function simple_write_out(
     path::String, 
-    x::Array{Int,1}, 
-    t::Array{Int,1},
-    biosystem_compounds::Array{String,1}, 
-    biosystem_reactions::Array{String,1},
+    x::Vector{Int}, 
+    t::Vector{Int},
+    cids::IDs, 
+    rids::IDs,
     X::Vector{Vector{Int}}, 
     Y::Vector{Vector{Int}})
 
@@ -274,8 +273,8 @@ function simple_write_out(
     data = Dict()
     data["x"] = x
     data["t"] = t
-    data["compounds"] = biosystem_compounds
-    data["reactions"] = biosystem_reactions
+    data["compounds"] = cids
+    data["reactions"] = rids
     data["X"] = X
     data["Y"] = Y
 
@@ -285,10 +284,10 @@ function simple_write_out(
 end
 
 ## Change the below to IOs?
-reaction_structs = readmaster("path/to/master.json")
-biosystem_reactions = readids("path/to/biosystem_reactions.json")
-seed_compounds = readids("path/to/seed_compounds.json")
-target_compounds = readids("path/to/target_compounds.json")
+rstructs = readmaster("path/to/master.json")
+rids = readids("path/to/rids.json")
+sids = readids("path/to/sids.json")
+tids = readids("path/to/tids.json")
 path = "path/to/output/netexp/results.json"
 
-(x, t, biosystem_compounds, X, Y) = expand(reaction_structs,biosystem_reactions,seed_compounds,target_compounds)
+(x, t, cids, X, Y) = expand(rstructs,rids,sids,tids)
