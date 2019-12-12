@@ -45,6 +45,6 @@ const Reactions = Dict{String,Reaction}
 const Compounds = Dict{String,Compound}
 
 # This is just cosmetic
-# const TArray{T, N} = Transpose{T, Array{T, N}}
+const TArray{T, N} = Transpose{T, Array{T, N}}
 
 end

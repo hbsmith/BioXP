@@ -141,7 +141,7 @@ function expand(
     x = matrixify_seeds(seed_compounds, biosystem_compounds)
     t = matrixify_targets(biosystem_compounds,target_compounds)
 
-    X, Y = Vector{Int}[], Vector{Int}[] ## same as Vector{Vector{Int}}(),Vector{Vector{Int}}()
+    # X, Y = Vector{Int}[], Vector{Int}[] ## same as Vector{Vector{Int}}(),Vector{Vector{Int}}()
     X, Y = expandmatrices(R, P, x)
 
     if write_path !== nothing
@@ -151,126 +151,110 @@ function expand(
     x, t, biosystem_compounds, X, Y
 end
 
-
-# function expand(
-#     n_runs::Int,
-#     compound_structs::Compounds,
-#     reaction_structs::Reactions,
-#     biosystem_reactions::IDs,
-#     seed_compounds::IDs,
-#     target_compounds::IDs=IDs(),
-#     write_path::{String,nothing}=nothing,
-#     n_swaps::Int=1000,
-#     beta::Float64=20,
-#     sortkey::Symbol=:exact_mass,
-#     zero_mass_behavior::String="end")
-
-#     biosystem_compounds = identify_biosystem_compounds(reaction_structs,biosystem_reactions)
-    
-#     randomize_compounds(biosystem_compounds, compound_structs, n_runs, n_swaps, beta, sortkey, zero_mass_behavior)
-    
-
-# function expand(
-#     reaction_structs::Reactions,
-#     biosystem_reactions::IDs,
-#     seed_compounds::IDs,
-#     target_compounds::IDs=IDs(),
-#     write_path::{String,nothing}=nothing)
 """
 Return indices of seeds within the compounds vector.
 """
-function seed_indicies(seed_list::Vector{String}, compounds::Vector{String})
+function seed_indicies(seed_compounds::Vector{String}, biosystem_compounds::Vector{String})
     # This is a generator, not an array. You can iterate over this thing exactly once
     # because it only stores the current state and what it needs to find the next state.
-    (findfirst(isequal(c), compounds) for c in seed_list)
+    (findfirst(isequal(c), biosystem_compounds) for c in seed_compounds)
 end
 
-##  NEED TO FIGURE OUT ARGUMENTS HERE
-function enumerate_minimal_seeds(
-    all_seeds::Vector{Vector{IDs}}
-    )
+
+function find_minimal_seed_set(
+    system::System,
+    write_path::{String,nothing}=nothing)
+    
+    find_minimal_seed_set(system.reaction_structs,
+        system.biosystem_reactions,
+        system.seed_compounds,
+        system.target_compounds,
+        write_path)
+end
+
+function find_minimal_seed_set(
+    reaction_structs::Reactions,
+    biosystem_reactions::IDs,
+    seed_compounds::IDs,
+    target_compounds::IDs=IDs(),
+    write_path::{String,nothing}=nothing)
 
     biosystem_compounds = identify_biosystem_compounds(reaction_structs,biosystem_reactions)
+    
 
     (R, P) = matrixify_compounds(reaction_structs,biosystem_compounds,biosystem_reactions,target_compounds)
     t = matrixify_targets(biosystem_compounds,target_compounds)
+    # X, Y = Vector{Int}[], Vector{Int}[]
+    x = matrixify_seeds(seed_compounds, biosystem_compounds) ## This should be a vector of all 1s of length(biosystem_compounds)
+    x !== ones(Int,length(biosystem_compounds)) && throw(DomainError("This should be a vector of all 1s of length(biosystem_compounds"))
+    X, Y, x = loop_and_remove_seeds(seed_compounds,biosystem_compounds,x,t,R,P)
+
+    if write_path !== nothing
+        simple_write_out(write_path,x,t,biosystem_compounds,biosystem_reactions,X,Y)
+    end
+
+    x,t,biosystem_compounds,biosystem_reactions,X,Y
+
+end
+
+"""
+    find_minimal_seed_set()
+
+Return system variables after finding many minimal seed sets.
+"""
+function find_minimal_seed_set(
+    reaction_structs::Reactions,
+    biosystem_reactions::IDs,
+    seed_sets::Vector{IDs},
+    target_compounds::IDs=IDs(),
+    write_path::{String,nothing}=nothing)
+
+    biosystem_compounds = identify_biosystem_compounds(reaction_structs,biosystem_reactions)
+    (R, P) = matrixify_compounds(reaction_structs,biosystem_compounds,biosystem_reactions,target_compounds)
+    t = matrixify_targets(biosystem_compounds,target_compounds)
+    # X, Y = Vector{Int}[], Vector{Int}[]
+    all_seed_results = Vector{}
+    for (i,seed_compounds) in enumerate(seed_sets)
+        x = matrixify_seeds(seed_compounds, biosystem_compounds) ## This should be a vector of all 1s of length(biosystem_compounds)
+        x !== ones(Int,length(biosystem_compounds)) && throw(DomainError("This should be a vector of all 1s of length(biosystem_compounds"))
+        X, Y, x = loop_and_remove_seeds(seed_compounds,biosystem_compounds,x,t,R,P)
+
+        if write_path !== nothing
+            simple_write_out(joinpath(write_path,"$i.json"),x,t,biosystem_compounds,biosystem_reactions,X,Y)
+        end
+
+        push!(all_seed_results,(x,t,biosystem_compounds,biosystem_reactions,X,Y))
+    
+    end
+
+    all_seed_results # Is this going to use a massive amount of memory?
+
+end
+
+function loop_and_remove_seeds(
+    seed_compounds::IDs,
+    biosystem_compounds::IDs,
+    x::Vector{Int},
+    t::Vector{Int},
+    R::Array{Int,2}, 
+    P::Array{Int,2})
+
     tT = transpose(t)
     sum_t = sum(t)
-
-    X, Y = Vector{Int}[], Vector{Int}[]
-    x = matrixify_seeds(seed_compounds, biosystem_compounds) ## This should be a vector of all 1s of length(biosystem_compounds)
-    
     ## Run 1 network expansion per seed variation
     for i in seed_indicies(seed_compounds, biosystem_compounds)
         x[i] = 0
 
         X, Y = expandmatrices(R, P, x)
 
-        if (tT * X[end]) != sum_t
-            x[i] = 1
-        end
+        (tT * X[end]) != sum_t && x[i] = 1 ## This is a short-circuit if statement
+        # if (tT * X[end]) != sum_t
+        #     x[i] = 1
+        # end
     end
+    
+    X, Y, x
 
-    if write_path !== nothing
-        simple_write_out(write_path,x,t,biosystem_compounds,biosystem_reactions,X,Y)
-    end
-
-end
-
-## Deprecated
-function enumerate_minimal_seed_sets(TARGETJSON::String,EDGEDIR::String,SEEDDIR::String,OUTDIR::String)
-
-    for FNAME in readdir(EDGEDIR) 
-
-        FULLEDGEPATH = joinpath(EDGEDIR, FNAME) #json of all edges for organism
-        FULLSEEDPATH = joinpath(SEEDDIR, FNAME) #json of all seeds for organism
-        
-        if isfile(FULLEDGEPATH)
-            
-            if last(splitext(FULLEDGEPATH)) == ".json"
-                println("Finding minimal seeds for: $FNAME")
-                
-                R, P, compounds, reactions, t = prepare_matrices_and_targets(FULLEDGEPATH, TARGETJSON)
-
-                RT = transpose(R)
-                PT = transpose(P)
-
-                b = vec(sum(RT, dims=2))
-                bp = vec(sum(PT, dims=2))
-
-                tT = transpose(t)
-                sum_t = sum(t)
-                
-                all_of_the_seeds = Vector{Vector{String}}(JSON.parsefile(FULLSEEDPATH))
-                for (n_seed, seed_list) in enumerate(all_of_the_seeds)
-                    OUTDIRWITHORGNAME = joinpath(OUTDIR, first(splitext(FNAME)))
-
-                    if !ispath(OUTDIRWITHORGNAME)
-                        mkpath(OUTDIRWITHORGNAME)
-                    end
-
-                    # I want 1 randomizaiton per outpath
-                    FULLOUTPATH = joinpath(OUTDIRWITHORGNAME, "$n_seed.json")
-
-                    x = prepare_seeds(seed_list, compounds)
-
-                    X, Y = Vector{Int}[], Vector{Int}[]
-                    for i in seed_indicies(seed_list, compounds)
-                        x[i] = 0
-
-                        X, Y = netexp(R, P, RT, PT, b, bp, x)
-
-                        if (tT * X[end]) != sum_t
-                            x[i] = 1
-                        end
-                    end
-
-                    println("Writing out randomization: $n_seed")
-                    simple_write_out(FULLOUTPATH, x, t, compounds, reactions, X, Y)
-                end
-            end
-        end
-    end
 end
 
 function simple_write_out(
