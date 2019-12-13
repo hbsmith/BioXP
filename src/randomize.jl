@@ -1,4 +1,4 @@
-module randomize
+module Randomize
 
 using Random
 

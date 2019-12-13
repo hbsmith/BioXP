@@ -1,7 +1,7 @@
 module Netexp
 
-using structs
-using randomize
+using Structs
+using Randomize
 
 ## reaction_structs only give detailed info about reactions.
 ##   they are never supposed to be used as a comprehensive set of reactions

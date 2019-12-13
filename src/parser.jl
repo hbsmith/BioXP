@@ -1,7 +1,7 @@
 module Parser
 
 import JSON
-using structs
+using Structs
 
 ## Seeds should just all be in separate files
 
@@ -43,7 +43,6 @@ function readcompounds(dir::String)
     end
     return compounds
 end
-
 
 """
     readids(f)
