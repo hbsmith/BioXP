@@ -1,7 +1,31 @@
 module BioXP
 
-using Structs
-using Randomize
+include("structs.jl")
+include("randomize.jl")
+include("parser.jl")
+
+import JSON
+using .Structs, .Randomize, .Parser
+
+export 
+# Functions
+readmaster,
+readcompounds,
+readids,
+randomizecompounds,
+expand,
+find_minimal_seed_set,
+simple_write_out,
+
+# Structs
+System,
+Reaction,
+Compound,
+
+# Consts
+Reactions,
+Compounds,
+IDs
 
 ## reaction_structs only give detailed info about reactions.
 ##   they are never supposed to be used as a comprehensive set of reactions
@@ -118,7 +142,7 @@ end
 
 function expand(
     system::System,
-    write_path::{String,nothing}=nothing)
+    write_path::Union{String,Nothing}=nothing)
     
     expand(system.rstructs,
         system.rids,
@@ -132,7 +156,7 @@ function expand(
     rids::IDs,
     sids::IDs,
     tids::IDs=IDs(),
-    write_path::{String,nothing}=nothing)
+    write_path::Union{String,Nothing}=nothing)
 
     cids = identify_biosystem_compounds(rstructs,rids)
 
@@ -162,7 +186,7 @@ end
 
 function find_minimal_seed_set(
     system::System,
-    write_path::{String,nothing}=nothing)
+    write_path::Union{String,Nothing}=nothing)
     
     find_minimal_seed_set(system.rstructs,
         system.rids,
@@ -176,7 +200,7 @@ function find_minimal_seed_set(
     rids::IDs,
     sids::IDs,
     tids::IDs=IDs(),
-    write_path::{String,nothing}=nothing)
+    write_path::Union{String,Nothing}=nothing)
 
     cids = identify_biosystem_compounds(rstructs,rids)
     
@@ -206,7 +230,7 @@ function find_minimal_seed_set(
     rids::IDs,
     sid_sets::Vector{IDs},
     tids::IDs=IDs(),
-    write_path::{String,nothing}=nothing)
+    write_path::Union{String,Nothing}=nothing)
 
     cids = identify_biosystem_compounds(rstructs,rids)
     (R, P) = matrixify_compounds(rstructs,cids,rids,tids)
@@ -246,7 +270,7 @@ function loop_and_remove_seeds(
 
         X, Y = expandmatrices(R, P, x)
 
-        (tT * X[end]) != sum_t && x[i] = 1 ## This is a short-circuit if statement
+        (tT * X[end]) != sum_t && (x[i] = 1) ## This is a short-circuit if statement
         # if (tT * X[end]) != sum_t
         #     x[i] = 1
         # end
@@ -284,12 +308,12 @@ function simple_write_out(
 end
 
 ## Change the below to IOs?
-rstructs = readmaster("path/to/master.json")
-rids = readids("path/to/rids.json")
-sids = readids("path/to/sids.json")
-tids = readids("path/to/tids.json")
-path = "path/to/output/netexp/results.json"
+# rstructs = readmaster("path/to/master.json")
+# rids = readids("path/to/rids.json")
+# sids = readids("path/to/sids.json")
+# tids = readids("path/to/tids.json")
+# path = "path/to/output/netexp/results.json"
 
-(x, t, cids, X, Y) = expand(rstructs,rids,sids,tids)
+# (x, t, cids, X, Y) = expand(rstructs,rids,sids,tids)
 
 end

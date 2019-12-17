@@ -1,8 +1,10 @@
 module Randomize
 
-using Random
+include("structs.jl")
 
-export randomize_compounds
+using Random, .Structs
+
+export randomizecompounds
 
 """
 Sorts by increasing mass.
@@ -65,10 +67,10 @@ function swap_random(
         p = 1.0
     end
 
-    rand(Float64)<p ? return true : return false
+    rand(Float64)<p ? true : false
 end
 
-function randomize_compounds(
+function randomizecompounds(
     biosystem_compounds::IDs,
     compound_structs::Compounds,
     n_runs::Int,
@@ -85,4 +87,6 @@ function randomize_compounds(
         randomized_cpd_lists[r] = [c[1] for c in cpds_masses]
     end
     return randomized_cpd_lists
+end
+
 end

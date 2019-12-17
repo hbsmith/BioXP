@@ -1,7 +1,11 @@
 module Parser
 
+include("structs.jl")
+
 import JSON
-using Structs
+using .Structs
+
+export readmaster, readcompounds, readids
 
 ## Seeds should just all be in separate files
 
@@ -26,7 +30,7 @@ end
 
 function readmaster(master::Dict)
     reactions = Reactions()
-    for (k,v) in master
+    for (k,v) in master["reactions"]
         reactions[k] = Reaction(id=k,left=v["left"],right=v["right"],metadata=v["metadata"])
     end
     return reactions
@@ -71,6 +75,8 @@ function symbolizekeys(d::Dict)
         newdict[Symbol(k)] = v
     end
     return newdict
+end
+
 end
 #######################################
 

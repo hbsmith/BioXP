@@ -1,15 +1,8 @@
 module Structs
 
-using Parameters
+using Parameters, LinearAlgebra
 
-export Reaction, Reactions, Compound, Compounds, IDs
-
-@with_kw struct System 
-    reaction_structs::Reactions 
-    biosystem_reactions::IDs
-    seed_compounds::IDs 
-    target_compounds::IDs = IDs()
-end
+export System, Reaction, Reactions, Compound, Compounds, IDs
 
 @with_kw struct Reaction
     id::String
@@ -46,5 +39,12 @@ const Compounds = Dict{String,Compound}
 
 # This is just cosmetic
 const TArray{T, N} = Transpose{T, Array{T, N}}
+
+@with_kw struct System 
+    reaction_structs::Reactions 
+    biosystem_reactions::IDs
+    seed_compounds::IDs 
+    target_compounds::IDs = IDs()
+end
 
 end
