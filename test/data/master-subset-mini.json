@@ -1,0 +1,350 @@
+{
+  "version": null,
+  "reactions": {
+    "R10514": {
+      "left": [
+        "C00024",
+        "C20638"
+      ],
+      "right": [
+        "C00010",
+        "C20672"
+      ],
+      "metadata": {
+        "name": "acetyl-CoA:GDP-4-amino-4,6-dideoxy-alpha-D-mannose N-acetyltransferase",
+        "definition": "Acetyl-CoA + GDP-4-amino-4,6-dideoxy-alpha-D-mannose <=> CoA + GDP-4-acetamido-4,6-dideoxy-alpha-D-mannose",
+        "equation": "C00024 + C20638 <=> C00010 + C20672",
+        "comment": "",
+        "rpairs": {},
+        "enzymes": [
+          "2.3.1.227"
+        ],
+        "pathways": {
+          "rn00520": "Amino sugar and nucleotide sugar metabolism",
+          "rn01100": "Metabolic pathways"
+        },
+        "orthologs": {
+          "K17939": "GDP-perosamine N-acetyltransferase [EC:2.3.1.227]"
+        },
+        "left_stoichiometries": [
+          "1",
+          "1"
+        ],
+        "glycans": false,
+        "right_stoichiometries": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    "R09735": {
+      "left": [
+        "C19848",
+        "C06232"
+      ],
+      "right": [
+        "C18237",
+        "C00020",
+        "C00001"
+      ],
+      "metadata": {
+        "name": "adenylyl-molybdopterin:molybdate molybdate transferase (AMP-forming)",
+        "definition": "Adenylated molybdopterin + Molybdate <=> Molybdoenzyme molybdenum cofactor + AMP + H2O",
+        "equation": "C19848 + C06232 <=> C18237 + C00020 + C00001",
+        "comment": "",
+        "rpairs": {},
+        "enzymes": [
+          "2.10.1.1"
+        ],
+        "pathways": {
+          "rn00790": "Folate biosynthesis",
+          "rn01100": "Metabolic pathways"
+        },
+        "orthologs": {
+          "K03750": "molybdopterin molybdotransferase [EC:2.10.1.1]",
+          "K15376": "gephyrin [EC:2.10.1.1 2.7.7.75]"
+        },
+        "left_stoichiometries": [
+          "1",
+          "1"
+        ],
+        "glycans": false,
+        "right_stoichiometries": [
+          "1",
+          "1",
+          "1"
+        ]
+      }
+    },
+    "R08827": {
+      "left": [
+        "C00355",
+        "C08538"
+      ],
+      "right": [
+        "C08543",
+        "C00001"
+      ],
+      "metadata": {
+        "name": "",
+        "definition": "3,4-Dihydroxy-L-phenylalanine + Betalamic acid <=> Dopaxanthin + H2O",
+        "equation": "C00355 + C08538 <=> C08543 + C00001",
+        "comment": "spontaneous",
+        "rpairs": {},
+        "enzymes": [],
+        "pathways": {
+          "rn00965": "Betalain biosynthesis"
+        },
+        "orthologs": {},
+        "left_stoichiometries": [
+          "1",
+          "1"
+        ],
+        "glycans": false,
+        "right_stoichiometries": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    "R01305": {
+      "left": [
+        "C13635",
+        "C00007"
+      ],
+      "right": [
+        "C00156",
+        "C00058"
+      ],
+      "metadata": {
+        "name": "2,4'-dihydroxyacetophenone oxidoreductase (C-C-bond-cleaving)",
+        "definition": "4-Hydroxyphenacyl alcohol + Oxygen <=> 4-Hydroxybenzoate + Formate",
+        "equation": "C13635 + C00007 <=> C00156 + C00058",
+        "comment": "",
+        "rpairs": {},
+        "enzymes": [
+          "1.13.11.41"
+        ],
+        "pathways": {
+          "rn00363": "Bisphenol degradation",
+          "rn01120": "Microbial metabolism in diverse environments"
+        },
+        "orthologs": {
+          "K05913": "2,4'-dihydroxyacetophenone dioxygenase [EC:1.13.11.41]"
+        },
+        "left_stoichiometries": [
+          "1",
+          "1"
+        ],
+        "glycans": false,
+        "right_stoichiometries": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    "R03292": {
+      "left": [
+        "C01157",
+        "C00006"
+      ],
+      "right": [
+        "C01877",
+        "C00005",
+        "C00080"
+      ],
+      "metadata": {
+        "name": "4-Hydroxy-L-proline:NADP+ oxidoreductase",
+        "definition": "Hydroxyproline + NADP+ <=> 4-Oxoproline + NADPH + H+",
+        "equation": "C01157 + C00006 <=> C01877 + C00005 + C00080",
+        "comment": "",
+        "rpairs": {},
+        "enzymes": [
+          "1.1.1.104"
+        ],
+        "pathways": {
+          "rn00330": "Arginine and proline metabolism",
+          "rn01100": "Metabolic pathways"
+        },
+        "orthologs": {},
+        "left_stoichiometries": [
+          "1",
+          "1"
+        ],
+        "glycans": false,
+        "right_stoichiometries": [
+          "1",
+          "1",
+          "1"
+        ]
+      }
+    },
+    "R04557": {
+      "left": [
+        "C04671",
+        "C00006"
+      ],
+      "right": [
+        "C04707",
+        "C00005",
+        "C00080"
+      ],
+      "metadata": {
+        "name": "(5Z)-(15S)-11alpha-hydroxy-9,15-dioxoprostanoate:NADP+ delta13-oxidoreductase",
+        "definition": "(5Z)-(15S)-11alpha-Hydroxy-9,15-dioxoprostanoate + NADP+ <=> (5Z,13E)-11alpha-Hydroxy-9,15-dioxoprost-13-enoate + NADPH + H+",
+        "equation": "C04671 + C00006 <=> C04707 + C00005 + C00080",
+        "comment": "",
+        "rpairs": {},
+        "enzymes": [
+          "1.3.1.48"
+        ],
+        "pathways": {},
+        "orthologs": {},
+        "left_stoichiometries": [
+          "1",
+          "1"
+        ],
+        "glycans": false,
+        "right_stoichiometries": [
+          "1",
+          "1",
+          "1"
+        ]
+      }
+    },
+    "R10144": {
+      "left": [
+        "C20398",
+        "C00026",
+        "C00007"
+      ],
+      "right": [
+        "C20397",
+        "C00042",
+        "C00011"
+      ],
+      "metadata": {
+        "name": "pentalenolactone-E,2-oxoglutarate:oxygen oxidoreductase",
+        "definition": "Pentalenolactone E + 2-Oxoglutarate + Oxygen <=> Pentalenolactone F + Succinate + CO2",
+        "equation": "C20398 + C00026 + C00007 <=> C20397 + C00042 + C00011",
+        "comment": "second step of two-step reaction (see R10145, R10143+R10144)",
+        "rpairs": {},
+        "enzymes": [
+          "1.14.11.36"
+        ],
+        "pathways": {},
+        "orthologs": {},
+        "left_stoichiometries": [
+          "1",
+          "1",
+          "1"
+        ],
+        "glycans": false,
+        "right_stoichiometries": [
+          "1",
+          "1",
+          "1"
+        ]
+      }
+    },
+    "R12179": {
+      "left": [
+        "C02094"
+      ],
+      "right": [
+        "C08592"
+      ],
+      "metadata": {
+        "name": "",
+        "definition": "beta-Carotene <=> Echinenone",
+        "equation": "C02094 <=> C08592",
+        "comment": "incomplete reaction",
+        "rpairs": {},
+        "enzymes": [],
+        "pathways": {
+          "rn00906": "Carotenoid biosynthesis",
+          "rn01110": "Biosynthesis of secondary metabolites"
+        },
+        "orthologs": {
+          "K02292": "beta-carotene ketolase (CrtO type)"
+        },
+        "left_stoichiometries": [
+          "1"
+        ],
+        "glycans": false,
+        "right_stoichiometries": [
+          "1"
+        ]
+      }
+    },
+    "R09365": {
+      "left": [
+        "C05698",
+        "C04489"
+      ],
+      "right": [
+        "C05335",
+        "C04144"
+      ],
+      "metadata": {
+        "name": "5-methyltetrahydropteroyltri-L-glutamate:L-selenohomocysteine Se-methyltransferase",
+        "definition": "Selenohomocysteine + 5-Methyltetrahydropteroyltri-L-glutamate <=> L-Selenomethionine + Tetrahydropteroyltri-L-glutamate",
+        "equation": "C05698 + C04489 <=> C05335 + C04144",
+        "comment": "",
+        "rpairs": {},
+        "enzymes": [
+          "2.1.1.13",
+          "2.1.1.14"
+        ],
+        "pathways": {
+          "rn00450": "Selenocompound metabolism",
+          "rn01100": "Metabolic pathways"
+        },
+        "orthologs": {
+          "K00548": "5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]",
+          "K00549": "5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]"
+        },
+        "left_stoichiometries": [
+          "1",
+          "1"
+        ],
+        "glycans": false,
+        "right_stoichiometries": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    "R03768": {
+      "left": [
+        "C00096",
+        "C01923"
+      ],
+      "right": [
+        "C00035",
+        "C04097"
+      ],
+      "metadata": {
+        "name": "GDP-mannose:heteroglycan 2-alpha-D-mannosyltransferase",
+        "definition": "GDP-mannose + Heteroglycan <=> GDP + 2-alpha-D-Mannosylheteroglycan",
+        "equation": "C00096 + C01923 <=> C00035 + C04097",
+        "comment": "also mannosylating at 3-position (see R03769)",
+        "rpairs": {},
+        "enzymes": [
+          "2.4.1.48"
+        ],
+        "pathways": {},
+        "orthologs": {},
+        "left_stoichiometries": [
+          "1",
+          "1"
+        ],
+        "glycans": false,
+        "right_stoichiometries": [
+          "1",
+          "1"
+        ]
+      }
+    }
+  }
+}

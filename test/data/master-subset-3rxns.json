@@ -1,0 +1,111 @@
+{
+  "version": null,
+  "reactions": {
+    "R10514": {
+      "left": [
+        "C00024",
+        "C20638"
+      ],
+      "right": [
+        "C00010",
+        "C20672"
+      ],
+      "metadata": {
+        "name": "acetyl-CoA:GDP-4-amino-4,6-dideoxy-alpha-D-mannose N-acetyltransferase",
+        "definition": "Acetyl-CoA + GDP-4-amino-4,6-dideoxy-alpha-D-mannose <=> CoA + GDP-4-acetamido-4,6-dideoxy-alpha-D-mannose",
+        "equation": "C00024 + C20638 <=> C00010 + C20672",
+        "comment": "",
+        "rpairs": {},
+        "enzymes": [
+          "2.3.1.227"
+        ],
+        "pathways": {
+          "rn00520": "Amino sugar and nucleotide sugar metabolism",
+          "rn01100": "Metabolic pathways"
+        },
+        "orthologs": {
+          "K17939": "GDP-perosamine N-acetyltransferase [EC:2.3.1.227]"
+        },
+        "left_stoichiometries": [
+          "1",
+          "1"
+        ],
+        "glycans": false,
+        "right_stoichiometries": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    "R09735": {
+      "left": [
+        "C19848",
+        "C06232"
+      ],
+      "right": [
+        "C18237",
+        "C00020",
+        "C00001"
+      ],
+      "metadata": {
+        "name": "adenylyl-molybdopterin:molybdate molybdate transferase (AMP-forming)",
+        "definition": "Adenylated molybdopterin + Molybdate <=> Molybdoenzyme molybdenum cofactor + AMP + H2O",
+        "equation": "C19848 + C06232 <=> C18237 + C00020 + C00001",
+        "comment": "",
+        "rpairs": {},
+        "enzymes": [
+          "2.10.1.1"
+        ],
+        "pathways": {
+          "rn00790": "Folate biosynthesis",
+          "rn01100": "Metabolic pathways"
+        },
+        "orthologs": {
+          "K03750": "molybdopterin molybdotransferase [EC:2.10.1.1]",
+          "K15376": "gephyrin [EC:2.10.1.1 2.7.7.75]"
+        },
+        "left_stoichiometries": [
+          "1",
+          "1"
+        ],
+        "glycans": false,
+        "right_stoichiometries": [
+          "1",
+          "1",
+          "1"
+        ]
+      }
+    },
+    "R08827": {
+      "left": [
+        "C00355",
+        "C08538"
+      ],
+      "right": [
+        "C08543",
+        "C00001"
+      ],
+      "metadata": {
+        "name": "",
+        "definition": "3,4-Dihydroxy-L-phenylalanine + Betalamic acid <=> Dopaxanthin + H2O",
+        "equation": "C00355 + C08538 <=> C08543 + C00001",
+        "comment": "spontaneous",
+        "rpairs": {},
+        "enzymes": [],
+        "pathways": {
+          "rn00965": "Betalain biosynthesis"
+        },
+        "orthologs": {},
+        "left_stoichiometries": [
+          "1",
+          "1"
+        ],
+        "glycans": false,
+        "right_stoichiometries": [
+          "1",
+          "1"
+        ]
+      }
+    }
+  }
+}
