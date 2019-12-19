@@ -10,7 +10,7 @@ using Parameters, LinearAlgebra
 end
 
 @with_kw struct Compound
-    id::String
+    entry_id::String
     name::String
     formula::String 
     exact_mass::Float64

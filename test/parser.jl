@@ -51,4 +51,5 @@ end
 end
 
 @testset "read compounds from dir" begin
-    
+    compounds = readcompounds("data/compound")
+end

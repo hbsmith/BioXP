@@ -35,7 +35,7 @@ function readcompounds(dir::String)
     compounds = Compounds()
     for f in readdir(dir)
         if endswith(f,".json")
-            compound = JSON.parsefile(f)[1]
+            compound = JSON.parsefile(joinpath(dir,f))[1]
             compound = symbolizekeys(compound)
             compounds[compound[:entry_id]] = Compound(;compound...)
         end
