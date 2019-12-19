@@ -1,5 +1,3 @@
-include("structs.jl")
-
 using Random
 
 # export randomizecompounds

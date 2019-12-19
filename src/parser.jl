@@ -1,5 +1,3 @@
-include("structs.jl")
-
 import JSON
 
 # export readmaster, readcompounds, readids
