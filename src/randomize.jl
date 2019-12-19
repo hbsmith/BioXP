@@ -1,10 +1,8 @@
-module Randomize
-
 include("structs.jl")
 
-using Random, .Structs
+using Random
 
-export randomizecompounds
+# export randomizecompounds
 
 """
 Sorts by increasing mass.
@@ -87,6 +85,4 @@ function randomizecompounds(
         randomized_cpd_lists[r] = [c[1] for c in cpds_masses]
     end
     return randomized_cpd_lists
-end
-
 end

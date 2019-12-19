@@ -1,11 +1,8 @@
-module Parser
-
 include("structs.jl")
 
 import JSON
-using .Structs
 
-export readmaster, readcompounds, readids
+# export readmaster, readcompounds, readids
 
 ## Seeds should just all be in separate files
 
@@ -77,7 +74,6 @@ function symbolizekeys(d::Dict)
     return newdict
 end
 
-end
 #######################################
 
 # function populatecompounds::Dict()

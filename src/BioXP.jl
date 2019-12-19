@@ -5,7 +5,7 @@ include("randomize.jl")
 include("parser.jl")
 
 import JSON
-using .Structs, .Randomize, .Parser
+# using .Structs, .Randomize, .Parser
 
 export 
 # Functions
