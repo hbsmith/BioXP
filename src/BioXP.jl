@@ -12,6 +12,7 @@ export
 readmaster,
 readcompounds,
 readids,
+readkeyedids,
 randomizecompounds,
 expand,
 find_minimal_seed_set,

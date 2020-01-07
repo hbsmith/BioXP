@@ -60,12 +60,21 @@ function readids(f::String)
     readids(ids)
 end
 
-function readids(ids::IDs)
-    return ids
+function readids(ids::Vector{<:Any})
+    return convert(IDs,ids)
+end
+
+function readkeyedids(f::String)
+    ids = JSON.parsefile(f)
+    readkeyedids(ids)
+end
+
+function readkeyedids(ids::Dict)
+    return convert(Dict{String,IDs},ids)
 end
 
 function symbolizekeys(d::Dict)
-    newdict = Dict()
+    newdict = Dict{Symbol,Any}()
     for (k,v) in d
         newdict[Symbol(k)] = v
     end
