@@ -104,11 +104,13 @@ using Random
 
     @testset "flip probability" begin
 
-        @test .5 == BioXP.getflipprobability(("C00069",0.0),("C00066",0.0),20.0)
-        @test .5 == BioXP.getflipprobability(("C00069",102.0),("C00066",0.0),20.0)
-        @test .5 == BioXP.getflipprobability(("C00069",0.000),("C00066",6663.0),20.0)
-        @test .12857 ≈ BioXP.getflipprobability(("C00379",152.0685),("C00380",111.0433),20.0) atol=0.00001
-        @test 1.0 == BioXP.getflipprobability(("C00380",111.0433),("C00379",152.0685),20.0)
+        beta = 20
+
+        @test .5 == BioXP.getflipprobability(("C00069",0.0),("C00066",0.0),beta)
+        @test .5 == BioXP.getflipprobability(("C00069",102.0),("C00066",0.0),beta)
+        @test .5 == BioXP.getflipprobability(("C00069",0.000),("C00066",6663.0),beta)
+        @test .12857 ≈ BioXP.getflipprobability(("C00379",152.0685),("C00380",111.0433),beta) atol=0.00001
+        @test 1.0 == BioXP.getflipprobability(("C00380",111.0433),("C00379",152.0685),beta)
 
     end
 
@@ -116,8 +118,11 @@ using Random
         biosystem_compounds = readids(["C00068","C00069","C00379","C00380","C00381"])
         n_runs = 3
 
-        println(randomizecompounds(biosystem_compounds,compounds,n_runs))
-        
+        # println(randomizecompounds(biosystem_compounds,compounds,n_runs))
+        runs = randomizecompounds(biosystem_compounds,compounds,n_runs)
+        for i in runs
+            @test length(biosystem_compounds) == length(i)
+        end
     end
 
 end

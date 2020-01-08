@@ -49,9 +49,9 @@ Swap random tuples within `tuples`.
 Based on formula from Handorf et al. 2008.
 """
 function mix_it_up!(
-    tuples::Vector{Tuple{String,<:Real}},
+    tuples::Vector{<:Tuple{String,Real}},
     beta::Real,
-    n_swaps::Int)
+    n_swaps::Int) #where {R <: Real}
 
     for _ in 1:n_swaps
         i,j = rand(1:length(tuples),2) ## 2 random indices 
@@ -83,8 +83,8 @@ Get the probability of flipping tuples ti and tj.
 Based on formula from Handorf et al. 2008.
 """
 function getflipprobability(
-    ti::Tuple{String,<:Real},
-    tj::Tuple{String,<:Real},
+    ti::Tuple{String,Real},
+    tj::Tuple{String,Real},
     beta::Real)
 
     diff = ti[2] - tj[2]
@@ -104,6 +104,29 @@ function getflipprobability(
     
 end
 
+"""
+    randomizecompounds(biosystem_compounds,
+        compound_structs,
+        n_runs,
+        n_swaps,
+        beta,
+        sortkey,
+        zero_mass_behavior)
+
+Return a vector of run results. 
+Each run result is a randomized list of biosystem_compounds.
+
+...
+# Arguments
+- `biosystem_compounds::IDs`: compounds to sort
+- `compound_structs::Compounds`: compounds with metadata
+- `n_runs::Int`: number of runs
+- `n_swaps::Int=1000`: number of compounds to within biosystem_compounds to swap when randomizing
+- `beta::Real=20`: Mixing coefficient. See Handorf et al. 2008 for details.
+- `sortkey::Symbol=:exact_mass`: how to sort compounds. Can also sort by `:mol_weight`
+- `zero_mass_behavior::String="end"`: what to do with compounds that have no mass. Can also be `"random"`
+...
+"""
 function randomizecompounds(
     biosystem_compounds::IDs,
     compound_structs::Compounds,
