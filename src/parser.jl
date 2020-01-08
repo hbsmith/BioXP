@@ -9,15 +9,11 @@ import JSON
 """
     readmaster(master)
 
-Return a `Dict` of reactions coerced into Reaction struct.
+Return a `Dict{Any,Reaction}` of reactions coerced into Reaction struct.
+When applied to a string, look for a file to read in. 
 """
 function readmaster end
 
-"""
-    readmaster(f::String)
-
-When applied to a string, look for a file to read in. 
-"""
 function readmaster(f::String)
     master = JSON.parsefile(f)
     readmaster(master)
@@ -31,6 +27,11 @@ function readmaster(master::Dict)
     return reactions
 end
 
+"""
+    readcompounds(dir)
+
+Returns a `Dict{Symbol,Compound}` of compounds coerced into Compound struct.
+"""
 function readcompounds(dir::String)
     compounds = Compounds()
     for f in readdir(dir)
@@ -46,15 +47,11 @@ end
 """
     readids(f)
 
-Return a `Vector{String}` of f
+Return a `Vector{String}` from a vector of reactions or compounds.
+When applied to a string, look for a file to read in. 
 """
 function readids end
 
-"""
-    readids(f::String)
-
-When applied to a string, look for a file to read in. 
-"""
 function readids(f::String)
     ids = JSON.parsefile(f)
     readids(ids)
@@ -64,6 +61,12 @@ function readids(ids::Vector{<:Any})
     return convert(IDs,ids)
 end
 
+"""
+    readkeyedids(f)
+
+Return a `Dict{String,IDs}` from a dict-like with values of reactions or compounds.
+When applied to a string, look for a file to read in. 
+"""
 function readkeyedids(f::String)
     ids = JSON.parsefile(f)
     readkeyedids(ids)
@@ -73,6 +76,11 @@ function readkeyedids(ids::Dict)
     return convert(Dict{String,IDs},ids)
 end
 
+"""
+    symbolizekeys(d)
+
+Converts the keys of a dict to the type `Symbol`.
+"""
 function symbolizekeys(d::Dict)
     newdict = Dict{Symbol,Any}()
     for (k,v) in d

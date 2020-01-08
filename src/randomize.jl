@@ -3,12 +3,22 @@ using Random
 # export randomizecompounds
 
 """
-Sorts by increasing mass.
 
+    sort_biosystem_compounds(compound_structs,
+        biosystem_compounds,
+        sortkey,
+        zero_mass_behavior)
+
+Sorts compounds by increasing mass.
 Always shuffles the order of the zero-mass compounds.
 
-sortkey: how to sort compounds. Can also sort by `:molecular_weight`
-zero_mass_behavior: what to do with compounds that have no mass. Can also be `"random"`
+...
+# Arguments
+- `compound_structs::Compounds`: compounds with metadata
+- `biosystem_compounds::IDs`: compounds to sort
+- `sortkey::Symbol=:exact_mass`: how to sort compounds. Can also sort by `:molecular_weight`
+- `zero_mass_behavior::String="end"`: what to do with compounds that have no mass. Can also be `"random"`
+...
 """
 function sort_biosystem_compounds(
     compound_structs::Compounds,
