@@ -9,14 +9,14 @@ using Random
         sortkey,
         zero_mass_behavior)
 
-Sorts compounds by increasing mass.
+Return a vector of (compound,mass) sorted by increasing mass.
 Always shuffles the order of the zero-mass compounds.
 
 ...
 # Arguments
 - `compound_structs::Compounds`: compounds with metadata
 - `biosystem_compounds::IDs`: compounds to sort
-- `sortkey::Symbol=:exact_mass`: how to sort compounds. Can also sort by `:molecular_weight`
+- `sortkey::Symbol=:exact_mass`: how to sort compounds. Can also sort by `:mol_weight`
 - `zero_mass_behavior::String="end"`: what to do with compounds that have no mass. Can also be `"random"`
 ...
 """
@@ -26,8 +26,8 @@ function sort_biosystem_compounds(
     sortkey::Symbol=:exact_mass,
     zero_mass_behavior::String="end")
 
-    cpd_masses = [(i,compound_structs[i][sortkey]) for i in biosystem_compounds if compound_structs[i][sortkey]!=0]
-    cpd_zero_masses = [(i,compound_structs[i][sortkey]) for i in biosystem_compounds if compound_structs[i][sortkey]==0]
+    cpd_masses = [(i,getproperty(compound_structs[i],sortkey)) for i in biosystem_compounds if getproperty(compound_structs[i],sortkey)!=0]
+    cpd_zero_masses = [(i,getproperty(compound_structs[i],sortkey)) for i in biosystem_compounds if getproperty(compound_structs[i],sortkey)==0]
 
     sort!(cpd_masses, by= x->x[2])
 
@@ -42,9 +42,15 @@ function sort_biosystem_compounds(
     end
 end
 
+"""
+    mix_it_up(tuples,beta,n_swaps)
+
+Swap random tuples within `tuples`.
+Based on formula from Handorf et al. 2008.
+"""
 function mix_it_up!(
-    tuples::Vector{Tuple{String,Float64}},
-    beta::Float64,
+    tuples::Vector{Tuple{String,<:Real}},
+    beta::Real,
     n_swaps::Int)
 
     for _ in 1:n_swaps
@@ -55,17 +61,38 @@ function mix_it_up!(
     end 
 end
 
+"""
+    swap_random(ti,tj,beta)
+
+Return `true` if tuples should be flipped.
+"""
 function swap_random(
-    ti::Tuple{String,Float64},
-    tj::Tuple{String,Float64},
-    beta::Float64)
+    ti::Tuple{String,<:Real},
+    tj::Tuple{String,<:Real},
+    beta::Real)
     
-    diff = ti[1] - tj[1]
+    p = getflipprobability(ti,tj,beta)
+
+    rand(Float64)<p ? true : false
+end
+
+"""
+    getflipprobability(ti,tj,beta)
+
+Get the probability of flipping tuples ti and tj.
+Based on formula from Handorf et al. 2008.
+"""
+function getflipprobability(
+    ti::Tuple{String,<:Real},
+    tj::Tuple{String,<:Real},
+    beta::Real)
+
+    diff = ti[2] - tj[2]
     
     ## Determine probability of flipping (another way of writing below)
     # ti[1]==0 || tj[1]==0 ? p=.5 : diff>0 ? p = math.e**(-diff/float(beta)) : p=1.0
 
-    if ti[1]==0 || tj[1]==0
+    if ti[2]==0 || tj[2]==0
         p = .5
     elseif diff > 0
         p = exp(-diff/beta)
@@ -73,7 +100,8 @@ function swap_random(
         p = 1.0
     end
 
-    rand(Float64)<p ? true : false
+    return p
+    
 end
 
 function randomizecompounds(
@@ -81,7 +109,7 @@ function randomizecompounds(
     compound_structs::Compounds,
     n_runs::Int,
     n_swaps::Int=1000,
-    beta::Float64=20,
+    beta::Real=20,
     sortkey::Symbol=:exact_mass,
     zero_mass_behavior::String="end"
     )
