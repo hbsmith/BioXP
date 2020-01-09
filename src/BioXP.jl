@@ -37,11 +37,9 @@ function matrixify_compounds(
     cids::IDs,
     rids::IDs)
 
-    ## For R and P (equivilent to R and P in segrelab's github):
     ## Reactons in columns, Compounds in rows. Rows, columns.
-
-    R = zeros(Int, (length(cids),length(rids)))
-    P = zeros(Int, (length(cids),length(rids)))
+    R = zeros(Int, (length(cids),length(rids))) ## Reactants
+    P = zeros(Int, (length(cids),length(rids))) ## Products
 
     for (i,r) in enumerate(rids)
         R[:,i] = [Int(cpd in rstructs[r].left) for cpd in cids]
@@ -55,10 +53,10 @@ function matrixify_targets(
     cids::IDs,
     tids::IDs)
     
-    biosystem_tids = intersect(tids,cids)
-    t = [Int(i in biosystem_tids) for i in cids]
-    
-    t
+    biosystem_tids = intersect(tids,cids) ## ensures impossible to reach tids don't count
+
+    [Int(i in biosystem_tids) for i in cids]
+
 end
 """
 Return vector of compounds with 1 in position where seeds are present and 0 where seeds are absenst.
