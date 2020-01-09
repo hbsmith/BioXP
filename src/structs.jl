@@ -39,8 +39,8 @@ const Compounds = Dict{String,Compound}
 const TArray{T, N} = Transpose{T, Array{T, N}}
 
 @with_kw struct System 
-    reaction_structs::Reactions 
-    biosystem_reactions::IDs
-    seed_compounds::IDs 
-    target_compounds::IDs = IDs()
+    rstructs::Reactions 
+    rids::IDs
+    sids::IDs 
+    tids::IDs = IDs()
 end

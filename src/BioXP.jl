@@ -161,7 +161,7 @@ function expand(
 
     cids = identify_biosystem_compounds(rstructs,rids)
 
-    (R, P) = matrixify_compounds(rstructs,cids,rids,tids)
+    (R, P) = matrixify_compounds(rstructs,cids,rids)
     x = matrixify_seeds(sids, cids)
     t = matrixify_targets(cids,tids)
 
@@ -206,7 +206,7 @@ function find_minimal_seed_set(
     cids = identify_biosystem_compounds(rstructs,rids)
     
 
-    (R, P) = matrixify_compounds(rstructs,cids,rids,tids)
+    (R, P) = matrixify_compounds(rstructs,cids,rids)
     t = matrixify_targets(cids,tids)
     # X, Y = Vector{Int}[], Vector{Int}[]
     x = matrixify_seeds(sids, cids) ## This should be a vector of all 1s of length(cids)
@@ -234,7 +234,7 @@ function find_minimal_seed_set(
     write_path::Union{String,Nothing}=nothing)
 
     cids = identify_biosystem_compounds(rstructs,rids)
-    (R, P) = matrixify_compounds(rstructs,cids,rids,tids)
+    (R, P) = matrixify_compounds(rstructs,cids,rids)
     t = matrixify_targets(cids,tids)
     # X, Y = Vector{Int}[], Vector{Int}[]
     all_seed_results = Vector{}
@@ -291,9 +291,9 @@ function simple_write_out(
     Y::Vector{Vector{Int}})
 
     println("Writing out single network expansion...")
-    if !ispath(path)
-        mkpath(path)
-    end
+    # if !ispath(path)
+    #     mkpath(path)
+    # end
 
     data = Dict()
     data["x"] = x
