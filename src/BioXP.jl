@@ -32,6 +32,13 @@ IDs
 ##   they are never supposed to be used as a comprehensive set of reactions
 ##   for the expansion process
 
+function remove_rids_not_in_rstructs(
+    rstructs::Reactions,
+    rids::IDs)
+
+    collect(String,intersect(rids,keys(rstructs)))
+end
+
 function matrixify_compounds(
     rstructs::Reactions,
     cids::IDs,
@@ -72,6 +79,8 @@ function identify_biosystem_compounds(
     rstructs::Reactions,
     rids::IDs)
 
+    ## only look at rids which are in my rstructs
+    
     IDs(unique(Iterators.flatten([vcat(rstructs[r].left,rstructs[r].right) for r in rids])))
 end
 
@@ -157,6 +166,7 @@ function expand(
     tids::IDs=IDs(),
     write_path::Union{String,Nothing}=nothing)
 
+    rids = remove_rids_not_in_rstructs(rstructs,rids)
     cids = identify_biosystem_compounds(rstructs,rids)
 
     (R, P) = matrixify_compounds(rstructs,cids,rids)
@@ -194,6 +204,17 @@ function find_minimal_seed_set(
         write_path)
 end
 
+"""
+    find_minimal_seed_set(rstructs,rids,sids,tids,write_path)
+
+Return: 
+- seeds (binary version) (these must be provided because their ordering matters for the algorithm)
+- targets (binary version)
+- compound ids
+- reactions ids
+- compounds (binary version) present at each timestep
+- reactions (binary version) availabel at each timestep
+"""
 function find_minimal_seed_set(
     rstructs::Reactions,
     rids::IDs,
@@ -201,14 +222,20 @@ function find_minimal_seed_set(
     tids::IDs=IDs(),
     write_path::Union{String,Nothing}=nothing)
 
+    rids = remove_rids_not_in_rstructs(rstructs,rids)
     cids = identify_biosystem_compounds(rstructs,rids)
-    
+    println(cids)
+    println(sids)
 
     (R, P) = matrixify_compounds(rstructs,cids,rids)
     t = matrixify_targets(cids,tids)
     # X, Y = Vector{Int}[], Vector{Int}[]
     x = matrixify_seeds(sids, cids) ## This should be a vector of all 1s of length(cids)
-    x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
+    println(x)
+    println(typeof(x))
+    println(ones(Int,length(cids)))
+    println(typeof(ones(Int,length(cids))))
+    x != ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
     X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P)
 
     if write_path !== nothing
@@ -231,6 +258,7 @@ function find_minimal_seed_set(
     tids::IDs=IDs(),
     write_path::Union{String,Nothing}=nothing)
 
+    rids = remove_rids_not_in_rstructs(rstructs,rids)
     cids = identify_biosystem_compounds(rstructs,rids)
     (R, P) = matrixify_compounds(rstructs,cids,rids)
     t = matrixify_targets(cids,tids)
@@ -267,7 +295,7 @@ function loop_and_remove_seeds(
     for i in seed_indicies(sids, cids)
         x[i] = 0
 
-        X, Y = expandmatrices(R, P, x)
+        global X, Y = expandmatrices(R, P, x) ## global needed to access the variables defined in-loop
 
         (tT * X[end]) != sum_t && (x[i] = 1) ## This is a short-circuit if statement
         # if (tT * X[end]) != sum_t
