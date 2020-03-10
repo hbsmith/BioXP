@@ -3,12 +3,14 @@ module BioXP
 include("structs.jl")
 include("randomize.jl")
 include("parser.jl")
+include("format.jl")
 
 import JSON
 # using .Structs, .Randomize, .Parser
 
 export 
 # Functions
+readexpansion,
 readmaster,
 readcompounds,
 readids,
@@ -17,11 +19,14 @@ randomizecompounds,
 expand,
 find_minimal_seed_set,
 simple_write_out,
+formatbioxpoutput,
+formatexpansion,
 
 # Structs
 System,
 Reaction,
 Compound,
+Expansion,
 
 # Consts
 Reactions,

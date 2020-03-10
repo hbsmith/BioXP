@@ -44,3 +44,12 @@ const TArray{T, N} = Transpose{T, Array{T, N}}
     sids::IDs 
     tids::IDs = IDs()
 end
+
+struct Expansion
+    x::Vector{Int}
+    t::Vector{Int}
+    compounds::IDs
+    reactions::IDs
+    X::Vector{Vector{Int}}
+    Y::Vector{Vector{Int}}
+end

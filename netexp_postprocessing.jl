@@ -143,50 +143,50 @@ end
 #########################
 ### FORMAT MANY FILES
 #########################
-# const DATADIR = "results/simple/min_seeds_partial/archaea/2506520044/"
+const DATADIR = "results/simple/min_seeds_partial/archaea/2506520044/"
 
-# # fsplit = split(DATADIR,"/")
-# # OUTDIR = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-# const OUTDIR = "results/formatted/min_seeds_partial/archaea/2506520044/"
+# fsplit = split(DATADIR,"/")
+# OUTDIR = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+const OUTDIR = "results/formatted/min_seeds_partial/archaea/2506520044/"
 
 
-# for domain in ["archaea","bacteria"]
-#     DATADIR = "results/simple_2019-09-09/minimal_seed_randomizations_together/"*domain*"/"
-#     OUTDIR = "results/formatted_2019-09-09/minimal_seed_randomizations_together/"*domain*"/"
+for domain in ["archaea","bacteria"]
+    DATADIR = "results/simple_2019-09-09/minimal_seed_randomizations_together/"*domain*"/"
+    OUTDIR = "results/formatted_2019-09-09/minimal_seed_randomizations_together/"*domain*"/"
 
-#     if !ispath(OUTDIR)
-#         mkpath(OUTDIR)
-#     end
+    if !ispath(OUTDIR)
+        mkpath(OUTDIR)
+    end
 
-#     format_many(DATADIR,OUTDIR)
+    format_many(DATADIR,OUTDIR)
 
-# end
+end
 
 #########################
 ### FORMAT SINGLE FILE
 #########################
-# fullinpath = "results/simple_2019-09-09/kegg_edge_json/reaction_edges.json"
-# # fullinpath = path*"data_glucose_test.json"
+fullinpath = "results/simple_2019-09-09/kegg_edge_json/reaction_edges.json"
+# fullinpath = path*"data_glucose_test.json"
 
-# D = JSON.parsefile(fullinpath)
-# x = Array{Int,1}(D["x"])
-# t = Array{Int,1}(D["t"])
-# compounds = Array{String,1}(D["compounds"])
-# reactions = Array{String,1}(D["reactions"])
-# X = Array{Any,1}(D["X"])
-# Y = Array{Any,1}(D["Y"])
+D = JSON.parsefile(fullinpath)
+x = Array{Int,1}(D["x"])
+t = Array{Int,1}(D["t"])
+compounds = Array{String,1}(D["compounds"])
+reactions = Array{String,1}(D["reactions"])
+X = Array{Any,1}(D["X"])
+Y = Array{Any,1}(D["Y"])
 
-# newdata = formatted_netexp_results(x,t,compounds,reactions,X,Y)
+newdata = formatted_netexp_results(x,t,compounds,reactions,X,Y)
 
-# fsplit = split(fullinpath,"/")
-# # outpath = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-# outpath = "results/formatted_2019-09-09/kegg_edge_json/"
-# if !ispath(outpath)
-#     mkpath(outpath)
-# end
-# fulloutpath = outpath*"reaction_edges.json"
+fsplit = split(fullinpath,"/")
+# outpath = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
+outpath = "results/formatted_2019-09-09/kegg_edge_json/"
+if !ispath(outpath)
+    mkpath(outpath)
+end
+fulloutpath = outpath*"reaction_edges.json"
 
-# ## Write out
-# open(fulloutpath,"w") do f
-#     JSON.print(f, newdata)
-# end
+## Write out
+open(fulloutpath,"w") do f
+    JSON.print(f, newdata)
+end

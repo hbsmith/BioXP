@@ -2,7 +2,16 @@ import JSON
 
 # export readmaster, readcompounds, readids
 
-## Seeds should just all be in separate files
+function readexpansion(f::String)
+    nexp = JSON.parsefile(f)
+    x = Vector{Int}(nexp["x"])
+    t = Vector{Int}(nexp["t"])
+    compounds = IDs(nexp["compounds"])
+    reactions = IDs(nexp["reactions"])
+    X = Vector{Vector{Int}}(nexp["X"])
+    Y = Vector{Vector{Int}}(nexp["Y"])
+    Expansion(x,t,compounds,reactions,X,Y)
+end
 
 ## The point of this is to verify the structure of the 
 ## master file or object.
