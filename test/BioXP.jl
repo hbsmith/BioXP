@@ -163,37 +163,37 @@ end
 end
 
 ## This test takes about 60 seconds
-@testset "test expanding original master KEGG w/P" begin
-    expected_results_fname = "../test/data/submission_results/kegg_edge_json_P/reaction_edges_P.json"
-    seeds_and_targets = readkeyedids("../test/data/seeds/seeds.json")
-    sids = seeds_and_targets["Enceladus_20-SAFR-032_P"]
-    tids = seeds_and_targets["targets_Freilich09"]
-    rstructs = readmaster("../test/data/master_from_redges-og-submission.json")
+# @testset "test expanding original master KEGG w/P" begin
+#     expected_results_fname = "../test/data/submission_results/kegg_edge_json_P/reaction_edges_P.json"
+#     seeds_and_targets = readkeyedids("../test/data/seeds/seeds.json")
+#     sids = seeds_and_targets["Enceladus_20-SAFR-032_P"]
+#     tids = seeds_and_targets["targets_Freilich09"]
+#     rstructs = readmaster("../test/data/master_from_redges-og-submission.json")
     
-    rids = readids("../test/data/taxon_reactions/kegg.json")
-    x, t, cids, X, Y = expand(rstructs,rids,sids,tids) ## new results
+#     rids = readids("../test/data/taxon_reactions/kegg.json")
+#     x, t, cids, X, Y = expand(rstructs,rids,sids,tids) ## new results
     
-    e = JSON.parsefile(expected_results_fname) ## expected results
+#     e = JSON.parsefile(expected_results_fname) ## expected results
 
-    @test length(x) == length(e["x"])
-    @test length(t) == length(e["t"])
-    @test length(cids) == length(e["compounds"])
-    @test length(X) == length(e["X"])
-    @test length(Y) == length(e["Y"])
+#     @test length(x) == length(e["x"])
+#     @test length(t) == length(e["t"])
+#     @test length(cids) == length(e["compounds"])
+#     @test length(X) == length(e["X"])
+#     @test length(Y) == length(e["Y"])
 
-    # Compare calculated against expected results
-    for gen in 1:length(e["X"])
+#     # Compare calculated against expected results
+#     for gen in 1:length(e["X"])
         
-        expected_cpds = Set(zip(e["compounds"],e["X"][gen]))
-        calcualted_cpds = Set(zip(cids,X[gen]))
+#         expected_cpds = Set(zip(e["compounds"],e["X"][gen]))
+#         calcualted_cpds = Set(zip(cids,X[gen]))
         
-        @test expected_cpds == calcualted_cpds
+#         @test expected_cpds == calcualted_cpds
         
-        if gen != length(e["X"])
-            expected_rxns = Set(zip(e["reactions"],e["Y"][gen]))
-            calculated_rxns = Set(zip(rids,Y[gen]))
+#         if gen != length(e["X"])
+#             expected_rxns = Set(zip(e["reactions"],e["Y"][gen]))
+#             calculated_rxns = Set(zip(rids,Y[gen]))
             
-            @test expected_rxns == calculated_rxns
-        end
-    end
-end
+#             @test expected_rxns == calculated_rxns
+#         end
+#     end
+# end
