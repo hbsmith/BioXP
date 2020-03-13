@@ -30,7 +30,7 @@ function _formatbioxpfile(fname::String,
         if !ispath(newdir)
             mkpath(newdir)
         end
-        write_path = joinpath(newdir,fname)
+        write_path = joinpath(newdir,basename(fname))
     ## in case write_path is a file, get the directory
     elseif !ispath(dirname(abspath(write_path)))
         mkpath(dirname(abspath(write_path)))
@@ -60,16 +60,16 @@ function _formatbioxpdir(dir::String,
     # "$i.json"
     for fname in filter(x->endswith(x,".json"),readdir(abspath(dir))) ## List all json files in dir
         
+        formattedexpansion = formatexpansion(readexpansion(joinpath(abspath(dir),fname)))
+
         if write_path == nothing
-            write_path = joinpath(newdir,fname)  
+            real_write_path = joinpath(newdir,basename(fname))  
         ## Only supports choosing the dirname to write when writing whole dir
         else
-            write_path = joinpath(write_path,fname)
+            real_write_path = joinpath(write_path,basename(fname))
         end
-        
-        formattedexpansion = formatexpansion(readexpansion(fname))
     
-        open(write_path,"w") do f
+        open(real_write_path,"w") do f
             JSON.print(f, formattedexpansion, 2) #indent=2
         end
     end
@@ -86,7 +86,7 @@ function formatexpansion(nexp::Expansion)
                     nexp.Y)
 end
 
-function formatexpansion(x::Array{Int,1},t::Array{Int,1},compounds::Array{String,1},reactions::Array{String,1},X::Array{Any,1},Y::Array{Any,1})
+function formatexpansion(x::Vector{Int},t::Vector{Int},compounds::Array{String,1},reactions::Array{String,1},X::Vector{Vector{Int}},Y::Vector{Vector{Int}})
     data = Dict("stats"=>Dict(),"generations"=>Dict())
 
     ## Store data about the scope, about the equilibrium
