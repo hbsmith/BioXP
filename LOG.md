@@ -312,3 +312,81 @@ def read_formatted_jsons_streamlined(INDIR,encel):
   - it's because for some reason water is missing from the `targets/Freilich09.json` file.
   - I think I should just assume that everything makes water.... **update, it doesn't. check the 2019-09-12 jupyter notebook in the encxp dir**
   - 
+
+## 2020-03-24
+
+Trying to understand why I can't modify the temperature involved in the eQuilibrator calcuations--the official explanation is:
+
+- > The group contribution method enables us to approximate ΔfG of compounds at a particular temperature (the temperature at which they were measured) [[JM08\]](http://equilibrator.weizmann.ac.il/static/classic_rxns/faq.html#jm08). As the change in free energy is defined as ΔG = ΔH - TΔS and we don’t know the value of ΔS in most cases, we cannot predict how changes in temperature will affect ΔfG.
+
+- Need to understand this better by reading there paper--as there should be estimates for how to improve this.
+
+Kristin shared some thermodynamic resources with me:
+
+- HKF method (https://www.hindawi.com/journals/geofluids/2019/5750390/)
+- orchyd asu database (no longer maintained and only one person can access at a time http://orchyd.asu.edu/)
+- https://chnosz.net/vignettes/obigt.html
+
+And some other ones I found:
+
+- https://gitlab.com/equilibrator/component-contribution (general API)
+- https://gitlab.com/equilibrator/equilibrator-api (eQuilibrator)
+
+Today I also finished producing a new seeds file which reflects the most recent estimates of enceladus's composition. Those seeds are now under `data/seeds/encel_papers_2019.json` . The script used to create it was `jupyter_new/update_seeds.ipynb`. 
+
+## 2020-03-25
+
+Trying to install the local equilibrator API and it recommends installing in a virutalenv. This is allowing me to import the package into a python3 instance within the directory, but for some reason when I try to import equilibrator while in a jupyter lab notebook it's not finding the package. **ok resolved this by not using virtualenv**
+
+### Equilibrator and changing temperature
+
+Not possible. Because normally $\Delta _rG’^o$ (=$-RT ln(K’)$) is calculated by measuring the apparent equilibrium constant K' (that is the concentrations of species at equilibrium) at a particular temperature. For more explanation, see the `Noor et al. 2013 SI Section 1 Training data`:
+
+> Nearly all Gibbs energy measurements, for compounds and reactions in aqueous solutions at near-room temperature, are derived from the equilibrium constants of enzyme-catalyzed reactions. Typically, an enzyme that speciﬁcally catalyzes a certain reaction is puriﬁed and added to a medium that contains the reaction substrates. After the reaction reaches equilibrium, all reactant concentrations are measured. The equilibrium constant K ′ is deﬁned as the ratio between the product of all product concentrations and the product of all substrate concentrations. Since there is no easy way to distinguish between pseudoisomers of the same compound, the concentration of every reactant is actually the sum of all its protonation 2
+>
+> states. Therefore, K ′ is the apparent equilibrium constant, which is related to the standard transformed Gibbs energy of reaction (∆ r G ′◦ [1]). The problem with using this data as-is lies in the fact that K ′ and ∆ r G ′◦ depend on the aqueous environment (e.g. pH, ionic strength, and pMg). The measurements listed in TECRDB span a wide range of pH and ionic strength values, and many of the reactions have only been measured in non-standard conditions.
+
+Also, from `Jankowski et al 2008:`
+
+>  The experimentally measured  values reported in these references were captured under a variety of temperature and pH conditions. Only data captured within one pH unit and 15 K of the chosen reference state of pH 7 and 298 K was utilized
+
+### Ionic strength
+
+Another question is: What ionic strength to use? Default on equilibrator is 0.1M but that's not a good reason to choose it.
+
+Maybe .2-.6 based on the results of the paper by `Hsu et al 2015`:
+
+> The existence of silica nanoparticles also provides strict constraints on the salinity of Enceladus’ subsurface waters because silica colloids aggregate and precipitate quickly at high ionic strength[12](https://www.nature.com/articles/nature14262#ref-CR12),[13](https://www.nature.com/articles/nature14262#ref-CR13). The critical coagulation concentration of NaCl at pH 9 is 2% or ∼0.3 M (1.5% or ∼0.2 M at pH 10, 4% or ∼0.6 M at pH 8)[13](https://www.nature.com/articles/nature14262#ref-CR13). 
+
+`Zolotov 2007` shows 0.4-0.1 Molal maybe:
+
+> The solution pH ranges from 8 to 11 ([Figures 1](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007GL031234#grl23670-fig-0001) and [2b](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007GL031234#grl23670-fig-0002)). The salinity (2–20 g/kg H2O) and ionic strength (0.04–0.1 molal) are higher at high‐*T* ([Figure 2c](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007GL031234#grl23670-fig-0002)) and low‐*W*/*R* conditions, but less than in Earth's seawater (∼35 g kg−1 and 0.7 molal).
+
+### Temperature of enceladus
+
+Fig 3 from `Hsu et al 2015` shows that temp is unknown and is probably somewhere between 90 and 0 C:
+
+![Figure 3](41586_2015_Article_BFnature14262_Fig3_HTML.jpg)
+
+### More compounds from enceladus...
+
+I found another good paper on compounds on enceladus: `Khawaja et al 2019` which has actual tables (!) of compounds or estimated compounds based on how ionization (or fragmentation?) occured in laboratory experiements. See tables 1 and 2. See also the SM.
+
+### Todo
+
+- map equilibrator delta Gs to KEGG reactions for various combinations of pH and ionic strength 
+
+- check to see how network expansion in my code works if i want to limit reaction directionality based on deltaG and pH
+
+- figure out how to download some of the organisms that Shawn recommended to me
+
+  - also redownload pH organisms, and check if i can sample phyla like i helped yoko do?
+
+- think about  how to analyze results from my paper based on whether or not organisms are:
+
+  - aerobic/anaerobic
+  - autotroph/heterotroph
+  - photo/chemotroph?
+  - different metabolisms (eg. sulfur reducing or methanogens)
+
+  
