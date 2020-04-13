@@ -4,6 +4,7 @@ include("structs.jl")
 include("randomize.jl")
 include("parser.jl")
 include("format.jl")
+include("dg.jl")
 
 import JSON
 # using .Structs, .Randomize, .Parser
