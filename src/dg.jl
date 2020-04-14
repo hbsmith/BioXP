@@ -13,7 +13,7 @@ function simple_allowed_reactions(
         allowed_reactions[ismissing.(dgs)] .= false
     end
     
-    allowed_reactions
+    Vector{Bool}(allowed_reactions)
 end
 
 """
@@ -30,31 +30,31 @@ function filter_reactions_by_dg(
     threshold::Real, 
     env_key::Any, 
     rids::IDs,
-    rstructs::Reactions,
+    rstructs::Reactions;
     allow_nothings::Bool=false,
     allow_unbalanced::Bool=false,
     allow_within_ci::Bool=true)
 
-    mean_dgs = Union{Nothing,Missing,Real}[rstructs["reactions"][rid]["metadata"]["dg"][env_key]["standard_dg_prime_value"] for rid in rids]
-    cis = Union{Nothing,Missing,Real}[rstructs["reactions"][rid]["metadata"]["dg"][env_key]["standard_dg_prime_ci"] for rid in rids]
+    mean_dgs = Union{Nothing,Missing,Real}[rstructs[rid].metadata["dg"][env_key]["standard_dg_prime_value"] for rid in rids]
+    cis = Union{Nothing,Missing,Real}[rstructs[rid].metadata["dg"][env_key]["standard_dg_prime_ci"] for rid in rids]
     ## convert to missing because it can handle operators
     mean_dgs[mean_dgs .== nothing] .= missing
     cis[cis .== nothing] .= missing
 
     ## identify best case scenario dg values
     if allow_within_ci==true
-        forward_dgs = mean_dgs - cis 
-        backward_dgs = -mean_dgs - cis
+        forward_dgs = Vector{Union{Missing,Real}}(mean_dgs - cis)
+        backward_dgs = Vector{Union{Missing,Real}}(-mean_dgs - cis)
     else
-        forward_dgs = mean_dgs
-        backward_dgs = -mean_dgs
+        forward_dgs = Vector{Union{Missing,Real}}(mean_dgs)
+        backward_dgs = Vector{Union{Missing,Real}}(-mean_dgs)
     end
 
     forward_allowed = simple_allowed_reactions(forward_dgs,threshold,allow_nothings)
     backward_allowed = simple_allowed_reactions(backward_dgs,threshold,allow_nothings)
 
     ## gather balance data
-    balances = Union{Nothing,Missing,Bool}[rstructs["reactions"][rid]["metadata"]["dg"][env_key]["is_balanced"] for rid in rids]
+    balances = Union{Nothing,Missing,Bool}[rstructs[rid].metadata["dg"][env_key]["is_balanced"] for rid in rids]
     ## convert to missing because it can handle operators
     balances[balances .== nothing] .= missing
 
