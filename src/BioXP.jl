@@ -90,17 +90,31 @@ function identify_biosystem_compounds(
     IDs(unique(Iterators.flatten([vcat(rstructs[r].left,rstructs[r].right) for r in rids])))
 end
 
+"""
+If we want to take into account dg values, dispatch on this function
+"""
 function expandmatrices(
     R::Array{Int,2}, 
     P::Array{Int,2}, 
-    x::Array{Int,1})
+    x::Array{Int,1},
+    forward_allowed::Union{Vector{Bool},Nothing}=nothing,
+    backward_allowed::Union{Vector{Bool},Nothing}=nothing)
 
     # initialize variables:
     RT = transpose(R)
     PT = transpose(P)
 
     br = vec(sum(RT, dims=2)) # sum the rows of RT. Do I need the vec call here? yes, turns it into 1 element array
-    bp = vec(sum(PT, dims=2))   
+    bp = vec(sum(PT, dims=2))
+
+    # force unallowed reactions to be out of reach
+    if forward_allowed != nothing
+        br = br + .~forward_allowed 
+    end
+    if backward_allowed != nothing
+        bp = bp + .~backward_allowed  
+    end
+    
     # find the total number of metabolites in the seed set
     k = sum(x);
 
