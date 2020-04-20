@@ -97,8 +97,8 @@ function expandmatrices(
     R::Array{Int,2}, 
     P::Array{Int,2}, 
     x::Array{Int,1},
-    forward_allowed::Union{Vector{Bool},Nothing}=nothing,
-    backward_allowed::Union{Vector{Bool},Nothing}=nothing)
+    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
+    allowed_backward::Union{Vector{Bool},Nothing}=nothing)
 
     # initialize variables:
     RT = transpose(R)
@@ -108,11 +108,11 @@ function expandmatrices(
     bp = vec(sum(PT, dims=2))
 
     # force unallowed reactions to be out of reach
-    if forward_allowed != nothing
-        br = br + .~forward_allowed 
+    if allowed_forward != nothing
+        br = br + .~allowed_forward 
     end
-    if backward_allowed != nothing
-        bp = bp + .~backward_allowed  
+    if allowed_backward != nothing
+        bp = bp + .~allowed_backward  
     end
     
     # find the total number of metabolites in the seed set
@@ -176,7 +176,9 @@ function expand(
         system.rids,
         system.sids,
         system.tids,
-        write_path)
+        write_path,
+        system.allowed_forward,
+        system.allowed_backward)
 end
 
 function expand(
@@ -184,7 +186,9 @@ function expand(
     rids::IDs,
     sids::IDs,
     tids::IDs=IDs(),
-    write_path::Union{String,Nothing}=nothing)
+    write_path::Union{String,Nothing}=nothing,
+    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
+    allowed_backward::Union{Vector{Bool},Nothing}=nothing)
 
     rids = remove_rids_not_in_rstructs(rstructs,rids)
     cids = identify_biosystem_compounds(rstructs,rids)
@@ -194,7 +198,7 @@ function expand(
     t = matrixify_targets(cids,tids)
 
     # X, Y = Vector{Int}[], Vector{Int}[] ## same as Vector{Vector{Int}}(),Vector{Vector{Int}}()
-    X, Y = expandmatrices(R, P, x)
+    X, Y = expandmatrices(R, P, x, allowed_forward, allowed_backward)
 
     if write_path !== nothing
         simple_write_out(write_path,x,t,cids,rids,X,Y)
@@ -240,7 +244,9 @@ function find_minimal_seed_set(
     rids::IDs,
     sids::IDs,
     tids::IDs=IDs(),
-    write_path::Union{String,Nothing}=nothing)
+    write_path::Union{String,Nothing}=nothing,
+    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
+    allowed_backward::Union{Vector{Bool},Nothing}=nothing)
 
     rids = remove_rids_not_in_rstructs(rstructs,rids)
     cids = identify_biosystem_compounds(rstructs,rids)
@@ -256,7 +262,7 @@ function find_minimal_seed_set(
     println(ones(Int,length(cids)))
     println(typeof(ones(Int,length(cids))))
     x != ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
-    X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P)
+    X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P,allowed_forward,allowed_backward)
 
     if write_path !== nothing
         simple_write_out(write_path,x,t,cids,rids,X,Y)
@@ -276,7 +282,9 @@ function find_minimal_seed_set(
     rids::IDs,
     sid_sets::Vector{IDs},
     tids::IDs=IDs(),
-    write_path::Union{String,Nothing}=nothing)
+    write_path::Union{String,Nothing}=nothing,
+    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
+    allowed_backward::Union{Vector{Bool},Nothing}=nothing)
 
     rids = remove_rids_not_in_rstructs(rstructs,rids)
     cids = identify_biosystem_compounds(rstructs,rids)
@@ -287,7 +295,7 @@ function find_minimal_seed_set(
     for (i,sids) in enumerate(sid_sets)
         x = matrixify_seeds(sids, cids) ## This should be a vector of all 1s of length(cids)
         x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
-        X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P)
+        X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P,allowed_forward,allowed_backward)
 
         if write_path !== nothing
             simple_write_out(joinpath(write_path,"$i.json"),x,t,cids,rids,X,Y)
@@ -307,7 +315,9 @@ function loop_and_remove_seeds(
     x::Vector{Int},
     t::Vector{Int},
     R::Array{Int,2}, 
-    P::Array{Int,2})
+    P::Array{Int,2},
+    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
+    allowed_backward::Union{Vector{Bool},Nothing}=nothing)
 
     tT = transpose(t)
     sum_t = sum(t)
@@ -315,7 +325,7 @@ function loop_and_remove_seeds(
     for i in seed_indicies(sids, cids)
         x[i] = 0
 
-        global X, Y = expandmatrices(R, P, x) ## global needed to access the variables defined in-loop
+        global X, Y = expandmatrices(R, P, x, allowed_forward, allowed_backward) ## global needed to access the variables defined in-loop
 
         (tT * X[end]) != sum_t && (x[i] = 1) ## This is a short-circuit if statement
         # if (tT * X[end]) != sum_t
