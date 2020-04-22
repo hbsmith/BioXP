@@ -22,6 +22,7 @@ find_minimal_seed_set,
 simple_write_out,
 formatbioxpoutput,
 formatexpansion,
+filter_reactions_by_dg,
 
 # Structs
 System,

@@ -36,7 +36,7 @@ end
 
         forward_allowed=[false,false,true,true,false]
         backward_allowed=[false,false,false,false,true]
-        @test (forward_allowed, backward_allowed) == BioXP.filter_reactions_by_dg(
+        @test (forward_allowed, backward_allowed) == filter_reactions_by_dg(
                                                     threshold, 
                                                     env_key, 
                                                     rids,
@@ -54,7 +54,7 @@ end
 
         forward_allowed=[true,true,true,true,false]
         backward_allowed=[true,true,false,false,true]
-        @test (forward_allowed, backward_allowed) == BioXP.filter_reactions_by_dg(
+        @test (forward_allowed, backward_allowed) == filter_reactions_by_dg(
                                                     threshold, 
                                                     env_key, 
                                                     rids,
@@ -71,7 +71,7 @@ end
 
         forward_allowed=[false,false,true,true,false]
         backward_allowed=[false,false,false,false,false]
-        @test (forward_allowed, backward_allowed) == BioXP.filter_reactions_by_dg(
+        @test (forward_allowed, backward_allowed) == filter_reactions_by_dg(
                                                     threshold, 
                                                     env_key, 
                                                     rids,
@@ -88,7 +88,7 @@ end
 
         forward_allowed=[false,false,true,true,false]
         backward_allowed=[false,false,true,false,false]
-        @test (forward_allowed, backward_allowed) == BioXP.filter_reactions_by_dg(
+        @test (forward_allowed, backward_allowed) == filter_reactions_by_dg(
                                                     threshold, 
                                                     env_key, 
                                                     rids,
@@ -106,7 +106,7 @@ end
 
         forward_allowed=[false,false,true,true,false]
         backward_allowed=[false,false,true,false,false]
-        @test (forward_allowed, backward_allowed) == BioXP.filter_reactions_by_dg(
+        @test (forward_allowed, backward_allowed) == filter_reactions_by_dg(
                                                     threshold, 
                                                     env_key, 
                                                     rids,
@@ -123,7 +123,7 @@ end
 
         forward_allowed=[false,false,true,true,false]
         backward_allowed=[false,false,true,false,true]
-        @test (forward_allowed, backward_allowed) == BioXP.filter_reactions_by_dg(
+        @test (forward_allowed, backward_allowed) == filter_reactions_by_dg(
                                                     threshold, 
                                                     env_key, 
                                                     rids,
@@ -140,7 +140,7 @@ end
 
         forward_allowed=[true,true,true,true,false]
         backward_allowed=[true,true,true,false,true]
-        @test (forward_allowed, backward_allowed) == BioXP.filter_reactions_by_dg(
+        @test (forward_allowed, backward_allowed) == filter_reactions_by_dg(
                                                     threshold, 
                                                     env_key, 
                                                     rids,
