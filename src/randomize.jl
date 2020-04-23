@@ -51,11 +51,12 @@ Based on formula from Handorf et al. 2008.
 function mix_it_up!(
     tuples::Vector{<:Tuple{String,Real}},
     beta::Real,
-    n_swaps::Int) #where {R <: Real}
+    n_swaps::Int,
+    rng::AbstractRNG=Random.default_rng()) #where {R <: Real}
 
     for _ in 1:n_swaps
         i,j = rand(1:length(tuples),2) ## 2 random indices 
-        if swap_random(tuples[i],tuples[j],beta) == true
+        if swap_random(tuples[i],tuples[j],beta,rng) == true
             tuples[i], tuples[j] = tuples[j], tuples[i] ## changes them simultaneously
         end 
     end 
@@ -69,11 +70,12 @@ Return `true` if tuples should be flipped.
 function swap_random(
     ti::Tuple{String,<:Real},
     tj::Tuple{String,<:Real},
-    beta::Real)
+    beta::Real,
+    rng::AbstractRNG=Random.default_rng())
     
     p = getflipprobability(ti,tj,beta)
 
-    rand(Float64)<p ? true : false
+    rand(rng,Float64)<p ? true : false
 end
 
 """
@@ -134,13 +136,16 @@ function randomizecompounds(
     n_swaps::Int=1000,
     beta::Real=20,
     sortkey::Symbol=:exact_mass,
-    zero_mass_behavior::String="end"
-    )
+    zero_mass_behavior::String="end",
+    rng::AbstractRNG=Random.default_rng())
 
     randomized_cpd_lists = [Vector{String}(undef,length(biosystem_compounds)) for _ in 1:n_runs] # allocate output memory
+    ## Generate seeds and RNG objects based on rng
+    rng_seeds = [rand(rng,1:typemax(Int)) for i in 1:n_runs]
+    rng_list = [MersenneTwister(i) for i in rng_seeds]
     for r in 1:n_runs
         cpds_masses = sort_biosystem_compounds(compound_structs, biosystem_compounds, sortkey, zero_mass_behavior)
-        mix_it_up!(cpds_masses,beta,n_swaps)
+        mix_it_up!(cpds_masses,beta,n_swaps,rng_list[r])
         randomized_cpd_lists[r] = [c[1] for c in cpds_masses]
     end
     return randomized_cpd_lists
