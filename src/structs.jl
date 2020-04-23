@@ -43,8 +43,12 @@ const TArray{T, N} = Transpose{T, Array{T, N}}
     rids::IDs
     sids::IDs 
     tids::IDs = IDs()
-    allowed_forward::Union{Vector{Bool},Nothing}=nothing
-    allowed_backward::Union{Vector{Bool},Nothing}=nothing
+    allowed_forward::Union{Vector{Bool},Nothing} = nothing
+    allowed_backward::Union{Vector{Bool},Nothing} = nothing
+    # function System(args...)
+
+    #     new(rstructs, rids, sids, nothing, nothing, nothing)
+    # end
 end
 
 struct Expansion

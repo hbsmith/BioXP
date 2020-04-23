@@ -220,13 +220,17 @@ end
 
 function find_minimal_seed_set(
     system::System,
-    write_path::Union{String,Nothing}=nothing)
+    write_path::Union{String,Nothing}=nothing,
+    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
+    allowed_backward::Union{Vector{Bool},Nothing}=nothing)
     
     find_minimal_seed_set(system.rstructs,
         system.rids,
         system.sids,
         system.tids,
-        write_path)
+        write_path,
+        allowed_forward,
+        allowed_backward)
 end
 
 """
@@ -293,20 +297,27 @@ function find_minimal_seed_set(
     t = matrixify_targets(cids,tids)
     # X, Y = Vector{Int}[], Vector{Int}[]
     all_seed_results = Vector{}
-    for (i,sids) in enumerate(sid_sets)
-        x = matrixify_seeds(sids, cids) ## This should be a vector of all 1s of length(cids)
-        x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
-        X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P,allowed_forward,allowed_backward)
-
-        if write_path !== nothing
-            simple_write_out(joinpath(write_path,"$i.json"),x,t,cids,rids,X,Y)
+    if write_path==nothing ## no parallel processing because of the push
+       
+        for (i,sids) in enumerate(sid_sets)
+            x = matrixify_seeds(sids, cids) ## This should be a vector of all 1s of length(cids)
+            x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
+            X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P,allowed_forward,allowed_backward)
+            push!(all_seed_results,(x,t,cids,rids,X,Y))
         end
 
-        push!(all_seed_results,(x,t,cids,rids,X,Y))
+    else ## Use parallel processing
+
+        Threads.@threads for (i,sids) in collect(enumerate(sid_sets))
+            x = matrixify_seeds(sids, cids) ## This should be a vector of all 1s of length(cids)
+            x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
+            X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P,allowed_forward,allowed_backward)
+            simple_write_out(joinpath(write_path,"$i.json"),x,t,cids,rids,X,Y)
+        end
     
     end
 
-    all_seed_results # Is this going to use a massive amount of memory?
+    all_seed_results # This will be empty if write_path!=nothing
 
 end
 

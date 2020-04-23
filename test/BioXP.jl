@@ -1,4 +1,4 @@
-
+# using Random
 ### This doesn't error!
 # @testset "does the expand crash?" begin
 
@@ -17,23 +17,33 @@
 # end
 
 ### This doesn't error!
-# @testset "does the find_minimal_seed_set crash?" begin
+@testset "minimal seed sets" begin
 
-#     rstructs = readmaster("data/master.json")
-#     rids = readids(["R09735","R08827"])
-#     sids = readids(["C19848","C06232","C18237","C00020","C00001","C00355","C08538","C08543","C00001"])
-#     tids = readids(["C06232"])
-#     # sids = readkeyedids("data/seeds/seeds.json")["Enceladus_20-SAFR-032"]
-#     # tids = readkeyedids("data/seeds/seeds.json")["targets_Freilich09"]
+    rstructs = readmaster("data/master.json")
+    rids = readids(["R09735","R08827"])
+    sids = readids(["C19848","C06232","C18237","C00020","C00001","C00355","C08538","C08543","C00001"])
+    tids = readids(["C06232"])
+    # sids = readkeyedids("data/seeds/seeds.json")["Enceladus_20-SAFR-032"]
+    # tids = readkeyedids("data/seeds/seeds.json")["targets_Freilich09"]
 
-#     S = System(rstructs,
-#                rids,
-#                sids,
-#                tids)
+    S = System(rstructs=rstructs,
+               rids=rids,
+               sids=sids,
+               tids=tids)
 
-#     find_minimal_seed_set(S,"results/simple_minimalseed_test.json")
+    ## Below tests just make sure that nothing errors
+    @test isa(find_minimal_seed_set(S,"results/simple_minimalseed_test.json"), Any)
+    @test isa(find_minimal_seed_set(S), Any)
 
-# end
+    allowed_forward = [true,false]
+    allowed_backward = [false,true]
+
+    @test isa(find_minimal_seed_set(S, nothing, allowed_forward, allowed_backward), Any)
+    
+    # myrng = MersenneTwister(1234)
+    # [rand(myrng,[0,1]) for i in 1:length(rids)]
+
+end
 
 @testset "test BioXP 'private' functions" begin 
 
