@@ -358,7 +358,7 @@ function simple_write_out(
     X::Vector{Vector{Int}}, 
     Y::Vector{Vector{Int}})
 
-    println("Writing out single network expansion...")
+    # println("Writing out single network expansion...")
     # if !ispath(path)
     #     mkpath(path)
     # end
