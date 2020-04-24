@@ -5,6 +5,28 @@ import JSON
 ## formatbioxpoutput(netexp_simple_results_dir)
 ## OR
 ## formatbioxpoutput(netexp_simple_results_file)
+"""
+Convert JGI files from old sytle (used in original Seeding life submission) to 
+new style (used for BioXP rebuild)
+"""
+function old_to_new_rids(olddir::String,newdir::String)
+    for f in readdir(olddir)
+    
+        oldjson = JSON.parsefile(joinpath(olddir,f))
+        ## Make sure keys in reactions and products are the same
+        @assert Set(keys(oldjson["substrates"])) == Set(keys(oldjson["products"]))
+
+        if !ispath(newdir)
+            mkpath(newdir)
+        end
+
+        newpath = joinpath(newdir,f)
+        open(newpath,"w") do f
+            JSON.print(f,keys(oldjson["substrates"]),2)
+        end
+
+    end
+end
 
 ## Single file
 function formatbioxpoutput(path::String,
