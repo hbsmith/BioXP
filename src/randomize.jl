@@ -1,6 +1,34 @@
 using Random
 
 # export randomizecompounds
+"""
+    
+    list_biosystem_compounds_from_rids(
+        rstructs::Reactions,
+        rids::IDs)
+
+Return a vector of compound ids.
+
+Notes: Useful to call on a biosystem to get biosystem_compounds before calling `randomizecompounds`.
+
+...
+# Arguments
+- `rstructs::Reactions`: reactions with metadata,
+- `rids::IDs`: rids to get compounds for
+...
+"""
+function list_biosystem_compounds_from_rids(
+    rstructs::Reactions,
+    rids::IDs)
+    
+    cids = []
+    for r in rids
+        append!(cids,rstructs[r].left)
+        append!(cids,rstructs[r].right)
+    end
+    
+    cids
+end
 
 """
 
