@@ -311,7 +311,11 @@ function find_minimal_seed_set(
 
         Threads.@threads for (i,sids) in collect(enumerate(sid_sets))
             x = matrixify_seeds(sids, cids) ## This should be a vector of all 1s of length(cids)
-            x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
+            # println(length(x))
+            # println(length(cids))
+            # println(x)
+            ## I'm commenting this out for now because it's throwing even though it shouldn't be based on the above prints
+            # x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
             X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P,allowed_forward,allowed_backward)
             simple_write_out(joinpath(write_path,"$i.json"),x,t,cids,rids,X,Y)
         end
@@ -335,10 +339,21 @@ function loop_and_remove_seeds(
     tT = transpose(t)
     sum_t = sum(t)
     ## Run 1 network expansion per seed variation
+
+    X, Y = Vector{Int}[], Vector{Int}[]
+    
     for i in seed_indicies(sids, cids)
         x[i] = 0
 
-        global X, Y = expandmatrices(R, P, x, allowed_forward, allowed_backward) ## global needed to access the variables defined in-loop
+        X, Y = expandmatrices(R, P, x, allowed_forward, allowed_backward) ## global needed to access the variables defined in-loop
+
+        ## OK, now that I added show statements there aren't errors?
+        # println("i = $i on thread $(Threads.threadid())")
+        # println("length(tT) = $(length(tT)) on thread $(Threads.threadid())")
+        # println("length(X) = $(length(X)) on thread $(Threads.threadid())")
+        # println("sum_t = $sum_t on thread $(Threads.threadid())")
+        # println("length(x) = $(length(x)) on thread $(Threads.threadid())")
+        # @show Threads.threadid() i length(tT) length(X) sum_t length(x)
 
         (tT * X[end]) != sum_t && (x[i] = 1) ## This is a short-circuit if statement
         # if (tT * X[end]) != sum_t

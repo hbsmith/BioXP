@@ -17,17 +17,18 @@ Notes: Useful to call on a biosystem to get biosystem_compounds before calling `
 - `rids::IDs`: rids to get compounds for
 ...
 """
+### I ALREADY HAD THIS FUNCTION `IDENTIFY_BIOSYSTEM_COMPOUNDS`
 function list_biosystem_compounds_from_rids(
     rstructs::Reactions,
     rids::IDs)
     
-    cids = []
+    cids = Set{String}()
     for r in rids
-        append!(cids,rstructs[r].left)
-        append!(cids,rstructs[r].right)
+        union!(cids,rstructs[r].left)
+        union!(cids,rstructs[r].right)
     end
     
-    cids
+    collect(cids)
 end
 
 """
