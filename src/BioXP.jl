@@ -215,7 +215,7 @@ Return indices of seeds within the compounds vector.
 function seed_indicies(sids::IDs, cids::IDs)
     # This is a generator, not an array. You can iterate over this thing exactly once
     # because it only stores the current state and what it needs to find the next state.
-    (findfirst(isequal(c), cids) for c in sids)
+    [findfirst(isequal(c), cids) for c in sids]
 end
 
 
@@ -336,13 +336,37 @@ function loop_and_remove_seeds(
     allowed_forward::Union{Vector{Bool},Nothing}=nothing,
     allowed_backward::Union{Vector{Bool},Nothing}=nothing)
 
+    loop_and_remove_seeds(
+        sids,
+        cids,
+        x,
+        t,
+        R, 
+        P,
+        allowed_forward,
+        allowed_backward,
+        skip_seed_indices=0)
+
+end
+
+function loop_and_remove_seeds(
+    sids::IDs,
+    cids::IDs,
+    x::Vector{Int},
+    t::Vector{Int},
+    R::Array{Int,2}, 
+    P::Array{Int,2},
+    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
+    allowed_backward::Union{Vector{Bool},Nothing}=nothing,
+    skip_seed_indices::Int=0)
+
     tT = transpose(t)
     sum_t = sum(t)
     ## Run 1 network expansion per seed variation
 
     X, Y = Vector{Int}[], Vector{Int}[]
     
-    for i in seed_indicies(sids, cids)
+    for i in seed_indicies(sids, cids)[(skip_seed_indices+1):end]
         x[i] = 0
 
         X, Y = expandmatrices(R, P, x, allowed_forward, allowed_backward) ## global needed to access the variables defined in-loop
