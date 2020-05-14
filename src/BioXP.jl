@@ -388,7 +388,7 @@ function loop_and_remove_seeds(
         P,
         allowed_forward,
         allowed_backward,
-        skip_seed_indices=0)
+        0)
 
 end
 
