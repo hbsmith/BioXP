@@ -326,6 +326,49 @@ function find_minimal_seed_set(
 
 end
 
+function find_minimal_seed_set(
+    rstructs::Reactions,
+    rids::IDs,
+    sid_sets::Vector{Tuple{IDs,Int64}},
+    tids::IDs=IDs(),
+    write_path::Union{String,Nothing}=nothing,
+    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
+    allowed_backward::Union{Vector{Bool},Nothing}=nothing)
+
+    rids = remove_rids_not_in_rstructs(rstructs,rids)
+    cids = identify_biosystem_compounds(rstructs,rids)
+    (R, P) = matrixify_compounds(rstructs,cids,rids)
+    t = matrixify_targets(cids,tids)
+    # X, Y = Vector{Int}[], Vector{Int}[]
+    all_seed_results = Vector{}
+    if write_path==nothing ## no parallel processing because of the push
+       
+        for (i,sid_tup) in enumerate(sid_sets)
+            x = matrixify_seeds(sid_tup[1], cids) ## This should be a vector of all 1s of length(cids)
+            x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
+            X, Y, x = loop_and_remove_seeds(sid_tup[1],cids,x,t,R,P,allowed_forward,allowed_backward,sid_tup[2])
+            push!(all_seed_results,(x,t,cids,rids,X,Y))
+        end
+
+    else ## Use parallel processing
+
+        Threads.@threads for (i,sid_tup) in collect(enumerate(sid_sets))
+            x = matrixify_seeds(sid_tup[1], cids) ## This should be a vector of all 1s of length(cids)
+            # println(length(x))
+            # println(length(cids))
+            # println(x)
+            ## I'm commenting this out for now because it's throwing even though it shouldn't be based on the above prints
+            # x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
+            X, Y, x = loop_and_remove_seeds(sid_tup[1],cids,x,t,R,P,allowed_forward,allowed_backward,sid_tup[2])
+            simple_write_out(joinpath(write_path,"$i.json"),x,t,cids,rids,X,Y)
+        end
+    
+    end
+
+    all_seed_results # This will be empty if write_path!=nothing
+
+end
+
 function loop_and_remove_seeds(
     sids::IDs,
     cids::IDs,
