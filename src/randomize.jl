@@ -1,35 +1,35 @@
 using Random
 
 # export randomizecompounds
-"""
+# """
     
-    list_biosystem_compounds_from_rids(
-        rstructs::Reactions,
-        rids::IDs)
+#     list_biosystem_compounds_from_rids(
+#         rstructs::Reactions,
+#         rids::IDs)
 
-Return a vector of compound ids.
+# Return a vector of compound ids.
 
-Notes: Useful to call on a biosystem to get biosystem_compounds before calling `randomizecompounds`.
+# Notes: Useful to call on a biosystem to get biosystem_compounds before calling `randomizecompounds`.
 
-...
-# Arguments
-- `rstructs::Reactions`: reactions with metadata,
-- `rids::IDs`: rids to get compounds for
-...
-"""
-### I ALREADY HAD THIS FUNCTION `IDENTIFY_BIOSYSTEM_COMPOUNDS`
-function list_biosystem_compounds_from_rids(
-    rstructs::Reactions,
-    rids::IDs)
+# ...
+# # Arguments
+# - `rstructs::Reactions`: reactions with metadata,
+# - `rids::IDs`: rids to get compounds for
+# ...
+# """
+# ### I ALREADY HAD THIS FUNCTION `IDENTIFY_BIOSYSTEM_COMPOUNDS`
+# function list_biosystem_compounds_from_rids(
+#     rstructs::Reactions,
+#     rids::IDs)
     
-    cids = Set{String}()
-    for r in rids
-        union!(cids,rstructs[r].left)
-        union!(cids,rstructs[r].right)
-    end
+#     cids = Set{String}()
+#     for r in rids
+#         union!(cids,rstructs[r].left)
+#         union!(cids,rstructs[r].right)
+#     end
     
-    collect(cids)
-end
+#     collect(cids)
+# end
 
 """
 
