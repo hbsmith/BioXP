@@ -5,12 +5,18 @@ Network expansion on biological seed compounds
 The easiest way to use this package is to check out the example notebooks. Here you can see the functionality that motivated the consturction of this package.
 
 ## Example notebooks 
-Can be found in the directory `examples`.
-### 1
+Can be found in the directory `examples`. The data used to successfully run these example notebooks is not included in the BioXP respository, but these should give you an idea how to structure your code. 
+### `expansion-encel_seeds.ipynb`
+Example of how to run basic network expansions over many different organisms in a nested file structure. 
 
-### 2
+### `make_random_seeds_for_minimal_seed_expansions.ipynb`
+Example of how to generate ordered seed sets for many different organisms in a nested file structure. 
 
-### 3
+### `expansion-find_minimal_seeds.ipynb`
+Example of how to run minimal seed set network expansions over many different organisms in a nested file structure (remember that you'll need to have generated your ordered seed sets in order to do the minimal seed set expansions).
+
+### `expansion-find_minimal_seeds-fixed_set.ipynb`
+Just like the example above, except this time there's a function in the notebook that allows us to fix certain seeds to the front of the ordered seed set lists, so that they are not allowed to be removed. This allows you to figure out what the least number of compounds you need to add to an existing seed set is. 
 
 ## Organization of src
 ### BioXP.jl
