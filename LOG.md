@@ -313,6 +313,18 @@ def read_formatted_jsons_streamlined(INDIR,encel):
   - I think I should just assume that everything makes water.... **update, it doesn't. check the 2019-09-12 jupyter notebook in the encxp dir**
   - 
 
+## 2020-03-09
+
+- [x] Add test to make sure that network expansion is giving me the same results as before when I used the old list of reactions
+- [ ] Add ability to exclude reactions that contain compounds without formula
+  - Such as R05877 containing compound C03161 (see refs below)
+  - https://www.genome.jp/dbget-bin/www_bget?rn:R05877 
+  - https://www.genome.jp/dbget-bin/www_bget?cpd:C03161
+- [ ] Add ability to exclude reactions based on available free energy maximum
+  - [ ] link free energies to reactions
+  - [ ] this requires being consistent with the directionality of the reactions (+/-) and allowing reactions to go one way in situations
+    - Requires retooling of BioXP?
+
 ## 2020-03-24
 
 Trying to understand why I can't modify the temperature involved in the eQuilibrator calcuations--the official explanation is:
@@ -342,9 +354,8 @@ Trying to install the local equilibrator API and it recommends installing in a v
 
 Not possible. Because normally $\Delta _rG’^o$ (=$-RT ln(K’)$) is calculated by measuring the apparent equilibrium constant K' (that is the concentrations of species at equilibrium) at a particular temperature. For more explanation, see the `Noor et al. 2013 SI Section 1 Training data`:
 
-> Nearly all Gibbs energy measurements, for compounds and reactions in aqueous solutions at near-room temperature, are derived from the equilibrium constants of enzyme-catalyzed reactions. Typically, an enzyme that speciﬁcally catalyzes a certain reaction is puriﬁed and added to a medium that contains the reaction substrates. After the reaction reaches equilibrium, all reactant concentrations are measured. The equilibrium constant K ′ is deﬁned as the ratio between the product of all product concentrations and the product of all substrate concentrations. Since there is no easy way to distinguish between pseudoisomers of the same compound, the concentration of every reactant is actually the sum of all its protonation 2
+> Nearly all Gibbs energy measurements, for compounds and reactions in aqueous solutions at near-room temperature, are derived from the equilibrium constants of enzyme-catalyzed reactions. Typically, an enzyme that speciﬁcally catalyzes a certain reaction is puriﬁed and added to a medium that contains the reaction substrates. After the reaction reaches equilibrium, all reactant concentrations are measured. The equilibrium constant K ′ is deﬁned as the ratio between the product of all product concentrations and the product of all substrate concentrations. Since there is no easy way to distinguish between pseudoisomers of the same compound, the concentration of every reactant is actually the sum of all its protonation states. Therefore, K ′ is the apparent equilibrium constant, which is related to the standard transformed Gibbs energy of reaction (∆ r G ′◦ [1]). The problem with using this data as-is lies in the fact that K ′ and ∆ r G ′◦ depend on the aqueous environment (e.g. pH, ionic strength, and pMg). The measurements listed in TECRDB span a wide range of pH and ionic strength values, and many of the reactions have only been measured in non-standard conditions.
 >
-> states. Therefore, K ′ is the apparent equilibrium constant, which is related to the standard transformed Gibbs energy of reaction (∆ r G ′◦ [1]). The problem with using this data as-is lies in the fact that K ′ and ∆ r G ′◦ depend on the aqueous environment (e.g. pH, ionic strength, and pMg). The measurements listed in TECRDB span a wide range of pH and ionic strength values, and many of the reactions have only been measured in non-standard conditions.
 
 Also, from `Jankowski et al 2008:`
 
@@ -378,6 +389,8 @@ I found another good paper on compounds on enceladus: `Khawaja et al 2019` which
 
 - check to see how network expansion in my code works if i want to limit reaction directionality based on deltaG and pH
 
+  - for deltaG, i think i could make a function to assign a 1 or 0 to each reaction based on if it's above a threshold. the problem is checking the back reaction
+
 - figure out how to download some of the organisms that Shawn recommended to me
 
   - also redownload pH organisms, and check if i can sample phyla like i helped yoko do?
@@ -389,4 +402,405 @@ I found another good paper on compounds on enceladus: `Khawaja et al 2019` which
   - photo/chemotroph?
   - different metabolisms (eg. sulfur reducing or methanogens)
 
-  
+
+## 2020-03-31
+
+### Free energies
+
+- The values I'm calculating for dGprimestandard in the equilibrator-api continue to differ from the front end on their site. I don't know why. This is with all the settings the same (p_mg does't seem to even change anything and based on the code for `ComponentContribution` it doesn't seem like it's used as an input even)
+  - The stoichiometry of the compounds is important for this, and I'll need to ensure that the reactions get balanced for electrons and atoms. 
+  - I don't know why some reactions (like R00002) fail on the api but are successful on the front end.
+  - The values aren't extremely different though. I need to check if they're within error.
+  - I should try changing the temp even though this isn't recommended (change to freezing at 273.15K)
+- **Free energies calculated from the noor front end match the noor csvs, but *dont* match the noor api, and don't match the goldford 2017 calcuations (see his SI on cell)**
+
+## 2020-04-06
+
+Todo today:
+
+- [x] Read up on standard error on mean vs confidence interval
+  - [x] Decide which one is best to use in my dataframe/json (Probably use confidence interval since that is what noor uses (and goldford?)) **I'm going to use CI after reading through http://www.mas.ncl.ac.uk/~njnsm/medfac/docs/se&ci.pdf and https://stats.stackexchange.com/questions/26450/why-does-a-95-confidence-interval-ci-not-imply-a-95-chance-of-containing-the/283314#283314. ** Confidence interval of 95% means that if we get many sample populations, that 95% of them will contain the true population mean. You're not supposed to interpret that for a single sample population there's a 95% chance it contains the mean, because frequentist statistics is stupid.
+- [x] Create my dataframe. Include:
+  - [x] CI **this is already included as the reported error**
+  - [x] Mask incorrect/uncalculable (unparsable) elements with NaNs
+- [x] Create dataframe from equivilent noor csv
+- [ ] Compare my dataframe with noor. Including:
+  - [ ] Which values are parsable?
+  - [x] How do dg primes compare? (are they within confidence intervals?)
+  - [ ] How do noor's "uncertainties too high" compare to my uncertain values?
+- [ ] Write function to add dg data to master json. Including everything:
+  - [ ] pH
+  - [ ] temp
+  - [ ] ionic_strength
+  - [ ] p_mg
+  - [ ] parsable
+  - [ ] is_uncertain
+  - [ ] is_balanced
+  - [ ] dg
+  - [ ] dg_error
+  - [ ] phys_dg
+  - [ ] phys_dg_error
+  - [ ] ln_reversibility
+  - [ ] ln_reversibility_error
+- [ ] Write function to idenftify reactions available based on a dg value. Arguments should change how different properties are handled: balance, parsability, uncertainty
+- [ ] Write tests to verify sanity for parsability and balancing (basically take what I did in jupyter and formalize it)
+- [ ] Check in with doug on NEET
+- [x] Check elife slack updates
+- [x] Check elsi slack updates
+- [x] Write slack advocate email to thilina
+
+## 2020-04-07
+
+Todo (from previous days)
+
+- [x] Compare my dataframe with noor. Including:
+  - [x] Which values are parsable?
+  - [x] How do dg primes compare? (are they within confidence intervals?)
+  - [x] How do noor's "uncertainties too high" compare to my uncertain values? **noord's uncertainty too high are the same as the rows where dg == `NaN`. I have good coverage of these reactions if i exclude only my values with dg==`NaN`.  If i exclude my `is_uncertain` reactions, then i get rid of an additionaly 2500 or so, but there's still good coverage.**
+
+## 2020-04-09
+
+Todo (from previous days): 
+
+- [x] Write function to add dg data to master json. Including everything:
+
+  - [x] pH
+
+  - [x] temp
+
+  - [x] ionic_strength
+
+  - [x] p_mg
+
+  - [x] parsable
+
+  - [x] is_uncertain
+
+  - [x] is_balanced
+
+  - [x] dg
+
+  - [x] dg_error
+
+  - [x] phys_dg
+
+  - [x] phys_dg_error
+
+  - [x] ln_reversibility
+
+  - [x] ln_reversibility_error
+
+    **This is now in the file `add_dgs_to_master.py`**
+
+- [x] Verified that it's readable/decodable by normal json standards **had to create the file `reserialize_master.py` for this.**
+
+- [ ] Write function to idenftify reactions available based on a dg value. Arguments should change how different properties are handled: balance, parsability, uncertainty
+
+- [ ] Write tests to verify sanity for parsability and balancing (basically take what I did in jupyter and formalize it)
+
+- [ ] Check in with doug on NEET
+
+## 2020-04-10
+
+- [x] Write function to idenftify reactions available based on a dg value. Arguments should change how different properties are handled: balance, parsability, uncertainty **this is written as `filter_rxns_by_dg.jl`**. **Need to try to integrate it with BioXP.jl for testing.** 
+  - [x] convert `nothing` to `missing` because missing is ignored by operations
+- [ ] Write tests to verify sanity for parsability and balancing (basically take what I did in jupyter and formalize it)
+- [x] Check in with doug on NEET **waiting for response**
+
+## 2020-04-13
+
+- [ ] integrate new reaction filtering with bioxp **i'm trying to do this but got stuck for half a day in type declaration world until figuring out what works for the `simple_allowed_reactions` function. **
+- [ ] download organisms from jgi
+  - [ ] look at shawn's suggestions and figure out what those correspond to on jgi
+  - [ ] where do these fit in the tree of life? 
+  - [ ] should i sample evenly accross more orgs?
+  - [ ] make sure i have orgs from suggestions by reviewers
+- [ ] abstract reviewing
+
+## 2020-04-13
+
+- [ ] integrate new reaction filtering with bioxp **It's now part of BioXP, but I'm still modifiying related functions to function properly to take the dg information as input, and will have to test this. currently, I've modified `expandmatrices` to take 2 more arguments and should handle them correctly in the main loop of network expansion, but I need to modify the functions which call `expandmatrices` now **
+
+## 2020-04-20
+
+- I'm being bad and skipping writing tests for BioXP more comprehensively for now.
+
+- I've set up an example file to execute network expansion using BioXP on Anarres: `BioXP-experiments/Running_BioXP_test.ipynb` .
+
+- I'm now trying to benchmark being able to using multiple cores (using Julia 1.1 because that's what's currently on Anarres). 
+
+  - To check how many cores and threads are on a Mac:
+
+    `sysctl -a | grep machdep.cpu` 
+
+    Look for: `
+
+    ```sh
+    machdep.cpu.core_count: 2
+    machdep.cpu.thread_count: 4
+    ```
+
+- The multithreading seems to be working for the examples on this page: https://discourse.julialang.org/t/simple-parallel-examples-for-embarrassingly-simple-problems/8788/9 But I need to figure out what's going wrong when I try to run it on my expansion loops, because the jupyter kernels keep dying. Maybe I need to try and run without jupyter and seee if it works. **I updated julia to 1.4 and now it seems to not error**
+
+## 2020-04-21
+
+- Benchmark time is 463.457 ms (597978 allocations: 555.38 MiB) when using 10 threads; 1.912 s (599725 allocations: 555.48 MiB) when using 1 thread
+- Nice multithreading julia resource on Google Books (Julia High Performance: Optimizations, distributed... by Avik Sengupta) [https://books.google.co.jp/books?id=etacDwAAQBAJ&pg=PA162&lpg=PA162&dq=random+numbers+when+using+threads+julia&source=bl&ots=BanWEKQs0W&sig=ACfU3U0w1MksDv0mndRiIg-Adam7QjLXDg&hl=en&sa=X&redir_esc=y#v=onepage&q=random%20numbers%20when%20using%20threads%20julia&f=false](https://books.google.co.jp/books?id=etacDwAAQBAJ&pg=PA162&lpg=PA162&dq=random+numbers+when+using+threads+julia&source=bl&ots=BanWEKQs0W&sig=ACfU3U0w1MksDv0mndRiIg-Adam7QjLXDg&hl=en&sa=X&redir_esc=y#v=onepage&q=random numbers when using threads julia&f=false)
+
+### Random numbers
+
+- after reading https://discourse.julialang.org/t/set-the-state-of-the-global-rng/12599/2, it seems best practice is to pass an explicit RNG argument through my function calls. 
+
+  - also important from the documentation of `Random.seed!(rng,seed)`:
+
+    > If `rng` is not specified, it defaults to seeding the state of the shared thread-local generator.
+
+  - Something like this seems promising:
+
+    ```julia
+    Threads.@threads for i in 1:length(a)
+               seed = threadid()%4
+               #seed = threadid()*10000+i
+               a[i] = (threadid(), seed, rand(MersenneTwister(seed),1))
+           end
+    ```
+
+## 2020-04-23
+
+`loop_and_remove_seeds` can't be simply parallelized because the behavior of the for loop relies on knowing the results after each iteration. instead,
+
+- [x] Parallelize `find_minimal_seed_sets` that uses `sid_sets` as input. **no tests yet though.**
+
+As a note, this julia source code page is a good example of how to dcoument for overloaded functions: https://github.com/JuliaLang/julia/blob/381693d3dfc9b7072707f6d544f82f6637fc5e7c/stdlib/Random/src/Random.jl#L302-L351
+
+- Need to use file`BioXP/jupyter/old_to_new_rids.py` to get rids in correct format for new BioXP scripts, then move to the folder `BioXP-experiments/run_pandnop_jsons/input`
+
+## 2020-04-24
+
+- Added the function `BioXP/jupyter/old_to_new_rids.py`to the BioXP repo within `format.jl`. Renamed the main function `old_to_new_rids`. 
+
+### Experiment: replicate_OG_workflow
+
+- Goal: reproduce submitted results using the new BioXP package
+
+- Hypothesis: I can replicate the OG results exactly.
+
+- **Details:**
+
+  - Main dir:`BioXP-experiments/replicate_OG_workflow`
+
+  - Running and formatting the expansion:
+
+    `replicate_OG_expansion.py`
+
+  - Recreating the plots:
+
+    `replicate_OG_analysis.py`
+
+  - The directory is fully self-contained
+
+- Results: Finally replicated results from the original submission and the plots look identical! Hypothesis confirmed
+
+- [ ] Need to identify and download new organisms that were called out by reviewers
+- [ ] Need to rerun analyses with updated organisms
+- [ ] And updated enceladus seeds
+- [ ] And limited by dG
+
+## 2020-04-28
+
+I keep getting this error in `loop_and_remove_seeds` , except when I have a bunch of `@show` statements!
+
+```
+TaskFailedException:
+BoundsError: attempt to access 4-element Array{Array{Int64,1},1} at index [5]
+Stacktrace:
+ [1] getindex(::Array{Array{Int64,1},1}, ::Int64) at ./array.jl:788
+ [2] loop_and_remove_seeds(::Array{String,1}, ::Array{String,1}, ::Array{Int64,1}, ::Array{Int64,1}, ::Array{Int64,2}, ::Array{Int64,2}, ::Nothing, ::Nothing) at /Users/anarres/Documents/projects/BioXP/src/BioXP.jl:355
+ [3] macro expansion at /Users/anarres/Documents/projects/BioXP/src/BioXP.jl:319 [inlined]
+ [4] (::BioXP.var"#39#threadsfor_fun#59"{String,Nothing,Nothing,Array{String,1},Array{Int64,2},Array{Int64,2},Array{Int64,1},Array{Tuple{Int64,Array{String,1}},1}})(::Bool) at ./threadingconstructs.jl:61
+ [5] (::BioXP.var"#39#threadsfor_fun#59"{String,Nothing,Nothing,Array{String,1},Array{Int64,2},Array{Int64,2},Array{Int64,1},Array{Tuple{Int64,Array{String,1}},1}})() at ./threadingconstructs.jl:28
+
+Stacktrace:
+ [1] wait(::Task) at ./task.jl:267
+ [2] macro expansion at ./threadingconstructs.jl:69 [inlined]
+ [3] find_minimal_seed_set(::Dict{String,Reaction}, ::Array{String,1}, ::Array{Array{String,1},1}, ::Array{String,1}, ::String, ::Nothing, ::Nothing) at /Users/anarres/Documents/projects/BioXP/src/BioXP.jl:312
+ [4] find_minimal_seed_set(::Dict{String,Reaction}, ::Array{String,1}, ::Array{Array{String,1},1}, ::Array{String,1}, ::String) at /Users/anarres/Documents/projects/BioXP/src/BioXP.jl:295
+ [5] top-level scope at In[6]:24
+```
+
+I think this is due to having a Global call in the function. I need to check to see if this going to change the error when I get rid of the global
+
+#### Side note: Nice way to generate random numbers
+
+See: https://docs.julialang.org/en/v1.4/manual/parallel-computing
+
+```julia-repl
+julia> using Random; import Future
+
+julia> function g_fix(r)
+           a = zeros(1000)
+           @threads for i in 1:1000
+               a[i] = rand(r[threadid()])
+           end
+           length(unique(a))
+       end
+g_fix (generic function with 1 method)
+
+julia>  r = let m = MersenneTwister(1)
+                [m; accumulate(Future.randjump, fill(big(10)^20, nthreads()-1), init=m)]
+            end;
+
+julia> g_fix(r)
+1000
+```
+
+> We pass the `r` vector to `g_fix` as generating several RGNs is an expensive operation so we do not want to repeat it every time we run the function.
+
+I think I finally go the minimal seed randomization working with threads, and the problem was the global variable in the loop and remove seeds. I'm running the old analyses now. 8:29pm Tues Apr 28. Archaea ETA is 2:55 min after first one finished. **It finished in 1 day 20 hours and 3 minutes**
+
+## 2020-05-21
+
+I read over this paper: Prigent et al., 2017, PLoS Comp Biol, 13:1 It looks like they use basically the same method as Cottret (the algorithmic math minimal seed paper which is what I use I believe) except they disallow the creation of compounds that come in a cycle unless the precursor to the precursor of the seed is seeded.... (see Fig. 2 bottom network for "clearer" explanaction.). I don't think this method will work with my networks but i want to try it anyways just to see. 
+
+- [ ] Need to try Prigent's Meneco method on my existing networks to see if it works without directed components.
+
+## 2020-05-07
+
+I wrote `jsons_to_sbml` to be able to convert my seeds, targets, and organism rids into sbml format which mirrors what is available in the sbml files that meneco's current jupyter notebook example calls.
+
+- speaking of that, that notebook is broken and I've been trying to figure out...
+  1. How to fix it
+  2. Why even the current readme on the website doesn't work
+  3. Why the current pip release doesn't even match the current github page. 
+
+I'm also trying to figure out how to use meneco. I just ran it on the example files noted in the broken jupyter notebook and got some output.
+
+**What is a repair file and why is it required? Can I run without the repair file?**
+
+I think the repairnet is all metacyc species and reactions in sbml format, and is used to try and add new reactions to the organism sbml when there are unproduceable targets. The idea is that, if your target list is perfect, then the repairnet will help you find what reactions you're missing in order to get you there. See: https://bioasp.github.io/meneco/guide/guide.pdf
+
+So **meneco can help me answer the question of what reactions I need to add in order to produce the targets I want**. Need to mess around with it more tomorrow.
+
+## 2020-05-12
+
+- ~~going to run minimal seed set expansions for the following:~~
+  - ~~Magee 2017 LPSC No P~~
+  - ~~Magee 2017 LPSC P~~
+  - ~~Contains KEGG ID~~
+  - ~~Contains KEGG ID P~~
+- actually the way I do minimal seeds mean i only have to do them on a per organism basis and not on a per-seed set basis
+  - although i could try putting them at the beigning of the list so that they're kept in for the minimal seed set search
+
+## 2020-05-13
+
+- [ ] Add organisms that use different metabolic machinery:
+  - [x] identify jgi methanogens **see detailed response to reviweres**
+  - [ ] add methanogens
+  - [ ] identify sulfur metabolism organisms
+  - [ ] add sulfur metabolism organisms
+  - [ ] ?? identify organisms with different aerobicities **not sure if i should do this**
+  - [ ] ?? identify aerobicities of existing organisms **not sure if i should do this**
+- [x] Run regular network expansions for all current organisms with new seed sets:
+  - [x] Magee 2017 LPSC No P
+  - [x] Magee 2017 LPSC P
+  - [x] Contains KEGG ID
+  - [x] Contains KEGG ID P
+  - [ ] Look at results
+- [ ] Run expansions with different energy cutoffs
+  - [ ] how to decide energy cutoffs? this is only relevant for minimal seed sets
+- [ ] !!! Run minimal seeds that maintain the Enceladus organisms
+
+**There's no difference between "Appears with KEGGID" and "Contains KEGGID"**
+
+## 2020-05-28
+
+- Ran methanogen regular expansions in the same directory as the non-methanogen expansions (`seeds_2019`), just modified the inputs in the `expansions-enceladus_seeds.ipynb`. 
+
+  - Did the same thing with `expansions-make_random_seeds.ipynb`, but I also modified the input for the `cids` to be 
+
+    `cids = list_biosystem_compounds_from_rids(rstructs,BioXP.remove_rids_not_in_rstructs(rstructs,rids))`
+
+    because it was trying to read cids from rids which aren't in the version of kegg that I'm using. 
+
+- Now I'm running the minimal seed sets for these organisms, with the fixed_env. These are being run in the directory `fixed_env_min_seeds`
+
+## 2020-05-29
+
+- also ran kegg expansions for P and no P in the `seeds_2019` dir
+- now I need to go through the paper and update the plots one by one
+  - including adding the methanogen results to the main results
+  - will have to decide if i want to label the methanogens and the sulfur-reducers differently
+- check the results from John and Alexa as I go through and get to their plots
+  - How to update plots and ordering:
+    - Fig 1--no changes
+    - Fig 2--update with new data
+    - Fig 3--remove all together or move to update with kegg expansion and move to SI
+    - Fig 4--remove since we're getting rid of the size 5 comparison and the new plot would only have 2 bars. 
+    - Fig 5--update with new data provided by John (will be consolodate to 1 panel and combine with a 1 panel consolidated figure 6?
+    - Fig 6--see fig 5, to be consolidated to 1 panel with the size 10 incl and not including fixed
+    - Fig 7--updated from alexa
+    - Fig 8--probably will be the same number of panels, but instead show 2 panels of barplots for full seed sets (including what's already on enceladus), and 2 panels of barplots showing only the seeds which are added to enceladus
+    - Fig 9--replace with boxplots of updated data in order to show full distribution of jaccard values
+    - Fig 10--update with similarity between seed sets of compounds which need to be added to the enceladus data **the reviewer said to indicate the color scale used but we did, maybe he didn't see because of its strange placement**
+    - Fig 11--use compound names instead (or sepearately in SI if too hard to read)
+    - Table 1-- add strain names if possible
+  - New figs:
+    1. concept
+    2. scope dist
+    3. A. size dist and B. number of target compounds produced of 10/5+5 fixed expansions
+    4. alexa contr of indiv seeds
+    5. 4 panel boxplots of size of organismal seed sets A. all seeds smallest  B. all seeds lowest weight C. added seeds smallest D. added seeds lowest weight
+    6. jaccard boxplot distribution
+    7. jaccard heatmaps of added seeds
+    8. most common compounds
+  - Table 1: add strain names
+- make appropriate edits to the main text, and as I do this update my response to reviewers
+- update sara on my progress as last thing i do today
+
+#### Enceladus seeds in our paper's version of the kegg database:
+
+It looks like from the version of the kegg database we're using, there are only 39 of the 49 compounds in KEGG, based on the fact that only 39 compounds are listed as scope seeds in the KEGG expansion which includes phosphorous: 
+
+- **0:**"C00001"
+- **1:**"C00007"
+- **2:**"C00009"
+- **3:**"C00011"
+- **4:**"C00132"
+- **5:**"C00014"
+- **6:**"C01326"
+- **7:**"C01330"
+- **8:**"C00027"
+- **9:**"C00067"
+- **10:**"C00283"
+- **11:**"C00543"
+- **12:**"C00218"
+- **13:**"C00237"
+- **14:**"C00288"
+- **15:**"C00041"
+- **16:**"C00533"
+- **17:**"C00741"
+- **18:**"C11505"
+- **19:**"C00189"
+- **20:**"C01407"
+- **21:**"C00697"
+- **22:**"C00282"
+- **23:**"C00266"
+- **24:**"C01380"
+- **25:**"C01438"
+- **26:**"C01387"
+- **27:**"C21390"
+- **28:**"C06142"
+- **29:**"C01353"
+- **30:**"C01059"
+- **31:**"C01328"
+- **32:**"C00469"
+- **33:**"C01548"
+- **34:**"C06547"
+- **35:**"C06548"
+- **36:**"C05979"
+- **37:**"C00479"
+- **38:**"C20783"
+
+# 2020-06-04
+
+- I went to this IMG page and searched all the genome IDs we used https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=GenomeSearch&page=searchForm in order to get data on their taxonomy and pH in one handy table. saved as `seeding_life_taxon_table.xls`
