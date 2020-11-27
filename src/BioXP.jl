@@ -16,7 +16,6 @@ readmaster,
 readcompounds,
 readids,
 readkeyedids,
-# list_biosystem_compounds_from_rids,
 randomizecompounds,
 expand,
 find_minimal_seed_set,
@@ -413,14 +412,6 @@ function loop_and_remove_seeds(
         x[i] = 0
 
         X, Y = expandmatrices(R, P, x, allowed_forward, allowed_backward) ## global needed to access the variables defined in-loop
-
-        ## OK, now that I added show statements there aren't errors?
-        # println("i = $i on thread $(Threads.threadid())")
-        # println("length(tT) = $(length(tT)) on thread $(Threads.threadid())")
-        # println("length(X) = $(length(X)) on thread $(Threads.threadid())")
-        # println("sum_t = $sum_t on thread $(Threads.threadid())")
-        # println("length(x) = $(length(x)) on thread $(Threads.threadid())")
-        # @show Threads.threadid() i length(tT) length(X) sum_t length(x)
 
         (tT * X[end]) != sum_t && (x[i] = 1) ## This is a short-circuit if statement
         # if (tT * X[end]) != sum_t
