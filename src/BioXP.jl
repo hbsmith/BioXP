@@ -376,29 +376,6 @@ function loop_and_remove_seeds(
     R::Array{Int,2}, 
     P::Array{Int,2},
     allowed_forward::Union{Vector{Bool},Nothing}=nothing,
-    allowed_backward::Union{Vector{Bool},Nothing}=nothing)
-
-    loop_and_remove_seeds(
-        sids,
-        cids,
-        x,
-        t,
-        R, 
-        P,
-        allowed_forward,
-        allowed_backward,
-        0)
-
-end
-
-function loop_and_remove_seeds(
-    sids::IDs,
-    cids::IDs,
-    x::Vector{Int},
-    t::Vector{Int},
-    R::Array{Int,2}, 
-    P::Array{Int,2},
-    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
     allowed_backward::Union{Vector{Bool},Nothing}=nothing,
     skip_seed_indices::Int=0)
 
