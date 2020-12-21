@@ -38,8 +38,8 @@ function filter_reactions_by_dg(
     mean_dgs = Union{Nothing,Missing,Real}[rstructs[rid].metadata["dg"][env_key]["standard_dg_prime_value"] for rid in rids]
     cis = Union{Nothing,Missing,Real}[rstructs[rid].metadata["dg"][env_key]["standard_dg_prime_ci"] for rid in rids]
     ## convert to missing because it can handle operators
-    mean_dgs[mean_dgs .== nothing] .= missing
-    cis[cis .== nothing] .= missing
+    mean_dgs[isnothing.(mean_dgs)] .= missing
+    cis[isnothing.(cis)] .= missing
 
     ## identify best case scenario dg values
     if allow_within_ci==true
@@ -56,7 +56,7 @@ function filter_reactions_by_dg(
     ## gather balance data
     balances = Union{Nothing,Missing,Bool}[rstructs[rid].metadata["dg"][env_key]["is_balanced"] for rid in rids]
     ## convert to missing because it can handle operators
-    balances[balances .== nothing] .= missing
+    balances[isnothing.(balances)] .= missing
 
     if (allow_unbalanced == true) & (allow_nothings == true)
         ## don't use balance data

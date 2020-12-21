@@ -109,10 +109,10 @@ function expandmatrices(
     bp = vec(sum(PT, dims=2))
 
     # force unallowed reactions to be out of reach
-    if allowed_forward != nothing
+    if !isnothing(allowed_forward)
         br = br + .~allowed_forward 
     end
-    if allowed_backward != nothing
+    if !isnothing(allowed_backward)
         bp = bp + .~allowed_backward  
     end
     
@@ -297,7 +297,7 @@ function find_minimal_seed_set(
     t = matrixify_targets(cids,tids)
     # X, Y = Vector{Int}[], Vector{Int}[]
     all_seed_results = Vector{}
-    if write_path==nothing ## no parallel processing because of the push
+    if isnothing(write_path) ## no parallel processing because of the push
        
         for (i,sids) in enumerate(sid_sets)
             x = matrixify_seeds(sids, cids) ## This should be a vector of all 1s of length(cids)
@@ -340,7 +340,7 @@ function find_minimal_seed_set(
     t = matrixify_targets(cids,tids)
     # X, Y = Vector{Int}[], Vector{Int}[]
     all_seed_results = Vector{}
-    if write_path==nothing ## no parallel processing because of the push
+    if isnothing(write_path) ## no parallel processing because of the push
        
         for (i,sid_tup) in enumerate(sid_sets)
             x = matrixify_seeds(sid_tup[1], cids) ## This should be a vector of all 1s of length(cids)

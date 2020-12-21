@@ -46,7 +46,7 @@ function _formatbioxpfile(fname::String,
                          write_path::Union{String,Nothing}=nothing)
 
     ## write_path is guaranteed to be a file here, named "formatted/fname.ext"
-    if write_path == nothing
+    if isnothing(write_path)
         # path = joinpath(splitpath(abspath(path))[1:end-2]...)
         newdir = joinpath(dirname(abspath(fname)),"formatted")
         if !ispath(newdir)
@@ -69,7 +69,7 @@ function _formatbioxpdir(dir::String,
                         write_path::Union{String,Nothing}=nothing)
     
     ## write_path is guaranteed to be a dir here, named "formatted"
-    if write_path == nothing
+    if isnothing(write_path)
         newdir = joinpath(abspath(dir),"formatted")
         if !ispath(newdir)
             mkpath(newdir)
@@ -84,7 +84,7 @@ function _formatbioxpdir(dir::String,
         
         formattedexpansion = formatexpansion(readexpansion(joinpath(abspath(dir),fname)))
 
-        if write_path == nothing
+        if isnothing(write_path)
             real_write_path = joinpath(newdir,basename(fname))  
         ## Only supports choosing the dirname to write when writing whole dir
         else
