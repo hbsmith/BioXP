@@ -97,7 +97,7 @@ If we want to take into account dg values, dispatch on this function
 function expandmatrices(
     R::Array{Int,2}, 
     P::Array{Int,2}, 
-    x::Array{Int,1},
+    x::Array{Int,1};
     allowed_forward::Union{Vector{Bool},Nothing}=nothing,
     allowed_backward::Union{Vector{Bool},Nothing}=nothing)
 
@@ -170,7 +170,7 @@ function expandmatrices(
 end
 
 function expand(
-    system::System,
+    system::System;
     write_path::Union{String,Nothing}=nothing)
     
     expand(system.rstructs,
@@ -185,7 +185,7 @@ end
 function expand(
     rstructs::Reactions,
     rids::IDs,
-    sids::IDs,
+    sids::IDs;
     tids::IDs=IDs(),
     write_path::Union{String,Nothing}=nothing,
     allowed_forward::Union{Vector{Bool},Nothing}=nothing,
@@ -219,7 +219,7 @@ end
 
 
 function find_minimal_seed_set(
-    system::System,
+    system::System;
     write_path::Union{String,Nothing}=nothing,
     allowed_forward::Union{Vector{Bool},Nothing}=nothing,
     allowed_backward::Union{Vector{Bool},Nothing}=nothing)
@@ -247,7 +247,7 @@ Return:
 function find_minimal_seed_set(
     rstructs::Reactions,
     rids::IDs,
-    sids::IDs,
+    sids::IDs;
     tids::IDs=IDs(),
     write_path::Union{String,Nothing}=nothing,
     allowed_forward::Union{Vector{Bool},Nothing}=nothing,
@@ -285,7 +285,7 @@ Return system variables after finding many minimal seed sets.
 function find_minimal_seed_set(
     rstructs::Reactions,
     rids::IDs,
-    sid_sets::Vector{IDs},
+    sid_sets::Vector{IDs};
     tids::IDs=IDs(),
     write_path::Union{String,Nothing}=nothing,
     allowed_forward::Union{Vector{Bool},Nothing}=nothing,
@@ -328,7 +328,7 @@ end
 function find_minimal_seed_set(
     rstructs::Reactions,
     rids::IDs,
-    sid_sets::Vector{Tuple{IDs,Int64}},
+    sid_sets::Vector{Tuple{IDs,Int64}};
     tids::IDs=IDs(),
     write_path::Union{String,Nothing}=nothing,
     allowed_forward::Union{Vector{Bool},Nothing}=nothing,
@@ -374,7 +374,7 @@ function loop_and_remove_seeds(
     x::Vector{Int},
     t::Vector{Int},
     R::Array{Int,2}, 
-    P::Array{Int,2},
+    P::Array{Int,2};
     allowed_forward::Union{Vector{Bool},Nothing}=nothing,
     allowed_backward::Union{Vector{Bool},Nothing}=nothing,
     skip_seed_indices::Int=0)
