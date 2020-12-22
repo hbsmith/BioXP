@@ -177,9 +177,9 @@ function expand(
         system.rids,
         system.sids,
         system.tids,
-        write_path,
-        system.allowed_forward,
-        system.allowed_backward)
+        write_path = write_path,
+        allowed_forward = system.allowed_forward,
+        allowed_backward = system.allowed_backward)
 end
 
 function expand(
@@ -199,7 +199,7 @@ function expand(
     t = matrixify_targets(cids,tids)
 
     # X, Y = Vector{Int}[], Vector{Int}[] ## same as Vector{Vector{Int}}(),Vector{Vector{Int}}()
-    X, Y = expandmatrices(R, P, x, allowed_forward, allowed_backward)
+    X, Y = expandmatrices(R, P, x, allowed_forward = allowed_forward, allowed_backward = allowed_backward)
 
     if write_path !== nothing
         simple_write_out(write_path,x,t,cids,rids,X,Y)
@@ -227,10 +227,10 @@ function find_minimal_seed_set(
     find_minimal_seed_set(system.rstructs,
         system.rids,
         system.sids,
-        system.tids,
-        write_path,
-        allowed_forward,
-        allowed_backward)
+        tids = system.tids,
+        write_path = write_path,
+        allowed_forward = allowed_forward,
+        allowed_backward = allowed_backward)
 end
 
 """
@@ -267,7 +267,7 @@ function find_minimal_seed_set(
     println(ones(Int,length(cids)))
     println(typeof(ones(Int,length(cids))))
     x != ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
-    X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P,allowed_forward,allowed_backward)
+    X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P,allowed_forward = allowed_forward, allowed_backward = allowed_backward)
 
     if write_path !== nothing
         simple_write_out(write_path,x,t,cids,rids,X,Y)
@@ -302,7 +302,7 @@ function find_minimal_seed_set(
         for (i,sids) in enumerate(sid_sets)
             x = matrixify_seeds(sids, cids) ## This should be a vector of all 1s of length(cids)
             x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
-            X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P,allowed_forward,allowed_backward)
+            X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P,allowed_forward = allowed_forward, allowed_backward = allowed_backward)
             push!(all_seed_results,(x,t,cids,rids,X,Y))
         end
 
@@ -315,7 +315,7 @@ function find_minimal_seed_set(
             # println(x)
             ## I'm commenting this out for now because it's throwing even though it shouldn't be based on the above prints
             # x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
-            X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P,allowed_forward,allowed_backward)
+            X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P,allowed_forward = allowed_forward, allowed_backward = allowed_backward)
             simple_write_out(joinpath(write_path,"$i.json"),x,t,cids,rids,X,Y)
         end
     
@@ -345,7 +345,7 @@ function find_minimal_seed_set(
         for (i,sid_tup) in enumerate(sid_sets)
             x = matrixify_seeds(sid_tup[1], cids) ## This should be a vector of all 1s of length(cids)
             x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
-            X, Y, x = loop_and_remove_seeds(sid_tup[1],cids,x,t,R,P,allowed_forward,allowed_backward,sid_tup[2])
+            X, Y, x = loop_and_remove_seeds(sid_tup[1],cids,x,t,R,P,allowed_forward = allowed_forward, allowed_backward = allowed_backward, skip_seed_indices = sid_tup[2])
             push!(all_seed_results,(x,t,cids,rids,X,Y))
         end
 
@@ -358,7 +358,7 @@ function find_minimal_seed_set(
             # println(x)
             ## I'm commenting this out for now because it's throwing even though it shouldn't be based on the above prints
             # x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
-            X, Y, x = loop_and_remove_seeds(sid_tup[1],cids,x,t,R,P,allowed_forward,allowed_backward,sid_tup[2])
+            X, Y, x = loop_and_remove_seeds(sid_tup[1],cids,x,t,R,P,allowed_forward = allowed_forward, allowed_backward = allowed_backward, skip_seed_indices = sid_tup[2])
             simple_write_out(joinpath(write_path,"$i.json"),x,t,cids,rids,X,Y)
         end
     
@@ -388,7 +388,7 @@ function loop_and_remove_seeds(
     for i in seed_indicies(sids, cids)[(skip_seed_indices+1):end]
         x[i] = 0
 
-        X, Y = expandmatrices(R, P, x, allowed_forward, allowed_backward) ## global needed to access the variables defined in-loop
+        X, Y = expandmatrices(R, P, x, allowed_forward = allowed_forward, allowed_backward = allowed_backward) ## global needed to access the variables defined in-loop
 
         (tT * X[end]) != sum_t && (x[i] = 1) ## This is a short-circuit if statement
         # if (tT * X[end]) != sum_t
