@@ -53,8 +53,8 @@ function matrixify_compounds(
     rids::IDs)
 
     ## Reactons in columns, Compounds in rows. Rows, columns.
-    R = spzeros(Int, (length(cids),length(rids))) ## Reactants
-    P = spzeros(Int, (length(cids),length(rids))) ## Products
+    R = spzeros(Int, length(cids),length(rids)) ## Reactants
+    P = spzeros(Int, length(cids),length(rids)) ## Products
 
     for (i,r) in enumerate(rids)
         R[:,i] = [Int(cpd in rstructs[r].left) for cpd in cids]
@@ -70,7 +70,7 @@ function matrixify_targets(
     
     biosystem_tids = intersect(tids,cids) ## ensures impossible to reach tids don't count
 
-    [Int(i in biosystem_tids) for i in cids]
+    sparsevec([Int(i in biosystem_tids) for i in cids])
 
 end
 """
@@ -80,7 +80,7 @@ function matrixify_seeds(
     sids::IDs, 
     cids::IDs)
 
-    [Int(i in sids) for i in cids]
+    sparsevec([Int(i in sids) for i in cids])
 end
 
 function identify_biosystem_compounds(
@@ -96,18 +96,18 @@ end
 If we want to take into account dg values, dispatch on this function
 """
 function expandmatrices(
-    R::Array{Int,2}, 
-    P::Array{Int,2}, 
-    x::Array{Int,1};
-    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
-    allowed_backward::Union{Vector{Bool},Nothing}=nothing)
+    R::SparseMatrixCSC{Int64,Int64}, 
+    P::SparseMatrixCSC{Int64,Int64}, 
+    x::SparseVector{Int64,Int64};
+    allowed_forward::Union{SparseVector{Bool,Int64},Nothing}=nothing,
+    allowed_backward::Union{SparseVector{Bool,Int64},Nothing}=nothing)
 
     # initialize variables:
-    RT = transpose(R)
-    PT = transpose(P)
+    RT = sparse(transpose(R))
+    PT = sparse(transpose(P))
 
-    br = vec(sum(RT, dims=2)) # sum the rows of RT. Do I need the vec call here? yes, turns it into 1 element array
-    bp = vec(sum(PT, dims=2))
+    br = sparsevec(sum(RT, dims=2)) # sum the rows of RT. Do I need the vec call here? yes, turns it into 1 element array
+    bp = sparsevec(sum(PT, dims=2))
 
     # force unallowed reactions to be out of reach
     if !isnothing(allowed_forward)
@@ -124,10 +124,10 @@ function expandmatrices(
     k0 = 0;
 
     # iteration 1 consistes of the seed set
-    X = Vector{Int}[x]
+    X = SparseVector{Int64,Int64}[x]
 
     # initialize reaction accumulation matrix
-    Y = Vector{Int}[];
+    Y = SparseVector{Int64,Int64}[]
 
     # while the metabolite set has not converged
     while k > k0 
@@ -158,7 +158,7 @@ function expandmatrices(
 
         ## Add forward and backward reactions
         x = (x .| xnew .| xnewp)
-        y = Array{Int}(y .| yp)
+        y = SparseMatrixCSC{Int64,Int64}(y .| yp)
 
         # find new total number of metabolites in network
         k = sum(x);
@@ -189,8 +189,8 @@ function expand(
     sids::IDs;
     tids::IDs=IDs(),
     write_path::Union{String,Nothing}=nothing,
-    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
-    allowed_backward::Union{Vector{Bool},Nothing}=nothing)
+    allowed_forward::Union{SparseVector{Bool,Int64},Nothing}=nothing,
+    allowed_backward::Union{SparseVector{Bool,Int64},Nothing}=nothing)
 
     rids = remove_rids_not_in_rstructs(rstructs,rids)
     cids = identify_biosystem_compounds(rstructs,rids)
@@ -222,8 +222,8 @@ end
 function find_minimal_seed_set(
     system::System;
     write_path::Union{String,Nothing}=nothing,
-    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
-    allowed_backward::Union{Vector{Bool},Nothing}=nothing)
+    allowed_forward::Union{SparseVector{Bool,Int64},Nothing}=nothing,
+    allowed_backward::Union{SparseVector{Bool,Int64},Nothing}=nothing)
     
     find_minimal_seed_set(system.rstructs,
         system.rids,
@@ -251,23 +251,23 @@ function find_minimal_seed_set(
     sids::IDs;
     tids::IDs=IDs(),
     write_path::Union{String,Nothing}=nothing,
-    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
-    allowed_backward::Union{Vector{Bool},Nothing}=nothing)
+    allowed_forward::Union{SparseVector{Bool,Int64},Nothing}=nothing,
+    allowed_backward::Union{SparseVector{Bool,Int64},Nothing}=nothing)
 
     rids = remove_rids_not_in_rstructs(rstructs,rids)
     cids = identify_biosystem_compounds(rstructs,rids)
-    println(cids)
-    println(sids)
+    # println(cids)
+    # println(sids)
 
     (R, P) = matrixify_compounds(rstructs,cids,rids)
     t = matrixify_targets(cids,tids)
     # X, Y = Vector{Int}[], Vector{Int}[]
     x = matrixify_seeds(sids, cids) ## This should be a vector of all 1s of length(cids)
-    println(x)
-    println(typeof(x))
-    println(ones(Int,length(cids)))
-    println(typeof(ones(Int,length(cids))))
-    x != ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
+    # println(x)
+    # println(typeof(x))
+    # println(ones(Int,length(cids)))
+    # println(typeof(ones(Int,length(cids))))
+    Vector(x) != ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
     X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P,allowed_forward = allowed_forward, allowed_backward = allowed_backward)
 
     if write_path !== nothing
@@ -289,8 +289,8 @@ function find_minimal_seed_set(
     sid_sets::Vector{IDs};
     tids::IDs=IDs(),
     write_path::Union{String,Nothing}=nothing,
-    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
-    allowed_backward::Union{Vector{Bool},Nothing}=nothing)
+    allowed_forward::Union{SparseVector{Bool,Int64},Nothing}=nothing,
+    allowed_backward::Union{SparseVector{Bool,Int64},Nothing}=nothing)
 
     rids = remove_rids_not_in_rstructs(rstructs,rids)
     cids = identify_biosystem_compounds(rstructs,rids)
@@ -302,7 +302,7 @@ function find_minimal_seed_set(
        
         for (i,sids) in enumerate(sid_sets)
             x = matrixify_seeds(sids, cids) ## This should be a vector of all 1s of length(cids)
-            x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
+            Vector(x) !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
             X, Y, x = loop_and_remove_seeds(sids,cids,x,t,R,P,allowed_forward = allowed_forward, allowed_backward = allowed_backward)
             push!(all_seed_results,(x,t,cids,rids,X,Y))
         end
@@ -332,8 +332,8 @@ function find_minimal_seed_set(
     sid_sets::Vector{Tuple{IDs,Int64}};
     tids::IDs=IDs(),
     write_path::Union{String,Nothing}=nothing,
-    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
-    allowed_backward::Union{Vector{Bool},Nothing}=nothing)
+    allowed_forward::Union{SparseVector{Bool,Int64},Nothing}=nothing,
+    allowed_backward::Union{SparseVector{Bool,Int64},Nothing}=nothing)
 
     rids = remove_rids_not_in_rstructs(rstructs,rids)
     cids = identify_biosystem_compounds(rstructs,rids)
@@ -345,7 +345,7 @@ function find_minimal_seed_set(
        
         for (i,sid_tup) in enumerate(sid_sets)
             x = matrixify_seeds(sid_tup[1], cids) ## This should be a vector of all 1s of length(cids)
-            x !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
+            Vector(x) !== ones(Int,length(cids)) && throw(DomainError("This should be a vector of all 1s of length(cids"))
             X, Y, x = loop_and_remove_seeds(sid_tup[1],cids,x,t,R,P,allowed_forward = allowed_forward, allowed_backward = allowed_backward, skip_seed_indices = sid_tup[2])
             push!(all_seed_results,(x,t,cids,rids,X,Y))
         end
@@ -372,19 +372,19 @@ end
 function loop_and_remove_seeds(
     sids::IDs,
     cids::IDs,
-    x::Vector{Int},
-    t::Vector{Int},
-    R::Array{Int,2}, 
-    P::Array{Int,2};
-    allowed_forward::Union{Vector{Bool},Nothing}=nothing,
-    allowed_backward::Union{Vector{Bool},Nothing}=nothing,
+    x::SparseVector{Int64,Int64},
+    t::SparseVector{Int64,Int64},
+    R::SparseMatrixCSC{Int64,Int64}, 
+    P::SparseMatrixCSC{Int64,Int64};
+    allowed_forward::Union{SparseVector{Bool,Int64},Nothing}=nothing,
+    allowed_backward::Union{SparseVector{Bool,Int64},Nothing}=nothing,
     skip_seed_indices::Int=0)
 
-    tT = transpose(t)
+    tT = sparse(transpose(t))
     sum_t = sum(t)
     ## Run 1 network expansion per seed variation
 
-    X, Y = Vector{Int}[], Vector{Int}[]
+    X, Y = SparseVector{Int64,Int64}[], SparseVector{Int64,Int64}[]
     
     for i in seed_indicies(sids, cids)[(skip_seed_indices+1):end]
         x[i] = 0
@@ -403,12 +403,12 @@ end
 
 function simple_write_out(
     path::String, 
-    x::Vector{Int}, 
-    t::Vector{Int},
+    x::Union{Vector{Int},SparseVector{Int64,Int64}},
+    t::Union{Vector{Int},SparseVector{Int64,Int64}},
     cids::IDs, 
     rids::IDs,
-    X::Vector{Vector{Int}}, 
-    Y::Vector{Vector{Int}})
+    X::Union{Vector{Vector{Int}},Vector{SparseVector{Int64,Int64}}},
+    Y::Union{Vector{Vector{Int}},Vector{SparseVector{Int64,Int64}}})
 
     # println("Writing out single network expansion...")
     # if !ispath(path)

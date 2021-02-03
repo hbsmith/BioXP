@@ -17,6 +17,8 @@
 # end
 
 ### This doesn't error!
+using SparseArrays
+
 @testset "minimal seed sets" begin
 
     rstructs = readmaster("data/master.json")
@@ -32,13 +34,13 @@
                tids=tids)
 
     ## Below tests just make sure that nothing errors
-    @test isa(find_minimal_seed_set(S,"results/simple_minimalseed_test.json"), Any)
+    @test isa(find_minimal_seed_set(S,write_path="results/simple_minimalseed_test.json"), Any)
     @test isa(find_minimal_seed_set(S), Any)
 
-    allowed_forward = [true,false]
-    allowed_backward = [false,true]
+    allowed_forward = sparsevec([true,false])
+    allowed_backward = sparsevec([false,true])
 
-    @test isa(find_minimal_seed_set(S, nothing, allowed_forward, allowed_backward), Any)
+    @test isa(find_minimal_seed_set(S, allowed_forward = allowed_forward, allowed_backward = allowed_backward), Any)
     
     # myrng = MersenneTwister(1234)
     # [rand(myrng,[0,1]) for i in 1:length(rids)]
@@ -69,7 +71,9 @@ end
 
         R,P = BioXP.matrixify_compounds(rstructs,cids,rids)
         @test expected_R == R
-        @test expected_P == P    
+        @test expected_P == P 
+        @test isa(R,SparseMatrixCSC)
+        @test isa(P,SparseMatrixCSC)   
 
     end
 
@@ -79,8 +83,10 @@ end
         cids = BioXP.identify_biosystem_compounds(rstructs,rids)
         expected_cid_order = ["C19848", "C06232", "C18237", "C00020", "C00001", "C00355", "C08538", "C08543"]
 
-        expected_x = [1,1,0,0,1,0,0,0]
-        @test expected_x == BioXP.matrixify_seeds(sids, cids)
+        expected_x = sparse([1,1,0,0,1,0,0,0])
+        x = BioXP.matrixify_seeds(sids, cids)
+        @test expected_x == x
+        @test isa(x, SparseVector)
 
     end
 
@@ -91,7 +97,9 @@ end
         expected_cid_order = ["C19848", "C06232", "C18237", "C00020", "C00001", "C00355", "C08538", "C08543"]
 
         expected_t = [0,0,1,1,1,0,0,0]
-        @test expected_t == BioXP.matrixify_targets(cids,tids)
+        t = BioXP.matrixify_targets(cids,tids)
+        @test expected_t == t
+        @test isa(t, SparseVector)
 
     end
 
@@ -144,7 +152,7 @@ end
 
     for fname in readdir(newformat_dir)
         rids = readids(newformat_dir*fname)
-        x, t, cids, X, Y = expand(rstructs,rids,sids,tids) ## new results
+        x, t, cids, X, Y = expand(rstructs,rids,sids,tids=tids) ## new results
         
         e = JSON.parsefile(archaea_simpleresults_P_dir*fname) ## expected results
 
