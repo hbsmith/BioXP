@@ -64,8 +64,8 @@ end
         expected_cid_order = ["C19848", "C06232", "C18237", "C00020", "C00001", "C00355", "C08538", "C08543"]
         # leftids = ["C19848","C06232"] ["C00355","C08538"]
         # rightids = ["C18237","C00020","C00001"] ["C08543","C00001"]
-        expected_R = [1 0;1 0;0 0;0 0;0 0;0 1;0 1;0 0]
-        expected_P = [0 0;0 0;1 0;1 0;1 1;0 0;0 0;0 1]
+        expected_R = sparse([1 0;1 0;0 0;0 0;0 0;0 1;0 1;0 0])
+        expected_P = sparse([0 0;0 0;1 0;1 0;1 1;0 0;0 0;0 1])
 
         R,P = BioXP.matrixify_compounds(rstructs,cids,rids)
         @test expected_R == R

@@ -7,6 +7,7 @@ include("format.jl")
 include("dg.jl")
 
 import JSON
+using SparseArrays
 # using .Structs, .Randomize, .Parser
 
 export 
@@ -52,8 +53,8 @@ function matrixify_compounds(
     rids::IDs)
 
     ## Reactons in columns, Compounds in rows. Rows, columns.
-    R = zeros(Int, (length(cids),length(rids))) ## Reactants
-    P = zeros(Int, (length(cids),length(rids))) ## Products
+    R = spzeros(Int, (length(cids),length(rids))) ## Reactants
+    P = spzeros(Int, (length(cids),length(rids))) ## Products
 
     for (i,r) in enumerate(rids)
         R[:,i] = [Int(cpd in rstructs[r].left) for cpd in cids]
