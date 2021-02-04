@@ -58,11 +58,11 @@ function matrixify_compounds(
 
     cdict = Dict([(k,v) for (v,k) in enumerate(cids)])
 
-    for (i,r) in enumerate(rids):
-        for cpd in rstructs[r]["left"]
+    for (i,r) in enumerate(rids)
+        for cpd in rstructs[r].left
             R[cdict[cpd],i] = 1
         end
-        for cpd in rstructs[r]["right"]
+        for cpd in rstructs[r].right
             P[cdict[cpd],i] = 1
         end
     end
