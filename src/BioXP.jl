@@ -56,9 +56,15 @@ function matrixify_compounds(
     R = spzeros(Int, length(cids),length(rids)) ## Reactants
     P = spzeros(Int, length(cids),length(rids)) ## Products
 
-    for (i,r) in enumerate(rids)
-        R[:,i] = [Int(cpd in rstructs[r].left) for cpd in cids]
-        P[:,i] = [Int(cpd in rstructs[r].right) for cpd in cids]
+    cdict = Dict([(k,v) for (v,k) in enumerate(cids)])
+
+    for (i,r) in enumerate(rids):
+        for cpd in rstructs[r]["left"]
+            R[cdict[cpd],i] = 1
+        end
+        for cpd in rstructs[r]["right"]
+            P[cdict[cpd],i] = 1
+        end
     end
 
     R, P
@@ -210,7 +216,7 @@ function expand(
 end
 
 """
-Return indices of seeds within the compounds vector.
+Return indices of seeds within the compounds vector. TEST
 """
 function seed_indicies(sids::IDs, cids::IDs)
     # This is a generator, not an array. You can iterate over this thing exactly once

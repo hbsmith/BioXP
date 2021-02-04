@@ -128,6 +128,8 @@ end
         X,Y = BioXP.expandmatrices(R,P,x)
         @test expected_X == X
         @test expected_Y == Y
+        @test isa(X[1],SparseVector{Int64,Int64})
+        @test isa(Y[1],SparseVector{Int64,Int64})
 
     end
 
