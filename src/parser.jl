@@ -1,4 +1,5 @@
 import JSON
+using DelimitedFiles
 
 # export readmaster, readcompounds, readids
 
@@ -96,4 +97,17 @@ function symbolizekeys(d::Dict)
         newdict[Symbol(k)] = v
     end
     return newdict
+end
+
+""" 
+    readids_from_nenetwork()
+
+Return rids (`Vector{String}`) from Josh's networkExpansionPy `network_full.csv` file.
+When applied to a string, look for a file to read in. Assumes header and RIDs in 2nd col.
+"""
+function readids_from_nenetwork(f::String)
+
+    n = readdlm(f,',',header=true)
+    readids(collect(Set(n[1][:, 2])))
+
 end
