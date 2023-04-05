@@ -398,7 +398,7 @@ function loop_and_remove_seeds(
 
         X, Y = expandmatrices(R, P, x, allowed_forward = allowed_forward, allowed_backward = allowed_backward) ## global needed to access the variables defined in-loop
 
-        (tT * X[end]) != sum_t && (x[i] = 1) ## This is a short-circuit if statement
+        (tT * X[end])[1] != sum_t && (x[i] = 1) ## This is a short-circuit if statement
         # if (tT * X[end]) != sum_t
         #     x[i] = 1
         # end
