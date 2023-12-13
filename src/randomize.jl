@@ -21,14 +21,21 @@ Always shuffles the order of the zero-mass compounds.
 function sort_biosystem_compounds(
     compound_structs::Compounds,
     biosystem_compounds::IDs,
+    tids::IDs,
     sortkey::Symbol=:exact_mass,
     zero_mass_behavior::String="end")
-
-    cpd_masses = [(i,getproperty(compound_structs[i],sortkey)) for i in biosystem_compounds if getproperty(compound_structs[i],sortkey)!=0]
-    cpd_zero_masses = [(i,getproperty(compound_structs[i],sortkey)) for i in biosystem_compounds if getproperty(compound_structs[i],sortkey)==0]
-
-    sort!(cpd_masses, by= x->x[2])
-
+    cpd_masses_target = [(i,abs(getproperty(compound_structs[i],sortkey))) for i in biosystem_compounds if i in tids] # Target compounds are moved to the top of the list. abs() was added because some target compounds were given negative mass
+    sort!(cpd_masses_target, by= x->x[2], rev=true)
+    cpd_masses = [(i,getproperty(compound_structs[i],sortkey)) for i in biosystem_compounds if !(i in tids) && getproperty(compound_structs[i],sortkey)>0] # Normal compounds
+    sort!(cpd_masses, by= x->x[2], rev=true)
+    cpd_zero_masses = [(i,getproperty(compound_structs[i],sortkey)) for i in biosystem_compounds if !(i in tids) && getproperty(compound_structs[i],sortkey)==0] # Compounds without mass information
+    cpd_neg_masses = [(i,-getproperty(compound_structs[i],sortkey)) for i in biosystem_compounds if !(i in tids) && getproperty(compound_structs[i],sortkey)<0] # Compounds given negative mass (see Handorf et al. 2008). Assign the negative of actual mass if you want to sort them with mass.
+    sort!(cpd_neg_masses, by= x->x[2], rev=true) # sort compounds with negative mass by their actual mass
+    cpd_neg_masses = [(t[1],-10.0) for t in cpd_neg_masses] # assign - 10 Da (see Handorf PhD thesis 2008)
+    # target compounds, compounds sorted by exact mass, compounds with zero mass, compounds with negative mass 
+    cpd_masses = vcat(cpd_masses_target,cpd_masses,shuffle(cpd_zero_masses),cpd_neg_masses)
+    return cpd_masses
+    """
     if zero_mass_behavior=="end"
         return vcat(cpd_masses,shuffle(cpd_zero_masses))
     
@@ -38,6 +45,7 @@ function sort_biosystem_compounds(
         end
         return cpd_masses
     end
+    """
 end
 
 """
@@ -47,13 +55,18 @@ Swap random tuples within `tuples`.
 Based on formula from Handorf et al. 2008.
 """
 function mix_it_up!(
-    tuples::Vector{<:Tuple{String,Real}},
+    tuples::Vector{<:Tuple{String,Any}},
     beta::Real,
     n_swaps::Int,
     rng::AbstractRNG=Random.default_rng()) #where {R <: Real}
 
     for _ in 1:n_swaps
-        i,j = rand(1:length(tuples),2) ## 2 random indices 
+        i,j = rand(1:length(tuples),2) ## two random indices
+        if i > j
+            i,j = j,i
+            # compound j is kept closer to the end of the list than compound i
+            # otherwise compounds i and j are more likely to be flipped (see getflipprobability function)
+        end
         if swap_random(tuples[i],tuples[j],beta,rng) == true
             tuples[i], tuples[j] = tuples[j], tuples[i] ## changes them simultaneously
         end 
@@ -129,6 +142,7 @@ Each run result is a randomized list of biosystem_compounds.
 """
 function randomizecompounds(
     biosystem_compounds::IDs,
+    tids::IDs,
     compound_structs::Compounds,
     n_runs::Int,
     n_swaps::Int=1000,
@@ -141,8 +155,8 @@ function randomizecompounds(
     ## Generate seeds and RNG objects based on rng
     rng_seeds = [rand(rng,1:typemax(Int)) for i in 1:n_runs]
     rng_list = [MersenneTwister(i) for i in rng_seeds]
-    for r in 1:n_runs
-        cpds_masses = sort_biosystem_compounds(compound_structs, biosystem_compounds, sortkey, zero_mass_behavior)
+    Threads.@threads for r in 1:n_runs
+        cpds_masses = sort_biosystem_compounds(compound_structs, biosystem_compounds, tids, sortkey, zero_mass_behavior)
         mix_it_up!(cpds_masses,beta,n_swaps,rng_list[r])
         randomized_cpd_lists[r] = [c[1] for c in cpds_masses]
     end
