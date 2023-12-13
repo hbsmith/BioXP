@@ -218,7 +218,7 @@ end
 """
 Return indices of seeds within the compounds vector. TEST
 """
-function seed_indicies(sids::IDs, cids::IDs)
+function seed_indices(sids::IDs, cids::IDs)
     # This is a generator, not an array. You can iterate over this thing exactly once
     # because it only stores the current state and what it needs to find the next state.
     [findfirst(isequal(c), cids) for c in sids]
@@ -230,7 +230,7 @@ function find_minimal_seed_set(
     write_path::Union{String,Nothing}=nothing,
     allowed_forward::Union{SparseVector{Bool,Int64},Nothing}=nothing,
     allowed_backward::Union{SparseVector{Bool,Int64},Nothing}=nothing)
-    
+
     find_minimal_seed_set(system.rstructs,
         system.rids,
         system.sids,
@@ -262,8 +262,6 @@ function find_minimal_seed_set(
 
     rids = remove_rids_not_in_rstructs(rstructs,rids)
     cids = identify_biosystem_compounds(rstructs,rids)
-    # println(cids)
-    # println(sids)
 
     (R, P) = matrixify_compounds(rstructs,cids,rids)
     t = matrixify_targets(cids,tids)
@@ -392,17 +390,17 @@ function loop_and_remove_seeds(
 
     X, Y = SparseVector{Int64,Int64}[], SparseVector{Int64,Int64}[]
     
-    for i in seed_indicies(sids, cids)[(skip_seed_indices+1):end]
+    for i in seed_indices(sids, cids)[(skip_seed_indices+1):end]
         x[i] = 0
 
         X, Y = expandmatrices(R, P, x, allowed_forward = allowed_forward, allowed_backward = allowed_backward) ## global needed to access the variables defined in-loop
 
-        (tT * X[end]) != sum_t && (x[i] = 1) ## This is a short-circuit if statement
-        # if (tT * X[end]) != sum_t
-        #     x[i] = 1
-        # end
+        #(tT * X[end])[1] != sum_t && (x[i] = 1) ## This is a short-circuit if statement
+        if (tT * X[end])[1] != sum_t
+            x[i] = 1
+        end
     end
-    
+    X, Y = expandmatrices(R, P, x, allowed_forward = allowed_forward, allowed_backward = allowed_backward)
     X, Y, x
 
 end
