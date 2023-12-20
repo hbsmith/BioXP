@@ -4,8 +4,7 @@ using Random
 
     sort_biosystem_compounds(compound_structs,
         biosystem_compounds,
-        sortkey,
-        zero_mass_behavior)
+        sortkey)
 
 Return a vector of (compound,mass) sorted by increasing mass.
 Always shuffles the order of the zero-mass compounds.
@@ -15,7 +14,6 @@ Always shuffles the order of the zero-mass compounds.
 - `compound_structs::Compounds`: compounds with metadata
 - `biosystem_compounds::IDs`: compounds to sort
 - `sortkey::Symbol=:exact_mass`: how to sort compounds. Can also sort by `:mol_weight`
-- `zero_mass_behavior::String="end"`: what to do with compounds that have no mass. Can also be `"random"`
 ...
 """
 function sort_biosystem_compounds(
