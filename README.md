@@ -1,4 +1,6 @@
 # BioXP
+[![DOI](https://zenodo.org/badge/150316914.svg)](https://zenodo.org/doi/10.5281/zenodo.13316954)
+
 Network expansion on biological seed compounds
 
 ## Getting started
@@ -66,4 +68,6 @@ Unfortunately there is none right now (I know, lame). But I hope the Julia code 
 - Add example files
 - It would be nice to move all the `ecg` generated data to an AWS bucket, and to store and access it using [quilt](https://docs.quiltdata.com/). Then I could easily pull the quilt data for the example files. 
 
-
+## Citing
+This repository is citable thanks to Zenodo: [![DOI](https://zenodo.org/badge/150316914.svg)](https://zenodo.org/doi/10.5281/zenodo.13316954)
+There is currently no accompanying paper.
